@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Halo Infinite Crashes on Xbox with DX12"
-date: 2024-06-30 11:10:32
-updated: 2024-07-01 11:23:12
+date: 2024-06-30T11:16:19.903Z
+updated: 2024-07-01T11:16:19.903Z
 tags:
   - win11
   - win10
@@ -152,3 +152,27 @@ If this fix doesn’t work, move to the next one.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-10-refresh-disturbances/"><u>Eliminating Windows 10 Refresh Disturbances</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-fault-corrected-driver-functional/"><u>Graphics Fault Corrected: Driver Functional</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-the-flickering-window-debacle/"><u>[RESOLVED] The Flickering Window Debacle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tv-displaying-no-signal-hdmi-link-issues/"><u>TV Displaying No Signal: HDMI Link Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curtailing-luminescent-lurches-on-acer-screens/"><u>Curtailing Luminescent Lurches on Acer Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-vibrant-visuals-on-twitch-channels/"><u>Uncover Vibrant Visuals on Twitch Channels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-reset-nvidia-display-now-functional/"><u>Drivers Reset: Nvidia Display Now Functional</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-end-of-visual-shimmy-in-win11/"><u>The End of Visual Shimmy in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/normalizing-screen-extensions-in-windows-10-systems/"><u>Normalizing Screen Extensions in Windows 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-crashes-in-civ-5-pc/"><u>Eliminating Crashes in Civ 5-PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-using-telegram-online/"><u>In 2024, Mastering the Art of Using Telegram Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-professional-edge-mastering-bordered-videos-on-insta/"><u>In 2024, Professional Edge  Mastering Bordered Videos on Insta</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-v30-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo V30 Lite 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-night-shots-pro-tips-for-iphone-enthusiasts/"><u>In 2024, Night Shots Pro Tips for iPhone Enthusiasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-realme-c67-4g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Realme C67 4G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://win11.techidaily.com/1719258150800-win-rpc-problems-here-are-5-fixes-you-need/"><u>Win RPC Problems? Here Are 5 Fixes You Need</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lava-yuva-3-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lava Yuva 3 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/blurring-the-focus-bokeh-wonders-in-stories/"><u>Blurring the Focus  Bokeh Wonders in Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-ios-steps-for-acquiring-itunes-subscriptions/"><u>[Updated] Mastering iOS  Steps for Acquiring iTunes Subscriptions</u></a></li>
+</ul></div>
