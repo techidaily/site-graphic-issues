@@ -1,7 +1,7 @@
 ---
 title: "Halted Game Startup: DX12 Error with Halo Infinite"
-date: 2024-06-30T11:22:13.148Z
-updated: 2024-07-01T11:22:13.148Z
+date: 2024-07-07T12:40:39.175Z
+updated: 2024-07-08T12:40:39.175Z
 tags:
   - win11
   - win10
@@ -167,7 +167,7 @@ If this fix doesn’t work, move to the next one.
 <li><a href="https://graphic-issues.techidaily.com/resolved-the-flickering-windows-11-enigma/"><u>[RESOLVED] The Flickering Windows 11 Enigma</u></a></li>
 <li><a href="https://discord-videos.techidaily.com/in-2024-how-to-speak-clearly-on-discord-via-tts/"><u>In 2024, How to Speak Clearly on Discord via TTS</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-navigating-through-music-tech-top-7-daws-for-fostering-exceptional-guitar-recordings-updated/"><u>In 2024, Navigating Through Music Tech Top 7 DAWs for Fostering Exceptional Guitar Recordings (Updated )</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-navigating-through-music-tech-top-7-daws-for-fostering-exceptional-guitar-recordings-updated/"><u>In 2024, Navigating Through Music Tech Top 7 DAWs for Fostering Exceptional Guitar Recordings (Updated)</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s17-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S17 to PC? | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-watermark-free-video-editing-software-the-top-14-free-options/"><u>New Watermark-Free Video Editing Software The Top 14 Free Options</u></a></li>
 <li><a href="https://youtube-video-recordings.techidaily.com/new-beyond-tube-the-premier-spots-for-online-video-sharing/"><u>[New] Beyond Tube  The Premier Spots for Online Video Sharing</u></a></li>
