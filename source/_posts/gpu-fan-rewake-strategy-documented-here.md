@@ -1,7 +1,7 @@
 ---
 title: GPU Fan Rewake Strategy Documented Here
-date: 2024-07-11T16:54:32.055Z
-updated: 2024-07-12T16:54:32.055Z
+date: 2024-07-29T02:52:22.960Z
+updated: 2024-07-30T02:52:22.960Z
 tags:
   - win11
   - win10
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  Before you start, first check if your GPU has a**thermal control** (e.g. Fan Stop by GIGABYTE) that allows fans to spin only at certain temperatures.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Is it normal?
 
  Well, it depends.**GPU fans don’t always spin** . Some only spin at specific temperatures, especially when you’re talking about high end GPUs that come with a thermal control gimmick.
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
@@ -61,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  More often than not, you’re actually dealing with a driver issue. The fans not spinning issue could mean that you’re using**a broken or outdated graphics driver** . To rule out this possibility, always make sure you’re using the latest correct computer drivers.
@@ -69,9 +79,15 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -86,12 +102,26 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 1. [**Download**](https://www.msi.com/page/Afterburner) and install MSI Afterburner.
 2. Open MSI Afterburner. At the bottom right corner, click the A icon to toggle auto control.  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Scan and repair your system
 
  If the graphics card works perfectly on another PC, chances are it’s a system issue, or your PSU isn’t powerful enough. If you’re sure that you have more than enough power, run a scan of your system and check if there’re files missing or corrupted.
@@ -110,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
@@ -138,3 +171,46 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-5-frosty-yet-inviting-backdrops-for-your-vids/"><u>[New] 5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] Illuminated Imagery  Standing Out in the Visual Field</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-maximizing-auditory-experience-on-windows-10/"><u>[New] Maximizing Auditory Experience on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nine-pinnacle-filmora-features-videographers-adore/"><u>[New] Nine Pinnacle Filmora Features Videographers Adore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-real-time-speech-processing-and-action-at-no-charge/"><u>[New] Real-Time Speech Processing & Action at No Charge</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-master-iphone-screen-recording-in-minutes/"><u>[Updated] Master iPhone Screen Recording in Minutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-crown-award-winning-computers/"><u>2024 Approved  Innovation's Crown  Award-Winning Computers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-master-audio-on-chrome-selecting-the-best-web-based-speech-modifiers/"><u>2024 Approved  Master Audio on Chrome  Selecting the Best Web-Based Speech Modifiers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensible-guide-to-mastering-pixelated-photography-for-2024/"><u>A Comprehensible Guide to Mastering Pixelated Photography for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calm-windows-11-screenscape/"><u>Calm Windows 11 Screenscape</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/control-excessive-win-10-display-size/"><u>Control Excessive WIN 10 Display Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispelled-the-shadow-direct-x-mystery-in-league-solved/"><u>Dispelled the Shadow: Direct X Mystery in League Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-collaboration/"><u>Enhanced Collaboration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-glare-methods-to-stop-monitor-flashing/"><u>Eradicating Glare: Methods to Stop Monitor Flashing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tuning-soundtracks-with-garageband-expertise-for-2024/"><u>Fine-Tuning Soundtracks with GarageBand Expertise for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gaming-revolution-amd-radeon-hd-6950-drivers-enhanced-on-w11/"><u>Gaming Revolution - AMD Radeon HD 6950 Drivers Enhanced on W11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glitch-gone-preferences-permanently-preserved/"><u>Glitch Gone, Preferences Permanently Preserved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-disabled-on-win1011-laptops-a-guide/"><u>GPU Disabled on Win10/11 Laptops: A Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-fan-revival-a-quick-fix-guide/"><u>GPU Fan Revival: A Quick Fix Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-audio-experts-choice-best-6-microphone-picks-for-online-broadcasting/"><u>In 2024, Audio Experts' Choice  Best 6 Microphone Picks for Online Broadcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-breaking-into-solos-creating-popular-podcasts/"><u>In 2024, Breaking Into Solos  Creating Popular Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-reference-for-navigating-telegram-web-applications/"><u>In 2024, Complete Reference for Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-power-for-gopro-hero5-official-sources-and-alternatives/"><u>In 2024, Exceptional Power for GoPro Hero5  Official Sources & Alternatives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-xr21-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia XR21 FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-capabilities-fully-engaged/"><u>Laptop's Graphics Capabilities Fully Engaged</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-display-troubles-seeing-beyond-the-black/"><u>Lenovo Display Troubles: Seeing Beyond the Black</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-pixel-misalignment-issues/"><u>Mend Pixel Misalignment Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-reinstating-nvidia-installation/"><u>Mended: Reinstating NVIDIA Installation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-search-for-master-video-artists/"><u>Navigating the Search for Master Video Artists</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-troubleshooting-guide/"><u>NVIDIA RTX Troubleshooting Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-windows-10-amd-driver-load-error/"><u>Overcome Windows 10 AMD Driver Load Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quantum-leap-on-your-acer-screen/"><u>Quelling Quantum Leap on Your Acer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-window-size-on-win-10-pc/"><u>Reduce Window Size on WIN 10 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenating-stable-display-sync-on-compromised-amd-gpus/"><u>Rejuvenating Stable Display Sync on Compromised AMD GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-mysterious-c1900101-during-windows-setup/"><u>Solving the Mysterious C1900101 During Windows Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/squash-nvidia-driver-disruption/"><u>Squash Nvidia Driver Disruption</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-minecraft-archivists-guide-6-core-methods-for-capture-for-2024/"><u>The Minecraft Archivist's Guide  6 Core Methods for Capture for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-activate-gpu-for-laptops-running-win1011/"><u>Tips to Activate GPU for Laptops Running Win10/11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-your-channels-premium-cost-free-intro-makers-for-2024/"><u>Unleash Your Channels  Premium, Cost-Free Intro Makers for 2024</u></a></li>
+</ul></div>
