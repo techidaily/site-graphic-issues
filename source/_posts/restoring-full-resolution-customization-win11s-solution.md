@@ -1,7 +1,7 @@
 ---
 title: "Restoring Full-Resolution Customization: Win11's Solution"
-date: 2024-07-11T17:58:05.155Z
-updated: 2024-07-12T17:58:05.155Z
+date: 2024-08-15T07:19:18.132Z
+updated: 2024-08-16T07:19:18.132Z
 tags:
   - win11
   - win10
@@ -39,12 +39,18 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -61,6 +70,9 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R**  at the same time, type **devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
@@ -95,10 +107,16 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -131,3 +149,46 @@ Here is how to do it:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics-for-2024/"><u>[New] Decoding Digital Dollars  An Effective Way to Understand YouTube Revenue Dynamics for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-binge-worthy-content-crafting-episodes-that-viewers-love/"><u>[New] In 2024, Binge-Worthy Content  Crafting Episodes That Viewers Love</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[New] In 2024, Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-photographers-guide-to-online-image-editing-and-cropping-for-2024/"><u>[New] The Photographer's Guide to Online Image Editing and Cropping for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-distinctive-digital-monikers-for-video-creators/"><u>[Updated] 2024 Approved  Distinctive Digital Monikers for Video Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>[Updated] 2024 Approved  Rhythm Revelations  Mastering Music for Visual Storytelling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-classic-rogelikes-vs-roguelites-dynamics/"><u>[Updated] Classic Rogelikes Vs. Roguelites' Dynamics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-revitalize-your-tiktok-videos-masterful-techniques-to-alter-backdrops/"><u>2024 Approved  Revitalize Your TikTok Videos  Masterful Techniques to Alter Backdrops</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE/iPad | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-anthem-for-seamless-gaming/"><u>Accelerate Anthem for Seamless Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-detection-loader-fixed-and-working-post-update/"><u>AMD: Detection Loader Fixed and Working Post-Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-gamers-rejoice-heres-kinemaster-unleashed-for-2024/"><u>Android Gamers Rejoice! Here's KineMaster Unleashed for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blink-blank-how-to-stop-it/"><u>Blink Blank: How to Stop It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-sight-no-glare-stop-your-monitors-flicker/"><u>Clear Sight, No Glare: Stop Your Monitor's Flicker</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://fox-info.techidaily.com/crafting-captivating-images-using-leading-lines-iphone/"><u>Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/darkened-monitor-post-update/"><u>Darkened Monitor Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discovering-hdmi-errors-between-computer-and-screen/"><u>Discovering HDMI Errors Between Computer & Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-fault-prevents-halo-infinite-from-launching/"><u>DX12 Fault Prevents Halo Infinite From Launching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevated-window-11-display-controls-unveiled/"><u>Elevated Window 11 Display Controls Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-dark-mode-woes-in-win11-after-fall-upgrade/"><u>End Dark Mode Woes in Win11 After Fall Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/failed-to-initialize-direct3d-fixed/"><u>Failed to Initialize Direct3D [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmony-achieved-nvidia-7025-in-windows-10/"><u>Harmony Achieved: Nvidia 7025 in Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-70-lite-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 70 Lite 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-lcd-not-lighting-up-fixes-included/"><u>Laptop LCD Not Lighting Up: Fixes Included</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-video-production-best-lenses-for-online-platforms/"><u>Master Video Production  Best Lenses for Online Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dimming-on-lenovo-laptop-displays/"><u>Overcoming Dimming on Lenovo Laptop Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-now-works-on-all-latest-gpus/"><u>Overwatch Now Works on All Latest GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-rtx-3080-glitches-in-games/"><u>Resolving RTX 3080 Glitches in Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-clear-imagery-for-twitch-streamers/"><u>Reveal Clear Imagery for Twitch Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-radeon-ray-tracing-glitch/"><u>Revived Radeon Ray Tracing Glitch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-the-fakes-how-to-find-legitimate-chatgpt-apps-among-knock-offs-in-the-apple-ecosystem/"><u>Spotting the Fakes: How to Find Legitimate ChatGPT Apps Among Knock-Offs in the Apple Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truthcoin-seeking-honesty-or-hype/"><u>TruthCoin: Seeking Honesty or Hype?</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-xs-max-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone XS Max by restoring it to default settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-the-secrets-of-ultra-hd-the-power-of-4k/"><u>Unlocking the Secrets of Ultra HD: The Power of 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-users-say-goodbye-to-dual-gpu-hurdles-by-nvidiaintel/"><u>Win10 Users: Say Goodbye to Dual GPU Hurdles by Nvidia/Intel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-fix-normal-view-now/"><u>Windows 10 Screen Fix: Normal View Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/x-racing-olympics-the-top-sections-of-22/"><u>X-Racing Olympics  The Top Sections of '22</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Screen Fix: Mouse on Windows 11"
-date: 2024-07-11T17:57:04.294Z
-updated: 2024-07-12T17:57:04.294Z
+date: 2024-08-15T07:20:15.986Z
+updated: 2024-08-16T07:20:15.986Z
 tags:
   - win11
   - win10
@@ -70,9 +70,15 @@ If you’re on a laptop:
  e.g. Here’s a screenshot of the Intel HD Graphics 4400\. Your results will show your graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -82,6 +88,9 @@ If you’re on a laptop:
  2) Press Control Panel in the search box at the bottom corner of the desktop, and click**Control Panel** in the pop-up menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
   
  2) View by “Small icons” and click**Power Options** .  
 
@@ -90,6 +99,10 @@ If you’re on a laptop:
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
   
  4) Click**Change settings that are currently unavailable** .
 
@@ -98,9 +111,15 @@ If you’re on a laptop:
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -147,14 +166,23 @@ If you’re on a laptop:
  2) Type “settings” in the search box and select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -187,10 +215,16 @@ If you’re on a laptop:
  2) Type **settings**  in the search box at the bottom left corner of the desktop, then click **Settings**  in the menu that displays.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
   
  4) Click **Recovery** .  
 
@@ -199,6 +233,9 @@ If you’re on a laptop:
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -222,3 +259,58 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fix-halo-ones-dx12-failure-at-launching/"><u>[FIX] Halo One's DX12 Failure at Launching</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-essential-how-to-guide-for-filming-anywhere-anytime/"><u>[New] 2024 Approved  The Essential How-To Guide for Filming Anywhere, Anytime</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-tos-for-immersive-nba-livestream-watching-for-2024/"><u>[New] How-To's for Immersive NBA Livestream Watching for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-smart-choice-essential-steps-in-upgrading-your-tech/"><u>[New] The Smart Choice  Essential Steps in Upgrading Your Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] 2024 Approved  How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-selecting-the-top-8-linux-screenshots-tools/"><u>[Updated] Selecting the Top 8 Linux Screenshots Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-advertising-in-the-metaverse/"><u>[Updated] The Future of Advertising in the Metaverse</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-part-ways-with-discord-platform/"><u>2024 Approved  Part Ways with Discord Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/activate-funimate-pro-with-a-simple-apk-click-for-2024/"><u>Activate Funimate Pro with a Simple APK Click for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-optimal-screen-usage-in-windows-10/"><u>Adjusting Aspect Ratios for Optimal Screen Usage in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-adapter-not-installed-on-older-windows-versions/"><u>AMD Graphics Adapter Not Installed on Older Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-performance-and-graphics-amds-hd-6950-for-windows-10/"><u>Boost Performance & Graphics: AMD's HD 6950 for Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-trustworthy-ai-companer-for-emotional-health-coaching/"><u>ChatGPT as a Trustworthy AI Companer for Emotional Health Coaching</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-use-ceiling-for-facebooks-neighborhood-users/"><u>Decoding the Use Ceiling for Facebook's Neighborhood Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discard-bad-drivers-to-prevent-game-breakdown/"><u>Discard Bad Drivers to Prevent Game Breakdown</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-delays-how-to-address-frame-rate-issues-in-forza-horizon-5/"><u>Eliminating Delays: How to Address Frame Rate Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-specs-for-optimal-intell-driver-use/"><u>Enhancing PC Specs for Optimal Intell Driver Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-volta-driver/"><u>Finding the Hidden Volta Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-intel-hd-graphics-driver-in-windows-10-and-11/"><u>How to Update Your Intel HD Graphics Driver in Windows 10 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-best-face-editing-app-for-android-and-iphone/"><u>In 2024, 10 Best Face Editing App for Android and iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-x-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone X with iTunes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy F34 5G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-15-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 Without Passcode Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/initialization-of-visual-framework-stalled/"><u>Initialization of Visual Framework Stalled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/macs-best-picks-elite-4k-monitor-showdown-for-2024/"><u>Mac's Best Picks  Elite 4K Monitor Showdown for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-green-screen-blunders-in-video-production/"><u>Mastering Green Screen Blunders in Video Production</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-llama-er-2-functionality-explained-with-practical-advice/"><u>Mastering Llama Er 2: Functionality Explained with Practical Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-screen-recovery-for-asus-laptops/"><u>Mastering Screen Recovery for Asus Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-clarity-the-world-of-4k/"><u>Mastering the Art of Clarity: The World of 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quenching-flickery-lights-on-acer-computers/"><u>Quenching Flickery Lights on Acer Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-brightness-to-twitch-video-playback/"><u>Restoring Brightness to Twitch Video Playback</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revolutionize-pc-display-updated-nvidia-geforce-210-for-windows-1e/"><u>Revolutionize PC Display: Updated Nvidia GeForce 210 for Windows 1E</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/save-windows-710-display-settings-flawlessly-heres-how-solved/"><u>Save Windows 7/10 Display Settings Flawlessly - Here's How [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadowy-monitor-new-driver-installed/"><u>Shadowy Monitor, New Driver Installed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-steps-to-elevate-win11-with-intel-gfx/"><u>Simple Steps to Elevate Win11 with Intel GFX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-fixing-the-initialization-failure-of-vanguard-on-valorant/"><u>Solution Steps: Fixing the 'Initialization Failure of Vanguard' On Valorant</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tale-weavers-hub-hall-of-fame-picks-for-2024/"><u>Tale Weavers Hub - Hall of Fame Picks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-fix-guide-to-youtubes-green-screen-woes/"><u>The Ultimate Fix Guide to YouTube's Green Screen Woes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-unseen-loss-rapid-video-expulsion/"><u>The Unseen Loss  Rapid Video Expulsion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-ios-emulators-reviving-classic-psp-game-experiences-2023-guide/"><u>Top iOS Emulators Reviving Classic PSP Game Experiences - 2023 Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-down-amd-graphics-problems-tarkov/"><u>Trim Down AMD Graphics Problems - Tarkov</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-quiet-displays/"><u>Unveiling Secrets to Quiet Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-issue-missing-advanced-controls/"><u>Windows 10 Display Issue: Missing Advanced Controls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-struggle-screen-edge-adjustment-on-computers/"><u>Zero Struggle! Screen Edge Adjustment on Computers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Laptop to TV Connection Repair via HDMI
-date: 2024-07-11T17:55:41.852Z
-updated: 2024-07-12T17:55:41.852Z
+date: 2024-08-15T07:20:53.634Z
+updated: 2024-08-16T07:20:53.634Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -43,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
 Now check and see if your laptop to TV by HDMI works.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -56,9 +67,15 @@ The difference between each mode is as follows:
 * **Extend** — Using both monitors to display an extended desktop.
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver in your laptop can stop HDMI from your laptop to TV from working, especially your graphics card driver and USB driver. To rule it out as the cause for your problem, you should update your device drivers to the latest version.
@@ -76,9 +93,15 @@ The difference between each mode is as follows:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Restart your computer to take effect.
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
@@ -106,3 +129,39 @@ The difference between each mode is as follows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-clicker-article-titles-maker/"><u>[New] 2024 Approved  Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-windows-11-media-with-movie-maker-tools/"><u>[New] Mastering Windows 11 Media with Movie Maker Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effective-strategies-for-google-voice-call-saves/"><u>[Updated] 2024 Approved  Effective Strategies for Google Voice Call Saves</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-broadcasting-strategies-for-vimeo-films/"><u>[Updated] Broadcasting Strategies for Vimeo Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>[Updated] Laugh Out Loud  Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-discover-the-magic-of-jujutsu-kaisen-with-tiktok-videos/"><u>2024 Approved  Discover the Magic of Jujutsu Kaisen with TikTok Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-iphone-close-up-techniques-for-photo-excellence/"><u>2024 Approved  Innovative iPhone Close-Up Techniques for Photo Excellence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activate-disabled-graphics-on-laptops-running-windows-1011/"><u>Activate Disabled Graphics on Laptops Running Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flaring-on-windows-11-monitor/"><u>Banish Flaring on Windows 11 Monitor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/building-an-online-empire-through-effective-marketing/"><u>Building an Online Empire Through Effective Marketing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/connectivity-comeback-rapidly-restore-display-signal/"><u>Connectivity Comeback: Rapidly Restore Display Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-msdn-window-system-hiccups/"><u>Correcting MSDN Window System Hiccups</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-no-more-problematic/"><u>Direct3D Initialization No More Problematic</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-background-haze-on-your-youtube-greenscreen/"><u>Eliminating Background Haze on Your YouTube Greenscreen</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-msda80dll-file-to-preserve-or-delete/"><u>Exploring MSDA80.DLL File: To Preserve or Delete?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-chip-restarts-after-failure/"><u>Graphics Chip Restarts After Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-calmed-flickers-no-longer-an-issue/"><u>Laptop Display Calmed: Flickers No Longer an Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-window-11-glitchy-screens/"><u>Mend: Window 11 Glitchy Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-resolution-zero-signal-on-dp-ports/"><u>Quick Resolution: Zero Signal on DP Ports</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sight-savers-guide-to-eliminating-display-flicker/"><u>Sight Saver's Guide to Eliminating Display Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stretching-issues-cleared-for-win11-screens/"><u>Stretching Issues Cleared for Win11 Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722077791787-tackling-ransomware-for-under-50-with-smartphone-tricks-a-sneak-peek-at-how-chatgpt-enhances-our-podcasts/"><u>Tackling Ransomware for Under $50 with Smartphone Tricks - A Sneak Peek at How ChatGPT Enhances Our Podcasts!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-comprehensive-23-twee-tide-digest/"><u>The Comprehensive '23 Twee-Tide Digest</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tiltingscreensolution-steps/"><u>TiltingScreenSolution Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unraveling-why-your-facebooks-newsfeed-fails-to-suggest-movies/"><u>Unraveling Why Your Facebook's Newsfeed Fails to Suggest Movies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-through-apex-with-confidence/"><u>Zoom Through Apex with Confidence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-video-clarity-a-step-by-step-2024-camera-repair-guide/"><u>Zoom Video Clarity - A Step-by-Step 2024 Camera Repair Guide</u></a></li>
+</ul></div>

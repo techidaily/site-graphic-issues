@@ -1,7 +1,7 @@
 ---
 title: Improve Anthem Loading Times
-date: 2024-07-11T17:52:35.937Z
-updated: 2024-07-12T17:52:35.937Z
+date: 2024-08-15T07:23:48.134Z
+updated: 2024-08-16T07:23:48.134Z
 tags:
   - win11
   - win10
@@ -40,6 +40,9 @@ Here’s how to do it:
  In**Vertical Sync** , select**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
 
@@ -50,6 +53,9 @@ Here’s how to do it:
  In**Chromatic Aberration** , select**Off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
@@ -71,6 +77,9 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Adjust your PC settings
 
  You can also tweak your system settings to make the best of your PC. Here’re the instructions on how to**limit the number of startup apps** ,**disable CPU Parking** ,**update your graphics driver:**
@@ -100,6 +109,10 @@ So you can follow the steps below to disable CPU core parking:
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
@@ -108,6 +121,9 @@ So you can follow the steps below to disable CPU core parking:
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -126,10 +142,16 @@ So you can follow the steps below to disable CPU core parking:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -166,14 +188,24 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
@@ -207,3 +239,56 @@ So you can follow the steps below to disable CPU core parking:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[New] 2024 Approved  Capturing the Thrill  Pro Gamer's Guide to Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-step-by-step-approach-to-mastering-free-youtube-video-transcription-for-2024/"><u>[New] A Step-by-Step Approach to Mastering Free YouTube Video Transcription for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-maximizing-engagement-with-strategic-editing-on-instagram-videos/"><u>[New] In 2024, Maximizing Engagement with Strategic Editing on Instagram Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-impact-when-to-start-your-podcast/"><u>[New] Maximizing Impact  When to Start Your Podcast</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-pro-level-insights-transforming-your-instagram-feed-for-2024/"><u>[New] Pro-Level Insights  Transforming Your Instagram Feed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[New] The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tips-to-counteract-obs-fullscreen-woes-for-2024/"><u>[New] Tips to Counteract OBS Fullscreen Woes for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-pro-tips-for-efficient-message-reactions-on-discord/"><u>[Updated] 2024 Approved  Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-analytics-tools-for-an-improved-tracking-of-your-instagram-metrics-for-2024/"><u>[Updated] Analytics Tools For an Improved Tracking of Your Instagram Metrics for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-successful-windows-10-driver-fix-for-r9-users/"><u>AMD's Successful Windows 10 Driver Fix for R9 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-online-presence-using-advanced-cookiebot-tracking-solutions/"><u>Boost Your Online Presence Using Advanced Cookiebot Tracking Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breathe-life-into-your-dark-asus-device/"><u>Breathe Life Into Your Dark Asus Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-unclear-font-in-fc6-gameplay/"><u>Correcting Unclear Font in FC6 Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-solutions-for-non-dispoured-gpus/"><u>Direct Solutions for Non-Dispoured GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-x-anomaly-eliminated-from-league-gameplay/"><u>Direct X Anomaly Eliminated From League Gameplay</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-s17-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo S17 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-data-management-with-stellar-file-eraser-5-easy-windows-integration-and-scheduler-options/"><u>Efficient Data Management with Stellar File Eraser 5 - Easy Windows Integration and Scheduler Options</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-horizontal-line-issues-fast/"><u>Eliminate Ghost Horizontal Line Issues Fast</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-frozen-windows-monitor-issue/"><u>Fixing the Frozen Windows Monitor Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-malfunction-averted-system-stable-now/"><u>Graphics Malfunction Averted; System Stable Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-poco-x6-pro-easily-by-drfone-android/"><u>How To Unlock a Poco X6 Pro Easily?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817447906-no-more-crashes-apexs-new-era-begins/"><u>No More Crashes: Apex's New Era Begins!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-xtreme-not-found-in-device-manager/"><u>Nvidia's XTREME Not Found in Device Manager</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amd-load-failure-on-windows-10/"><u>Overcoming AMD Load Failure on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hurdles-for-smooth-graphics-on-win10nvidia/"><u>Overcoming Hurdles for Smooth Graphics on Win10/Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-obstacle-fixing-c1900101-error-during-setup/"><u>Overcoming Obstacle: Fixing C1900101 Error During Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-save-game-corruptions-in-civ-5/"><u>Removing Save Game Corruptions in CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-amd-vulkan-problem/"><u>Resolved AMD Vulkan Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-direct3d-issues-for-flawless-graphics-experience/"><u>Resolved Direct3D Issues for Flawless Graphics Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-non-gpu-usage-issue-in-windows-1011-pcs/"><u>Resolving Non-GPU Usage Issue in Windows 10/11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revealing-windows-10-screen-extras-unlocked/"><u>Revealing Windows 10 Screen Extras Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversescreensight-tips/"><u>ReverseScreensight Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-mode-realignment-in-windows-10/"><u>Screen Mode Realignment in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screenscape-for-win11-users/"><u>Smooth Screenscape for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-computer-dismisses-affected-video-card/"><u>Solving: Computer Dismisses Affected Video Card</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-resolving-itunes-recognition-problems-for-your-iphone-in-windows-11/"><u>Step-by-Step Fix: Resolving iTunes Recognition Problems for Your iPhone in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-gpu-errors-in-minecraft-on-pc/"><u>Stop GPU Errors in Minecraft on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-flash-in-win7-instantly/"><u>Stop Screen Flash in Win7 Instantly</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-laptop-gpu-confirmation-successful/"><u>Win11 Laptop GPU Confirmation Successful</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-image-rotation-adjustment-method/"><u>Win7 Image Rotation Adjustment Method</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-glitch-resolved/"><u>Windows 10 Display Glitch - Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-flip-screen-fix/"><u>Windows 7 Flip Screen Fix</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-secret-to-flawless-video-spin-guide-and-tips-for-2024/"><u>YouTube's Secret to Flawless Video Spin (Guide & Tips) for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: OpenGL Glitch Spotted - Nvidia GPU Fixed Up!
-date: 2024-07-11T17:57:51.871Z
-updated: 2024-07-12T17:57:51.871Z
+date: 2024-08-15T07:19:05.313Z
+updated: 2024-08-16T07:19:05.313Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -56,6 +62,9 @@ Here’s how you can do it:
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
@@ -74,6 +83,9 @@ See how to do it:
 3) Type**regedit.exe** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
@@ -88,11 +100,17 @@ See how to do it:
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
@@ -127,3 +145,47 @@ See how to do it:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-learn-the-mechanics-behind-self-playing-videos-in-fb/"><u>[New] In 2024, Learn the Mechanics Behind Self-Playing Videos in Fb</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-your-step-by-step-guide-to-successful-lol-streaming/"><u>[New] In 2024, Your Step-by-Step Guide to Successful LOL Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-avoid-social-stress-how-to-unfollow-people-for-2024/"><u>[Updated] Avoid Social Stress  How to Unfollow People for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-gaming-videography-101-the-ultimate-guide-to-recording-for-2024/"><u>[Updated] Gaming Videography 101  The Ultimate Guide to Recording for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-setting-up-your-tiktok-broadcast-on-a-desktop/"><u>[Updated] In 2024, Setting Up Your TikTok Broadcast on a Desktop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[Updated] In 2024, Unlock Your Screen  Android's Premier Free Recorder Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-the-secrets-to-effective-instagram-scheduling-for-2024/"><u>[Updated] Unlocking the Secrets to Effective Instagram Scheduling for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-vga-display-faults-pc/"><u>Address VGA Display Faults (PC)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ceasing-operation-solutions-for-laptop-screens-not-working/"><u>Ceasing Operation: Solutions for Laptop Screens Not Working</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems-for-2024/"><u>Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-window-panel-size-in-win-10/"><u>Decrease Window Panel Size in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-trouble-full-screen-windows-not-shown-in-win11/"><u>Display Trouble: Full Screen Windows Not Shown in Win11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-earning-potential-revenue-from-youtube-advertisements-for-2024/"><u>Exploring Earning Potential  Revenue From YouTube Advertisements for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-gfx-on-windows-os-user-interface-up-and-running/"><u>Fixed GFX on Windows OS - User Interface Up & Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-saving-hiccup-for-display-configurations/"><u>Fixed Saving Hiccup for Display Configurations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-video-issues-post-update/"><u>Fixing Windows 10 Video Issues Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixit-enhance-fallout-4s-pc-performance/"><u>Fixit: Enhance Fallout 4'S PC Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flight-cam-combat-dji-spark-vs-gopro-fury-for-2024/"><u>Flight Cam Combat  DJI Spark VS GoPro Fury for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fresh-nvidia-gpu-software-installation/"><u>Fresh Nvidia GPU Software Installation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-toshiba-copier-software-installed-on-any-windows-machine-today/"><u>Get Your Toshiba Copier Software Installed on Any Windows Machine Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-device-not-found/"><u>Graphics Failure: Device Not Found</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-seo-excellence/"><u>Harness the Power of Cookiebot for SEO Excellence</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-jpg-document-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Create a Digital Signature Online for JPG document</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-x100-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo X100 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 Lite 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x/"><u>In 2024, The Ultimate Tutorial  Creating Instagram-Ready Videos with Final Cut Pro X</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-rapid-flash-problems-in-acer-devices/"><u>Rectifying Rapid-Flash Problems in Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resizing-large-screen-size-in-win11/"><u>Resizing Large Screen Size in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-correct-win10-screen-size/"><u>Restoring Correct Win10 Screen Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-displayport-with-minimal-hassle/"><u>Reviving DisplayPort with Minimal Hassle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rousing-a-silent-gpus-spinning-heart/"><u>Rousing a Silent GPU's Spinning Heart</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-windows-driver-update-intel-3000-edition/"><u>Simplify Windows Driver Update: Intel 3000 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-tactics-for-overcoming-the-c1900101-error/"><u>Success Tactics for Overcoming the C1900101 Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-enigmatic-dx-error-explained-lol-armistice/"><u>The Enigmatic DX Error Explained - LoL Armistice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-latency-for-pristine-streams/"><u>Trim Latency for Pristine Streams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-flawless-image-quality/"><u>Windows 11: Flawless Image Quality</u></a></li>
+</ul></div>

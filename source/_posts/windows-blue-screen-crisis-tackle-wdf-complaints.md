@@ -1,7 +1,7 @@
 ---
 title: "Windows Blue Screen Crisis: Tackle WDF Complaints"
-date: 2024-07-11T17:59:20.955Z
-updated: 2024-07-12T17:59:20.955Z
+date: 2024-08-15T07:18:32.919Z
+updated: 2024-08-16T07:18:32.919Z
 tags:
   - win11
   - win10
@@ -69,6 +69,9 @@ When prompted to provide administrator permission, click **Yes** .
  2) Type**verifier** in the command prompt window. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910349670aa3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Choose**Create standard settings** and then click**Next** to continue.
 
@@ -77,9 +80,15 @@ When prompted to provide administrator permission, click **Yes** .
  4) Choose**Automatically select all drivers installed on this computer** . Then click the**Finish** button to start the verification.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59103553b4fa3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 
  When the detect process finishes, just follow the instructions to get rid of the WDF\_VIOLATION blue screen error fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 3: Run a Windows repair
 
  The WDF\_Violation blue screen error could be caused by missing, corrupt or damaged system files on your computer. To see if this is the case, you should run a Windows repair.
@@ -100,6 +109,9 @@ Here’s how to use Fortect to run a Windows repair:
  2) Open Fortect and run a scan on your PC. The process might take a couple of minutes.  
  3) Once the scan finishes, you will get a summary of the issues found on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -116,8 +128,14 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
 
 ---
@@ -142,3 +160,58 @@ Here’s how to use Fortect to run a Windows repair:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-leverage-social-blades-platform-for-in-depth-video-analytics/"><u>[New] 2024 Approved  Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-monetizing-vlogs-a-step-by-step-blueprint/"><u>[New] 2024 Approved  Monetizing Vlogs  A Step-by-Step Blueprint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[New] 2024 Approved  Sharing Sites  Guide for Instagram Story and Post Links</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-free-cam-stream-and-recorder-tool/"><u>[New] Leading Free Cam Stream & Recorder Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>[New] Twitter's Videography Policy  Including Aspect Ratios Is Crucial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stabilizing-your-display-on-windows-11/"><u>[SOLVED]: Stabilizing Your Display on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-behind-the-scenes-with-viral-image-memes-and-stories/"><u>[Updated] 2024 Approved  Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>[Updated] 2024 Approved  Crafting Captivating Captions  A Triad of Tips for Insta Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gently-lower-sound-amplitude-tutorial/"><u>2024 Approved  Gently Lower Sound Amplitude Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>2024 Approved  Harmonizing Hue and Shade  The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-steps-to-proficient-gif-design/"><u>2024 Approved  Quick Steps to Proficient GIF Design</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-profiting-from-youtube-shorts-and-earning-potential/"><u>2024 Approved  The Ultimate Guide to Profiting From Youtube Shorts & Earning Potential</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-flawless-viewing-with-simple-line-adjustments/"><u>Achieve Flawless Viewing with Simple Line Adjustments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-peak-performance-nvidias-latest-1060-driver-update/"><u>Achieve Peak Performance: Nvidia's Latest 1060 Driver Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-hd-screen-capture-gadgets-for-2024/"><u>Advanced HD Screen Capture Gadgets for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-load-faster-now/"><u>Anthem Load Faster Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-glitches-a-guide-to-smoother-gameplay-in-the-ascent/"><u>Boost Your Frame Rate & Eliminate Glitches: A Guide to Smoother Gameplay in 'The Ascent'</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-s17t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo S17t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-spotted-after-win11-blackout/"><u>Cursor Spotted After Win11 Blackout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818099251-fixed-the-flashing-problems-for-good/"><u>Fixed the Flashing Problems for Good!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-performance-flaws-for-software-installation-needs/"><u>Fixing Performance Flaws for Software Installation Needs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flip-monitor-angle-fix-for-windows-7/"><u>Flip Monitor Angle: Fix for Windows 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/google-home-devices-showdown-audio-power-of-nest-vs-mini-models/"><u>Google Home Devices Showdown: Audio Power of Nest Vs. Mini Models</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guidelines-to-enable-amd-freesync/"><u>Guidelines to Enable AMD FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hardware-compatibility-re-established/"><u>Hardware Compatibility Re-Established</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-overcome-c1900101-error-while-installing-windows-11/"><u>How to Overcome C1900101 Error While Installing Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-tech-in-everyday-life/"><u>Immersive Tech in Everyday Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-anthem-loading-times/"><u>Improve Anthem Loading Times</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-windows-graphics-latest-nvidia-geforce-210-software-update/"><u>Improve Windows Graphics: Latest NVIDIA GeForce 210 Software Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-reno-10-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Reno 10 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>In 2024, Quick Conversion Tactics  Extracting MP3 From Vids on Social Media</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-chinese-logograms-an-overview/"><u>Learning Chinese Logograms: An Overview</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-pixelshader-detected-solved/"><u>Missing PixelShader Detected [Solved]</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-lava-storm-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Storm 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-visual-fluidity-through-supported-freesync/"><u>Optimizing Visual Fluidity Through Supported FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amds-tarkov-graphical-glitches/"><u>Overcoming AMD's Tarkov Graphical Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blackout-blues-on-your-asus-notebook/"><u>Overcoming Blackout Blues on Your Asus Notebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-inverted-screens-display-windows-11/"><u>Rectifying Inverted Screens Display: Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-msdn-battery-concerns-in-win-os-versions/"><u>Resolving MSDN Battery Concerns in WIN OS Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-optimal-results-the-latest-intel-gpu-drivers-for-windows-pcs/"><u>Secure Optimal Results: The Latest Intel GPU Drivers for Windows PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-minecraft-correcting-cards-issue/"><u>Stabilize Minecraft: Correcting Cards Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-amds-detection-driver-for-win10/"><u>Successful Fix: AMD's Detection Driver for Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-remediation-of-r9-driver-crashes-on-win10/"><u>Successful Remediation of R9 Driver Crashes on Win10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tv-displaying-no-signal-hdmi-link-issues/"><u>TV Displaying No Signal: HDMI Link Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-the-benefits-of-language-training-enhance-cognitive-and-career-potential/"><u>Unlock the Benefits of Language Training: Enhance Cognitive and Career Potential</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-unresolved-display-setting-issue-fixed/"><u>Windows 11: Unresolved Display Setting Issue (Fixed)</u></a></li>
+</ul></div>

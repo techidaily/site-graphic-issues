@@ -1,7 +1,7 @@
 ---
 title: Silent Display on Graphics Card
-date: 2024-07-11T17:58:10.816Z
-updated: 2024-07-12T17:58:10.816Z
+date: 2024-08-15T07:19:23.322Z
+updated: 2024-08-16T07:19:23.322Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  Then please ensure that the new graphics card is improperly installed by making sure that the gold PCIe connector of your graphics card lines up with the PCIe x16 slot perfectly.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -71,6 +77,9 @@ If this is not the problem, please move on.
  This is a screenshot taken from a Gigabyte BIOS, and you should usually find the booting option by checking items like Peripherals, then selecting**IGFX** as the**Initial Display Output** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
@@ -93,6 +102,13 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -102,6 +118,9 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -115,6 +134,18 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -127,13 +158,22 @@ Here are the things you should pay extra attention to:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
@@ -170,3 +210,63 @@ Here are the things you should pay extra attention to:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-step-by-step-guide-to-the-best-iphone-virtual-reality-gaming/"><u>[New] 2024 Approved  Step-by-Step Guide to the Best iPhone Virtual Reality Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-joy-online-kapwing-meme-studio/"><u>[New] Capture Joy Online  Kapwing Meme Studio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[Updated] 2024 Approved  Viral Success  The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-pro-tip-speedy-like-video-strategies/"><u>2024 Approved  Instagram Pro Tip  Speedy Like-Video Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-ez-grabber-a-comprehensive-guide/"><u>2024 Approved  Mastering EZ Grabber  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-monitors-ranked-for-ps5-gameplay/"><u>2024 Approved  Prime Monitors Ranked for PS5 Gameplay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-mkv-player-pcandroid-experience/"><u>2024 Approved  Superior MKV Player  PC/Android Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-surging-profits-with-three-steps-an-easy-way-to-tally-your-youtube-earning/"><u>2024 Approved  Surging Profits with Three Steps  An Easy Way to Tally Your YouTube Earning</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photomontage-artisans-blueprint/"><u>2024 Approved  The PhotoMontage Artisan's Blueprint</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-stability-resolved-amd-r9-driver-issues-w10/"><u>Achieving Stability: Resolved AMD R9 Driver Issues W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-pathfinding-failures-civ-5/"><u>Addressing Pathfinding Failures, CIV 5</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-excellence-in-depth-tp-link-archer-a9-review-powerful-performance-at-less-than-100/"><u>Affordable Excellence: In-Depth TP-Link Archer A9 Review - Powerful Performance at Less than $100</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cryptic-code-deciphered-direct-x-error-eradicated-in-league/"><u>Cryptic Code Deciphered: Direct X Error Eradicated in League</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-now-flawless/"><u>Direct3D Initialization Now Flawless</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/discover-15-superior-snap-strategies-for-2024/"><u>Discover 15 Superior Snap Strategies for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/download-the-enhanced-nvidia-1060-drivers/"><u>Download the Enhanced Nvidia 1060 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-guide-to-reactivating-displayport/"><u>Effortless Guide to Reactivating DisplayPort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-laptop-screens-continuous-flashing/"><u>Ending Laptop Screen's Continuous Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-nvidia-geforce-210-for-next-gen-windows-11/"><u>Enhanced NVIDIA GeForce 210 for Next-Gen Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-civ-5-crashing-issues-on-pc/"><u>Fix CIV 5 Crashing Issues On PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-pc-players-overcoming-launch-problems-with-hitman-3/"><u>Fixes for PC Players: Overcoming Launch Problems with Hitman 3</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-dead-asus-webcam-functionality/"><u>Fixing Dead ASUS Webcam Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-display-on-tv-via-hdmi-pathway-restoration/"><u>Fixing Laptop Display on TV via HDMI Pathway Restoration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/"><u>Get the Newest HP Officejet Pro 8720 Windows Driver Software Free of Charge!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-fan-resurrection-getting-them-moving-again/"><u>GPU Fan Resurrection: Getting Them Moving Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-health-restored-after-detected-tdr/"><u>GPU Health Restored After Detected TDR</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2021-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2021 | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-gpu-crashes-but-pc-stays-on/"><u>How to Fix GPU Crashes But PC Stays On</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2003 has stopped working error?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s23-fe-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S23 FE Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v29e-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo V29e</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insightful-review-the-comprehensive-theta-s-experience-for-2024/"><u>Insightful Review  The Comprehensive Theta S Experience for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-gpu-blackout-problem/"><u>Latest GPU - Blackout Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-remedied-unreliable-tapscreen/"><u>Lenovo Remedied Unreliable TapScreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lift-the-gloom-restoring-colorfulness-of-an-asus-pc/"><u>Lift the Gloom: Restoring Colorfulness of an Asus PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterful-examination-of-the-formidable-beatit-bt-d11-booster-unit/"><u>Masterful Examination of the Formidable Beatit BT-D11 Booster Unit</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mystery-nvidia-not-found-in-device-manager/"><u>Mystery: Nvidia Not Found in Device Manager</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-13-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 13 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-convert-videos-into-high-quality-audio-the-10-best-tools-at-your-fingertips-free/"><u>New In 2024, Convert Videos Into High-Quality Audio - The 10 Best Tools at Your Fingertips (Free)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-c1900101-issue-during-windows-11-installation-process/"><u>Resolving the C1900101 Issue During Windows 11 Installation Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-win11-dark-display-post-fall-update/"><u>Resolving Win11 Dark Display Post-Fall Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-preferences-a-successful-fix-for-win-7-and-10-achieved/"><u>Saving Display Preferences: A Successful Fix for WIN 7 & 10 [Achieved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-screen-configuration-job-well-done/"><u>Saving Screen Configuration, Job Well Done!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-blackout-updated-gpu/"><u>Silent Blackout, Updated GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-pc-and-nvidia-7025-clash-on-win10/"><u>Solved: PC & Nvidia 7025 Clash on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-your-green-halo-a-guide-to-clearer-backgrounds-on-youtube/"><u>Solving Your Green Halo: A Guide to Clearer Backgrounds on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-compatibility-no-more-with-amd-driver-failure/"><u>Windows 10 Compatibility No More with AMD Driver Failure</u></a></li>
+</ul></div>

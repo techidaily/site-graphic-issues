@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Black Screen with Cursor [SOLVED]
-date: 2024-07-11T17:57:14.334Z
-updated: 2024-07-12T17:57:14.334Z
+date: 2024-08-15T07:20:25.264Z
+updated: 2024-08-16T07:20:25.264Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fa
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
 
 If you’re on a laptop:
@@ -62,6 +65,9 @@ If you’re on a laptop:
  3) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
@@ -70,6 +76,9 @@ If you’re on a laptop:
  e.g. Here’s a screenshot of the Intel HD Graphics 4400\. Your results will show your graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -82,10 +91,16 @@ If you’re on a laptop:
  2) Press Control Panel in the search box at the bottom corner of the desktop, and click**Control Panel** in the pop-up menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
   
  3) Click**Choose what the power button does** .
 
@@ -94,13 +109,22 @@ If you’re on a laptop:
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
   
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -108,10 +132,16 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -171,6 +201,9 @@ If you’re on a laptop:
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -187,6 +220,9 @@ If you’re on a laptop:
  2) Type **settings**  in the search box at the bottom left corner of the desktop, then click **Settings**  in the menu that displays.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
 
@@ -222,3 +258,78 @@ If you’re on a laptop:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/added-hidden-settings-in-windows-10-displays-unlocked/"><u>[ADDED] Hidden Settings in Windows 10 Displays Unlocked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-listings-easy-purchases-of-startup-youtube-revenue-streams/"><u>[New] 2024 Approved  Elite Listings  Easy Purchases of Startup YouTube Revenue Streams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-rewind-ritual-making-playlists-run-opposite-to-current/"><u>[New] 2024 Approved  The Rewind Ritual  Making Playlists Run Opposite to Current</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-imagery-stories-a-deep-dive/"><u>[New] Iconic Imagery Stories  A Deep Dive</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snapchat-boomerangs-ultimate-instructions/"><u>[New] In 2024, Mastering Snapchat Boomerangs  Ultimate Instructions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[New] In 2024, Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/onthly-income-prospects-for-youtube-creators/"><u>[New] Monthly Income Prospects for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-best-practices-for-fb-video-advertising/"><u>[New] Navigating the Best Practices for FB Video Advertising</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-display-driver-igfx-stopped-responding-and-has-successfully-recovered/"><u>[SOLVED] Display Driver Igfx Stopped Responding and Has Successfully Recovered</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-effortless-method-integrating-flipper-voices-on-your-windows-os/"><u>[Updated] 2024 Approved  Effortless Method  Integrating Flipper Voices on Your Windows OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-pathways-to-youtube-stardom-in-video-games/"><u>[Updated] 2024 Approved  Pathways to YouTube Stardom in Video Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-steadicam-selections-for-superior-dslr-cinematography/"><u>[Updated] High-End Steadicam Selections for Superior DSLR Cinematography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-hottest-tiktok-trends-on-twitter/"><u>[Updated] In 2024, The Hottest TikTok Trends on Twitter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-10-capture-applications-for-online-tutorials/"><u>[Updated] Leading 10 Capture Applications for Online Tutorials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-masterful-14-textual-movement-illustrations-for-2024/"><u>[Updated] Masterful 14 Textual Movement Illustrations for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-setting-up-your-footprint-a-complete-guide-to-fb-instream-ad-configuration-for-2024/"><u>[Updated] Setting Up Your Footprint  A Complete Guide to FB Instream Ad Configuration for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-android-and-iphones-hottest-social-tools-to-increase-fb-likes/"><u>2024 Approved  Android & iPhone's Hottest Social Tools to Increase FB Likes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>2024 Approved  Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-gpu-thermal-spikes-during-play/"><u>Addressing GPU Thermal Spikes During Play</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers-for-2024/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asmr-a-sound-path-to-wellness/"><u>ASMR  A Sound Path to Wellness?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-repairing-that-incessant-stalled-windows-update-issue/"><u>Breeze Through: Repairing That Incessant Stalled 'Windows Update' Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypass-game-lag-in-anthem/"><u>Bypass Game Lag in Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-display-latest-graphics-fix/"><u>Dark Display - Latest Graphics Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12-pro-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12 Pro 4G Device SIM</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-intel-driver-on-limited-specs-machine/"><u>Enabling Intel Driver on Limited Specs Machine</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/endless-buffer-fix-for-frozen-videos-from-photo-booth-for-2024/"><u>Endless Buffer  Fix for Frozen Videos From Photo Booth for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-buffer-and-jitter-in-seconds/"><u>Eradicate Buffer and Jitter in Seconds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-star-solution-fixing-frequent-freezes-and-crashes-on-total-war-three-kingdoms-gameplay/"><u>Five-Star Solution: Fixing Frequent Freezes & Crashes on Total War: Three Kingdoms Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unsaved-display-configurations-in-win-7-and-10-systems-done/"><u>Fix Unsaved Display Configurations in WIN 7 & 10 Systems [Done]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ark-crashes-effective-methods-for-a-smoother-user-experience/"><u>Fixing ARK Crashes: Effective Methods for a Smoother User Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-displays-surface-pro-7-sync-issues/"><u>Fixing Displays: Surface Pro 7 Sync Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>Galactic Glitter  Top 10 Accessories for SJ4000 Stargazers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/growth-in-the-grove-top-7-stardew-valley-addons-for-2024/"><u>Growth in the Grove  Top 7 Stardew Valley Addons for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y36-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y36 Phones with/without a PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-devices-fixed/"><u>Horizontal Adjustment - Portable Devices Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-address-a-non-operational-laptop-screen/"><u>How to Address a Non-Operational Laptop Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-display-contrast-on-lenovo-models/"><u>Improving Display Contrast on Lenovo Models</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/invest-in-quality-best-4k-mirrorless-under-1000-for-2024/"><u>Invest in Quality  Best 4K Mirrorless Under $1,000 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-microsofts-basic-driver-more-reliable/"><u>Making Microsoft's Basic Driver More Reliable</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-streamline-your-workflow-6-productivity-boosting-adobe-premiere-pro-tips/"><u>New 2024 Approved Streamline Your Workflow 6 Productivity-Boosting Adobe Premiere Pro Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-horizon-nvidia-geforce-210-driver-for-win11/"><u>New Graphics Horizon: NVIDIA GeForce 210 Driver for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-help-focus-on-fixes-not-displays/"><u>NVIDIA GPU Help: Focus on Fixes Not Displays</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-hot-30i-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Hot 30i and Browser | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapidly-revamping-your-computer-driver-cleansing/"><u>Rapidly Revamping Your Computer: Driver Cleansing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolution-win11-screens-flashing/"><u>Resolution: Win11 Screens Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-diagonal-misalignment-in-netbooks/"><u>Resolved Diagonal Misalignment in Netbooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-hdmi-link-between-notebook-and-television/"><u>Restoring HDMI Link Between Notebook & Television</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalized-nvidia-drivers-for-win11s-geforce-210/"><u>Revitalized NVIDIA Drivers for Win11's GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-infinity-sapphire-probe/"><u>Revived Infinity Sapphire Probe</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revolutionary-fix-for-win10s-dual-nvidia-and-intel-graphics/"><u>Revolutionary Fix for Win10's Dual NVIDIA & Intel Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blank-gpu-missing-2020/"><u>Screen Blank: GPU Missing [2020]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-windows-graphic-creation/"><u>Secured Windows Graphic Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-shutdown-screen-failures-in-pcs/"><u>Solutions for Shutdown Screen Failures in PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-flickering-monitors-on-desktops/"><u>Stop Flickering Monitors on Desktops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-screen-saving-solutions-for-win-710-problems-solved/"><u>Streamline Screen Saving: Solutions for Win 7/10 Problems [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-watch-experience-now/"><u>Streamline Your Watch Experience Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-affected-by-graphics-driver-crash-repaired/"><u>System Affected by Graphics Driver Crash Repaired</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-enigma-of-direct-x-ends-with-a-patch-in-lol/"><u>The Enigma of Direct X Ends with a Patch in LoL</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-5-best-ps3-emulator-for-pc-2023/"><u>Top 5 Best Ps3 Emulator For PC 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-display-fade/"><u>Troubleshooting Lenovo Display Fade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-complying-with-instagrams-audio-ownership-laws-for-2024/"><u>Understanding and Complying with Instagram's Audio Ownership Laws for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlisted-geforce-gpu-on-pc/"><u>Unlisted GeForce GPU on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-high-end-gaming-new-drivers-for-amds-hd-6950-on-windows-10/"><u>Upgrade to High-End Gaming: New Drivers for AMD's HD 6950 on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-rebirth-bright-screen-after-update-fallout/"><u>Win11 Rebirth: Bright Screen After Update Fallout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-overcoming-challenges-with-dual-graphics-cards/"><u>Windows 10: Overcoming Challenges with Dual Graphics Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-display-fresh-pcie/"><u>Zero Display, Fresh PCIe</u></a></li>
+</ul></div>

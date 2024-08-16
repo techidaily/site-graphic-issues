@@ -1,7 +1,7 @@
 ---
 title: "Stop the Continuous Glare: ASUS Display Guide"
-date: 2024-07-11T17:57:08.841Z
-updated: 2024-07-12T17:57:08.841Z
+date: 2024-08-15T07:20:20.100Z
+updated: 2024-08-16T07:20:20.100Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -43,8 +46,14 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
  **I’m using Windows 7:**
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update or delete incompatible apps
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** .
@@ -69,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -93,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -134,3 +155,63 @@ Once finished with the repair, check if the error has been resolved.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-hindrance-in-halos-successful-launch/"><u>[FIXED] DX12 Hindrance in Halo's Successful Launch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>[New] 2024 Approved  Explore Elite Gaming Opening Tutorials  Free & Premium Alternatives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-polling-puzzle-platforms-leading-politic-simulations/"><u>[New] 2024 Approved  Polling Puzzle Platforms  Leading Politic Simulations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-blueprint-to-thrive-in-youtubes-gaming-domain-with-hashes/"><u>[New] The Ultimate Blueprint to Thrive in YouTube's Gaming Domain with Hashes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-channels-viewer-loyalty-essential-tactics-unveiled/"><u>[Updated] 2024 Approved  Boosting Your Channels' Viewer Loyalty  Essential Tactics Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mac-magic-cost-free-screen-tracker/"><u>[Updated] 2024 Approved  Mac Magic  Cost-Free Screen Tracker</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-effective-streaming-strategies-facebook-crossposting/"><u>[Updated] In 2024, Effective Streaming Strategies  Facebook Crossposting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-trimming-footage-for-insta-on-macos/"><u>[Updated] In 2024, Trimming Footage for Insta on macOS</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-meme-mayhem-top-twenty-from-reddit-and-twitter/"><u>[Updated] Meme Mayhem  Top Twenty From Reddit & Twitter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-world-of-instagram-puzzles-for-peak-performance/"><u>[Updated] Navigating the World of Instagram Puzzles for Peak Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>[Updated] Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>2024 Approved  Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-edges-achieve-clarity-and-comfort/"><u>Adjust Monitor Edges, Achieve Clarity & Comfort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-cam-not-working-heres-how-to-fix-it/"><u>Asus Cam Not Working? Here's How To Fix It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breeze-through-driver-removal-windows-method-guide/"><u>Breeze Through Driver Removal: Windows Method Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combat-asus-screen-glare-quickly-and-quietly/"><u>Combat ASUS Screen Glare Quickly and Quietly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-freezing-while-watching-videos-post-upgrade/"><u>Combatting Freezing While Watching Videos Post-Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-repair-computers-non-detection-of-vga/"><u>Diagnose & Repair: Computer's Non-Detection of VGA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-windowsminecraft-driver-mishap/"><u>Diagnose Windows/Minecraft Driver Mishap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-latest-driver-for-amd-hd-6950/"><u>Enhanced Performance with Latest Driver for AMD HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-adjustment-in-win11/"><u>Enhanced Screen Resolution Adjustment in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-amd-radeon-r9-drivers-on-win10-ensuring-smoothness/"><u>Fixed: AMD Radeon R9 Drivers on Win10 Ensuring Smoothness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-dating-apps-to-deep-conversations-with-gpt/"><u>From Dating Apps to Deep Conversations with GPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-fault-corrected-driver-functional/"><u>Graphics Fault Corrected: Driver Functional</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-phantom-v-flip-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Phantom V Flip Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hush-harshly-humming-monitors/"><u>Hush Harshly Humming Monitors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-13-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 13 Pro and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-poco-x6-by-drfone-android/"><u>In 2024, How to Bypass FRP on Poco X6?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lenovo-thinkphone-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lenovo ThinkPhone Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-initiate-your-own-blog-product-analysis-edition/"><u>In 2024, How to Initiate Your Own Blog  Product Analysis Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>In 2024, Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/innovative-fixes-for-streamlining-your-youtube-background-effects/"><u>Innovative Fixes for Streamlining Your YouTube Background Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-diagonal-shift-corrected-successfully/"><u>Laptop's Diagonal Shift Corrected Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-win8s-protective-measures-and-gpu-drivers-elimination/"><u>Masterful Guide to WIN8's Protective Measures and GPU Drivers Elimination</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-dpi-settings-with-latest-windows-11-release/"><u>Mastering DPI Settings with Latest Windows 11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigate-through-sims-graphical-glitch/"><u>Navigate Through Sims Graphical Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-images-new-gpu/"><u>No Images - New GPU?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-lenovos-erratic-display-behavior/"><u>Quick Fix for Lenovo's Erratic Display Behavior</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/raisingthebarbeyondmycam-cameras-for-2024/"><u>RaisingTheBarBeyondMyCam Cameras for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720668865688-repair-discrepancies-in-selected-video-files/"><u>Repair Discrepancies in Selected Video Files.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-monitor-brightness-problems/"><u>Resolving Lenovo Monitor Brightness Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolvingscreenreversal-problems/"><u>ResolvingScreenReversal Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-saves-quick-fixes-for-monitor-disconnection/"><u>Screen Saves: Quick Fixes for Monitor Disconnection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-switchable-graphics-error/"><u>Successful Resolution of Switchable Graphics Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tactics-for-eradicating-blinking-screens-hp/"><u>Tactics for Eradicating Blinking Screens (HP)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-7-gratis-youtube-tags-extractor-tools-for-2024/"><u>Top 7 Gratis Youtube Tags Extractor Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-unavailable-display-modes/"><u>Troubleshooting Unavailable Display Modes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/updated-nvidia-geforce-210-supports-win11/"><u>Updated NVIDIA GeForce 210 Supports Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-image-reflector-correction/"><u>Win7 Image Reflector Correction</u></a></li>
+</ul></div>

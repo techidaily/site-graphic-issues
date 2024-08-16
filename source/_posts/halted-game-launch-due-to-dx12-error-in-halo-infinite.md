@@ -1,7 +1,7 @@
 ---
 title: Halted Game Launch Due to DX12 Error in Halo Infinite
-date: 2024-07-11T17:51:32.145Z
-updated: 2024-07-12T17:51:32.145Z
+date: 2024-08-15T07:24:44.512Z
+updated: 2024-08-16T07:24:44.512Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
@@ -64,6 +67,9 @@ To do so, first visit the website of your GPU manufacturer:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -108,6 +114,9 @@ You need to check 2 elements:
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Edit your file name
 
  We don’t know the reason but many gamers have tried and it worked for some people. If you’re a Steam user, you can give it a try, it may surprise you.
@@ -120,6 +129,9 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -131,10 +143,16 @@ If this fix doesn’t work, move to the next one.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -156,3 +174,46 @@ If this fix doesn’t work, move to the next one.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fix-nvidia-driver-crash-resolved-and-operational/"><u>[Fix] Nvidia Driver Crash Resolved & Operational</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-beams-microphones-for-education-for-2024/"><u>[New] Best Beams  Microphones for Education for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[New] In 2024, Enhancing Clarity & Comprehensibility  Adding On-Screen Captions in Video Projects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-play-7t-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Play 7T Unlock Without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-fuzzy-background-in-fc6-world/"><u>Banishing Fuzzy Background in FC6 World</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/blur-unwanted-parts-of-your-videos-with-these-mobile-apps-for-2024/"><u>Blur Unwanted Parts of Your Videos with These Mobile Apps for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-on-lenovo-pcs/"><u>Bring Back the Colors on Lenovo PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/control-panel-now-open-for-modding/"><u>Control Panel Now Open for Modding</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blanking-windows-11-monitor/"><u>Ending Blanking Windows 11 Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/essential-tips-for-win7-intel-gpu-update/"><u>Essential Tips for Win7 Intel GPU Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-monitor-not-shown-as-full-screen-in-win11/"><u>Fix: Monitor Not Shown as Full Screen in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-light-win11-black-screen-resolved-post-fall/"><u>From Dark to Light: Win11 Black Screen Resolved Post-Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-immediately-fix-no-signal-port-issue/"><u>How to Immediately Fix No Signal Port Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-x90s-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo X90S Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/initiating-seamless-zoom-gatherings-for-2024/"><u>Initiating Seamless Zoom Gatherings for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-gifs-transforming-vimeo-videos-into-animated-graphics/"><u>Mastering GIFs  Transforming Vimeo Videos Into Animated Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-high-end-features-now-available-in-windows-10/"><u>Missing High-End Features Now Available in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818022153-optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-no-compatible-graphics-hardware-was-found-solved/"><u>Overwatch No Compatible Graphics Hardware Was Found [Solved]</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/quickstart-guide-key-elements-of-tiktok-macos-for-2024/"><u>Quickstart Guide  Key Elements of TikTok (macOS) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-visual-output-from-gpu/"><u>Recovered Visual Output From GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-glare-and-glitches-pro-7-edition/"><u>Repairing Glare and Glitches: Pro 7 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-flipped-display-issue-in-windows-10-os/"><u>Resolve Flipped Display Issue in Windows 10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-windows-system-hiccups-with-fixed-drivers/"><u>Resolving Windows System Hiccups with Fixed Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-misalignment-in-windows-10-fix/"><u>Reverse Screen Misalignment in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-11-fixed/"><u>Screen Upside Down in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-enhancing-view-in-roblox-worlds-for-2024/"><u>Step-By-Step  Enhancing View in Roblox Worlds for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-resolving-c1900101-during-windows-setup/"><u>Strategies for Resolving C1900101 During Windows Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-smooth-running-hp-screens/"><u>Strategies for Smooth-Running HP Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-dark-windows-11-after-falls/"><u>Taming the Dark Windows 11 After Falls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lenovo-thinkphone-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lenovo ThinkPhone Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmare-post-fall-dark-display-solved/"><u>Win11 Nightmare: Post Fall Dark Display Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-flicker-no-more/"><u>Win11 Screen Flicker - No More</u></a></li>
+</ul></div>

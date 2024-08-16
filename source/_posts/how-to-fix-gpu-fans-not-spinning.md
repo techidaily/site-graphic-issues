@@ -1,7 +1,7 @@
 ---
 title: How to Fix GPU Fans Not Spinning
-date: 2024-07-11T17:56:45.481Z
-updated: 2024-07-12T17:56:45.481Z
+date: 2024-08-15T07:19:57.756Z
+updated: 2024-08-16T07:19:57.756Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try all the fixes. Simply work your way down until you find the one that does the trick.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 5. [**Repair your system**](#fix5)
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Make sure all cables are plugged in
 
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  More often than not, you’re actually dealing with a driver issue. The fans not spinning issue could mean that you’re using**a broken or outdated graphics driver** . To rule out this possibility, always make sure you’re using the latest correct computer drivers.
@@ -70,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -80,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Configure GPU RPM (fan speed)
 
  RPM stands for revolutions per minute, which is what we usually call fan speed. To see if it’s a wrong configuration, you can use hardware monitor programs like [**MSI Afterburner**](https://www.msi.com/Landing/afterburner/graphics-cards) to adjust the fan speed manually. This is a safer approach compared to stress tests.
@@ -101,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -111,6 +133,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -138,3 +163,64 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-the-win11-vision-disturbance/"><u>[FIXED] The Win11 Vision Disturbance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-delving-deep-into-vidma-writescreen-recorder-details/"><u>[New] 2024 Approved  Delving Deep Into Vidma’ Writescreen Recorder Details</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-from-zero-to-hero-youtube-setup-growth-and-profit-strategies/"><u>[New] 2024 Approved  From Zero to Hero  YouTube Setup, Growth & Profit Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-most-attractive-game-ready-gaming-equipment-for-under-100-for-2024/"><u>[New] The Most Attractive Game-Ready Gaming Equipment for Under $100 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-offline-android-delights-top-screen-free-game-list-you-must-play-for-2024/"><u>[Updated] Offline Android Delights  Top Screen-Free Game List You Must Play for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-new-lens-on-sonys-s6500-bdp-features/"><u>[Updated] The New Lens on Sony’s S6500 BDP Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-from-script-writing-to-final-audio-in-videos-for-2024/"><u>[Updated] Ultimate Guide  From Script Writing to Final Audio in Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-compreeved-look-at-effective-spotify-ad-implementation/"><u>2024 Approved  A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-guide-to-installation-of-wm6/"><u>2024 Approved  In-Depth Guide to Installation of WM6</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pathway-to-enlisting-world-class-cinematographers/"><u>2024 Approved  Pathway to Enlisting World-Class Cinematographers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-cam-repair-guide-essentials/"><u>ASUS Cam Repair Guide Essentials</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-consent-management-with-cookiebot/"><u>Automated Consent Management with Cookiebot</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-display-issues-in-win10/"><u>Correcting Display Issues in Win10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciphering-past-visual-content-inverse-queries-and-fb-techniques/"><u>Deciphering Past Visual Content  Inverse Queries and FB Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-aid-no-display-just-gpu-functionality/"><u>Direct Aid: No Display, Just GPU Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-acceleration-not-available-solved/"><u>Direct3D Acceleration Not Available [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-complication-halo-infinite-launch-issue/"><u>DirectX12 Complication: Halo Infinite Launch Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-device-43-fix-complete/"><u>Display Device 43 Fix Complete</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-glitch-blocks-new-halo-infinite-release/"><u>DX12 Glitch Blocks New Halo Infinite Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-eradicate-fallout-4-crashes-on-computer/"><u>Easy Steps to Eradicate Fallout 4 Crashes on Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/exploring-superior-visuality-the-truth-of-4k-resolution/"><u>Exploring Superior Visuality: The Truth of 4K Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-gui-restoring-normal-gfx-functionality/"><u>Fixed Windows GUI: Restoring Normal GFX Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-cpu-override-in-win1011s-display-settings/"><u>Fixing CPU Override in Win10/11's Display Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-error-nvidia-setup-completed/"><u>Fixing Error: NVIDIA Setup Completed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-elusive-haldll-problem-techniques-for-windows-xp-vista-7-8-and-10/"><u>Fixing the Elusive hal.dll Problem: Techniques for Windows XP, Vista, 7, 8 & 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-startup-dx12-error-with-halo-infinite/"><u>Halted Game Startup: DX12 Error with Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-12-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 12 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-hd-graphics-drivers-on-windows/"><u>How to Update Intel HD Graphics Drivers on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elevate-your-broadcast-impact-with-these-5-tips-for-twitch-streamers/"><u>In 2024, Elevate Your Broadcast Impact with These 5 Tips for Twitch Streamers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-and-updates-on-the-anticipated-apple-automobile-pricing-launch-timeline-features-and-latest-gossip/"><u>Insights & Updates on the Anticipated Apple Automobile - Pricing, Launch Timeline, Features, and Latest Gossip</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/jotunheim-odyssey-warriors-of-yggdrasil-for-2024/"><u>Jotunheim Odyssey  Warriors of Yggdrasil for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/leap-forward-latest-windows-11-driver-upgrade-for-amd-hd-6950-graphics/"><u>Leap Forward: Latest Windows 11 Driver Upgrade for AMD HD 6950 Graphics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/leveraging-likes-a-guide-to-profitable-vimeo-marketing-for-2024/"><u>Leveraging Likes  A Guide to Profitable Vimeo Marketing for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/limit-win-10-display-extensiveness/"><u>Limit WIN 10 Display Extensiveness</u></a></li>
+<li><a href="https://extra-support.techidaily.com/movie-magic-for-editing-select-excerpts-handpicked-for-2024/"><u>Movie Magic for Editing  Select Excerpts Handpicked for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-glitches-without-freeze-outages/"><u>Overcoming GPU Glitches Without Freeze Outages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-11-screen-flip-issue/"><u>Overcoming Windows 11 Screen Flip Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-widescreen-layout-discrepancies-in-win10-devices/"><u>Rectifying Widescreen Layout Discrepancies in Win10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refining-win-drivers-fixed-battery-functionality/"><u>Refining Win Drivers, Fixed Battery Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fixing-nvidia-installer-issue/"><u>Resolved: Fixing NVIDIA Installer Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-oversized-window-problems-on-windows-10-computers/"><u>Resolving Oversized Window Problems on Windows 10 Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-window-mistake-in-windows-11/"><u>Resolving Reflective Window Mistake in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-color-in-twitch-blackouts/"><u>Reveal Color in Twitch Blackouts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shed-light-on-dark-lenovo-screens/"><u>Shed Light on Dark Lenovo Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-method-to-restore-dp-port-functionality/"><u>Simple Method to Restore DP Port Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaked-radeon-streaming-error/"><u>Tweaked Radeon Streaming Error</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2/"><u>Updated Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-denied-no-card-found/"><u>Visual Output Denied: No Card Found</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-710-screenscape-save-hiccup-get-it-right-solved/"><u>Win 7/10 Screenscape Save Hiccup - Get It Right [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-now-supports-fixed-hd-audio-driver-functionality/"><u>Windows Now Supports Fixed HD Audio Driver Functionality</u></a></li>
+</ul></div>
