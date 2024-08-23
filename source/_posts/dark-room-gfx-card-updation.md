@@ -1,7 +1,7 @@
 ---
 title: Dark Room - GFX Card Updation
-date: 2024-07-11T17:42:54.792Z
-updated: 2024-07-12T17:42:54.792Z
+date: 2024-08-22T13:32:52.768Z
+updated: 2024-08-23T13:32:52.768Z
 tags:
   - win11
   - win10
@@ -54,8 +54,14 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 3. Select**Browse my computer for drivers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
 4. Select**Let me pick from a list of available drivers on my computer** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-36.png)
 5. Select**Microsoft Basic Display Adapter** from the list and click**Next** for the driver to be installed.  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-37.png)
 6. Your screen might flash a couple of times during the older driver installation, but no need to worry much about it, as it’s normal.
 7. Repeat the same to install the generic display card driver for your other display card should you have one.
@@ -79,6 +85,9 @@ Then download and update the display card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -91,6 +100,9 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -101,6 +113,9 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -137,10 +152,16 @@ To do so, first visit the website of your GPU manufacturer:
 3. On your motherboard, remove your CMOS battery with your fingernail or a non-conductive screwdriver. The CMOS battery looks like this:  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-38.png)
 4. Wait for 5 minutes, and then reinstall your CMOS battery.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 5. Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. If you can’t boot into your computer…
 
  If your computer won’t boot normally after you restart it when you see the black screen problem, you can try the following to see if they help.
@@ -154,14 +175,28 @@ To do so, first visit the website of your GPU manufacturer:
 4. When the following page shows, click**See advanced repair options** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-40.png)
 5. Click **Troubleshoot** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-41.png)
 6. Click **Advanced options** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-42.png)
 7. Click**Startup Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
 8. Click**Restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
 9. Press**F5** , or**5** to enter the**Safe Mode with networking mode** .
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
@@ -172,13 +207,23 @@ When you boot into the Safe Mode with networking
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### 2.2 Try different hardware devices
 
  At this point, if none of the above helps, you may need to consider different hardware devices, as it could be a problem with the graphics card, the hardware device itself, when it blacks out after a driver installation. As mentioned, faulty power supply, display cables, or motherboard could also be the culprit.
@@ -210,3 +255,46 @@ When you boot into the Safe Mode with networking
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-what-to-do-if-the-facebook-message-shows-its-you-in-this-video/"><u>[New] 2024 Approved  What To Do If the Facebook Message Shows It’s You in This Video?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-analyzing-instagrams-per-video-timeframe/"><u>[Updated] 2024 Approved  Analyzing Instagram's Per-Video Timeframe</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mixing-music-into-your-instagram-visuals/"><u>[Updated] 2024 Approved  Mixing Music Into Your Instagram Visuals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-aligning-spotify-selections-for-a-unified-youtube-music-experience/"><u>[Updated] In 2024, Aligning Spotify Selections for a Unified YouTube Music Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tips-to-conclusively-separate-from-tiktok-world-for-2024/"><u>[Updated] Tips to Conclusively Separate From TikTok World for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>2024 Approved  The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-maximum-direct3d-potential-with-gpu-acceleration-fixes/"><u>Achieve Maximum Direct3D Potential with GPU Acceleration Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-com-exceptions-on-windows-platform/"><u>Addressing COM Exceptions on Windows Platform</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-11/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthems-speed-up-guide/"><u>Anthem's Speed Up Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-acid-pro-top-alternative-software-for-2024/"><u>Assessing ACID Pro  Top Alternative Software for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-7-with-latest-intel-gfx-drivers/"><u>Boosting Windows 7 with Latest Intel Gfx Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-up-the-darkness-on-lenovo-devices/"><u>Clear Up the Darkness on Lenovo Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-successful/"><u>Direct3D Initialization Successful</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/dualview-photography-analysis/"><u>DualView Photography Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-display-problems-enhancing-w10-performance/"><u>Eliminating Display Problems, Enhancing W10 Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enable-gpu-functionality-in-windows-1110-devices/"><u>Enable GPU Functionality in Windows 11/10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-stuttered-displays-remedy-for-flickering-screens/"><u>Fixing Stuttered Displays: Remedy for Flickering Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-res-scale-faults/"><u>Fixing Windows 10 Res Scale Faults</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-driver-fixed-code-22/"><u>GPU Driver Fixed: Code 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-problem-43-cleared-up/"><u>Graphics Card Problem 43 Cleared Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminate-lenovo-lack-of-color/"><u>Illuminate Lenovo Lack of Color</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-screen-problem-solved-completely/"><u>Lenovo Screen Problem Solved Completely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mercedes-benz-adds-voice-controlled-chatgpt-feature-in-new-car-models/"><u>Mercedes-Benz Adds Voice-Controlled ChatGPT Feature in New Car Models</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-frozen-calls-quick-camera-repairs-for-clear-zooming/"><u>No More Frozen Calls: Quick Camera Repairs for Clear Zooming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dlc-installation-crashes-civ-5/"><u>Overcoming DLC Installation Crashes Civ 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-rtx-game-performance-drops/"><u>Overcoming RTX Game Performance Drops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-not-found-issue/"><u>Resolve: Graphics Not Found Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-fix-for-windows-10-users/"><u>Reverse Screen Fix for Windows 10 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-stalled-gpu-fan-operation/"><u>Reviving Stalled GPU Fan Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/scale-down-windows-monitor-size/"><u>Scale Down Windows Monitor Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-lcd-flash-in-hp-devices/"><u>Stopping LCD Flash in HP Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-greenscreen-footage-with-expert-tips/"><u>Transform Your Greenscreen Footage with Expert Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-tips-brightening-a-dark-asus-screen/"><u>Troubleshooting Tips: Brightening a Dark Asus Screen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-apex-audio-technician-for-windows-10/"><u>Updated In 2024, Apex Audio Technician for Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win-over-windows-woes-tackling-and-troubleshooting-bsod-error-0xc000021a-in-wndows-10-and-8-fixed/"><u>Win Over Windows' Woes: Tackling and Troubleshooting BSoD (Error 0xC000021A) in Wndows 10 & 8 [Fixed]</u></a></li>
+</ul></div>

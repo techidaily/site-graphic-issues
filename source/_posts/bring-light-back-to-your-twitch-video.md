@@ -1,7 +1,7 @@
 ---
 title: Bring Light Back to Your Twitch Video
-date: 2024-07-11T17:42:49.118Z
-updated: 2024-07-12T17:42:49.118Z
+date: 2024-08-22T13:32:47.243Z
+updated: 2024-08-23T13:32:47.243Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ Here’s how you go about it:
 
  You can test your internet to see if other devices and apps can be connected properly. If the connection is off, then you should contact your ISP for assistance. If the problem doesn’t lie with the router or modem, you can try boosting your connection a bit – moving your modem & router to a more central place in your home, limiting the number of devices connected to your network etc. If your internet is up and running but Twitch gives black screen, then you should move on to**Fix 2** to further narrow down the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Change your DNS settings
 
  DNS, or Domain Name System, is like the phonebook of the internet. It is a network component that matches the user-friendly domain names with the numberical format the computer recognizes (IP address). By default, you’re using the DNS server supplied by your ISP as the gateway to the web, but the server may be slow or ill-configured for caching, which effectively slows your internet connection.
@@ -59,12 +62,24 @@ Here’s how you go about it:
 1. On your keyboard, press the Windows logo key and R at the same time, then type   **control.exe /name Microsoft.NetworkAndSharingCenter** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/、name-Microsoft.NetworkAndSharingCenter-1.png)
 2. In the window that pops up, click **Change adapter settings** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
 
@@ -73,9 +88,15 @@ Here’s how you go about it:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -94,6 +115,9 @@ Here’s how you go about it:
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Clear cache and cookies
 
  Browsers save files and data so that next time the same information can load up faster. However, overtime, the cached data may have gone wrong, corrupt or outdated, causing the video to not load in Twitch. You can try clearing cache and cookie in your web browser and see how it goes.
@@ -114,14 +138,23 @@ Here’s how you go about it:
 2. Click**the menu button** \>**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 5: Disable browser extensions
 
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
@@ -157,6 +190,10 @@ Here’s how you go about it:
 4. Exit Firefox.
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7: Is it a server issue?
 
  If you’ve exhausted all the fixes above but Twitch is still showing black screen, perhaps it’s time to check the server status for Twitch. It is possibe that the servers have been taken down for performance maintenance or bug patches. If this is indeed the case, then there is not much you can do but wait for the developer staff to do their thing and restore the servers.
@@ -186,3 +223,58 @@ Here’s how you go about it:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/solved-hdmi-laptop-to-tv-not-working/"><u>[Solved] HDMI Laptop to TV Not Working</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screencapture-evaluation-interface/"><u>[Updated] ScreenCapture Evaluation Interface</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-transmit-live-camera-feed-using-vlc-media-player-for-2024/"><u>[Updated] Transmit Live Camera Feed Using VLC Media Player for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-your-spotify-collection-with-youtube-music-integration/"><u>2024 Approved  Enhancing Your Spotify Collection with YouTube Music Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advanced-display-tweaks-now-supported-by-windows-11/"><u>Advanced Display Tweaks Now Supported by Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bid-farewell-to-audio-glitches-a-solution-for-intermittent-sounds-on-windows-1/"><u>Bid Farewell to Audio Glitches: A Solution for Intermittent Sounds on Windows 지난 1</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blink-no-more-mastering-the-art-of-a-steady-display/"><u>Blink No More: Mastering The Art of a Steady Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctedscreensideup-troubleshooting/"><u>CorrectedScreensideUp Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818355515-cpp-unlocked-successfully/"><u>CPP Unlocked Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/critical-gpu-not-detected-alert/"><u>Critical: GPU Not Detected Alert</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-black-screen-win11/"><u>Cursor's Comeback in Black Screen Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-recovery-fixed-22-issue/"><u>Display Recovery: Fixed #22 Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx-error-in-lol-resolved-mystery/"><u>DX Error in LoL - Resolved Mystery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-approach-to-resolving-c1900101-install-issue/"><u>Efficient Approach to Resolving C1900101 Install Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-refresh-glitches-in-windows-10/"><u>Eradicating Refresh Glitches in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-fixes-for-nvidia-gpu-without-screen-attachment/"><u>Fast Fixes for NVIDIA GPU Without Screen Attachment</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-driver-correction-error-22-settled/"><u>GPU Driver Correction: Error #22 Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-on-recent-win11-laptop/"><u>GPU Status Normalized on Recent Win11 Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-drives-back-online-post-malfunction/"><u>Graphics Drives Back Online Post-Malfunction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-silence-sputtering-screens/"><u>How to Silence Sputtering Screens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/immortalizing-the-epic-sagas-of-pc-gaming-6-pro-tips/"><u>Immortalizing the Epic Sagas of PC Gaming  6 Pro Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78+</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantly-upgrade-visuals-seamlessly-implement-intel-gfx-in-windows/"><u>Instantly Upgrade Visuals: Seamlessly Implement Intel GFX in WIndows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-worth-investing-in-auto-gpt-when-gpt-4-isnt-available-yet/"><u>Is It Worth Investing in Auto-GPT When GPT-4 Isn't Available Yet?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/keeping-games-running-on-rtx-3080/"><u>Keeping Games Running on RTX 3080</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-removal-techniques-for-graphics-drivers/"><u>Masterful Removal Techniques for Graphics Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximize-earnings-on-old-iphones-a-step-by-step-tutorial-for-safe-sales-and-increased-revenue/"><u>Maximize Earnings on Old iPhones: A Step-by-Step Tutorial for Safe Sales & Increased Revenue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-gen-gaming-new-radeon-hd-6950-on-win10/"><u>Next-Gen Gaming: New Radeon HD 6950 on Win10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimal-video-saver-best-chromebook-recorder-for-2024/"><u>Optimal Video Saver  Best Chromebook Recorder for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gameplay-hurdles-god-of-war/"><u>Overcoming Gameplay Hurdles: 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/powerful-updates-new-drivers-for-amds-hd-6950-gfx/"><u>Powerful Updates: New Drivers for AMD's HD 6950 GFX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-guide-to-sharpening-distorted-monitors/"><u>Quick Guide to Sharpening Distorted Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-cards-issue-save-minecraft-session/"><u>Rectify Cards Issue, Save Minecraft Session</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-screen-continuity-in-dell-mini-pc/"><u>Restored Screen Continuity in Dell Mini-PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-and-cursor-in-win10/"><u>Restoring Lost Display and Cursor in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-installation-block-overcome-c1900101-error/"><u>Solving Installation Block: Overcome C1900101 Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sprint-through-apex-with-ease/"><u>Sprint Through Apex with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-address-ignored-graphics-on-your-pc/"><u>Steps to Address Ignored Graphics on Your PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/straightforward-screens-with-win11-fix/"><u>Straightforward Screens with Win11 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-solution-to-intel-and-nvidia-graphic-swap/"><u>Successful Solution to Intel & Nvidia Graphic Swap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-flickering-on-lenovo-displays/"><u>Troubleshooting Flickering on Lenovo Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-rtx-3080-graphics-failures/"><u>Troubleshooting RTX 3080 Graphics Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-recovered-on-win-seamless-interaction/"><u>UI Graphics Recovered on Win - Seamless Interaction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unable-to-save-display-settings-windows-710-solved/"><u>Unable to Save Display Settings Windows 7/10 [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/undetected-video-card-alert/"><u>Undetected Video Card Alert</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unresponsive-laptop-screen-identifying-issues-and-fixes/"><u>Unresponsive Laptop Screen – Identifying Issues & Fixes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-mov-video-rotators-for-windowsmac/"><u>Updated In 2024, Top-Rated Free MOV Video Rotators for Windows/Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-disrupted-no-graphics-available/"><u>Visual Output Disrupted: No Graphics Available</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-resolved-intel-and-nvidia-graphics-switch/"><u>Windows 10: Resolved Intel & Nvidia Graphics Switch</u></a></li>
+</ul></div>

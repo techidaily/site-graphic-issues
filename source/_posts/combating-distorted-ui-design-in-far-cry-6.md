@@ -1,7 +1,7 @@
 ---
 title: Combating Distorted UI Design in Far Cry 6
-date: 2024-07-11T17:48:06.218Z
-updated: 2024-07-12T17:48:06.218Z
+date: 2024-08-22T13:27:51.104Z
+updated: 2024-08-23T13:27:51.104Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -72,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 [4: Clean the DirectX cache](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -115,12 +121,21 @@ If this doesn’t help, try the next fix.
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If this doesn’t help, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -129,12 +144,30 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
  Hopefully this article helps! If you have any questions or suggestions, feel free to drop a comment down below!
@@ -160,3 +193,36 @@ If this doesn’t help, there’s one more fix you can try.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-funny-face-of-freedom-top-20-pranks-at-facebooks-barracks/"><u>[New] In 2024, The Funny Face of Freedom  Top 20 Pranks at Facebook's Barracks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-guide-to-record-games-on-windows-10-pc/"><u>[Updated] In 2024, Ultimate Guide to Record Games on Windows 10 PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>2024 Approved  A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-project-pics-blend-outside-focus-with-radial-filters-psx/"><u>2024 Approved  Project Pics  Blend Outside Focus with Radial Filters PSX</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-inaccessible-display-features-in-nvidia/"><u>Addressing Inaccessible Display Features in Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-horizon-alignment/"><u>Adjusting Screen Horizon Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blackout-alert-driver-change/"><u>Blackout Alert: Driver Change</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-disruption-halts-halo-infinite-game-startup/"><u>DX12 Disruption Halts Halo Infinite Game Startup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-upgrade-intels-gfx-in-windows-10/"><u>Effortlessly Upgrade Intels GFX in WIndows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-nvidiawin11-compatibility-concerns/"><u>Fixing NVidia/Win11 Compatibility Concerns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-15-color-filters-for-improving-gopro-shots-for-2024/"><u>Ideal 15 Color Filters for Improving GoPro Shots for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-stock-strategy-streams-the-most-valuable-online-sources/"><u>In 2024, Stock Strategy Streams  The Most Valuable Online Sources</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818083028-optimize-stream-quality-instantly/"><u>Optimize Stream Quality Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivate-gpu-for-your-laptop-win1011-guide/"><u>Reactivate GPU for Your Laptop: Win10/11 Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-residual-reductions-in-visual-outputs/"><u>Rectifying Residual Reductions in Visual Outputs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-windows-10-setup-block-c1900101-fix/"><u>Removing Windows 10 Setup Block: C1900101 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-non-gpu-use-on-notebook-windows-1011/"><u>Resolve Non-GPU Use on Notebook Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-screen-freeze-fix-minecraft-driver/"><u>Resolve Screen Freeze: Fix Minecraft Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-visual-rendering-errors/"><u>Smooth Out Visual Rendering Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-eradicating-slowdown-woes-in-fortnite-gaming/"><u>Solution Found: Eradicating Slowdown Woes in Fortnite Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-pathway-to-creating-metaverse-identities/"><u>The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
+<li><a href="https://facebook.techidaily.com/traverse-through-virtual-relationships-in-fb-timeline/"><u>Traverse Through Virtual Relationships in FB Timeline</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-setup-unsuccessful/"><u>Visual Setup Unsuccessful</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-amd-detection-error-now-fixed/"><u>Windows 10 AMD: Detection Error, Now Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-xp-vista-no-drivers-for-amd-card-required/"><u>Windows XP, Vista - No Drivers for AMD Card Required</u></a></li>
+</ul></div>

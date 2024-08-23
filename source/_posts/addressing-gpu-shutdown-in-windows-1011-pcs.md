@@ -1,7 +1,7 @@
 ---
 title: Addressing GPU Shutdown in Windows 10/11 PCs
-date: 2024-07-11T17:45:55.364Z
-updated: 2024-07-12T17:45:55.364Z
+date: 2024-08-22T13:29:47.977Z
+updated: 2024-08-23T13:29:47.977Z
 tags:
   - win11
   - win10
@@ -39,10 +39,16 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 
  There are two ways you can try to update your graphics driver:**[manually](#Option1)** and**[automatically](#Option2)** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  You need to find the model of your graphics card and visit the manufacturer’s website(**[NVIDIA](https://www.nvidia.com/Download/index.aspx)**  , **[AMD](https://www.amd.com/en/support)**  , **[Intel](https://downloadcenter.intel.com/)**  ). Be sure to choose only drivers that are compatible with your Windows version. This needs some computer skills.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics, and your Windows version, and it will download and install them correctly.
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7
 
 If not, don’t worry, there are other fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Install all Windows Updates
 
  By updating your operating system, your laptop will get the latest fixes and security improvements. Many users reported that they fixed this issue by installing the Windows updates. So you should give it a try. To do so:
@@ -74,9 +86,16 @@ If not, don’t worry, there are other fixes you can try.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/update-security.jpg)
 3. Under Windows Update, click**Check for updates** . Then wait for the process to complete.  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Windows 11
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
@@ -92,6 +111,9 @@ If this method doesn’t help, continue with the next fix below.
 
  Usually, your laptop will use the integrated GPU for easier tasks to save power and switch back to the dedicated GPU for better performance. But if it doesn’t switch to the dedicated GPU when needed, you can do it manually via NVIDIA Control Panel or AMD Radeon Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Switch to the dedicated NVIDIA GPU
 
 1. Right-click your desktop background and select**NVIDIA Control Panel** from the menu.  
@@ -103,13 +125,22 @@ If this method doesn’t help, continue with the next fix below.
 
 Your laptop should now run with the dedicated NVIDIA GPU.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Switch to the dedicated AMD GPU
 
 1. Right-click your desktop and select**AMD** **Radeon Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Navigate to the**System** tab.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/switchable-graphics.jpg)
 4. Select a program and choose**High performance** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
@@ -119,6 +150,9 @@ It should now run with the dedicated AMD GPU.
 
 But if not, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Change the Windows graphics setting
 
  Another way to force your laptop to use the dedicated GPU is by changing the Graphics settings. To do so:
@@ -128,10 +162,16 @@ But if not, you can take a look at the next fix.
 1. Right-click your desktop and select**Display Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings-1.jpg)
 2. In Display settings, scroll down the page and click**Graphics settings** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse-1.jpg)
 4. Then click**Options** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
@@ -142,12 +182,21 @@ But if not, you can take a look at the next fix.
 
 ![win11 - Display settings](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings.jpg)
 2. Scroll down. Under the Related settings section, click on**Graphics** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics.jpg)
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Custom-options-for-apps.jpg)
 4. Once added, click on the**Options** button.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Options.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
@@ -202,3 +251,48 @@ If this trick doesn’t work for you, check out the last solution.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-building-an-engaging-sports-highlight-reel/"><u>[New] 2024 Approved  Building an Engaging Sports Highlight Reel</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-simplest-way-win-clownfish-vocal-alteration-tool/"><u>[New] In 2024, Simplest Way  Win Clownfish Vocal Alteration Tool</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unraveling-the-mystery-of-hidden-tiktok-penalties-for-2024/"><u>[New] Unraveling the Mystery of Hidden TikTok Penalties for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-art-of-colors-selecting-the-creme-de-la-creme-monitors/"><u>[Updated] 2024 Approved  The Art of Colors  Selecting the Crème De La Créme Monitors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortlessly-record-high-quality-mac-audio-using-audacity/"><u>[Updated] In 2024, Effortlessly Record High-Quality Mac Audio Using Audacity</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-editors-edge-exploring-the-best-of-youtube-video-tools/"><u>[Updated] The Editor's Edge  Exploring the Best of YouTube Video Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-every-move-in-games-with-fbx/"><u>2024 Approved  Capturing Every Move in Games with FBX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adapting-to-insufficient-specifications-installation-guide/"><u>Adapting to Insufficient Specifications: Installation Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-infinix-note-30-vip-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix Note 30 VIP Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-solutions-for-fading-lenovo-screen/"><u>Brighten Up: Solutions for Fading Lenovo Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-tarkovs-amd-graphic-snags-instantly/"><u>Bypassing Tarkov's AMD Graphic Snags, Instantly</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-m6-pro-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco M6 Pro 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquer-blackout-in-sims-4-life-events/"><u>Conquer Blackout in Sims 4 Life Events</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-win10-monitor-settings/"><u>Corrected Win10 Monitor Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-dark-screens-on-mobile-devices/"><u>Correcting Dark Screens on Mobile Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-fixes-for-defective-asus-cam/"><u>Finding Fixes for Defective Asus Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-detection-none-detected/"><u>GPU Detection: None Detected</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-11-bug-error-0xc1900208-solution-unveiled/"><u>Guide to Overcome Windows 11 Bug - Error 0Xc1900208 Solution Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-overcome-the-obscure-c1900101-error-on-new-windows-installation/"><u>How to Overcome the Obscure C1900101 Error on New Windows Installation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-edge-40mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Edge 40Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-magic-5-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor Magic 5 Pro FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-130-music-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia 130 Music Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>In 2024, Maximize Your Gameplay  In-Depth Tips & Tricks for FreeFirers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14 Plus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screen-flicker-issue-solution-found/"><u>Laptop Screen Flicker Issue - Solution Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-performance-in-god-of-war/"><u>Optimizing Performance in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-compatibility-hiccup-with-amd-driver-and-win10/"><u>Overcome Compatibility Hiccup with AMD Driver and Win10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prestige-pickers-top-ranked-websites-for-snapping-alert-songs-for-2024/"><u>Prestige Pickers  Top-Ranked Websites for Snapping Alert Songs for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/proactive-steps-for-gpu-faults-no-pc-lockdown/"><u>Proactive Steps for GPU Faults, No PC Lockdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-how-to-get-the-latest-broadcom-network-adapter-software-for-windows-11-systems/"><u>Resolved: How to Get the Latest Broadcom Network Adapter Software for Windows 11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-twitchs-covert-issue/"><u>Shedding Light on Twitch's Covert Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-lcds-on-hp-notebooks/"><u>Stabilizing LCDs on HP Notebooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-driver-update-intellion-graphics-in-windows-11-compatibility-boost/"><u>Swift Driver Update - IntellIon Graphics in Windows 11 Compatibility Boost</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-taming-the-turbulent-display/"><u>The Ultimate Guide to Taming the Turbulent Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-dxgkrnlsys-bsod-issue/"><u>Understanding dxgkrnl.sys BSoD Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unity-achieved-harmonious-operation-of-nvidia-nforce-630a/"><u>Unity Achieved: Harmonious Operation of Nvidia, nForce 630A</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-eliminated-distorted-displays/"><u>Windows 11: Eliminated Distorted Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-upgrading-intel-gpu-software/"><u>Windows 7: Upgrading Intel GPU Software</u></a></li>
+</ul></div>
