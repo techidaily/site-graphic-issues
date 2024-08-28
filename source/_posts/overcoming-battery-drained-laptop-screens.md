@@ -1,7 +1,7 @@
 ---
 title: Overcoming Battery-Drained Laptop Screens
-date: 2024-07-11T17:38:07.617Z
-updated: 2024-07-12T17:38:07.617Z
+date: 2024-08-27T04:15:38.800Z
+updated: 2024-08-28T04:15:38.800Z
 tags:
   - win11
   - win10
@@ -65,6 +65,10 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Laptop memory
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
@@ -83,24 +87,40 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b1606c48.jpg)
@@ -128,3 +148,41 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-quick-guide-to-enhancing-colors-in-photoshop/"><u>[New] In 2024, Quick Guide to Enhancing Colors in Photoshop</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>[Updated] In 2024, A Swift Guide to Faster, More Engaging TikToks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-update-twitter-video-box-picture-for-2024/"><u>[Updated] Update Twitter Video Box Picture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-learn-how-to-optimize-your-screen-record-with-screencastify/"><u>2024 Approved  Learn How to Optimize Your Screen Record with Screencastify</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-fbs-viral-hits-10-songs-that-scored-big/"><u>2024 Approved  Mastering FB's Viral Hits - 10 Songs That Scored Big</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-deep-dive-into-superior-digital-imaging-4k/"><u>A Deep Dive Into Superior Digital Imaging: 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/catalyzing-stalled-gpu-fans-back-into-motion/"><u>Catalyzing Stalled GPU Fans Back Into Motion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-the-blackout-on-a-laptop-monitor/"><u>Combatting the Blackout on a Laptop Monitor</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creative-geniuses-in-naming-top-10-ai-powerhouse-generators/"><u>Creative Geniuses in Naming  Top 10 AI Powerhouse Generators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnosing-dark-display-distress-on-tablets/"><u>Diagnosing Dark Display Distress on Tablets</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-8-plusipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 8 Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easing-big-windows-11-resolution-issue/"><u>Easing Big Windows 11 Resolution Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-compatibility-windows-11-laptop-confirmed/"><u>GPU Compatibility: Windows 11 Laptop Confirmed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-not-present-screen-blank/"><u>GPU Not Present, Screen Blank</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 11 Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-rank-watcher-decode-youtube-trending-patterns/"><u>In 2024, Top-Rank Watcher  Decode YouTube Trending Patterns</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-failure-with-bg-black/"><u>Monitor Failure with BG-Black</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-level-graphics-nvidia-210-software-upgrade-for-windows-10/"><u>Next-Level Graphics: NVIDIA 210 Software Upgrade for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-your-gpu-with-latest-driver/"><u>Optimize Your GPU with Latest Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amd-freesync-compatibility-hurdles/"><u>Overcoming AMD FreeSync Compatibility Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blank-screen-issue-on-laptop-television/"><u>Overcoming Blank Screen Issue on Laptop-Television</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-disabled-gpu-on-your-laptop-win1011/"><u>Overcoming Disabled GPU On Your Laptop (Win10/11)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-challenges-while-ensuring-computer-survival/"><u>Overcoming GPU Challenges While Ensuring Computer Survival</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfected-preferences-save-after-glitch-overhaul/"><u>Perfected Preferences Save After Glitch Overhaul</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-low-quality-font-renderings/"><u>Rectifying Low-Quality Font Renderings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/"><u>Regaining Access to NVIDIA' Writable Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-dell-pc-monitor-intermittent-flashing/"><u>Resolved: Dell PC Monitor Intermittent Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-no-more-flicker-in-win11/"><u>Stabilize: No More Flicker in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-initiated-win-graphics/"><u>Successfully Initiated Win Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-nvidiaintel-hybrid-card-problems-in-windows/"><u>Tackling NVIDIA/Intel Hybrid Card Problems in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-screen-stillness-manifesto-banish-flickering/"><u>The Screen Stillness Manifesto: Banish Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-graphics-performance-with-new-nvidia-drivers-on-windows/"><u>Upgraded Graphics Performance with New NVIDIA Drivers on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-resolved-gpu-issues-in-latest-laptop-model/"><u>Win11 Resolved GPU Issues in Latest Laptop Model</u></a></li>
+</ul></div>
