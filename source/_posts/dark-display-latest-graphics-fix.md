@@ -1,7 +1,7 @@
 ---
 title: Dark Display - Latest Graphics Fix
-date: 2024-07-11T17:34:35.929Z
-updated: 2024-07-12T17:34:35.929Z
+date: 2024-08-31T05:29:10.436Z
+updated: 2024-09-01T05:29:10.436Z
 tags:
   - win11
   - win10
@@ -50,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Update driver** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-34.png)
 3. Select**Browse my computer for drivers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
 4. Select**Let me pick from a list of available drivers on my computer** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-36.png)
 5. Select**Microsoft Basic Display Adapter** from the list and click**Next** for the driver to be installed.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-37.png)
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 Then download and update the display card driver.
@@ -101,6 +110,9 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -120,12 +132,21 @@ To do so, first visit the website of your GPU manufacturer:
 2. Type**`msdt.exe -id DeviceDiagnostic`** into the box and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-1.jpg)
 3. When the troubleshooter window opens, click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-2.jpg)
 4. If any issues are found, follow the on-screen instructions to fix them.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 5. If none are found, close the window and try the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.4 Restore BIOS settings
 
  Your monitor will remain black if there are some incorrect settings in BIOS, which stop certain firmware and/or software from starting properly. To see if this is your case, you can try to restore your BIOS settings to default.
@@ -137,6 +158,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. On your motherboard, remove your CMOS battery with your fingernail or a non-conductive screwdriver. The CMOS battery looks like this:  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-38.png)
 4. Wait for 5 minutes, and then reinstall your CMOS battery.
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 ---
@@ -152,12 +177,34 @@ To do so, first visit the website of your GPU manufacturer:
 3. Repeat steps 1) and 2) until you see**Please wait** during the boot. It usually takes three repeats (more than three repeats if this is not the first time that you did this) for it to come up. You need to try until you can see the**Please wait** coming out.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-39.png)
 4. When the following page shows, click**See advanced repair options** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-40.png)
 5. Click **Troubleshoot** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-41.png)
 6. Click **Advanced options** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-42.png)
 7. Click**Startup Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
 8. Click**Restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
@@ -165,6 +212,9 @@ To do so, first visit the website of your GPU manufacturer:
 
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1 Uninstall the graphics card driver in Safe Mode
 
 When you boot into the Safe Mode with networking
@@ -175,6 +225,9 @@ When you boot into the Safe Mode with networking
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
 ---
@@ -210,3 +263,45 @@ When you boot into the Safe Mode with networking
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-black-screen-after-update/"><u>[Fix] Windows 10 Black Screen After Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-the-art-of-asmr-recording-a-comprehensive-overview/"><u>[New] 2024 Approved  Dive Into the Art of ASMR Recording – A Comprehensive Overview</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-hd-screenshot-and-recording-programs-guide-for-2024/"><u>[New] Advanced HD Screenshot and Recording Programs Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[New] How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-hd-chronicles-of-twitters-visual-content-for-2024/"><u>[New] The HD Chronicles of Twitter's Visual Content for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unending-suspension-how-to-erase-youtube-shorts/"><u>[New] Unending Suspension  How to Erase YouTube Shorts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>[Updated] In 2024, 5 Best GBA Emulators for PC That Hook You Up</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-creating-a-unique-online-presence-using-obs-youtube-and-twitch/"><u>2024 Approved  Creating a Unique Online Presence  Using OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-on-windows-10-how-to-fix/"><u>AMD Graphics Card Unrecognized on Windows 10 - How to Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-fps-game-top-6-expert-strategies/"><u>Boost Your FPS Game: Top 6 Expert Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-cultural-loanwords-in-contemporary-english/"><u>Cross-Cultural Loanwords in Contemporary English</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decoding-vulkan-runtime-libraries-functions-and-best-practices-explained/"><u>Decoding Vulkan Runtime Libraries: Functions & Best Practices Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-xr-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone XR Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-nvidia-gtx-950-error-43-problems-on-your-windows-11-pc-step-by-step-solutions/"><u>Fixing NVIDIA GTX 950 'Error 43' Problems on Your Windows 11 PC: Step-by-Step Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-resolve-youtube-playback-issues-when-videos-wont-start/"><u>How to Resolve YouTube Playback Issues When Videos Won't Start</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>In 2024, Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-smart-7-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Smart 7 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-targus-displaylink-driver-updates-for-windows-11-8-and-7-free-download/"><u>Latest Targus DisplayLink Driver Updates for Windows 11, 8 & 7 - Free Download</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-in-minecraft-advanced-tutorial-to-stop-pc-hitches-and-lags-in-2-cups-of-coffee/"><u>Mastering Smooth Gameplay in Minecraft: Advanced Tutorial to Stop PC Hitches and Lags in 2 Cups of Coffee?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reimagining-storytelling-through-vr-screens-for-2024/"><u>Reimagining Storytelling Through VR Screens for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-nvstreamuseraagentexe-errors-in-windows-a-comprehensive-guide/"><u>Resolving NvStreamUseraAgent.exe Errors in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/skip-the-haste-disabling-early-edge-tab-activation-in-win11/"><u>Skip the Haste: Disabling Early Edge Tab Activation in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-youtube-playback-issue-how-to-fix-videos-that-wont-load/"><u>Solving the YouTube Playback Issue: How to Fix Videos That Won't Load</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/story-1-the-misunderstanding-of-dupuytrens-contracture/"><u>Story 1: The Misunderstanding of Dupuytren's Contracture</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/story-3-the-misdiagnosis-of-de-quervains-tenosynovitis/"><u>Story 3: The Misdiagnosis of De Quervain's Tenosynovitis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-amd-gpu-detection-issues-in-windows-10-solutions-and-tips/"><u>Troubleshooting AMD GPU Detection Issues in Windows 10: Solutions & Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-playable-youtube-content-effective-solutions-for-common-problems/"><u>Troubleshooting Non-Playable YouTube Content: Effective Solutions for Common Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-tips-overcoming-the-windows-10-black-screen-dilemma-after-an-upgrade/"><u>Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-the-process-ended-abruptly-error-on-windows/"><u>Understanding and Fixing the 'The Process Ended Abruptly' Error on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-exploring-functionality-and-troubleshooting/"><u>Understanding Vulkan Runtime Libraries – Exploring Functionality & Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-a-comprehensive-guide/"><u>Understanding Vulkan Runtime Libraries: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1724467299742-vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries - What Is It and What to Do About It?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/what-is-my-screen-resolution-one-step-to-find-out/"><u>What Is My Screen Resolution? One Step to Find Out!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-troubleshooting-fixes-for-non-loading-videos/"><u>YouTube Troubleshooting: Fixes for Non-Loading Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-video-not-showing-fixed/"><u>YouTube Video Not Showing [FIXED]</u></a></li>
+</ul></div>

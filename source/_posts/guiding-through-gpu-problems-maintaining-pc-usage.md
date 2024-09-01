@@ -1,7 +1,7 @@
 ---
 title: Guiding Through GPU Problems, Maintaining PC Usage
-date: 2024-07-11T17:32:47.750Z
-updated: 2024-07-12T17:32:47.750Z
+date: 2024-08-31T05:31:43.880Z
+updated: 2024-09-01T05:31:43.880Z
 tags:
   - win11
   - win10
@@ -57,9 +57,27 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Repeat the same to remove the driver for your other display card if you have one.
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
@@ -96,6 +114,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Repair corrupted system files
 
  Corrupted or damaged system files can also cause problems like GPU crashing while the PC remains on. This is because the integrity of Windows system files is essential for proper operation and stability of the overall computer, while errors in critical system files can cause crashes, freezes, and problems that affect PC performance.
@@ -108,8 +129,15 @@ To use Fortect:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -129,6 +157,9 @@ To use Fortect:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select **Performance** (the second icon).  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
@@ -156,6 +187,9 @@ To use Fortect:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Check your power supply
 
  When the power supply for your computer is not enough for your GPU, or that your power supply unit is at fault, problems like GPU crashing can happen as well. Your computer can still run properly even if the PSU is at fault, but when you run resource-intensive programs, which ask more power from the PSU, it may fail to meet the requirements, and therefore crashes.
@@ -164,6 +198,10 @@ To use Fortect:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 7\. Try a new GPU
 
  If you’ve tried all the above, but the GPU crashes but PC remains on issue still persists, it’s probably time for you to consider a new GPU, given that the current GPU might not work well for your computer.
@@ -194,3 +232,54 @@ To use Fortect:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-impact-and-value-of-instagrams-self-verifying-feature/"><u>[New] 2024 Approved  The Impact and Value of Instagram's Self-Verifying Feature</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-up-to-date-techniques-for-screenshotting-idevices/"><u>[New] In 2024, Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/c-based-video-editing-tips-for-youtube-success/"><u>[New] PC-Based Video Editing Tips for YouTube Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817870454-solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/"><u>[Updated] 2024 Approved  Revolutionizing Advertising on Facebook with the Best Video Tactics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-hidden-gems-advanced-techniques-for-bokeh-for-2024/"><u>[Updated] Instagram's Hidden Gems  Advanced Techniques for Bokeh for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>[Updated] Unveiling Hidden Potential  A Deep Dive Into Background Eraser in PS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-win11-resolution-settings/"><u>Balancing Win11 Resolution Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-flicker-fix-your-lenovo-screen/"><u>Banishing Flicker: Fix Your Lenovo Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-pcs-gaming-potential-with-updated-geforce-rtx-3080-drivers-for-all-windows-versions/"><u>Boost Your PC's Gaming Potential with Updated GeForce RTX 3080 Drivers - For All Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-lenovos-secret/"><u>Bring Back The Colors: Lenovo's Secret</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817886641-cam-problems-save-your-asus/"><u>Cam Problems? Save Your ASUS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conclusion-completing-nvidia-installer-procedure/"><u>Conclusion: Completing NVIDIA Installer Procedure</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ructing-captivating-conclusions/"><u>Constructing Captivating Conclusions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-lenovo-screen-brightness-fluctuations/"><u>Correcting Lenovo Screen Brightness Fluctuations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-blank-graphic-support-gone/"><u>Display Blank, Graphic Support Gone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-video-playback-post-windows-10-upgrade/"><u>Effortless Video Playback Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-display-options-in-windows-11-unlocked/"><u>Enhanced Display Options in Windows 11 Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-the-persistent-asus-screen-squirm/"><u>Eradicate the Persistent ASUS Screen Squirm</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-window-display-lack-of-full-screen-on-monitor-win11/"><u>Fix Window Display: Lack of Full-Screen on Monitor Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-error-code-c1900101-when-upgrading-to-windows-11/"><u>How To Fix Error Code C1900101 When Upgrading to Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-tackle-gpu-failures-without-system-freeze/"><u>How to Tackle GPU Failures Without System Freeze</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 When You Forget the Passcode?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-13-pro-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 13 Pro You Should Try Out</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-guide-to-free-and-premium-short-video-clips/"><u>In 2024, Ultimate Guide to Free & Premium Short Video Clips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-on-the-reliable-fujitsu-scansnap-ix1600-for-office-paperwork-handling/"><u>In-Depth Review on the Reliable Fujitsu ScanSnap iX1600 for Office Paperwork Handling</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-online-face-creator-no-registration-needed/"><u>New 2024 Approved Free Online Face Creator No Registration Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817890200-no-graphic-detection-action-required/"><u>No Graphic Detection, Action Required</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-windows-10-r9-driver-problems/"><u>No More Glitches: Solved Windows 10 R9 Driver Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-windows-on-monitor-in-win10/"><u>Non-Fullscreen Windows on Monitor in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-graphics-drivers-for-nvidia-geforce-210-on-win11/"><u>Optimized Graphics Drivers for NVIDIA GeForce 210 on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-reversed-displays-in-windows-11/"><u>Rectifying Reversed Displays in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-battle-challenges-in-god-of-war/"><u>Resolving Battle Challenges in 'God of War'</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-graphic-card-driver-glitches-expert-troubleshooting-tips/"><u>Resolving Graphic Card Driver Glitches – Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-gpu-capability-to-desktop-pcs-win1011/"><u>Restoring GPU Capability to Desktop PCs Win10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversing-rear-screen-renders-in-tablets/"><u>Reversing Rear Screen Renders in Tablets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-your-silent-laptops-visual-interface/"><u>Saving Your Silent Laptop's Visual Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilized-laptop-monitor-flickering-no-more/"><u>Stabilized Laptop Monitor, Flickering No More</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-an-avatar-on-your-facebook-profile-picture/"><u>Step-by-Step: An Avatar on Your Facebook Profile Picture</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-action-on-loopy-laptop-monitors/"><u>Swift Action on Loopy Laptop Monitors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-avi-video-rotators-compared-top-5-choices/"><u>Updated Free AVI Video Rotators Compared Top 5 Choices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visuals-cannot-start/"><u>Visuals Cannot Start</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-post-upgrade-stream-success-tips/"><u>Win10: Post-Upgrade Stream Success Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-update-superior-display-settings-available/"><u>Windows 11 Update: Superior Display Settings Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-os-lacks-support-for-amd-graphics-cards/"><u>Windows OS Lacks Support for AMD Graphics Cards</u></a></li>
+</ul></div>

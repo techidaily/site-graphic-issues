@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Recovery for Asus Laptops
-date: 2024-07-11T17:30:46.869Z
-updated: 2024-07-12T17:30:46.869Z
+date: 2024-08-31T05:34:01.692Z
+updated: 2024-09-01T05:34:01.692Z
 tags:
   - win11
   - win10
@@ -72,6 +72,9 @@ Here is how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -103,12 +106,24 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, type **powercfg.cpl** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still got a black screen? Please try **Fix 6** , below.
 
@@ -121,14 +136,31 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press the **Windows logo key** and type **system restore** , then click on **Create a restore point** once it shows up as a matching result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
 6. Restart your computer to see if the black screen issue has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 7: Fix corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -169,3 +201,48 @@ Once the repair is finished, check if the error has been resolved.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-screen-flickering/"><u>[SOLVED] Windows 11 Screen Flickering</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-internet-media-our-picks-for-top-browser-recording-tools/"><u>[Updated] 2024 Approved  Mastering Internet Media  Our Picks for Top Browser Recording Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-monetization-success-a-3-step-system-to-determine-your-youtube-earnings/"><u>[Updated] Unlocking Monetization Success  A 3-Step System to Determine Your YouTube Earnings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>2024 Approved  20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-texture-ambiguity-in-far-cry-6/"><u>Addressing Texture Ambiguity in Far Cry 6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-graphics-evolution-upgraded-hd-6950-windows-10-driver/"><u>AMD's Graphics Evolution: Upgraded HD 6950 Windows 10 Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-sims-monochrome-woes/"><u>Banish Sims' Monochrome Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bios-update-error-22-settled/"><u>BIOS Update: Error 22 Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-vlc-issues-with-latest-upgraded-win11/"><u>Bypassing VLC Issues with Latest Upgraded Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-the-cloud-of-dark-screens-on-twitch/"><u>Clearing the Cloud of Dark Screens on Twitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-monitor-rotation-for-win7/"><u>Correct Monitor Rotation for Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-monitor-horizontal-distortion/"><u>Correcting Monitor Horizontal Distortion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dell-latitude-e6430-find-download-and-update-essential-windows-device-drivers-made-simple/"><u>Dell Latitude E6430 - Find, Download and Update Essential Windows Device Drivers Made Simple</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dominate-the-chart-with-this-high-engagement-video/"><u>Dominate the Chart with This High-Engagement Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-stroboscopic-effects-from-acer-pcs/"><u>Eliminating Stroboscopic Effects From Acer PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-direct3d-hurdle-gain-full-acceleration-access/"><u>End Direct3D Hurdle - Gain Full Acceleration Access</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-worn-out-text-appearance-in-fc6/"><u>Eradicating Worn-Out Text Appearance in FC6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-radeon-g-sync-driver-error/"><u>Fix: Radeon G-Sync Driver Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/image-rendering-error-corrected-22/"><u>Image Rendering Error Corrected: #22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-correction-of-loopy-and-skewed-displays/"><u>Immediate Correction of Loopy and Skewed Displays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-poco-x6-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Poco X6 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantaneous-device-disposal-graphics-cards-uninstallation/"><u>Instantaneous Device Disposal - Graphics Cards Uninstallation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/integrate-intel-graphics-direct-windows-11-update-guide/"><u>Integrate Intel Graphics: Direct Windows 11 Update Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lexical-limits-earths-extended-expressions/"><u>Lexical Limits: Earth's Extended Expressions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-mx150-not-showing-up-resolved/"><u>Nvidia MX150 Not Showing Up [Resolved]</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-resource-monitor-stalls-in-windows-11/"><u>Overcoming Resource Monitor Stalls in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/psp-emulator-ios-top-5-picks/"><u>PSP Emulator iOS  Top 5 Picks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-troubleshooting-lacking-video-output/"><u>Quick Troubleshooting, Lacking Video Output</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refreshing-intels-windows-7-graphics-driver/"><u>Refreshing Intel's Windows 7 Graphics Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinstating-default-display-settings-on-gpu/"><u>Reinstating Default Display Settings on GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/settling-dispute-geforce-and-nforce-with-windows-10/"><u>Settling Dispute - GeForce and nForce with Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-resource-leaks-in-civilization-v/"><u>Solving Resource Leaks in Civilization V</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-c1900101-windows-installation-hurdle/"><u>Tackling C1900101 Windows Installation Hurdle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-installation-error-code-1900101-in-win10/"><u>Tackling Installation Error Code 1900101 in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-troublesome-touchscreen-blackouts/"><u>Tackling Troublesome Touchscreen Blackouts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-unsupported-freesync-on-amd-graphics/"><u>Tackling Unsupported FreeSync on AMD Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-curtail-anthems-hesitation/"><u>Tips to Curtail Anthem's Hesitation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-se-2022-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unresponsive-windows-10-monitor/"><u>Unresponsive Windows 10 Monitor</u></a></li>
+</ul></div>

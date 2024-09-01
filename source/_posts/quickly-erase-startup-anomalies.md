@@ -1,7 +1,7 @@
 ---
 title: Quickly Erase Startup Anomalies
-date: 2024-07-11T17:34:00.539Z
-updated: 2024-07-12T17:34:00.539Z
+date: 2024-08-31T05:30:46.258Z
+updated: 2024-09-01T05:30:46.258Z
 tags:
   - win11
   - win10
@@ -53,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Repair The Sims 4 in Origin
 
  The Sims 4 white loading screen may occur if the files are corrupt. So you can repair it in Origin to see if it fixes the issue.
@@ -65,6 +68,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -73,6 +88,9 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -91,6 +109,9 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -101,6 +122,9 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
@@ -119,6 +143,9 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
@@ -158,6 +185,9 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
@@ -190,3 +220,45 @@ Here is how to check if your computer spec has met the requirements:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-vlcs-screen-recorder-features-for-2024/"><u>[New] Exploring VLC's Screen Recorder Features for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagrams-newest-feature-reels-explained/"><u>[New] In 2024, Mastering Instagram's Newest Feature  Reels Explained</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-screensnap-sage-mastering-captures-technology-for-2024/"><u>[New] ScreenSnap Sage  Mastering Captures Technology for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-freedom-from-costs-in-final-cut-pro/"><u>[New] The Freedom From Costs in Final Cut Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>[New] The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-detailed-guide-taking-full-screen-photos-with-android/"><u>2024 Approved  Detailed Guide  Taking Full-Screen Photos with Android</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprende-a-agradecernos-con-nombres-animales-hispanos/"><u>Aprende a Agradecernos Con Nombres Animales Hispanos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-a-step-by-step-guide-to-screen-stability/"><u>Banish Blinky: A Step-by-Step Guide to Screen Stability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/comprehensive-guide-activating-windows-8s-safety-protocol-and-gpu-driver-removal/"><u>Comprehensive Guide: Activating Windows 8'S Safety Protocol & GPU Driver Removal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deciphering-the-magic-behind-magixs-pixel-editor/"><u>Deciphering the Magic Behind MAGIX's Pixel Editor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-driver-extraction-from-windows-systems/"><u>Efficient Driver Extraction From Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-window-visuals-no-more-blur/"><u>Enhanced Window Visuals, No More Blur</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-display-brightness-on-portable-devices/"><u>Enhancing Display Brightness on Portable Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-system-patched-screen-responsive/"><u>Graphic System Patched: Screen Responsive</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-immediately-fix-non-responsive-dp-connections/"><u>How to Immediately Fix Non-Responsive DP Connections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-imaging-reinstate-your-screens-display/"><u>Immediate Imaging: Reinstate Your Screen's Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-c51-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme C51</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intelligent-drivers-streamlining-the-update-process-of-intel-graphic-cards/"><u>Intelligent Drivers: Streamlining the Update Process of Intel Graphic Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-and-correcting-comexception-discrepancies/"><u>Interpreting and Correcting COMException Discrepancies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-setup-tips-from-toms-hardware-resource/"><u>Mastering Your Setup: Tips From Tom's Hardware Resource</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-missing-bios-resolved/"><u>NVIDIA GPU Missing BIOS [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flicker-issues-in-windows-7/"><u>Overcoming Flicker Issues in Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-to-opengl-issue-nvidia-gpu-affected/"><u>Quick Fix to OpenGL Issue - NVIDIA GPU Affected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-network-errors-in-multiplayer-civ-5/"><u>Removing Network Errors in Multiplayer CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-10-advanced-ui-settings-not-showed/"><u>Resolved: Windows 10 Advanced UI Settings Not Showed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-flaccid-gpu-fan-dynamics/"><u>Reviving Flaccid GPU Fan Dynamics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenorientationfix-guide/"><u>ScreenOrientationFix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-streaming-after-update/"><u>Seamless Windows 10 Streaming After Update</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/shield-yourself-online-strategies-to-hide-visual-identities-for-2024/"><u>Shield Yourself Online  Strategies to Hide Visual Identities for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-system-safeguard-techniques-entrance-into-safe-mode-and-drivers-rids/"><u>Simplified System Safeguard Techniques: Entrance Into Safe Mode & Drivers Rids</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-win11-flickering-screens/"><u>Smooth Out: Win11 Flickering Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-system-upgraded-graphics-drivers-in-windows/"><u>Streamline Your System: Upgraded Graphics Drivers in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unifying-windows-and-nvidia-graphics-for-seamless-performance/"><u>Unifying Windows & NVIDIA Graphics for Seamless Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmask-your-pcs-non-detecting-card-issue/"><u>Unmask Your PC's Non-Detecting Card Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unseen-gpu-dilemnas-and-how-to-fix-them/"><u>Unseen GPU Dilemnas and How to Fix Them</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanquish-invisible-launching-in-sims-town/"><u>Vanquish Invisible Launching in Sims Town</u></a></li>
+</ul></div>

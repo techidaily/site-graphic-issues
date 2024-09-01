@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] DX12 Hindrance in Halo's Successful Launch"
-date: 2024-07-11T17:32:43.316Z
-updated: 2024-07-12T17:32:43.316Z
+date: 2024-08-31T05:31:39.078Z
+updated: 2024-09-01T05:31:39.078Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  According to the error message from Halo Infinite, apparently, you need to update the graphics driver to the latest version to meet the requirements.
@@ -65,8 +68,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -101,8 +110,14 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
@@ -134,6 +149,13 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
@@ -156,3 +178,65 @@ If this fix doesn’t work, move to the next one.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-effortless-snaptweet-videos-from-twitter-for-2024/"><u>[New] Effortless SnapTweet Videos From Twitter for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ideal-pastimes-pairing-with-your-favorite-audio-shows-for-2024/"><u>[New] Ideal Pastimes Pairing with Your Favorite Audio Shows for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-magix-video-pro-x-analysis/"><u>[New] Magix Video Pro X Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-transfer-of-tweets-video-features-onto-snapchat/"><u>[Updated] 2024 Approved  Direct Transfer of Tweets' Video Features Onto Snapchat</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-video-downloader-and-mp3-maker-for-the-modern-age/"><u>[Updated] 2024 Approved  Facebook Video Downloader & MP3 Maker for the Modern Age</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-surviving-and-thriving-adapting-to-facebooks-algorithm-changes-for-2024/"><u>[Updated] Surviving and Thriving  Adapting to Facebook's Algorithm Changes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-novice-cinematographers-initial-work-analysis-and-replacements/"><u>2024 Approved  Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved  Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-flickering-start-to-troubleshooting-dead-laptop-screen/"><u>A Flickering Start to Troubleshooting Dead Laptop Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/align-vertical-borders-on-computer-monitors-quickly/"><u>Align Vertical Borders on Computer Monitors Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-alerts-instant-battery-charged-notifications-in-win11/"><u>Boosting Alerts: Instant Battery Charged Notifications in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-views-on-zoom-how-to-mend-your-camera/"><u>Clear Views on Zoom - How to Mend Your Camera</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-white-screen-in-create-a-family/"><u>Clear White Screen in Create-A-Family</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-precise-shadows-with-adobe-curves/"><u>Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-nostalgia-segas-dreamcatcher-experience-for-android-users/"><u>Digital Nostalgia: Sega's Dreamcatcher Experience for Android Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dismiss-sims-startup-anomaly/"><u>Dismiss Sims' Startup Anomaly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-update-dark-display-issue/"><u>Driver Update: Dark Display Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-enjoy-dual-gpu-performance-in-win10-via-nvidia-and-intel/"><u>Effortlessly Enjoy Dual-GPU Performance in Win10 via Nvidia & Intel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-performance-via-fixed-r9-drivers/"><u>Enhanced Windows 10 Performance via Fixed R9 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/escape-from-tarkov-graphics-bug-for-amd-users-quick-fix/"><u>Escape From Tarkov Graphics Bug for AMD Users [Quick Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expert-tips-entering-safe-mode-and-purging-graphics-cards-drivers-on-windows-8/"><u>Expert Tips: Entering Safe Mode & Purging Graphics Cards Drivers on Windows 8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-flickering-displays-in-dell-systems/"><u>Fix for Flickering Displays in Dell Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-freesync-connectivity-errors/"><u>Fixing AMD FreeSync Connectivity Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphical-interface-resumed-after-interruption/"><u>Graphical Interface Resumed After Interruption</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-resolve-critical-error-code-c1900101-on-pc/"><u>Guide to Resolve Critical Error Code C1900101 on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-display-line-proportions/"><u>Harmonizing Display Line Proportions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro to Roku? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-fix-for-disconnected-displayport/"><u>Immediate Fix for Disconnected DisplayPort</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-blaze-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Blaze Pro 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invisible-display-driver-released/"><u>Invisible Display: Driver Released</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/keep-your-gpu-in-top-shape-with-driver-upgrade/"><u>Keep Your GPU in Top Shape with Driver Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-on-no-more-black-outages/"><u>Lenovo Lights On: No More Black Outages</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-print-spooler-for-better-document-queuing-in-win10/"><u>Optimize Print Spooler for Better Document Queuing in Win10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimizing-chromebook-prime-zoom-features/"><u>Optimizing Chromebook  Prime Zoom Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcame-system-graphics-failure/"><u>Overcame System Graphics Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817843018-overcoming-graphical-challenges-overwatch-updates/"><u>Overcoming Graphical Challenges, Overwatch Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-low-end-amd-graphics-limitations/"><u>Overcoming Low-End AMD Graphics Limitations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-large-display-on-win11-pc/"><u>Resolving Large Display on Win11 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-order-visual-savings-secured/"><u>Restored Order: Visual Savings Secured</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalize-computing-power-refreshing-intels-graphics-drivers/"><u>Revitalize Computing Power: Refreshing Intel's Graphics Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-display-armored-again-post-windows-fix/"><u>Screen Display Armored Again Post-Windows Fix</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/seamless-volume-reduction-for-apple-and-microsoft-systems/"><u>Seamless Volume Reduction for Apple and Microsoft Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-stability-addressing-lenovo-screenshake/"><u>Securing Stability: Addressing Lenovo Screenshake</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-explained-how-to-excel-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Explained: How to Excel on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stepping-into-silence-fading-out-audio-in-adobe-premiere-pro/"><u>Stepping Into Silence  Fading Out Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tarkov-amd-glitch-overcome-in-minutes/"><u>Tarkov AMD Glitch Overcome in Minutes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-intells-driver-under-strict-specs/"><u>Troubleshooting Intell's Driver Under Strict Specs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-vibrant-visuals-on-twitch-channels/"><u>Uncover Vibrant Visuals on Twitch Channels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-update-no-more-video-troubles/"><u>Win10 Update - No More Video Troubles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-lost-cursor-found/"><u>Win11 Screen Lost, Cursor Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-cant-change-resolution-solved/"><u>Windows 11 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-display-issue-no-more/"><u>Windows 11 Display Issue No More</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-cam-revived-essential-fixes-for-todays-technology/"><u>Zoom Cam Revived! Essential Fixes for Today's Technology</u></a></li>
+</ul></div>
