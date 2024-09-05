@@ -1,7 +1,7 @@
 ---
 title: "Decoding Vulkan Runtime Libraries: Functions & Best Practices Explained"
-date: 2024-08-27T04:10:12.505Z
-updated: 2024-08-28T04:10:12.505Z
+date: 2024-09-04T07:09:49.558Z
+updated: 2024-09-05T07:09:49.558Z
 tags:
   - win11
   - win10
@@ -118,5 +118,8 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

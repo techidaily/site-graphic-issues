@@ -1,7 +1,7 @@
 ---
 title: Identify Faulty Drivers, Stop Crashes
-date: 2024-08-08T03:41:00.400Z
-updated: 2024-08-09T03:41:00.400Z
+date: 2024-09-04T07:09:55.596Z
+updated: 2024-09-05T07:09:55.596Z
 tags:
   - win11
   - win10
@@ -25,16 +25,10 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
   * [**Method Four: Update Video Card Driver Automatically**](#four)
  **\[Problem Description\]**The**Minecraft “Bad Video Card Drivers” Crash** could be frustrating since it stops you from playing Minecraft. And before you could get this problem solved, there is nothing you could do to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
 Let’s look closer at this problem:
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f82ede599.png)
 
 To fix this problem, this tutorial provides five different and effective ways for you to have a try. Please read along and find the right method for you.   **\[Before We Start\]**The first thing we can do when we are addressing this crash is to make sure that Minecraft is up to date, which applies to the game itself. You can check the version number of**Minecraft**on the bottom right corner and the**Minecraft Launcher**version under**Launcher Log**tab. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b82e22374.png) Then compare the version number with the one that could be found on [Minecraft website](https://minecraft.net/en/) to see if you have the latest version installed. Second, you need to make sure that you have installed the latest Windows Update. You can type**windows update**in the search box and open the Windows Update program that comes up.
@@ -43,9 +37,6 @@ To fix this problem, this tutorial provides five different and effective ways fo
 
 If you can see some updates on your computer, click the**Install updates**button here and let the system run the updates. This step could help you update your video card driver or graphics card driver when there is update detected, which might fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bf28ed4ba.png)
 
 Thirdly, you need to make sure that you have the latest version of Java installed on your computer also. You could check the version of your Java by opening this [webpage](https://www.java.com/en/download/installed.jsp) in Firefox or Internet Explorer browser. If you don’t have the latest version yet, please update it. When you have get the preparation done, it is time for you to follow the instructions below to get the problem fixed.   **Method One: Change Hardware Acceleration** 1) Click**Start**button, then select **Control Panel**. 2) View by**Small icons**and select**Display**option.
@@ -54,9 +45,6 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 3) On the left panel, click**Change display settings**option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f01132191.png)
 
 4) Then select**Advanced settings**.
@@ -74,16 +62,10 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 * **AMD/ATI –[How to download AMD Radeon HD Graphics driver?](https://tools.techidaily.com/drivereasy/download/)**
 If you have video card made by manufacturers other than these three listed here, you could also find the correct driver by searching on Google. 3) Once you have identified and download the latest version of the video driver for your video or display card, please install as instructed. The download file is mostly an**.exe**file, so you just need to double click the downloaded file to run the installation. If the file that you have is not an**.exe**file but an**.inf**file, you might need to refer to [this post](https://tools.techidaily.com/drivereasy/download/) to see how you could run the installation.   **Method Four: Update Video Card Driver Automatically**If you don’t want to waste so much time trying to get the problem fixed, here is a time-saving alternative we recommend: use Driver Easy to help you with it. [Driver Easy](https://tools.techidaily.com/drivereasy/download/) is a software that helps you detect and download the needed driver in your computer. There are only two steps for you to take. 1)**Scan**.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6163c3a61c.png)
 
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
 
 As you can see, the free version is equally capable as the professional version of **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . But it is required that you install the downloaded drivers manually. Here is **[a post](https://tools.techidaily.com/drivereasy/download/)** showing you how to do it. If you are looking for a faster download and update speed and more features such as driver back up and driver restore and also a professional technical support team, it is always suggested that you use the [**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Moreover, we have a 30-day money back policy, so if you find our product or services not satisfactory enough, you could always ask for a refund.
@@ -172,3 +154,10 @@ As you can see, the free version is equally capable as the professional version 
 <li><a href="https://graphic-issues.techidaily.com/zoom-recording-success-tips-for-fixing-your-cam/"><u>Zoom Recording Success: Tips for Fixing Your Cam</u></a></li>
 <li><a href="https://graphic-issues.techidaily.com/zoom-video-lifeline-immediate-troubleshooting-tips/"><u>Zoom Video Lifeline - Immediate Troubleshooting Tips</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

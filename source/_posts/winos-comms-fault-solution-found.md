@@ -1,7 +1,7 @@
 ---
 title: WinOS Comms Fault - Solution Found
-date: 2024-08-08T03:38:55.755Z
-updated: 2024-08-09T03:38:55.755Z
+date: 2024-09-04T07:09:53.339Z
+updated: 2024-09-05T07:09:53.339Z
 tags:
   - win11
   - win10
@@ -18,28 +18,14 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 At times, you might see the following notifications when you are running some applications on your computer:
   
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-runtime-interopservices-comexception.jpg)
   
  Or:
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-invalidoperationexception.jpg)
 
  Or:
   
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-outofmemoryexception-insufficient-memory.jpg)
 
  This is rather annoying, since all the information you get from the notification doesn’t seem to make any sense if you are not a developer. Well, to make it easier to understand, these sort of problems are mainly associated with**video hardware** or**driver** problems.
@@ -67,9 +53,6 @@ When render thread makes a call into another component, it checks the return val
   
 For example, if the WPF render thread failed due to some out of memory condition, then it will map the failure to a **System.OutOfMemoryException** and it would be the exception encountered on the UI thread.
   
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-out-of-memory-condition.png)
 
 Due to the design, the exception that you see on the UI thread isn’t typically helpful in diagnosing the actual cause of the problem. This is because the exception is only shown after the failure detected on the render thread and that render thread and UI thread synchronize. And they only synchronize in a few locations. These, plus the lost of critical state on render thread, make it even harder for developers to understand where and why the failure occurred, or know hot to avoid such a problem.
@@ -90,16 +73,10 @@ It is suggested that you use Driver Easy to help you with the update of your vid
   
 **a) Scan**.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b8443edaa.png)
   
  **b) Update**.
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b8511c4de.jpg)
   
 As said, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** is a free program to use. But if you are looking for more features and professional technical support, you can have a try at the **[professional version](https://tools.techidaily.com/drivereasy/download/)** . Professional version not only permits you to update all the drivers in just one click, but also provide you with many more features than the free version. Just have a try now.
@@ -192,3 +169,10 @@ As said, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** is
 <li><a href="https://graphic-issues.techidaily.com/1719818332766-win11-screen-flicker-no-more/"><u>Win11 Screen Flicker - No More!</u></a></li>
 <li><a href="https://graphic-issues.techidaily.com/windows-11-not-showing-full-screen-fix/"><u>Windows 11 Not Showing Full Screen, Fix?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

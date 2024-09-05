@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Correcting COMException Discrepancies
-date: 2024-08-08T03:39:23.145Z
-updated: 2024-08-09T03:39:23.145Z
+date: 2024-09-04T07:09:53.831Z
+updated: 2024-09-05T07:09:53.831Z
 tags:
   - win11
   - win10
@@ -18,23 +18,14 @@ thumbnail: https://thmb.techidaily.com/7e3fbcfe204dfbd52573599aedc96b853d77272f3
 
 At times, you might see the following notifications when you are running some applications on your computer:
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-runtime-interopservices-comexception.jpg)
   
  Or:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-invalidoperationexception.jpg)
 
  Or:
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-outofmemoryexception-insufficient-memory.jpg)
 
  This is rather annoying, since all the information you get from the notification doesn’t seem to make any sense if you are not a developer. Well, to make it easier to understand, these sort of problems are mainly associated with**video hardware** or**driver** problems.
@@ -62,9 +53,6 @@ When render thread makes a call into another component, it checks the return val
   
 For example, if the WPF render thread failed due to some out of memory condition, then it will map the failure to a **System.OutOfMemoryException** and it would be the exception encountered on the UI thread.
   
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-out-of-memory-condition.png)
 
 Due to the design, the exception that you see on the UI thread isn’t typically helpful in diagnosing the actual cause of the problem. This is because the exception is only shown after the failure detected on the render thread and that render thread and UI thread synchronize. And they only synchronize in a few locations. These, plus the lost of critical state on render thread, make it even harder for developers to understand where and why the failure occurred, or know hot to avoid such a problem.
@@ -85,16 +73,10 @@ It is suggested that you use Driver Easy to help you with the update of your vid
   
 **a) Scan**.  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b8443edaa.png)
   
  **b) Update**.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b8511c4de.jpg)
   
 As said, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** is a free program to use. But if you are looking for more features and professional technical support, you can have a try at the **[professional version](https://tools.techidaily.com/drivereasy/download/)** . Professional version not only permits you to update all the drivers in just one click, but also provide you with many more features than the free version. Just have a try now.
@@ -194,3 +176,16 @@ As said, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** is
 <li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
 <li><a href="https://graphic-issues.techidaily.com/wnddevice-creation-now-smooth/"><u>WndDevice Creation Now Smooth</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

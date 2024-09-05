@@ -1,7 +1,7 @@
 ---
 title: Meeting Minimum Requirements for Intel GPU Installation
-date: 2024-08-08T03:40:14.590Z
-updated: 2024-08-09T03:40:14.590Z
+date: 2024-09-04T07:09:54.753Z
+updated: 2024-09-05T07:09:54.753Z
 tags:
   - win11
   - win10
@@ -28,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
 An Intel video card has been installed on the system and the driver is detecting the presence of that Third Party video card. That is to say, there are two video cards in your computer but you are using one of them (the Third Party video card). The Intel driver is trying to install for the Third Party video card. That’s why this error occurs. **Please follow these steps to alleviate this problem:** 1\. Open [Driver Easy](https://tools.techidaily.com/drivereasy/download/) and run a scan. 2\. Click**Update** button to download the Intel Graphics drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_574f9477ccb94.png)
 
 3.Click the three line icon near**Update** button. In the dropdown list, please choose**Hide this Update**.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_574f952aa5025.png)
 
 Driver Easy will help you to hide the driver for video card which is not used in the computer. **Contact Us:** Driver Easy Technical Customer Support provides further assistance to assist Professional User regarding driver issues. As Driver Easy Professional User,Please feel free to email us with your error screen shot to <support@drivereasy.com> if you need further help. Thank you.
@@ -112,3 +106,10 @@ Driver Easy will help you to hide the driver for video card which is not used in
 <li><a href="https://graphic-issues.techidaily.com/windows-10-screen-flashing-or-flickering-solved/"><u>Windows 10 Screen Flashing Or Flickering [SOLVED]</u></a></li>
 <li><a href="https://graphic-issues.techidaily.com/windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
