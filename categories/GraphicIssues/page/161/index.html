@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"graphic-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-22'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-27'>
                 
                     
-                        <a href="/fix-horizontal-screen-deformities-fast/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fix Horizontal Screen Deformities Fast</span>
+                        <a href="/master-video-quality-with-ease-and-speed/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Master Video Quality with Ease &amp; Speed</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fine-tuning-screen-adjustments-for-expanded-interface-in-win10/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fine-Tuning Screen Adjustments for Expanded Interface in Win10</span>
+                        <a href="/lighting-the-way-after-fall-update-woes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Lighting the Way After Fall Update Woes</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ending-asus-display-glitch-a-step-by-step-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ending ASUS Display Glitch: A Step-by-Step Guide</span>
+                        <a href="/lenovo-fixed-intermittent-screen-behavior/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Lenovo Fixed Intermittent Screen Behavior</span>
                         </a>
                     
               
                 
                     
-                        <a href="/easy-guide-to-clearing-laptop-display-skew/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Easy Guide to Clearing Laptop Display Skew</span>
+                        <a href="/laptops-blackout-issue-diagnosing-and-rectifying/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Laptop&#39;s Blackout Issue - Diagnosing and Rectifying</span>
                         </a>
                     
               
                 
                     
-                        <a href="/direct3d-enhancement-reached-after-acceleration-fix/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Direct3D Enhancement Reached After Acceleration Fix</span>
+                        <a href="/improving-graphic-density-for-text-elements/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Improving Graphic Density for Text Elements</span>
                         </a>
                     
               
                 
                     
-                        <a href="/conquer-flickering-screen-issues-on-asus-computers/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Conquer Flickering Screen Issues on ASUS Computers</span>
+                        <a href="/how-to-stop-asus-laptop-screen-flickering-fix-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How To Stop ASUS Laptop Screen Flickering Fix Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/blinking-void-after-graphics-patch/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Blinking Void After Graphics Patch</span>
+                        <a href="/guide-to-resolve-windows-11-c1900101-installation-error/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide to Resolve Windows 11 C1900101 Installation Error</span>
                         </a>
                     
               
                 
                     
-                        <a href="/banishing-blinking-light-from-asus-devices-simply/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Banishing Blinking Light From ASUS Devices Simply</span>
+                        <a href="/graphics-glitch-fixed-gpu-back-on-track-nvidia/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Graphics Glitch Fixed, GPU Back on Track (NVIDIA)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/addressing-gpu-shutdown-in-windows-1011-pcs/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Addressing GPU Shutdown in Windows 10/11 PCs</span>
+                        <a href="/graphic-device-creation-successful/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Graphic Device Creation Successful</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1719818355515-cpp-unlocked-successfully/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">CPP Unlocked Successfully</span>
+                        <a href="/eradicate-glare-and-flashing-from-your-asus-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Eradicate Glare and Flashing From Your ASUS Device</span>
                         </a>
                     
               
