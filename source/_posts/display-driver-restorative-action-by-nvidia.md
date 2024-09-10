@@ -1,7 +1,7 @@
 ---
 title: Display Driver Restorative Action by Nvidia
-date: 2024-09-04T07:09:55.429Z
-updated: 2024-09-05T07:09:55.429Z
+date: 2024-09-09T02:19:50.279Z
+updated: 2024-09-10T02:19:50.279Z
 tags:
   - win11
   - win10
@@ -29,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/2bac998ab21448eec5a8cc247cfff1c8109a4e151
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c08bd0f6aa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Change plans to**High Performance** . After opening Power Options window, if you do not see High Performance option, expand “Show additional plans”, then you will see it there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c09e3a2aee.png)
@@ -37,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/2bac998ab21448eec5a8cc247cfff1c8109a4e151
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c0a4a70cf0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c0ab3594da.png)
@@ -49,6 +61,12 @@ thumbnail: https://thmb.techidaily.com/2bac998ab21448eec5a8cc247cfff1c8109a4e151
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c0c35ec296.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  8) Click**Manage 3D settings** in right pane. In left pane at “Global Settings” tab, select “Power management mode” to**Prefer maximum performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c0cc228eef.png)
@@ -71,10 +89,28 @@ Follow steps below to uninstall the Graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18aa82678.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Expand “Display adapters” category and right-click on NVIDIA device name. The context menu will pop up. Click**Uninstall** on context menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573c18d4267ba.png)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After uninstall the driver, restart your PC for the changes to take effect. Then Windows will load the correct drivers.
 
 **Download and Install Latest NVIDIA Graphics Drivers**
@@ -87,6 +123,12 @@ Follow steps below to uninstall the Graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef1551ce774.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Driver Easy has Free version and Paid version. Both versions can be used to download drivers freely. But with Free version, you are required to install drivers manually. To save more time, you can consider using the Paid version. With Paid version, you can get higher download speed, and update all drivers automatically with just 1 click. We offer free technical support guarantee and 30-day money back guarantee. You can ask for further assistance regarding your Nvidia black screen issue and a full refund if you want.
 
 <ins class="adsbygoogle"
@@ -149,10 +191,3 @@ Follow steps below to uninstall the Graphics driver.
 <li><a href="https://graphic-issues.techidaily.com/vision-loss-card-detection-failed/"><u>Vision Loss: Card Detection Failed</u></a></li>
 <li><a href="https://graphic-issues.techidaily.com/win11-screen-glitch-overcome/"><u>Win11 Screen Glitch Overcome</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

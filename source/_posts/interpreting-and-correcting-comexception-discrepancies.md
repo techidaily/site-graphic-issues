@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Correcting COMException Discrepancies
-date: 2024-09-04T07:09:53.831Z
-updated: 2024-09-05T07:09:53.831Z
+date: 2024-09-09T02:19:48.769Z
+updated: 2024-09-10T02:19:48.769Z
 tags:
   - win11
   - win10
@@ -14,20 +14,50 @@ keywords: COMException Basics,Handling COMExceptions,COM Exception Analysis,COME
 thumbnail: https://thmb.techidaily.com/7e3fbcfe204dfbd52573599aedc96b853d77272f3befed715bed50ff29c06e5a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Interpreting and Correcting COMException Discrepancies
 
 At times, you might see the following notifications when you are running some applications on your computer:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-runtime-interopservices-comexception.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-invalidoperationexception.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-outofmemoryexception-insufficient-memory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This is rather annoying, since all the information you get from the notification doesn’t seem to make any sense if you are not a developer. Well, to make it easier to understand, these sort of problems are mainly associated with**video hardware** or**driver** problems.
   
  In this post, we will be talking about the following content:
@@ -55,6 +85,12 @@ For example, if the WPF render thread failed due to some out of memory condition
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-out-of-memory-condition.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Due to the design, the exception that you see on the UI thread isn’t typically helpful in diagnosing the actual cause of the problem. This is because the exception is only shown after the failure detected on the render thread and that render thread and UI thread synchronize. And they only synchronize in a few locations. These, plus the lost of critical state on render thread, make it even harder for developers to understand where and why the failure occurred, or know hot to avoid such a problem.
   
  **3\. What are the common reasons for failure?**
@@ -75,6 +111,12 @@ It is suggested that you use Driver Easy to help you with the update of your vid
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b8443edaa.png)
   
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **b) Update**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b8511c4de.jpg)
@@ -176,16 +218,3 @@ As said, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** is
 <li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
 <li><a href="https://graphic-issues.techidaily.com/wnddevice-creation-now-smooth/"><u>WndDevice Creation Now Smooth</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
