@@ -1,7 +1,7 @@
 ---
 title: Enhanced Control Over Screen DPI in Windows 11 Fix
-date: 2024-07-11T17:10:51.879Z
-updated: 2024-07-12T17:10:51.879Z
+date: 2024-09-07T21:54:24.708Z
+updated: 2024-09-15T04:53:33.766Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -95,6 +102,13 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -119,8 +133,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +140,19 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[Updated] 2024 Approved Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-roadmap-to-youtube-profits-with-sourav-joshi/"><u>[Updated] The Roadmap to YouTube Profits with Sourav Joshi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-green-screen-mastery-on-youtube-ideas-unleashed/"><u>2024 Approved Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-dead-asus-webcam-functionality/"><u>Fixing Dead ASUS Webcam Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-display-on-tv-via-hdmi-pathway-restoration/"><u>Fixing Laptop Display on TV via HDMI Pathway Restoration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-des-meilleurs-reglages-pour-transformer-vos-dvd-en-fichiers-mp4-avec-handbrake/"><u>Guide Des Meilleurs Réglages Pour Transformer Vos DVD en Fichiers MP4 Avec Handbrake</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-generate-stellar-podcast-title-ideas/"><u>How to Generate Stellar Podcast Title Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-videography-for-sims-playtime/"><u>Innovative Videography for Sims Playtime</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lift-the-gloom-restoring-colorfulness-of-an-asus-pc/"><u>Lift the Gloom: Restoring Colorfulness of an Asus PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/save-youtube-content-instantly-use-clickdownloader-for-a-hassle-free-experience-on-mac-computers/"><u>Save YouTube Content Instantly: Use ClickDownloader for a Hassle-Free Experience on Mac Computers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-dell-alienware-aurora-r9-top-tier-future-of-gaming-pcs/"><u>Ultimate Guide: Dell Alienware Aurora R9 - Top-Tier Future of Gaming PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-compatibility-no-more-with-amd-driver-failure/"><u>Windows 10 Compatibility No More with AMD Driver Failure</u></a></li>
+</ul></div>
 

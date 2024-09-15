@@ -1,7 +1,7 @@
 ---
 title: Preventing Screen Flicker in HP Machines
-date: 2024-07-11T17:15:27.830Z
-updated: 2024-07-12T17:15:27.830Z
+date: 2024-09-13T19:31:02.104Z
+updated: 2024-09-14T22:29:49.419Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change the screen refresh rate
 
  The screen refresh rate is the frequency with which the image on your laptop screen is refreshed. If it’s set on a wrong rate, it may cause the screen flickering or blinking problem. So you can check the current screen refresh rate, experiment with the possible rates to see if there is one more suitable to your screen.
@@ -82,6 +89,13 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
@@ -100,6 +114,13 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -129,8 +150,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +157,19 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/updated-how-to-deafen-silent-tweets-impact-for-2024/"><u>[Updated] How to Deafen Silent Tweets' Impact for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-cutting-suites-on-linux-systems/"><u>[Updated] Premier Cutting Suites on Linux Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pioneering-rpgs-rogelikes-and-their-descendants/"><u>2024 Approved Pioneering RPGs Rogelikes & Their Descendants</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-restorative-action-by-nvidia/"><u>Display Driver Restorative Action by Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fused-systems-geforce-and-nforcewindows-blend-together/"><u>Fused Systems: GeForce & nForce/Windows Blend Together</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-displays-windows-largely-not-wholely-on-win11/"><u>Monitor Displays Windows Largely, Not Wholely on Win11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-steps-to-document-your-youtube-creations-for-2024/"><u>Quick Steps to Document Your YouTube Creations for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refocusmonitorimage-upsidedown/"><u>RefocusMonitorImage UpsideDown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revive-laptop-display-on-tv-with-hdmi-fix/"><u>Revive Laptop Display on TV with HDMI Fix</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tips-for-sharing-tweets-non-retweet-video-uploads/"><u>Tips for Sharing Tweets Non-Retweet Video Uploads</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-of-premium-power-inverters-available/"><u>Ultimate Selection of Premium Power Inverters Available</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/win11-elite-screen-recording-software/"><u>Win11 Elite Screen Recording Software</u></a></li>
+</ul></div>
 
