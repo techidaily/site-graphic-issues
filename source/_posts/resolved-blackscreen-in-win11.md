@@ -1,7 +1,7 @@
 ---
 title: Resolved BlackScreen in Win11
-date: 2024-09-12T17:03:45.336Z
-updated: 2024-09-14T20:07:12.976Z
+date: 2024-09-19T01:56:56.146Z
+updated: 2024-09-19T18:55:40.762Z
 tags:
   - win11
   - win10
@@ -84,36 +84,22 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Change settings that are currently unavailable** .
 
@@ -124,13 +110,6 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
 
@@ -144,8 +123,22 @@ If you’re on a laptop:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -183,9 +176,23 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -208,19 +215,6 @@ If you’re on a laptop:
  4) Create and test a new user account as described above.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -263,15 +257,20 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-videography-preference-which-orientation-for-2024/"><u>[Updated] Facebook's Videography Preference Which Orientation for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mirror-movies-a-guide-to-flipping-your-youtube-video-upside-down/"><u>[Updated] Mirror Movies A Guide to Flipping Your YouTube Video Upside Down</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/binggpt-crypto-fraud-alerts-detecting-illegitimate-tokens/"><u>BingGPT Crypto Fraud Alerts: Detecting Illegitimate Tokens</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-asus-rog-phone-7-ultimate-devices-by-drfone-android/"><u>How to Reset Gmail Password on Asus ROG Phone 7 Ultimate Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-magic-vs-2-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Magic Vs 2 Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-v27-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo V27 Pro?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/iphone-and-ipad-management-without-itunes-top-alternatives-on-macos-catalina/"><u>IPhone & iPad Management Without iTunes: Top Alternatives on macOS Catalina</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sparking-the-sleeping-gpu-fans-motion/"><u>Sparking the Sleeping GPU Fan’s Motion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-fix-low-brightness-lenovo-screens/"><u>Tips to Fix Low-Brightness Lenovo Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-motion-magic-mixtures/"><u>[New] 2024 Approved Motion Magic Mixtures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-cutting-edge-screen-shifting-for-editors/"><u>[New] In 2024, Cutting-Edge Screen Shifting for Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-art-of-effective-online-engagement-on-fb/"><u>[Updated] In 2024, The Art of Effective Online Engagement on FB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-rated-apps-for-instagrams-vertical-igtv-content-enhancement/"><u>[Updated] Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/warning-missing-amd-drivers-in-windows-environment/"><u>[WARNING] Missing AMD Drivers in Windows Environment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjust-screen-order-in-windows-7/"><u>Adjust Screen Order in Windows 7</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/methods-to-exclude-sound-from-multimedia-files/"><u>Methods to Exclude Sound From Multimedia Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-and-gpu-hiccup-no-more-thanks-to-nvidia-fixes/"><u>OpenGL & GPU Hiccup - No More Thanks to Nvidia Fixes!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818383351-solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-for-windows-8-safe-mode-access-and-gpu-drives-elimination/"><u>Step-by-Step for Windows 8 Safe Mode Access and GPU Drives Elimination</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-performance-with-solved-r9-windows-10-problems/"><u>Streamlined Performance with Solved R9 Windows 10 Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tips-to-quicken-instagram-media-playback/"><u>Tips to Quicken Instagram Media Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-lgbtqplus-series-streaming-on-netflix-in-july-2024/"><u>Top Picks: Must-Watch LGBTQ+ Series Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
 

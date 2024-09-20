@@ -1,7 +1,7 @@
 ---
 title: Remedying Blurry UI Elements in Far Cry
-date: 2024-07-11T17:02:57.683Z
-updated: 2024-07-12T17:02:57.683Z
+date: 2024-09-18T21:27:22.193Z
+updated: 2024-09-20T02:24:04.902Z
 tags:
   - win11
   - win10
@@ -106,6 +106,19 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -119,6 +132,13 @@ If this doesn’t help, try the next fix.
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this doesn’t help, there’s one more fix you can try.
 
 ## Fix 4: Clean the DirectX cache
@@ -129,10 +149,34 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 ---
@@ -148,8 +192,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +199,23 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-premiere-experts-exceptional-instagram-highlight-craftsmen/"><u>[Updated] 2024 Approved Premiere Experts Exceptional Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-audio-mastery-your-guide-to-youtube-soundtracking/"><u>[Updated] In 2024, Audio Mastery Your Guide to Youtube Soundtracking</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/audio-log-analysis-guidebook/"><u>Audio Log Analysis Guidebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-win11-resolution-settings/"><u>Balancing Win11 Resolution Settings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-lenovos-secret/"><u>Bring Back The Colors: Lenovo's Secret</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easter-promotion-over-wonderfox-2024-offers-extend-with-discounts/"><u>Easter Promotion Over: WonderFox 2024 Offers Extend with Discounts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-display-options-in-windows-11-unlocked/"><u>Enhanced Display Options in Windows 11 Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-window-display-lack-of-full-screen-on-monitor-win11/"><u>Fix Window Display: Lack of Full-Screen on Monitor Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-error-code-c1900101-when-upgrading-to-windows-11/"><u>How To Fix Error Code C1900101 When Upgrading to Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-color-balancer-suite-for-2024/"><u>Prime Color Balancer Suite for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refining-gameplay-dynamics-in-god-of-war/"><u>Refining Gameplay Dynamics in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversing-rear-screen-renders-in-tablets/"><u>Reversing Rear Screen Renders in Tablets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/social-metaverse-titles-top-10-multiplayer-classics/"><u>Social Metaverse Titles Top 10 Multiplayer Classics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-graphics-support-in-windows/"><u>Update Graphics Support in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062770658-wacom-bamboo-driver-download-and-update-easily/"><u>Wacom Bamboo Driver Download & Update Easily</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enabling Graphics Drivers in Win10/11 Laptops
-date: 2024-07-11T17:05:39.202Z
-updated: 2024-07-12T17:05:39.202Z
+date: 2024-09-19T02:34:05.759Z
+updated: 2024-09-20T01:47:37.358Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your graphics driver, restart your computer and check if your dedicated GPU is being used normally.
@@ -76,6 +83,13 @@ If not, don’t worry, there are other fixes you can try.
 3. Under Windows Update, click**Check for updates** . Then wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -101,6 +115,13 @@ If this method doesn’t help, continue with the next fix below.
 3. In the left panel, click**Set PhysX Configuration** . Under Select a PhysX processor, select your dedicated GPU from the dropdown menu, then click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-phx-configuration.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Your laptop should now run with the dedicated NVIDIA GPU.
 
 ### Switch to the dedicated AMD GPU
@@ -108,8 +129,24 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 1. Right-click your desktop and select**AMD** **Radeon Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Navigate to the**System** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/switchable-graphics.jpg)
 4. Select a program and choose**High performance** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
@@ -190,8 +227,6 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,6 +234,15 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-magic-photo-management-decoded-by-reviews/"><u>2024 Approved Magic Photo Management Decoded by Reviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation-for-2024/"><u>Chuckling Chronicles The Best TikTok Joke & Prank Compilation for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-augmented-realms-blending-tech-and-entertainment/"><u>In 2024, Augmented Realms Blending Tech & Entertainment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/permanently-put-a-stop-to-screen-shimmer/"><u>Permanently Put a Stop to Screen Shimmer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-and-configuration-of-usb-30-drivers-in-windows/"><u>Quick Download and Configuration of USB 3.0 Drivers in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/social-media-live-showdown-facebook-vs-youtube-and-twitter-periscope-for-2024/"><u>Social Media Live Showdown Facebook Vs. YouTube & Twitter Periscope for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailoring-god-of-war-for-exciting-gameplay/"><u>Tailoring 'God of War' For Exciting Gameplay</u></a></li>
+</ul></div>
 

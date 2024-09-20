@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Display Issue No More
-date: 2024-07-11T17:10:33.627Z
-updated: 2024-07-12T17:10:33.627Z
+date: 2024-09-18T08:09:35.350Z
+updated: 2024-09-20T02:54:13.099Z
 tags:
   - win11
   - win10
@@ -75,6 +75,13 @@ Here is how to change the monitor refresh rate:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -84,6 +91,14 @@ To do so:
 1. On your keyboard, press the **Windows logo key**  and **R**   at the same time. Then type **services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
@@ -96,6 +111,13 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -158,8 +180,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +187,23 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>[New] 2024 Approved Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-instructions-on-changing-fb-page-backdrop/"><u>[Updated] 2024 Approved Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-snap-tastic-facebooks-fleeting-media/"><u>[Updated] 2024 Approved Snap-Tastic Facebook's Fleeting Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-budget-friendly-alternatives-to-premium-vr-headsets/"><u>[Updated] Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amend-graphic-distortions-in-laptops/"><u>Amend Graphic Distortions in Laptops</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-performance-an-insider-look-at-the-nvidia-shield-tv-pro-for-avid-streamers/"><u>Decoding Performance: An Insider Look at the Nvidia Shield TV Pro for Avid Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevating-graphic-fidelity-windows-7-and-intel-driver-revamp/"><u>Elevating Graphic Fidelity: Windows 7 & Intel Driver Revamp</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-nvidia-conflict-geforce-7025nforce-630a/"><u>Fixing Windows-Nvidia Conflict, GeForce 7025/nForce 630A</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-se-2020-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone SE (2020)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-windows-graphics-latest-nvidia-geforce-210-software-update/"><u>Improve Windows Graphics: Latest NVIDIA GeForce 210 Software Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-detail-on-far-crys-rendering/"><u>Improving Detail on Far Cry's Rendering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-offline-issue-solutions-for-win1011/"><u>Laptop's GPU Offline Issue: Solutions for Win10/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-f25-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo F25 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-call-of-duty-black-ops-cold-war-fixing-ui-error-code-27711/"><u>Resolved: Call of Duty Black Ops Cold War - Fixing UI Error Code 27711</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/virtual-battlegrounds-top-7-fps-showdowns-for-2024/"><u>Virtual Battlegrounds Top 7 FPS Showdowns for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-rejoices-with-fixed-nvidiaintel-graphics-card-pairing/"><u>Windows 10 Rejoices with Fixed Nvidia/Intel Graphics Card Pairing</u></a></li>
+</ul></div>
 

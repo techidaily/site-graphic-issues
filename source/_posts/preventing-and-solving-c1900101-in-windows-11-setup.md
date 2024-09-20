@@ -1,7 +1,7 @@
 ---
 title: Preventing and Solving C1900101 in Windows 11 Setup
-date: 2024-09-09T00:15:32.043Z
-updated: 2024-09-14T19:49:01.706Z
+date: 2024-09-16T01:36:29.985Z
+updated: 2024-09-20T01:11:34.099Z
 tags:
   - win11
   - win10
@@ -47,16 +47,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Remove unused SAT devices
@@ -76,16 +70,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Do a clean boot
@@ -98,16 +86,16 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
@@ -117,6 +105,13 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41fd5bee675.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
 ## Method 5: Run SFC/ DISM tools
@@ -125,20 +120,14 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -153,19 +142,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -190,18 +166,12 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-launching-a-youtube-channel-for-profit/"><u>[New] 2024 Approved First Steps Launching a YouTube Channel for Profit</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-ideal-video-sizes-for-instagram-success/"><u>[New] In 2024, Unveiling the Ideal Video Sizes for Instagram Success</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ethical-approaches-to-extract-mp4-from-youtube/"><u>[Updated] 2024 Approved Ethical Approaches to Extract MP4 From YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-most-compelling-5-ios-podcast-solutions-for-2024/"><u>[Updated] Most Compelling 5 iOS Podcast Solutions for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/broadcast-without-delay-immediate-monitor-signal-restoration/"><u>Broadcast Without Delay: Immediate Monitor Signal Restoration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-backlighting/"><u>Enhancing Lenovo Laptop Backlighting</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2020-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2020) when Phone is Broken?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-90-lite-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 90 Lite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-windows-fix-remove-outdated-graphics-cards/"><u>Quick Windows Fix: Remove Outdated Graphics Cards</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/showcasing-8-online-marvels-3d-and-luxurious-text-visuals-for-2024/"><u>Showcasing 8 Online Marvels 3D & Luxurious Text Visuals for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/snap-the-truth-your-manual-to-authenticity-on-instagram-for-2024/"><u>Snap the Truth Your Manual to Authenticity on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-virtual-therapy-top-5-bot-innovations/"><u>The Rise of Virtual Therapy: Top 5 Bot Innovations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-output-stabilized-22-resolved/"><u>Video Output Stabilized: #22 Resolved</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/eero-pro-router-range-review-achieving-impeccable-internet-access-throughout-your-residence/"><u>Eero Pro Router Range Review: Achieving Impeccable Internet Access Throughout Your Residence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-strategy-unseen-graphics-cards-on-pcs/"><u>Fix Strategy: Unseen Graphics Cards on PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-erratic-screen-behavior-on-dell-laptop/"><u>Resolved: Erratic Screen Behavior on Dell Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818065530-reviving-the-gone-display-on-my-laptop/"><u>Reviving the Gone Display on My Laptop!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-5-drawbacks-of-choosing-a-suitcase-turntable-exploring-alternatives/"><u>Top 5 Drawbacks of Choosing a Suitcase Turntable: Exploring Alternatives</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win11: Screen Stability Achieved"
-date: 2024-07-11T17:08:26.972Z
-updated: 2024-07-12T17:08:26.972Z
+date: 2024-09-18T10:47:22.303Z
+updated: 2024-09-19T23:22:29.912Z
 tags:
   - win11
   - win10
@@ -73,6 +73,14 @@ If the issue remains, check out the next fix.
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
@@ -105,6 +113,14 @@ If the issue remains, check out the next fix.
 4. Go back to**Personalization** window and select**Colors** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
@@ -132,6 +148,14 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-regedit.jpg)
 2. In Registry Editor, navigate to**HKEY\_CURRENT\_USER\\SOFTWARE\\Microsoft\\Avalon.Graphics** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under Avalon.Graphics, on the right pane, check to see if there is a key named**DisableHWAcceleration** .  
 
  If there is,**double-click** on it and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
@@ -177,6 +201,13 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
@@ -184,6 +215,13 @@ If this fix doesn’t do the trick, try the next one below.
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, check if your problem has been resolved.
 
@@ -199,8 +237,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,6 +244,20 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-ten-video-cards-selection-guide-for-youtube-aficionados/"><u>[New] Top-Ten Video Cards Selection Guide for YouTube Aficionados</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-podcasting-garageband-edition/"><u>[Updated] 2024 Approved Cutting Edge Podcasting GarageBand Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-beyondthebaseline-mycams-successor/"><u>2024 Approved BeyondTheBaseline MyCam's Successor?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pc-experience-innovation-at-your-fingertips/"><u>2024 Approved Superior PC Experience Innovation at Your Fingertips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-11-display-glitches/"><u>Eradicate Windows 11 Display Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817948147-fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won’t Turn On Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-perfect-dolby-atmos-audio-quality-on-your-window-powered-pc/"><u>How to Ensure Perfect Dolby Atmos Audio Quality on Your Window-Powered PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-your-youtube-earnings-with-effective-adsense-use/"><u>In 2024, Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-real-time-visual-documentation/"><u>In 2024, Real-Time Visual Documentation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-art-of-superior-images-for-free/"><u>In 2024, Unlocking the Art of Superior Images for Free</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-amd-driver-functionality-on-win10/"><u>Repaired AMD Driver Functionality on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unsaved-settings-no-more-display-fixed/"><u>Unsaved Settings No More: Display Fixed</u></a></li>
+</ul></div>
 

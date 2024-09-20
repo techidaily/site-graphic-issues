@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with AMD's FreeSync Latency
-date: 2024-07-11T17:04:03.747Z
-updated: 2024-07-12T17:04:03.747Z
+date: 2024-09-17T18:33:42.119Z
+updated: 2024-09-19T20:58:08.216Z
 tags:
   - win11
   - win10
@@ -66,6 +66,14 @@ If the problem persists, take a look at the next fix.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
@@ -75,6 +83,13 @@ If the problem persists, take a look at the next fix.
 
  If the latest drivers can’t solve your problem, simply check out the next method. (Or you can follow [this guide](https://tools.techidaily.com/drivereasy/download/) and do a clean reinstallation with DDU.)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Perform a clean boot**
 
  This issue could also indicate a compatibility issue, meaning that some other programs might be conflicting with each other. To rule out this possibility, you can do a clean boot.
@@ -82,6 +97,14 @@ If the problem persists, take a look at the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
@@ -104,6 +127,14 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -137,6 +168,14 @@ If this doesn’t help, you can continue to the next method.
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
@@ -154,8 +193,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +200,21 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-take-flight-with-social-media-dji-drone-streaming-basics/"><u>[Updated] 2024 Approved Take Flight with Social Media DJI Drone Streaming Basics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-jumpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators/"><u>[Updated] Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-hdr-techniques-in-modern-photoshoots/"><u>[Updated] Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-unsuccessful-windows-10-driver-loading-resolved/"><u>AMD: Unsuccessful Windows 10 Driver Loading - Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-services/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Services</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hybrid-gpu-success-windows-10-tamed-by-nvidia-and-intel-switches/"><u>Hybrid GPU Success: Windows 10 Tamed by Nvidia and Intel Switches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-s17t-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo S17t</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-the-art-of-screen-recording-top-4-techniques-for-hp-users-for-2024/"><u>Mastering the Art of Screen Recording Top 4 Techniques for HP Users for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-win11-displays-glitchy/"><u>Overcome: Win11 Displays Glitchy</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-redmi-k70e-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Redmi K70E</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solid-gaming-on-rtx-3080-tech/"><u>Solid Gaming on RTX 3080 Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-fallout-4-stop-the-pc-freeze-cycle/"><u>Stabilize Fallout 4: Stop the PC Freeze Cycle</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-art-of-crafting-successful-instagram-posts/"><u>The Art of Crafting Successful Instagram Posts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-pc-gaming-on-win11-with-geforce-210-update/"><u>Transform Your PC Gaming on Win11 With GeForce 210 Update</u></a></li>
+</ul></div>
 

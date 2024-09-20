@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-09-07T19:17:39.732Z
-updated: 2024-09-15T01:50:40.969Z
+date: 2024-09-15T05:19:45.811Z
+updated: 2024-09-19T19:50:12.151Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
@@ -79,6 +79,13 @@ Here is how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -99,20 +106,13 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable fast startup
@@ -126,21 +126,16 @@ So you can try disabling fast startup to see if it does the trick:
 2. Click **Choose what the power buttons do** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
-![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
-4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
@@ -149,13 +144,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -163,6 +151,14 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press the **Windows logo key** and type **system restore** , then click on **Create a restore point** once it shows up as a matching result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
@@ -208,16 +204,20 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-amplifying-visuals-android-video-guide/"><u>[New] In 2024, Amplifying Visuals Android Video Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-board-collaboration-a-compreenasion-of-using-whiteboards-on-all-zoom-platforms/"><u>2024 Approved Streamlining Board Collaboration - A Compreenasion of Using Whiteboards on All Zoom Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-every-word-in-high-fidelity-with-discord/"><u>Capture Every Word in High Fidelity with Discord</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crisp-views-reignited-on-win11-screens/"><u>Crisp Views Reignited on Win11 Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-classic-to-continuous-understanding-windows-10-and-11s-evolution/"><u>From Classic to Continuous: Understanding Windows 10 & 11'S Evolution</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-edge-40-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Edge 40</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-black-screens-restore-your-laptops-life/"><u>Solve Black Screens, Restore Your Laptop's Life</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-lenovo-display-stop-screen-flicker/"><u>Solving Lenovo Display: Stop Screen Flicker</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sync-your-display-flicker-free-surface-pro-7/"><u>Sync Your Display: Flicker-Free Surface Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-vanished-visuals-on-electronic-screens/"><u>Unveiling Vanished Visuals on Electronic Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>[New] In 2024, The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-melodymaster-recording-software-guide-for-2024/"><u>[New] MelodyMaster Recording Software Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activate-gpu-on-laptop-windows-1011-fixes/"><u>Activate GPU on Laptop: Windows 10/11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-bright-winscreen/"><u>Clear, Bright WinScreen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-repairing-jvmdll-is-missing-or-corrupt-issues/"><u>Comprehensive Guide: Repairing 'JVM.DLL Is Missing or Corrupt' Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blank-screens-in-win11/"><u>Ending Blank Screens in Win11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/legal-ways-to-boost-your-video-watch-count-responsibly-for-2024/"><u>Legal Ways to Boost Your Video Watch Count Responsibly for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-desktopiosandroid-zoom-with-a-virtual-board-for-2024/"><u>Mastering Desktop/iOS/Android Zoom with a Virtual Board for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-hurdles-with-direct3d-achieved-max-gpu-speed/"><u>Resolved Graphics Hurdles with Direct3D, Achieved Max GPU Speed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-songs-on-youtube-platform-for-2024/"><u>Streamline Your Songs on Youtube Platform for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-videos-at-your-fingertips/"><u>Uninterrupted Videos at Your Fingertips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-king-of-slate-a-comprehensive-review-of-the-2018-apple-ipad-pro-11-inch-market-dominators/"><u>Unveiling the King of Slate: A Comprehensive Review of the 2018 Apple iPad Pro (11-Inch) - Market Dominators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanishing-polaris-video-card-fixed/"><u>Vanishing Polaris Video Card Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-1011-re-enabling-graphics-card-functions/"><u>Windows 10/11: Re-Enabling Graphics Card Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-time-with-selective-copymove-features-in-win-11/"><u>Winning Time with Selective Copy/Move Features in Win 11</u></a></li>
 </ul></div>
 

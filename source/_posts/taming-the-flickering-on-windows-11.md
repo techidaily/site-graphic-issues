@@ -1,7 +1,7 @@
 ---
 title: Taming the Flickering on Windows 11
-date: 2024-07-11T17:09:23.480Z
-updated: 2024-07-12T17:09:23.480Z
+date: 2024-09-19T05:44:24.371Z
+updated: 2024-09-20T04:55:25.948Z
 tags:
   - win11
   - win10
@@ -73,6 +73,14 @@ If the issue remains, check out the next fix.
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
@@ -93,6 +101,13 @@ If the issue remains, check out the next fix.
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change Accent color and Background
 
  Just like Windows 10, there is an option in Windows 11 that allows your system to automatically select an accent color from your background. However, there are many reports that this option turns out to be a culprit of screen flickering. So you can follow these steps to disable it:
@@ -108,6 +123,13 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable animation effects
 
@@ -151,6 +173,13 @@ If this fix doesn’t do the trick, try the next one below.
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
 ### Fix 8: Repair your system files
@@ -166,6 +195,13 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2: Use the System File Checker tool to repair system files
 
@@ -199,8 +235,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,6 +242,20 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-11-essential-drone-gear-for-your-phantom-4/"><u>[New] 2024 Approved 11 Essential Drone Gear for Your Phantom 4</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>[New] In 2024, The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zoom-room-basics-for-newbies/"><u>[Updated] 2024 Approved Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-outstanding-no-cost-alternatives-to-skype/"><u>5 Outstanding No-Cost Alternatives to Skype</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-m34-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy M34 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-vlc-capture-tool-assessment/"><u>In 2024, VLC Capture Tool Assessment</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-5-best-cellphone-tunes-of-the-year/"><u>New 2024 Approved 5 Best Cellphone Tunes of the Year</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817458455-nvidiaintel-graphics-issue-no-more-on-windows-10/"><u>Nvidia/Intel Graphics Issue No More on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-obscured-views-in-twitch-video/"><u>Overcoming Obscured Views in Twitch Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-graphics-cards-with-nvidia-gpu/"><u>Quick-Fix Guide: Graphics Cards with NVIDIA GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quiet-windows-11-monitor-stabilization/"><u>Quiet Windows 11 Monitor Stabilization</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-battle-of-titans-how-does-the-apple-iphone-15-pro-stack-up-to-the-pro-max-edition/"><u>The Battle of Titans: How Does the Apple iPhone 15 Pro Stack Up to the Pro Max Edition?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>
 

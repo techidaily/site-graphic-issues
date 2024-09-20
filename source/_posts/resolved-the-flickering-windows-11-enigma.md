@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] The Flickering Windows 11 Enigma"
-date: 2024-07-11T17:07:06.663Z
-updated: 2024-07-12T17:07:06.663Z
+date: 2024-09-14T16:47:14.473Z
+updated: 2024-09-20T11:45:48.606Z
 tags:
   - win11
   - win10
@@ -71,9 +71,32 @@ If the issue remains, check out the next fix.
 1. On your desktop,**right-click** an empty space and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
@@ -138,6 +161,14 @@ If this fix doesn’t do the trick, try the next one below.
  If there isn’t, right-click on empty space and select**New** \>**DWORD (32-bit) value** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-new-DWORD.jpg)  
  Then rename the file as**DisableHWAcceleration** .**Double-click** on the file and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
 4. Close Registry Editor and restart your computer.
 
@@ -177,6 +208,13 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
@@ -199,8 +237,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,6 +244,23 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-quick-steps-to-authenticate-your-youtube-login/"><u>[Updated] Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-pny-rp6-usb-c-ssd-assessment-adequate-performance-with-room-for-improvement/"><u>Comprehensive PNY RP6# USB-C SSD Assessment - Adequate Performance with Room for Improvement</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dawn-for-dark-lenovo-displays/"><u>Dawn for Dark Lenovo Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disable-fullscreen-monitors-dont-show-in-win10/"><u>Disable Fullscreen? Monitors Don't Show in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-in-win11/"><u>Eliminating Graphic Swap Errors in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-smoothness-on-latest-rtx-graphics/"><u>Game Smoothness on Latest RTX Graphics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-enhanced-video-clarity-on-google-meet-for-2024/"><u>In-Depth Guide to Enhanced Video Clarity on Google Meet for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastered-setup-overcoming-nvidia-errors/"><u>Mastered Setup: Overcoming Nvidia Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-failures-display-settings-now-safe/"><u>No More Failures - Display Settings Now Safe</u></a></li>
+<li><a href="https://network-issues.techidaily.com/re-enabling-displays-on-nvidia-gpus/"><u>Re-Enabling Displays on NVIDIA GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-wnddevice-init-succeeded/"><u>Success: WndDevice Init Succeeded</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-update-error-code-0x802fixed/"><u>Ultimate Guide: Resolving the Windows Update Error Code 0X802^[Fixed]</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X50i+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-brilliance-an-insight-into-android-system-intelligence/"><u>Unveiling the Brilliance: An Insight Into Android System Intelligence</u></a></li>
+</ul></div>
 

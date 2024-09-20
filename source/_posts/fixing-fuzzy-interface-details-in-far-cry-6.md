@@ -1,7 +1,7 @@
 ---
 title: Fixing Fuzzy Interface Details in Far Cry 6
-date: 2024-07-11T17:04:51.861Z
-updated: 2024-07-12T17:04:51.861Z
+date: 2024-09-18T08:08:54.399Z
+updated: 2024-09-20T09:46:38.609Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -117,9 +124,24 @@ If this doesn’t help, try the next fix.
 3. Once the game executable is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -129,8 +151,30 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
@@ -148,8 +192,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +199,16 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-fundamental-definitions-in-virtual-narrative-art/"><u>[New] Fundamental Definitions in Virtual Narrative Art</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-screenscape-irregularities-in-pro-7/"><u>Combatting Screenscape Irregularities in Pro 7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-enhanced-features-in-premium-spotify/"><u>Exploring the Enhanced Features in Premium Spotify</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertedviewresolution/"><u>InvertedViewResolution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-system-updates-on-windows-7-pcs/"><u>Quick-Fix System Updates on Windows 7 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-non-standard-laptop-display-layout/"><u>Rectified Non-Standard Laptop Display Layout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-error-no-more-code-22-solved/"><u>Screen Error No More: Code 22 Solved</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simplify-video-creation-making-engaging-youtube-trailers-in-filmora/"><u>Simplify Video Creation Making Engaging YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-y100i-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo Y100i without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

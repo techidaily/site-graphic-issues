@@ -1,7 +1,7 @@
 ---
 title: "Stabilize Fallout 4: Stop the PC Freeze Cycle"
-date: 2024-07-11T17:08:19.107Z
-updated: 2024-07-12T17:08:19.107Z
+date: 2024-09-15T11:13:58.991Z
+updated: 2024-09-19T21:57:29.807Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -92,6 +106,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
@@ -112,8 +133,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +140,22 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>[New] Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-puzzling-perfection-hunt-for-the-ultimate-rooms-for-2024/"><u>[New] Puzzling Perfection Hunt for the Ultimate Rooms for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-directx12-affecting-halo-infinite-launch-sequence/"><u>[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-visual-journey-to-crafting-a-user-friendly-subscribe-link-for-2024/"><u>[Updated] A Visual Journey to Crafting a User-Friendly Subscribe Link for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-flickering-screens-on-dell-portable-device/"><u>Cured Flickering Screens on Dell Portable Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-dark-screens-on-your-twitch-channel/"><u>Eradicate Dark Screens on Your Twitch Channel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-beta-to-breakthrough-the-most-prominent-cam-recorders-top-18-for-2024/"><u>From Beta to Breakthrough The Most Prominent Cam Recorders (Top 18) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-glitch-undetected-card/"><u>Graphic Glitch: Undetected Card</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-windows-10-after-fall-shadows/"><u>Illuminating Windows 10 After Fall Shadows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-8t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 8T? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-asus-rog-phone-8-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Asus ROG Phone 8? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-intel-driver-enhancements-in-win7/"><u>Navigating Intel Driver Enhancements in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-mirrored-window-issue-windows-11/"><u>Overcoming Mirrored Window Issue: Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-z-flip-5-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy Z Flip 5 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 

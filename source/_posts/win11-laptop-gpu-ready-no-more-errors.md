@@ -1,7 +1,7 @@
 ---
 title: "Win11 Laptop: GPU Ready, No More Errors"
-date: 2024-09-12T01:11:07.584Z
-updated: 2024-09-15T03:38:56.667Z
+date: 2024-09-18T02:44:04.091Z
+updated: 2024-09-19T19:33:16.514Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your graphics driver, restart your computer and check if your dedicated GPU is being used normally.
@@ -84,12 +77,32 @@ If not, don’t worry, there are other fixes you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 11
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. Select **Windows Update**  from the left panel. Then click on the **Check for updates**  button from the right side.  
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can check if your dedicated GPU is being used.
 
@@ -99,6 +112,13 @@ If this method doesn’t help, continue with the next fix below.
 
  Usually, your laptop will use the integrated GPU for easier tasks to save power and switch back to the dedicated GPU for better performance. But if it doesn’t switch to the dedicated GPU when needed, you can do it manually via NVIDIA Control Panel or AMD Radeon Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Switch to the dedicated NVIDIA GPU
 
 1. Right-click your desktop background and select**NVIDIA Control Panel** from the menu.  
@@ -106,13 +126,6 @@ If this method doesn’t help, continue with the next fix below.
 2. In the left panel, click**Manage 3D Settings** , then select**High performance NVIDIA processor** from the dropdown menu and click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/manage-3d-settings.jpg)
 3. In the left panel, click**Set PhysX Configuration** . Under Select a PhysX processor, select your dedicated GPU from the dropdown menu, then click**Apply** to save changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-phx-configuration.jpg)
 
@@ -123,6 +136,14 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 1. Right-click your desktop and select**AMD** **Radeon Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Navigate to the**System** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/switchable-graphics.jpg)
@@ -148,28 +169,8 @@ But if not, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse-1.jpg)
 4. Then click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
 
@@ -191,6 +192,13 @@ But if not, you can take a look at the next fix.
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Graphics-preference-High-performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After doing so, open Task Manager to check if the program is using the dedicated GPU.
 
 If not, see below for more solutions.
@@ -206,13 +214,6 @@ If not, see below for more solutions.
 Once done, restart your laptop and see if the issue is fixed.
 
 If this trick doesn’t work for you, check out the last solution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Update your BIOS
 
@@ -243,20 +244,14 @@ If this trick doesn’t work for you, check out the last solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-economical-microphones-catered-to-vloggers/"><u>[New] 2024 Approved Economical Microphones Catered to Vloggers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-breaking-tiktok-trends-twitters-1-list-unveiled/"><u>[New] Breaking TikTok Trends Twitter's #1 List Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamlining-remote-recordings-a-producers-guide/"><u>[New] In 2024, Streamlining Remote Recordings A Producer’s Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-display-driver-igfx-stopped-responding-and-has-successfully-recovered/"><u>[SOLVED] Display Driver Igfx Stopped Responding and Has Successfully Recovered</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-free-no-invasive-android-video-recorders-for-2024/"><u>[Updated] Best Free, No-Invasive Android Video Recorders for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-captivating-video-narratives-for-youtube-success-for-2024/"><u>[Updated] Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recording-pros-bandicam-or-camtasia-for-2024/"><u>[Updated] Screen Recording Pros Bandicam or Camtasia for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dark-display-latest-graphics-fix/"><u>Dark Display - Latest Graphics Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-devices-fixed/"><u>Horizontal Adjustment - Portable Devices Fixed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-horizon-nvidia-geforce-210-driver-for-win11/"><u>New Graphics Horizon: NVIDIA GeForce 210 Driver for Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-diagonal-misalignment-in-netbooks/"><u>Resolved Diagonal Misalignment in Netbooks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-repairing-your-micro-sd-card-and-retrieving-lost-files/"><u>Step-by-Step Guide: Repairing Your Micro SD Card & Retrieving Lost Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-your-watch-experience-now/"><u>Streamline Your Watch Experience Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlisted-geforce-gpu-on-pc/"><u>Unlisted GeForce GPU on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-potential-pitfalls-in-virtual-realms-for-2024/"><u>[Updated] Potential Pitfalls in Virtual Realms for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-iphone-night-photography-tips-take-night-photos-with-iphone/"><u>2024 Approved IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-spotting-blocked-contacts-in-snapchat/"><u>2024 Approved Spotting Blocked Contacts in Snapchat</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-r9-errors-the-final-step-for-win11/"><u>Fixing R9 Errors: The Final Step for Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-lenovo-phone-by-drfone-android/"><u>How to Unlock a Network Locked Lenovo Phone?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-malfunction-cured-display-resolved/"><u>Nvidia Malfunction Cured - Display Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-7-flicker-a-quick-guide/"><u>Solving Windows 7 Flicker: A Quick Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-captures-of-apples-hd-display-shots-under-156-characters/"><u>Top Captures of Apple's HD Display Shots (Under 156 Characters)</u></a></li>
 </ul></div>
 

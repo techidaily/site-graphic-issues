@@ -1,7 +1,7 @@
 ---
 title: Activating the Slumbering GPU Fan
-date: 2024-09-12T03:57:11.433Z
-updated: 2024-09-15T03:23:17.461Z
+date: 2024-09-15T18:43:41.008Z
+updated: 2024-09-19T22:02:25.591Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
@@ -58,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -78,21 +92,16 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -110,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
 ### Fix 5: Scan and repair your system
@@ -130,33 +132,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -165,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -189,21 +172,17 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide/"><u>[New] In 2024, Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-pairing-sound-and-imagery-in-media-production/"><u>2024 Approved Perfect Pairing Sound & Imagery in Media Production</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-top-camcorders-to-consider-in-depth-analysis/"><u>2024 Approved The Top Camcorders to Consider – In-Depth Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tracing-the-evolutionary-path-of-windows-movie-maker/"><u>2024 Approved Tracing the Evolutionary Path of Windows Movie Maker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-acceleration-not-available-solved/"><u>Direct3D Acceleration Not Available [SOLVED]</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discovering-the-core-of-tech-evolution-at-toms-hardware-destination/"><u>Discovering the Core of Tech Evolution at Tom's Hardware Destination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-device-43-fix-complete/"><u>Display Device 43 Fix Complete</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-hd-graphics-drivers-on-windows/"><u>How to Update Intel HD Graphics Drivers on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-15-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 15 Plus How to Bypass?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/limit-win-10-display-extensiveness/"><u>Limit WIN 10 Display Extensiveness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-glitches-without-freeze-outages/"><u>Overcoming GPU Glitches Without Freeze Outages</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-disruptions-in-rainbow-six-siege-after-the-latest-update-of-2024-tips-and-tricks/"><u>Overcoming Voice Chat Disruptions in Rainbow Six Siege After the Latest Update of 2024: Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-oversized-window-problems-on-windows-10-computers/"><u>Resolving Oversized Window Problems on Windows 10 Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reveal-color-in-twitch-blackouts/"><u>Reveal Color in Twitch Blackouts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-13-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-hot-30i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Hot 30i for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-aural-elements-in-online-visuals/"><u>[Updated] Aural Elements in Online Visuals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-pinnacle-photo-chronicles-creator-set-for-2024/"><u>[Updated] Pinnacle Photo Chronicles Creator Set for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-580-drivers-download-and-update-quickly-and-easily/"><u>AMD RX 580 Drivers Download & Update. Quickly & Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cleared-windows-distortion-for-improved-views/"><u>Cleared Windows Distortion for Improved Views</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-fast-ultimate-guide-to-installing-wireless-adapter-drivers/"><u>Download Fast: Ultimate Guide to Installing Wireless Adapter Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-stability-avoiding-rtx-crashes/"><u>Game Stability: Avoiding RTX Crashes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-m14-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy M14 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-google-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Google</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-meme-monster-maestro/"><u>In 2024, Meme Monster Maestro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/proven-strategies-for-windows-8s-secure-boot-graphics-card-drivers-erasure/"><u>Proven Strategies for Windows 8'S Secure Boot - Graphics Card Drivers Erasure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-asus-built-in-camera-operation/"><u>Restoring ASUS Built-In Camera Operation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-12-upgrades-and-enhancements-desired-in-the-next-version-of-windows/"><u>Top 12 Upgrades and Enhancements Desired in the Next Version of Windows</u></a></li>
 </ul></div>
 

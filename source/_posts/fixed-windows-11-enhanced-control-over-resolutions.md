@@ -1,7 +1,7 @@
 ---
 title: Fixed Windows 11 - Enhanced Control Over Resolutions
-date: 2024-07-11T17:08:43.874Z
-updated: 2024-07-12T17:08:43.874Z
+date: 2024-09-17T02:33:00.675Z
+updated: 2024-09-20T06:55:45.369Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -100,6 +107,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -119,8 +133,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +140,18 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-accelerated-download-solutions-for-vimeo-files/"><u>[Updated] Accelerated Download Solutions for Vimeo Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-text-workflow-in-after-effects/"><u>[Updated] Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connectivity-solutions-fixing-external-monitor-detection-on-your-mac-computer/"><u>Connectivity Solutions: Fixing External Monitor Detection on Your Mac Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fastest-authorized-winx-dvd-ripper-pro-convert-dvds-to-hdmp4-quickly-with-h23-hevc-codecs/"><u>Fastest [AUTHORIZED] WinX DVD Ripper Pro: Convert DVDs to HDMP4 Quickly with H.2^3 / HEVC Codecs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-constructing-unique-instagram-post-images/"><u>In 2024, Constructing Unique Instagram Post Images</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-media-player-functionality-for-new-win11/"><u>Optimizing Media Player Functionality for New Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/released-camera-error-43-resolution/"><u>Released: Camera Error 43 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-unconventional-laptop-display-setting/"><u>Resolved Unconventional Laptop Display Setting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-netflix-stutter-after-upgraded-windows/"><u>Resolving Netflix Stutter After Upgraded Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-options-fix-in-win-7-and-10-solved/"><u>Saving Display Options: Fix in Win 7 & 10 [Solved]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-power-of-a-reboot-why-resetting-your-device-clears-issues/"><u>The Power of a Reboot: Why Resetting Your Device Clears Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Recovery From Cursor Freeze in Windows
-date: 2024-09-10T01:22:35.784Z
-updated: 2024-09-15T05:12:40.406Z
+date: 2024-09-14T03:36:51.836Z
+updated: 2024-09-20T08:42:29.359Z
 tags:
   - win11
   - win10
@@ -87,6 +87,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -99,14 +107,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
 
@@ -116,13 +124,6 @@ If you’re on a laptop:
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
@@ -131,10 +132,16 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Restart your PC.
@@ -168,13 +175,6 @@ If you’re on a laptop:
  2) Type “settings” in the search box and select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Accounts** .
 
@@ -216,22 +216,23 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **Recovery** .  
@@ -261,21 +262,18 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-windows-11s-in-built-auto-hdr-feature/"><u>[New] Mastering Windows 11'S In-Built Auto HDR Feature</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blackout-effect-driver-change/"><u>Blackout Effect: Driver Change</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expand-your-digital-horizons-with-the-asrock-z890-taichi-aqua-equipped-with-dual-thunderbolt-and-ten-usb-type-c-ports/"><u>Expand Your Digital Horizons with the ASRock Z890 Taichi Aqua - Equipped with Dual Thunderbolt and Ten USB Type-C Ports</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fullscreen-missing-in-windows-10-monitor-view/"><u>Fullscreen Missing in Windows 10 Monitor View</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hitman-navigating-and-resolving-the-infamous-connection-error/"><u>Hitman Navigating and Resolving the Infamous Connection Error</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-tools-to-convert-and-tweet-videos/"><u>In 2024, Optimal Tools to Convert and Tweet Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixels-personal-soundtrack-a-selection-guide/"><u>In 2024, Pixel's Personal Soundtrack A Selection Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-display-features-unlocked-on-windows-11/"><u>New Display Features Unlocked on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-11-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-stuck-display-scales-solution-for-win11-users/"><u>Overcoming Stuck Display Scales: Solution for Win11 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-banish-win7-screen-flicker/"><u>Quick Fix: Banish Win7 Screen Flicker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-visual-output-windows-7-style/"><u>Reverse Visual Output, Windows 7 Style</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-analytics-understanding-metrics-without-fancy-tools-for-2024/"><u>The Art of Analytics Understanding Metrics Without Fancy Tools for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-photos-today-with-the-nixplay-iris-advantage/"><u>Transform Your Photos Today With the Nixplay Iris Advantage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>[New] In 2024, Grasping the Full Potential of Animoji on iPhone X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[Updated] Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2022-olympic-sprint-ice-key-moments-and-winners/"><u>2022 Olympic Sprint Ice Key Moments and Winners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macwindows-11-mov-mp4/"><u>無需花費：如何在 MAC/Windows 11 系統上免費 MOV 影片轉成 MP4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-pci-graphics-and-network-adapter-drivers-for-microsoft-windows-11-to-7/"><u>Download Updated PCI Graphics and Network Adapter Drivers for Microsoft Windows 11 to 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-hiccup-in-win11/"><u>Eliminate Screen Hiccup in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hidden-advanced-options-in-win10-display/"><u>Fixing Hidden Advanced Options in Win10 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-activation-win11-laptop-operational/"><u>GPU Activation: Win11 Laptop Operational</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-xs-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone XS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-innovative-5-websites-eclipsing-twitter/"><u>In 2024, Innovative 5 Websites Eclipsing Twitter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-list-of-free-and-paid-android-video-editing-software/"><u>In 2024, The Ultimate List of Free and Paid Android Video Editing Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-play-with-less-lag/"><u>Optimal Play with Less Lag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-to-asus-display-dilemmas/"><u>Swift Solutions to Asus Display Dilemmas</u></a></li>
 </ul></div>
 

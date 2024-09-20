@@ -1,7 +1,7 @@
 ---
 title: Lenovo Monochrome Mishaps Resolved
-date: 2024-07-11T17:07:56.227Z
-updated: 2024-07-12T17:07:56.227Z
+date: 2024-09-15T03:35:22.696Z
+updated: 2024-09-20T02:50:54.996Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -105,6 +112,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -119,6 +133,19 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
@@ -126,6 +153,19 @@ So you can try disabling fast startup to see if it does the trick:
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -149,6 +189,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
@@ -170,8 +217,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,6 +224,14 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c22-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C22 FRP Bypass Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-lit-fixing-win10-fall-blues/"><u>From Dark to Lit: Fixing Win10 Fall Blues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lenovo ThinkPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/peek-into-hidden-social-interaction-on-platforms-like-youtube/"><u>Peek Into Hidden Social Interaction on Platforms Like YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-and-solving-c1900101-in-windows-11-setup/"><u>Preventing and Solving C1900101 in Windows 11 Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-max-show-premieres-today/"><u>Top Picks: The Best Max Show Premieres Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-stopped-no-gpu/"><u>Visual Output Stopped, No GPU</u></a></li>
+</ul></div>
 

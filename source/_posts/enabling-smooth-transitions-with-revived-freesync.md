@@ -1,7 +1,7 @@
 ---
 title: Enabling Smooth Transitions with Revived FreeSync
-date: 2024-09-08T17:35:50.750Z
-updated: 2024-09-15T00:41:27.011Z
+date: 2024-09-14T04:44:06.749Z
+updated: 2024-09-19T23:58:49.705Z
 tags:
   - win11
   - win10
@@ -57,10 +57,16 @@ If the problem persists, take a look at the next fix.
  If this doesn’t fix the issue, simply continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest correct drivers
@@ -73,15 +79,16 @@ If the problem persists, take a look at the next fix.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -98,20 +105,22 @@ If the problem persists, take a look at the next fix.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -150,13 +159,6 @@ If the issue is still there, simply try the next fix.
 2. Navigate to the **Compatibility**  tab. Under the **Settings**  section, check the box next to **Disable fullscreen optimizations** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
@@ -171,23 +173,17 @@ If this doesn’t help, you can continue to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now launch the program/game and check if FreeSync is working.
 
@@ -212,15 +208,19 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] Spark Your Audience with Best Video Content Ideas</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>2024 Approved Crafting an Engaging Online Presence The Complete Guide to YouTube Submissions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/consumers-speak-the-vllo-narrative-for-2024/"><u>Consumers Speak The VLLO Narrative for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursory-blackscreen-curser-surfaces-win11/"><u>Cursory BlackScreen, Curser Surfaces Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-obtaining-new-drivers-for-your-asus-notebook-system/"><u>Easy Guide: Obtaining New Drivers for Your ASUS Notebook System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-performance-updated-amd-6950-graphics-on-windows-10/"><u>Enhance Performance: Updated AMD 6950 Graphics on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-15-fantastic-gratis-software-uninstallers-for-your-pc/"><u>Explore These 15 Fantastic Gratis Software Uninstallers for Your PC</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-hdmi-connectivity-woes-solved/"><u>Laptop to TV HDMI Connectivity Woes Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restart-to-success-easily-reestablish-monitor-connectivity/"><u>Restart to Success: Easily Reestablish Monitor Connectivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-postponed-video-game-releases/"><u>A Closer Look at Postponed Video Game Releases</u></a></li>
+<li><a href="https://win11.techidaily.com/brightening-up-get-rid-of-yellow-on-windows-screens/"><u>Brightening Up: Get Rid of Yellow on Windows Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-buzz-on-apples-anticipated-touchscreen-macbook-pricing-details-release-forecast-and-specs/"><u>Discover The Latest Buzz on Apple's Anticipated Touchscreen MacBook: Pricing Details, Release Forecast, and Specs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-disruption-halts-halo-infinite-game-startup/"><u>DX12 Disruption Halts Halo Infinite Game Startup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-conversion-of-mxf-files-to-mov-format-across-windows-macos-and-cloud-services/"><u>Efficient Conversion of MXF Files to MOV Format Across Windows, macOS, & Cloud Services</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-windows-8s-secure-operation-graphics-driver-dispatchment/"><u>Mastering the Art of Windows 8'S Secure Operation - Graphics Driver Dispatchment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-residual-reductions-in-visual-outputs/"><u>Rectifying Residual Reductions in Visual Outputs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-non-gpu-use-on-notebook-windows-1011/"><u>Resolve Non-GPU Use on Notebook Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-to-asus-laptop-screens-that-wont-stop-shimmering/"><u>Solution to ASUS Laptop Screens That Won't Stop Shimmering</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/stepwise-strategy-for-infusing-fun-emojis-in-discords-display-settings/"><u>Stepwise Strategy for Infusing Fun Emojis in Discord's Display Settings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-se-2020-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone SE (2020) Without Passcode Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-epson-workforce-ds-30-driver-package-for-windows-11-and-earlier-versions/"><u>Updated Epson WorkForce DS 30 Driver Package for Windows 11 and Earlier Versions</u></a></li>
 </ul></div>
 

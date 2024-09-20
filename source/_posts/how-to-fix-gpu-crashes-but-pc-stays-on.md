@@ -1,7 +1,7 @@
 ---
 title: How to Fix GPU Crashes But PC Stays On
-date: 2024-07-11T17:03:48.133Z
-updated: 2024-07-12T17:03:48.133Z
+date: 2024-09-13T05:22:52.303Z
+updated: 2024-09-19T20:28:44.556Z
 tags:
   - win11
   - win10
@@ -85,6 +85,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
@@ -110,6 +117,13 @@ To use Fortect:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -117,6 +131,13 @@ To use Fortect:
  If repairing system files still doesn’t help to fix the GPU crashing but PC stays on problem for you, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check the GPU temperature
 
@@ -133,6 +154,13 @@ To use Fortect:
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
 5. If you have a second GPU, do the same to check its temperture as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even though the GPU temperatures differ for differet manufacturers and models, your GPU tempertures should be in the range from**65 to 85°C** (149° to 185°F) under normal usage.
 
@@ -155,6 +183,13 @@ To use Fortect:
  If you don’t have the time or the energy to run such tests yourself, we also recommend that you seek help from a hardware technician instead, as such tests also require certain knowledge of computer hardware.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check your power supply
 
@@ -182,8 +217,6 @@ To use Fortect:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,6 +224,18 @@ To use Fortect:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-learn-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists/"><u>[New] In 2024, Learn the Art of Green Screen Without Costs Top 4 YouTube Techniques for Aspiring VFX Artists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-create-a-facebook-account/"><u>[Updated] 2024 Approved How to Create a Facebook Account</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-how-to-create-a-youtube-channel-trailer-to-increase-revenue/"><u>[Updated] In 2024, How to Create a YouTube Channel Trailer to Increase Revenue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expedited-srt-to-txt-conversion-2023s-efficient-method/"><u>2024 Approved Expedited SRT to TXT Conversion 2023'S Efficient Method</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-a-malfunctioning-zoom-webcam-fixes-and-tips/"><u>Dealing With A Malfunctioning Zoom Webcam – Fixes and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-unboxing-the-future-of-gaming-hardware-awaits/"><u>IFA Unboxing: The Future of Gaming Hardware Awaits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-a78-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo A78 Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-lcd-seam-disruptions/"><u>Overcome LCD Seam Disruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-viewing-hurdles-on-netflix-fixing-playback-troubles-easily/"><u>Overcoming Viewing Hurdles on Netflix - Fixing Playback Troubles Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lenovos-functional-touch-screens/"><u>Restoring Lenovo's Functional Touch Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-recover-unlit-computer-monitors/"><u>Strategies to Recover Unlit Computer Monitors</u></a></li>
+</ul></div>
 

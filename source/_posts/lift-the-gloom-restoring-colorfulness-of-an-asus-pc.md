@@ -1,7 +1,7 @@
 ---
 title: "Lift the Gloom: Restoring Colorfulness of an Asus PC"
-date: 2024-07-11T17:03:52.592Z
-updated: 2024-07-12T17:03:52.592Z
+date: 2024-09-19T06:49:28.828Z
+updated: 2024-09-20T08:39:41.475Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -92,6 +99,19 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## Fix 5: Disable fast startup
@@ -110,6 +130,13 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Still got a black screen? Please try **Fix 6** , below.
 
 ---
@@ -121,6 +148,14 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press the **Windows logo key** and type **system restore** , then click on **Create a restore point** once it shows up as a matching result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
@@ -140,6 +175,13 @@ So you can try disabling fast startup to see if it does the trick:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once the repair is finished, check if the error has been resolved.
@@ -157,8 +199,6 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,6 +206,16 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-productivity-in-duality-employment-and-video-creation/"><u>[Updated] Productivity in Duality Employment & Video Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-rested-no-more-issues-found/"><u>Display Driver Rested, No More Issues Found</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-find-n3-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Find N3 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace/"><u>In 2024, Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-assessment-of-the-maisto-rc-rock-crawler-an-ideal-choice-for-family-fun-and-racing-adventures/"><u>In-Depth Assessment of the Maisto RC Rock Crawler - An Ideal Choice for Family Fun and Racing Adventures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realign-video-components-on-pcs/"><u>Realign Video Components on PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-bsod-due-to-drivers-in-windows-os/"><u>Resolved: BSOD Due to Drivers in Windows OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-repairing-minecraft-error-with-exiting-code-0/"><u>Step-by-Step Guide to Repairing Minecraft Error with Exiting Code 0</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-solve-windows-11-microphone-issues/"><u>Troubleshooting Steps to Solve Windows 11 Microphone Issues</u></a></li>
+</ul></div>
 

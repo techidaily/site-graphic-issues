@@ -1,7 +1,7 @@
 ---
 title: Overcoming Low-End AMD Graphics Limitations
-date: 2024-07-11T17:10:11.240Z
-updated: 2024-07-12T17:10:11.240Z
+date: 2024-09-17T04:28:22.056Z
+updated: 2024-09-20T08:20:34.471Z
 tags:
   - win11
   - win10
@@ -82,10 +82,26 @@ If the problem persists, take a look at the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -104,6 +120,14 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -111,6 +135,13 @@ Here’s how:
  After installing all the system updates, restart and check if FreeSync is working.
 
 If the issue is still there, simply try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Fullscreen optimizations
 
@@ -137,6 +168,14 @@ If this doesn’t help, you can continue to the next method.
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
@@ -154,8 +193,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +200,16 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-blur-no-more-top-10-web-photo-sharpening-apps/"><u>[Updated] 2024 Approved Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exploring-the-capabilities-of-sj-cam-s6/"><u>2024 Approved Exploring the Capabilities of SJ-CAM S6</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag-for-2024/"><u>A Quick Fix for Quirky Content Mastering Meme Creation at 9GAG for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enable-gpu-functionality-in-windows-1110-devices/"><u>Enable GPU Functionality in Windows 11/10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hidden-or-gone-mouse-icons-in-windows-10-effective-fixes-and-advice/"><u>Overcoming Hidden or Gone Mouse Icons in Windows 10: Effective Fixes and Advice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snap-better-pics-with-radial-blur-and-shadow-features-in-photoshop/"><u>Snap Better Pics with Radial Blur and Shadow Features in Photoshop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speaking-into-the-future-iphone-recordings-for-2024/"><u>Speaking Into the Future - iPhone Recordings for 2024</u></a></li>
+</ul></div>
 

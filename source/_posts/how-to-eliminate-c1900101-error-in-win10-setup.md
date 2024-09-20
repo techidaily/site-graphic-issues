@@ -1,7 +1,7 @@
 ---
 title: How to Eliminate C1900101 Error in Win10 Setup
-date: 2024-09-07T20:48:14.528Z
-updated: 2024-09-14T22:52:03.584Z
+date: 2024-09-16T04:27:43.034Z
+updated: 2024-09-20T04:47:22.140Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 4) When the update finishes, restart your computer as instructed. Check to see if the 0xC1900101 error is gone after this.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Uninstall third-party antivirus programs
 
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
@@ -52,23 +59,9 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
@@ -82,19 +75,6 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
@@ -104,21 +84,35 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41fd5bee675.png)
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Run SFC/ DISM tools
 
@@ -127,6 +121,13 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -139,13 +140,6 @@ Press the **Enter**key on your keyboard.
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
@@ -172,19 +166,19 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-expression-a-gallery-of-stunning-video-themes-for-tiktok/"><u>[New] Elevate Your Expression A Gallery of Stunning Video Themes for TikTok</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-graphics-tuning-for-windows-11/"><u>[Resolved] Advanced Graphics Tuning for Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb/"><u>[Updated] In 2024, Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-windows-movie-maker-downloading/"><u>2024 Approved Ultimate Guide Windows Movie Maker Downloading</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-resolved-wdf-api-errors-in-windows/"><u>BlueScreen Resolved: WDF API Errors in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/captivating-cinematography-with-handy-luts-anywhere-for-2024/"><u>Captivating Cinematography with Handy LUTs Anywhere for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cost-analysis-of-subscribing-to-sony-online-entertainment/"><u>Cost Analysis of Subscribing to Sony Online Entertainment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-c55-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme C55 Phone that is Locked?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Gionee F3 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-gpus-no-video-output-needed/"><u>Quick-Fix Guide: GPUs, No Video Output Needed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-obs-configuration-for-smooth-broadcasting/"><u>Step-By-Step OBS Configuration for Smooth Broadcasting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/updated-graphic-settings-for-overwatch/"><u>Updated Graphic Settings for Overwatch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-picart-privacy-filter-no-more-recognizable-faces/"><u>[New] In 2024, PicArt Privacy Filter No More Recognizable Faces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-eye-appeal-the-top-3-ways-to-increase-instagram-visibility/"><u>[Updated] Eye Appeal The Top 3 Ways to Increase Instagram Visibility</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-versus-handbrake-and-vlc-a-comprehensive-guide-on-choosing-the-optimal-video-converter/"><u>1. 'Versus Handbrake and VLC: A Comprehensive Guide on Choosing the Optimal Video Converter'</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/choosing-between-vimeo-free-premium-and-pro-membership-levels/"><u>Choosing Between Vimeo Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-window-interface-on-expanded-windows-10-monitors/"><u>Enhancing Window Interface on Expanded Windows 10 Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-and-simple-intel-graphics-3000-update-for-windows-10/"><u>Fast & Simple Intel Graphics 3000 Update for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flashing-fresh-drive-space-remove-graphics-drivers-quickly/"><u>Flashing Fresh Drive Space: Remove Graphics Drivers Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>In 2024, The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lens-leaderships-discover-the-top-ten-camera-lenses-of-2024/"><u>Lens Leaderships Discover the Top Ten Camera Lenses of 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp3n/"><u>MP3形式へ自由に変換可能なオンラインアプリケーショn – ムーバヴィ・フリー版</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/re-esturing-nvidia-display-commands/"><u>Re-Esturing NVIDIA Display Commands</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-cominterface-disruption-in-windows/"><u>Resolving COMInterface Disruption in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-critical-error-c1900101-in-upgrading-windows/"><u>Solving Critical Error C1900101 in Upgrading Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/techniques-to-pull-facebook-videos-easily/"><u>Techniques to Pull Facebook Videos Easily</u></a></li>
 </ul></div>
 

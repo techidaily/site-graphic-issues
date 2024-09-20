@@ -1,7 +1,7 @@
 ---
 title: Tackle Frozen Screen in Social Settings
-date: 2024-07-11T17:03:10.626Z
-updated: 2024-07-12T17:03:10.626Z
+date: 2024-09-17T22:21:55.316Z
+updated: 2024-09-19T19:41:14.805Z
 tags:
   - win11
   - win10
@@ -85,11 +85,25 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -101,9 +115,29 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -178,8 +212,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +219,18 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-the-best-instagram-performance-insight-platforms/"><u>[Updated] In 2024, Navigating the Best Instagram Performance Insight Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-escape-room-games-you-should-try-for-2024/"><u>[Updated] Top 10 Escape Room Games You Should Try for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>2024 Approved The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advance-your-skillset-god-of-war-challenge/"><u>Advance Your Skillset: 'God of War' Challenge</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dance-no-more-fixing-win11s-screen-issue/"><u>Dance No More: Fixing Win11's Screen Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-of-the-line-no-more-direct3d-rendering-setbacks/"><u>End of the Line: No More Direct3D Rendering Setbacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-a-guide-to-using-chatgpt-and-siri-together/"><u>Enhancing iPhone Productivity: A Guide to Using ChatGPT and Siri Together</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminate-issues-lenovo-bs-woes/"><u>Illuminate Issues - Lenovo BS Woes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solve-this-why-is-my-chatgpt-account-locked-discover-4-key-reasons-and-remedies/"><u>Solve This: Why Is My ChatGPT Account Locked? Discover 4 Key Reasons and Remedies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-siris-tone-a-guide-to-altering-siris-vocal-style/"><u>Updated Mastering Siris Tone A Guide to Altering Siris Vocal Style</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+</ul></div>
 

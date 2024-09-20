@@ -1,7 +1,7 @@
 ---
 title: Stabilizing Fallout 4 Play on PC Systems
-date: 2024-07-11T17:09:15.773Z
-updated: 2024-07-12T17:09:15.773Z
+date: 2024-09-16T09:36:05.955Z
+updated: 2024-09-19T18:16:33.075Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/2b11c9a35e9bf42b72b792cdfd30fad6b2d3f68c7
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -82,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/2b11c9a35e9bf42b72b792cdfd30fad6b2d3f68c7
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -91,6 +105,13 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
@@ -112,8 +133,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +140,20 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-shining-spotlight-on-luminous-hdr-techniques/"><u>[Updated] 2024 Approved Shining Spotlight on Luminous HDR Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-accessible-alternatives-googles-simplicity-versus-samsungs-innovation/"><u>2024 Approved Accessible Alternatives Google's Simplicity Versus Samsung's Innovation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-the-screen-vr-movie-innovation/"><u>2024 Approved Beyond the Screen VR Movie Innovation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-the-green-glare-tips-for-perfect-backgrounds/"><u>Bypassing the Green Glare: Tips for Perfect Backgrounds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-gpu-instabilities-with-uninterrupted-computers/"><u>Eliminating GPU Instabilities with Uninterrupted Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-correcting-driver-problems-in-hp-computer-screens-across-windows-platforms/"><u>Expert Tips: Correcting Driver Problems in HP Computer Screens Across Windows Platforms</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a59-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A59 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to others devices? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-where-engaging-language-apps-converge-into-one-powerhouse/"><u>Mondly: Where Engaging Language Apps Converge Into One Powerhouse</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reducing-oversized-win11-resolution/"><u>Reducing Oversized Win11 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-playback-errors-on-upgraded-windows-11/"><u>Solving Playback Errors on Upgraded Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/virtual-reality-vanguard-leading-pc-headsets-to-watch-for-2024/"><u>Virtual Reality Vanguard Leading PC Headsets to Watch for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-8-and-10-no-amd-drivers-detected/"><u>Windows 7, 8 & 10: No AMD Drivers Detected</u></a></li>
+</ul></div>
 

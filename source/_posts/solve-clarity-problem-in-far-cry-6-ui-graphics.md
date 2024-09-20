@@ -1,7 +1,7 @@
 ---
 title: Solve Clarity Problem in Far Cry 6 UI Graphics
-date: 2024-07-11T17:04:12.736Z
-updated: 2024-07-12T17:04:12.736Z
+date: 2024-09-17T06:42:38.091Z
+updated: 2024-09-20T10:11:39.412Z
 tags:
   - win11
   - win10
@@ -60,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -71,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 [3: Turn on high graphics performance setting for the game](#fix3)
 
 [4: Clean the DirectX cache](#fix4)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Run as admin
 
@@ -106,6 +126,13 @@ If this doesn’t help, try the next fix.
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -113,6 +140,14 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
@@ -133,6 +168,14 @@ If this doesn’t help, there’s one more fix you can try.
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 ---
@@ -148,8 +191,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +198,15 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-seamless-obs-broadcast-setup-on-fb/"><u>[New] 2024 Approved Seamless OBS Broadcast Setup on FB</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-oversized-win11-screen/"><u>Fine-Tuning Oversized Win11 Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-gt-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 GT to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-power-of-jaycut-a-comprehensive-guide-to-free-online-video-editing/"><u>New 2024 Approved Discover the Power of Jaycut A Comprehensive Guide to Free Online Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-in-full-screen-snip-and-sketch-capturing/"><u>Overcoming Challenges in Full-Screen Snip & Sketch Capturing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-fallout-4-play-on-pc-systems/"><u>Stabilizing Fallout 4 Play on PC Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-xs-max-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone XS Max Is Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-activation-success/"><u>Windows 11 Laptop: GPU Activation Success</u></a></li>
+</ul></div>
 

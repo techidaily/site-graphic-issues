@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-09-11T06:39:43.632Z
-updated: 2024-09-15T02:48:25.493Z
+date: 2024-09-15T06:50:07.011Z
+updated: 2024-09-20T05:02:00.673Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -84,13 +77,6 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -99,27 +85,41 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -145,13 +145,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlock-the-power-of-montage-in-digital-media/"><u>[Updated] In 2024, Unlock the Power of Montage in Digital Media</u></a></li>
-<li><a href="https://video-capture.techidaily.com/wav-mp3/"><u>音声形式変換・無料ツール:WAV, MP3へのサンプリングレート調整</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquer-blackout-in-sims-4-life-events/"><u>Conquer Blackout in Sims 4 Life Events</u></a></li>
-<li><a href="https://article-tips.techidaily.com/drone-technology-for-constant-pilot-dronet-followers-for-2024/"><u>Drone Technology for Constant Pilot-Dronet Followers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-screen-flicker-issue-solution-found/"><u>Laptop Screen Flicker Issue - Solution Found</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-visual-storytelling-utilizing-luts-techniques/"><u>[New] 2024 Approved Enhancing Visual Storytelling Utilizing Luts Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-facetunes-new-features-review-and-walkthrough-for-2024/"><u>[New] Unveiling Facetune's New Features Review and Walkthrough for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-taking-screenshots-of-pc-games-6-ways/"><u>[Updated] In 2024, Taking Screenshots of PC Games [6 Ways]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>[Updated] Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat-for-2024/"><u>[Updated] Unlocking Creative Expression Tips for Sharing GIFs on Snapchat for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-framework-fails-to-load/"><u>Graphics Framework Fails to Load</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-asus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Asus FRP Without Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-adding-chatgpt-extensions-the-ultimate-enrollment-tutorial/"><u>Mastering the Art of Adding ChatGPT Extensions – The Ultimate Enrollment Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/methodical-approach-to-cease-lenovo-screenshake/"><u>Methodical Approach to Cease Lenovo Screenshake</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/save-issue-resolved-screen-preferences-update/"><u>Save Issue: Resolved - Screen Preferences Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-the-latest-fantastic-offers-on-new-and-used-ipads-now/"><u>Shop the Latest Fantastic Offers on New and Used iPads Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-cominterop-failure-windows-system/"><u>Solved: COMInterop Failure Windows System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-fix-windows-system-restored/"><u>UI Graphics Fix: Windows System Restored</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/bes-tagging-system-unveiled/"><u>YouTube's Tagging System Unveiled</u></a></li>
 </ul></div>
 

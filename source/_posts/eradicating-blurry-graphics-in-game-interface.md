@@ -1,7 +1,7 @@
 ---
 title: Eradicating Blurry Graphics in Game Interface
-date: 2024-07-11T17:04:45.656Z
-updated: 2024-07-12T17:04:45.656Z
+date: 2024-09-16T22:42:06.448Z
+updated: 2024-09-19T20:39:24.944Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -98,6 +105,13 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -113,11 +127,32 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t help, there’s one more fix you can try.
 
@@ -135,6 +170,13 @@ If this doesn’t help, there’s one more fix you can try.
 5. Click**Delete Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully this article helps! If you have any questions or suggestions, feel free to drop a comment down below!
@@ -148,8 +190,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +197,22 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-privacy-preservation-in-videos-techniques-to-hide-data/"><u>[New] 2024 Approved Privacy Preservation in Videos Techniques to Hide Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-lighting-strategies-for-superior-iphone-photos/"><u>[New] Advanced Lighting Strategies for Superior iPhone Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-path-to-pinpointing-your-liked-content-on-facebook/"><u>[New] The Path to Pinpointing Your Liked Content on Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-screen-flickering/"><u>[SOLVED] Windows 11 Screen Flickering</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-expert-advice-on-constructing-clear-concise-image-previews/"><u>[Updated] 2024 Approved Expert Advice on Constructing Clear, Concise Image Previews</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-innovating-human-interface-a-guide-to-hand-perception/"><u>2024 Approved Innovating Human Interface A Guide to Hand Perception</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-sdr-to-hdr-conversion-companion-book/"><u>2024 Approved The SDR to HDR Conversion Companion Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-the-cloud-of-dark-screens-on-twitch/"><u>Clearing the Cloud of Dark Screens on Twitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-monitor-horizontal-distortion/"><u>Correcting Monitor Horizontal Distortion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cut-down-on-cpu-strain-proven-strategies-for-less-resource-intensive-computing-on-windows/"><u>Cut Down on CPU Strain: Proven Strategies for Less Resource-Intensive Computing on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-direct3d-hurdle-gain-full-acceleration-access/"><u>End Direct3D Hurdle - Gain Full Acceleration Access</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-tech-breakdown-tips-and-reviews-by-toms-hardware-experts/"><u>Essential Tech Breakdown: Tips and Reviews by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-role-in-generating-secure-and-productive-routines/"><u>GPT's Role in Generating Secure and Productive Routines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-correction-of-loopy-and-skewed-displays/"><u>Immediate Correction of Loopy and Skewed Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-troubleshooting-lacking-video-output/"><u>Quick Troubleshooting, Lacking Video Output</u></a></li>
+</ul></div>
 

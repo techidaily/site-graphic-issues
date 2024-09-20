@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2024-09-09T19:52:10.263Z
-updated: 2024-09-14T18:43:18.393Z
+date: 2024-09-18T21:59:09.167Z
+updated: 2024-09-20T03:14:24.073Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ If the sound is still not available, try the fixes below.
 
 If your issue persists after the reboot, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Fix Browser Issues
 
  If you’re encountering the sound problem when using Twitch web version, then it could be an issue with your web browser. Here’re some fixes to try:
@@ -102,22 +95,16 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**OK** to save the changes.
 
@@ -132,19 +119,6 @@ If there’s still no sound, read on and try the next fix.
  2) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Relaunch the browser to see if the sound comes back.
 
@@ -172,6 +146,13 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -179,10 +160,10 @@ If the sound isn’t coming back, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -191,6 +172,13 @@ If the sound isn’t coming back, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the sound issue isn’t resolved, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
 
@@ -231,18 +219,16 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-with-effective-video-seo-for-2024/"><u>[New] Elevate Your Content with Effective Video SEO for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-for-social-media-savvy-content-sharers/"><u>[Updated] In 2024, Guide for Social Media Savvy Content Sharers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-for-windows-10-unresponsive-monitor/"><u>Fix for Windows 10 Unresponsive Monitor</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g34-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G34 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y17s-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y17s FRP?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-hustle-free-route-mastering-podcast-live-broadcasting/"><u>In 2024, The Hustle-Free Route Mastering Podcast Live Broadcasting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-guide-to-7-superior-video-players-on-mac/"><u>In 2024, Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-fullscreen-view-in-win10/"><u>Monitor Not Showing Fullscreen View in Win10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-quadro-windows-11-drivers-downloaded-guide-for-efficient-installation-and-troubleshooting-steps/"><u>NVIDIA Quadro Windows 11 Drivers Downloaded: Guide for Efficient Installation and Troubleshooting Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-managing-gpu-fails-in-running-systems/"><u>Strategies for Managing GPU Fails in Running Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/table-video-popularity-tracker-in-youtube-arena/"><u>Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-output-restored-post-error/"><u>Video Output Restored Post-Error</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-highest-paid-youtuber-in-the-world-for-2024/"><u>[New] Highest Paid YouTuber in the World for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-scrutinizing-hero5s-performance-throughout-day/"><u>[New] Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-master-the-art-of-dialing-down-video-speed-in-snapchat/"><u>[Updated] 2024 Approved Master the Art of Dialing Down Video Speed in Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-ps2-emulation-apps-for-android-devices/"><u>2024 Approved Top 5 PS2 Emulation Apps for Android Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-energize-reconnect-and-reset-your-screen/"><u>Effortlessly Energize: Reconnect and Reset Your Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/harmonizing-different-footage-sources-on-ios-device-for-2024/"><u>Harmonizing Different Footage Sources on iOS Device for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-tecno-pop-8-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Tecno Pop 8 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-and-simple-photovideo-sharing-with-ios/"><u>Secure and Simple Photo/Video Sharing with IOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-in-blocks-five-friend-focused-multiplayer-methods-in-mc/"><u>Uniting in Blocks: Five Friend-Focused Multiplayer Methods in MC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-ideal-screen-res/"><u>Win10: Achieved Ideal Screen Res</u></a></li>
 </ul></div>
 

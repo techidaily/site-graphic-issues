@@ -1,7 +1,7 @@
 ---
 title: OpenGL & TDR Alert Overcome - Thanks to NVIDIA!
-date: 2024-09-12T05:41:08.871Z
-updated: 2024-09-14T19:04:53.955Z
+date: 2024-09-14T03:28:28.505Z
+updated: 2024-09-20T11:56:40.665Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -84,6 +77,13 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -91,13 +91,6 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -110,21 +103,22 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
@@ -151,19 +145,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-secret-sauce-to-swipe-right-crafting-captivating-bio-on-tinder/"><u>[New] The Secret Sauce to Swipe Right Crafting Captivating Bio on Tinder</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-one-click-video-creation-simplified-editing-of-multi-snaps-for-2024/"><u>[Updated] One-Click Video Creation Simplified Editing of Multi-Snaps for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-instagram-stories-download-crafting-strategies-for-2024/"><u>[Updated] Unlocking Instagram Stories Download, Crafting Strategies for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-quality-unveiled-in-fossil-sports-watches-a-comprehensive-review/"><u>Affordable Quality Unveiled in Fossil Sports Watches - A Comprehensive Review</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Phone?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-asus-rog-phone-8-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Asus ROG Phone 8 Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/integrating-windows-and-nvidias-geforce-7025nforce-630a/"><u>Integrating Windows & Nvidia's GeForce 7025/nForce 630A</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pcie-channel-missing-optix-gpu/"><u>PCIe Channel Missing OptiX GPU</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Honor 90 Lite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-lcd-darkness-on-notebooks/"><u>Resolving LCD Darkness on Notebooks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-blacked-out-win10-desktop/"><u>Restoring Blacked-Out Win10 Desktop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-graphics-performance-in-win1011-pcs/"><u>Unlocking Graphics Performance in Win10/11 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-blur-reduced-immensely/"><u>Windows Blur Reduced Immensely</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-enter-nvidia-control-unlocked/"><u>[Solution] Enter Nvidia Control Unlocked</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-evaluating-the-cost-of-producing-a-music-video-for-2024/"><u>[Updated] Evaluating the Cost of Producing a Music Video for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-reverse-footage-on-your-phone/"><u>[Updated] Time-Reverse Footage on Your Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-speed-optimization-guide/"><u>Anthem Speed Optimization Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcast-battle-royale-deciding-between-vmix-and-wirecast-for-2024/"><u>Broadcast Battle Royale Deciding Between VMix and Wirecast for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-effortless/"><u>Clear Windows Image, Effortless</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-chrome-interruptions-in-windows-os/"><u>Eliminating Chrome Interruptions in Windows OS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-edge-40-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Edge 40 Phone Forgot Password</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-virtualvista-viewers-verdict/"><u>In 2024, VirtualVista Viewer's Verdict</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-gaming-amd-radeon-hd-6950-on-windows-11-update/"><u>Optimized Gaming: AMD Radeon HD 6950 on Windows 11 Update</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v11-files-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.1 Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swiftly-enhance-win10-with-intel-graphics-drivers/"><u>Swiftly Enhance Win10 with Intel Graphics Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-error-monitor-refuses-fullscreen-view/"><u>Win11 Error: Monitor Refuses Fullscreen View</u></a></li>
 </ul></div>
 

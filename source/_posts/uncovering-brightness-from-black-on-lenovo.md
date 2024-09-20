@@ -1,7 +1,7 @@
 ---
 title: Uncovering Brightness From Black on Lenovo
-date: 2024-09-07T23:06:27.931Z
-updated: 2024-09-15T01:07:17.914Z
+date: 2024-09-14T03:45:57.130Z
+updated: 2024-09-20T02:15:21.515Z
 tags:
   - win11
   - win10
@@ -101,16 +101,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -122,33 +122,20 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -161,16 +148,10 @@ So you can try disabling fast startup to see if it does the trick:
 ---
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
@@ -190,15 +171,28 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -226,20 +220,20 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-easy-steps-to-decode-your-facebook-data/"><u>[New] 2024 Approved Easy Steps to Decode Your Facebook Data</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-how-to-add-music-to-youtubevideo-with-youtube-video-editor/"><u>[Updated] How to Add Music to YouTubeVideo with YouTube Video Editor</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-laughing-through-the-metaverse-making-your-own-humor/"><u>[Updated] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-counterfeit-chatbot-ios-apps/"><u>Detecting Counterfeit ChatBot iOS Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eclipse-ended-for-windows-11-fall-patch-fixes/"><u>Eclipse Ended for Windows 11 - Fall Patch Fixes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-virtual-surround-sound-on-netflix-with-no-actual-surround-system-achieved-through-clever-audio-techniques/"><u>Experience Virtual Surround Sound on Netflix with No Actual Surround System - Achieved Through Clever Audio Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-v-purse-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor V Purse Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 8 Plus? | Stellar</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-windows-graphics-via-basic-driver-tweaks/"><u>Improving Windows Graphics via Basic Driver Tweaks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-fall-update-blackout-no-more-in-win10/"><u>Post-Fall Update Blackout No More in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-computers-oversight-of-gpu/"><u>Rectifying Computer's Oversight of GPU</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synchronized-system-apple-watch-and-mac-unlocking-for-2024/"><u>Synchronized System Apple Watch and Mac Unlocking for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-price-quality-debate-an-in-depth-review-of-the-samsung-un65nu8000fxza-smart-tv/"><u>The Price-Quality Debate: An In-Depth Review of the Samsung UN65NU8000FXZA Smart TV</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-firmware-update/"><u>Window's 10 Display Firmware Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[New] In 2024, Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-central-luts-in-post-production-filmmaking-revolution/"><u>[Updated] Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/creating-captivating-insta-vids-3-description-strategies-for-2024/"><u>Creating Captivating Insta Vids 3 Description Strategies for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-address-a-non-operational-laptop-screen/"><u>How to Address a Non-Operational Laptop Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-google-pixel-8-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Google Pixel 8 to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-multimedia-in-school-curricula/"><u>In 2024, Incorporating Multimedia in School Curricula</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-online-experience-insights-into-ffxp/"><u>In 2024, Streamline Your Online Experience Insights Into FFXP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-microsofts-basic-driver-more-reliable/"><u>Making Microsoft's Basic Driver More Reliable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalized-nvidia-drivers-for-win11s-geforce-210/"><u>Revitalized NVIDIA Drivers for Win11's GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blank-gpu-missing-2020/"><u>Screen Blank: GPU Missing [2020]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-affected-by-graphics-driver-crash-repaired/"><u>System Affected by Graphics Driver Crash Repaired</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-enigma-of-direct-x-ends-with-a-patch-in-lol/"><u>The Enigma of Direct X Ends with a Patch in LoL</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-15-ae-title-tricks-for-dynamic-content-headers/"><u>Top 15 AE Title Tricks for Dynamic Content Headers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722850918297-upcoming-launch-of-google-pixel-tablet-exciting-specs-and-announcement-details-revealed/"><u>Upcoming Launch of Google Pixel Tablet: Exciting Specs & Announcement Details Revealed!</u></a></li>
 </ul></div>
 

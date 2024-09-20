@@ -1,7 +1,7 @@
 ---
 title: Cursor Awakening Post-Blackout Win11
-date: 2024-09-13T18:50:59.119Z
-updated: 2024-09-14T21:34:54.399Z
+date: 2024-09-16T08:34:15.807Z
+updated: 2024-09-20T08:25:43.820Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -87,6 +94,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -101,13 +116,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -120,21 +128,28 @@ If you’re on a laptop:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -182,13 +197,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -198,13 +206,6 @@ If you’re on a laptop:
  4) Create and test a new user account as described above.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -217,10 +218,16 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
@@ -254,21 +261,15 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-selection-the-10-best-apps-for-smartphone-video-calls/"><u>[New] 2024 Approved Ultimate Selection The 10 Best Apps for Smartphone Video Calls</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-imovie-tips-creating-engaging-youtube-video-intros/"><u>[New] IMovie Tips Creating Engaging YouTube Video Intros</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-gotomeeting-precision-capture-across-all-platforms/"><u>[New] In 2024, GoToMeeting Precision Capture Across All Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>[Updated] Exploring Originality How to Uncover Roots of Instagram Visuals</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-big-thing-10-games-that-inspire-gta-v/"><u>2024 Approved Next Big Thing 10 Games That Inspire GTA V</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-t-mobiles-internal-roaming-policies/"><u>A Comprehensive Guide to T-Mobile's Internal Roaming Policies</u></a></li>
-<li><a href="https://facebook.techidaily.com/attain-elite-status-metas-pay-to-verify-advantage/"><u>Attain Elite Status: Meta's Pay-to-Verify Advantage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-complication-halo-infinite-launch-issue/"><u>DirectX12 Complication: Halo Infinite Launch Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dx12-glitch-blocks-new-halo-infinite-release/"><u>DX12 Glitch Blocks New Halo Infinite Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/exploring-superior-visuality-the-truth-of-4k-resolution/"><u>Exploring Superior Visuality: The Truth of 4K Resolution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-11-screen-flip-issue/"><u>Overcoming Windows 11 Screen Flip Issue</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-routine-updating-amd-in-win-108/"><u>Quick Routine: Updating AMD in Win 10/8</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refining-win-drivers-fixed-battery-functionality/"><u>Refining Win Drivers, Fixed Battery Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-method-to-restore-dp-port-functionality/"><u>Simple Method to Restore DP Port Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-710-screenscape-save-hiccup-get-it-right-solved/"><u>Win 7/10 Screenscape Save Hiccup - Get It Right [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-reference-how-to-record-videos-on-vimeo/"><u>[New] In 2024, Quick Reference How to Record Videos on Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-4-secrets-for-adding-online-vids-seamlessly-in-ppt/"><u>[Updated] 2024 Approved 4 Secrets for Adding Online Vids Seamlessly in PPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-visual-horizon/"><u>Adjusting Visual Horizon</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y56-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y56 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-hurdles-cpp-opens-without-issues/"><u>No Hurdles: CPP Opens Without Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/restore-and-secure-your-damaged-dvds-flawless-reconstruction-without-compromising-data-integrity/"><u>Restore and Secure Your Damaged DVDs - Flawless Reconstruction Without Compromising Data Integrity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/step-by-step-to-premium-audio-with-audacity-for-2024/"><u>Step-by-Step to Premium Audio with Audacity for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-role-of-storytelling-in-presenting-market-research-findings/"><u>The Role of Storytelling in Presenting Market Research Findings</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/webm-videos-hochskalieren-schnelle-und-einfache-konvertierung-in-mp4-format-fur-windows-1110-und-macos/"><u>WebM-Videos Hochskalieren – Schnelle Und Einfache Konvertierung in MP4 Format Für Windows 11/10 Und MacOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818185907-windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked</u></a></li>
 </ul></div>
 

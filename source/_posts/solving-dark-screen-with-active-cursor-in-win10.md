@@ -1,7 +1,7 @@
 ---
 title: Solving Dark Screen with Active Cursor in Win10
-date: 2024-07-11T17:06:13.197Z
-updated: 2024-07-12T17:06:13.197Z
+date: 2024-09-18T17:17:34.181Z
+updated: 2024-09-20T00:04:32.222Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -108,6 +115,13 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
@@ -156,6 +170,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Follow the on-screen instructions to create a new user account.
 
 6) Log in to this account and check to see if the black screen problem persists.
@@ -168,6 +189,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -177,6 +205,13 @@ If you’re on a laptop:
  4) Create and test a new user account as described above.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -210,8 +245,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +252,20 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/icrovid-virtuoso/"><u>[New] MicroVid Virtuoso</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-select-20-unencumbered-pubg-visual-stories/"><u>[New] Select 20 Unencumbered PUBG Visual Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-live-broadcasts-with-premium-webcams/"><u>[Updated] 2024 Approved Enhancing Live Broadcasts with Premium WebCams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-naming-algorithms-for-podcast-mastery/"><u>[Updated] Top 10 Naming Algorithms for Podcast Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-analysis-top-pick-on-recuvas-file-restoration-capabilities/"><u>Comprehensive Analysis: Top Pick on Recuva's File Restoration Capabilities</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/design-channels-get-free-visuals-now-for-2024/"><u>Design Channels - Get Free Visuals Now for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-pc-freezes-enjoy-uninterrupted-fallout-4-play/"><u>End PC Freezes, Enjoy Uninterrupted Fallout 4 Play</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-performance-install-new-gpu-drivers/"><u>Enhance Performance: Install New GPU Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-address-gpu-anomalies-in-pcs/"><u>How to Address GPU Anomalies in PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adobe-premiere-pro-for-mac-the-ultimate-pro-video-editing-tool/"><u>New 2024 Approved Adobe Premiere Pro for Mac The Ultimate Pro Video Editing Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphic-support-detected/"><u>No Graphic Support Detected</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-evaluate-when-purchasing-pre-owned-ipads/"><u>Top 5 Factors to Evaluate When Purchasing Pre-Owned iPads</u></a></li>
+</ul></div>
 

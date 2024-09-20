@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Can't Change Resolution [SOLVED]
-date: 2024-07-11T17:10:32.505Z
-updated: 2024-07-12T17:10:32.505Z
+date: 2024-09-18T10:50:24.614Z
+updated: 2024-09-19T22:40:38.704Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -100,6 +107,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -119,8 +133,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +140,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/alert-amd-card-unsupported-by-windows-oses/"><u>[ALERT] AMD Card Unsupported by Windows OSes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-the-neuroscience-of-decision-making-and-its-implications-for-leadership/"><u>[New] 2024 Approved Exploring the Neuroscience of Decision-Making and Its Implications for Leadership</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-find-the-perfect-phone-shot-blur/"><u>[New] 2024 Approved Find the Perfect Phone Shot Blur</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-android-potential-for-stunning-time-lapse-videos/"><u>[Updated] Harnessing Android Potential for Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-protocol-normalized/"><u>Display Protocol Normalized</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lighten-load-on-your-laptop-quick-update-to-intels-gfx-driver/"><u>Lighten Load on Your Laptop - Quick Update to Intel's GFX Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-era-for-pc-gaming-with-nvidias-win11-geforce-210-upgrade/"><u>New Era for PC Gaming with NVIDIA's Win11 GeForce 210 Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-low-spec-limit-boot-with-intel-graphics/"><u>Overcoming Low Spec Limit: Boot with Intel Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectre-3-melee-illusionist-4-strikes-for-2024/"><u>Spectre 3 Melee Illusionist 4 Strikes for 2024</u></a></li>
+</ul></div>
 

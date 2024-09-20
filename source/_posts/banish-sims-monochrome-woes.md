@@ -1,7 +1,7 @@
 ---
 title: Banish Sims' Monochrome Woes
-date: 2024-07-11T17:01:20.894Z
-updated: 2024-07-12T17:01:20.894Z
+date: 2024-09-14T11:20:28.500Z
+updated: 2024-09-19T16:51:06.813Z
 tags:
   - win11
   - win10
@@ -91,6 +91,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -101,6 +108,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
@@ -108,6 +122,13 @@ Here are the steps:
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -122,6 +143,19 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -178,8 +212,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +219,19 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-nikon-km-170-vs-hero-black-a-tough-decision/"><u>[New] 2024 Approved Nikon KM-170 VS Hero Black A Tough Decision</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-essential-guide-to-tracking-down-your-youtube-voice/"><u>[New] The Essential Guide to Tracking Down Your YouTube Voice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-a-guide-to-sharing-gifs-in-4-simple-steps-for-2024/"><u>[Updated] Mastering Instagram A Guide to Sharing GIFs in 4 Simple Steps for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/essential-insights-boost-your-music-management-skills-on-itunes/"><u>Essential Insights: Boost Your Music Management Skills on iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/futures-finest-the-leading-photo-frame-tools-24/"><u>Future's Finest The Leading Photo Frame Tools '24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oppo-a38-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Oppo A38</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-pc-hdr-views-and-edits/"><u>In 2024, Mastering PC HDR Views & Edits</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-in-win10-os/"><u>Monitor Not Recognizing Fullscreen in Win10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-screen-flicker-in-hp-machines/"><u>Preventing Screen Flicker in HP Machines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-non-reactive-screen/"><u>Troubleshooting Lenovo Non-Reactive Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncompressed-video-uploading-a-step-by-step-guide-to-importing-mp4s-on-youtube/"><u>Uncompressed Video Uploading: A Step-by-Step Guide to Importing MP4s on YouTube</u></a></li>
+</ul></div>
 

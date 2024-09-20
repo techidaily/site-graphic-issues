@@ -1,7 +1,7 @@
 ---
 title: From Dark to Bright on Your Lenovo
-date: 2024-07-11T17:08:44.954Z
-updated: 2024-07-12T17:08:44.954Z
+date: 2024-09-19T04:29:44.987Z
+updated: 2024-09-19T19:56:10.122Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -123,9 +130,29 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -141,9 +168,23 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
@@ -170,8 +211,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,6 +218,19 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-leveraging-youtubes-community-how-to-find-and-create-collab-videos/"><u>[New] 2024 Approved Leveraging YouTube's Community How to Find & Create Collab Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-perfect-voices-3-ipad-solutions-for-2024/"><u>[New] Capturing Perfect Voices 3 iPad Solutions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elevate-your-presentations-with-voiceovers/"><u>[New] Elevate Your Presentations with Voiceovers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-marketing-how-to-plan-your-strategy-with-10-best-ideas-for-2024/"><u>[Updated] Instagram Video Marketing How to Plan Your Strategy with 10 Best Ideas for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-aspect-ratios-for-effective-youtube-videos-for-2024/"><u>Decoding Aspect Ratios for Effective YouTube Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-the-newest-drivers-for-nvidias-gtx-1060/"><u>Get the Newest Drivers for Nvidia's GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-missing-windows-11-full-screen-on-monitor/"><u>How to Fix Missing Windows 11 Full Screen on Monitor</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-6-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 6 Plus Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-p55t-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-quick-remedy-for-video-error-0xc10100be/"><u>Mastering Quick Remedy for Video Error 0XC10100be</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-windows-on-win10/"><u>Monitor Not Recognizing Fullscreen Windows on Win10</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

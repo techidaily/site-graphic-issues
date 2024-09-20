@@ -1,7 +1,7 @@
 ---
 title: Silent Screen After GFX Update
-date: 2024-09-10T02:56:48.827Z
-updated: 2024-09-14T21:21:32.311Z
+date: 2024-09-15T18:14:11.539Z
+updated: 2024-09-20T08:41:49.669Z
 tags:
   - win11
   - win10
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then download and update the display card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
@@ -109,13 +102,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -168,32 +154,47 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-39.png)
 4. When the following page shows, click**See advanced repair options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-40.png)
 5. Click **Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-41.png)
 6. Click **Advanced options** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-42.png)
 7. Click**Startup Settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
 8. Click**Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
 9. Press**F5** , or**5** to enter the**Safe Mode with networking mode** .
 
- On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
 ### 2.1 Uninstall the graphics card driver in Safe Mode
 
@@ -202,6 +203,14 @@ When you boot into the Safe Mode with networking
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -210,10 +219,10 @@ When you boot into the Safe Mode with networking
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.2 Try different hardware devices
@@ -244,12 +253,12 @@ When you boot into the Safe Mode with networking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-pathway-to-viral-stardom-explained/"><u>Facebook's Pathway to Viral Stardom Explained</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intels-graphics-drivers-the-latest-windows-update-guide/"><u>Intel's Graphics Drivers: The Latest Windows Update Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-gopro-studio-top-picks-for-editing-your-adventure-videos/"><u>New Beyond GoPro Studio Top Picks for Editing Your Adventure Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-tempest-acer-screen-calm/"><u>Taming the Tempest: Acer Screen Calm</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-potential-the-ultimate-guide-to-windows-powertoy-features/"><u>Unleash Potential: The Ultimate Guide to Windows PowerToy Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-no-full-screen-window-on-monitor/"><u>Windows 10 - No Full Screen Window on Monitor?</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-intel-graphic-spec-limitations-a-guide-to-improvement/"><u>Circumventing Intel Graphic Spec Limitations: A Guide to Improvement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-out-why-your-iphones-touchscreen-may-not-be-responding-insights-into-7-key-factors/"><u>Find Out Why Your iPhone's Touchscreen May Not Be Responding: Insights Into 7 Key Factors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-versatile-laptop-software-to-watch-dvds/"><u>In 2024, Free, Versatile Laptop Software to Watch DVDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mega-discounts-on-ecovacs-robot-vacuums-and-mopping-units-save-up-to-850-during-exclusive-prime-day-offer/"><u>Mega Discounts on ECOVACS Robot Vacuums & Mopping Units - Save Up to $850 During Exclusive Prime Day Offer!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-black-screens-restore-your-laptops-life/"><u>Solve Black Screens, Restore Your Laptop's Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-hp-screen-glitches-and-flickers/"><u>Taming HP Screen Glitches and Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-vanished-visuals-on-electronic-screens/"><u>Unveiling Vanished Visuals on Electronic Screens</u></a></li>
 </ul></div>
 

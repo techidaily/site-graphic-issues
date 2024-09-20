@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2024-09-08T02:12:20.488Z
-updated: 2024-09-15T06:10:23.377Z
+date: 2024-09-14T04:30:15.480Z
+updated: 2024-09-20T11:30:42.820Z
 tags:
   - win11
   - win10
@@ -77,11 +77,25 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -90,17 +104,16 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -110,16 +123,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -129,13 +136,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -156,21 +156,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-diy-tips-to-cut-unwanted-sounds-from-your-videos/"><u>[Updated] DIY Tips to Cut Unwanted Sounds From Your Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-search-comments-on-youtube-quickly/"><u>[Updated] How to Search Comments on YouTube Quickly?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[Updated] In 2024, The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-utility-watch-opens-your-macdevice/"><u>[Updated] Ultimate Utility Watch Opens Your MacDevice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/garmins-ultra-30-camera-unveiled-a-comprehensive-guide/"><u>Garmin's Ultra 30 Camera Unveiled A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-razer-synapse-wont-start-up-issue/"><u>How to Fix 'Razer Synapse Won't Start Up' Issue?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-budget-friendly-methods-for-live-feed-recordings/"><u>In 2024, Top 5 Budget-Friendly Methods for Live Feed Recordings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instantaneously-amplify-your-pcs-graphics-with-intels-driver-fix/"><u>Instantaneously Amplify Your PC's Graphics with Intels Driver Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-safe-mode-in-windows-8-graphics-cards-driver-uninstallation-methods/"><u>Mastering Safe Mode in Windows 8 - Graphics Cards Driver Uninstallation Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996380803-pc-gamers-destiny-2-fixed-and-fully-operational-now/"><u>PC Gamers: Destiny 2 Fixed and Fully Operational Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-full-access-to-direct3d-no-more-rendering-delays/"><u>Secure Full Access to Direct3D - No More Rendering Delays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gfx-restored-windows-gui-operational/"><u>Smooth GFX Restored: Windows GUI Operational</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-hidden-direct-x-curse-cleared-from-league-of-legends/"><u>The Hidden Direct X Curse Cleared From League of Legends</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-instant-play-in-apex-world/"><u>Unlocking Instant Play in Apex World</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winstability-secure-preventing-bsod-from-wdf-violations/"><u>WinStability Secure: Preventing BSOD From WDF Violations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-branding-success-on-fb-through-immersive-cover-videos/"><u>[Updated] In 2024, Branding Success on FB Through Immersive Cover Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>[Updated] Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-image-transformations-today/"><u>2024 Approved Master Image Transformations Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-ai-explained-in-simple-terms/"><u>Artificial Intelligence (AI) Explained in Simple Terms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/certain-apple-watch-variants-now-lack-blood-oxygen-monitoring-functionality/"><u>Certain Apple Watch Variants Now Lack Blood Oxygen Monitoring Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818280780-elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-210-latest-updates-for-w11-systems/"><u>GeForce 210: Latest Updates for W11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-system-failure-to-launch/"><u>Graphics System Failure to Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-fault-recovered-and-running-smoothly/"><u>IGFX Fault: Recovered and Running Smoothly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-visibility-bring-back-the-lost-screen-signal/"><u>Instant Visibility: Bring Back the Lost Screen Signal</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eandroids-best-5-multimedia-capturing-apps-reviewed/"><u>IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-razr-40-ultra-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Razr 40 Ultra Phone FRP Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-wobbly-laptop-monitor-edges/"><u>Resolve Wobbly Laptop Monitor Edges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-essential-guide-to-upgrading-windows-7s-intel-gfx-driver/"><u>The Essential Guide to Upgrading Windows 7’S Intel Gfx Driver</u></a></li>
 </ul></div>
 

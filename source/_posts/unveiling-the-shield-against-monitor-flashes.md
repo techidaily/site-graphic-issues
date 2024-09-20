@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Shield Against Monitor Flashes
-date: 2024-07-11T17:10:29.104Z
-updated: 2024-07-12T17:10:29.104Z
+date: 2024-09-12T19:50:04.458Z
+updated: 2024-09-19T22:21:12.317Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ The flickering issues may occur because you’re using a wrong graphics driver o
  You can do it for free if you like, but it’s partly manual.
 4. If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Perform a clean boot
 
 Your screen may be flickering because of interference from the programs on your computer. To see if that’s the case for you, try performing a clean boot on your Windows system.
@@ -66,6 +73,14 @@ To do so:
 1. Press the**Windows log key** and**R** on your keyboard to invoke the Run dialog.
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST**) and click**Disable all** . After that, click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
@@ -74,6 +89,14 @@ To do so:
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox**) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 12. Check to see if your flickering issue occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
  If there’s any service that causes your monitor flickering issues, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
@@ -81,7 +104,22 @@ To do so:
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if your flickering issue occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s any startup item that causes the flickering issue, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Check for hardware issues
 
@@ -96,8 +134,6 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,6 +141,17 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-configurations-show-on-win10-displays/"><u>[FIXED] Advanced Configurations Show on Win10 Displays</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-secure-continuous-streaming-in-obs/"><u>[Updated] In 2024, How To Secure Continuous Streaming In OBS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/affordable-hd-action-cameras-for-extreme-exposure-for-2024/"><u>Affordable HD Action Cameras for Extreme Exposure for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-windows-app-scam-busted-heres-the-evidence/"><u>ChatGPT Windows App Scam Busted – Here's the Evidence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix Nvidia GeForce Experience Error Code 0X0003</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boosted-presentation-pace-speeding-slide-transitions/"><u>In 2024, Boosted Presentation Pace Speeding Slide Transitions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-performance-nvidia-210-driver-update-for-windows-pcs/"><u>Optimized Performance: Nvidia 210 Driver Update for Windows PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-screen-tweaks-align-your-viewing-panel/"><u>Simple Screen Tweaks: Align Your Viewing Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-to-black-screen-in-windows-11-post-fall-release/"><u>Solution to Black Screen in Windows 11 Post Fall Release</u></a></li>
+</ul></div>
 

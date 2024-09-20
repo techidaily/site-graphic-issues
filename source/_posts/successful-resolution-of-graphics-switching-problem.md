@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2024-09-10T23:58:00.680Z
-updated: 2024-09-14T16:02:45.687Z
+date: 2024-09-17T03:57:45.680Z
+updated: 2024-09-20T06:51:40.657Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -90,16 +97,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -109,10 +110,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -124,22 +125,15 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,15 +150,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-cinematography-simplified-fades-made-easy-for-2024/"><u>[New] Cinematography Simplified Fades Made Easy for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-8-iphone-selfie-stick-choices-revealed/"><u>[New] Top 8 iPhone Selfie Stick Choices Revealed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-unable-to-initialize-graphics-system/"><u>[SOLVED] Unable to Initialize Graphics System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/convenient-intel-3000-driver-patch-for-windows-10-users/"><u>Convenient Intel 3000 Driver Patch for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-common-c1900101-issue-for-windows-11-users/"><u>Fixing Common C1900101 Issue for Windows 11 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-silence-mystery-calls-and-hide-spam-contacts-on-iphone/"><u>How to Silence Mystery Calls and Hide Spam Contacts on iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-forge-mutant-comedy-creatures/"><u>In 2024, Chuckle Forge Mutant Comedy Creatures</u></a></li>
-<li><a href="https://facebook.techidaily.com/shared-spaces-a-new-era-for-fb-and-instagram/"><u>Shared Spaces: A New Era for FB and Instagram</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-hp-screen-glitches-and-flickers/"><u>Taming HP Screen Glitches and Flickers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-assistants-could-chatgpt-help-in-making-malware/"><u>The Dark Side of AI Assistants: Could ChatGPT Help in Making Malware?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-musical-virtuoso-sessions/"><u>[New] Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-display-driver-igfx-stopped-responding-and-has-successfully-recovered/"><u>[SOLVED] Display Driver Igfx Stopped Responding and Has Successfully Recovered</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-6-economical-action-cams-available-for-99-or-below/"><u>2024 Approved Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nubia-red-magic-9-proplus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nubia Red Magic 9 Pro+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-display-latest-graphics-fix/"><u>Dark Display - Latest Graphics Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-devices-fixed/"><u>Horizontal Adjustment - Portable Devices Fixed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-childs-play-top-5-fun-flying-toys-reviewed/"><u>In 2024, Child's Play Top 5 Fun Flying Toys Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-pova-5-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Pova 5 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-horizon-nvidia-geforce-210-driver-for-win11/"><u>New Graphics Horizon: NVIDIA GeForce 210 Driver for Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ize-your-video-written-by-your-name/"><u>Optimize Your Video' Written By [Your Name]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revolutionary-fix-for-win10s-dual-nvidia-and-intel-graphics/"><u>Revolutionary Fix for Win10's Dual NVIDIA & Intel Graphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-hugging-face-tools-and-applications/"><u>Understanding Hugging Face: Tools & Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlisted-geforce-gpu-on-pc/"><u>Unlisted GeForce GPU on PC</u></a></li>
 </ul></div>
 

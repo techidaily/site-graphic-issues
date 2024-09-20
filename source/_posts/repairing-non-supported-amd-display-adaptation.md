@@ -1,7 +1,7 @@
 ---
 title: Repairing Non-Supported AMD Display Adaptation
-date: 2024-07-11T17:06:07.676Z
-updated: 2024-07-12T17:06:07.676Z
+date: 2024-09-15T19:21:01.929Z
+updated: 2024-09-20T02:31:55.946Z
 tags:
   - win11
   - win10
@@ -75,6 +75,13 @@ If the problem persists, take a look at the next fix.
 
  If the latest drivers can’t solve your problem, simply check out the next method. (Or you can follow [this guide](https://tools.techidaily.com/drivereasy/download/) and do a clean reinstallation with DDU.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Perform a clean boot**
 
  This issue could also indicate a compatibility issue, meaning that some other programs might be conflicting with each other. To rule out this possibility, you can do a clean boot.
@@ -84,6 +91,14 @@ If the problem persists, take a look at the next fix.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -104,6 +119,14 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -126,6 +149,13 @@ Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Configure the default GPU
 
  If your PC has dual GPUs, say an integrated one comes with the CPU and a dedicated one, you might need to**specify the default GPU for your program** . Since FreeSync is currently only compatible with AMD GPUs, besides connecting the monitor to an AMD graphics card, you can also configure the default GPU for the program.
@@ -137,6 +167,14 @@ If this doesn’t help, you can continue to the next method.
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
@@ -154,8 +192,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +199,21 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screen-casting-in-vlc-reviewed/"><u>[Updated] 2024 Approved Screen Casting in VLC Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-over-light-and-shadow-with-hdr-software/"><u>2024 Approved Mastery Over Light and Shadow with HDR Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-system-insights-step-by-step/"><u>Accessing Windows System Insights Step-by-Step</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-compatibility-with-minimal-hardware/"><u>Achieving Compatibility with Minimal Hardware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/contract-window-sizing-in-win-10/"><u>Contract Window Sizing in WIN 10</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620191079-discover-the-ultimate-list-of-free-user-friendly-android-notes-applications-the-best-picks-you-need/"><u>Discover the Ultimate List of FREE, User-Friendly Android Notes Applications: The Best Picks You Need!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fast-fixes-to-skyrocket-your-podcast-live/"><u>Fast Fixes to Skyrocket Your Podcast Live</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/focused-repairs-nvidia-cards-sans-displays/"><u>Focused Repairs: NVIDIA Cards Sans Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-experience-not-working-solved/"><u>GeForce Experience Not Working [SOLVED]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Find X6 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-potential-intel-graphics-on-underpowered-devices/"><u>Unlock Potential: Intel Graphics on Underpowered Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-adobe-premiere-pro-extensions-free-and-essential-downloads/"><u>Updated 2024 Approved Best Adobe Premiere Pro Extensions Free and Essential Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/versatile-driver-package-for-epson-model-2650/"><u>Versatile Driver Package for Epson Model 2650</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Wipe Clean Sims 4 Colorless Startup
-date: 2024-07-11T17:07:28.835Z
-updated: 2024-07-12T17:07:28.835Z
+date: 2024-09-13T07:59:33.879Z
+updated: 2024-09-20T03:00:09.169Z
 tags:
   - win11
   - win10
@@ -91,6 +91,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -105,9 +112,29 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -118,6 +145,13 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -178,8 +212,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +219,20 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-without-amd-driver-installation/"><u>[FIXED] Windows Without AMD Driver Installation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pro-chromebook-record-unmatched-screen-capture/"><u>[Updated] In 2024, Pro Chromebook Record Unmatched Screen Capture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/0pc/"><u>0円PCで動画連結テクニック解析</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-photoshops-stabilization-an-essential-tool-or-overrated-feature/"><u>2024 Approved Photoshop's Stabilization An Essential Tool or Overrated Feature?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-sony-x1000d-vivid-full-action-cam-test/"><u>2024 Approved Sony X1000D Vivid - Full Action Cam Test</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-se-2022-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone SE (2022) Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818361079-easy-to-fix-you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu/"><u>Easy To Fix You Are Not Currently Using a Display Attached to an NVIDIA GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-intermittent-displays/"><u>Fix: Windows 10 Intermittent Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-distorted-monitors-in-win10/"><u>Overcoming Distorted Monitors in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-erratic-screen-behavior-of-pro-7/"><u>Rectifying Erratic Screen Behavior of Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadowed-screen-post-driver-update/"><u>Shadowed Screen Post-Driver Update</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-recorders-handbook-for-film-lovers-for-2024/"><u>The Ultimate Recorder's Handbook for Film Lovers for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo 60 5G | Dr.fone</u></a></li>
+</ul></div>
 

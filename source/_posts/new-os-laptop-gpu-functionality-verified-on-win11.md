@@ -1,7 +1,7 @@
 ---
 title: New OS - Laptop GPU Functionality Verified on Win11
-date: 2024-07-11T17:09:01.692Z
-updated: 2024-07-12T17:09:01.692Z
+date: 2024-09-15T23:00:16.953Z
+updated: 2024-09-19T19:04:53.605Z
 tags:
   - win11
   - win10
@@ -88,6 +88,13 @@ Now you can check if your dedicated GPU is being used.
 
 If this method doesn’t help, continue with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Switch to the dedicated GPU manually
 
  Usually, your laptop will use the integrated GPU for easier tasks to save power and switch back to the dedicated GPU for better performance. But if it doesn’t switch to the dedicated GPU when needed, you can do it manually via NVIDIA Control Panel or AMD Radeon Settings.
@@ -97,6 +104,14 @@ If this method doesn’t help, continue with the next fix below.
 1. Right-click your desktop background and select**NVIDIA Control Panel** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D Settings** , then select**High performance NVIDIA processor** from the dropdown menu and click**Apply** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/manage-3d-settings.jpg)
 3. In the left panel, click**Set PhysX Configuration** . Under Select a PhysX processor, select your dedicated GPU from the dropdown menu, then click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-phx-configuration.jpg)
@@ -123,6 +138,13 @@ But if not, you can take a look at the next fix.
 
  Another way to force your laptop to use the dedicated GPU is by changing the Graphics settings. To do so:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10
 
 1. Right-click your desktop and select**Display Settings** from the menu.  
@@ -130,6 +152,14 @@ But if not, you can take a look at the next fix.
 2. In Display settings, scroll down the page and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse-1.jpg)
 4. Then click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options-1.jpg)
@@ -148,6 +178,13 @@ But if not, you can take a look at the next fix.
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Custom-options-for-apps.jpg)
 4. Once added, click on the**Options** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Options.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
@@ -190,8 +227,6 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,6 +234,20 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fix-directx12-setback-for-launch-of-halo-infinite/"><u>[FIX] DirectX12 Setback for Launch of Halo Infinite</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-charismatic-communicator-overview-part-8/"><u>[New] In 2024, Charismatic Communicator Overview, Part 8</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-guide-to-the-elite-audiovideo-makers-web/"><u>2024 Approved Guide to the Elite Audio/Video Makers Web</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/balancing-focus-zooming-tips-for-clear-instagram-stories/"><u>Balancing Focus Zooming Tips for Clear Instagram Stories</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrective-measures-applied-to-winos-comexceptions/"><u>Corrective Measures Applied to WinOS COMExceptions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-portable-media-players-uncovered/"><u>In 2024, Top Portable Media Players Uncovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinforcing-surface-pro-7s-visual-fortitude/"><u>Reinforcing Surface Pro 7'S Visual Fortitude</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-iphone-sound-issues-a-step-by-step-guide/"><u>Solving iPhone Sound Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-class-of-8-best-4k-high-definition-players/"><u>Superior Class of 8 Best 4K High Definition Players</u></a></li>
+<li><a href="https://facebook.techidaily.com/switching-your-facebook-page-for-a-modern-identity/"><u>Switching Your Facebook Page for a Modern Identity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-overcoming-repeated-rebooting-issues-in-windows-11/"><u>The Ultimate Fixes for Overcoming Repeated Rebooting Issues in Windows 11</u></a></li>
+</ul></div>
 

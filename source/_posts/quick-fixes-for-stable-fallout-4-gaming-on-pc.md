@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Stable Fallout 4 Gaming on PC
-date: 2024-07-11T17:06:04.263Z
-updated: 2024-07-12T17:06:04.263Z
+date: 2024-09-18T23:31:07.183Z
+updated: 2024-09-20T06:15:50.428Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -82,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -91,6 +111,13 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
@@ -112,8 +139,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +146,20 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved Achieve High-Quality Streams YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-audacity-mastery-for-mac-users-audio-recording-essentials/"><u>[New] In 2024, Audacity Mastery for Mac Users Audio Recording Essentials</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-key-elements-to-consider-in-asmr-video-watching/"><u>[New] In 2024, Key Elements to Consider in ASMR Video Watching</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleashing-potential-in-ar-applying-lut-techniques/"><u>[New] Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-boost-podcast-visibility-through-strategic-seo-tactics/"><u>[Updated] Boost Podcast Visibility Through Strategic SEO Tactics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-peace-to-your-win11-display/"><u>Bringing Peace to Your Win11 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/counteracting-screen-shimmer-on-surface-pro-7/"><u>Counteracting Screen Shimmer on Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-2-lock-screen-password-by-drfone-android/"><u>How To Change Lava Blaze 2 Lock Screen Password?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-from-basics-to-advanced-the-hand-trackers-playbook/"><u>In 2024, From Basics to Advanced The Hand Tracker's Playbook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screenscape-for-win11-users/"><u>Smooth Screenscape for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-gpu-errors-in-minecraft-on-pc/"><u>Stop GPU Errors in Minecraft on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-eliminate-minecraft-lag-issues/"><u>Top Strategies to Eliminate Minecraft Lag Issues</u></a></li>
+</ul></div>
 

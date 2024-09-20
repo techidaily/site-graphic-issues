@@ -1,7 +1,7 @@
 ---
 title: How to Resolve YouTube Playback Issues When Videos Won't Start
-date: 2024-09-08T03:55:55.464Z
-updated: 2024-09-15T03:58:13.296Z
+date: 2024-09-13T00:00:01.893Z
+updated: 2024-09-20T11:51:34.464Z
 tags:
   - win11
   - win10
@@ -90,6 +90,14 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
 
@@ -100,22 +108,37 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **I’m using Internet Explorer:** 
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste   **inetcpl.cpl**  into the box and click **OK** .  
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ###  Fix 5: Delete the app data
 
@@ -124,21 +147,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 1. On your keyboard, press**the**    **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R** at the same time. Then copy & paste**%appdata%** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766fc6d2ecc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click**AppData** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
@@ -149,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 6: Update your browser
 
@@ -169,16 +171,10 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 3. Google Chrome automatically detects if there’s an update available:
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
@@ -209,15 +205,18 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-screen-recording-techniques-for-minecraft/"><u>[Updated] In 2024, Ultimate Screen Recording Techniques for Minecraft</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-precise-color-correction-mastery-in-gopro-studio/"><u>2024 Approved Precise Color Correction Mastery in GoPro Studio</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg/"><u>2024 Approved Revolutionizing Movie Magic with the 4K 31MU97-B From LG</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-se-2022-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone SE (2022)? How to Fix it?</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-practices-addressing-young-users-on-facebook/"><u>Best Practices: Addressing Young Users on Facebook</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-control-over-screen-dpi-in-windows-11-fix/"><u>Enhanced Control Over Screen DPI in Windows 11 Fix</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-top-tier-no-cost-webm-video-streamers-for-browsers-for-2024/"><u>Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revived-vega-rendering-glitch/"><u>Revived Vega Rendering Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-graphics-on-windows-1011-laptops/"><u>Unlocking Graphics on Windows 10/11 Laptops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[New] Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-strategy-for-google-podcast-uploads/"><u>[Updated] The Ultimate Strategy for Google Podcast Uploads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-detect-missing-graphics-chips/"><u>Guide to Detect Missing Graphics Chips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-14-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 14 Plus From Your Apple ID</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-fixed-nonresponsive-interactive-display/"><u>Lenovo Fixed Nonresponsive Interactive Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-display-after-upgrade/"><u>No Display After Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-visual-output-new-gpu/"><u>No Visual Output - New GPU?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-normal-functionality-to-wins-ui-graphics/"><u>Restored Normal Functionality to Win's UI Graphics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-not-detected-dilemma-a-comprehensive-guide/"><u>Solving the 'core.dll Not Detected' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-display-recovered-from-graphics-hiccup/"><u>System Display Recovered From Graphics Hiccup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-8-plus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 8 Plus Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-updating-your-audio-technica-sound-card-driver/"><u>Ultimate Guide: Updating Your Audio-Technica Sound Card Driver</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos/"><u>ZD Soft An In-Depth Guide to Capture, Record & Edit Videos</u></a></li>
 </ul></div>
 

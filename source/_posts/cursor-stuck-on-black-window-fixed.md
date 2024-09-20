@@ -1,7 +1,7 @@
 ---
 title: Cursor Stuck on Black Window [FIXED]
-date: 2024-07-11T17:07:38.367Z
-updated: 2024-07-12T17:07:38.367Z
+date: 2024-09-16T01:07:37.399Z
+updated: 2024-09-20T07:01:58.479Z
 tags:
   - win11
   - win10
@@ -116,11 +116,25 @@ If you’re on a laptop:
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -172,6 +186,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
@@ -188,6 +209,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
@@ -196,6 +224,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
@@ -210,8 +246,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +253,18 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-decreasing-jello-artifacts-in-aerial-filmmaking/"><u>[New] Decreasing Jello Artifacts in Aerial Filmmaking</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-chuckles-and-cheers-top-tweets-saver-with-gif/"><u>2024 Approved Chuckles & Cheers Top Tweets Saver with GIF</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-internal-cameras-fixed-and-running/"><u>ASUS Internal Cameras: Fixed and Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-extended-window-interface-on-windows-10/"><u>Fixing Extended Window Interface on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-latest-wins-windows-10-enhancements/"><u>In 2024, Exploring Latest Wins Windows 10 Enhancements</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-strategies-to-leverage-youtubes-cc-licensing/"><u>In 2024, Strategies to Leverage YouTube's CC Licensing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blank-window-in-windows-10/"><u>Overcoming Blank Window in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-sims-white-screens-quickly/"><u>Resolve Sims' White Screens Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-launch-issues/"><u>Resolving Direct3D Launch Issues</u></a></li>
+</ul></div>
 

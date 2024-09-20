@@ -1,7 +1,7 @@
 ---
 title: How To Fix Computer Freezing
-date: 2024-07-11T17:07:50.625Z
-updated: 2024-07-12T17:07:50.625Z
+date: 2024-09-13T09:31:59.077Z
+updated: 2024-09-20T09:51:06.354Z
 tags:
   - win11
   - win10
@@ -119,6 +119,13 @@ Here’s how to use Fortect to run a Windows repair:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Adjust your virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -130,6 +137,14 @@ Here’s how to use Fortect to run a Windows repair:
 3. Click the**Advanced** tab and click**Change…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf545f9d7b67.jpg)
 4. Make sure the**Automatically manage paging file size for all drives** checkbox is**un-ticked** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf54672efc63.jpg)
 5. Select**your windows drive** (the hard drive or partition that has Windows installed on it – usually **C:**), then click**Custom size** and enter an**Initial size** and**Maximum size** for your virtual memory:  
    * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.  
@@ -148,8 +163,24 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press **the Windows logo key**  and **R** . Then type   **mdsched.exe** and press **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf668d3264af.png)
 2. Make sure **you’ve saved and closed all the work**  on your computer and click   **Restart now and check for problems (recommended)**  if you want Windows to do a diagnostic test **NOW**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf668df89794.jpg)
 3. By default,  Windows will boot into**the Standard test mode \***  . Wait the whole process to finish while Windows runs the diagnostic test.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **\*** : There are three test modes in**Windows Memory Diagnostic** :**Basic** ,**Standard** and**extended** . You can press**F1** to check exactly what tests each test module includes, press**the arrow keys** to navigate among the test modes and press**F10** to start the memory test you select.
 4. Once Windows reboots, check if you get an error report in the notification area:  
    * If you get a**No memory errors were detected from** **Windows Memory Diagnostic** message , then you can exclude bad memory as the root of the problem. Move on to Fix 6 for further troubleshooting.  
@@ -172,6 +203,20 @@ Here’s how to use Fortect to run a Windows repair:
 3. Select between**Recommended restore** and**Choose a different restore point** depending on whether the date in recommended restore point would make your computer run smoothly without any lagging or freezing.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7809818906.jpg)
 4. Follow the on-screen instruction to run the system restore.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once your computer restarts, check if your computer freezing problem has been solved.
 
 ---
@@ -186,8 +231,6 @@ Here’s how to use Fortect to run a Windows repair:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,6 +238,14 @@ Here’s how to use Fortect to run a Windows repair:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-techniques-for-enhancing-your-instagram-videos/"><u>[Updated] Essential Techniques for Enhancing Your Instagram Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-error-e8024002e-for-updates/"><u>Bypassing Windows Error E:8024002E for Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-fixed-r9-drivers-in-w10/"><u>Enhanced Performance with Fixed R9 Drivers in W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-c1900101-error-in-win10-setup/"><u>How to Eliminate C1900101 Error in Win10 Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818152861-nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-charger-systems-for-black-gopro-hero5-official-sources-for-2024/"><u>Ultimate Charger Systems for Black GoPro Hero5 Official Sources for 2024</u></a></li>
+</ul></div>
 

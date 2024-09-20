@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-09-12T06:16:21.351Z
-updated: 2024-09-15T06:47:37.118Z
+date: 2024-09-19T10:57:50.838Z
+updated: 2024-09-20T07:46:56.487Z
 tags:
   - win11
   - win10
@@ -83,16 +83,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -102,25 +102,25 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -159,20 +159,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/amoeba/"><u>/Amoeba</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-device-visual-stability-no-more-flickering-issues/"><u>Dell Device Visual Stability: No More Flickering Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-video-card-errors-from-minecraft/"><u>Eliminate Video Card Errors From Minecraft</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y100t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y100t to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users/"><u>In 2024, How to Grab Free and Safe VLC with Minimal Risk for macOS Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-choosing-music-for-movie-previews/"><u>In 2024, The Science of Choosing Music for Movie Previews</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/overwatch-gameplay-recording-made-easy/"><u>Overwatch Gameplay Recording Made Easy</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steady-screen-stable-workflows/"><u>Steady Screen, Stable Workflows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-correct-error-code-c1900101-when-installing-windows-11/"><u>Steps to Correct Error Code C1900101 When Installing Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stream-your-audiovid-creations-here-for-2024/"><u>Stream Your AudioVid Creations Here for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-link-av1300-powerline-network-extender-evaluation-less-impressive-than-anticipated/"><u>TP-Link AV1300 Powerline Network Extender Evaluation: Less Impressive Than Anticipated</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winerror-unhandled-exception-wdf-blue-screen/"><u>WinError: Unhandled Exception, WDF Blue Screen</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leveraging-content-for-maximum-impact-growing-view-count-on-tiktok/"><u>[Updated] Leveraging Content for Maximum Impact Growing View Count on TikTok</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-of-use-solve-fallout-4s-pc-freezing-problems/"><u>Ease of Use: Solve Fallout 4'S PC Freezing Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-repair-processes-screen-absent/"><u>Effortless Repair Processes, Screen Absent</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fully-functional-laptop-gpu-in-windows-11/"><u>Fully Functional: Laptop GPU in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-g310-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia G310 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817576948-gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-multi-device-sync-using-your-single-phone-number-across-all-gadgets/"><u>Mastering Multi-Device Sync: Using Your Single Phone Number Across All Gadgets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-laptop-view-achieved/"><u>Optimal Lateral Laptop View Achieved</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfect-full-screen-display-on-fb-videos-step-by-step/"><u>Perfect Full-Screen Display on FB Videos, Step by Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/sharpen-your-viewing-experience-ultimate-tips-for-enhancing-clarity-on-a-4k-television/"><u>Sharpen Your Viewing Experience: Ultimate Tips for Enhancing Clarity on a 4K Television</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtlety-in-chords-pc-and-mac-music-settings-for-2024/"><u>Subtlety in Chords PC & Mac Music Settings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/the-most-upvoted-reddit-post-of-all-time-a-list-of-10-for-2024/"><u>The Most Upvoted Reddit Post of All Time - (A List of 10) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-secure-operations-methodology-for-safe-mode-access-gpu-cleanup-on-win8/"><u>Unlock Secure Operations: Methodology for Safe Mode Access, GPU Cleanup on WIN8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
 </ul></div>
 

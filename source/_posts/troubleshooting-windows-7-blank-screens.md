@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 7 Blank Screens
-date: 2024-07-11T17:03:13.985Z
-updated: 2024-07-12T17:03:13.985Z
+date: 2024-09-16T17:57:12.732Z
+updated: 2024-09-20T11:28:59.012Z
 tags:
   - win11
   - win10
@@ -68,6 +68,20 @@ To troubleshoot these hardware issues:
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
@@ -82,14 +96,50 @@ To troubleshoot these hardware issues:
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
@@ -119,8 +169,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +176,17 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-winning-the-game-of-social-media-handc-marketing-strategies/"><u>[Updated] Winning the Game of Social Media H&C Marketing Strategies</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/analyzing-durability-and-performance-a-complete-guide-to-uniden-r3s-superior-range-detection/"><u>Analyzing Durability & Performance - A Complete Guide to Uniden R3's Superior Range Detection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/beyond-imagination-exploring-ar-worlds-for-2024/"><u>Beyond Imagination Exploring AR Worlds for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-dell-monitor-issues/"><u>No More Glitches: Solved Dell Monitor Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-suitable-graphics-card-found-2020-fixes/"><u>No Suitable Graphics Card Found [2020 Fixes]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-microsofts-operating-system-interface/"><u>Streamlining Microsoft's Operating System Interface</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008017458-troubleshoot-oculus-links-dark-dilemma-in-just-six-steps/"><u>Troubleshoot Oculus Link's Dark Dilemma in Just Six Steps!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-when-your-pc-ignores-your-graphics-card/"><u>Troubleshooting: When Your PC Ignores Your Graphics Card</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Anthem Lag Issues. Easily
-date: 2024-09-10T04:53:03.054Z
-updated: 2024-09-15T04:11:06.585Z
+date: 2024-09-17T23:24:41.895Z
+updated: 2024-09-19T18:56:41.949Z
 tags:
   - win11
   - win10
@@ -136,10 +136,10 @@ So you can follow the steps below to disable CPU core parking:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
@@ -167,10 +167,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -180,6 +180,13 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -192,19 +199,6 @@ So you can follow the steps below to disable CPU core parking:
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -231,16 +225,17 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-stardews-ultimate-customization-guide-the-top-7-mods-listed-for-2024/"><u>[New] Stardew's Ultimate Customization Guide The Top 7 Mods Listed for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-technique-for-capturing-and-broadcasting-ps4-games/"><u>2024 Approved The Ultimate Technique for Capturing & Broadcasting PS4 Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blackscreen-woes-end-mouse-on-win11/"><u>BlackScreen Woes End - Mouse on Win11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/declutter-your-tiktok-library-editing-tips-inside/"><u>Declutter Your TikTok Library - Editing Tips Inside</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-system-init-issues/"><u>Display System Init Issues</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/go-full-screen-with-ease-masterful-mac-scaling-methods-for-insta-posts/"><u>Go Full Screen with Ease Masterful Mac Scaling Methods for Insta Posts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-recovery-from-apex-glitches/"><u>Instant Recovery From Apex Glitches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-persistent-display-flashes/"><u>Prevent Persistent Display Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-blanking-on-window-11-display/"><u>Resolve Blanking on Window 11 Display</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-virtual-reality-vr-gaming-accessories-for-2024/"><u>Top 8 Virtual Reality (VR) Gaming Accessories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-8plus-places-for-gratis-hdr-environments-and-clips/"><u>[New] 2024 Approved Explore 8+ Places for Gratis HDR Environments & Clips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-future-of-fresh-air-urban-planning-with-a-green-perspective/"><u>[New] The Future of Fresh Air Urban Planning with a Green Perspective</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts-for-2024/"><u>[Updated] A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screensnap-2023-the-new-standard-in-recording-for-2024/"><u>[Updated] ScreenSnap 2023 – The New Standard in Recording for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-cheat-sheet-to-creating-captivating-slow-motion-on-tiktok/"><u>[Updated] The Ultimate Cheat Sheet to Creating Captivating Slow Motion on TikTok</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-how-the-amazonbasics-micro-cut-shredder-stacks-up-in-security-and-capacity/"><u>A Closer Look: How the AmazonBasics Micro-Cut Shredder Stacks Up in Security & Capacity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-narzo-60-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme Narzo 60 Pro 5G Face Lock?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/innovative-fixes-for-streamlining-your-youtube-background-effects/"><u>Innovative Fixes for Streamlining Your YouTube Background Effects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-razer-headset-mic-problems-with-simple-solutions/"><u>Solving Razer Headset Mic Problems with Simple Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tactics-for-eradicating-blinking-screens-hp/"><u>Tactics for Eradicating Blinking Screens (HP)</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-pivotal-figures-in-techs-great-divide/"><u>The Pivotal Figures in Tech's Great Divide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-unavailable-display-modes/"><u>Troubleshooting Unavailable Display Modes</u></a></li>
 </ul></div>
 

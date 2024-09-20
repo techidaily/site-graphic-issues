@@ -1,7 +1,7 @@
 ---
 title: Corrective Measures for Blinking Display (HP)
-date: 2024-07-11T17:05:35.803Z
-updated: 2024-07-12T17:05:35.803Z
+date: 2024-09-18T23:46:55.083Z
+updated: 2024-09-20T05:38:03.192Z
 tags:
   - win11
   - win10
@@ -83,9 +83,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -112,6 +126,13 @@ Here is how to do it:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once finished with the repair, check if the error has been resolved.
@@ -129,8 +150,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +157,22 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-clip-concoction-station/"><u>[New] 2024 Approved Clip Concoction Station</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vocal-lens-capture-microphone-inputs/"><u>[New] 2024 Approved Vocal Lens Capture Microphone Inputs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-picpinch-a-study-of-micro-recording-tools/"><u>[New] In 2024, PicPinch A Study of Micro-Recording Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-sites-elevating-youtube-videos-reach/"><u>[New] Leading Sites Elevating YouTube Videos' Reach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-outstanding-asmr-audio-experience-for-minimal-spending/"><u>[New] Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-alive-the-idle-gpu-fan/"><u>Bringing Alive the Idle GPU Fan</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-displays-when-not-to-panic-but-fixes/"><u>Laptop Displays: When Not to Panic, But Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-touch-screen-not-working-solved/"><u>Lenovo Touch Screen Not Working [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-horizon-radeon-hd-6950-updates-for-windows-10-users/"><u>New Graphics Horizon: Radeon HD 6950 Updates for Windows 10 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-laptop-display-flashes-unstably/"><u>Resolved: Laptop Display Flashes Unstably</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-non-responding-touch-interface/"><u>Resolving Lenovo Non-Responding Touch Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-vanished-gddr6x-issue/"><u>Solving the Vanished GDDR6x Issue</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo S18e? | Dr.fone</u></a></li>
+</ul></div>
 

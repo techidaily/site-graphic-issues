@@ -1,7 +1,7 @@
 ---
 title: Guide to Overcoming C1900101 Obstacle in Installation
-date: 2024-09-08T06:18:12.636Z
-updated: 2024-09-14T20:34:25.292Z
+date: 2024-09-15T07:06:39.328Z
+updated: 2024-09-19T18:29:44.394Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Remove unused SAT devices
@@ -58,6 +58,19 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 **IMPORTANT**: Please make sure that you don’t actually need the about-to-be-removed device. If you can’t decide whether to keep it or not, you should move on to the next method instead. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**devmgmt.msc**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
@@ -67,20 +80,33 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
 
-4) Restart your computer. Check if the 0xC1900101 error is gone now.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
 ## Method 4: Do a clean boot
 
 Clean boot requires only the very basic and built-in drivers and programs to run your computer. Therefore, it usually tells if the installed software is conflicting with others when you update, install or run it. If you’re having the 0xC1900101 error code, we recommend that you do a clean boot and see if you’re able to upgrade to or update your Windows 10 from there. **IMPORTANT**: You must log in as**administrator**to do the clean boot. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**msconfig**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
@@ -106,33 +132,7 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -146,14 +146,14 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -178,18 +178,14 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/astronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-innovating-film-viewing-with-iphone-tricks/"><u>[New] Innovating Film Viewing with iPhone Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>2024 Approved Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-reno-11-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo Reno 11 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-mend-your-gpu-excludes-screen-connections/"><u>Easy Mend: Your GPU Excludes Screen Connections</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-after-windows-11-installation/"><u>GPU Status Normalized After Windows 11 Installation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-5-240w-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT 5 (240W)?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-no-full-screen-windows-11-problem/"><u>Monitor No FULL SCREEN: Windows 11 Problem</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-crashes-optimizing-microsoft-flight-simulator-2nx-for-a-seamless-experience-on-your-computer/"><u>No More Crashes: Optimizing Microsoft Flight Simulator 2nX for a Seamless Experience on Your Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revamping-controls-the-god-of-war-evolution/"><u>Revamping Controls: The 'God of War' Evolution</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>The Animator’s Dream Tools Premium Choices for 3D Mastery</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-truth-about-googles-pixel-slate-is-chromeos-up-to-the-task/"><u>The Truth About Google's Pixel Slate: Is ChromeOS Up to the Task?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 Without Passcode Easily</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-master-your-first-steps-in-using-tiktok-macpc-edition/"><u>[Updated] 2024 Approved Master Your First Steps in Using TikTok Mac/PC Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-smart-8-hd-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-with-updated-geforce-210-for-windows-11/"><u>Enhanced Graphics with Updated GeForce 210 for Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-low-fps-performance-in-resident-evil-village-for-a-smoother-pc-experience/"><u>Fixing Low FPS Performance in Resident Evil Village for a Smoother PC Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y100-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y100 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-wnddevice-creation-issue/"><u>Overcome WndDevice Creation Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/released-fix-for-unsupported-overwatch-graphics/"><u>Released Fix for Unsupported Overwatch Graphics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a05s-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A05s Phone Hassle-Free</u></a></li>
 </ul></div>
 

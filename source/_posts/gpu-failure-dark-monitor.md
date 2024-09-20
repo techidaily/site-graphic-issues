@@ -1,7 +1,7 @@
 ---
 title: "GPU Failure: Dark Monitor"
-date: 2024-07-11T17:06:50.412Z
-updated: 2024-07-12T17:06:50.412Z
+date: 2024-09-13T08:48:33.154Z
+updated: 2024-09-19T23:03:15.030Z
 tags:
   - win11
   - win10
@@ -72,9 +72,23 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -92,6 +106,13 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -126,12 +147,34 @@ Here are the things you should pay extra attention to:
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
@@ -158,8 +201,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +208,16 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-mastery-of-video-filters-in-zoom-for-2024/"><u>[New] Step-by-Step Mastery of Video Filters in Zoom for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-virtual-ventures-cutting-edge-business-strategy-gaming-review/"><u>[Updated] 2024 Approved Virtual Ventures Cutting-Edge Business Strategy Gaming Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-tech-insights-the-best-browser-screen-capture-tools-of-the-year-for-2024/"><u>[Updated] Tech Insights The Best Browser Screen Capture Tools of the Year for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ai-enhanced-naming-mastery-for-podcast-creatives/"><u>2024 Approved AI-Enhanced Naming Mastery for Podcast Creatives</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/escape-from-tarkov-pc-crashes-solved-a-comprehvehicle-guide-to-a-smoother-gaming-experience/"><u>Escape From Tarkov PC Crashes Solved: A Comprehvehicle Guide to a Smoother Gaming Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvstreamuseraagentexe-application-error-on-windows-solved/"><u>NvStreamUseraAgent.exe Application Error on Windows [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-post-update-black-screen-issue-on-windows-10/"><u>Resolve Post-Update Black Screen Issue on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-amd-gpu-missing-in-windows-11-setup/"><u>Resolved: AMD GPU Missing in Windows 11 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-gtx-43-code-issue-on-nvidia-geforce-950-under-windows-10-operating-system/"><u>Resolving the 'GTX 43 Code' Issue on NVIDIA GeForce 950 Under Windows 10 Operating System</u></a></li>
+</ul></div>
 

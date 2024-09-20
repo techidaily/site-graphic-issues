@@ -1,7 +1,7 @@
 ---
 title: "Enable GPU Use in Display Settings: Windows Fixes"
-date: 2024-07-11T17:08:40.581Z
-updated: 2024-07-12T17:08:40.581Z
+date: 2024-09-17T20:23:54.785Z
+updated: 2024-09-20T02:00:58.547Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 If not, don’t worry, there are other fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all Windows Updates
 
  By updating your operating system, your laptop will get the latest fixes and security improvements. Many users reported that they fixed this issue by installing the Windows updates. So you should give it a try. To do so:
@@ -76,6 +83,13 @@ If not, don’t worry, there are other fixes you can try.
 3. Under Windows Update, click**Check for updates** . Then wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -110,10 +124,31 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 2. Navigate to the**System** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/switchable-graphics.jpg)
 4. Select a program and choose**High performance** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
 5. Running the program again.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It should now run with the dedicated AMD GPU.
 
@@ -134,6 +169,20 @@ But if not, you can take a look at the next fix.
 4. Then click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
 
 ### Windows 11
@@ -190,8 +239,6 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,6 +246,16 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-10-gimbals-enhancing-dsrl-quality/"><u>[New] 2024 Approved Top 10 Gimbals Enhancing DSRL Quality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-professional-workshop-embedding-countdown-features-in-obs-for-2024/"><u>[Updated] Professional Workshop Embedding Countdown Features in OBS for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-navigating-the-world-of-fpv-drone-propellers/"><u>2024 Approved Navigating the World of FPV Drone Propellers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-intel-3000-driver-fix-for-windows-10-users/"><u>Effortless Intel 3000 Driver Fix for Windows 10 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-performance-upgrade-intel-3000-on-windows-11/"><u>Enhance Performance: Upgrade Intel 3000 on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-crafting-an-irresistible-brand-image-on-your-fb-page/"><u>In 2024, Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/integrating-the-latest-intel-gpu-software-on-windows/"><u>Integrating the Latest Intel GPU Software on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/real-time-fix-for-jittery-videos/"><u>Real-Time Fix for Jittery Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-presentations-with-primeslide-professional-and-instantly-downloadable/"><u>Upgrade Your Presentations with PrimeSlide: Professional & Instantly Downloadable</u></a></li>
+</ul></div>
 

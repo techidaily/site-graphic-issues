@@ -1,7 +1,7 @@
 ---
 title: "Overcome: Win11 Displays Glitchy"
-date: 2024-07-11T17:08:05.570Z
-updated: 2024-07-12T17:08:05.570Z
+date: 2024-09-18T08:52:45.032Z
+updated: 2024-09-19T17:39:28.494Z
 tags:
   - win11
   - win10
@@ -84,10 +84,31 @@ To do so:
 1. On your keyboard, press the **Windows logo key**  and **R**   at the same time. Then type **services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -140,6 +161,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -158,8 +186,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +193,22 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-capture-attention-with-top-mobile-video-editing-software-for-snapchats/"><u>[New] 2024 Approved Capture Attention with Top Mobile Video Editing Software for Snapchats</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-protocols-for-preserving-instagram-footage-on-windowsmacos-platforms/"><u>2024 Approved Protocols for Preserving Instagram Footage on Windows/macOS Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/isoiso/"><u>最適なISOマウントソリューション発表：無料でISOイメージをスムーズに活用方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-control-over-your-youtube-viewing-experience/"><u>Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-window-visuals-no-more-blur/"><u>Enhanced Window Visuals, No More Blur</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-system-patched-screen-responsive/"><u>Graphic System Patched: Screen Responsive</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-ace-2v-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Ace 2V Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Spark 10 4G FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/integrating-into-group-photoshoots-iphone-tutorial/"><u>Integrating Into Group Photoshoots - iPhone Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-and-correcting-comexception-discrepancies/"><u>Interpreting and Correcting COMException Discrepancies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-flaccid-gpu-fan-dynamics/"><u>Reviving Flaccid GPU Fan Dynamics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenorientationfix-guide/"><u>ScreenOrientationFix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-system-upgraded-graphics-drivers-in-windows/"><u>Streamline Your System: Upgraded Graphics Drivers in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unseen-gpu-dilemnas-and-how-to-fix-them/"><u>Unseen GPU Dilemnas and How to Fix Them</u></a></li>
+</ul></div>
 

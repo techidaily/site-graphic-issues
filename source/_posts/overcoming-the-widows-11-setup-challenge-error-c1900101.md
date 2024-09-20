@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the WIDows 11 Setup Challenge: Error C1900101"
-date: 2024-07-11T17:02:53.247Z
-updated: 2024-07-12T17:02:53.247Z
+date: 2024-09-13T02:13:00.380Z
+updated: 2024-09-20T09:04:23.662Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Remove unused SAT devices
 
 **IMPORTANT**: Please make sure that you don’t actually need the about-to-be-removed device. If you can’t decide whether to keep it or not, you should move on to the next method instead. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**devmgmt.msc**in and press**Enter**.
@@ -68,9 +75,29 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
@@ -100,11 +127,31 @@ Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
@@ -122,8 +169,6 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +176,19 @@ If you have tried all the methods above but the problem remains unsolved, it’s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhancing-igtv-content-editing-titles-and-descriptions/"><u>[New] 2024 Approved Enhancing IGTV Content Editing Titles & Descriptions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elite-ai-for-high-fidelity-image-editing-for-2024/"><u>[New] Elite AI for High-Fidelity Image Editing for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-vocal-mapping-microphone-captures-voice/"><u>[Updated] In 2024, Vocal Mapping Microphone Captures Voice</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-chapter-how-to-add-chapters-to-vimeo-video-in-2024/"><u>[Updated] Vimeo Chapter How to Add Chapters to Vimeo Video, In 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-best-guide-showing-music-lyrics-using-a-lyrics-enhancer-add-on-for-vlc-media-player/"><u>1. Best Guide: Showing Music Lyrics Using a Lyrics Enhancer Add-On for VLC Media Player</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-how-to-define-ai-video/"><u>2024 Approved How to Define AI Video?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-flicker-fix-your-lenovo-screen/"><u>Banishing Flicker: Fix Your Lenovo Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817886641-cam-problems-save-your-asus/"><u>Cam Problems? Save Your ASUS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-lenovo-screen-brightness-fluctuations/"><u>Correcting Lenovo Screen Brightness Fluctuations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-s17e-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo S17e Device SIM</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>In 2024, Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-streaming-made-simple-with-obs-guidebook/"><u>In 2024, Youtube Streaming Made Simple with OBS Guidebook</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix and Stabilize: No More PC Freezes for F4"
-date: 2024-07-11T17:08:42.766Z
-updated: 2024-07-12T17:08:42.766Z
+date: 2024-09-16T06:40:07.087Z
+updated: 2024-09-20T10:09:45.038Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Update your graphics card driver**
 
  The missing or outdated graphics card driver can cause Fallout 4 crashing, so you make sure that your video card and its driver both work correctly. There are two ways to update your graphics card driver: manually and automatically.
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
@@ -98,6 +112,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -112,8 +133,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +140,15 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-social-media-creating-effective-fb-videos-for-2024/"><u>[New] Mastering Social Media Creating Effective FB Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-start-mastering-ez-grabbers-downloading-and-usage/"><u>[New] Quick Start Mastering EZ Grabber's Downloading & Usage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unplugged-bliss-selecting-smartphone-slowdowns/"><u>[Updated] 2024 Approved Unplugged Bliss Selecting Smartphone Slowdowns</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unmasking-the-significance-of-snapchat-emojis/"><u>2024 Approved Unmasking the Significance of Snapchat Emojis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-free-voice-changer-for-valorant-you-should-have-a-try/"><u>Best Free Voice Changer for Valorant You Should Have a Try</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-asus-camera-operating-again/"><u>How to Get Asus Camera Operating Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-amd-radeon-r9-display-problems-on-win10/"><u>Resolved AMD Radeon R9 Display Problems on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
+</ul></div>
 

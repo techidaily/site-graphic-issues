@@ -1,7 +1,7 @@
 ---
 title: GPU Health Restored After Detected TDR
-date: 2024-07-11T17:03:46.998Z
-updated: 2024-07-12T17:03:46.998Z
+date: 2024-09-19T02:29:27.641Z
+updated: 2024-09-20T07:13:42.858Z
 tags:
   - win11
   - win10
@@ -77,6 +77,19 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -94,7 +107,21 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
@@ -115,8 +142,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +149,15 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-integrating-custom-luts-into-your-post-production-workflow/"><u>[Updated] 2024 Approved Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-list-of-different-video-camera-types/"><u>2024 Approved List of Different Video Camera Types</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-reputation-with-steams-top-tier-game-reviews/"><u>Building a Reputation with Steam's Top-Tier Game Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-your-laptops-horizontal-boundaries-now/"><u>Fix Your Laptop's Horizontal Boundaries Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/forza-horizon-cuenta-con-problemas-de-arranque-en-2024-lineas-maestras-para-solucionar-rapidamente-consejos-expertos/"><u>Forza Horizon Cuenta Con Problemas De Arranque en 2024: Líneas Maestras Para Solucionar Rápidamente | Consejos Expertos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-art-of-multiframe-storytelling-using-picture-in-picture-in-final-cut-pro/"><u>New In 2024, The Art of Multiframe Storytelling Using Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/righted-angled-view-on-mobile-computing-screens/"><u>Righted Angled View on Mobile Computing Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-graphic-interface-back-to-operational-state/"><u>Window's Graphic Interface Back to Operational State</u></a></li>
+</ul></div>
 

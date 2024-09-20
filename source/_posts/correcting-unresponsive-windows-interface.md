@@ -1,7 +1,7 @@
 ---
 title: Correcting Unresponsive Windows Interface
-date: 2024-07-11T17:02:25.828Z
-updated: 2024-07-12T17:02:25.828Z
+date: 2024-09-18T23:09:22.224Z
+updated: 2024-09-20T02:39:27.307Z
 tags:
   - win11
   - win10
@@ -87,6 +87,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -95,6 +103,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
@@ -121,6 +137,13 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -168,6 +191,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -187,6 +217,13 @@ If you’re on a laptop:
  2) Type **settings**  in the search box at the bottom left corner of the desktop, then click **Settings**  in the menu that displays.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
 
@@ -210,8 +247,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +254,21 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>2024 Approved The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-windows-best-video-conferencing-apps-2-1/"><u>2024 Approved Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722858326945-apples-next-big-launch-dates-announced-rumors-unveiled-and-key-details-shared-ahead-of-time/"><u>Apple's Next Big Launch - Dates Announced, Rumors Unveiled, and Key Details Shared Ahead of Time</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discovering-the-top-8-collaborative-android-video-tiles-premiumfree-for-2024/"><u>Discovering the Top 8 Collaborative Android Video Tiles (Premium/Free) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-update-dark-display-issue/"><u>Driver Update: Dark Display Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/escape-from-tarkov-graphics-bug-for-amd-users-quick-fix/"><u>Escape From Tarkov Graphics Bug for AMD Users [Quick Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expert-tips-entering-safe-mode-and-purging-graphics-cards-drivers-on-windows-8/"><u>Expert Tips: Entering Safe Mode & Purging Graphics Cards Drivers on Windows 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exploring-top-alternatives-to-handbrake-for-secure-dvd-ripping-and-conversion/"><u>Exploring Top Alternatives To Handbrake For Secure DVD Ripping & Conversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016270622-fixing-audio-glitches-on-windows-11-follow-these-easy-5-step-instructions/"><u>Fixing Audio Glitches on Windows 11? Follow These Easy 5-Step Instructions!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcame-system-graphics-failure/"><u>Overcame System Graphics Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-display-armored-again-post-windows-fix/"><u>Screen Display Armored Again Post-Windows Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-software-on-windows-11/"><u>Upgrade Logitech Mouse Software on Windows 11</u></a></li>
+</ul></div>
 

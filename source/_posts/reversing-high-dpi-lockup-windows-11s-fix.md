@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-09-08T04:11:26.043Z
-updated: 2024-09-14T17:10:53.860Z
+date: 2024-09-19T04:02:52.024Z
+updated: 2024-09-19T22:24:14.816Z
 tags:
   - win11
   - win10
@@ -76,19 +76,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -103,6 +90,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -114,10 +108,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
@@ -148,15 +142,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-deciphering-whatsapp-talk-mechanics/"><u>[New] 2024 Approved Deciphering WhatsApp Talk Mechanics</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-aggregate-video-pieces-into-lists/"><u>[Updated] 2024 Approved Aggregate Video Pieces Into Lists</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>2024 Approved Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-version-of-the-brother-mfc-l26-90-dw-printer-driver-free-download/"><u>Get the Newest Version of the Brother MFC-L26 90 DW Printer Driver - Free Download</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jumpstart-gaming-on-win10-new-release-of-radeon-hd-6950-drivers/"><u>Jumpstart Gaming on Win10: New Release of Radeon HD 6950 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mended-overcoming-setup-obstacle/"><u>Mended: Overcoming Setup Obstacle</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solution-steps-for-itunes-couldnt-pair-with-your-iphone-dealing-with-incorrect-device-responses/"><u>Solution Steps for 'iTunes Couldn't Pair with Your iPhone: Dealing With Incorrect Device Responses</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-to-gpu-overheats-preserving-system-availability/"><u>Solutions to GPU Overheats: Preserving System Availability</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-oppo-k11-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo K11 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-modernize-intel-graphics-support/"><u>Windows 7: Modernize Intel Graphics Support</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-conquer-social-media-with-savvy-fb-video-choices-for-2024/"><u>[New] Conquer Social Media with Savvy FB Video Choices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-commerce-environments-design/"><u>[New] Immersive Commerce Environments Design</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-step-by-step-facebook-live-on-roku-platform/"><u>[Updated] Step-by-Step Facebook Live on Roku Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-webcam-recording-on-macbook-for-2024/"><u>[Updated] Step-by-Step Webcam Recording on MacBook for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-news-enhanced-graphics-on-windows-11-amd-hd-6950/"><u>Breaking News: Enhanced Graphics on Windows 11, AMD HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-compatibility-fixed-seamless-operation-restored/"><u>Direct3D Compatibility Fixed - Seamless Operation Restored</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-lap-top-horizontal-line-correction/"><u>Effortless Lap Top - Horizontal Line Correction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-radeon-r9-driver-crashes-in-win11-resolved/"><u>Fixing AMD Radeon R9 Driver Crashes in Win11 [Resolved]</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-undo-video-errors-in-m4v-format-for-pc-and-mac/"><u>How to Undo Video Errors in M4V Format for PC & Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-13-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 13 Pro Max Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g34-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G34 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-videography-with-the-impressive-nikon-j5/"><u>In 2024, Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-ripple-in-monitors/"><u>Stop Screen Ripple in Monitors</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
 </ul></div>
 

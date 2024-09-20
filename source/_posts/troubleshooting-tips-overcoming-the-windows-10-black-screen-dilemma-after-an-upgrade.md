@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade"
-date: 2024-09-09T22:52:51.708Z
-updated: 2024-09-14T20:01:04.395Z
+date: 2024-09-17T07:28:37.448Z
+updated: 2024-09-19T16:39:32.717Z
 tags:
   - win11
   - win10
@@ -69,25 +69,18 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ###  Fix 4: Uninstall third party Windows theming software
 
@@ -105,8 +98,23 @@ If this produces no results, you can move on to Fix 3.
 5. In the pop-up**Services** window, double click**App Readiness** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
 7. **Restart** your PC to check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -133,13 +141,6 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### How to activate the original Windows administrator account
 
 1. Type**cmd** in the Windows search box, right click**Command Prompt** , then select**Run as administrator** .  
@@ -147,21 +148,14 @@ If this produces no results, you can move on to Fix 3.
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -173,6 +167,14 @@ If this produces no results, you can move on to Fix 3.
 2. Click the**Start** button, then the**Settings** icon to go to Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Update & security** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
@@ -201,21 +203,18 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-imovies-power-to-transform-ordinary-openers-into-epic/"><u>[Updated] IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms-for-2024/"><u>[Updated] Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-unique-youtube-music-mixtapes/"><u>2024 Approved Creating Unique YouTube Music Mixtapes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bad-drivers-triggered-minecraft-failures/"><u>Bad Drivers Triggered Minecraft Failures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/black-screen-on-latest-gpu/"><u>Black Screen on Latest GPU</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-ambient-weather-ws-1002-wifi-thermometer-luxury-at-a-higher-price-point/"><u>Comprehensive Analysis of the Ambient Weather WS-1002 WiFi Thermometer - Luxury at a Higher Price Point</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-fixes-for-asus-laptops-unresponsive-display/"><u>Easy Fixes for Asus Laptop's Unresponsive Display</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-tecno-camon-30-pro-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Tecno Camon 30 Pro 5G FRP Locks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-gains-latest-nvidia-geforce-drivers-for-windows-os/"><u>Graphics Gains: Latest NVIDIA GeForce Drivers for Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-brother-hl-l2340dw-printer-drivers-on-windows-pcs/"><u>How to Obtain and Install Brother HL-L2340DW Printer Drivers on Windows PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-20-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 20 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-lines-equilibrium/"><u>Perfecting Visual Lines' Equilibrium</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-laptop-monitor-horizontal-line-distortion-quickly/"><u>Rectify Laptop Monitor Horizontal Line Distortion Quickly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-d3dx928dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the d3dx9_28.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/retrieve-lost-screen-configuration-saving-in-win-7-and-10-fixable/"><u>Retrieve Lost Screen Configuration Saving in WIN 7 & 10 [Fixable]</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-test-asus-rog-rapture-gt-ax11000-for-gamers-experience-pinnacle-speed-and-features/"><u>Ultimate Test: Asus ROG Rapture GT-AX11000 for Gamers - Experience Pinnacle Speed & Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avert-gpu-failure-in-popular-pc-game/"><u>Avert GPU Failure in Popular PC Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/celebrate-diversity-the-premier-selection-of-lgbt-movies-to-watch-on-netflix-in-jul-24/"><u>Celebrate Diversity: The Premier Selection of LGBT Movies to Watch on Netflix in Jul '24</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deviceinit-failed-now-working/"><u>DeviceInit Failed, Now Working</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-aspect-ratio-on-slant-view-laptop/"><u>Fixed Aspect Ratio on Slant-View Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fuzzy-fonts-on-far-cry-6-screen/"><u>Fixing Fuzzy Fonts on Far Cry 6 Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-sun-and-bulbs-for-stellar-iphone-photos-for-2024/"><u>Harness the Sun and Bulbs for Stellar Iphone Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-creative-zooming-into-video-filters-step-by-step/"><u>In 2024, From Basic to Creative Zooming Into Video Filters Step-by-Step</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia Is Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interface-correction-on-windows-comerror-rectified/"><u>Interface Correction on Windows, COMError Rectified</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-playlist-streaming-your-mp3-music-library-online/"><u>Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-configuration-for-windows-11/"><u>Revamped Visual Configuration for Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook-for-2024/"><u>Updated Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

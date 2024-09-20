@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2024-09-10T20:02:14.604Z
-updated: 2024-09-14T22:16:42.893Z
+date: 2024-09-17T18:21:42.679Z
+updated: 2024-09-19T21:08:36.152Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
 #### For**NVIDIA** users  
@@ -71,29 +78,22 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -107,10 +107,10 @@ There are two fixes you can try:
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
@@ -132,14 +132,12 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-crafty-escapades-discover-top-imaginative-venues-for-2024/"><u>[New] Crafty Escapades Discover Top Imaginative Venues for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-roadmap-to-creating-unforgettable-facebook-cover-videos/"><u>[New] In 2024, The Roadmap to Creating Unforgettable Facebook Cover Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723012414682-aromatic-hydrocarbons-have-a-conjugated-pi-electron-system-that-confers-stability-through-resonance-energy/"><u>Aromatic Hydrocarbons Have a Conjugated Pi Electron System that Confers Stability Through Resonance Energy.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973892787-download-and-install-updates-for-your-nvidia-quadro-rtx-graphics-card-today/"><u>Download & Install Updates for Your NVIDIA Quadro RTX Graphics Card Today!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-code-24-and-restore-hardware-recognition-on-your-pc-windows-1087/"><u>How to Correct Code 24 and Restore Hardware Recognition on Your PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solution-wake-up-your-silent-dp-connection/"><u>Swift Solution: Wake up Your Silent DP Connection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-into-the-spotlight-on-instagram-with-these-tricks/"><u>[New] 2024 Approved Step Into the Spotlight on Instagram with These Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-critical-platforms-offering-twitter-like-interaction/"><u>[Updated] 2024 Approved Critical Platforms Offering Twitter-Like Interaction</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-propella-7s-40-a-comprehensive-review-of-its-lightweight-and-agile-features/"><u>Affordable Propella 7S 4.0: A Comprehensive Review of Its Lightweight and Agile Features</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-webm-to-mp3-conversion-software-for-easy-audio-extraction-for-2024/"><u>New Top WebM to MP3 Conversion Software for Easy Audio Extraction for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-network-issues-in-civ-5/"><u>Resolving Network Issues in CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-backward-screen-on-windows-11/"><u>Troubleshooting Backward Screen on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-invisible-fullscreen-window/"><u>Windows 10: Invisible Fullscreen Window?</u></a></li>
 </ul></div>
 

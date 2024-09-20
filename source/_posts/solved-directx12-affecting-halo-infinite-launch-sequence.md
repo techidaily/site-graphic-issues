@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence"
-date: 2024-09-11T06:00:03.883Z
-updated: 2024-09-14T16:16:45.639Z
+date: 2024-09-16T22:50:45.970Z
+updated: 2024-09-20T06:42:56.135Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -108,12 +101,33 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -126,13 +140,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -151,10 +158,10 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
@@ -174,17 +181,18 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-alter-macs-screen-capture-store-path/"><u>[New] 2024 Approved Alter Mac's Screen Capture Store Path</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>[New] In 2024, Live Stream Perfection Ranking the Best Recorder Gadgets in Tech</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-the-perfect-panel-of-playback-with-youtube-for-2024/"><u>[Updated] Crafting the Perfect Panel of Playback with YouTube for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breaking-news-enhanced-graphics-on-windows-11-amd-hd-6950/"><u>Breaking News: Enhanced Graphics on Windows 11, AMD HD 6950</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-the-appeal-what-makes-you-love-filmora-editing/"><u>Decoding the Appeal What Makes You Love Filmora Editing?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-compatibility-fixed-seamless-operation-restored/"><u>Direct3D Compatibility Fixed - Seamless Operation Restored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/driver-updates-all-clear-now/"><u>Driver Updates: All Clear Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-lap-top-horizontal-line-correction/"><u>Effortless Lap Top - Horizontal Line Correction</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-amd-radeon-r9-driver-crashes-in-win11-resolved/"><u>Fixing AMD Radeon R9 Driver Crashes in Win11 [Resolved]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-itel-p55t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Itel P55T? Try These Fixes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-win11-screen-blackout-post-fall-release/"><u>Overcoming Win11 Screen Blackout Post Fall Release</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-lighting-essentials-17-tops-reviewed/"><u>[New] 2024 Approved YouTube Lighting Essentials - #17 Tops Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[Updated] 2024 Approved Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-conclusion/"><u>2024 Approved Conclusion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-natural-and-artificial-blending-lights-in-iphone-photos/"><u>2024 Approved Natural & Artificial Blending Lights in iPhone Photos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-perfect-your-playback-implementing-a-countdown-in-obs/"><u>2024 Approved Perfect Your Playback Implementing a Countdown in OBS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a38-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-dormant-screen-at-work-steps-for-revival/"><u>A Dormant Screen at Work: Steps for Revival</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bad-video-card-drivers-crash-minecraft-on-windows-solved/"><u>Bad Video Card Drivers Crash Minecraft on Windows [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disabled-gpu-how-to-turn-it-on-for-windows-1011/"><u>Disabled GPU - How to Turn It On for Windows 10/11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-gameplay-in-anthem/"><u>Streamline Your Gameplay in Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/your-clear-vision-free-of-flickers-intrusion/"><u>Your Clear Vision, Free of Flicker's Intrusion</u></a></li>
 </ul></div>
 

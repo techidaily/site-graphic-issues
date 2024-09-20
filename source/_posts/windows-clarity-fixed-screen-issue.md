@@ -1,7 +1,7 @@
 ---
 title: "Windows Clarity: Fixed Screen Issue"
-date: 2024-07-11T17:07:25.516Z
-updated: 2024-07-12T17:07:25.516Z
+date: 2024-09-18T04:07:39.077Z
+updated: 2024-09-20T10:18:17.671Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
  If your hardware is perfect and the blurry screen problem still persists, don’t worry. You can try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Enable Let Windows try to fix apps so they’re not blurry
 
@@ -106,6 +113,13 @@ Check if your screen becomes normal.
 3. In the**Display** section, ensure to select**100%** for**Scale and layout** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then Windows will apply the changes. Check and see if your screen gets clear.
 
 **If you’re using Windows 8 and Windows 7:**
@@ -114,6 +128,14 @@ Check if your screen becomes normal.
 2. Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
 
@@ -130,10 +152,32 @@ Check if your screen is still blurry.
 2. Right click on the application setup file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
 
@@ -152,8 +196,6 @@ Check if the blurry problem has been fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +203,20 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhance-your-meetings-top-5-live-stream-recording-tools-for-2024/"><u>[New] Enhance Your Meetings Top 5 Live Stream Recording Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-a-trailers-soundtrack-a-guide/"><u>[Updated] Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-discover-retro-your-path-to-facebook-archives-for-2024/"><u>[Updated] Discover Retro Your Path to Facebook Archives for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-recharged-and-bug-free/"><u>Apex Legends, Recharged & Bug-Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/arcade-affordability-index/"><u>ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-halt-in-windows-fixed-nvidia-issue-43-settled/"><u>Device Halt in Windows Fixed – NVIDIA Issue #43 Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-bug-detected-now-fixed-by-nvidia-drivers/"><u>Graphics Bug Detected, Now Fixed by NVIDIA Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c22-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C22 FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-r9-display-problems-on-windows-10/"><u>Overcoming R9 Display Problems on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/predictive-models-must-account-for-long-term-environmental-degradation-mechanisms-that-affect-material-properties-and-structural-integrity/"><u>Predictive Models Must Account for Long-Term Environmental Degradation Mechanisms that Affect Material Properties and Structural Integrity.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-natural-display-ratios-for-widescreen-pcs-running-win10/"><u>Restoring Natural Display Ratios for Widescreen PCs Running Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-frequent-microsoft-edge-malfunctions-on-windows-11-pcs/"><u>Troubleshooting Frequent Microsoft Edge Malfunctions on Windows 11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11s-flicker-phenomenon-resolved/"><u>Win11's Flicker Phenomenon - Resolved</u></a></li>
+</ul></div>
 

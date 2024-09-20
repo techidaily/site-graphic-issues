@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-09-14T02:38:16.448Z
-updated: 2024-09-15T06:25:29.360Z
+date: 2024-09-13T08:08:05.006Z
+updated: 2024-09-20T03:55:43.393Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change the screen refresh rate
 
  The screen refresh rate is the frequency with which the image on your laptop screen is refreshed. If it’s set on a wrong rate, it may cause the screen flickering or blinking problem. So you can check the current screen refresh rate, experiment with the possible rates to see if there is one more suitable to your screen.
@@ -84,15 +91,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -101,13 +115,6 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
@@ -125,13 +132,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -159,14 +159,16 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-leveraging-technology-for-efficient-team-discussions-slack-filmora-strategy-for-2024/"><u>[Updated] Leveraging Technology for Efficient Team Discussions Slack-Filmora Strategy for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-brightening-up-your-youtube-content/"><u>2024 Approved The Ultimate Guide to Brightening Up Your YouTube Content</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-photoscape-the-leading-contender-in-free-digital-photography-enhancement-tools/"><u>A Critical Look at PhotoScape: The Leading Contender in Free Digital Photography Enhancement Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-network-issues-in-civ-5/"><u>Resolving Network Issues in CIV 5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resurrect-a-darkened-asus-screen-with-minimal-hassle/"><u>Resurrect a Darkened Asus Screen with Minimal Hassle</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/trouble-with-ready-or-not-on-your-pc-expert-tips-to-stop-the-game-from-crashing/"><u>Trouble with Ready or Not on Your PC? Expert Tips to Stop the Game From Crashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-backward-screen-on-windows-11/"><u>Troubleshooting Backward Screen on Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-free-online-video-looping-software/"><u>Updated 2024 Approved The Ultimate List 10 Best Free Online Video Looping Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-invisible-fullscreen-window/"><u>Windows 10: Invisible Fullscreen Window?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/added-hidden-settings-in-windows-10-displays-unlocked/"><u>[ADDED] Hidden Settings in Windows 10 Displays Unlocked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-beef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips/"><u>[New] 2024 Approved Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-is-it-legal-to-record-youtube/"><u>[New] 2024 Approved Is It Legal to Record YouTube?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-master-the-art-of-budget-friendly-youtubes-intros-and-ends/"><u>[New] 2024 Approved Master the Art of Budget-Friendly YouTubes Intros and Ends</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a15-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A15 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-premiere-pro-power-user-20-shortcuts-to-save-time/"><u>New 2024 Approved Premiere Pro Power User 20 Shortcuts to Save Time</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-diagonal-misalignment-in-netbooks/"><u>Resolved Diagonal Misalignment in Netbooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-watch-experience-now/"><u>Streamline Your Watch Experience Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-display-fade/"><u>Troubleshooting Lenovo Display Fade</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restoring GPU Operation in Windows Laptops (Win10/11)
-date: 2024-09-10T21:11:18.644Z
-updated: 2024-09-14T22:34:43.434Z
+date: 2024-09-14T11:27:13.331Z
+updated: 2024-09-20T02:34:17.172Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 If not, don’t worry, there are other fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all Windows Updates
 
  By updating your operating system, your laptop will get the latest fixes and security improvements. Many users reported that they fixed this issue by installing the Windows updates. So you should give it a try. To do so:
@@ -77,6 +84,13 @@ If not, don’t worry, there are other fixes you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 11
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
@@ -87,6 +101,13 @@ If not, don’t worry, there are other fixes you can try.
 Now you can check if your dedicated GPU is being used.
 
 If this method doesn’t help, continue with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Switch to the dedicated GPU manually
 
@@ -119,19 +140,6 @@ It should now run with the dedicated AMD GPU.
 
 But if not, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Change the Windows graphics setting
 
  Another way to force your laptop to use the dedicated GPU is by changing the Graphics settings. To do so:
@@ -146,30 +154,16 @@ But if not, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse-1.jpg)
 4. Then click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -188,18 +182,18 @@ But if not, you can take a look at the next fix.
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Options.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Graphics-preference-High-performance.jpg)
 
  After doing so, open Task Manager to check if the program is using the dedicated GPU.
 
 If not, see below for more solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Make sure your dedicated GPU is enabled in BIOS
 
@@ -242,15 +236,20 @@ If this trick doesn’t work for you, check out the last solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons/"><u>[New] In 2024, Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-youtube-shorts-guide-for-2024/"><u>[Updated] From Novice to Pro YouTube Shorts Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-explore-highly-recommended-sandbox-titles/"><u>2024 Approved Explore Highly Recommended Sandbox Titles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-recurring-monitor-blanks-now-stable/"><u>Conquered Recurring Monitor Blanks, Now Stable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-shadowstack-chipset/"><u>Finding the Hidden Shadowstack Chipset</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-errors-with-your-lg-usb-driver-in-windows-1087-environments/"><u>How to Fix Connectivity Errors with Your LG USB Driver in Windows 10/8/7 Environments</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-run-intel-graphics-in-low-end-systems/"><u>Tips to Run Intel Graphics in Low-End Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-gpt-with-android/"><u>Unveiling the Potential of GPT with Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-2023-features-pricing-and-performance-review/"><u>Updated AVS Video Editor 2023 Features, Pricing, and Performance Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-transformation-of-your-youtube-content-into-webm-for-2024/"><u>[New] Effortless Transformation of Your YouTube Content Into WebM for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-analyzing-the-features-of-vegaspros-latest-release/"><u>[New] In 2024, Analyzing the Features of VegasPro's Latest Release</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-satirize-a-guide-to-parody-production/"><u>[New] In 2024, How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-11-insider-tips-for-outstanding-hue-alignment/"><u>[Updated] 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-freeze-non-picked-youtube-video-suggestions/"><u>2024 Approved Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-0x800700e1-on-modern-windows/"><u>Addressing Error 0X800700E1 on Modern Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-anthem-performance-boost/"><u>Effortless Anthem Performance Boost</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-asus-monitor-glitches-with-easy-fix-methods/"><u>End ASUS Monitor Glitches with Easy Fix Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-fans-access-more-from-your-twitch-channel-for-2024/"><u>Facebook Fans Access More From Your Twitch Channel for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-geforce-shader-compatibility-hiccup/"><u>Fixed GeForce Shader Compatibility Hiccup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcoming-the-endless-load-of-minecraft/"><u>Fixes & Solutions: Overcoming the Endless Load of Minecraft</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/identifying-invisible-cuda-chipset/"><u>Identifying Invisible CUDA Chipset</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-isolating-image-moments-from-videos-using-windows-photos-software/"><u>In 2024, Isolating Image Moments From Videos Using Windows Photos Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-graphics-not-recognized-issue/"><u>Solve: Graphics Not Recognized Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-dark-screen-in-win10/"><u>Taming the Dark Screen in Win10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Window Visuals, No More Blur
-date: 2024-09-11T01:34:17.785Z
-updated: 2024-09-14T17:28:14.741Z
+date: 2024-09-17T10:02:56.400Z
+updated: 2024-09-20T05:32:23.420Z
 tags:
   - win11
   - win10
@@ -50,6 +50,19 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable Let Windows try to fix apps so they’re not blurry
 
  When you see the blurriness happen to your computer, usually you’ll see a notification popup saying “**Let Windows try to fix apps so they’re not blurry** “. If you see this notification, agree to let Windows fix the blurry issues.
@@ -63,28 +76,8 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -106,19 +99,20 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 2. Run Driver Easy and click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e2b88e496.jpg)
 3. Click **Driver Uninstall** , and double click**Display adapters** . Select your graphics card and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
 
 Check if your screen becomes normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change DPI scaling settings for your monitor
 
@@ -133,6 +127,13 @@ Check if your screen becomes normal.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, ensure to select**100%** for**Scale and layout** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then Windows will apply the changes. Check and see if your screen gets clear.
 
@@ -150,16 +151,10 @@ Check if your screen is still blurry.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
@@ -171,10 +166,10 @@ Check if your screen is still blurry.
 2. Right click on the application setup file, and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
@@ -210,17 +205,16 @@ Check if the blurry problem has been fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-tips-for-youtube-shorts-success/"><u>[New] In 2024, Essential Tips for YouTube Shorts Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-treasury-of-thought-provoking-youtube-content/"><u>[Updated] In 2024, A Treasury of Thought-Provoking YouTube Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/analyzing-the-differences-twitch-vs-youtube-platforms/"><u>Analyzing the Differences Twitch vs YouTube Platforms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/avoid-flickering-secure-your-lenovo-display/"><u>Avoid Flickering: Secure Your Lenovo Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-fps-latest-amd-hd-6950-driver-release/"><u>Boost FPS: Latest AMD HD 6950 Driver Release</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-website-optimization-enhance-your-online-presence/"><u>Cookiebot-Driven Website Optimization: Enhance Your Online Presence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-scansnap-s1100-software-swift-setup-and-compatibility-guide/"><u>Download the Latest Scansnap S1100 Software: Swift Setup & Compatibility Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-printer-functionality-hp-laserjet-driver-updates-for-win10/"><u>Improve Printer Functionality: HP Laserjet Driver Updates for WIN10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-lenovo-x1-carbon-driver-software-downloads-compatible-with-windows-117/"><u>Latest Lenovo X1 Carbon Driver Software Downloads Compatible with Windows 11/7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-power-of-nvidias-wins11-compatible-drivers-geforce-210/"><u>Unveiling the Power of NVIDIA's Wins11-Compatible Drivers, GeForce 210</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-8-entrusting-system-in-safe-mode-and-removing-gpu-drivers/"><u>Windows 8: Entrusting System in Safe Mode & Removing GPU Drivers</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-settings-not-showing-in-win11/"><u>[Fixed] Advanced Settings Not Showing in Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>[New] 2024 Approved Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-youtube-videos-integrating-into-ppt-4-techniques/"><u>[New] 2024 Approved Mastering YouTube Videos Integrating Into PPT (4 Techniques)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[New] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-techniques-for-securing-ps4-gameplay-moments/"><u>[Updated] In 2024, Essential Techniques for Securing PS4 Gameplay Moments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-mov-avi-and-more-in-a-flash-free-webmwmv-tools-with-movavis-powerful-software/"><u>Convert MOV, AVI & More in a Flash: Free Webm/WMV Tools with Movavi's Powerful Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/post-update-windows-10-video-playback-success/"><u>Post-Update Windows 10 - Video Playback Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/power-packed-visuals-updated-windows-10-nvidia-geforce-210-driver/"><u>Power-Packed Visuals: Updated Windows 10 Nvidia GeForce 210 Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-zoom-sessions-required-camera-repair-strategies/"><u>Seamless Zoom Sessions Required - Camera Repair Strategies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tactics-to-support-unsupported-freesync-on-amd/"><u>Tactics to Support Unsupported FreeSync on AMD</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dying Light Audio Malfunction Repaired: Step-by-Step Solutions"
-date: 2024-09-12T18:16:47.362Z
-updated: 2024-09-14T19:27:48.296Z
+date: 2024-09-16T04:42:00.112Z
+updated: 2024-09-19T22:54:28.007Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
@@ -106,15 +99,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 #### Modify AMD graphics card settings
@@ -123,17 +117,17 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -148,22 +142,24 @@ Here are the system requirements for Control:
 5. Click Scan to add the game to the application list.  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
@@ -188,19 +184,6 @@ Here are the system requirements for Control:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -227,6 +210,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -276,18 +266,21 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-boost-podcast-visibility-through-strategic-seo-tactics/"><u>[New] Boost Podcast Visibility Through Strategic SEO Tactics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks-for-2024/"><u>[New] Shaping Public Perception 5 Essentials for Instagram Marketing Mavericks for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-integrating-interactive-features-for-enhanced-viewers-experience-on-youtube/"><u>[Updated] Integrating Interactive Features for Enhanced Viewers' Experience on Youtube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-transforming-horizontal-footage-into-vertical-video-gold-on-igtv/"><u>2024 Approved Transforming Horizontal Footage Into Vertical Video Gold on IGTV</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-se-2022-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone SE (2022)? Find the Best Solution Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminated-visual-glitches-in-dell-ultrabook/"><u>Eliminated Visual Glitches in Dell Ultrabook</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-driver-not-detecting-device/"><u>Graphics Driver Not Detecting Device</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004487869-pc-troubles-stop-stray-crashes-with-these-6-reliable-solutions/"><u>PC Troubles? Stop Stray Crashes with These 6 Reliable Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-to-stabilize-hp-screen-flashes/"><u>Solutions to Stabilize HP Screen Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stopping-volatile-visuals-in-lenovo-devices/"><u>Stopping Volatile Visuals in Lenovo Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-12-proplus-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme 12 Pro+ 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tiktok-sound-comprerancy-on-muted-video-segments/"><u>[New] 2024 Approved TikTok Sound Comprerancy on Muted Video Segments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nderstanding-the-core-of-asmr-media-for-2024/"><u>[New] Understanding the Core of ASMR Media for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-engagement-adding-text-and-links-to-youtube-content/"><u>[Updated] In 2024, Enhancing Engagement Adding Text and Links to YouTube Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-the-revenue-process-for-t-series-on-youtube/"><u>[Updated] Understanding the Revenue Process for T-Series on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-ventures-steps-for-monetizing-content/"><u>2024 Approved YouTube Ventures Steps for Monetizing Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-automation-8-critical-reasons-why-content-writers-shouldnt-depend-on-ai-chatbots/"><u>Beyond Automation: 8 Critical Reasons Why Content Writers Shouldn't Depend on AI Chatbots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818243959-d3d-init-bug-eliminated-happy-hour/"><u>D3D Init Bug Eliminated, Happy Hour!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-zte-blade-a73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on ZTE Blade A73 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-play-40c-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Play 40C FRP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-powerful-driver-refresh-transform-your-windows-pcs-graphics/"><u>Quick & Powerful Driver Refresh: Transform Your Windows PC's Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-frozen-windows-monitor-black-screen/"><u>Resolving Frozen Windows Monitor, Black Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-to-surveillance-owning-for-autonomy/"><u>Subscribing to Surveillance, Owning for Autonomy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solution-wake-up-your-silent-dp-connection/"><u>Swift Solution: Wake up Your Silent DP Connection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-710-save-screen-settings-issue-resolution-provided-solved/"><u>Win 7/10 Save Screen Settings Issue - Resolution Provided [Solved]</u></a></li>
 </ul></div>
 

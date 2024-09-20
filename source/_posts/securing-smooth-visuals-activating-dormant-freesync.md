@@ -1,7 +1,7 @@
 ---
 title: "Securing Smooth Visuals: Activating Dormant FreeSync"
-date: 2024-07-11T17:10:20.237Z
-updated: 2024-07-12T17:10:20.237Z
+date: 2024-09-16T16:49:01.766Z
+updated: 2024-09-20T11:00:38.003Z
 tags:
   - win11
   - win10
@@ -66,8 +66,23 @@ If the problem persists, take a look at the next fix.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -86,6 +101,14 @@ If the problem persists, take a look at the next fix.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -126,6 +149,13 @@ Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Configure the default GPU
 
  If your PC has dual GPUs, say an integrated one comes with the CPU and a dedicated one, you might need to**specify the default GPU for your program** . Since FreeSync is currently only compatible with AMD GPUs, besides connecting the monitor to an AMD graphics card, you can also configure the default GPU for the program.
@@ -137,6 +167,14 @@ If this doesn’t help, you can continue to the next method.
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
@@ -154,8 +192,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +199,21 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-audioarchitect-designing-without-dacast/"><u>[New] 2024 Approved AudioArchitect Designing Without DaCast</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-creating-ootd-masterpieces-for-tiktok-with-macos/"><u>[New] Creating OOTD Masterpieces for TikTok with MacOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-online-video-beats-to-your-phones-ringtones-a-simple-guide/"><u>[New] From Online Video Beats to Your Phone's Ringtones A Simple Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-instant-ideas-recording-ppts-with-ease/"><u>2024 Approved Instant Ideas Recording PPTs with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/connectivity-comeback-rapidly-restore-display-signal/"><u>Connectivity Comeback: Rapidly Restore Display Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-chip-restarts-after-failure/"><u>Graphics Chip Restarts After Failure</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 15 Pro Max and iPad</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus 11 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-turn-off-the-for-you-page-suggestions-on-instagram-easily/"><u>How To Turn Off the 'For You Page' Suggestions on Instagram Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 13 Pro Max and iPad?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-embrace-the-thrill-how-to-engage-in-tiktok-livestreams/"><u>In 2024, Embrace the Thrill How to Engage in TikTok Livestreams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-resolution-zero-signal-on-dp-ports/"><u>Quick Resolution: Zero Signal on DP Ports</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stretching-issues-cleared-for-win11-screens/"><u>Stretching Issues Cleared for Win11 Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tiltingscreensolution-steps/"><u>TiltingScreenSolution Steps</u></a></li>
+</ul></div>
 

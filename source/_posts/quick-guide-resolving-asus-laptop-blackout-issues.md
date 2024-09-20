@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Resolving Asus Laptop Blackout Issues"
-date: 2024-07-11T17:05:06.282Z
-updated: 2024-07-12T17:05:06.282Z
+date: 2024-09-14T05:13:25.830Z
+updated: 2024-09-20T00:11:20.495Z
 tags:
   - win11
   - win10
@@ -73,15 +73,36 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Check to see if the black screen on your Asus laptop issue has been resolved. If yes, then great! If the black screen persists, please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Restart the explorer.exe process
 
@@ -103,10 +124,26 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, type **powercfg.cpl** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
 
@@ -157,8 +194,6 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,6 +201,15 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/elevating-media-quality-from-xmlssattml-to-premium-srt/"><u>Elevating Media Quality From XML/SSA/TTML to Premium SRT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200e-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200e 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17t to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-windows-10-screen-performance/"><u>Mastering Windows 10 Screen Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-the-display-saving-dilemma-in-win-7-10-os-settled/"><u>Overcoming the Display Saving Dilemma in WIN 7-10 OS [Settled]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamping-god-of-war-for-unmatched-experience/"><u>Revamping 'God of War' For Unmatched Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screenstreamer-pro-cutting-edge-review-for-march-2023/"><u>ScreenStreamer Pro Cutting-Edge Review for March 2023</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 14 Pro? How to Fix</u></a></li>
+</ul></div>
 

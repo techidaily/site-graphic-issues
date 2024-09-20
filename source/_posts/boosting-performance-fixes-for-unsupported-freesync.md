@@ -1,7 +1,7 @@
 ---
 title: "Boosting Performance: Fixes for Unsupported FreeSync"
-date: 2024-09-09T17:15:11.495Z
-updated: 2024-09-14T17:55:00.653Z
+date: 2024-09-17T08:38:16.605Z
+updated: 2024-09-19T20:22:07.452Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ If the problem persists, take a look at the next fix.
 
  If this doesn’t fix the issue, simply continue to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure you have the latest correct drivers
 
  This issue could also be graphics related. In other words, you could be using**a buggy or outdated graphics driver** . Before you try anything more advanced, first make sure you have the latest correct GPU driver.
@@ -75,6 +82,19 @@ If the problem persists, take a look at the next fix.
 
  If the latest drivers can’t solve your problem, simply check out the next method. (Or you can follow [this guide](https://tools.techidaily.com/drivereasy/download/) and do a clean reinstallation with DDU.)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Perform a clean boot**
 
  This issue could also indicate a compatibility issue, meaning that some other programs might be conflicting with each other. To rule out this possibility, you can do a clean boot.
@@ -87,30 +107,18 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
-6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
+6. Restart your PC.
 
  If FreeSync works after a clean boot, you can root out the offending program by repeating these steps and disabling half of the services every time.
 
@@ -128,10 +136,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -139,6 +147,13 @@ Here’s how:
  After installing all the system updates, restart and check if FreeSync is working.
 
 If the issue is still there, simply try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Fullscreen optimizations
 
@@ -164,28 +179,8 @@ If this doesn’t help, you can continue to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
@@ -213,13 +208,16 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/0-tricks-for-turning-youtube-watchlists-around-for-2024/"><u>[New] 10 Tricks for Turning YouTube Watchlists Around for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-sites-like-famebit-where-you-can-find-youtube-sponsorships/"><u>[Updated] 2024 Approved Sites Like FameBit Where You Can Find YouTube Sponsorships</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-dll-not-found-error-with-btballoondll-in-windows/"><u>Fixing 'DLL Not Found' Error with btballoon.dll in Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/framemaker-hd-recorder-tips/"><u>FrameMaker HD Recorder Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-compatibility-windows-11-laptop-confirmed/"><u>GPU Compatibility: Windows 11 Laptop Confirmed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-begin-animation-ease-in-transition/"><u>In 2024, Begin Animation Ease-In Transition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfected-preferences-save-after-glitch-overhaul/"><u>Perfected Preferences Save After Glitch Overhaul</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/"><u>Regaining Access to NVIDIA' Writable Displays</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beginning-your-journey-to-digital-creation/"><u>[Updated] 2024 Approved Beginning Your Journey to Digital Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>[Updated] Stepwise Approach Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-drivers-ms-graphics-fixes/"><u>Boosting Windows Drivers, MS Graphics Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-8-filter-bundles-to-perfect-your-live-feeds/"><u>Dynamic 8 Filter Bundles to Perfect Your Live Feeds</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-11-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 11 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-faces-crafting-7-cheeky-youtube-comedy-videos-for-2024/"><u>Funny Faces Crafting 7 Cheeky YouTube Comedy Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-redmi-note-13-proplus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-monitor-recovered/"><u>Kernel Issue Overcome: Monitor Recovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-monitor-size/"><u>Optimizing Win11 Monitor Size</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unblemished-visuals-on-windows-11-pc/"><u>Unblemished Visuals on Windows 11 PC</u></a></li>
 </ul></div>
 

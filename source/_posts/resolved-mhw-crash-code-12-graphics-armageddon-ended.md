@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-09-09T02:58:59.828Z
-updated: 2024-09-14T18:45:53.517Z
+date: 2024-09-18T21:27:58.697Z
+updated: 2024-09-19T20:57:11.613Z
 tags:
   - win11
   - win10
@@ -93,13 +93,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -114,6 +107,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -121,10 +121,16 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -157,17 +163,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-navigating-instagrams-new-updates/"><u>[New] A Guide to Navigating Instagram's New Updates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-address-chromes-problematic-facebook-vids/"><u>[New] Address Chrome's Problematic Facebook Vids</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>[Updated] Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-yi-4k-shots-with-premium-add-ops/"><u>2024 Approved Elevate YI 4K Shots with Premium Add-Ops</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-significance-of-reducing-camera-shake-with-software-tools/"><u>2024 Approved The Significance of Reducing Camera Shake with Software Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-breakdown-understanding-windows-odbc-system/"><u>Comprehensive Breakdown: Understanding Windows' ODBC System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-10-ultimate-pic-finder-portals/"><u>Discovering 10 Ultimate Pic Finder Portals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-innovations-with-toms-hardware-insights/"><u>Exploring Computer Innovations with Tom's Hardware Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-action-fix-stutter-effects/"><u>Immediate Action: Fix Stutter Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immerse-yourself-in-graphics-new-windows-10-driver-update/"><u>Immerse Yourself in Graphics: New Windows 10 Driver Update</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>In 2024, Dive Into the World of YouTube on Facebook Video Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-resolution-changes-with-new-windows-11-patches/"><u>Stabilizing Resolution Changes with New Windows 11 Patches</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-the-efficiency-of-screencastify-recorder/"><u>[New] 2024 Approved Unveiling the Efficiency of Screencastify Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-steps-to-nostalgic-facebook-story-viewing-for-2024/"><u>[Updated] Quick Steps to Nostalgic Facebook Story Viewing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726220646567-movavi/"><u>無料で利用。純粋なオーディオ抽出！Movaviによる動画から声だけを選んでくれるサービスをご紹介します。</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinding-flashes-windows-7s-secret-weapon/"><u>Banish Blinding Flashes: Windows 7'S Secret Weapon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/card-not-detected-error-alerted/"><u>Card Not Detected, Error Alerted</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-excessive-load-alert-for-gpt-window-use/"><u>Easing Excessive Load Alert for GPT Window Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-advanced-display-settings-on-nvidia-graphics/"><u>Enabling Advanced Display Settings on NVIDIA Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-enhancement-no-more-crashes-in-apex/"><u>Game Enhancement - No More Crashes in Apex</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-htc-u23-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From HTC U23 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/quiet-your-screen-instagram-live-wo-audiovideo/"><u>Quiet Your Screen: Instagram Live W/O Audio/Video</u></a></li>
 </ul></div>
 

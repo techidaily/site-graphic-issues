@@ -1,7 +1,7 @@
 ---
 title: "Speedy Fixes: Eradicate Game Lag"
-date: 2024-07-11T17:05:15.136Z
-updated: 2024-07-12T17:05:15.136Z
+date: 2024-09-17T08:12:11.492Z
+updated: 2024-09-19T22:16:20.107Z
 tags:
   - win11
   - win10
@@ -135,6 +135,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
  If the Anthem lag problem still persists after you’ve tried the fixes above, then you might have to check if your system meets the system requirements for the game. Here’s an official list of **the minimum requirements and the recommended requirements for Anthem** :
@@ -155,6 +162,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -166,6 +180,19 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -195,8 +222,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +229,19 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-a-pro-sports-youtube-feed-on-macos/"><u>[Updated] In 2024, Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>[Updated] Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-stability-resolved-amd-r9-driver-issues-w10/"><u>Achieving Stability: Resolved AMD R9 Driver Issues W10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-htc-u23-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From HTC U23 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-nvidia-geforce-210-for-next-gen-windows-11/"><u>Enhanced NVIDIA GeForce 210 for Next-Gen Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-google-pixel-7a-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Google Pixel 7a without App | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-gpu-blackout-problem/"><u>Latest GPU - Blackout Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-blackout-updated-gpu/"><u>Silent Blackout, Updated GPU</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-video-production-with-free-music-for-2024/"><u>Streamline Video Production with Free Music for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10</u></a></li>
+</ul></div>
 

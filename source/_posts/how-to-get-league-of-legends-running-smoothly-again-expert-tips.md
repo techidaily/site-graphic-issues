@@ -1,7 +1,7 @@
 ---
 title: How to Get League of Legends Running Smoothly Again – Expert Tips
-date: 2024-09-12T01:07:03.727Z
-updated: 2024-09-15T01:06:43.037Z
+date: 2024-09-17T05:44:55.286Z
+updated: 2024-09-20T10:21:10.380Z
 tags:
   - win11
   - win10
@@ -92,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -106,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -124,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -134,29 +127,36 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -196,15 +196,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>[Updated] 2024 Approved How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-noiseless-speech-transcription-services/"><u>[Updated] Noiseless Speech Transcription Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2017-nhk/"><u>2017 NHK紅白歌合戦ダイジェスト：出場アーティスト、曲目リスト、および審査員の最新情報</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleashing-the-power-of-cross-platform-video-playback-software/"><u>2024 Approved Unleashing the Power of Cross-Platform Video Playback Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-jetaudio-compatible-with-windows-android-and-ios-devices/"><u>Download JetAudio: Compatible with Windows, Android & iOS Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-detect-missing-graphics-chips/"><u>Guide to Detect Missing Graphics Chips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone SE (2020)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-visual-output-new-gpu/"><u>No Visual Output - New GPU?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-normal-functionality-to-wins-ui-graphics/"><u>Restored Normal Functionality to Win's UI Graphics</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-tips-and-tricks-for-creating-killer-short-videos-on-yt-for-2024/"><u>[New] Essential Tips and Tricks for Creating Killer Short Videos on YT for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-yuneec-typhoon-h-exposed-drone-review-in-detail/"><u>[Updated] In 2024, Yuneec Typhoon H Exposed Drone Review in Detail</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-highest-rated-pixel-soundtracks-online/"><u>2024 Approved Navigating the Highest-Rated Pixel Soundtracks Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-green-mistakes-on-video-platforms/"><u>Clearing Up Green Mistakes on Video Platforms</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-driven-personalization-elevate-digital-campaigns-and-seo-strategies/"><u>Cookiebot Driven Personalization: Elevate Digital Campaigns & SEO Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-iphones-visual-storytelling-camera-upgrades-galore/"><u>Elevate iPhone's Visual Storytelling Camera Upgrades Galore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-altering-your-smartphones-perceived-geolocation-easily/"><u>Expert Tips for Altering Your Smartphone’s Perceived Geolocation Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-god-of-war-mechanics-for-fun/"><u>Improving 'God of War' Mechanics for Fun</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-portable-monitors-opaque-screen/"><u>Remedying Portable Monitors' Opaque Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-amd-directx-error/"><u>Repaired AMD DirectX Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-unusual-display-configuration/"><u>Resolved Unusual Display Configuration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/stop-muted-tracks-in-tweeted-video-content-for-2024/"><u>Stop Muted Tracks in Tweeted Video Content for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-instructions-intel-3000-plus-windows-11-drivers/"><u>Upgrade Instructions: Intel 3000 + Windows 11 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-dark-screen-fix-mouse-appears/"><u>Win11 Dark Screen Fix: Mouse Appears</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Silent Blackout, Updated GPU
-date: 2024-07-11T17:04:11.616Z
-updated: 2024-07-12T17:04:11.616Z
+date: 2024-09-18T09:58:31.388Z
+updated: 2024-09-20T10:05:16.858Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ Then download and update the display card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -101,6 +108,20 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -137,6 +158,14 @@ To do so, first visit the website of your GPU manufacturer:
 3. On your motherboard, remove your CMOS battery with your fingernail or a non-conductive screwdriver. The CMOS battery looks like this:  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-38.png)
 4. Wait for 5 minutes, and then reinstall your CMOS battery.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 ---
@@ -165,6 +194,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.1 Uninstall the graphics card driver in Safe Mode
 
 When you boot into the Safe Mode with networking
@@ -175,6 +211,14 @@ When you boot into the Safe Mode with networking
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
 ---
@@ -198,8 +242,6 @@ When you boot into the Safe Mode with networking
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,6 +249,16 @@ When you boot into the Safe Mode with networking
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-stream-success-beginners-roadmap/"><u>[New] Twitter Stream Success Beginner's Roadmap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-vr-equipment-for-your-metaverse-adventures/"><u>Essential VR Equipment for Your Metaverse Adventures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-driver-update-successful-error-22/"><u>GPU Driver Update Successful - Error 22</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-themes-for-dynamic-youtuber-profiles/"><u>In 2024, Free Themes for Dynamic YouTuber Profiles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interactive-gfx-fixed-in-windows-enhanced-user-interface/"><u>Interactive GFX Fixed in Windows - Enhanced User Interface</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-8-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-11-display-backwardness/"><u>Solving Windows 11 Display Backwardness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-activating-your-echo-dots-pairing-mode/"><u>Step-by-Step Guide: Activating Your Echo Dot's Pairing Mode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-overcome-setup-hurdle-for-nvidia/"><u>Successfully Overcome Setup Hurdle for Nvidia</u></a></li>
+</ul></div>
 

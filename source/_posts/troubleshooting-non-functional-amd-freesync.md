@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional AMD FreeSync
-date: 2024-07-11T17:03:12.842Z
-updated: 2024-07-12T17:03:12.842Z
+date: 2024-09-18T11:48:17.184Z
+updated: 2024-09-19T18:14:13.468Z
 tags:
   - win11
   - win10
@@ -66,6 +66,14 @@ If the problem persists, take a look at the next fix.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
@@ -74,6 +82,13 @@ If the problem persists, take a look at the next fix.
  After updating all the drivers, restart your PC and check if FreeSync is working.
 
  If the latest drivers can’t solve your problem, simply check out the next method. (Or you can follow [this guide](https://tools.techidaily.com/drivereasy/download/) and do a clean reinstallation with DDU.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Perform a clean boot**
 
@@ -86,8 +101,24 @@ If the problem persists, take a look at the next fix.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -122,6 +153,13 @@ If the issue is still there, simply try the next fix.
 2. Navigate to the **Compatibility**  tab. Under the **Settings**  section, check the box next to **Disable fullscreen optimizations** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
@@ -154,8 +192,6 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,6 +199,18 @@ Now launch the program/game and check if FreeSync is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/efine-your-recordings-the-art-of-sound-reduction/"><u>[New] Refine Your Recordings The Art of Sound Reduction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beginners-guide-to-video-making-mastering-10-straightforward-youtube-concepts/"><u>[Updated] In 2024, Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-what-to-expect-from-your-instagram-experience-now-for-2024/"><u>[Updated] What to Expect From Your Instagram Experience Now for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>2024 Approved Mastering Clear Webcam Footage Recording & Editing Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028516858-mp4/"><u>効果的なMP4ビデオコーデックの変更方法</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-eye-strain-with-a-screen-stability-solution/"><u>Ending Eye-Strain with a Screen Stability Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v27-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V27 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-intel-and-nvidia-graphic-swap-issue/"><u>Solving Intel & NVIDIA Graphic Swap Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-surface-pro-7s-flashing-display/"><u>Troubleshoot Surface Pro 7'S Flashing Display</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Texture Ambiguity in Far Cry 6
-date: 2024-07-11T17:01:17.576Z
-updated: 2024-07-12T17:01:17.576Z
+date: 2024-09-13T18:43:00.784Z
+updated: 2024-09-20T04:06:54.283Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ If this doesn’t help, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -113,13 +120,36 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
 
@@ -133,6 +163,14 @@ If this doesn’t help, there’s one more fix you can try.
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 ---
@@ -148,8 +186,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +193,20 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-studio-explained-capturing-ps4-playthroughs/"><u>[New] 2024 Approved OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-splitscreen-youtube-videos-a-guide-to-creativity-for-2024/"><u>[New] Crafting Splitscreen YouTube Videos A Guide to Creativity for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-channel-upgrade-plans-standard-studio-or-beta-revolution/"><u>[New] In 2024, Channel Upgrade Plans Standard Studio or Beta Revolution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/"><u>[New] Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-graphic-design-journeys-from-passion-to-profession/"><u>[Updated] In 2024, Graphic Design Journeys From Passion to Profession</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transition-to-hdr-a-step-forward-in-high-quality-video/"><u>[Updated] Transition to HDR A Step Forward in High-Quality Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-nvidianforce-with-the-help-of-win10/"><u>Conquered: Nvidia/nForce with the Help of Win10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-x90s-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo X90S Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-compatibility-boost-win11-plus-intel-gpus/"><u>Quick Compatibility Boost: Win11 + Intel GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-driver-update-for-amd-in-windows-10/"><u>Successful Driver Update for AMD in Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-superior-wired-headphones-2024-edition/"><u>Unveiling the Superior Wired Headphones, 2024 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-support-not-found-system-halted/"><u>Visual Support Not Found, System Halted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-stream-success-post-upgrade/"><u>Windows 10 Stream Success Post-Upgrade</u></a></li>
+</ul></div>
 

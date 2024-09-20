@@ -1,7 +1,7 @@
 ---
 title: Enhance Play by Reducing Latency
-date: 2024-09-10T20:58:11.885Z
-updated: 2024-09-15T03:25:30.110Z
+date: 2024-09-15T01:33:04.427Z
+updated: 2024-09-20T07:47:46.929Z
 tags:
   - win11
   - win10
@@ -135,6 +135,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
  If the Anthem lag problem still persists after you’ve tried the fixes above, then you might have to check if your system meets the system requirements for the game. Here’s an official list of **the minimum requirements and the recommended requirements for Anthem** :
@@ -156,10 +163,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -167,10 +174,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -188,19 +195,6 @@ So you can follow the steps below to disable CPU core parking:
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
@@ -231,14 +225,17 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-halo-infinite-not-launching-due-to-directx12-error/"><u>[SOLVED] Halo Infinite Not Launching Due to DirectX12 Error</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-essential-10-fcp-plugins/"><u>[Updated] In 2024, The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-guide-live-broadcast-of-recorded-videos-on-fb/"><u>2024 Approved Step-by-Step Guide Live Broadcast of Recorded Videos on FB</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-free-from-fee-free-youtube-start-at-500plus-subscriber-level/"><u>Break Free From Fee-Free Youtube - Start at 500+ Subscriber Level</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevating-visual-fidelity-introduction-to-4k/"><u>Elevating Visual Fidelity: Introduction to 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-steps-for-upgraded-intel-gpu-in-win7/"><u>Precision Steps for Upgraded Intel GPU in Win7</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-complete-audacity-guide-to-utilizing-autotune-effectively-for-2024/"><u>The Complete Audacity Guide to Utilizing Autotune Effectively for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/uncovering-the-capabilities-of-handbrakes-sound-separation-leading-audio-converter-options-explored/"><u>Uncovering the Capabilities of Handbrake's Sound Separation - Leading Audio Converter Options Explored!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-iphones-dfu-mode-easy-step-by-step-usage-guide/"><u>Unveiling iPhone’s DFU Mode: Easy Step-by-Step Usage Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-maze-of-private-snapshares/"><u>[Updated] Navigating the Maze of Private Snapshares</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-hexacopter-drone-breakthroughs/"><u>2024 Approved Top 10 Hexacopter Drone Breakthroughs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-monitor-not-shown-as-full-screen-in-win11/"><u>Fix: Monitor Not Shown as Full Screen in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-back-up-and-distribute-your-interactions-the-best-apps-for-syncing-chatgpt-history/"><u>How to Back Up & Distribute Your Interactions: The Best Apps for Syncing ChatGPT History</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-infinix-smart-8-hd-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Smart 8 HD Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Pro Max Without iTunes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y27s-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y27s</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975540630-navigating-through-the-latest-changes-in-logitech-extreme-3d-drivers/"><u>Navigating Through the Latest Changes in Logitech Extreme 3D Drivers!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818022153-optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-glare-and-glitches-pro-7-edition/"><u>Repairing Glare and Glitches: Pro 7 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmare-post-fall-dark-display-solved/"><u>Win11 Nightmare: Post Fall Dark Display Solved</u></a></li>
 </ul></div>
 

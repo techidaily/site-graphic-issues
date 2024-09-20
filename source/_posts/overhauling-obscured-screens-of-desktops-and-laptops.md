@@ -1,7 +1,7 @@
 ---
 title: Overhauling Obscured Screens of Desktops and Laptops
-date: 2024-07-11T17:06:00.947Z
-updated: 2024-07-12T17:06:00.947Z
+date: 2024-09-14T16:56:28.857Z
+updated: 2024-09-20T09:07:09.767Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
@@ -91,15 +98,36 @@ And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
@@ -116,8 +144,6 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,6 +151,16 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-voice-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>[New] In 2024, Voice of Vogue Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-7-essential-gif-creation-techniques-for-2024/"><u>[Updated] 7 Essential GIF Creation Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insider-secrets-mastering-unseen-social-media-features/"><u>[Updated] In 2024, Insider Secrets Mastering Unseen Social Media Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-solutions-for-non-dispoured-gpus/"><u>Direct Solutions for Non-Dispoured GPUs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-tvs-potential-with-lg-channel-information/"><u>Mastering Your TV's Potential with LG Channel Information</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-game-freezing-glitches-expert-advice-on-rectifying-ring-of-elysium-crash-errors/"><u>Overcome Game Freezing Glitches: Expert Advice on Rectifying Ring of Elysium Crash Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-mode-realignment-in-windows-10/"><u>Screen Mode Realignment in Windows 10</u></a></li>
+</ul></div>
 

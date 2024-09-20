@@ -1,7 +1,7 @@
 ---
 title: Win11 Screen Lost, Cursor Found
-date: 2024-07-11T17:10:31.400Z
-updated: 2024-07-12T17:10:31.400Z
+date: 2024-09-14T16:08:51.724Z
+updated: 2024-09-20T06:32:54.900Z
 tags:
   - win11
   - win10
@@ -83,6 +83,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -148,6 +156,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -155,6 +170,13 @@ If you’re on a laptop:
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -171,6 +193,13 @@ If you’re on a laptop:
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -192,6 +221,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
@@ -210,8 +247,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,6 +254,23 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-5-frosty-yet-inviting-backdrops-for-your-vids/"><u>[Updated] 5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-v29-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V29 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-study-gopro-slr4-sliver-feature-review/"><u>Comprehensive Study GoPro SLR4 Sliver Feature Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-fatal-errors-for-ghostrunner-app-on-windows-10-operating-system/"><u>Fixing Fatal Errors for Ghostrunner App on Windows 10 Operating System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-mod-conflicts-with-civ-5-pc/"><u>Fixing Mod Conflicts with Civ 5 PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-canon-printer-mf4500-drivers-and-software/"><u>Free Download: Canon Printer MF4500 Drivers & Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-converti-i-tuoi-immagini-png-con-movavi-a-formati-diversi-ora/"><u>Gratuit: Converti I Tuoi Immagini PNG Con Movavi a Formati Diversi Ora!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013703433-mlb-the-show-21-online-experience-improved-no-more-servers-down/"><u>MLB The Show 21 Online Experience Improved - No More Servers Down</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-at-a-glance-speedy-fixes-for-no-signal/"><u>Reconnect at a Glance: Speedy Fixes for No Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-without-struggle-displayport-fix-guide/"><u>Reconnect Without Struggle: DisplayPort Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-absent-display-in-win10/"><u>Resolving Absent Display in Win10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010957159-solving-the-puzzle-how-sandstorms-game-bugs-are-finally-squashed/"><u>Solving the Puzzle – How Sandstorm's Game Bugs Are Finally Squashed!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/what-sets-rabbit-r1-apart-from-the-rest-of-artificial-intelligence-companions/"><u>What Sets Rabbit R1 Apart From the Rest of Artificial Intelligence Companions?</u></a></li>
+</ul></div>
 
