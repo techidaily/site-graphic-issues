@@ -1,7 +1,7 @@
 ---
 title: Shatter Sims’ Monochrome Mistake
-date: 2024-08-15T07:22:08.732Z
-updated: 2024-08-16T07:22:08.732Z
+date: 2024-09-29T21:10:35.786Z
+updated: 2024-10-01T12:08:26.482Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -63,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Repair The Sims 4 in Origin
 
  The Sims 4 white loading screen may occur if the files are corrupt. So you can repair it in Origin to see if it fixes the issue.
@@ -78,6 +72,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -87,9 +88,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -108,9 +112,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -121,12 +122,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -181,11 +186,22 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
@@ -204,8 +220,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,8 +227,26 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-full-range-kinetics-review/"><u>[New] Full Range Kinetics Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-8-linux-apps-for-professional-editing/"><u>[New] In 2024, Best 8 Linux Apps for Professional Editing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-phone-free-perfection-recording-snapchat-videos/"><u>[Updated] 2024 Approved Phone-Free Perfection Recording Snapchat Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-aspect-ratio-error-on-wide-windows-10-displays/"><u>Fixing Aspect Ratio Error on Wide Windows 10 Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-dim-issue/"><u>How to Fix Lenovo Laptop Screen Dim Issue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-subdued-soundscape-stitches-for-garageband-workflows/"><u>In 2024, Subdued Soundscape Stitches for Garageband Workflows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-spark-go-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Spark Go (2023) to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-laptop-gpu-works-smoothly-on-win11-os/"><u>New Laptop GPU Works Smoothly on Win11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-clear-screen-view-on-dell-notebook-pcs/"><u>Restored Clear Screen View on Dell Notebook PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speedy-driver-update-intel-graphics-3000-win11-style/"><u>Speedy Driver Update - Intel Graphics 3000, Win11 Style</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-overcome-youtubes-bluish-background-blues/"><u>Strategies to Overcome YouTube's Bluish Background Blues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-installed-nvidia-drivers-again/"><u>Successfully Installed NVIDIA Drivers Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-victory-in-apex-game-overhaul-complete/"><u>Swift Victory in Apex: Game Overhaul Complete!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-17-inch-laptops/"><u>Ultimate Guide to the Best 17-Inch Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-visual-orientation-tweaks/"><u>Win7 Visual Orientation Tweaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-screen-management-guide-for-dual-displays/"><u>Windows 11 Screen Management Guide for Dual Displays</u></a></li>
+</ul></div>
 

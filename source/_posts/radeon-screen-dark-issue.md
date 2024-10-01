@@ -1,7 +1,7 @@
 ---
 title: Radeon Screen Dark Issue
-date: 2024-08-15T07:22:57.113Z
-updated: 2024-08-16T07:22:57.113Z
+date: 2024-09-28T23:15:35.137Z
+updated: 2024-10-01T00:07:45.524Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -39,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
  Then please ensure that the new graphics card is improperly installed by making sure that the gold PCIe connector of your graphics card lines up with the PCIe x16 slot perfectly.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -55,9 +59,6 @@ If this is not the problem, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Ditch any converter
 
  If you’re using any display converter (like HDMI to DP, VGA to HDMI, etc.) for the new GPU and your monitor, please stop using them, as the new GPU no display problem could also relate to the converter.
@@ -67,8 +68,12 @@ If this is not the problem, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -80,15 +85,16 @@ If this is not the problem, please move on.
  This is a screenshot taken from a Gigabyte BIOS, and you should usually find the booting option by checking items like Peripherals, then selecting**IGFX** as the**Initial Display Output** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
@@ -101,9 +107,6 @@ If this is not the problem, please move on.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -121,6 +124,19 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here are the things you should pay extra attention to:
 
 1. If the graphics card is fake, the name shown here should be marked with a \[FAKE\] symbol. So the no display issue with the new graphics card should be with the card itself.
@@ -133,9 +149,6 @@ Here are the things you should pay extra attention to:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -145,10 +158,15 @@ Here are the things you should pay extra attention to:
 1. Click the **Windows start menu** and type **msconfig** , then click **Open** :  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
-![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
@@ -156,14 +174,26 @@ Here are the things you should pay extra attention to:
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -185,8 +215,6 @@ Here are the things you should pay extra attention to:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,8 +222,17 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-without-amd-driver-installation/"><u>[FIXED] Windows Without AMD Driver Installation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-android-screenshots-made-simple-top-8-free-applications-revealed/"><u>[Updated] Android Screenshots Made Simple – Top 8 Free Applications Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyys-advanced-telemetry-pioneering-smart-strategies-in-the-digital-era-of-medical-care/"><u>Abbyy's Advanced Telemetry: Pioneering Smart Strategies in the Digital Era of Medical Care</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-input-reduction-zero-price-included/"><u>Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-loss-of-hard-drive-visibility/"><u>Correcting Loss of Hard Drive Visibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-ai-for-seamless-pc-troubleshooting/"><u>Harness AI for Seamless PC Troubleshooting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-t2x-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo T2x 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-distorted-monitors-in-win10/"><u>Overcoming Distorted Monitors in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-erratic-screen-behavior-of-pro-7/"><u>Rectifying Erratic Screen Behavior of Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadowed-screen-post-driver-update/"><u>Shadowed Screen Post-Driver Update</u></a></li>
+</ul></div>
 

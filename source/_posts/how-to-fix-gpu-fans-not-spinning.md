@@ -1,7 +1,7 @@
 ---
 title: How to Fix GPU Fans Not Spinning
-date: 2024-09-04T07:09:57.570Z
-updated: 2024-09-05T07:09:57.570Z
+date: 2024-09-24T17:34:55.940Z
+updated: 2024-10-01T09:17:53.640Z
 tags:
   - win11
   - win10
@@ -41,24 +41,19 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 5. [**Repair your system**](#fix5)
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure all cables are plugged in
 
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
@@ -70,21 +65,16 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  More often than not, you’re actually dealing with a driver issue. The fans not spinning issue could mean that you’re using**a broken or outdated graphics driver** . To rule out this possibility, always make sure you’re using the latest correct computer drivers.
@@ -98,12 +88,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all your drivers, restart your PC and check if the fans spin now.
@@ -118,28 +102,25 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 2. Open MSI Afterburner. At the bottom right corner, click the A icon to toggle auto control.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Scan and repair your system
 
  If the graphics card works perfectly on another PC, chances are it’s a system issue, or your PSU isn’t powerful enough. If you’re sure that you have more than enough power, run a scan of your system and check if there’re files missing or corrupted.
@@ -150,27 +131,35 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -186,8 +175,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,8 +182,20 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-pinnacle-racing-experiences-best-of-the-best/"><u>[New] Pinnacle Racing Experiences Best of the Best</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-vibes-building-a-repertoire-of-shareable-fb-and-insta-videos/"><u>[New] Visual Vibes Building a Repertoire of Shareable FB & Insta Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-innovative-methods-for-overwatch-audio-capture-for-2024/"><u>[Updated] Innovative Methods for Overwatch Audio Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-journey-enhancers-best-narrative-methods/"><u>2024 Approved YouTube Journey Enhancers Best Narrative Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-these-6-faux-chatgpt-plugins-that-might-waste-your-efforts/"><u>Beware These 6 Faux ChatGPT Plugins That Might Waste Your Efforts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx-error-in-lol-resolved-mystery/"><u>DX Error in LoL - Resolved Mystery</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-logitech-driver-setup-for-windows-operating-systems-downloads-inside/"><u>Effortless Logitech Driver Setup for Windows Operating Systems - Downloads Inside</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-driver-correction-error-22-settled/"><u>GPU Driver Correction: Error #22 Settled</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-guide-to-sharpening-distorted-monitors/"><u>Quick Guide to Sharpening Distorted Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-cards-issue-save-minecraft-session/"><u>Rectify Cards Issue, Save Minecraft Session</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sprint-through-apex-with-ease/"><u>Sprint Through Apex with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-technical-turbulence-with-code-resolution-e52/"><u>Taming Technical Turbulence with Code Resolution E52</u></a></li>
+</ul></div>
 

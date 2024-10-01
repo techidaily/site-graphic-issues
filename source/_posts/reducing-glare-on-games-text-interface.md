@@ -1,7 +1,7 @@
 ---
 title: Reducing Glare on Game's Text Interface
-date: 2024-09-04T07:09:57.814Z
-updated: 2024-09-05T07:09:57.814Z
+date: 2024-09-30T10:06:11.217Z
+updated: 2024-10-01T04:56:18.507Z
 tags:
   - win11
   - win10
@@ -60,18 +60,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -93,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -119,23 +101,11 @@ If this doesn’t help, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -145,30 +115,35 @@ If this doesn’t help, try the next fix.
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -179,15 +154,38 @@ If this doesn’t help, there’s one more fix you can try.
 3. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -202,8 +200,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,8 +207,16 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-selection-adding-to-your-youtube-playlists/"><u>[New] Mastering Video Selection Adding to Your YouTube Playlists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[Updated] 2024 Approved Creating Memorable Beginnings IMovie Tips for YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-jokes-jamboree-mastering-memelore-made-simple/"><u>2024 Approved Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818350627-geforce-1060-get-new-nvidia-drivers-now/"><u>GeForce 1060: Get New Nvidia Drivers Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-12-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 12 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/obscured-display-post-driver/"><u>Obscured Display Post-Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-dead-laptop-monitor-issue/"><u>Resolving the Dead Laptop Monitor Issue</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-to-downloading-and-saving-gangnam-style-songs-in-mp4avimov-for-mac-users-and-windows/"><u>Step-by-Step Guide to Downloading and Saving Gangnam Style Songs in MP4/AVI/MOV for Mac Users and Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xfinity-driver-correction-smooth-operation-restored/"><u>XFINITY Driver Correction: Smooth Operation Restored</u></a></li>
+</ul></div>
 

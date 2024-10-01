@@ -1,7 +1,7 @@
 ---
 title: Ghostly GTX Displayed by Device Hub
-date: 2024-09-24T01:10:42.519Z
-updated: 2024-09-26T06:33:15.305Z
+date: 2024-09-30T00:22:36.724Z
+updated: 2024-10-01T02:44:47.354Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
  This method is especially useful for fixing the problem caused by leftover drivers after replacing a video card . Follow these steps:
@@ -36,42 +49,35 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
 
@@ -84,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
@@ -134,22 +140,22 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fast-friending-mastering-the-art-of-profile-searches/"><u>[New] 2024 Approved Fast Friending Mastering the Art of Profile Searches</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-navigating-the-essentials-of-attractive-profiles/"><u>[New] 2024 Approved Navigating the Essentials of Attractive Profiles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-cutting-edge-strategies-to-minimize-vids-for-instagram-on-macos-for-2024/"><u>[New] Cutting-Edge Strategies to Minimize Vids for Instagram on macOS for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-do-anti-shake-tools-in-adobe-software-merit-use/"><u>[Updated] Do Anti-Shake Tools in Adobe Software Merit Use?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/balancing-win11-resolution-settings/"><u>Balancing Win11 Resolution Settings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conclusion-completing-nvidia-installer-procedure/"><u>Conclusion: Completing NVIDIA Installer Procedure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-window-display-lack-of-full-screen-on-monitor-win11/"><u>Fix Window Display: Lack of Full-Screen on Monitor Win11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-hot-40-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Hot 40</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-error-code-c1900101-when-upgrading-to-windows-11/"><u>How To Fix Error Code C1900101 When Upgrading to Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-tackle-gpu-failures-without-system-freeze/"><u>How to Tackle GPU Failures Without System Freeze</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone SE (2020) without Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-waves-with-top-surf-cams-for-2024/"><u>Mastering Waves with Top Surf Cams for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/missing-display-configs-in-windows-11-fix-guide/"><u>Missing Display Configs in Windows 11 Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-windows-on-monitor-in-win10/"><u>Non-Fullscreen Windows on Monitor in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilized-laptop-monitor-flickering-no-more/"><u>Stabilized Laptop Monitor, Flickering No More</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visuals-cannot-start/"><u>Visuals Cannot Start</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-captivating-content-uploading-h-videos-for-igtv-success/"><u>[New] In 2024, Crafting Captivating Content Uploading H-Videos for IGTV Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-revolutionize-your-speaking-style-in-snapchat-with-two-easy-methods/"><u>[New] In 2024, Revolutionize Your Speaking Style in Snapchat with Two Easy Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-beat-matching-visuals-and-audio-on-facebook-platform/"><u>[Updated] In 2024, Beat-Matching Visuals & Audio on Facebook Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-essence-of-sharex-detailed-evaluations-and-alternates/"><u>[Updated] In 2024, The Essence of ShareX Detailed Evaluations & Alternates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-adapter-not-installed-on-older-windows-versions/"><u>AMD Graphics Adapter Not Installed on Older Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-performance-and-graphics-amds-hd-6950-for-windows-10/"><u>Boost Performance & Graphics: AMD's HD 6950 for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-drivers-ms-graphics-fixes/"><u>Boosting Windows Drivers, MS Graphics Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-circle-of-acquaintances-5-innovative-apps-to-make-connections/"><u>Expand Your Circle of Acquaintances: 5 Innovative Apps to Make Connections</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hcmondriver-installer-error-a-comprehensive-approach/"><u>Fixing Hcmondriver Installer Error: A Comprehensive Approach</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hdr-sound-ready-error-cleared-on-bus/"><u>HDR Sound Ready: Error Cleared on Bus</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-look-prospects-and-pitfalls-of-samsung-image-processor-2023-for-2024/"><u>Inside Look Prospects & Pitfalls of Samsung Image Processor, 2023 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-monitor-recovered/"><u>Kernel Issue Overcome: Monitor Recovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-monitor-size/"><u>Optimizing Win11 Monitor Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revolutionize-pc-display-updated-nvidia-geforce-210-for-windows-1e/"><u>Revolutionize PC Display: Updated Nvidia GeForce 210 for Windows 1E</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-steps-to-elevate-win11-with-intel-gfx/"><u>Simple Steps to Elevate Win11 with Intel GFX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unblemished-visuals-on-windows-11-pc/"><u>Unblemished Visuals on Windows 11 PC</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Realme</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resetting Display Settings Failures on Windows 7 & 10 [Fix Complete]
-date: 2024-08-15T07:21:07.082Z
-updated: 2024-08-16T07:21:07.082Z
+date: 2024-09-25T01:30:02.998Z
+updated: 2024-09-30T20:21:36.361Z
 tags:
   - win11
   - win10
@@ -30,8 +30,12 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -42,21 +46,26 @@ To do so:
 
 1. Right-click on**any empty space** on your desktop and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This**Unable to save display settings** error may occur if you are using the wrong  graphics  driver or it’s out of date. So you should update your graphics driver  to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -68,16 +77,17 @@ To do so:
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install**Driver Easy** .
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and see if the problem is solved.
 
 ---
@@ -92,8 +102,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +109,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/corrected-drivers-display-system-back-to-normal/"><u>[Corrected] Drivers: Display System Back to Normal</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-solve-facebook-videos-are-partially-muted/"><u>[New] In 2024, How to Solve Facebook Videos Are Partially Muted?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-updated-features-in-sony-blu-ray-player-s6700/"><u>2024 Approved Updated Features in Sony Blu-Ray Player S6700</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028820215-youtube/"><u>安全な方法: YouTubeの無料映像をダウンロードして保管する - 詳細ガイド</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-reset-nvidia-display-now-functional/"><u>Drivers Reset: Nvidia Display Now Functional</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-x6-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco X6 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expertise-applied-to-solve-comexception-window-errors/"><u>Expertise Applied to Solve COMException Window Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-5g-2023-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G 5G (2023) Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-might-in-god-of-war/"><u>Mastering the Might in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-error-flagged-by-tdr-now-safe-with-nvidia/"><u>OpenGL Error Flagged by TDR — Now Safe with NVIDIA</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/preparing-for-peak-vr-performance-for-2024/"><u>Preparing For Peak VR Performance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-r9-driver-issues-on-windows-10-platform/"><u>Solving R9 Driver Issues on Windows 10 Platform</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-win10-resolution-errors/"><u>Solving Win10 Resolution Errors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-iphone-video-editing-apps-for-rotation-2023-review/"><u>Updated 2024 Approved The Best Free iPhone Video Editing Apps for Rotation 2023 Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cursor Awakening Post-Blackout Win11
-date: 2024-09-23T19:09:28.348Z
-updated: 2024-09-26T08:20:25.286Z
+date: 2024-09-26T08:30:19.517Z
+updated: 2024-10-01T05:37:05.694Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -84,17 +91,17 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
 
@@ -110,13 +117,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 4: Disable integrated graphics card**
 
  If you have a separate graphics card, your computer may think it has a dual monitor, which can cause the black screen + mouse pointer problem. In this case, disabling the integrated graphics card may fix the problem.
@@ -126,10 +126,10 @@ If you’re on a laptop:
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
@@ -137,10 +137,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
@@ -151,6 +151,13 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -178,6 +185,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -187,10 +201,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
@@ -209,25 +223,11 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -243,17 +243,18 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
@@ -278,16 +279,22 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-chucklechamber-laughter-in-a-click/"><u>[New] ChuckleChamber - Laughter in a Click</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-step-by-step-process-for-making-a-stellar-podcast-launch-video/"><u>[Updated] In 2024, Step-By-Step Process for Making a Stellar Podcast Launch Video</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-error-overcome-display-ready/"><u>Driver Error Overcome - Display Ready</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-remove-unwanted-display-wobblyness/"><u>Easy Steps to Remove Unwanted Display Wobblyness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-load-error-for-amd-on-win10-post-update/"><u>Fixed Load Error for AMD on Win10 Post-Update</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/macs-best-capture-exploring-leading-screen-recording-software/"><u>Mac's Best Capture Exploring Leading Screen Recording Software</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stable-windows-11-screen-view/"><u>Stable Windows 11 Screen View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-clear-vision-crusade-fighting-off-flickers/"><u>The Clear Vision Crusade: Fighting Off Flickers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-ranking-dvd-ripper-tools-choosing-the-ideal-converter-for-your-collection/"><u>Top-Ranking DVD Ripper Tools: Choosing the Ideal Converter for Your Collection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-seo-enhanced-title-builder-for-peak-video-visibility/"><u>[New] In 2024, SEO-Enhanced Title Builder for Peak Video Visibility</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uperior-streaming-made-simple-enabling-av1-in-youtube-for-2024/"><u>[New] Superior Streaming Made Simple Enabling AV1 in YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-restore-noise-to-silent-twitter-video-posts/"><u>[Updated] Restore Noise to Silent Twitter Video Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-picks-the-most-acclaimed-10-online-vimeo-video-harvesters-for-2024/"><u>Best Picks The Most Acclaimed 10 Online Vimeo Video Harvesters for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-windows-post-fall/"><u>Clearing Up Black Windows Post Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-dark-desktop-issue-win10-style/"><u>Eradicating Dark Desktop Issue - Win10 Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-startup-not-successful/"><u>Graphics Startup: Not Successful</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-display-features-unlocked-on-windows-11/"><u>New Display Features Unlocked on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dark-mode-clearing-twitch-displays/"><u>Overcoming Dark Mode: Clearing Twitch Displays</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfecting-press-releases-chatgpts-approach/"><u>Perfecting Press Releases: ChatGPT's Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-path-for-instantaneous-srt-to-text-conversions-for-2024/"><u>Pioneering Path for Instantaneous SRT to Text Conversions for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-banish-win7-screen-flicker/"><u>Quick Fix: Banish Win7 Screen Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-lenovo-display-glare-issue/"><u>Solutions for Lenovo Display Glare Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-integrated-laptop-gpu-on-windows-11/"><u>Successfully Integrated: Laptop GPU on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrifty-choices-for-virtual-reality-heads-for-2024/"><u>Thrifty Choices for Virtual Reality Heads for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016440306-troubleshoot-your-pcs-audio-problems-in-just-five-simple-steps/"><u>Troubleshoot Your PC's Audio Problems in Just Five Simple Steps</u></a></li>
 </ul></div>
 

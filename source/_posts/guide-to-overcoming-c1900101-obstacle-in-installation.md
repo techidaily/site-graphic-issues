@@ -1,7 +1,7 @@
 ---
 title: Guide to Overcoming C1900101 Obstacle in Installation
-date: 2024-09-20T09:03:42.946Z
-updated: 2024-09-26T05:05:55.004Z
+date: 2024-09-24T00:22:43.998Z
+updated: 2024-09-30T22:59:40.664Z
 tags:
   - win11
   - win10
@@ -26,16 +26,16 @@ If you’re about to upgrade to Windows 10, or you’re updating your current Wi
 
 Here are 6 of the most effective solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.  Method 1:[**Update device drivers, esp. the display card driver**](#m1) Method 2:[**Uninstall third-party antivirus programs**](#m2) Method 3:[**Remove unused SAT devices**](#m3) Method 4: [**Do a clean boot**](#m4) Method 5:[**Run SFC/ DISM tools**](#m5) Method 6: [**Update BIOS**](#m6)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This post helps to fix the following error codes as well
 
 In many case, the error codes could be different in different combinations of computers, but all of them have some general solutions. Here are some of the most commonly seen codes: **0xC1900101 – 0x20004** **0xC1900101 – 0x2000c** **0xC1900101 – 0x20017** **0xC1900101 – 0x30018** **0xC1900101 – 0x3000D** **0xC1900101 – 0x4000D** **0xC1900101 – 0x40017**If you’re bugged by one of the codes above, feel free to try the methods below, one at a time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Update device drivers, esp. the display card driver
 
@@ -47,25 +47,25 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4206a5c0185.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) When the update finishes, restart your computer as instructed. Check to see if the 0xC1900101 error is gone after this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Uninstall third-party antivirus programs
 
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Remove unused SAT devices
 
@@ -74,15 +74,22 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
@@ -90,22 +97,35 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Do a clean boot
 
 Clean boot requires only the very basic and built-in drivers and programs to run your computer. Therefore, it usually tells if the installed software is conflicting with others when you update, install or run it. If you’re having the 0xC1900101 error code, we recommend that you do a clean boot and see if you’re able to upgrade to or update your Windows 10 from there. **IMPORTANT**: You must log in as**administrator**to do the clean boot. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**msconfig**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
@@ -135,13 +155,6 @@ Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -149,13 +162,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -180,21 +186,21 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>[New] Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevate-your-reality-best-of-samsung-gear-vr-titles/"><u>[Updated] 2024 Approved Elevate Your Reality Best of Samsung Gear VR Titles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[Updated] Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-unfiltered-guide-to-everyday-video-content/"><u>[Updated] The Unfiltered Guide to Everyday Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-an-overview-of-final-cut-pro/"><u>2024 Approved Unlock Your Creative Potential An Overview of Final Cut Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breathe-life-into-your-gpu-fans/"><u>Breathe Life Into Your GPU Fans</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-it-right-solutions-to-quiet-the-flicker/"><u>Brighten It Right: Solutions to Quiet the Flicker</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/conquer-snapchats-boomerang-challenges-easily-for-2024/"><u>Conquer Snapchat's Boomerang Challenges Easily for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-decline-strategy-in-windows-tech-worlds/"><u>Drive Decline Strategy in Windows Tech Worlds</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-ui-down-in-windows-now-repaired/"><u>Graphics UI Down in Windows, Now Repaired</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-5-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme GT 5 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-circuitry-world-the-ultimate-insights-into-modern-hardware/"><u>Inside Tom's Circuitry World: The Ultimate Insights Into Modern Hardware</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-s24plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy S24+</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resize-windows-monitor-in-win-10/"><u>Resize Windows Monitor in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-visual-output-for-upside-down-screens/"><u>Reverse Visual Output for Upside-Down Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-graphics-init-error-reported/"><u>System Graphics Init Error Reported</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dvanced-filmmaking-techniques-selecting-top-notch-lenses/"><u>[New] Advanced Filmmaking Techniques Selecting Top-Notch Lenses</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screencapture-pro-tips-your-guide-to-free-recording-options/"><u>[New] In 2024, ScreenCapture Pro Tips – Your Guide to FREE Recording Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-12-premier-video-game-entrances-by-top-youtubers-free-and-paid-analysis-for-2024/"><u>[Updated] 12 Premier Video Game Entrances by Top Youtubers Free & Paid Analysis for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-livestreaming-tools-evaluation-which-bets-on-performance/"><u>2024 Approved Livestreaming Tools Evaluation Which Bets on Performance?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>2024 Approved The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-with-updated-geforce-210-for-windows-11/"><u>Enhanced Graphics with Updated GeForce 210 for Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-trim-video-in-windows-10-photos-easily-for-2024/"><u>How to Trim Video in Windows 10 Photos Easily for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-apowersofts-free-recording-a-comprehensive-analysis/"><u>In 2024, Apowersoft's Free Recording A Comprehensive Analysis</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Pro Max Making It Possible</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818259363-opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-wnddevice-creation-issue/"><u>Overcome WndDevice Creation Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/released-fix-for-unsupported-overwatch-graphics/"><u>Released Fix for Unsupported Overwatch Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-handling-gpu-errors-without-pause-in-use/"><u>Strategies for Handling GPU Errors without Pause in Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-buzzing-in-your-audio-headphones-expert-tips-and-tricks/"><u>Troubleshooting Persistent Buzzing in Your Audio Headphones - Expert Tips & Tricks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-smooth-zoom-recording-tech-fixes-of-today/"><u>Unveiling Smooth Zoom Recording: Tech Fixes of Today</u></a></li>
 </ul></div>
 

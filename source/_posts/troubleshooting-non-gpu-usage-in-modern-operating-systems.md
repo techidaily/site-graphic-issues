@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-GPU Usage in Modern Operating Systems
-date: 2024-09-14T11:12:51.319Z
-updated: 2024-09-20T01:11:50.750Z
+date: 2024-09-23T21:41:36.717Z
+updated: 2024-10-01T10:49:49.658Z
 tags:
   - win11
   - win10
@@ -54,35 +54,22 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your graphics driver, restart your computer and check if your dedicated GPU is being used normally.
 
 If not, don’t worry, there are other fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all Windows Updates
 
@@ -98,10 +85,17 @@ If not, don’t worry, there are other fixes you can try.
 4. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -140,25 +134,26 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/switchable-graphics.jpg)
 4. Select a program and choose**High performance** from the drop-down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
-5. Running the program again.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
+5. Running the program again.
 
 It should now run with the dedicated AMD GPU.
 
 But if not, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Change the Windows graphics setting
@@ -179,6 +174,13 @@ But if not, you can take a look at the next fix.
 5. In the pop-up window, select**High performance** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 11
 
 1. Right-click on the empty space on your desktop. Then select**Display settings** .  
@@ -186,8 +188,22 @@ But if not, you can take a look at the next fix.
 ![win11 - Display settings](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings.jpg)
 2. Scroll down. Under the Related settings section, click on**Graphics** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics.jpg)
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Custom-options-for-apps.jpg)
 4. Once added, click on the**Options** button.  
@@ -240,5 +256,18 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[New] In 2024, Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/falls-aftermath-windows-10-screens-glow/"><u>Fall's Aftermath: Windows 10 Screens Glow</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-huawei-nova-y91-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Huawei Nova Y91 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-display-sync-on-underpowered-amds/"><u>Mastering Display Sync on Underpowered AMDs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/post-fall-update-blackout-no-more-in-win10/"><u>Post-Fall Update Blackout No More in Win10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-communication-overcoming-iphone-android-text-disconnect-a-guide/"><u>Seamless Communication: Overcoming iPhone Android Text Disconnect – A Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-imagination-drought-hindering-vr-development-for-2024/"><u>The Imagination Drought Hindering VR Development for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-session-identifier-generator-for-2024/"><u>Top-Tier Session Identifier Generator for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-new-level-of-display-customization-released/"><u>Windows 11: New Level of Display Customization Released</u></a></li>
+</ul></div>
 

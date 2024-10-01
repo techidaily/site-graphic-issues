@@ -1,7 +1,7 @@
 ---
 title: OpenGL Glitch Spotted - Nvidia GPU Fixed Up!
-date: 2024-09-14T02:30:39.951Z
-updated: 2024-09-15T05:58:33.667Z
+date: 2024-09-26T14:45:37.201Z
+updated: 2024-10-01T14:18:28.672Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -57,6 +64,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
@@ -75,13 +89,6 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -93,10 +100,10 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
@@ -108,18 +115,18 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -143,5 +150,17 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-dispelling-illusions-yourself-not-an-impostor-on-fb/"><u>[New] Dispelling Illusions Yourself, Not An Impostor on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-prime-picks-best-storytelling-channels-fans/"><u>[New] The Prime Picks Best Storytelling Channels Fans</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-achieve-high-definition-quality-with-video-enhancer-22-tutorial/"><u>[Updated] 2024 Approved Achieve High-Definition Quality with Video Enhancer 2.2 Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-into-calmness-say-goodbye-to-flickering-screens/"><u>Ease Into Calmness, Say Goodbye to Flickering Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-available-screen-resolutions-with-nvidia/"><u>Enabling Available Screen Resolutions with NVidia</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-tabletop-adventures-with-ai-leveraging-chatgpt-in-your-rpg-sessions/"><u>Enhancing Tabletop Adventures with AI: Leveraging ChatGPT in Your RPG Sessions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-creation-successful/"><u>Graphic Device Creation Successful</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-construct-chuckles-adobe-meme-creation/"><u>In 2024, Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-armor-upgrade-solve-amd-tarkov-bug/"><u>Quick Armor Upgrade: Solve AMD Tarkov Bug</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-4-strategies-for-success-in-instagram-loop-creation/"><u>Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
+</ul></div>
 

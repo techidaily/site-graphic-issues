@@ -1,7 +1,7 @@
 ---
 title: Resolved BlackScreen in Win11
-date: 2024-09-19T01:56:56.146Z
-updated: 2024-09-19T18:55:40.762Z
+date: 2024-09-29T18:30:10.078Z
+updated: 2024-10-01T10:56:39.903Z
 tags:
   - win11
   - win10
@@ -84,16 +84,23 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
@@ -105,6 +112,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
@@ -124,27 +139,27 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -177,10 +192,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
@@ -188,10 +203,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
@@ -205,6 +220,13 @@ If you’re on a laptop:
  1) Open Command Prompt as administrator: type cmd in the search box. Right click**Command Prompt** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
@@ -255,5 +277,26 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] 2024 Approved How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-thrifty-pc-display-saving-programs/"><u>[Updated] 2024 Approved Thrifty PC Display Saving Programs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortlessly-formulating-cohesive-skype-chats-across-windowsmac-platforms-for-2024/"><u>[Updated] Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-twister-timber-titmice-for-2024/"><u>[Updated] Twister Timber Titmice for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adapting-to-insufficient-specifications-installation-guide/"><u>Adapting to Insufficient Specifications: Installation Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/affordable-hd-action-cam-hits-top-list/"><u>Affordable HD Action Cam Hits Top List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-solutions-for-fading-lenovo-screen/"><u>Brighten Up: Solutions for Fading Lenovo Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-win10-monitor-settings/"><u>Corrected Win10 Monitor Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-dark-screens-on-mobile-devices/"><u>Correcting Dark Screens on Mobile Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-fixes-for-defective-asus-cam/"><u>Finding Fixes for Defective Asus Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-detection-none-detected/"><u>GPU Detection: None Detected</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-razr-40-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Razr 40 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mp3-creation-from-instagram-vids-explained/"><u>In 2024, MP3 Creation From Instagram Vids Explained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-for-canon-pixma-mg2522-software-drivers-how-to-get-them/"><u>Latest Updates for Canon Pixma MG2522 Software Drivers - How to Get Them</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-compatibility-hiccup-with-amd-driver-and-win10/"><u>Overcome Compatibility Hiccup with AMD Driver and Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-driver-update-intellion-graphics-in-windows-11-compatibility-boost/"><u>Swift Driver Update - IntellIon Graphics in Windows 11 Compatibility Boost</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-discover-the-best-hand-drawing-whiteboard-animation-creators/"><u>Updated In 2024, Discover the Best Hand Drawing Whiteboard Animation Creators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
+</ul></div>
 

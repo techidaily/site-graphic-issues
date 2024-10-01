@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blackout Blues on Your Asus Notebook
-date: 2024-08-15T07:23:59.394Z
-updated: 2024-08-16T07:23:59.394Z
+date: 2024-09-27T07:44:14.900Z
+updated: 2024-09-30T22:05:20.704Z
 tags:
   - win11
   - win10
@@ -30,15 +30,9 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
@@ -64,6 +58,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -81,9 +82,6 @@ Here is how to do it:
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -93,8 +91,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -104,7 +106,21 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable fast startup
 
@@ -114,22 +130,20 @@ So you can try disabling fast startup to see if it does the trick:
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, type **powercfg.cpl** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 2. Click **Choose what the power buttons do** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer and check if your laptop screen displays properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still got a black screen? Please try **Fix 6** , below.
 
@@ -143,19 +157,28 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your computer to see if the black screen issue has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7: Fix corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -166,11 +189,6 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -189,8 +207,6 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,8 +214,19 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-powerful-strategies-for-optimizing-gratuitous-timer-use/"><u>[New] Powerful Strategies for Optimizing Gratuitous Timer Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-art-of-sharing-online-videos-from-youtube-to-facebook/"><u>[Updated] 2024 Approved The Art of Sharing Online Videos From YouTube to Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unleashing-potential-the-best-seo-practices-for-your-youtube-videos/"><u>[Updated] 2024 Approved Unleashing Potential The Best SEO Practices for Your YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interweaving-art-and-science-in-colors/"><u>[Updated] Interweaving Art and Science in Colors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-exit-wave-analysis/"><u>2024 Approved Instagram Exit Wave Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-screen-border-placement/"><u>Fine-Tuning Screen Border Placement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-connectivity-hurdles-with-netflix-on-your-roku-a-comprehensive-guide/"><u>Overcoming Connectivity Hurdles with Netflix on Your Roku - A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/putting-a-stop-to-pulsating-patterns-in-acer-screens/"><u>Putting a Stop to Pulsating Patterns in Acer Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-error-no-more-code-22-solved/"><u>Screen Error No More: Code 22 Solved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-20-ai-enhanced-presentation-templates-in-powerpoint-and-google-slides/"><u>Top 20 AI-Enhanced Presentation Templates in PowerPoint and Google Slides</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a25-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A25 5G Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-to-fullscreen-but-monitor-wont-comply/"><u>Windows 11 to Fullscreen, But Monitor Won't Comply</u></a></li>
+</ul></div>
 

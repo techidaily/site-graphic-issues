@@ -1,7 +1,7 @@
 ---
 title: Illuminate the Blackness in Twitch Streaming
-date: 2024-09-22T19:15:03.228Z
-updated: 2024-09-25T23:28:22.620Z
+date: 2024-09-30T11:21:48.873Z
+updated: 2024-10-01T10:21:09.907Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Start streaming in Twitch and see if the black screen issue is resolved. If yes, then congrats! If the black screen persists, please try**Fix 2** , below.
@@ -70,19 +63,6 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
@@ -90,36 +70,15 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next up, you can run the**ipconfig /flushdns** command for the changes to apply. Here’s how:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -133,6 +92,14 @@ Here’s how you go about it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -161,27 +128,55 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
 
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
 
  If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch in or out of hardware acceleration
 
@@ -199,10 +194,10 @@ Here’s how you go about it:
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
@@ -218,23 +213,24 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In**General** , uncheck the**Use recommended performance settings** box to expand the section, then for the**Use hardware acceleration when available** box, choose the opposite.  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
 
@@ -262,24 +258,15 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-most-popular-fb-videos-download-now/"><u>[New] Most Popular FB Videos - Download Now</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-stepwise-steps-to-install-windows-movie-maker-6-for-2024/"><u>[New] Stepwise Steps to Install Windows Movie Maker 6 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-uncomplicated-gameplay-saving-in-warframe/"><u>[Updated] In 2024, Uncomplicated Gameplay Saving in Warframe</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-overcoming-virtual-reality-discomfort/"><u>[Updated] Overcoming Virtual Reality Discomfort</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneous-google-collage-a-speedy-diy-method/"><u>2024 Approved Instantaneous Google Collage A Speedy DIY Method</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-srt-creation-a-comprehensive-manual-and-tricks/"><u>2024 Approved Mastering SRT Creation A Comprehensive Manual & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/"><u>Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct-aid-no-display-just-gpu-functionality/"><u>Direct Aid: No Display, Just GPU Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-acceleration-not-available-solved/"><u>Direct3D Acceleration Not Available [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-device-43-fix-complete/"><u>Display Device 43 Fix Complete</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gamers-companion-step-by-step-instructions-on-downloading-and-updating-amd-vega-drivers/"><u>Gamer's Companion: Step-by-Step Instructions on Downloading and Updating AMD Vega Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-hd-graphics-drivers-on-windows/"><u>How to Update Intel HD Graphics Drivers on Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-8-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 8 Plus iCloud Activation Lock</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/rapide-et-efficace-convertissez-votre-dvd-protege-avec-la-version-platine-de-winx-dvd-ripper-copiez-tous-les-disques-a-32x-plus-sur-windows-10/"><u>Rapide Et Efficace : Convertissez Votre DVD Protégé Avec La Version Platine De WinX DVD Ripper, Copiez Tous Les Disques À 32X Plus Sur Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-widescreen-layout-discrepancies-in-win10-devices/"><u>Rectifying Widescreen Layout Discrepancies in Win10 Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-oversized-window-problems-on-windows-10-computers/"><u>Resolving Oversized Window Problems on Windows 10 Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-window-mistake-in-windows-11/"><u>Resolving Reflective Window Mistake in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reveal-color-in-twitch-blackouts/"><u>Reveal Color in Twitch Blackouts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-essential-guide-video-recording-with-vlc/"><u>[New] 2024 Approved Essential Guide Video Recording with VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>2024 Approved The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-c12-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia C12 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-silence-card-upgrade/"><u>Monitor Silence, Card Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-to-use-gpu-on-win1011-laptops/"><u>Resetting Display to Use GPU on Win10/11 Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-display-normalized-after-fix/"><u>Screen Display Normalized After Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818375975-tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-6-premier-linkedin-video-downloader-tools/"><u>The Ultimate Guide to 6 Premier LinkedIn Video Downloader Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Sims' White Screens Quickly
-date: 2024-09-11T00:41:25.446Z
-updated: 2024-09-15T01:59:54.695Z
+date: 2024-09-27T01:35:04.993Z
+updated: 2024-09-30T18:50:07.325Z
 tags:
   - win11
   - win10
@@ -74,10 +74,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
@@ -98,6 +98,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -116,6 +123,13 @@ Here are the steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and The Sims 4
 
  You may encounter a white loading screen on The Sims 4 if the files in Origin or The Sims 4 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -126,22 +140,15 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -155,6 +162,19 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -179,16 +199,16 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -213,5 +233,20 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-soundscapes-of-success-building-youtube-playlists-with-precision-for-2024/"><u>[Updated] The Soundscapes of Success Building YouTube Playlists with Precision for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activate-gpu-on-laptop-windows-1011-fixes/"><u>Activate GPU on Laptop: Windows 10/11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-bright-winscreen/"><u>Clear, Bright WinScreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-geforce-7025-works-with-windows-11/"><u>Ensuring GeForce 7025 Works with Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-x-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone X With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-hurdles-with-direct3d-achieved-max-gpu-speed/"><u>Resolved Graphics Hurdles with Direct3D, Achieved Max GPU Speed</u></a></li>
+<li><a href="https://facebook.techidaily.com/seamless-method-to-update-fb-birth-details/"><u>Seamless Method to Update FB Birth Details</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-unfreezing-and-recovering-your-macbook-air/"><u>Troubleshooting Tips for Unfreezing and Recovering Your MacBook Air</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-2024s-elite-technology-titans-top-pc-makers-reviewed/"><u>Unveiling 2024'S Elite Technology Titans: Top PC Makers Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanishing-polaris-video-card-fixed/"><u>Vanishing Polaris Video Card Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-mouse-sensitivity-is-ideal-for-fps-games/"><u>Which Mouse Sensitivity Is Ideal for FPS Games?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-1011-re-enabling-graphics-card-functions/"><u>Windows 10/11: Re-Enabling Graphics Card Functions</u></a></li>
+</ul></div>
 

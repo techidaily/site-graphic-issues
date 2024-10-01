@@ -1,7 +1,7 @@
 ---
 title: Screen Perfection - Horizontal Line Fixation
-date: 2024-09-14T05:02:24.000Z
-updated: 2024-09-19T20:47:50.893Z
+date: 2024-09-24T19:43:28.322Z
+updated: 2024-10-01T01:03:13.150Z
 tags:
   - win11
   - win10
@@ -44,11 +44,25 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **vertical lines on screen** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -65,21 +79,29 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **I’m using Windows 8 or 7:**
 
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Adjust the screen resolution and see if the vertical lines disappear.  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -108,5 +130,22 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-meme-magic-adobe-edition/"><u>2024 Approved Craft Meme Magic, Adobe Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10-flash-dilemma/"><u>Addressing Windows 10 Flash Dilemma</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-clearing-past-issues/"><u>Direct3D Startup: Clearing Past Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818300815-how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-install-and-use-hyper-v-with-windows-11-a-comprehensive-guide/"><u>How to Install and Use Hyper-V with Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-charting-out-your-audience-youtubes-blueprint/"><u>In 2024, Charting Out Your Audience YouTube's Blueprint</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-discover-the-1-5-editors-perfect-for-your-macos-sierra-setup/"><u>In 2024, Discover the #1-#5 Editors Perfect for Your MacOS Sierra Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-infinix-hot-40-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Infinix Hot 40 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-blueprint-for-mastering-picsart/"><u>In 2024, The Ultimate Blueprint for Mastering PicsArt</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-malfunction-rectified-driver-running/"><u>Monitor Malfunction Rectified: Driver Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/retracing-the-footsteps-in-facebooks-historical-content-stream/"><u>Retracing the Footsteps in Facebook’s Historical Content Stream</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-inaccessible-monitor-configurations-in-nvidia/"><u>Tackling Inaccessible Monitor Configurations in Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turbocharge-your-pc-update-intel-gfx-on-win11-now/"><u>Turbocharge Your PC - Update Intel GFX on Win11 Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-s21-fe-5g-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy S21 FE 5G (2023)? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

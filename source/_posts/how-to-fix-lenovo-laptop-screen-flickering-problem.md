@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Flickering Problem
-date: 2024-08-15T07:24:46.512Z
-updated: 2024-08-16T07:24:46.512Z
+date: 2024-09-29T16:58:47.829Z
+updated: 2024-10-01T00:22:57.993Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -64,41 +68,42 @@ To update the BIOS of your Lenovo laptop:
 **2)**  Search the product you use with the search box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Troubleshoot hardware issues
 
  It is also possible that the problem with your Lenovo laptop screen results from interference from outside or a defective cable connection.
@@ -119,8 +124,6 @@ You can troubleshoot these hardware issues on your own:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +131,20 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/obile-mastery-in-thumbnail-creation-for-engaging-youtube-videos/"><u>[New] Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-saving-your-iphone-7-display-for-2024/"><u>[New] The Ultimate Guide to Saving Your iPhone 7 Display for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-power-of-first-impressions-crafting-impactful-youtube-images/"><u>[Updated] 2024 Approved The Power of First Impressions Crafting Impactful YouTube Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vantage-point-critique/"><u>[Updated] Vantage Point Critique</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-spark-10-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Spark 10 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Bootloader Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-nolimitcapture-professional-win11-screen-recorders/"><u>In 2024, NoLimitCapture - Professional Win11 Screen Recorders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-error-flagged-swift-resolution-by-nvidia/"><u>OpenGL Error Flagged — Swift Resolution by NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcame-installer-roadblock-for-nvidia/"><u>Overcame: Installer Roadblock for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-screen-settings-on-nvidia-device/"><u>Reactivating Screen Settings on Nvidia Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-windows-10-visual-discrepancies/"><u>Reconciling Windows 10 Visual Discrepancies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-gaming-r9-drivers-for-w10-now-functioning/"><u>Uninterrupted Gaming: R9 Drivers for W10 Now Functioning</u></a></li>
+</ul></div>
 

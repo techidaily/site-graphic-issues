@@ -1,7 +1,7 @@
 ---
 title: Preventing Fluctuating Displays on Lenovo Laptops
-date: 2024-08-15T07:22:54.098Z
-updated: 2024-08-16T07:22:54.098Z
+date: 2024-09-24T23:14:49.195Z
+updated: 2024-09-30T19:12:02.469Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -64,36 +68,42 @@ To update the BIOS of your Lenovo laptop:
 **2)**  Search the product you use with the search box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Troubleshoot hardware issues
 
  It is also possible that the problem with your Lenovo laptop screen results from interference from outside or a defective cable connection.
@@ -114,8 +124,6 @@ You can troubleshoot these hardware issues on your own:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,8 +131,21 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-entering-income-territory-with-a-thousand-followers/"><u>[New] 2024 Approved Entering Income Territory with a Thousand Followers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-channels-strategies-for-stardom-on-youtube/"><u>[New] In 2024, Elevating Channels Strategies for Stardom on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unleashing-your-cellphones-potential-in-videography/"><u>[New] Unleashing Your Cellphone's Potential in Videography</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-recharged-and-bug-free/"><u>Apex Legends, Recharged & Bug-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-path-to-app-removal-tackling-do-not-have-access-errors/"><u>Clear Path to App Removal: Tackling Do Not Have Access Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-halt-in-windows-fixed-nvidia-issue-43-settled/"><u>Device Halt in Windows Fixed – NVIDIA Issue #43 Settled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-setup-insignia-vga-connector-for-your-usb-comprehensive-guide/"><u>Download and Setup Insignia VGA Connector for Your USB: Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-bug-detected-now-fixed-by-nvidia-drivers/"><u>Graphics Bug Detected, Now Fixed by NVIDIA Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-r9-display-problems-on-windows-10/"><u>Overcoming R9 Display Problems on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-constant-display-of-edge-buttons/"><u>Preventing Constant Display of Edge Buttons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplifying-media-files-with-xml-ssa-ttml-to-srt-process/"><u>Simplifying Media Files with XML, SSA, TTML to SRT Process</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-huawei-nova-y91-by-drfone-android/"><u>Three Ways to Sim Unlock Huawei Nova Y91</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-3s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme GT 3s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11s-flicker-phenomenon-resolved/"><u>Win11's Flicker Phenomenon - Resolved</u></a></li>
+</ul></div>
 

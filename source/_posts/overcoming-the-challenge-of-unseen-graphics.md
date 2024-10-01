@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Unseen Graphics
-date: 2024-09-04T07:09:57.689Z
-updated: 2024-09-05T07:09:57.689Z
+date: 2024-09-26T12:24:06.728Z
+updated: 2024-09-30T22:15:19.883Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Add your GPU as a legacy device
 
  When your computer does not detect your GPU, you can try to add it back as a legacy device to see if it helps. To do so:
@@ -39,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
@@ -54,35 +69,38 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 1. Double-click the expand**Display adapters** , then right-click the**Microsoft Remote Display Adapter** that you just added back and select**Update device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-14.png)
 2. Click**Search automatically for drivers** , Windows will then initiate a search online for the latest driver update. Follow any additional instructions provided during the driver update process.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-15.png)
 3. When the driver update is done, restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If no driver update is found by Windows for you, please move on to the next step to update the GPU driver.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update the GPU driver
 
  There are mainly 2 ways you can update your GPU driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -105,19 +123,29 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -125,6 +153,13 @@ To do so, first visit the website of your GPU manufacturer:
  See if your PC is now detecting your GPU. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restore your BIOS settings to default
 
@@ -146,18 +181,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair damaged or corrupted system files
 
  If the above methods don’t help your PC to detect the GPU, then you may need to repair any damaged or corrupted system files. This is because the integrity of Windows system files are essential for proper operation and stability, while errors in critical system files can cause crashes, freezes, and problems like GPU not detected by PC.
@@ -168,26 +191,8 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -195,11 +200,12 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Make sure your GPU is correctly seated
 
  If the above software-related troubleshooting procedures don’t help your PC to detect your GPU, you may need to look at the hardware front. One of the most obvious ways to looks at would be the graphics card itself.
@@ -236,8 +242,6 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,8 +249,26 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-city-planning-for-climate-action-a-comprehensive-guide/"><u>[New] 2024 Approved City Planning for Climate Action A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-enhance-file-handling-effective-methods-for-transferring-to-your-computer/"><u>[New] Enhance File Handling Effective Methods for Transferring to Your Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-wealth-with-smart-advertising-tactics-on-vimeo-for-2024/"><u>[New] Maximizing Wealth with Smart Advertising Tactics on Vimeo for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-marketing-enhance-your-visitor-tracking/"><u>Cookiebot-Driven Marketing: Enhance Your Visitor Tracking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/detailed-description-of-the-chemical-products-offered-by-hahron-spice-including-spices-with-unique-chemical-properties-used-for-industrial-applications/"><u>Detailed Description of the Chemical Products Offered by HAHRON SPICE, Including Spices with Unique Chemical Properties Used for Industrial Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-screen-orientation-in-windows-10-solved/"><u>Fixing Screen Orientation in Windows 10 [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/grasping-the-visionary-shift-to-4k-resolution/"><u>Grasping the Visionary Shift to 4K Resolution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-xr-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone XR Without Previous Owner?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigating-multiplayer-crashes-civ-5/"><u>Mitigating Multiplayer Crashes, CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-g-sync-not-detected/"><u>Nvidia's G-Sync Not Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remove-interference-from-laptop-vision-line/"><u>Remove Interference From Laptop Vision Line</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-window-11-desktop-systems-user-interface/"><u>Restoring Window 11 Desktop System's User Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-10-fixed/"><u>Screen Upside Down in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shielding-screen-stability-in-surface-pro-7/"><u>Shielding Screen Stability in Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-playtime-with-windows-11-driver-update-for-hd-6950/"><u>Supercharge Your Playtime with Windows 11 Driver Update for HD 6950</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-12-proplus-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 12 Pro+ 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-no-more-issues/"><u>Windows 11: Perfect Display, No More Issues</u></a></li>
+</ul></div>
 

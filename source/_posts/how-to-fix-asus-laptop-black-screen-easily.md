@@ -1,7 +1,7 @@
 ---
 title: How To Fix Asus Laptop Black Screen Easily
-date: 2024-09-08T20:20:21.013Z
-updated: 2024-09-14T17:22:19.900Z
+date: 2024-09-26T05:24:28.726Z
+updated: 2024-09-30T23:49:05.820Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
 ---
@@ -58,13 +65,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -79,6 +79,13 @@ Here is how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -112,14 +119,22 @@ So you can try disabling fast startup to see if it does the trick:
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
@@ -129,6 +144,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -137,27 +159,29 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your computer to see if the black screen issue has been fixed.
 
 ## Fix 7: Fix corrupted system files
@@ -170,13 +194,6 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -202,5 +219,18 @@ Once the repair is finished, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-tailor-your-media-auto-scaling-videos-for-instagram-via-macos-for-2024/"><u>[New] Tailor Your Media Auto-Scaling Videos for Instagram via MacOS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[Updated] 2024 Approved Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-top-camcorders-to-consider-in-depth-analysis/"><u>[Updated] The Top Camcorders to Consider – In-Depth Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-5-accessories-for-beneath-water-shooting/"><u>2024 Approved Top 5 Accessories for Beneath Water Shooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disappearing-quadro-resolved/"><u>Disappearing Quadro Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-imagery-new-firmware-loaded/"><u>No Imagery, New Firmware Loaded</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-210-win11-driver-revamp/"><u>NVIDIA GeForce 210 Win11 Driver Revamp</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-quality-on-a-dime-vr-edition/"><u>Selecting Quality on a Dime: VR Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/t5-unboxed-the-revolution-in-action-filming/"><u>T5 Unboxed - The Revolution in Action Filming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818365828-troubleshooting-screen-flashes-fixed/"><u>Troubleshooting Screen Flashes: Fixed</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 using icloud website</u></a></li>
+</ul></div>
 

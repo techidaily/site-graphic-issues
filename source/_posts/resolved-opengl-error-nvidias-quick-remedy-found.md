@@ -1,7 +1,7 @@
 ---
 title: "Resolved: OpenGL Error - Nvidia's Quick Remedy Found"
-date: 2024-09-04T07:09:57.828Z
-updated: 2024-09-05T07:09:57.828Z
+date: 2024-09-29T03:53:27.055Z
+updated: 2024-10-01T01:34:55.673Z
 tags:
   - win11
   - win10
@@ -54,11 +54,12 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -67,12 +68,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -89,18 +84,6 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -108,6 +91,13 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -118,30 +108,26 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
 ---
@@ -157,8 +143,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,8 +150,20 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-master-fast-sharing-youtube-playlists-made-simple/"><u>[New] 2024 Approved Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-amalgamate-ppts-for-video-creation/"><u>[New] Amalgamate PPTs for Video Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exceptional-windows-calls-8-highest-rated/"><u>[New] Exceptional Windows Calls 8 Highest Rated</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-online-broadcasting-basics-a-streamers-guide-to-capture-for-2024/"><u>[Updated] Online Broadcasting Basics A Streamer’s Guide to Capture for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-down-windows-8s-safe-mode-procedure-and-gpu-drivers-deletion/"><u>Breaking Down Windows 8'S Safe Mode Procedure and GPU Drivers Deletion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-adapter-issue-resolved/"><u>Display Adapter Issue Resolved</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-explore-our-updated-top-10-best-fb-video-extractors-for-android-users/"><u>In 2024, Explore Our Updated Top 10 Best FB Video Extractors for Android Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netgear-secure-start-essential-default-credentials-for-all-your-devices-released-in-july-2024/"><u>NETGEAR Secure Start: Essential Default Credentials for All Your Devices, Released in July 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-your-dead-asus-webcam/"><u>Reactivating Your Dead ASUS Webcam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shrinking-excessive-windows-11-size/"><u>Shrinking Excessive Windows 11 Size</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-game-how-to-update-nvidia-gtx-1660-ti-graphics-card-drivers/"><u>Upgrade Your Game: How To Update NVIDIA GTX 1660 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-businesses-are-retreating-from-chatgpts-boundaries/"><u>Why Businesses Are Retreating From ChatGPT's Boundaries</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-stops-device-resolved-nvidia-error-43/"><u>Windows Stops Device - Resolved: NVIDIA Error #43</u></a></li>
+</ul></div>
 

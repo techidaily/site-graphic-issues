@@ -1,7 +1,7 @@
 ---
 title: Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10
-date: 2024-09-20T06:07:18.291Z
-updated: 2024-09-26T09:26:31.019Z
+date: 2024-09-29T01:26:49.619Z
+updated: 2024-10-01T11:08:52.806Z
 tags:
   - win11
   - win10
@@ -68,41 +68,29 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
@@ -112,20 +100,35 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
-3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
+3. Click**Next** to move forward from the sound test.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -151,24 +154,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-recordings-doing-without-a-microphone-for-2024/"><u>[New] Elevate Your Recordings Doing Without a Microphone for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-easy-routines-keeping-a-transcript-of-google-voice-calls/"><u>[Updated] Easy Routines Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-asmrists-aiding-the-nighttime-ritual/"><u>2024 Approved Top ASMRists Aiding the Nighttime Ritual</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-aspect-ratio-discrepanrances-in-windows-10/"><u>Correcting Aspect Ratio Discrepanrances in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-character-quota-tips-on-extending-dialogue-capacity/"><u>Deciphering ChatGPT's Character Quota: Tips on Extending Dialogue Capacity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-driver-fix-resumed-normal-operations/"><u>Display Driver Fix: Resumed Normal Operations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-display-settings-control-in-windows-11-fix/"><u>Enhanced Display Settings Control in Windows 11 Fix</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-ai-driven-shooting-modes-in-todays-cameras-for-2024/"><u>Exploring the AI-Driven Shooting Modes in Today's Cameras for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guidelines-for-quelling-hp-monitor-flares/"><u>Guidelines for Quelling HP Monitor Flares</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-impact-in-snapchat-spotlight/"><u>In 2024, Maximizing Impact in Snapchat Spotlight</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-hot-30-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Hot 30 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>In 2024, Unlocking PC Capabilities How to Record TV on Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inside-the-studio-magix-vpx-leading-media-production-for-2024/"><u>Inside the Studio Magix VPX Leading Media Production for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-graphics-detected-on-system/"><u>No Graphics Detected on System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedied-lenovo-smarttouch-glitches/"><u>Remedied Lenovo SmartTouch Glitches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-tremor-techniques-to-end-display-shimmer/"><u>Taming the Tremor: Techniques to End Display Shimmer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tighten-up-latency-play-faster-in-roblox/"><u>Tighten Up Latency: Play Faster in Roblox</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817944373-transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-civ-5-errors-pc/"><u>Troubleshooting Civ 5 Errors PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-start-making-money-today-top-13-easy-methods-for-newbies/"><u>[New] 2024 Approved Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-setup-in-windows-11-missing/"><u>[Resolved] Advanced Setup in Windows 11 Missing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-reach-without-money-youtube-video-advancement-strategies/"><u>[Updated] In 2024, Mastering Reach Without Money YouTube Video Advancement Strategies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unsavable-screen-display-preferences-in-win-710-completed/"><u>Fix Unsavable Screen Display Preferences in WIN 7/10 [Completed]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-the-problem-of-your-wii-not-reading-game-discs-effectively/"><u>How To Fix The Problem Of Your Wii Not Reading Game Discs Effectively</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/journey-into-ultra-high-definition-4k-explained/"><u>Journey Into Ultra-High-Definition: 4K Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-revival-rapid-restoration-of-video-feed/"><u>Monitor Revival: Rapid Restoration of Video Feed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-playing-on-advanced-rtx-setup/"><u>Smooth Playing on Advanced RTX Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-streaming-and-sharing-your-favorite-movies-on-netflix/"><u>Step-by-Step Guide: Streaming and Sharing Your Favorite Movies on Netflix</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-gratuit-logiciels-de-conversion-video-mp4-vers-et-depuis/"><u>Top 6 Gratuit Logiciels De Conversion Vidéo MP4 : Vers Et Depuis</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-wma-au-format-mp3-gratuitement-en-ligne-guide-detaille-avec-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier WMA Au Format MP3 Gratuitement en Ligne - Guide Détaillé Avec Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-motorola-moto-g73-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Motorola Moto G73 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-revival-overcoming-creator-setbacks/"><u>Win10 Revival: Overcoming Creator Setbacks</u></a></li>
 </ul></div>
 

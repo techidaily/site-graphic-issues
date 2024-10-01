@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade"
-date: 2024-09-23T04:49:49.173Z
-updated: 2024-09-26T02:30:14.370Z
+date: 2024-09-30T03:05:45.888Z
+updated: 2024-10-01T10:48:21.431Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 5. [**Log in using a different user account**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Fix 1: Try a Windows key sequence to wake the screen
 
 A quick fix to your black screen problem would be:
@@ -41,10 +48,10 @@ A quick fix to your black screen problem would be:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Fix 2: Unplug unnecessary USB equipment
@@ -76,18 +83,25 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ###  Fix 4: Uninstall third party Windows theming software
 
@@ -99,26 +113,33 @@ If this produces no results, you can move on to Fix 3.
 2. Once you log into your system,**right-click** the taskbar, then select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2297bbde3.jpg)
 3. Click the**File** tab, then**Run new task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
@@ -148,10 +169,10 @@ If this produces no results, you can move on to Fix 3.
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
@@ -163,15 +184,15 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf346d3db95.jpg)
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -189,21 +210,7 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -227,21 +234,22 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-10-leading-free-online-recording-tools-expert-opinions/"><u>[Updated] 10 Leading Free Online Recording Tools - Expert Opinions</u></a></li>
-<li><a href="https://win11.techidaily.com/5yq55p6c55qe44gq6zplusz5qw944ov44kh44kk44or5zyn57iu5pa55rovic0g44cm44kq44o844oh44kj44kq5zyn57iu44k944ov44oi44km44kn44ki44cn44ks5yip55so44gx44gf5oml5byv44gn.45/"><u>効果的な音楽ファイル圧縮方法 - 「オーディオ圧縮ソフトウェア」を利用した手引き</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-drivers-fixed-at-43/"><u>Display Drivers Fixed at #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ease-unwanted-horizontal-edges-distortion-on-screens/"><u>Ease Unwanted Horizontal Edges Distortion on Screens</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-insights-into-lg-channels-top-information-revealed/"><u>Essential Insights Into LG Channels – Top Information Revealed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-code-43-eliminated/"><u>GPU Glitch Code 43 Eliminated</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 iOS System? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>In 2024, Grasping the Full Potential of Animoji on iPhone X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-plating-perfection-tips-for-shooting-culinary-content/"><u>In 2024, Plating Perfection Tips for Shooting Culinary Content</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-play-7t-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor Play 7T for Streaming | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-m14-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy M14 5G Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-features-in-nvidia-geforce-driver-update/"><u>New Graphics Features in Nvidia GeForce Driver Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-non-functioning-asus-webcam/"><u>Overcoming Non-Functioning ASUS Webcam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-clear-windows-display/"><u>Resolved: Clear Windows Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-prevent-minecraft-from-closing-due-to-faulty-video-card-software-on-pc/"><u>Resolved: How to Prevent Minecraft From Closing Due to Faulty Video Card Software on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shutting-down-windows-10-glitchy-glare/"><u>Shutting Down Windows 10 Glitchy Glare</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>[New] The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-list-best-ios-friendly-free-video-editors-for-2024/"><u>[New] Ultimate List Best iOS-Friendly, Free Video Editors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11s-advanced-display-options-unlocked/"><u>[Resolved]: Windows 11'S Advanced Display Options Unlocked</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow/"><u>2024 Approved Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-in-twitch-streams/"><u>Bring Back the Colors in Twitch Streams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-issues-preventing-age-of-empires-4-from-starting/"><u>Common Issues Preventing Age of Empires 4 From Starting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-fixes-for-fallout-4-on-your-computer/"><u>Efficient Fixes for Fallout 4 on Your Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2007-files-easily-stellar-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2007 Files Easily | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-graphics-not-functional-on-windows-1011/"><u>Laptop Graphics Not Functional on Windows 10/11?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-your-zoom-call-troubleshooting-tech/"><u>Master Your Zoom Call: Troubleshooting Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-discordance-nvidia-and-nforce-within-windows/"><u>Resolved Discordance: Nvidia & nForce Within Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadow-of-a-vulkan-compatible-gpu/"><u>Shadow of a Vulkan-Compatible GPU</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-playing-webm-videos-on-macos-big-sur-and-previous-versions/"><u>Step-by-Step Guide: Playing WebM Videos on macOS Big Sur and Previous Versions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-psychology-of-crafting-engaging-podcast-intros/"><u>The Psychology of Crafting Engaging Podcast Intros</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-chromes-ssl-protocol-error-now-solved/"><u>Troubleshooting Guide: Dealing with Chrome's SSL Protocol Error - Now Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unable-to-detect-no-support-for-amd-video-card-in-winxpvista/"><u>Unable to Detect: No Support for AMD Video Card in WinXP/Vista</u></a></li>
 </ul></div>
 

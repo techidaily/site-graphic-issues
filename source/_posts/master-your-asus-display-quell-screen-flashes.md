@@ -1,7 +1,7 @@
 ---
 title: "Master Your ASUS Display: Quell Screen Flashes"
-date: 2024-09-08T06:21:12.168Z
-updated: 2024-09-14T16:35:39.803Z
+date: 2024-09-29T00:32:17.862Z
+updated: 2024-10-01T03:21:29.488Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -40,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -52,10 +67,25 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -68,19 +98,6 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -118,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -149,5 +166,22 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-defining-your-digital-dna-a-guide-to-youtubing-personal-branding-for-2024/"><u>[New] Defining Your Digital DNA A Guide to YouTubing Personal Branding for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-directly-uploading-tweets-videos-to-instagram-profile-for-2024/"><u>[New] Directly Uploading Tweets Videos to Instagram Profile for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-google-meets-with-efficient-snap-photography-tips-for-2024/"><u>[Updated] Streamlining Google Meets with Efficient Snap Photography Tips for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-crashes-make-fallout-4-run-easily-on-pc/"><u>Banish Crashes: Make Fallout 4 Run Easily on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/excellent-ending-for-displays-save-saga/"><u>Excellent Ending for Displays' Save-Saga</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos/"><u>Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>Framing for Instagram Techniques for Vertical Footage in FCPX</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-105-classic-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia 105 Classic Phone When You Forget the Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/interact-using-your-voice-experience-upgraded-communication-with-bing-chat-online/"><u>Interact Using Your Voice: Experience Upgraded Communication with Bing Chat Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-crafters-guide-to-kinemaster/"><u>Meme Crafters' Guide to KineMaster</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-win-10-screen-to-smaller-dimensions/"><u>Optimize WIN 10 Screen to Smaller Dimensions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pinpoint-problematic-video-card-in-crashes/"><u>Pinpoint Problematic Video Card in Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/suppressing-sudden-shifts-on-your-acer-screen/"><u>Suppressing Sudden Shifts on Your Acer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unraveling-directx12-obstacles-for-halo-infinite-launch/"><u>Unraveling: DirectX12 Obstacles for Halo Infinite Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/why-isnt-my-windows-10-monitor-fullview/"><u>Why Isn't My Windows 10 Monitor Fullview?</u></a></li>
+</ul></div>
 

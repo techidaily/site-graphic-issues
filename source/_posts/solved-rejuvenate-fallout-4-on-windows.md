@@ -1,7 +1,7 @@
 ---
 title: "Solved: Rejuvenate Fallout 4 on Windows"
-date: 2024-08-15T07:21:17.787Z
-updated: 2024-08-16T07:21:17.787Z
+date: 2024-09-24T02:02:03.870Z
+updated: 2024-09-30T21:50:08.017Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -43,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### **3\. Update your graphics card driver**
 
  The missing or outdated graphics card driver can cause Fallout 4 crashing, so you make sure that your video card and its driver both work correctly. There are two ways to update your graphics card driver: manually and automatically.
@@ -71,17 +62,35 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer and open your Fallout 4.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **4\. Temporarily disable the antivirus program**
 
  As known, the antivirus program in your computer is possible incompatible with your Steam games, including Fallout 4\. So you can check your antivirus program. To do so, follow these steps:
@@ -94,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -106,8 +112,12 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
@@ -130,8 +140,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +147,17 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mac-users-speak-out-the-real-impact-of-screenflow-software/"><u>[New] 2024 Approved Mac Users Speak Out The Real Impact of ScreenFlow Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-squared-success-creating-compelling-video-posts-on-facebook/"><u>[New] Squared Success Creating Compelling Video Posts on Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-6-superior-tools-for-effortless-linkedin-videos-extraction/"><u>2024 Approved 6 Superior Tools for Effortless LinkedIn Videos Extraction</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-7-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assessing-the-return-of-apple-tv/"><u>Assessing the Return of Apple TV</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-c1900101-installation-problem/"><u>Fixing Windows 10'S C1900101 Installation Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-problem-code-43-resolved-now/"><u>GPU Problem Code 43 Resolved Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55plus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-opengl-error-nvidias-quick-remedy-found/"><u>Resolved: OpenGL Error - Nvidia's Quick Remedy Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tame-asus-laptop-display-stop-the-squirm-not-quiver/"><u>Tame ASUS Laptop Display: Stop the Squirm, Not Quiver</u></a></li>
+</ul></div>
 

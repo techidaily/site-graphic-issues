@@ -1,7 +1,7 @@
 ---
 title: "Dampening Displays: Fixing Pro 7 Flashes"
-date: 2024-09-14T11:30:05.565Z
-updated: 2024-09-19T21:02:50.355Z
+date: 2024-09-29T14:06:36.570Z
+updated: 2024-09-30T16:30:04.637Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ Here’s how to do it:
 
  You’ll find the Surface Pro 7 screen flickering stops right away. But if not, don’t worry. You should be able to fix it by following these fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your display drivers
 
  Your Surface Pro 7 screen may flicker or blink frequently if you’re using the wrong or outdated device drivers, especially the display drivers. Therefore, you should update these drivers to see if it fixes your problem.
@@ -68,13 +61,6 @@ Here’s how to do it:
 **Manually –** To update your graphics driver manually, you can go to the official **[driver](https://www.microsoft.com/en-us/download/details.aspx?id=100419)** [**download page**](https://www.microsoft.com/en-us/download/details.aspx?id=100419) , and select **Download** this file. You may need to choose the appropriate .msi file. Then click**Next** \>**Save As** and choose your desktop as the save location. Run this MSI file and follow the instructions to install the graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
@@ -95,10 +81,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -107,6 +93,13 @@ Here’s how you can update your drivers with Driver Easy:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and check if your screen flickering has been resolved by now. If not, you can contact our support team for further assistance or request a refund (if you’re using the Pro Version).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Close unnecessary apps
 
@@ -122,6 +115,13 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -129,6 +129,13 @@ Here’s how you can update your drivers with Driver Easy:
  1) Right-click on the**Start Men** u of your desktop screen and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Within settings, select**System** .
 
@@ -140,6 +147,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Display adapter properties** .
 
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
@@ -147,13 +161,6 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -182,13 +189,6 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now check your screen to see if the flickering issue is resolved by now.
 
 #### Option 2 – Manually
@@ -196,6 +196,13 @@ Now check your screen to see if the flickering issue is resolved by now.
  1) On your keyboard, press the**Windows Logo** Key and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When prompted for permission to make changes to your device, click**Yes** .
 
@@ -226,5 +233,17 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-shot-solidity-choose-the-right-mobile-tripod/"><u>[New] In 2024, Shot Solidity Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-what-does-the-blue-marker-on-fb-chat-reveal/"><u>[Updated] 2024 Approved What Does the Blue Marker on FB Chat Reveal?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-gaming-content-with-key-freefire-hashtags/"><u>[Updated] In 2024, Elevate Your YouTube Gaming Content With Key FreeFire Hashtags</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-master-the-art-of-streamlined-screen-recordings-on-mac-for-2024/"><u>[Updated] Master the Art of Streamlined Screen Recordings on Mac for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-mac-screen-recorder-with-audio/"><u>Best Mac Screen Recorder with Audio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-11-screen-flicker/"><u>Fix: Windows 11 Screen Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharpening-upon-rendered-characteristics-in-fc6/"><u>Sharpening Upon Rendered Characteristics in FC6</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 11? | Stellar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-upside-down-issue-resolved/"><u>Windows 10 Upside Down Issue Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-clarity-windows-resolved/"><u>Zoom Clarity: Windows Resolved</u></a></li>
+</ul></div>
 

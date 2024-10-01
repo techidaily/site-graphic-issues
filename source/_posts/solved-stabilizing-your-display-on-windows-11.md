@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED]: Stabilizing Your Display on Windows 11"
-date: 2024-08-15T07:24:08.590Z
-updated: 2024-08-16T07:24:08.590Z
+date: 2024-09-25T13:12:13.619Z
+updated: 2024-09-30T22:36:18.402Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 7. **[Disable hardware acceleration](#Fix7)**
 8. **[Repair your system files](#Fix8)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Check your cables
 
  A loose or damaged monitor cable can cause your screen to flicker. Before you begin to troubleshoot the screen flickering issues, you should first check if your monitor cables are plugged in securely.
@@ -44,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 * If your monitor cable is damaged,**replace it with a new one** .
 
  Once you’ve confirmed that your cables are not the problem, move on to troubleshoot the driver issues.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -59,6 +69,14 @@ There are mainly two ways to update your display driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/NVIDIA-GeForce-RTX-3090-Ti-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -67,21 +85,21 @@ There are mainly two ways to update your display driver:
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change the refresh rate
 
  The refresh rate of a display is the number of times per second that your monitor draws a new image. If your display refresh rate is not set properly, you may encounter screen flickering issues in Windows 11\. To fix it, you can change the refresh rate. Here’s how:
 
 1. On your desktop,**right-click** an empty space and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. For**Choose a refresh rate** , select a different refresh rate.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
@@ -96,6 +114,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Click**Start** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
@@ -110,31 +136,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** .
 2. In the left panel, select**Personalization** , then click**Background** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-background.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Go back to**Personalization** window and select**Colors** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
 
@@ -147,17 +162,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-accessibility-visual-effects.jpg)
 3. **Turn off** Animation effects.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-turn-off-animation-effects.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 Check if you’re still facing a flickering screen.
 
 If this fix doesn’t do the trick, try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Disable hardware acceleration
 
  The hardware acceleration feature is widely used to improve overall performance. But in some cases, it may also cause your screen to flicker. To fix the issue, you’ll need to disable hardware acceleration on your PC. Here’s how:
@@ -183,20 +199,11 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your computer, open Google Chrome.
 2. At the top right, click the**vertical three dots** icon and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Repair your system files
 
  If there are any missing or corrupted system files, you may see a flickering or flashing screen on your Windows 11 PC. To fix it, you can use**[Fortect](#option1)** or**[System File Checker](#option2)** to scan and restore system files.
@@ -209,9 +216,21 @@ If this fix doesn’t do the trick, try the next one below.
 2. Open Fortect and scan your PC. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Option 2: Use the System File Checker tool to repair system files
@@ -222,16 +241,10 @@ If this fix doesn’t do the trick, try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. After the process is complete,**type the following command** , and then press**Enter** .  
 
 `**sfc /scannow**`  
@@ -252,8 +265,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,8 +272,23 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[New] In 2024, Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-the-recording-process-in-virtual-gatherings/"><u>[New] In 2024, Streamlining the Recording Process in Virtual Gatherings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-explore-cost-free-cross-platform-virtual-communication-software/"><u>[Updated] 2024 Approved Explore Cost-Free, Cross-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-successful-nvidia-setup-process/"><u>Achieved: Successful NVIDIA Setup Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinking-bring-brightness/"><u>Banish Blinking, Bring Brightness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-by-google-emerges-as-a-potent-contender-in-the-ai-arena-against-chatgpt/"><u>Bard by Google Emerges as a Potent Contender in the AI Arena Against ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-windows-11-recovery-success/"><u>Cursory Windows 11 Recovery Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-text-based-models-for-universe-creation/"><u>Harnessing Text-Based Models for Universe Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-your-editing-mojo-back-with-this-final-cut-pro-overview/"><u>In 2024, Get Your Editing Mojo Back with This Final Cut Pro Overview</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-srt-to-xml-ssa-and-ttml-manual/"><u>In 2024, The Essential SRT to XML, SSA & TTML Manual</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-overcoming-nvidia-setup-error/"><u>Success: Overcoming NVIDIA Setup Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-color-locked-in-asus-devices-with-ease/"><u>Unlock Color Locked in Asus Devices with Ease</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2024-09-22T01:10:00.593Z
-updated: 2024-09-25T18:11:59.076Z
+date: 2024-09-29T21:32:33.929Z
+updated: 2024-10-01T05:58:20.405Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -70,44 +63,45 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -139,20 +133,16 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-audio-integration-in-digital-photo-albums-for-2024/"><u>[New] Audio Integration in Digital Photo Albums for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-up-your-film-game-on-instagram-with-border-tips-for-2024/"><u>[New] Step up Your Film Game on Instagram with Border Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-innovative-vr-drones-collaborations/"><u>[New] Top 5 Innovative VR Drones Collaborations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-8-trending-facebook-video-hits-for-2024/"><u>[New] Top 8 Trending Facebook Video Hits for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-stardom-a-beginners-blueprint/"><u>[Updated] In 2024, Instagram Stardom A Beginner's Blueprint</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>[Updated] In 2024, Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-zipped-content-unveiled-crafting-srt-text-files/"><u>2024 Approved Zipped Content Unveiled Crafting Srt Text Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-display-settings-in-win10/"><u>Adjusting Display Settings in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-the-screen-dance-fix-lenovos-visual-tick/"><u>Ending the Screen Dance: Fix Lenovo's Visual Tick</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-fix-resolved-monster-hunter-world-error-12/"><u>Graphics Fix: Resolved Monster Hunter World Error 12</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-acer-laptop-screen-flickering/"><u>How To Fix Acer Laptop Screen Flickering</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximizing-gaming-efficiency-via-working-freesync/"><u>Maximizing Gaming Efficiency via Working FreeSync</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-edit-flv-files-with-ease-top-windows-8-video-editor-for-2024/"><u>Updated Edit FLV Files with Ease Top Windows 8 Video Editor for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vanquish-sims-blackout-trouble/"><u>Vanquish Sims' Blackout Trouble</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-disruptions-in-mixer-broadcasting-on-macos/"><u>[New] Avoiding Disruptions in Mixer Broadcasting on macOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-expertise-pathway-choosing-between-standard-studio-and-beta/"><u>[Updated] 2024 Approved YouTube Expertise Pathway Choosing Between Standard Studio and Beta</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[Updated] Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-telegram-the-ultimate-step-by-step-guide-for-2024/"><u>[Updated] Mastering Telegram The Ultimate Step-By-Step Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-fluctuating-screen-behavior-in-dell-devices/"><u>Corrected Fluctuating Screen Behavior in Dell Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-blackscreen-curser-surfaces-win11/"><u>Cursory BlackScreen, Curser Surfaces Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-performance-updated-amd-6950-graphics-on-windows-10/"><u>Enhance Performance: Updated AMD 6950 Graphics on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-hdmi-connectivity-woes-solved/"><u>Laptop to TV HDMI Connectivity Woes Solved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-brother-scanner-drivers-compatible-with-windows-systems/"><u>Latest Brother Scanner Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restart-to-success-easily-reestablish-monitor-connectivity/"><u>Restart to Success: Easily Reestablish Monitor Connectivity</u></a></li>
 </ul></div>
 

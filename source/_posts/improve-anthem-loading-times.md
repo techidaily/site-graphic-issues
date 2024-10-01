@@ -1,7 +1,7 @@
 ---
 title: Improve Anthem Loading Times
-date: 2024-08-15T07:23:48.134Z
-updated: 2024-08-16T07:23:48.134Z
+date: 2024-09-25T18:30:48.480Z
+updated: 2024-09-30T22:00:32.337Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Here’s how to do it:
  In**Vertical Sync** , select**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
 
@@ -53,9 +50,6 @@ Here’s how to do it:
  In**Chromatic Aberration** , select**Off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
@@ -77,9 +71,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Adjust your PC settings
 
  You can also tweak your system settings to make the best of your PC. Here’re the instructions on how to**limit the number of startup apps** ,**disable CPU Parking** ,**update your graphics driver:**
@@ -109,21 +100,28 @@ So you can follow the steps below to disable CPU core parking:
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -142,15 +140,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -177,6 +183,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -188,28 +201,38 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -227,8 +250,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,8 +257,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/-filmmakers-approach-to-youtube-splitscreen-videos-for-2024/"><u>[New] A Filmmaker's Approach to YouTube Splitscreen Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gripping-gospels-intros-that-draw-ears/"><u>[New] Gripping Gospels Intros That Draw Ears</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-shape-dimensions/"><u>[Updated] Facebook Video Shape Dimensions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-secrets-unveiled-amplifying-profile-visibility/"><u>[Updated] In 2024, Secrets Unveiled Amplifying Profile Visibility</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>[Updated] Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x8b-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X8b</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blink-blank-how-to-stop-it/"><u>Blink Blank: How to Stop It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-reappears-post-win11-blackout/"><u>Cursor Reappears Post-Win11 Blackout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discovering-hdmi-errors-between-computer-and-screen/"><u>Discovering HDMI Errors Between Computer & Screen</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a78-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A78 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dimming-on-lenovo-laptop-displays/"><u>Overcoming Dimming on Lenovo Laptop Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-tv-like-screen-darkening/"><u>Overcoming Lenovo TV-Like Screen Darkening</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soaring-sights-dissecting-the-gopro-karma-drones-features-for-2024/"><u>Soaring Sights Dissecting the GoPro Karma Drone's Features for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-zero-internet-auto-race-games-of-2023-premium-fun-without-data-drain/"><u>The Best Zero-Internet Auto Race Games of 2023 - Premium Fun Without Data Drain!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-fix-normal-view-now/"><u>Windows 10 Screen Fix: Normal View Now</u></a></li>
+</ul></div>
 

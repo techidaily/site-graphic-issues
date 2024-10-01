@@ -1,7 +1,7 @@
 ---
 title: "[FIX] DirectX12 Setback for Launch of Halo Infinite"
-date: 2024-08-15T07:21:42.942Z
-updated: 2024-08-16T07:21:42.942Z
+date: 2024-09-26T01:53:25.100Z
+updated: 2024-10-01T00:20:35.647Z
 tags:
   - win11
   - win10
@@ -27,13 +27,24 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -69,15 +80,18 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -109,21 +123,19 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also, you can check your VRAM on the left panel.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Edit your file name
 
  We don’t know the reason but many gamers have tried and it worked for some people. If you’re a Steam user, you can give it a try, it may surprise you.
@@ -149,11 +161,15 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -163,8 +179,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,8 +186,24 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-staying-above-copyright-infringement-insta-watermarks-explained/"><u>[Updated] 2024 Approved Staying Above Copyright Infringement Insta Watermarks Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-direct-obs-live-to-instagram-feed/"><u>2024 Approved Direct OBS Live to Instagram Feed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>2024 Approved The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-difficulty-blocking-halo-infinites-first-playable-moment/"><u>DX12 Difficulty Blocking Halo Infinite's First Playable Moment</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-microsoft-ergosculpt-keyboard-driver-upgrade-how-to/"><u>Effortless Microsoft ErgoSculpt Keyboard Driver Upgrade - How To</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-fixed-r9-drivers-in-w10/"><u>Enhanced Performance with Fixed R9 Drivers in W10</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-loses-ground-to-tiktoks-surging-userbase/"><u>Facebook Loses Ground to TikTok's Surging Userbase</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-track-to-flawless-apex-playtime/"><u>Fast Track to Flawless Apex Playtime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphones-sound-fizzing-quick-remedies-to-silence-the-static/"><u>Headphones Sound Fizzing? Quick Remedies to Silence the Static!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-c1900101-error-in-win10-setup/"><u>How to Eliminate C1900101 Error in Win10 Setup</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-x5-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco X5 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigating-screencastifys-screen-capture-feature-for-2024/"><u>Navigating Screencastify's Screen Capture Feature for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818152861-nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-civ-5-malfunctions-pc/"><u>Rectifying Civ 5 Malfunctions PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-streaming-lag-in-newest-win11-version/"><u>Remedying Streaming Lag in Newest Win11 Version</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-blackscreen-in-win11/"><u>Resolved BlackScreen in Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726223571148-wav-m4a-movavi/"><u>Wav에서 M4A로 원활하게 전환 - Movavi의 무료 인터넷 해상해 시술</u></a></li>
+</ul></div>
 

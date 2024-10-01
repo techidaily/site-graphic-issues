@@ -1,7 +1,7 @@
 ---
 title: How to Get Asus Camera Operating Again
-date: 2024-08-15T07:22:43.703Z
-updated: 2024-08-16T07:22:43.703Z
+date: 2024-09-28T09:02:34.203Z
+updated: 2024-10-01T08:07:44.799Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2\. Allow your device and apps to access the camera
 
  If you failed to enable the camera, it’s very likely that your device cannot access your camera. You should check your privacy settings:
@@ -47,24 +51,22 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
  2) Type in**ms-settings:privacy-webcam** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3\. Update the webcam driver
 
  If the system settings are not blocking your camera, the main reason why your Asus camera is not working is an outdated/faulty webcam driver.
@@ -81,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -91,9 +100,6 @@ After updating your drivers, restart your PC and test the camera.
  Under some circumstances, your camera may still act up after the related driver is up to date. To fix the issue quickly, you can launch Driver Easy, and click**Uninstall driver** next to your webcam driver, and restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
@@ -102,8 +108,12 @@ After updating your drivers, restart your PC and test the camera.
  1) Type **devmgmt.msc** in the field and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
@@ -130,8 +140,6 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +147,22 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-audience-centric-strategies-for-top-facebook-listings-for-2024/"><u>[New] Audience-Centric Strategies for Top Facebook Listings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-want-to-explore-every-shared-piece-by-friends-through-messaging/"><u>[Updated] 2024 Approved Want to Explore Every Shared Piece By Friends Through Messaging</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-essential-insights-on-asmr-videos-for-2024/"><u>[Updated] Essential Insights on ASMR Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-reimagined-for-speed-and-solved-issues/"><u>Apex Legends, Reimagined for Speed and Solved Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-monitor-sizes-for-win11/"><u>Balancing Monitor Sizes for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-visual-fidelity-latest-update-for-radeon-hd-6950-graphics-card/"><u>Enhanced Visual Fidelity: Latest Update for Radeon HD 6950 Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-7-screen-flares/"><u>Eradicate Windows 7 Screen Flares</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-static-screen-flashes-in-devices-laptop/"><u>Fixing Static Screen Flashes in Devices [Laptop]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-officejet-pro-9015-printer-software/"><u>Get the Latest HP OfficeJet Pro ˈ9015 Printer Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-netgear-adapter-software-drive-downloads-and-upgrades-guide/"><u>How to Get the Newest NETGEAR Adapter Software – Drive Downloads & Upgrades Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-fixing-protocols-for-gpus-only/"><u>Simple Fixing Protocols for GPUs Only</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-amd-radeon-hd-6950-graphics-drivers-on-windows-11/"><u>Upgraded AMD Radeon HD 6950 Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/write-podcast-magic-a-comprehensive-guide-with-sample-chapters/"><u>Write Podcast Magic A Comprehensive Guide with Sample Chapters</u></a></li>
+</ul></div>
 

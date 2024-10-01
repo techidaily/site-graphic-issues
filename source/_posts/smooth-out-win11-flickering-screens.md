@@ -1,7 +1,7 @@
 ---
 title: "Smooth Out: Win11 Flickering Screens"
-date: 2024-09-15T10:08:04.475Z
-updated: 2024-09-19T19:42:16.424Z
+date: 2024-09-26T05:24:11.692Z
+updated: 2024-10-01T04:48:04.720Z
 tags:
   - win11
   - win10
@@ -41,8 +41,24 @@ Here is how to change the monitor refresh rate:
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -76,16 +92,10 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
@@ -98,15 +108,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
@@ -142,16 +153,10 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -173,6 +178,13 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -199,5 +211,26 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-potential-pro-guide-to-crafting-youtube-videos/"><u>[New] 2024 Approved Unveiling Potential Pro Guide to Crafting YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-dissecting-magix-photo-pro-for-2024/"><u>[New] Dissecting MAGIX Photo Pro for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-editing-for-perfect-numbers-on-tiktok-videos/"><u>[New] Precision Editing for Perfect Numbers on TikTok Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-skys-palette-explored-top-websites-showcasing-hd-imagery-for-2024/"><u>[New] Sky's Palette Explored - Top Websites Showcasing HD Imagery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capturing-attention-striking-shots-for-youtube-success/"><u>[Updated] In 2024, Capturing Attention Striking Shots for YouTube Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-phantom-3-rivalry-veil-4-strikes-back/"><u>[Updated] In 2024, Phantom 3 Rivalry Veil 4 Strikes Back</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bridge-the-gap-running-intel-driver-in-low-end-pcs/"><u>Bridge the Gap: Running Intel Driver in Low-End PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-shadowstack-chipset/"><u>Finding the Hidden Shadowstack Chipset</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-resolved-nvidias-display-restored/"><u>GPU Glitch Resolved: Nvidia's Display Restored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-continuously-crashing-on-your-computer/"><u>How to Stop Age of Wonders: Planetfall From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/portable-computing-orientation-set-right/"><u>Portable Computing - Orientation Set Right</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premiere-selection-of-virtual-gaming-essentials-for-2024/"><u>Premiere Selection of Virtual Gaming Essentials for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-loading-issue-for-amds-detection-driver-in-win10/"><u>Resolved Loading Issue for AMD's Detection Driver in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-vibrance-to-an-asus-monochrome-gadget/"><u>Restoring Vibrance to an Asus Monochrome Gadget</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharpening-your-window-view/"><u>Sharpening Your Window View</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-win7-intel-graphics-patch-guide/"><u>Step-by-Step: Win7 Intel Graphics Patch Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-samsungs-top-television-ever-steals-the-show-with-record-low-prices/"><u>Unbeatable Value: Samsung's Top Television Ever, Steals the Show with Record Low Prices!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-darkness-lifted-cursor-spotted/"><u>Win11 Darkness Lifted, Cursor Spotted</u></a></li>
+</ul></div>
 

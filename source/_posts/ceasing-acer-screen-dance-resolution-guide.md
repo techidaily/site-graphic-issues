@@ -1,7 +1,7 @@
 ---
 title: "Ceasing Acer Screen Dance: Resolution Guide"
-date: 2024-08-15T07:21:32.176Z
-updated: 2024-08-16T07:21:32.176Z
+date: 2024-09-27T02:10:23.856Z
+updated: 2024-10-01T14:29:16.804Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 1: Change the screen refresh rate**
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**Acer laptop screen flickering** problem.
@@ -49,6 +46,13 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
@@ -56,9 +60,6 @@ Here is how to change the screen refresh rate:
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -67,15 +68,16 @@ Here is how to change the screen refresh rate:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
@@ -98,12 +100,12 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -121,8 +123,12 @@ No advertising on the website.
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -146,8 +152,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,8 +159,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-digital-delinquency-games-comparable-to-gta-v/"><u>[New] 2024 Approved Digital Delinquency Games Comparable to GTA V</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs/"><u>[New] Essential Scripting Instant Stopwatch Integration in OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-triple-caption-magic-for-compelling-ig-videographies/"><u>[New] In 2024, Triple Caption Magic for Compelling IG Videographies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-fix-displays-stable-again/"><u>Fixed Fix: Displays Stable Again</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-incredible-mobile-photography-and-videography-apps-for-iosandroid/"><u>In 2024, Incredible Mobile Photography & Videography Apps for iOS/Android</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nubia-z50s-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nubia Z50S Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconfigure-windows-screen-size-for-win-10/"><u>Reconfigure Windows Screen Size for WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/settling-disputed-display-settings-in-win10/"><u>Settling Disputed Display Settings in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shattered-secrets-unmasking-direct-x-flaw-in-lol/"><u>Shattered Secrets: Unmasking Direct X Flaw in LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-dual-gpu-issues-on-windows-11-os/"><u>Tackling Dual-GPU Issues on Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-roblox-windows-errors/"><u>Troubleshooting Roblox Windows Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-public-domain-video-heaven-top-sites-for-free-downloads/"><u>Updated 2024 Approved Public Domain Video Heaven Top Sites for Free Downloads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-09-23T00:09:19.439Z
-updated: 2024-09-26T09:12:39.396Z
+date: 2024-09-24T16:41:50.980Z
+updated: 2024-10-01T08:07:10.122Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -69,26 +69,32 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -111,18 +117,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -156,24 +162,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[New] Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-captivating-chronicles-a-guide-to-storytelling-schools-1-8/"><u>[Updated] Crafting Captivating Chronicles A Guide to Storytelling Schools (#1-#8)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjustment-for-compact-win-10-interface/"><u>Adjustment for Compact WIN 10 Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/declutter-your-view-fix-flicker-in-vista-or-win7/"><u>Declutter Your View – Fix Flicker in Vista or Win7</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/echotech-acoustic-canal-defenders-review/"><u>EchoTech Acoustic Canal Defenders Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-specs-transitioning-to-macos-11-big-sur/"><u>Essential Specs Transitioning to MacOS 11 Big Sur</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-poco-x5-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Poco X5 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hybrid-gpu-success-windows-10-tamed-by-nvidia-and-intel-switches/"><u>Hybrid GPU Success: Windows 10 Tamed by Nvidia and Intel Switches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-overcome-device-resumes-operation/"><u>IGFX Malfunction Overcome, Device Resumes Operation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g23-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G23</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-huawei-nova-y71-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Huawei Nova Y71 FRP Locks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-g310-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia G310 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-win10s-fullview-windows/"><u>Monitor Not Showing Win10's Fullview Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/navigating-google-meet-profile-edit-laptopmobile-for-2024/"><u>Navigating Google Meet Profile Edit (Laptop/Mobile) for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-enhances-geforce-210-on-win11/"><u>NVIDIA Enhances GeForce 210 on Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-win11-displays-glitchy/"><u>Overcome: Win11 Displays Glitchy</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilize-fallout-4-stop-the-pc-freeze-cycle/"><u>Stabilize Fallout 4: Stop the PC Freeze Cycle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successful-creation-of-d3d-device-after-failure/"><u>Troubleshooting Guide: Successful Creation of D3D Device After Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-screen-stability-achieved/"><u>Win11: Screen Stability Achieved</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>[New] 2024 Approved Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-affordable-wonders-in-virtual-reality-headsets-from-china-for-2024/"><u>[New] Affordable Wonders in Virtual Reality Headsets From China for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-windows-11-screen-capturing-package-for-2024/"><u>[New] Easy Windows 11 Screen Capturing Package for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-examination-hero4-black-designs/"><u>[New] Full Examination Hero4 Black Designs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-seamless-change-of-screen-capture-types-on-macos-for-2024/"><u>[New] Seamless Change of Screen Capture Types on MacOS for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discovering-the-essentials-crafting-impressive-pfps-in-discord/"><u>[Updated] In 2024, Discovering the Essentials Crafting Impressive Pfps in Discord</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-internet-based-image-trimming/"><u>[Updated] The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-visual-horizon/"><u>Adjusting Visual Horizon</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-black-screen-after-fall-patch-in-win11/"><u>Brighten Up Black Screen After Fall Patch in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenscape-straightening-technique/"><u>Screenscape Straightening Technique</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/skald-rage-new-age-of-might/"><u>Skald Rage New Age of Might</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818185907-windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dialing Down Flickering in Your Acer Device
-date: 2024-09-14T06:02:23.300Z
-updated: 2024-09-19T19:54:52.454Z
+date: 2024-09-25T06:03:22.935Z
+updated: 2024-09-30T19:58:06.551Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Change the screen refresh rate**
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**Acer laptop screen flickering** problem.
@@ -42,13 +49,40 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
@@ -85,13 +119,6 @@ Here is how to change the screen refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,13 +132,6 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -145,5 +165,19 @@ Here is how to change the screen refresh rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-video-appeal-implementing-neon-borders-in-thumbnails/"><u>[New] In 2024, Boosting Video Appeal Implementing Neon Borders in Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightning-fast-windowed-photo-reader-for-win11/"><u>[New] Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-leading-tech-for-cloud-saving-top-choices-for-android/"><u>[Updated] 2024 Approved Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ways-ai-enhances-the-future-of-teaching/"><u>8 Ways AI Enhances the Future of Teaching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expedite-smooth-video-experiences/"><u>Expedite Smooth Video Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/increased-productivity/"><u>Increased Productivity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-technique-for-fresh-intel-graphics-drivers-win7/"><u>Step-By-Step Technique for Fresh Intel Graphics Drivers (Win7)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-pro-gamers-screen-capture-strategy-for-xbox-one-for-2024/"><u>The Pro Gamer's Screen Capture Strategy for Xbox One for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trouble-with-full-screen-windows-on-monitor-11/"><u>Trouble With Full-Screen Windows on Monitor 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896440562-unlock-ultimate-bargains-6-premier-coupons-and-deals-galore/"><u>Unlock Ultimate Bargains: 6 Premier Coupons & Deals Galore!</u></a></li>
+</ul></div>
 

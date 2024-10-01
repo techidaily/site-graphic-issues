@@ -1,7 +1,7 @@
 ---
 title: GPU Glitch Spotlight - Now Resolved!
-date: 2024-08-15T07:21:28.108Z
-updated: 2024-08-16T07:21:28.108Z
+date: 2024-09-26T06:30:21.923Z
+updated: 2024-09-30T20:56:54.307Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -52,9 +59,6 @@ Here’s how you can do it:
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
@@ -64,9 +68,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -83,6 +84,13 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -90,56 +98,35 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
- 9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -156,8 +143,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,8 +150,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ow-to-enhance-clarity-of-online-video-content-for-2024/"><u>[New] How to Enhance Clarity of Online Video Content for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-and-uncomplicated-gpu-fixes/"><u>Direct and Uncomplicated GPU Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-uploads-more-views-youtubes-easily-overlooked-hacks-for-2024/"><u>Free Uploads, More Views YouTube's Easily Overlooked Hacks for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-smart-8-plus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-xs-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone XS Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-google-pixel-7a-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Google Pixel 7a Lock Screen Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-not-responding-resolution-achieved/"><u>Lenovo TapScreen Not Responding, Resolution Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-issues-enhancing-forza-horizon-tpc-gameplay-quality/"><u>Overcoming Performance Issues - Enhancing Forza Horizon Tpc Gameplay Quality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quick-flash-queries/"><u>Quelling Quick-Flash Queries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-the-process-solving-hidden-logins-on-windows-11/"><u>Reboot the Process: Solving Hidden Logins on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restorenormalcomputerview/"><u>RestoreNormalComputerView</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-solution-to-windows-10-glare/"><u>Unveiling Solution to Window's 10 Glare</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-emerges/"><u>Win11 Shadowed, Cursor Emerges</u></a></li>
+</ul></div>
 

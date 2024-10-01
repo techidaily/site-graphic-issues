@@ -1,7 +1,7 @@
 ---
 title: Addressing CIV 5 Failures on PC
-date: 2024-09-16T23:53:08.870Z
-updated: 2024-09-19T18:13:09.132Z
+date: 2024-09-29T11:09:52.658Z
+updated: 2024-09-30T17:42:04.925Z
 tags:
   - win11
   - win10
@@ -57,16 +57,17 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -79,10 +80,10 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
@@ -92,8 +93,23 @@ Here’s how to do it:
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -116,5 +132,23 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snatching-twitter-laughter-3-pc-techniques/"><u>[New] 2024 Approved Snatching Twitter Laughter 3 PC Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-steps-for-starting-a-youtube-channel-for-2024/"><u>[New] Essential Steps for Starting a YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unraveling-youtubes-vision-for-a-thriving-ecosystem-of-short-form-video/"><u>2024 Approved Unraveling YouTube's Vision for a Thriving Ecosystem of Short-Form Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-performance-and-graphics-amds-hd-6950-for-windows-10/"><u>Boost Performance & Graphics: AMD's HD 6950 for Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-top-titles-magix-video-pro-x-among-others/"><u>Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discard-bad-drivers-to-prevent-game-breakdown/"><u>Discard Bad Drivers to Prevent Game Breakdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-new-features-in-thunderbird-version-52-by-mozilla/"><u>Discover New Features in Thunderbird Version 52 by Mozilla</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-specs-for-optimal-intell-driver-use/"><u>Enhancing PC Specs for Optimal Intell Driver Use</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a79-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A79 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-clarity-the-world-of-4k/"><u>Mastering the Art of Clarity: The World of 4K</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-complete-guide-to-designing-iconic-podcast-artwork-for-the-modern-ear/"><u>New 2024 Approved The Complete Guide to Designing Iconic Podcast Artwork for the Modern Ear</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/resounding-beats-audio-studio-mac/"><u>Resounding Beats Audio Studio Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revolutionize-pc-display-updated-nvidia-geforce-210-for-windows-1e/"><u>Revolutionize PC Display: Updated Nvidia GeForce 210 for Windows 1E</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-fix-guide-to-youtubes-green-screen-woes/"><u>The Ultimate Fix Guide to YouTube's Green Screen Woes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-virtual-voyage-review-meta-quest-3/"><u>The Ultimate Virtual Voyage Review: Meta Quest 3</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-quiet-displays/"><u>Unveiling Secrets to Quiet Displays</u></a></li>
+</ul></div>
 

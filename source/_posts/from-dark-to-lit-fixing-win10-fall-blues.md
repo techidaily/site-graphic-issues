@@ -1,7 +1,7 @@
 ---
 title: "From Dark to Lit: Fixing Win10 Fall Blues"
-date: 2024-09-25T06:59:37.741Z
-updated: 2024-09-25T21:36:41.815Z
+date: 2024-09-24T11:22:45.430Z
+updated: 2024-10-01T09:08:16.702Z
 tags:
   - win11
   - win10
@@ -25,10 +25,10 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -37,19 +37,20 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -58,28 +59,15 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -97,24 +85,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-choices-8-edits-suites-for-linux-users/"><u>[New] In 2024, Best Choices 8 Edits Suites for Linux Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cleared-windows-distortion-for-improved-views/"><u>Cleared Windows Distortion for Improved Views</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-preventing-crashes-while-playing-frontier-on-windows-or-mac/"><u>Expert Tips for Preventing Crashes While Playing Frontier on Windows or Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>From Blurry Beginnings Transforming Your Videography with Instagram Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-stability-avoiding-rtx-crashes/"><u>Game Stability: Avoiding RTX Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-insertar-subtitulos-en-archivos-de-video-mp4/"><u>Guía Paso a Paso Para Insertar Subtítulos en Archivos De Video MP4</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-green-frameworks-30plus-downloads-that-transform-your-videography-skills/"><u>In 2024, Green Frameworks 30+ Downloads That Transform Your Videography Skills</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 12 when Phone is Broken?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-how-to-use-creative-commons-copyright-licenses/"><u>In 2024, How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-imovies-power-to-transform-ordinary-openers-into-epic/"><u>In 2024, IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proven-strategies-for-windows-8s-secure-boot-graphics-card-drivers-erasure/"><u>Proven Strategies for Windows 8'S Secure Boot - Graphics Card Drivers Erasure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reestablishing-communication-hdmi-between-gadgets-worked-again/"><u>Reestablishing Communication: HDMI Between Gadgets Worked Again</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-cominterop-anomalies-in-winos-environment/"><u>Resolving COMInterop Anomalies in WinOS Environment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-asus-built-in-camera-operation/"><u>Restoring ASUS Built-In Camera Operation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-15-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 15 on MetroPCS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-cursor-awakening-screen-brightness-restored/"><u>Win11 Cursor Awakening, Screen Brightness Restored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-consistency-secured/"><u>Windows 10 Screen Consistency Secured</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-stream-fixes-revealed/"><u>Windows 10 Upgrade - Stream Fixes Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] 2024 Approved Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-a-short-form-video-star-with-these-10-proven-methods/"><u>[New] In 2024, Become a Short-Form Video Star with These 10 Proven Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-techniques-in-fbx-game-capture-systems/"><u>[Updated] 2024 Approved Advanced Techniques in FBX Game Capture Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[Updated] 2024 Approved From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/warning-missing-amd-drivers-in-windows-environment/"><u>[WARNING] Missing AMD Drivers in Windows Environment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone SE (2022) When You Forget the Passcode?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-how-to-find-your-own-tiktok-stream-key/"><u>In 2024, How to Find Your Own TikTok Stream Key</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-misses-full-screen-settings-in-win11/"><u>Monitor Misses Full Screen Settings in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818383351-solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-performance-with-solved-r9-windows-10-problems/"><u>Streamlined Performance with Solved R9 Windows 10 Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-dual-gpu-conflict-in-microsoft-os/"><u>Tackling Dual-GPU Conflict in Microsoft OS</u></a></li>
 </ul></div>
 

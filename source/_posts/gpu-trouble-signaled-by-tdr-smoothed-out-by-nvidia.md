@@ -1,7 +1,7 @@
 ---
 title: GPU Trouble Signaled By TDR — Smoothed Out By NVIDIA
-date: 2024-08-15T07:24:42.493Z
-updated: 2024-08-16T07:24:42.493Z
+date: 2024-09-27T09:38:07.616Z
+updated: 2024-09-30T21:30:35.125Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -56,9 +63,6 @@ Here’s how you can do it:
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
@@ -78,10 +82,14 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -90,39 +98,35 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -139,8 +143,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,8 +150,22 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify/"><u>[New] Steps to Decline Autoplayed and Suggested Podcasts on Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improving-online-sessions-with-increased-zoom/"><u>[Updated] Improving Online Sessions with Increased Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-live-streaming-duel-pitting-obs-against-shadowgl/"><u>[Updated] In 2024, Live Streaming Duel Pitting OBS Against ShadowGL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-11-screen-reflection-flaw/"><u>Correcting Windows 11 Screen Reflection Flaw</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dell-p2715q-explained-the-4k-vision-experience-decoded/"><u>Dell P2715Q Explained The 4K Vision Experience Decoded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-anker-soundcore-airfit-pro-the-ultimate-guide-to-ergonomic-on-the-go-audio/"><u>Expert Analysis: Anker SoundCore AirFit Pro - The Ultimate Guide to Ergonomic On-the-Go Audio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-mp3-and-3gp-format-transformation-fasttrack-audio-tools/"><u>Free MP3 & 3GP Format Transformation - FastTrack Audio Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-loss-in-windows-10-display-setup/"><u>Fullscreen Loss in Windows 10 Display Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-display-sync-with-revived-freesync-features/"><u>Improving Display Sync with Revived FreeSync Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone X</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-window-10-ui-settings-fixed-and-solved/"><u>Missing Window 10 UI Settings: Fixed & Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mp3wav/"><u>MP4/MP3ビデオ音声をWAVフォーマットにアップコンバートする詳細ガイド</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-unlimited-space-service-catalogue-for-2024/"><u>Prime Unlimited Space Service Catalogue for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resurrecting-silent-displayport-easily/"><u>Resurrecting Silent DisplayPort Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-gpu-solutions-no-external-monitors/"><u>Streamlined GPU Solutions, No External Monitors</u></a></li>
+</ul></div>
 

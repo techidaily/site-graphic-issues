@@ -1,7 +1,7 @@
 ---
 title: No Graphics Available During Startup
-date: 2024-09-24T09:22:49.834Z
-updated: 2024-09-26T03:49:19.526Z
+date: 2024-09-28T19:04:53.718Z
+updated: 2024-09-30T21:02:53.525Z
 tags:
   - win11
   - win10
@@ -52,17 +52,17 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
@@ -83,14 +83,20 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Change your display resolution settings
 
@@ -105,25 +111,18 @@ To change system screen resolution on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-23.png)
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
 
 If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update Windows
 
@@ -135,26 +134,32 @@ If the problem remains, please move on.
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then try your game again to see if the Unable to Initialize Graphics System problem persists. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Repair corrupted system files
 
@@ -168,6 +173,13 @@ If the problem remains, please move on.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -197,24 +209,16 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-silent-recorders-revealed-6-undiscovered-android-and-ios-apps-for-2024/"><u>[Updated] Silent Recorders Revealed 6 Undiscovered Android & iOS Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-twitter-video-streams-download-and-convert-to-mp3/"><u>2024 Approved Twitter Video Streams Download & Convert to MP3</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagram-memories-with-these-apps/"><u>2024 Approved Unlocking Instagram Memories with These Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a14-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A14 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/calibrating-win11-screen-scale/"><u>Calibrating Win11 Screen Scale</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-sideways-screens-on-windows-10/"><u>Correcting Sideways Screens on Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crystal-clear-tvs-a-thorough-comparison-of-8k-pioneers/"><u>Crystal Clear TVs A Thorough Comparison of 8K Pioneers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-a-win11-fix/"><u>Eliminating Graphic Swap Errors: A Win11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-lcd-wobbling-issues-computers/"><u>Fix LCD Wobbling Issues (Computers)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-cleared-display-functioning-normally/"><u>IGFX Malfunction Cleared, Display Functioning Normally</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-navigating-the-best-video-formats-for-your-youtube-channel/"><u>In 2024, Navigating the Best Video Formats for Your YouTube Channel</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-faulty-avchd-clips/"><u>Mending Faulty AVCHD Clips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rapid-repair-amd-graphics-bug-in-tarkov/"><u>Rapid Repair: AMD Graphics Bug in Tarkov</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11s-mysterious-mouse-cursor-problem-effective-solutions-revealed/"><u>Resolving Windows 11'S Mysterious Mouse Cursor Problem: Effective Solutions Revealed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speedy-download-of-elgato-drivers-made-easy-for-everyone/"><u>Speedy Download of Elgato Drivers Made Easy for Everyone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-truth-about-bose-qc30s-performance/"><u>The Truth About Bose QC30’s Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-full-screen-customization-in-win11/"><u>Unlocking Full Screen Customization in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817435202-upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essentials-of-logging-live-performances-online/"><u>[New] 2024 Approved The Essentials of Logging Live Performances Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elite-nine-cutting-edge-4k-filmmaking-gear/"><u>[Updated] 2024 Approved Elite Nine Cutting-Edge 4K Filmmaking Gear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-2-performance-optimization-tips-for-pc-players-dealing-with-fps-drops-and-gameplay-hiccups/"><u>Dying Light 2 Performance Optimization Tips for PC Players Dealing with FPS Drops & Gameplay Hiccups</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-startup-dx12-error-with-halo-infinite/"><u>Halted Game Startup: DX12 Error with Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>In 2024, Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100i-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100i to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unleash-the-power-of-live-captures-an-introduction-to-vimeo-record/"><u>Unleash the Power of Live Captures An Introduction to Vimeo Record</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
 </ul></div>
 

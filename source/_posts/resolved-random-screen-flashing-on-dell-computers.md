@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Random Screen Flashing on Dell Computers"
-date: 2024-08-15T07:21:10.173Z
-updated: 2024-08-16T07:21:10.173Z
+date: 2024-09-29T01:37:02.363Z
+updated: 2024-10-01T07:36:44.660Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **powercfg.cpl**  into the box and press **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click the**High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a803558e52.jpg)
 3. Click **Restore default settings for this plan** .  
@@ -53,8 +50,12 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the screen resolution
 
  Another trick you can try is to adjust your screen to the recommended resolution. Here’s how:
@@ -69,21 +70,30 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In **Resolution** , click the drop-down menu and make sure **the recommended resolution**   is selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Keep track of your laptop screen and see if it displays properly this time. Still no joy? Please move on to**Fix 4** .
 
  **I’m using Windows 8 or 7:**
 
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Adjust the screen resolution one by one in the drop-down menu and see if there’s one that helps get rid of the screen flickering problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)  
  Still no joy? Please move on to**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -104,9 +114,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -116,35 +123,50 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Windows Desktop Manager
 
 1. On your keyboard, press **the**    **Windows logo key**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  and **R**  at the same time. Then type**services.msc** into the box and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a691fe0c.png)
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3. Double-click on **Desktop Window Manager Session Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b9fbc86c.jpg)
 4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
 5. Restart your computer and hopefully your laptop screen displays normally again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -171,8 +193,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,8 +200,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/missing-necessary-drivers-for-amd-video-card-on-pcs/"><u>[MISSING] Necessary Drivers for AMD Video Card on PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[New] In 2024, Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-the-digital-landscape-an-app-by-app-analysis-with-tiktok-and-snap/"><u>[Updated] 2024 Approved Navigating The Digital Landscape An App-by-App Analysis with TikTok & Snap</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-advanced-techniques-for-flawless-snapchat-edits/"><u>[Updated] Decoding Advanced Techniques for Flawless Snapchat Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>[Updated] In 2024, Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-monitor-phenomenon/"><u>Banish Blinky Monitor Phenomenon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/colorful-consequences-fix-for-lenovo-screen/"><u>Colorful Consequences - Fix for Lenovo Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/compatibility-quelled-windows-and-nvidia-7025nforce-630a/"><u>Compatibility Quelled: Windows & NVIDIA 7025/nForce 630A</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ce-discoverability-with-effective-video-tags-for-2024/"><u>Enhance Discoverability with Effective Video Tags for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-pros-and-cons-of-the-samsung-55-inch-ru7300-smart-led-a-complete-4k-television-assessment/"><u>Evaluating the Pros and Cons of the Samsung 55-Inch RU7300 Smart LED - A Complete 4K Television Assessment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-latest-optimize-win11-with-rtx210-driver-enhancements/"><u>NVIDIA's Latest: Optimize Win11 with RTX210 Driver Enhancements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamp-your-visual-experience-update-intel-gfx-driver-on-windows-10/"><u>Revamp Your Visual Experience - Update Intel GFX Driver on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/surface-pro-7s-flicker-fixation-manual/"><u>Surface Pro 7'S Flicker Fixation Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-software-in-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Software in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Windows UI: Now Visible in 10'S Display"
-date: 2024-09-09T02:19:52.153Z
-updated: 2024-09-10T02:19:52.153Z
+date: 2024-09-30T06:15:17.149Z
+updated: 2024-09-30T23:47:28.651Z
 tags:
   - win11
   - win10
@@ -20,29 +20,11 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -63,17 +45,18 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -92,46 +75,37 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -147,8 +121,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,8 +128,20 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-logitech-m185-webcam-software-and-drivers/"><u>Free Download: Logitech M185 Webcam Software and Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/groundbreaking-gear-for-virtual-reality-players/"><u>Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-crafting-unique-iphone-tones/"><u>In 2024, Step-by-Step Guide to Crafting Unique iPhone Tones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-a18-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo A18 Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-installation-error-code-c1900101-in-windows-11/"><u>Overcoming Installation Error Code C1900101 in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-upside-down-displays-on-win7/"><u>Resolve Upside-Down Displays on Win7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-battle-cry-fix-no-audio-issues-in-apex-legends-today/"><u>Revive the Battle Cry: Fix No Audio Issues in Apex Legends Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-non-detections-of-gpu-in-computer-systems/"><u>Solve Non-Detections of GPU in Computer Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-hidden-world-exploring-vlc-player-extras/"><u>The Hidden World Exploring VLC Player Extras</u></a></li>
+</ul></div>
 

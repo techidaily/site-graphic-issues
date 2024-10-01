@@ -1,7 +1,7 @@
 ---
 title: Achieving Flexible Desktop Size with Window 11 Updates
-date: 2024-08-15T07:24:21.417Z
-updated: 2024-08-16T07:24:21.417Z
+date: 2024-09-26T09:27:39.940Z
+updated: 2024-10-01T05:23:52.421Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c0
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,8 +39,12 @@ thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c0
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -67,16 +68,10 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R**  at the same time, type **devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -88,9 +83,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -105,18 +97,36 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -137,8 +147,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +154,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-vfx-wizards-windows-8/"><u>[Updated] 2024 Approved VFX Wizards Windows 8</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mc-homestead-architectural-wonders-for-2024/"><u>[Updated] MC Homestead Architectural Wonders for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-size-to-perfection/"><u>Adjusting Screen Size to Perfection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/customizing-screen-size-for-win11/"><u>Customizing Screen Size for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cutting-edge-nvidia-driver-for-gtx-1060/"><u>Cutting-Edge Nvidia Driver for GTX 1060</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-srt-to-sub-masterful-conversion-methods-explored/"><u>From SRT to SUB Masterful Conversion Methods Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-lenovo-mouse-pad-functioning-again-for-windows-users-versions-11-8-and-7/"><u>Get Your Lenovo Mouse Pad Functioning Again for Windows Users (Versions 11, 8, & 7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-cut-the-noise-get-smooth-beats-with-our-free-analyzers-today/"><u>In 2024, Cut the Noise - Get Smooth Beats with Our FREE Analyzers Today</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-micro-vlogs-a-step-by-step-guide/"><u>In 2024, Monetizing Micro-Vlogs A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maxed-out-visual-settings-for-windows-11/"><u>Maxed Out Visual Settings for Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-explained/"><u>The Ultimate Resource for Computer Enthusiasts: Tom's Hardware Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unblock-your-asus-webcam/"><u>Unblock Your ASUS Webcam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-710-screen-settings-preservation-how-to-fix-fixing-done/"><u>Windows 7/10 Screen Settings Preservation - How to Fix [Fixing Done]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Curing Laptop Screen Flickers in Lenovo Models
-date: 2024-08-15T07:20:36.663Z
-updated: 2024-08-16T07:20:36.663Z
+date: 2024-09-23T16:41:53.861Z
+updated: 2024-10-01T08:48:26.002Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/787952173ce9e83e0ef633a4cedb93e7fb52d657c
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -64,50 +68,48 @@ To update the BIOS of your Lenovo laptop:
 **2)**  Search the product you use with the search box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Troubleshoot hardware issues
 
  It is also possible that the problem with your Lenovo laptop screen results from interference from outside or a defective cable connection.
@@ -128,8 +130,6 @@ You can troubleshoot these hardware issues on your own:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,8 +137,16 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] In 2024, Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-streamline-your-youtube-thumbnail-process/"><u>[Updated] In 2024, Streamline Your YouTube Thumbnail Process</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimize-your-facebook-streaming-experience-with-these-methods/"><u>[Updated] Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-handy-tutorial-to-combat-xfffeeee-in-windows/"><u>A Handy Tutorial to Combat XFFFEEEE in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-down-on-game-delay-instances/"><u>Cut Down On Game Delay Instances</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/how-can-you-securely-access-and-save-video-content-from-a-private-instagram-profile/"><u>How Can You Securely Access and Save Video Content From a Private Instagram Profile?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-c1900101-during-windows-11-os-setup/"><u>Prevent and Resolve C1900101 During Windows 11 OS Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenshots-no-more-blank-spells-on-my-laptop/"><u>Screenshots No More Blank Spells on My Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-unite-without-problems/"><u>Windows & NVidia Unite Without Problems</u></a></li>
+</ul></div>
 

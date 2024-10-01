@@ -1,7 +1,7 @@
 ---
 title: Remedy for NVIDIA/Intel Graphic Switch Failure
-date: 2024-08-15T07:24:02.381Z
-updated: 2024-08-16T07:24:02.381Z
+date: 2024-09-27T09:21:00.421Z
+updated: 2024-10-01T07:50:29.074Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -64,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -88,8 +82,12 @@ There are two ways you can get the right drivers for your video cards: manually 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -97,8 +95,12 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -106,8 +108,12 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -117,15 +123,23 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -134,8 +148,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,8 +155,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-snapchat-soundscapes-full-playback-no-missed-beats/"><u>[New] 2024 Approved Snapchat Soundscapes Full Playback, No Missed Beats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>[Updated] Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-restoring-correct-self-image-amidst-message-distortion-for-2024/"><u>[Updated] Restoring Correct Self-Image Amidst Message Distortion for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/debugging-comresolution-for-os-windows-errors/"><u>Debugging: ComResolution for OS Windows Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-the-flashing-problems-for-good/"><u>Fixed the Flashing Problems for Good</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-health-experiences-enhanced-care/"><u>In 2024, Immersive Health Experiences, Enhanced Care</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-t2-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo T2 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/leveling-screen-horizontal-borders/"><u>Leveling Screen Horizontal Borders</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/leveraging-the-power-of-cookiebot-in-your-seo-strategy/"><u>Leveraging the Power of Cookiebot in Your SEO Strategy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-level-graphics-new-windows-10-driver-for-amds-hd-6950/"><u>Next Level Graphics: New Windows 10 Driver for AMD's HD 6950</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-overcome-c1900101-during-win10-deployment/"><u>Steps to Overcome C1900101 During Win10 Deployment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/students-save-more-on-music-learn-the-insider-tips-to-getting-a-discount-on-spotify-services/"><u>Students, Save More on Music: Learn the Insider Tips to Getting a Discount on Spotify Services</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-wobble-of-pro-7s-screen/"><u>Taming the Wobble of Pro 7'S Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-7-blank-screens/"><u>Troubleshooting Windows 7 Blank Screens</u></a></li>
+</ul></div>
 

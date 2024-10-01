@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obscured Views in Twitch Video
-date: 2024-09-04T07:09:57.668Z
-updated: 2024-09-05T07:09:57.668Z
+date: 2024-09-27T17:34:06.405Z
+updated: 2024-09-30T17:35:14.646Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 * [Fix 6: Switch in or out of hardware acceleration](#h-fix-6-switch-in-or-out-of-hardware-acceleration)
 * [Fix 7: Is it a server issue?](#h-fix-7-is-it-a-server-issue)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your network devices
 
  Twitch may go black if it loses its connection. Chances are you have a weak internet connection that doesn’t provide enough bandwidth for Twitch to stream properly. So the first thing we should look into is your network devices, which could become overflooded with cache if you have kept them on for too long a while.
@@ -50,6 +57,13 @@ Here’s how you go about it:
 
  You can test your internet to see if other devices and apps can be connected properly. If the connection is off, then you should contact your ISP for assistance. If the problem doesn’t lie with the router or modem, you can try boosting your connection a bit – moving your modem & router to a more central place in your home, limiting the number of devices connected to your network etc. If your internet is up and running but Twitch gives black screen, then you should move on to**Fix 2** to further narrow down the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your DNS settings
 
  DNS, or Domain Name System, is like the phonebook of the internet. It is a network component that matches the user-friendly domain names with the numberical format the computer recognizes (IP address). By default, you’re using the DNS server supplied by your ISP as the gateway to the web, but the server may be slow or ill-configured for caching, which effectively slows your internet connection.
@@ -59,53 +73,47 @@ Here’s how you go about it:
 1. On your keyboard, press the Windows logo key and R at the same time, then type   **control.exe /name Microsoft.NetworkAndSharingCenter** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/、name-Microsoft.NetworkAndSharingCenter-1.png)
 2. In the window that pops up, click **Change adapter settings** .  
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next up, you can run the**ipconfig /flushdns** command for the changes to apply. Here’s how:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -121,12 +129,6 @@ Here’s how you go about it:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
@@ -140,18 +142,6 @@ Here’s how you go about it:
 2. In the top right corner of your screen, click the**three-vertical-dots** icon >**More tools > Clear browsing data…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cachechrome.png)
 3. Click**Clear data** .  
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
@@ -162,26 +152,24 @@ Here’s how you go about it:
 2. Click**the menu button** \>**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
+
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
@@ -189,35 +177,18 @@ Here’s how you go about it:
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable browser extensions
 
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
 
  If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Switch in or out of hardware acceleration
 
  Hardware acceleration refers to the process where a software program pass off computing tasks to special hardware, allowing greater efficiency for those graphics-demanding tasks than the software running on the CPU alone
@@ -247,12 +218,6 @@ Here’s how you go about it:
 4. Exit Firefox.
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Is it a server issue?
 
  If you’ve exhausted all the fixes above but Twitch is still showing black screen, perhaps it’s time to check the server status for Twitch. It is possibe that the servers have been taken down for performance maintenance or bug patches. If this is indeed the case, then there is not much you can do but wait for the developer staff to do their thing and restore the servers.
@@ -270,8 +235,6 @@ Here’s how you go about it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,8 +242,21 @@ Here’s how you go about it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>[New] In 2024, Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhancing-user-engagement-through-fb-slideshows/"><u>Enhancing User Engagement Through FB Slideshows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-sound-drift-on-airpods-turn-off-the-dynamic-headtracking-feature-for-a-solution/"><u>Experiencing Sound Drift on AirPods? Turn Off the Dynamic Headtracking Feature for a Solution!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-gpu-error-43-successfully/"><u>Fixing GPU Error 43 Successfully</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a15-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A15 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ios-and-android-downloading-and-personalizing-whatsapp-tones/"><u>IOS & Android Downloading & Personalizing WhatsApp Tones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-flicker-resolution-achieved-successfully/"><u>Laptop Display Flicker: Resolution Achieved Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-responding-to-fullscreen-mode-win10/"><u>Monitor Not Responding to Fullscreen Mode, Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173428059-oled-gaming-tech-why-i-made-the-switch-in-2-years/"><u>OLED Gaming Tech: Why I Made the Switch in 2 Years</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-sims-screensaver-stop/"><u>Rectify Sims Screensaver Stop</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-no-monetary-barriers-to-professional-sound-blending-top-free-audio-software-tools-for-2024/"><u>Updated No Monetary Barriers to Professional Sound Blending Top Free Audio Software Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/winxvideoai-accelere-rapidamente-videos-y-audios-usando-la-potencia-de-tu-gpu/"><u>WinxVideoAI: Accelere Rápidamente Videos Y Audios Usando La Potencia De Tu GPU</u></a></li>
+</ul></div>
 

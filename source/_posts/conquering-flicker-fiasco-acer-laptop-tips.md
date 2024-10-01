@@ -1,7 +1,7 @@
 ---
 title: "Conquering Flicker Fiasco: Acer Laptop Tips"
-date: 2024-09-19T08:19:07.833Z
-updated: 2024-09-26T11:18:46.833Z
+date: 2024-09-28T10:42:22.067Z
+updated: 2024-09-30T21:39:29.276Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 3. **[Update your graphics driver](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**
@@ -57,6 +57,13 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -68,6 +75,13 @@ Here is how to change the screen refresh rate:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Advanced settings** .
 
@@ -81,13 +95,6 @@ Here is how to change the screen refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update or delete incompatible apps
 
  1) On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** .
@@ -100,10 +107,10 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -119,13 +126,6 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -161,22 +161,24 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-insta-flip-fundamentals-understanding-video-angles-for-max-impact/"><u>[New] Insta-Flip Fundamentals Understanding Video Angles for Max Impact</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-essential-guide-to-creating-effective-video-loops-on-instagram/"><u>[Updated] In 2024, The Essential Guide to Creating Effective Video Loops on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[Updated] What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activating-disabled-freesync-on-amd-gpus/"><u>Activating Disabled FreeSync on AMD GPUs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-nlps-role-versus-mls-role/"><u>Deciphering NLP's Role Versus ML's Role</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-dell-xps-15-performance-in-windows-a-comprehensive-guide-to-updating-key-device-drivers/"><u>Enhance Your Dell XPS 15 Performance in Windows: A Comprehensive Guide to Updating Key Device Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-lines-on-laptop-straighten-horizontal-borders/"><u>Fix Lines on Laptop - Straighten Horizontal Borders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-disabled-gpu-settings-on-windows-devices-win1011/"><u>Fixing Disabled GPU Settings on Windows Devices (Win10/11)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/heal-displays-with-smooth-transitions/"><u>Heal Displays with Smooth Transitions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-avatar-designs-for-the-metaverse-enthusiast/"><u>In 2024, Cutting-Edge Avatar Designs for the Metaverse Enthusiast</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-drivers-tdr-error-corrected/"><u>NVIDIA Drivers: TDR Error Corrected</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y36i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y36i</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-tempestuous-screens-in-vista-or-win7/"><u>Taming the Tempestuous Screens in Vista or Win7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-power-up-updated-nvidia-drivers-for-windows-enthusiasts/"><u>Visual Power-Up: Updated NVIDIA Drivers for Windows Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-blue-screen-issue-fixed/"><u>Windows 10 Blue Screen Issue Fixed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-platinum-version-free-key-generator-download/"><u>WinX DVD Ripper Platinum Version Free Key Generator - Download</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-methods-for-archiving-digital-meeting-recordings/"><u>[Updated] Easy Methods for Archiving Digital Meeting Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-easiest-way-to-shorten-youtube-links-here-are-the-top-5-choices-for-2024/"><u>[Updated] The Easiest Way to Shorten YouTube Links? Here Are the Top 5 Choices for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-guide-to-rearranging-your-youtube-collection/"><u>2024 Approved Quick Guide to Rearranging Your YouTube Collection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-views-reignited-on-win11-screens/"><u>Crisp Views Reignited on Win11 Screens</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-t2-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo T2 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-podcasters-guide-to-premium-recorders/"><u>In 2024, Podcaster's Guide to Premium Recorders</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-correction-of-jittery-viewing/"><u>Instant Correction of Jittery Viewing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-windows-interface-extensiveness/"><u>Reduce Windows Interface Extensiveness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-normal-screen-orientation-in-windows-10/"><u>Restore Normal Screen Orientation in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frustrating-lags-10-effective-solutions-for-an-optimal-battlefield-5-experience/"><u>Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-black-screens-restore-your-laptops-life/"><u>Solve Black Screens, Restore Your Laptop's Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-lenovo-display-stop-screen-flicker/"><u>Solving Lenovo Display: Stop Screen Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sync-your-display-flicker-free-surface-pro-7/"><u>Sync Your Display: Flicker-Free Surface Pro 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergy-of-gpt-and-cryptocurrency-discussions/"><u>Synergy of GPT and Cryptocurrency Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-approaches-to-engaging-with-online-video-reviews-for-2024/"><u>Transformative Approaches to Engaging with Online Video Reviews for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-cause-of-xbox-connectivity-issues-is-it-a-server-malfunction-or-local-network-glitches/"><u>Understanding the Cause of Xbox Connectivity Issues: Is It a Server Malfunction or Local Network Glitches?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninstalling-graphics-drivers-made-fast-and-easy/"><u>Uninstalling Graphics Drivers Made Fast & Easy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-vanished-visuals-on-electronic-screens/"><u>Unveiling Vanished Visuals on Electronic Screens</u></a></li>
 </ul></div>
 

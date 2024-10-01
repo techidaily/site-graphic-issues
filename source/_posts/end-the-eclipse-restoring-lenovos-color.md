@@ -1,7 +1,7 @@
 ---
 title: "End the Eclipse: Restoring Lenovo's Color"
-date: 2024-09-11T21:10:12.389Z
-updated: 2024-09-14T19:23:56.473Z
+date: 2024-09-24T09:45:05.890Z
+updated: 2024-10-01T10:23:13.236Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
@@ -64,10 +71,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -85,13 +92,6 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -120,10 +120,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
@@ -137,10 +137,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
@@ -154,19 +154,6 @@ So you can try disabling fast startup to see if it does the trick:
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -182,6 +169,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
@@ -193,6 +187,13 @@ So you can try disabling fast startup to see if it does the trick:
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -218,5 +219,20 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-distinctive-digital-monikers-for-video-creators/"><u>[New] 2024 Approved Distinctive Digital Monikers for Video Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-conquer-chrome-multitasking-learn-to-utilize-pip-effectively/"><u>[New] Conquer Chrome Multitasking Learn to Utilize PIP Effectively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reclaim-lost-watch-video-preview/"><u>[New] In 2024, Reclaim Lost Watch Video Preview</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-watch-facebook-live-on-your-apple-media-hub/"><u>[Updated] In 2024, How to Watch Facebook Live on Your Apple Media Hub</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-acurite-pro-weather-station-model-01036m-user-friendly-setup-and-reliable-design-reviewed/"><u>Evaluating the AcuRite Pro Weather Station (Model 01036M): User-Friendly Setup & Reliable Design Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-pc-stuttering-solved-expert-tips-for-smooth-gameplay/"><u>Fortnite PC Stuttering Solved? Expert Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invert-display-window-7-solution/"><u>Invert Display Window 7 Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-battery-drained-laptop-screens/"><u>Overcoming Battery-Drained Laptop Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-clarity-mastered-in-windows-11-update/"><u>Screen Clarity Mastered in Windows 11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-shiver-in-windows-11/"><u>Stop Screen Shiver in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-13-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 13 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolving-inpage-fault-issues-in-the-kernel/"><u>Troubleshooting and Resolving Inpage Fault Issues in the Kernel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-stream-fix-after-upgrade/"><u>Windows 10 Stream Fix After Upgrade</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dying Light Audio Malfunction Repaired: Step-by-Step Solutions"
-date: 2024-09-19T06:44:14.510Z
-updated: 2024-09-25T19:26:01.615Z
+date: 2024-09-28T04:51:20.539Z
+updated: 2024-10-01T14:55:17.635Z
 tags:
   - win11
   - win10
@@ -57,31 +57,11 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -89,27 +69,7 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
@@ -120,6 +80,13 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -139,17 +106,24 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -173,10 +147,10 @@ Here are the system requirements for Control:
 4. Click 3D to open the 3D settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
@@ -224,10 +198,10 @@ Here are the system requirements for Control:
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
@@ -235,6 +209,13 @@ Here are the system requirements for Control:
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
 
@@ -247,6 +228,13 @@ Here are the system requirements for Control:
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Control.
@@ -254,19 +242,6 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -279,6 +254,13 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -306,21 +288,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-picks-and-tips-for-thriving-in-valheim/"><u>[Updated] 2024 Approved Top Picks & Tips for Thriving in Valheim</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-macos-sierra-switching-back-to-os-x-el-capitan/"><u>[Updated] In 2024, MacOS Sierra Switching Back To OS X El Capitan</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-action-triumphs-the-top-games-compilation/"><u>2024 Approved Essential Action Triumphs The Top Games Compilation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screencapture-pro-latest-2023-edition-review/"><u>2024 Approved ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-texture-ambiguity-in-far-cry-6/"><u>Addressing Texture Ambiguity in Far Cry 6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-stroboscopic-effects-from-acer-pcs/"><u>Eliminating Stroboscopic Effects From Acer PCs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-intova-x-changes-action-camera-game-for-2024/"><u>How Intova X Changes Action Camera Game for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-quickly-solve-the-d3d-graphics-error-errgfxd3dinit-in-your-gta-v-gameplay-experience/"><u>How to Quickly Solve the D3D Graphics Error (ERR_GFX_D3D_INIT) in Your GTA V Gameplay Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-remove-a-desktop-discord-server/"><u>How to Remove a Desktop Discord Server</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-woes-masterful-fixes-for-a-seamless-typing-experience/"><u>HP Wireless Keyboard Woes? Masterful Fixes for a Seamless Typing Experience</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refreshing-intels-windows-7-graphics-driver/"><u>Refreshing Intel's Windows 7 Graphics Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/settling-dispute-geforce-and-nforce-with-windows-10/"><u>Settling Dispute - GeForce and nForce with Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-resource-leaks-in-civilization-v/"><u>Solving Resource Leaks in Civilization V</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-curtail-anthems-hesitation/"><u>Tips to Curtail Anthem's Hesitation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unresponsive-windows-10-monitor/"><u>Unresponsive Windows 10 Monitor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-superior-5-sites-matching-twitters-features/"><u>[Updated] 2024 Approved Superior 5 Sites Matching Twitter's Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-holistic-iphone-use-images-and-videos-fused-together/"><u>2024 Approved Holistic iPhone Use Images & Videos Fused Together</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-lightning-fast-windows-photo-inspector/"><u>2024 Approved Lightning-Fast Windows Photo Inspector</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-13c-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi 13C 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-latency-solutions/"><u>Anthem Latency Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-note-50-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme Note 50 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/darkened-vision-new-graphics-patch/"><u>Darkened Vision - New Graphics Patch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-past-starting-trouble-a-guide-to-repairing-teso-launch-problems/"><u>Getting Past Starting Trouble: A Guide to Repairing TESO Launch Problems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-roundup-yts-shocking-reality-of-17/"><u>In 2024, Infographic Roundup YT's Shocking Reality of '17</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-craftsmanship-incorporating-descriptive-texts/"><u>In 2024, Instagram Craftsmanship Incorporating Descriptive Texts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-huawei-nova-y71-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Huawei Nova Y71? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-save-game-errors-civ-5/"><u>Overcoming Save Game Errors, Civ 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-loading-issue-amds-detector-in-win10/"><u>Resolved Loading Issue - AMD's Detector in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fallout-4-stability-issues-for-pc-gamers/"><u>Resolved: Fallout 4 Stability Issues for PC Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-pixelated-playback/"><u>Say Goodbye to Pixelated Playback</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-flashback-on-lenovo-laptops/"><u>Stop Screen Flashback on Lenovo Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-intel-graphics-on-windows-11/"><u>Swift Fix for Intel Graphics on Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-nord-n30-se-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus Nord N30 SE FRP Bypass</u></a></li>
 </ul></div>
 

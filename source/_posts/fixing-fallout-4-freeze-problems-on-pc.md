@@ -1,7 +1,7 @@
 ---
 title: Fixing Fallout 4 Freeze Problems on PC
-date: 2024-09-04T07:09:57.474Z
-updated: 2024-09-05T07:09:57.474Z
+date: 2024-09-24T23:24:53.281Z
+updated: 2024-09-30T22:33:01.233Z
 tags:
   - win11
   - win10
@@ -32,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -47,11 +41,18 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
@@ -74,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -82,12 +90,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 4) Restart your computer and open your Fallout 4.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **4\. Temporarily disable the antivirus program**
 
  As known, the antivirus program in your computer is possible incompatible with your Steam games, including Fallout 4\. So you can check your antivirus program. To do so, follow these steps:
@@ -101,11 +103,12 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 If the issue persists, try the following method.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -117,29 +120,18 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -154,8 +146,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,8 +153,21 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-transform-playtime-into-memories-with-switch-videos/"><u>[New] Transform Playtime Into Memories with Switch Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>[Updated] 2024 Approved From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-iphone-tricks-for-stunning-reflection-shots/"><u>[Updated] Pro iPhone Tricks for Stunning Reflection Shots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-gpu-shutdown-in-windows-1011-pcs/"><u>Addressing GPU Shutdown in Windows 10/11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817511865-banish-frame-lag-swift-hassle-free-fixes/"><u>Banish Frame Lag: Swift, Hassle-Free Fixes!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-urgently-no-gpu-detected/"><u>Fix Urgently: No GPU Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-overcoming-non-detection-of-vga-hardware/"><u>Guide to Overcoming Non-Detection of VGA Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-lava-agni-2-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Lava Agni 2 5G?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-methods-for-swift-file-exchange-apples-ecosystem/"><u>In 2024, Advanced Methods for Swift File Exchange Apple's Ecosystem</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-accessibility-hub-in-5-simple-steps/"><u>Master the Windows Accessibility Hub - In 5 Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-horizontality/"><u>Perfecting Visual Horizontality</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-windows-10-hardware-performance-with-proven-driver-update-techniques/"><u>Revitalize Your Windows 10 Hardware Performance with Proven Driver Update Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-media-in-a-flash-using-winxvideos-ai-enhanced-gpu-speed-for-videos-and-audios/"><u>Transform Your Media in a Flash Using WinxVideo's AI-Enhanced GPU Speed for Videos and Audios</u></a></li>
+</ul></div>
 

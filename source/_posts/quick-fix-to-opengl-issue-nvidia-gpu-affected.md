@@ -1,7 +1,7 @@
 ---
 title: Quick Fix to OpenGL Issue - NVIDIA GPU Affected
-date: 2024-09-18T23:01:37.243Z
-updated: 2024-09-19T22:34:54.015Z
+date: 2024-09-27T20:35:59.406Z
+updated: 2024-09-30T20:44:03.034Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -57,9 +64,29 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -75,21 +102,7 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -108,18 +121,18 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -143,5 +156,23 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-zdsoft-capture-master-overview-and-evaluation/"><u>[New] In 2024, ZDSoft Capture Master Overview & Evaluation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-engaging-live-streamed-gaming-experiences-for-2024/"><u>[Updated] Crafting Engaging Live-Streamed Gaming Experiences for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-blurry-monitor-borders-with-simple-steps/"><u>Fix Blurry Monitor Borders with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-not-recognized-resolve-immediately/"><u>GPU Not Recognized, Resolve Immediately</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-lava-blaze-2-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Lava Blaze 2 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-androids-chosen-3ds-game-simulators/"><u>In 2024, Android's Chosen 3DS Game Simulators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-graphic-design-journeys-from-passion-to-profession/"><u>In 2024, Graphic Design Journeys From Passion to Profession</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-edge-40-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Edge 40</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigating-graphics-driver-fails-without-system-lockup/"><u>Mitigating Graphics Driver Fails Without System Lockup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-troubleshooting-guide-restoring-your-origin-connectivity/"><u>Online Troubleshooting Guide: Restoring Your Origin Connectivity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-aspect-ratio-for-sideways-tablet-view/"><u>Rectified Aspect Ratio for Sideways Tablet View</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamping-apex-legends-faster-play-now-available/"><u>Revamping Apex Legends - Faster Play Now Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-curser-disappearing/"><u>Solved: Windows 11 Curser Disappearing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-enhancing-your-pc-with-a-new-graphics-card/"><u>Step-by-Step Guide: Enhancing Your PC with a New Graphics Card</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/web-based-fb-music-extractor/"><u>Web-Based FB Music Extractor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-geforce-in-harmony-found/"><u>Windows & NVidia GeForce in Harmony Found</u></a></li>
+</ul></div>
 

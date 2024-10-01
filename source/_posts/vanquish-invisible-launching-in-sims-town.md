@@ -1,7 +1,7 @@
 ---
 title: Vanquish Invisible Launching in Sims Town
-date: 2024-09-18T22:01:20.069Z
-updated: 2024-09-20T00:33:20.445Z
+date: 2024-09-26T21:47:44.885Z
+updated: 2024-10-01T05:12:00.911Z
 tags:
   - win11
   - win10
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -73,13 +87,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -91,6 +98,13 @@ Here is how to do it:
  2) In the **Command Line Arguments** box, type **\-w** and click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
 
@@ -109,25 +123,32 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
@@ -139,13 +160,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -213,5 +227,21 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-yt-storytellers-for-enthralling-viewing-experience/"><u>[New] Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-becoming-a-pro-with-obs-gaming-recordings-for-2024/"><u>[Updated] Becoming a Pro with OBS Gaming Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginner-to-expert-choose-studio-or-beta-for-2024/"><u>[Updated] From Beginner to Expert Choose Studio or Beta for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-master-the-art-of-audible-social-media-posts-without/"><u>[Updated] In 2024, Master the Art of Audible Social Media Posts (Without)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/every-game-for-the-new-playstation-vr2-a-comprehensive-listing/"><u>Every Game for the New PlayStation VR2: A Comprehensive Listing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-narzo-60x-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme Narzo 60x 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-tom-dissects-and-discusses-cutting-edge-hardware/"><u>Unveiling Tech Secrets: Tom Dissects and Discusses Cutting-Edge Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user-guide-to-downloading-and-using-the-latest-snappy-driver-installer-v113/"><u>User Guide to Downloading and Using the Latest Snappy Driver Installer V1.13</u></a></li>
+</ul></div>
 

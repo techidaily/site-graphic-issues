@@ -1,7 +1,7 @@
 ---
 title: End the Frustrating PC Crash of Fallout 4
-date: 2024-09-23T05:54:18.169Z
-updated: 2024-09-26T06:49:32.848Z
+date: 2024-09-25T23:29:04.811Z
+updated: 2024-10-01T00:12:52.518Z
 tags:
   - win11
   - win10
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -47,18 +40,18 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
 
@@ -82,20 +75,14 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -109,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -119,18 +113,18 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -155,22 +149,20 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-aeon-matrix-the-single-screen-superior-desk/"><u>2024 Approved Aeon Matrix The Single Screen, Superior Desk</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>2024 Approved M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726225296425-swfmp4movavi/"><u>完全無料：SWFからMP4に高速変換ツール！Movavi 使い方詳しく学ぶ</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-lcd-issues-hp-laptop-fix/"><u>Addressing LCD Issues: HP Laptop Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/deciphered-the-veiled-direct-x-discreprancy-in-legion/"><u>Deciphered the Veiled Direct X Discreprancy in Legion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818312100-efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-magic-6-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor Magic 6 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-the-dreaded-page-not-found-404-error-online/"><u>How To Overcome The Dreaded Page Not Found (404) Error Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-pova-5-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminating-shadows-decoding-the-mysterious-dx-error-in-lol/"><u>Illuminating Shadows: Decoding the Mysterious DX Error in LoL</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-drive-shedding-guide-for-graphics-removal/"><u>Instant Drive Shedding - Guide for Graphics Removal</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-gpu-malfunction-alert-nvidia/"><u>Resolved: GPU Malfunction Alert (NVIDIA)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-future-of-playstation-now-with-the-alienware-aurora-r9-by-dell-an-expert-analysis-and-review/"><u>The Future of PlayStation Now with the Alienware Aurora R9 by Dell - An Expert Analysis & Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-streaming-problems-on-windows-10-after-upgrade-solved/"><u>Video Streaming Problems on Windows 10 After Upgrade [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-consumers-blueprint-mastering-the-art-of-purchasing-and-setting-up-your-dream-tv-at-home/"><u>A Consumer’s Blueprint: Mastering the Art of Purchasing and Setting Up Your Dream TV at Home</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/accelerating-your-videos-in-5-simple-steps-a-guide-to-creating-quicker-clips/"><u>Accelerating Your Videos in 5 Simple Steps: A Guide to Creating Quicker Clips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-100-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor 100 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/immerse-in-the-world-of-tamriel-with-instant-skyrim-gameplay-on-geforce-now-platform/"><u>Immerse in the World of Tamriel with Instant Skyrim Gameplay on GeForce Now Platform.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-9-windows-gif-capture-tools-perfect-animation-preservation/"><u>In 2024, Top 9 Windows GIF Capture Tools Perfect Animation Preservation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-why-your-youtube-comments-may-not-appear/"><u>Troubleshooting Guide: Why Your YouTube Comments May Not Appear</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus 12R | Dr.fone</u></a></li>
 </ul></div>
 

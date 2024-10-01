@@ -1,7 +1,7 @@
 ---
 title: Beat Blackout Blankness in Sims
-date: 2024-09-09T02:19:52.025Z
-updated: 2024-09-10T02:19:52.025Z
+date: 2024-09-28T17:18:47.913Z
+updated: 2024-10-01T08:14:06.820Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Sims Game Strategies,Overcoming Sims Power Outage Glitch,Sims Troubles
 thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b305b1fab49ef5afa3945895c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beat Blackout Blankness in Sims
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
@@ -35,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -78,17 +73,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -96,6 +86,19 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -109,18 +112,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -141,22 +132,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and The Sims 4
 
  You may encounter a white loading screen on The Sims 4 if the files in Origin or The Sims 4 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -171,6 +157,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -184,17 +177,12 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Does your PC meet the requirements?
 
  If all else fails, then you might have to check if the specs of your PC to see if it meets the requirements of the game.
@@ -214,22 +202,10 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
@@ -250,8 +226,6 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,8 +233,22 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/solution-missing-displays-in-windows-10/"><u>[SOLUTION]: Missing Displays in Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>[Updated] In 2024, Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revamping-videos-the-art-of-editing-via-story-remix-and-windows-photos/"><u>[Updated] Revamping Videos The Art of Editing via Story Remix and Windows Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-photos-and-videos-playing-with-text-deformation/"><u>2024 Approved Framing Photos & Videos Playing With Text Deformation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-durable-omoton-t1-tablet-stand-comprehensive-review/"><u>Affordable and Durable Omoton T1 Tablet Stand - Comprehensive Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-driver-loading-now-fully-operational-on-win10/"><u>AMD Driver Loading - Now Fully Operational on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dousing-disruptive-dance-in-your-acer-screen/"><u>Dousing Disruptive Dance in Your Acer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-black-screen-on-tv-via-hdmi-connection/"><u>Fixing Black Screen on TV via HDMI Connection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-14-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi 14 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-neo-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme GT Neo 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/msi-pro-mp161-e2-the-epitome-of-convenient-compact-monitor-technology-for-professionals/"><u>MSI Pro MP161 E2 - The Epitome of Convenient, Compact Monitor Technology for Professionals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-win-781011-graphic-driver-flaws/"><u>Rectifying WIN 7/8/10/11 Graphic Driver Flaws</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-driver-debugged-at-code-43/"><u>Video Driver Debugged at Code #43</u></a></li>
+</ul></div>
 

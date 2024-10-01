@@ -1,7 +1,7 @@
 ---
 title: Override Sims Game Freeze
-date: 2024-09-11T02:20:09.479Z
-updated: 2024-09-15T05:39:41.574Z
+date: 2024-09-24T18:00:50.043Z
+updated: 2024-10-01T08:55:47.760Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -47,11 +54,31 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -64,6 +91,13 @@ Here is how to do it:
 2) Click **My Game Library** , then right-click on **The Sims 4** and click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
 
@@ -105,6 +139,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
@@ -119,29 +160,9 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -154,13 +175,6 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -186,10 +200,16 @@ Here is how to check if your computer spec has met the requirements:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
@@ -219,5 +239,16 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>[Updated] Tycoon Titans The #12 Game Series for Budding Business Masters</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/acer-screens-banishing-blinding-flashes/"><u>Acer Screens: Banishing Blinding Flashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-zoom-performance-on-chrome-devices/"><u>Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprimere-mp4-comment-minimiser-lespace-tout-en-conservant-une-excellente-qualite-visuelle/"><u>Comprimere MP4 : Comment Minimiser L'espace Tout en Conservant Une Excellente Qualité Visuelle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-preventing-palworld-from-crashing-on-personal-computers/"><u>Effective Solutions for Preventing PalWorld From Crashing on Personal Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mobilizing-a-passive-gpu-fan/"><u>Mobilizing a Passive GPU Fan</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigate-non-operational-asus-cam-woes/"><u>Navigate Non-Operational Asus Cam Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-surface-pro-7s-screenshot-stutter/"><u>Solving Surface Pro 7'S Screenshot Stutter</u></a></li>
+</ul></div>
 

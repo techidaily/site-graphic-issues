@@ -1,7 +1,7 @@
 ---
 title: Fixing ASUS Monitor Flicker with Ease
-date: 2024-09-08T17:09:09.099Z
-updated: 2024-09-14T22:05:11.899Z
+date: 2024-09-29T04:02:24.904Z
+updated: 2024-10-01T02:10:23.156Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
@@ -52,6 +60,14 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -69,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -83,16 +106,16 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -101,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -143,5 +166,24 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming-for-2024/"><u>[New] Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xcellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[New] Excellent Video & Picture Capture for iPhones & Androids Here!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-accessing-shared-media-on-messenger/"><u>[New] In 2024, Accessing Shared Media on Messenger</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-vimeo-cutting-suite-revealed/"><u>[New] In 2024, Ultimate Vimeo Cutting Suite Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-real-time-broadcasting-with-manycam-enhance-your-streams-with-powerful-virtual-camera-features/"><u>1. Real-Time Broadcasting with ManyCam - Enhance Your Streams with Powerful Virtual Camera Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brightening-up-decorative-elements-in-fc6/"><u>Brightening Up Decorative Elements in FC6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-the-glow-reignite-your-laptops-display/"><u>Bringing Back the Glow: Reignite Your Laptop's Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discovering-the-veiled-dx-misstep-lols-resolved-mishap/"><u>Discovering the Veiled DX Misstep - LoL's Resolved Mishap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-mend-your-gpu-excludes-screen-connections/"><u>Easy Mend: Your GPU Excludes Screen Connections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-fix-windows-11-graphics-3000-driver-update-guide/"><u>Fast Fix: Windows 11 - Graphics 3000 Driver Update Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-after-windows-11-installation/"><u>GPU Status Normalized After Windows 11 Installation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-poco-x6-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Poco X6 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-no-full-screen-windows-11-problem/"><u>Monitor No FULL SCREEN: Windows 11 Problem</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/opening-swf-files-a-comprehensive-guide-for-pc-users/"><u>Opening SWF Files: A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tripped-nvidia-installation-barrier-tackled/"><u>Tripped: NVIDIA Installation Barrier Tackled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-imovies-potential-youtube-video-edition-excellence-for-2024/"><u>Unlocking iMovie's Potential YouTube Video Edition Excellence for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-alternatives-to-powerdirector-top-mobile-video-editing-software/"><u>Updated In 2024, Alternatives to PowerDirector Top Mobile Video Editing Software</u></a></li>
+</ul></div>
 

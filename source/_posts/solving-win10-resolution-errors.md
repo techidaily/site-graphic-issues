@@ -1,7 +1,7 @@
 ---
 title: Solving Win10 Resolution Errors
-date: 2024-08-15T07:22:13.413Z
-updated: 2024-08-16T07:22:13.413Z
+date: 2024-09-26T19:27:05.594Z
+updated: 2024-10-01T07:11:33.334Z
 tags:
   - win11
   - win10
@@ -27,8 +27,12 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 3. **[Turn on GPU Scaling](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -55,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -75,10 +83,6 @@ Here is how to do it:
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -87,8 +91,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -102,22 +110,23 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -138,8 +147,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,8 +154,26 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-decoding-the-earning-dynamics-for-podcasters/"><u>[New] 2024 Approved Decoding the Earning Dynamics for Podcasters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-achieving-professionalism-with-zoom-filter-applications/"><u>[New] Achieving Professionalism with Zoom Filter Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>[Updated] 2024 Approved Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-the-top-6-free-and-online-shorts-collectors/"><u>2024 Approved Secrets to the Top 6 Free & Online Shorts Collectors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activating-the-slumbering-gpu-fan/"><u>Activating the Slumbering GPU Fan</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-vivo-t2x-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Vivo T2x 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-awakening-post-blackout-win11/"><u>Cursor Awakening Post-Blackout Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-init-no-more-hurdles/"><u>Direct3D Init: No More Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-play-by-reducing-latency/"><u>Enhance Play by Reducing Latency</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-problem-no-cards-detected/"><u>Graphics Problem: No Cards Detected</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-lapses-secure-display-on-dell-laptop/"><u>No More Lapses: Secure Display on Dell Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-video-card-glitch-prevent-crash/"><u>Rectify Video Card Glitch, Prevent Crash</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-display-distortion-issues-pc/"><u>Solve Display Distortion Issues (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/syncing-interoperability-with-fixes-for-windows-comerror/"><u>Syncing Interoperability with Fixes for Windows COMError</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fixes-for-non-working-nvidia-high-definition-audio-on-computers/"><u>The Ultimate Fixes for Non-Working Nvidia High Definition Audio on Computers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transform-your-presence-on-facebook-through-live-broadcasting-for-2024/"><u>Transform Your Presence on Facebook Through Live Broadcasting for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Corrected Aspect Ratio for Flexible Display
-date: 2024-09-24T06:02:10.267Z
-updated: 2024-09-25T21:05:16.904Z
+date: 2024-09-26T12:45:09.523Z
+updated: 2024-09-30T22:33:17.592Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -43,24 +56,17 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -76,20 +82,20 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -113,20 +119,16 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-jubilant-join-and-leave-steps/"><u>[New] In 2024, Jubilant Join & Leave Steps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-simplified-steps-for-cutting-top-sports-videos/"><u>[New] In 2024, Simplified Steps for Cutting Top Sports Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/patch-required-integrate-amd-graphics-with-winxpvista/"><u>[PATCH REQUIRED] Integrate AMD Graphics with WinXP/Vista</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-best-8-concealed-video-downloading-software-of-2023-for-2024/"><u>[Updated] Best 8 Concealed Video Downloading Software of 2023 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-vidmas-technology-in-screen-capturing-spotlighted/"><u>[Updated] Vidma’s Technology in Screen Capturing Spotlighted</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-introduce-dynamic-blurring-to-pics-in-ps/"><u>2024 Approved Introduce Dynamic Blurring to Pics in PS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817661009-asus-cam-not-working-heres-how-to-fix-it/"><u>Asus Cam Not Working? Here's How To Fix It!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cam-problems-save-your-asus/"><u>Cam Problems? Save Your ASUS!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/digital-tapestry-crafting-visual-narratives/"><u>Digital Tapestry Crafting Visual Narratives</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-fullscreen-display-win11-monitor-issue/"><u>Missing Fullscreen Display: Win11 Monitor Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoration-of-screen-preferences-achieved/"><u>Restoration of Screen Preferences Achieved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stepping-up-performance-in-underpowered-systems/"><u>Stepping Up Performance in Underpowered Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/vital-tips-for-optimal-router-shopping-decisions/"><u>Vital Tips for Optimal Router Shopping Decisions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screensnap-chromecast-quick-video-capture/"><u>[New] 2024 Approved ScreenSnap Chromecast Quick Video Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-instagram-content-with-visual-flair/"><u>[New] Crafting Instagram Content with Visual Flair</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[New] In 2024, Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypass-game-lag-in-anthem/"><u>Bypass Game Lag in Anthem</u></a></li>
+<li><a href="https://network-issues.techidaily.com/demystifying-4k-video-sharpness/"><u>Demystifying 4K Video Sharpness</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-galaxy-s10plus-stand-against-its-successor-the-s20-insights-and-reviews/"><u>How Does the Samsung Galaxy S10+ Stand Against Its Successor, the S20? Insights and Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-microsofts-basic-driver-more-reliable/"><u>Making Microsoft's Basic Driver More Reliable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-hdmi-link-between-notebook-and-television/"><u>Restoring HDMI Link Between Notebook & Television</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-infinity-sapphire-probe/"><u>Revived Infinity Sapphire Probe</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-enigma-of-direct-x-ends-with-a-patch-in-lol/"><u>The Enigma of Direct X Ends with a Patch in LoL</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-audio-a-rapid-guide-on-converting-mp4-files-to-wave-format/"><u>Transforming Audio: A Rapid Guide on Converting MP4 Files to Wave Format</u></a></li>
 </ul></div>
 

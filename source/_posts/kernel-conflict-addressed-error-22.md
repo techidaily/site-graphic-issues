@@ -1,7 +1,7 @@
 ---
 title: "Kernel Conflict Addressed: Error 22"
-date: 2024-09-23T19:45:22.806Z
-updated: 2024-09-26T07:35:24.099Z
+date: 2024-09-28T03:36:43.563Z
+updated: 2024-10-01T00:32:57.014Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -42,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -61,10 +68,10 @@ Be careful you don’t mistype, or press the wrong keys!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
@@ -82,23 +89,10 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -142,19 +136,20 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers-for-2024/"><u>[New] Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaired-nvidia-drivers-post-error-restoration/"><u>[Repaired] Nvidia Drivers Post-Error Restoration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-strategic-approaches-to-dominating-spotifys-ad-space/"><u>[Updated] In 2024, Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-views-mastery-of-title-and-tag-optimization/"><u>[Updated] Skyrocket Views Mastery of Title and Tag Optimization</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-back-your-dormant-laptop-screen/"><u>Bringing Back Your Dormant Laptop Screen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/comparing-vsdc-to-best-screen-recording-software-for-2024/"><u>Comparing VSDC to Best Screen Recording Software for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-stutter-on-windows-7/"><u>Eliminate Screen Stutter on Windows 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-process-of-ai-transfer-learning-key-concepts-unveiled/"><u>Exploring the Process of AI Transfer Learning - Key Concepts Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-activation-confirmed-for-latest-windows-11-laptops/"><u>GPU Activation Confirmed for Latest Windows 11 Laptops</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-ace-2v-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus Ace 2V to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-lenovos-inactive-screen-issue/"><u>Solved: Lenovo's Inactive Screen Issue</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-x6-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco X6 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-for-configuring-wd-ses-hardware-with-updated-usb-drivers/"><u>Ultimate Tutorial for Configuring WD SES Hardware with Updated USB Drivers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-smart-guide-top-picks-for-6-fb-lite-videos/"><u>[New] In 2024, Smart Guide Top Picks for 6 FB Lite Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-maximizing-zoom-video-details-step-by-step-methods/"><u>[Updated] In 2024, Maximizing Zoom Video Details Step-by-Step Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-decoding-igtv-video-statistics-for-better-insights/"><u>2024 Approved Decoding IGTV Video Statistics for Better Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-10-free-slideshow-designs-for-easy-presentations/"><u>2024 Approved Top 10 Free Slideshow Designs for Easy Presentations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-or-sound-popping-in-windows-solved/"><u>Audio or Sound Popping in Windows [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-opening-of-srt-on-computers/"><u>Effortless Opening of SRT on Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-freeze-identify-incorrect-video-drivers/"><u>Game Freeze? Identify Incorrect Video Drivers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-105-classic-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia 105 Classic Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-lowdown-on-the-maximum-video-length-on-instagram/"><u>In 2024, The Lowdown on the Maximum Video Length on Instagram</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/managing-oversized-windows-11-resolution/"><u>Managing Oversized Windows 11 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-sims-screen-blankness/"><u>Overcome Sims Screen Blankness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reoriented-notebook-display-for-comfort/"><u>Reoriented Notebook Display for Comfort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sideways-monitor-conversion-complete/"><u>Sideways Monitor Conversion Complete</u></a></li>
 </ul></div>
 

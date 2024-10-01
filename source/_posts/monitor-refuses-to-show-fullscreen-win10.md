@@ -1,7 +1,7 @@
 ---
 title: Monitor Refuses to Show Fullscreen Win10
-date: 2024-08-15T07:22:47.875Z
-updated: 2024-08-16T07:22:47.875Z
+date: 2024-09-29T09:07:13.527Z
+updated: 2024-10-01T09:22:58.871Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f22
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -56,34 +53,29 @@ Here’s what you need to do:
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  Or you can switch to different resolutions and see if it resolves your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
@@ -100,8 +92,12 @@ Here’s what you need to do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics card driver
 
  Your full-screen issue has something to do with your graphics card. If your graphics card driver is missing or outdated, your monitor may not display full screen. To rule out the cause of your issue, you should update your video card driver to the latest version.
@@ -122,6 +118,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -134,6 +137,13 @@ Here’s what you need to do:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run your application in Compatibility mode
 
  If only one application or some of the applications in your computer have the full-screen issue, you can modify the software settings and set the software to run in the Compatibility mode.
@@ -143,22 +153,27 @@ To do so, follow these steps:
  1) Type the application that is having the full-screen problem in the search box on your desktop, and right-click on it to select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
@@ -170,6 +185,13 @@ To do so, follow these steps:
 Still no luck? Okay, there is one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
 
@@ -190,8 +212,6 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,8 +219,22 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-tech-reviews-best-freepaid-options-for-google-meet-recording/"><u>[Updated] In 2024, Expert Tech Reviews Best Free/Paid Options for Google Meet Recording</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-breaking-boundaries-in-video-content-creation-within-limit/"><u>2024 Approved Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-guide-to-embedding-youtube-videos-in-insta-stories/"><u>2024 Approved The Ultimate Guide to Embedding YouTube Videos in Insta Stories</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-zenith-workspace-in-depth-studio-overview-2023-edition/"><u>2024 Approved Zenith Workspace In-Depth Studio Overview, 2023 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blackout-alert-gpu-firmware/"><u>Blackout Alert: GPU Firmware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypass-amd-visual-snags-tarkov-fix/"><u>Bypass AMD Visual Snags - Tarkov Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-unwanted-horizontal-edges-distortion-on-screens/"><u>Ease Unwanted Horizontal Edges Distortion on Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-driver-crisis-resolved/"><u>Graphics Driver Crisis Resolved</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-installation-masterclass-transitioning-to-macos-sierra/"><u>In 2024, Installation Masterclass Transitioning to macOS Sierra</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-tackle-non-functioning-asus-cam/"><u>Steps to Tackle Non-Functioning Asus Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-restore-vivid-colors-in-displays/"><u>Strategies to Restore Vivid Colors in Displays</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essential-twitter-archive-user-manual-for-2024/"><u>The Essential Twitter Archive User Manual for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-f14-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy F14 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-why-your-screen-wont-accept-hdcp-encryption/"><u>Troubleshooting: Why Your Screen Won't Accept HDCP Encryption</u></a></li>
+</ul></div>
 

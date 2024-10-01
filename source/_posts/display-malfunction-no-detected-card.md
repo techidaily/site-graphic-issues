@@ -1,7 +1,7 @@
 ---
 title: "Display Malfunction: No Detected Card"
-date: 2024-08-15T07:21:37.388Z
-updated: 2024-08-16T07:21:37.388Z
+date: 2024-09-24T19:08:25.868Z
+updated: 2024-10-01T02:43:02.703Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  No Suitable Graphics Card Found error occurs usually because the developer changes the settings of the game, or your graphics card adapter is not suitable for the display anymore. So you can follow the solutions below to solve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Restarting your PC helps your PC to check through the system and automatically update your Windows, then the problem may be automatically resolved.
@@ -49,8 +56,12 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -77,18 +88,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -96,24 +108,20 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Go to**Documents**  \>**My Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your PC and open your game again.
@@ -129,8 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,8 +144,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-to-turn-off-or-not-navigating-through-your-off-facebook-activities/"><u>[New] 2024 Approved To Turn Off or Not Navigating Through Your Off-Facebook Activities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tips-and-tricks-how-to-clean-up-your-photo-album-on-facebook/"><u>Easy Tips & Tricks: How to Clean Up Your Photo Album on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-ease-of-video-editing-on-windows-11-for-2024/"><u>Harness Ease of Video Editing on Windows 11 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G24 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/methods-to-deter-inconsistent-displays-in-hp/"><u>Methods to Deter Inconsistent Displays in HP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-directx12-barriers-for-halo-infinite-launch/"><u>Overcoming DirectX12 Barriers for Halo Infinite Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-for-secure-boot-in-windows-8-and-eliminating-graphics-card-drivers/"><u>Steps for Secure Boot in Windows 8 & Eliminating Graphics Card Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-pc-with-updated-radeon-hd-6950-drivers/"><u>Supercharge Your PC with Updated Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620189209-why-everyone-needs-to-try-the-newly-updated-factual-inshot-editor-unleash-your-creativity/"><u>Why Everyone Needs to Try the Newly Updated Factual InShot Editor - Unleash Your Creativity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: HD Rendering Repaired - Error 22
-date: 2024-08-15T07:24:45.500Z
-updated: 2024-08-16T07:24:45.500Z
+date: 2024-09-29T08:39:19.046Z
+updated: 2024-09-30T18:37:01.234Z
 tags:
   - win11
   - win10
@@ -26,8 +26,12 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -45,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -59,14 +67,18 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -75,13 +87,14 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -100,9 +113,6 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -116,8 +126,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,8 +133,21 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>[New] Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726224649650-asfmov-movavi/"><u>ASFからMOVへ容易な変換: Movaviで提供されるオンライン無料ツール</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-the-obstacle-fixing-c1900101-during-win10-install/"><u>Bypassing the Obstacle: Fixing C1900101 During Win10 Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cutting-through-windows-10-post-fall-issue/"><u>Cutting Through Windows 10 Post-Fall Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deep-dive-into-the-hauntingly-gripping-universe-of-bloodborne/"><u>Deep Dive Into the Hauntingly Gripping Universe of Bloodborne</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hilarity-host-the-10-funniest-twitter-challenges-for-2024/"><u>Hilarity Host The 10 Funniest Twitter Challenges for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-pova-5-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno Pova 5 Pro on Windows??</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/managing-moments-in-live-streams-an-obs-timer-guide-for-2024/"><u>Managing Moments in Live Streams An OBS Timer Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-sign-of-life-on-your-laptop-screen/"><u>No Sign of Life on Your Laptop Screen?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-screen-positioning-on-windows-7/"><u>Optimal Screen Positioning on Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-nvidia-with-windows-10-problem-resolved/"><u>Reconciling Nvidia with Windows 10 - Problem Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-error-handler-for-comexception-revised/"><u>Windows Error Handler for COMException Revised</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209969299-xbox-one-connection-woes-heres-how-to-get-your-controllers-working-perfectly-again/"><u>Xbox One Connection Woes? Here’s How to Get Your Controllers Working Perfectly Again!</u></a></li>
+</ul></div>
 

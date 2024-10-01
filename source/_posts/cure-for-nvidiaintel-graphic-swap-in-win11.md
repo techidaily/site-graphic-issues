@@ -1,7 +1,7 @@
 ---
 title: Cure for NVIDIA/Intel Graphic Swap in Win11
-date: 2024-09-08T20:44:37.192Z
-updated: 2024-09-15T00:31:03.149Z
+date: 2024-09-25T09:19:58.349Z
+updated: 2024-10-01T11:34:42.735Z
 tags:
   - win11
   - win10
@@ -47,6 +47,19 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -77,6 +90,13 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -84,10 +104,16 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -103,37 +129,30 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,5 +167,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-display-optimization-missing/"><u>[Resolved] Windows 11 Display Optimization Missing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-start-with-smart-edits-10-tips-for-new-photoshop-users/"><u>[Updated] Start with Smart Edits 10 Tips for New Photoshop Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-charting-the-course-for-youtube-music-uploads/"><u>2024 Approved Charting the Course for YouTube Music Uploads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-home-theater-top-10-players-in-24/"><u>2024 Approved Cutting-Edge Home Theater Top 10 Players in '24</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-surface-pro-7s-erratic-screen-behavior/"><u>Addressing Surface Pro 7'S Erratic Screen Behavior</u></a></li>
+<li><a href="https://win11.techidaily.com/break-the-code-a-list-of-quick-access-techniques-for-credentials-in-win11/"><u>Break the Code: A List of Quick Access Techniques for Credentials in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-panel-misalignment-problems/"><u>Correct Panel Misalignment Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-the-c1900101-error-during-win10-installation/"><u>How To Get Past the C1900101 Error During Win10 Installation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-windows-screencast-champions-revealed/"><u>In 2024, Windows Screencast Champions Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-drivers-on-your-pc-compatible-with-recent-windows-os-versions/"><u>Install AMD RX 5700 XT Drivers on Your PC: Compatible with Recent Windows OS Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/integrating-windows-and-nvidias-geforce-7025nforce-630a/"><u>Integrating Windows & Nvidia's GeForce 7025/nForce 630A</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c55-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C55? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/najlepsi-koncepse-pro-zacatecniky-kde-ziskat-inspiraci-ahoj/"><u>Najlepší Koncepse Pro Začátečníky – Kde Získat Inspiraci Ahoj!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-fixes-opengl-driver-snafu/"><u>NVIDIA GPU Fixes OpenGL Driver Snafu</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-setup-obstacles-with-oculus-vr-in-pcs/"><u>Overcoming Setup Obstacles with Oculus VR in PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-graphics-performance-in-win1011-pcs/"><u>Unlocking Graphics Performance in Win10/11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-blur-reduced-immensely/"><u>Windows Blur Reduced Immensely</u></a></li>
+</ul></div>
 

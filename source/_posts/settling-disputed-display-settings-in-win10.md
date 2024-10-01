@@ -1,7 +1,7 @@
 ---
 title: Settling Disputed Display Settings in Win10
-date: 2024-09-09T06:43:48.702Z
-updated: 2024-09-14T16:19:19.192Z
+date: 2024-09-28T17:17:32.009Z
+updated: 2024-09-30T22:23:50.384Z
 tags:
   - win11
   - win10
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -62,6 +76,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -70,18 +91,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -106,13 +127,6 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -140,5 +154,21 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/break-the-monotony-with-these-6-captivating-videos-for-2024/"><u>Break the Monotony with These 6 Captivating Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-your-lenovo-laptops-screen/"><u>Brighten Up Your Lenovo Laptop's Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-11-pro-max-how-to-unlock-a-disabled-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 11 Pro Max How to Unlock a Disabled Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-window-interface-on-expanded-windows-10-monitors/"><u>Enhancing Window Interface on Expanded Windows 10 Monitors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-13-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-videos-with-magix-video-pro-x/"><u>In 2024, Transform Your Videos with Magix Video Pro X</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/managing-gpu-anomalies-without-causing-total-shutdown/"><u>Managing GPU Anomalies Without Causing Total Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-microsoft-store-repairs-fixing-code-0x80072f30-quickly/"><u>Master Microsoft Store Repairs: Fixing Code 0X80072F30 Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/re-esturing-nvidia-display-commands/"><u>Re-Esturing NVIDIA Display Commands</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-screen-flicker-on-surface-pro-7/"><u>Remedying Screen Flicker on Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-cominterface-disruption-in-windows/"><u>Resolving COMInterface Disruption in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear-for-2024/"><u>Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s24plus-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S24+ Device</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo</u></a></li>
+</ul></div>
 

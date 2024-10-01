@@ -1,7 +1,7 @@
 ---
 title: How to Fix Missing Windows 11 Full Screen on Monitor
-date: 2024-08-15T07:22:42.697Z
-updated: 2024-08-16T07:22:42.697Z
+date: 2024-09-30T14:25:49.352Z
+updated: 2024-10-01T04:27:18.785Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -40,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
  In addition to full screen settings,**check if there are resolution settings in that application** . For example, video games in PC always enable users to change the screen resolution to match their demands. So also give it a check.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the display settings in your computer settings
 
@@ -52,28 +56,40 @@ Here’s what you need to do:
  2) Click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can switch to different resolutions and see if it resolves your problem.
@@ -83,27 +99,25 @@ Here’s what you need to do:
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  8) Now restart your computer and see if your monitor displays the full screen.
 
@@ -111,9 +125,6 @@ Here’s what you need to do:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  Your full-screen issue has something to do with your graphics card. If your graphics card driver is missing or outdated, your monitor may not display full screen. To rule out the cause of your issue, you should update your video card driver to the latest version.
@@ -146,6 +157,13 @@ Here’s what you need to do:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run your application in Compatibility mode
 
  If only one application or some of the applications in your computer have the full-screen issue, you can modify the software settings and set the software to run in the Compatibility mode.
@@ -155,9 +173,6 @@ To do so, follow these steps:
  1) Type the application that is having the full-screen problem in the search box on your desktop, and right-click on it to select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
@@ -166,6 +181,13 @@ To do so, follow these steps:
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
@@ -196,8 +218,6 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,8 +225,18 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/2024-approved-explore-best-gopro-cases-rated-1-10/"><u>2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/experience-uninterrupted-apex-gameplay/"><u>Experience Uninterrupted Apex Gameplay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-magic-5-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor Magic 5 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-stopped-successfully-rebooted/"><u>IGFX Stopped, Successfully Rebooted</u></a></li>
+<li><a href="https://driver-download.techidaily.com/msi-b350-toms-hardware-driver-downloads-compatible-with-windows-11-and-windows-7/"><u>MSI B350 TOM'S HARDWARE Driver Downloads Compatible with Windows 11 and Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mute-monitor-mayhem-with-ease/"><u>Mute Monitor Mayhem with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/premier-fb-video-mp4-downloader-no-ads-no-wait/"><u>Premier FB Video MP4 Downloader - No Ads, No Wait</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovering-from-blackened-screen-cursor/"><u>Recovering From Blackened Screen, Cursor</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-black-screen-issues-in-pc-games-on-winos/"><u>Remedying Black Screen Issues in PC Games on WINOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-to-enable-and-use-microsofts-on-screen-keyboard-in-various-windows-versions/"><u>Step-by-Step Tutorial to Enable and Use Microsoft's On-Screen Keyboard in Various Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-display-enhancements-now-accessible-and-visible/"><u>Win10 Display Enhancements: Now Accessible & Visible</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving MSDN Battery Concerns in WIN OS Versions
-date: 2024-08-15T07:24:03.449Z
-updated: 2024-08-16T07:24:03.449Z
+date: 2024-09-28T16:39:14.073Z
+updated: 2024-09-30T16:29:09.568Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -39,8 +36,12 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -48,25 +49,31 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
 Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 2. In Device Manager, double click**Display adapters** to expand it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  A missing or outdated graphics card driver can cause you with the Microsoft Basic Render driver, so you should update your graphics card driver to the latest version.
@@ -87,19 +94,14 @@ Here’s how to do it:
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -112,8 +114,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +121,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-flipping-the-script-on-memes-with-kinemaster-for-2024/"><u>[New] Flipping the Script on Memes with KineMaster for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-interpreting-the-functionality-behind-blue-icons-in-chat-apps/"><u>[Updated] Interpreting the Functionality Behind Blue Icons in Chat Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-simultaneously-stream-youtube-channels/"><u>2024 Approved Simultaneously Stream YouTube Channels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-personalized-chatbots-with-gpt-technology-comprehensive-instructions/"><u>Building Personalized Chatbots with GPT Technology – Comprehensive Instructions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-sideways-screens-on-windows-10/"><u>Correcting Sideways Screens on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-a-win11-fix/"><u>Eliminating Graphic Swap Errors: A Win11 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-cleared-display-functioning-normally/"><u>IGFX Malfunction Cleared, Display Functioning Normally</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/immersive-experience-keepers-fb-live-2023/"><u>Immersive Experience Keepers FB Live 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-strategies-for-superior-film-production-using-movie-maker-in-windows-8/"><u>In 2024, Step-by-Step Strategies for Superior Film Production Using Movie Maker in Windows 8</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unlocking-earnings-potential-dm-and-yo-showdown/"><u>In 2024, Unlocking Earnings Potential Dm & Yo Showdown</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-a15-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy A15 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-x50-gt-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on X50 GT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapid-repair-amd-graphics-bug-in-tarkov/"><u>Rapid Repair: AMD Graphics Bug in Tarkov</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swap-screen-direction-on-win7-pcs/"><u>Swap Screen Direction on Win7 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-full-screen-customization-in-win11/"><u>Unlocking Full Screen Customization in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817435202-upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-settings-visibility-restored/"><u>Windows 10 Display Settings: Visibility Restored</u></a></li>
+</ul></div>
 

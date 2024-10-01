@@ -1,7 +1,7 @@
 ---
 title: "ASUS Internal Cameras: Fixed and Running"
-date: 2024-09-14T08:31:34.881Z
-updated: 2024-09-20T03:38:49.550Z
+date: 2024-09-24T06:25:34.641Z
+updated: 2024-10-01T02:46:46.290Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Press the hotkey to enable the camera
 
  Prior to troubleshooting steps, you can try enabling your Asus camera by pressing the**Fn + F10** at the same time. Check if there’s a “**Camera On** ” message on the desktop.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
@@ -69,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -88,10 +95,10 @@ After updating your drivers, restart your PC and test the camera.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
@@ -102,24 +109,18 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
  3) Right-click **Integrated Camera** and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
 
@@ -146,5 +147,18 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-assessing-instagrams-limits-on-posted-videos/"><u>[New] 2024 Approved Assessing Instagram's Limits on Posted Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-insert-a-vimeo-video-into-powerpoint-for-2024/"><u>[New] How to Insert a Vimeo Video Into PowerPoint for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-deep-dive-into-durecorders-full-range/"><u>[Updated] In 2024, A Deep Dive Into DuRecorder's Full Range</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power-for-2024/"><u>ASMR and You Understanding Its Healing Power for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-no-graphics-gpu-error-detected/"><u>Display No Graphics: GPU Error Detected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-logitech-g-pro-x-microphone-failures/"><u>Expert Tips on Resolving Logitech G Pro X Microphone Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-system-halt-successful-continuity-achieved/"><u>Graphics System Halt: Successful Continuity Achieved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-response-to-lenovo-flicker-concerns/"><u>Immediate Response to Lenovo Flicker Concerns</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>New In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-fixes-without-external-monitors/"><u>NVIDIA Fixes Without External Monitors</u></a></li>
+</ul></div>
 

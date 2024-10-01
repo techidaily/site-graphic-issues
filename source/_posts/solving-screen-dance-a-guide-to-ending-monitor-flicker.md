@@ -1,7 +1,7 @@
 ---
 title: "Solving Screen Dance: A Guide to Ending Monitor Flicker"
-date: 2024-09-20T01:55:47.450Z
-updated: 2024-09-25T20:29:30.716Z
+date: 2024-09-29T00:14:44.222Z
+updated: 2024-09-30T21:22:54.000Z
 tags:
   - win11
   - win10
@@ -37,27 +37,36 @@ Your monitor flickering issue may occur if you’re using a low refresh rate for
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e6da1b231b.jpg)
 2. Click**Advanced display settings** (or**Advanced settings** if you’re on**Windows 7/8**).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e704e6a599.jpg)
 3. If you’re on**Windows 10** , click the**Display adapter properties** for your monitor. (Skip this step if you’re using another Windows system.)  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e7085d412e.jpg)
 4. Select the**Monitor** tab, then select a screen refresh rate that equals or is higher than**60 Hertz** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e71d39685f.jpg)
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hopefully, this fixes your monitor flickering issue. But if not, there are three more fixes you can try…
 
 ### Method 2: Update your graphics driver
@@ -68,23 +77,9 @@ The flickering issues may occur because you’re using a wrong graphics driver o
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e74986a8bc.jpg)
 3. Click the **Update**  button next to your graphics adapter to download the latest and correct drivers for them, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e74fc5c7b0.jpg)  
  You can do it for free if you like, but it’s partly manual.
 4. If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  for advice. You should attach the URL of this article so they can help you better.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Perform a clean boot
 
@@ -97,37 +92,52 @@ To do so:
 1. Press the**Windows log key** and**R** on your keyboard to invoke the Run dialog.
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST**) and click**Disable all** . After that, click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Click**OK** .
 7. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Check to see if you are having any flickering issue. If no, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox**) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if your flickering issue occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there’s any service that causes your monitor flickering issues, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
@@ -135,27 +145,14 @@ To do so:
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 17. Check to see if your flickering issue occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
 
@@ -183,22 +180,20 @@ If your monitor is still flickering, it’s likely there are hardware issues wit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-streaming-the-premier-6-zoom-webcam-picks/"><u>[New] Professional Streaming The Premier #6 Zoom Webcam Picks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-local-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly/"><u>[Updated] 2024 Approved __Local Labor Costs__ The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-video-content-with-desktopmobile-timestamps-for-2024/"><u>[Updated] Elevate Your Video Content with Desktop/Mobile Timestamps for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essentials-in-obtaining-stock-images-for-multimedia-projects-for-2024/"><u>[Updated] Essentials in Obtaining Stock Images for Multimedia Projects for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-microsofts-basic-winos-driver-performance/"><u>Adjusting Microsoft's Basic WINOS Driver Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-screen-rotation/"><u>Correcting Windows 10 Screen Rotation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-overwatch-graphics-support/"><u>Enhanced Overwatch Graphics Support</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-eradicated-displays-now-save-friendly/"><u>Error Eradicated - Displays Now Save-Friendly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y55s 5G (2023) Phone Without Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-nubia-red-magic-8s-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Nubia Red Magic 8S Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-15-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 15 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-visual-upgrade-with-a-simple-step-to-update-intel-3000-driver/"><u>Instant Visual Upgrade with a Simple Step to Update Intel 3000 Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-cure-for-darkened-asus-screens/"><u>Quick Cure for Darkened Asus Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/speedy-intel-gfx-driver-refresh-for-windows-os/"><u>Speedy Intel GFX Driver Refresh for Windows OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-to-address-the-full-scratch-disk-problem-in-photoshop/"><u>Troubleshooting Techniques to Address the Full Scratch Disk Problem in Photoshop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/videorenewal-assistant-reviving-files/"><u>VideoRenewal Assistant: Reviving Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/acer-screens-banishing-blinding-flashes/"><u>Acer Screens: Banishing Blinding Flashes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/androidios-essentials-cutting-edge-video-montage-software-for-2024/"><u>Android/iOS Essentials Cutting-Edge Video Montage Software for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fresh-look-at-sonys-ultra-hd-player-s3700-for-2024/"><u>Fresh Look at Sony's Ultra HD PLAYER S3700 for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-infinix-hot-40i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Hot 40i Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-feel-motivated-10-epic-movies-with-deep-impact/"><u>In 2024, Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-play-7t-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Play 7T to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-totv-multimedia-player-wmp-alternative/"><u>In 2024, TOTV Multimedia Player WMP Alternative</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>Mastering Your iPhone Lens Essential Techniques for Nature Pics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mobilizing-a-passive-gpu-fan/"><u>Mobilizing a Passive GPU Fan</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigate-non-operational-asus-cam-woes/"><u>Navigate Non-Operational Asus Cam Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-surface-pro-7s-screenshot-stutter/"><u>Solving Surface Pro 7'S Screenshot Stutter</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-alert-cleared-nvidia-display-responding-anew/"><u>System Alert Cleared: NVidia Display Responding Anew</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-secret-ingredient-to-seamless-household-harmony-discovering-cozis-magic-with-my-family/"><u>The Secret Ingredient to Seamless Household Harmony - Discovering Cozi's Magic with My Family</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-pro-for-mac-is-the-most-popular-professional-video-editor-if-youre-planning-to-try-it-out-for-your-mac-heres-all-you-need-to-know-abo/"><u>Updated Adobe Premiere Pro for Mac Is the Most Popular Professional Video Editor. If Youre Planning to Try It Out for Your Mac, Heres All You Need to Know About It for 2024</u></a></li>
 </ul></div>
 

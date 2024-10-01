@@ -1,7 +1,7 @@
 ---
 title: Clearing Cryptic Characters From Computer Displays
-date: 2024-08-15T07:24:27.550Z
-updated: 2024-08-16T07:24:27.550Z
+date: 2024-09-24T14:26:37.313Z
+updated: 2024-10-01T04:11:18.304Z
 tags:
   - win11
   - win10
@@ -55,14 +55,17 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Method 4: Reinstall your memory
 
 It is also possible that your laptop screen issue comes from your laptop memory (RAM).
@@ -77,9 +80,6 @@ It has gone wrong and stops your laptop from completing the self test. You can t
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
@@ -89,19 +89,33 @@ If you have resolved the problem with your laptop screen, it is suggested that y
 Once your laptop recovers, you can restore your Windows from a system restore point. This can prevent your computer from getting issues resulting from the previous changes you have made. _Note that you can restore your system only when you have previously created a restore point._To restore your operating system:**1)**Click the**Start**button in the bottom left corner of your screen. Then type “_**restore**_“.**2)**Open the System Restore wizard from the list of result. _The process is different depending on the operating system you use, and you will see from the following the different steps on Windows 7 and Windows 10._On Windows 7, just click**System Restore**in the search result:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
@@ -109,22 +123,27 @@ And then in the dialog popping up, click the**System Restore**button.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b1606c48.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can download and install your drivers by using either Free or [**Pro** **version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes only**2** clicks (and you get**full support**and a**30-day money back guarantee**).
@@ -138,8 +157,6 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,8 +164,20 @@ You can download and install your drivers by using either Free or [**Pro** **ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-captivating-costless-visual-collaboration-games/"><u>[New] In 2024, Captivating Costless Visual Collaboration Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-ranked-mobile-melody-design-experts/"><u>2024 Approved Top-Ranked Mobile Melody Design Experts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-path-to-security-instruction-for-safe-mode-entry-and-drivers-removal/"><u>Effortless Path to Security: Instruction for Safe Mode Entry & Drivers Removal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-flickering-displays/"><u>How to Eliminate Flickering Displays</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-innovative-metaverse-humor-generating-unique-memes/"><u>In 2024, Innovative Metaverse Humor Generating Unique Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-conversion-made-simple-3-actionable-solutions/"><u>In 2024, SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interopservice-exception-rectified-in-windows/"><u>InteropService Exception Rectified in Windows</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendos-console-revolutionized-discover-how-the-switch-lite-delivers-quality-entertainment-for-less/"><u>Nintendo's Console Revolutionized: Discover How the Switch Lite Delivers Quality Entertainment for Less</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-audio-issues-civ-5/"><u>Troubleshooting Audio Issues CIV 5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-secrets-to-balanced-eating-with-ai-support-can-chatgpt-transform-you-into-a-skilled-home-chef/"><u>Unveiling Secrets to Balanced Eating with AI Support: Can ChatGPT Transform You Into a Skilled Home Chef?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-corrected-intellnvidia-graphics-switch/"><u>Win11: Corrected Intell/Nvidia Graphics Switch</u></a></li>
+</ul></div>
 

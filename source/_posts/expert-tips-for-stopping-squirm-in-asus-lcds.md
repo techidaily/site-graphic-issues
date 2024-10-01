@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Stopping Squirm in ASUS LCDs
-date: 2024-08-15T07:20:47.577Z
-updated: 2024-08-16T07:20:47.577Z
+date: 2024-09-26T19:07:26.954Z
+updated: 2024-10-01T14:36:42.655Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -43,17 +40,34 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-3. Click**Display adapter properties for Display 1** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
+3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
@@ -62,18 +76,27 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -85,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -144,8 +161,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,8 +168,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-auditory-aesthetics-film-from-a-single-frame/"><u>[New] Auditory Aesthetics Film From a Single Frame</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-battle-for-honor-other-10-great-games-like-tsushi/"><u>[New] In 2024, Battle for Honor Other 10 Great Games Like Tsushi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-journey-to-high-definition-mastering-sdr-to-hdr-conversion-for-2024/"><u>[New] Journey to High Definition Mastering SDR to HDR Conversion for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommendations-top-8-free-srt-apps-reviewed/"><u>[Updated] Expert Recommendations Top 8 Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fine-tune-viewing-the-ultimate-zoom-journey-for-2024/"><u>[Updated] Fine-Tune Viewing The Ultimate Zoom Journey for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-peak-performance-nvidias-latest-1060-driver-update/"><u>Achieve Peak Performance: Nvidia's Latest 1060 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oneplus-nord-ce-3-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from OnePlus Nord CE 3 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-anthem-loading-times/"><u>Improve Anthem Loading Times</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x100-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X100 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-signal-new-graphics-card/"><u>No Signal - New Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-visual-fluidity-through-supported-freesync/"><u>Optimizing Visual Fluidity Through Supported FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-steps-to-enter-safe-mode-in-windows-8-remove-graphic-drivers/"><u>Streamlined Steps to Enter Safe Mode in Windows 8, Remove Graphic Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-guide-to-composing-voice-messages-on-iphones/"><u>The Ultimate How-To Guide to Composing Voice Messages on iPhones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tv-displaying-no-signal-hdmi-link-issues/"><u>TV Displaying No Signal: HDMI Link Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-hot-40-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Hot 40 Pro Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectified Device Creation Mishap
-date: 2024-08-15T07:22:02.549Z
-updated: 2024-08-16T07:22:02.549Z
+date: 2024-09-29T14:08:35.545Z
+updated: 2024-09-30T19:56:45.039Z
 tags:
   - win11
   - win10
@@ -31,8 +31,12 @@ Here’re the fixes for you to try. You don’t need to try them all; just work 
 **Note** : All the screenshots below are from Windows 10, but the fixes apply to Windows 8 & 7.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What is Failed to create a graphics device?
 
 As the error message suggested, there is something wrong with your graphics card configurations, or with the programs related to graphics. This error is also displayed as**Failed to create graphics device**, or**Unable to create graphics device**.
@@ -42,46 +46,43 @@ As the error message suggested, there is something wrong with your graphics card
 As many errors and issues can be solved by restarting the system, it works like a charm for many users. Just**close your game**,**restart** **your PC**, and**open your game again**to see if it works properly now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Solution 2: Uninstall your graphics card driver**
 
 If the error occurs again after restarting Windows, you can try reinstalling your graphics card to fix the error. 1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)** and**R**at the same time to invoke the Run command. 2) Type**devmgmt.msc**and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa0d3ef63ef1.png) 3) Double click**Display** **adapters**to expand it, and right click on your**graphics card device**, then select**Uninstall device**.
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10a4aacd66.jpg)
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10a4aacd66.jpg)
 
 4) Check the box next to**Delete the driver software for this device**, then click**Uninstall**to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10a965966a.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer/laptop, then Windows will automatically install the video card driver for you. 6) Open your game again to see if it works now.
 
 ## **Solution 3: Update your graphics driver**
 
 The missing or outdated graphics driver can also cause the error. You can try update your graphics card driver to**fix Failed to create a graphics device**. There are two ways you can update your keyboard driver:**manually**and**automatically**.**Manually update the driver**– You can update your video adapter driver manually by going to the**manufacturer’s website**of your graphics card, and searching for the**latest driver**for your video card. Make sure that the driver is matched with your Windows OS and your laptop model. This requires time and computer skills.**Automatically update the driver**– If you don’t have time or patience to manually update the driver, you can do that automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**Driver Easy will automatically recognize your Windows system and find the correct driver for your video adapter. You don’t need to risk downloading the wrong video card driver. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa0d53e5ec14.png) 3) Click the**Update**button next to the flagged graphics card device name to automatically download and install the correct version of those driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer and open your game to see if it works. These are the 3 easy ways to**fix Failed to create graphics device**in your Windows. If you have any questions or thoughts, feel free to comment below and we’ll see what more we can do to help.
 
@@ -93,8 +94,6 @@ The missing or outdated graphics driver can also cause the error. You can try up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,8 +101,21 @@ The missing or outdated graphics driver can also cause the error. You can try up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>2024 Approved Beat to Visuals An iPhone Guide for Music Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-animated-storytelling-tips-for-instagram-text/"><u>2024 Approved The Art of Animated Storytelling Tips for Instagram Text</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-ending-of-graphics-cards-in-windows/"><u>Effortless Ending of Graphics Cards in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-win-troubleshoot-complete-functioning-normally/"><u>GFXUI Win Troubleshoot Complete, Functioning Normally</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fixing-the-among-us-pc-voice-chat-malfunction/"><u>Guide to Fixing the 'Among Us' PC Voice Chat Malfunction</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-writing-discover-9-ways-chatgpt-supports-authors/"><u>Revolutionize Writing: Discover 9 Ways ChatGPT Supports Authors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/right-orientation-fix-in-win7-mode/"><u>Right Orientation Fix in Win7 Mode</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romance-relations-deconstructing-the-similarities-and-differences-in-spanish-and-portuguese/"><u>Romance Relations: Deconstructing the Similarities and Differences in Spanish and Portuguese</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-transition-new-driver-for-win11-and-intel-graphic-card/"><u>Smooth Transition: New Driver for Win11 & Intel Graphic Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818132567-streaming-on-windows-10-after-upgrade-secured/"><u>Streaming on Windows 10 After Upgrade Secured!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-flashing-lcd-on-hp-systems/"><u>Troubleshooting Flashing LCD on HP Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-fixing-baldurs-gate-3-desktop-issues/"><u>Troubleshooting Steps for Fixing Baldur's Gate 3 Desktop Issues</u></a></li>
+</ul></div>
 

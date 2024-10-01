@@ -1,7 +1,7 @@
 ---
 title: Enhance Play by Reducing Latency
-date: 2024-09-23T01:13:45.239Z
-updated: 2024-09-26T10:54:39.584Z
+date: 2024-09-28T20:26:12.630Z
+updated: 2024-09-30T16:02:21.151Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
  6) In**Graphics Quality** , choose**Custom** ;  
@@ -67,16 +74,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -105,22 +112,15 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-33.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
@@ -133,13 +133,6 @@ So you can follow the steps below to disable CPU core parking:
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -155,20 +148,33 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -190,13 +196,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -208,6 +207,19 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -222,10 +234,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Click**OK** to exit.
@@ -253,22 +265,19 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-artful-approaches-to-elevating-your-fb-ad-reach-for-2024/"><u>[New] Artful Approaches to Elevating Your FB Ad Reach for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ppt-visualization-leveraging-webcam-tech-for-2024/"><u>[New] PPT Visualization Leveraging Webcam Tech for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-spring-screens-a-deep-dive-into-desktop-capturing-pro/"><u>[Updated] In 2024, Spring Screens A Deep Dive Into Desktop Capturing Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-revolutionize-chromebooks-tone-with-our-essential-list-of-extensions/"><u>[Updated] Revolutionize Chromebook's Tone with Our Essential List of Extensions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>2024 Approved The Art of Photo Edits A Newcomer’s Guide to LunaPic</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-frame-lag-swift-hassle-free-fixes/"><u>Banish Frame Lag: Swift, Hassle-Free Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-steps-for-your-systems-ghosted-gpu/"><u>Diagnosing: Steps for Your System's Ghosted GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818019053-graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-error-cleared-system-unaffected/"><u>Graphics Error Cleared: System Unaffected</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-zoom-on-windows-10-a-step-by-step-guide/"><u>In 2024, Mastering Zoom on Windows 10 A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-the-art-of-creating-memorable-online-gatherings-on-facebook/"><u>Mastering the Art of Creating Memorable Online Gatherings on Facebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-the-art-of-making-and-tweaking-multi-snap-videos-for-2024/"><u>Mastering the Art of Making & Tweaking Multi-Snap Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-a-smooth-apex-play/"><u>Quick Fixes for a Smooth Apex Play</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secret-finds-exclusive-free-speech-transcribers-for-mac-for-2024/"><u>Secret Finds Exclusive Free Speech Transcribers for Mac for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/speedy-fixes-eradicate-game-lag/"><u>Speedy Fixes: Eradicate Game Lag</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-strategies-for-clearer-facebook-live-footage-viewing/"><u>[New] 2024 Approved Strategies for Clearer Facebook Live Footage Viewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-blur-apps-that-work-wonders-on-iphonesandroids-for-2024/"><u>[New] Blur Apps That Work Wonders on iPhones/Androids for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-fixing-stuck-feeds-on-instagram-videos/"><u>[New] Fixing Stuck Feeds on Instagram Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-ideal-screen-recorder-picks-for-digital-educators/"><u>[New] Ideal Screen Recorder Picks for Digital Educators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-11-cost-free-video-title-creator-tools-online/"><u>[New] Top 11 Cost-Free Video Title Creator Tools Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>[Updated] Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-insights-into-polarr-photo-enhancer/"><u>[Updated] Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-key-practices-for-amassing-picture-resources/"><u>[Updated] In 2024, Key Practices for Amassing Picture Resources</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-software-unsupported-on-older-version-of-windows/"><u>AMD's Software Unsupported on Older Version of Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-no-more-setbacks/"><u>Direct3D Launcher: No More Setbacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-win10-plus-geforce-7025-nforce-630a-dispute/"><u>Fixed: Win10 + GeForce 7025, nForce 630a Dispute</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-pixelated-fonts-in-far-cry-6/"><u>Remedying Pixelated Fonts in Far Cry 6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmatched-speed-in-revamping-intel-gfx-for-windows-users/"><u>Unmatched Speed in Revamping Intel GFX for WIndows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-cam-restoration-a-comprerans-guide-to-clear-video/"><u>Zoom Cam Restoration - A Compreran's Guide to Clear Video</u></a></li>
 </ul></div>
 

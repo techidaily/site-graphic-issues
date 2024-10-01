@@ -1,7 +1,7 @@
 ---
 title: Addressing Graphics Falters with Continual Computer Operation
-date: 2024-08-15T07:24:24.547Z
-updated: 2024-08-16T07:24:24.547Z
+date: 2024-09-26T00:24:28.906Z
+updated: 2024-09-30T19:59:24.352Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clean install the GPU driver
 
  GPU crashes while the PC stays on can also be caused by incompatible graphics drivers. This is usually because an incompatible or faulty driver will stop the graphics card from working normally, and therefore with display problems like crashing and freezing.
@@ -56,19 +63,18 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Repeat the same to remove the driver for your other display card if you have one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
@@ -85,6 +91,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -92,15 +105,25 @@ To do so, first visit the website of your GPU manufacturer:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -109,8 +132,12 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Repair corrupted system files
 
  Corrupted or damaged system files can also cause problems like GPU crashing while the PC remains on. This is because the integrity of Windows system files is essential for proper operation and stability of the overall computer, while errors in critical system files can cause crashes, freezes, and problems that affect PC performance.
@@ -124,9 +151,6 @@ To use Fortect:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -136,9 +160,6 @@ To use Fortect:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check the GPU temperature
 
  It’s slightly mentioned above that overclocking GPU can produce more heat, but it’s also true that even if you’re not overclocking your GPU, it can also run hot when resource-intensive programs like games are running. When the GPU runs overheated, it crashes to protect itself and other PC hardware components from further damage.
@@ -149,17 +170,10 @@ To use Fortect:
 2. Type**taskmgr** and hit**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 3. Select **Performance** (the second icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 5. If you have a second GPU, do the same to check its temperture as well.
 
  Even though the GPU temperatures differ for differet manufacturers and models, your GPU tempertures should be in the range from**65 to 85°C** (149° to 185°F) under normal usage.
@@ -170,9 +184,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Test your GPU on another computer
 
  At this point, you should try your GPU on a different computer to see if the problem is with the graphics card itself: if no crashing problem is seen on the second computer, then the GPU is problem-free, and you should then move on to the next test.
@@ -182,6 +193,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  If you don’t have a second computer, you can also try to stress test your GPU with a third-party tool like [AIDA64 Extreme](https://www.aida64.com/downloads) ,[3DMark](https://www.3dmark.com/) or [FurMark](https://geeks3d.com/furmark/downloads/) to make sure that your GPU is still working fine. This is the stress GPU feature in AIDA64 Extreme if you’re interested:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-22.png)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t have the time or the energy to run such tests yourself, we also recommend that you seek help from a hardware technician instead, as such tests also require certain knowledge of computer hardware.
 
@@ -194,6 +218,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  To check if insufficient or faulty power supply unit is the culprit to the GPU crashes but PC stays on problem on your computer, you can use [AIDA64 Extreme](https://www.aida64.com/downloads) mentioned above. If you need more detailed instructions, here’s a post for you reference: **[How to use AIDA64 Extreme to monitor PSU](https://forums.aida64.com/topic/5874-how-to-use-aida64-extreme-to-monitor-psu-newly-built-system-has-stopped-working-suddenly-twice-now/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try a new GPU
 
@@ -213,8 +244,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,8 +251,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/et-unlimited-echoes-for-online-content-makers-in-2024/"><u>[New] Get Unlimited Echoes for Online Content Makers, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimal-steps-livestream-and-preserve-real-time-sports-events-for-2024/"><u>[New] Optimal Steps Livestream and Preserve Real-Time Sports Events for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs-for-2024/"><u>[Updated] Becoming the Ultimate Streamer on YouTube and Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-cult-classic-reimaginings-top-20-anime-on-tiktok-for-2024/"><u>[Updated] Cult Classic Reimaginings Top 20 Anime on TikTok for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnosing-steps-for-your-systems-ghosted-gpu/"><u>Diagnosing: Steps for Your System's Ghosted GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expert-pathway-to-windows-8s-secure-boot-graphics-card-driver-eradication/"><u>Expert Pathway to Windows 8'S Secure Boot - Graphics Card Driver Eradication</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/getting-past-dxgkrnlsys-bsod-on-pc/"><u>Getting Past dxgkrnl.sys BSOD on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818019053-graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-error-cleared-system-unaffected/"><u>Graphics Error Cleared: System Unaffected</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-microsoft-designer-today-say-goodbye-to-the-previous-hold-lists/"><u>Join Microsoft Designer Today - Say Goodbye to the Previous Hold Lists!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-the-challenges-in-german-education/"><u>Navigating the Challenges in German Education</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-a-smooth-apex-play/"><u>Quick Fixes for a Smooth Apex Play</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a14-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy A14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A38? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Silent Display on Graphics Card
-date: 2024-09-10T03:58:23.615Z
-updated: 2024-09-14T20:13:40.959Z
+date: 2024-09-25T04:11:24.170Z
+updated: 2024-10-01T13:12:50.145Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -60,6 +67,19 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Boot with the integrated display card
 
  If you have an integrated display card (like an Intel display or an AMD display), your computer might be set to boot with the new graphics card (which has no driver available) when it’s installed, and therefore with the black screen or no display issue.
@@ -72,23 +92,9 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -101,6 +107,14 @@ If this is not the problem, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -108,10 +122,16 @@ If this is not the problem, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
@@ -123,19 +143,6 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -149,6 +156,13 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -160,10 +174,16 @@ Here are the things you should pay extra attention to:
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
@@ -174,6 +194,14 @@ Here are the things you should pay extra attention to:
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
@@ -207,5 +235,19 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-precision-in-recording-windowsmaciosandroid-edition/"><u>[New] 2024 Approved Precision in Recording Windows/Mac/iOS/Android Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obsudio-screencast-review-finding-your-best-live-broadcast-tool/"><u>[Updated] Obsudio Screencast Review Finding Your Best Live Broadcast Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-softening-transitions-gradual-audio-fading-techniques-in-premiere/"><u>[Updated] Softening Transitions Gradual Audio Fading Techniques in Premiere</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/affordable-microsoft-office-2019-licenses-save-big-at-just-25-on-pcmac-via-zdnet/"><u>Affordable Microsoft Office 2019 Licenses: Save Big at Just $25 on PC/Mac via ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-window-10-features-unveiled-and-functional/"><u>Hidden Window 10 Features: Unveiled and Functional</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-collaborate-with-chatgpt-for-enhanced-vehicle-personalization-techniques/"><u>Innovative Ways to Collaborate With ChatGPT for Enhanced Vehicle Personalization Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovery-of-displays-setup-saves-on-windows-7-10-heres-how-resolved/"><u>Recovery of Displays Setup Saves on Windows 7-10, Here's How [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gfx-issues-windows-gui-restored-to-normal/"><u>Resolving GFX Issues: Windows GUI Restored to Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-screen-setup-finally-successful/"><u>Saving Screen Setup Finally Successful!</u></a></li>
+<li><a href="https://windows11.techidaily.com/ten-steps-to-clear-win11-dns-cache/"><u>Ten Steps to Clear Win11 DNS Cache</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-highest-quality-headphones-for-the-year-2023/"><u>The Ultimate Selection: Highest Quality Headphones for the Year 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-dxgkrnlsys-error-solved-bsod-explained/"><u>Win dxgkrnl.sys Error Solved: BSoD Explained</u></a></li>
+</ul></div>
 

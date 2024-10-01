@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Rejoices with Fixed Nvidia/Intel Graphics Card Pairing
-date: 2024-08-15T07:24:17.287Z
-updated: 2024-08-16T07:24:17.287Z
+date: 2024-09-29T20:23:59.199Z
+updated: 2024-10-01T11:12:00.599Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -49,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -79,9 +83,6 @@ There are two ways you can get the right drivers for your video cards: manually 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
@@ -90,21 +91,25 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -114,17 +119,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -137,8 +148,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +155,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>[New] Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-best-10-tools-for-stunning-insta-grid-designs/"><u>[Updated] 2024 Approved Best 10 Tools for Stunning Insta Grid Designs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-incorporate-live-captions-seamlessly-into-stories/"><u>[Updated] 2024 Approved Incorporate Live Captions Seamlessly Into Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-dissecting-screen-capture-tools-an-in-depth-look-at-apeaksoft/"><u>[Updated] In 2024, Dissecting Screen Capture Tools An In-Depth Look at Apeaksoft</u></a></li>
+<li><a href="https://win-dash.techidaily.com/access-your-updated-lenovo-drivers-specifically-designed-for-windows-11-systems/"><u>Access Your Updated Lenovo Drivers Specifically Designed for Windows 11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-laptop-fix-straighten-screen-edges/"><u>Effortless Laptop Fix - Straighten Screen Edges</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-update-your-windows-11-logitech-mouse-driver/"><u>Effortless Update: Your Windows 11 Logitech Mouse Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817829043-eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windowsminecraft-driver-glitch/"><u>Fix Windows/Minecraft Driver Glitch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-remedies-to-clean-liquid-from-internal-phone-speakers/"><u>Quick Remedies to Clean Liquid From Internal Phone Speakers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-tv-with-laptop-via-faulty-hdmi/"><u>Reconnect TV with Laptop via Faulty HDMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenate-your-pc-with-a-swift-graphic-driver-upgrade-for-win10/"><u>Rejuvenate Your PC with a Swift Graphic Driver Upgrade for Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-issues-with-amds-freesync-latency/"><u>Resolving Issues with AMD's FreeSync Latency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-airpods-understanding-and-resolving-connection-issues/"><u>Troubleshooting AirPods: Understanding & Resolving Connection Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-with-latest-windows-11-driver-for-radeon-hd-6950/"><u>Unleash Potential with Latest Windows 11 Driver for Radeon HD 6950</u></a></li>
+</ul></div>
 

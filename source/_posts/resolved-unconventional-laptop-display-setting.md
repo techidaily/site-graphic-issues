@@ -1,7 +1,7 @@
 ---
 title: Resolved Unconventional Laptop Display Setting
-date: 2024-08-15T07:23:03.818Z
-updated: 2024-08-16T07:23:03.818Z
+date: 2024-09-28T08:50:20.272Z
+updated: 2024-09-30T18:29:44.485Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -39,8 +36,12 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -48,17 +49,26 @@ To rotate your screen in your system display settings:
 1. Right click_an empty area_ of your desktop, then select**Display settings** or **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
  Sometimes your laptop graphics driver is not working properly so you’re having the screen sideways issue. You should try updating your graphics driver to see if this resolves your problem.
@@ -70,14 +80,16 @@ This should restore your laptop screen.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 4. Restart your computer.
 
@@ -91,8 +103,6 @@ This should restore your laptop screen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,8 +110,20 @@ This should restore your laptop screen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-premier-youtube-unboxers-who-to-follow/"><u>[New] Premier YouTube Unboxers Who to Follow</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[Updated] In 2024, From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inshot-tips-import-music-into-videos-effortlessly/"><u>[Updated] InShot Tips Import Music Into Videos Effortlessly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-calendar-integration-for-efficient-google-meets/"><u>2024 Approved Calendar Integration for Efficient Google Meets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ceasing-operation-solutions-for-laptop-screens-not-working/"><u>Ceasing Operation: Solutions for Laptop Screens Not Working</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-gfx-on-windows-os-user-interface-up-and-running/"><u>Fixed GFX on Windows OS - User Interface Up & Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-video-issues-post-update/"><u>Fixing Windows 10 Video Issues Post-Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-epson-v39-scanner-and-printer-drivers-for-pcs-running-windows-7-8-and-10/"><u>Free Download: Epson V39 Scanner and Printer Drivers for PCs Running Windows 7, 8 & 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fresh-nvidia-gpu-software-installation/"><u>Fresh Nvidia GPU Software Installation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a15-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A15 4G FRP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-rapid-flash-problems-in-acer-devices/"><u>Rectifying Rapid-Flash Problems in Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rousing-a-silent-gpus-spinning-heart/"><u>Rousing a Silent GPU's Spinning Heart</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo S18 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

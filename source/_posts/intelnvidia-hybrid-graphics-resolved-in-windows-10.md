@@ -1,7 +1,7 @@
 ---
 title: Intel/Nvidia Hybrid Graphics Resolved in Windows 10
-date: 2024-08-15T07:21:49.131Z
-updated: 2024-08-16T07:21:49.131Z
+date: 2024-09-30T12:26:53.334Z
+updated: 2024-10-01T02:40:16.325Z
 tags:
   - win11
   - win10
@@ -37,21 +37,17 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
@@ -73,8 +69,12 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -96,25 +96,18 @@ There are two ways you can get the right drivers for your video cards: manually 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -122,9 +115,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -134,17 +124,35 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,8 +161,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-in-depth-analysis-freelens-webcam-recorder-app/"><u>[New] In 2024, In-Depth Analysis Freelens Webcam Recorder App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ailored-trends-the-pathway-to-a-specialized-youtube-niche/"><u>[New] Tailored Trends The Pathway to a Specialized Youtube Niche</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pixelpipe-pro-discovering-freepaid-editors-for-2024/"><u>[Updated] PixelPipe Pro Discovering Free/Paid Editors for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-what-memes-really-mean/"><u>A Comprehensive Guide to What Memes Really Mean</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/comprehensive-guide-activating-windows-8s-safety-protocol-and-gpu-driver-removal/"><u>Comprehensive Guide: Activating Windows 8'S Safety Protocol & GPU Driver Removal</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-resolving-cs2-lag-issues-and-smoothing-out-gameplay/"><u>Effective Solutions: Resolving CS2 Lag Issues and Smoothing Out Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-driver-extraction-from-windows-systems/"><u>Efficient Driver Extraction From Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-and-pc-playability-solutions-for-freezing-issues-during-gaming/"><u>Fortnite and PC Playability : Solutions for Freezing Issues During Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/methodology-for-locating-personal-numbers-on-internet-platforms/"><u>Methodology for Locating Personal Numbers on Internet Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-missing-bios-resolved/"><u>NVIDIA GPU Missing BIOS [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-to-opengl-issue-nvidia-gpu-affected/"><u>Quick Fix to OpenGL Issue - NVIDIA GPU Affected</u></a></li>
+<li><a href="https://facebook.techidaily.com/reasons-for-the-decline-social-vs-forum-dynamics/"><u>Reasons for the Decline: Social vs Forum Dynamics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-10-advanced-ui-settings-not-showed/"><u>Resolved: Windows 10 Advanced UI Settings Not Showed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-streaming-after-update/"><u>Seamless Windows 10 Streaming After Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-huion-tablet-software-updates-and-downloads-on-windows/"><u>Successful Installation: Huion Tablet Software Updates and Downloads on Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-asus-rog-phone-7-ultimate-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Asus ROG Phone 7 Ultimate without backup.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unifying-windows-and-nvidia-graphics-for-seamless-performance/"><u>Unifying Windows & NVIDIA Graphics for Seamless Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmask-your-pcs-non-detecting-card-issue/"><u>Unmask Your PC's Non-Detecting Card Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanquish-invisible-launching-in-sims-town/"><u>Vanquish Invisible Launching in Sims Town</u></a></li>
+</ul></div>
 

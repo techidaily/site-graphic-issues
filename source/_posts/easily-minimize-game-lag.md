@@ -1,7 +1,7 @@
 ---
 title: Easily Minimize Game Lag
-date: 2024-09-09T16:49:34.528Z
-updated: 2024-09-15T06:00:46.760Z
+date: 2024-09-29T17:29:57.547Z
+updated: 2024-10-01T09:16:42.362Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Here’s how to do it:
  In**Vertical Sync** , select**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
 
@@ -105,9 +112,23 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -136,10 +157,10 @@ So you can follow the steps below to disable CPU core parking:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
@@ -167,10 +188,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -181,16 +202,16 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
@@ -199,6 +220,13 @@ So you can follow the steps below to disable CPU core parking:
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -223,5 +251,18 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-virtual-races-the-quintessential-list-for-2024/"><u>[New] Ultimate Virtual Races The Quintessential List for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>[Updated] Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-masterclass-analyzing-the-updated-lg-bp550/"><u>[Updated] In 2024, Masterclass Analyzing the Updated LG BP550</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-silence-card-upgrade/"><u>Monitor Silence, Card Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-radiance-to-rugged-reality-views/"><u>Restoring Radiance to Rugged Reality Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-display-normalized-after-fix/"><u>Screen Display Normalized After Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-handling-sudden-shutdowns-while-gaming-on-multiple-versions-of-windows-operating-systems/"><u>Solutions for Handling Sudden Shutdowns While Gaming on Multiple Versions of Windows Operating Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818375975-tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/teaching-troubleshooting-tactics-for-blank-displays/"><u>Teaching Troubleshooting Tactics for Blank Displays</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-reference-for-all-discord-users/"><u>The Ultimate Reference for All Discord Users</u></a></li>
+</ul></div>
 

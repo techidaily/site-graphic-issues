@@ -1,7 +1,7 @@
 ---
 title: "Win10 Fix: Smooth Operation of Switchable GPUs by NVIDIA"
-date: 2024-08-15T07:24:16.283Z
-updated: 2024-08-16T07:24:16.283Z
+date: 2024-09-28T01:22:28.746Z
+updated: 2024-10-01T01:07:42.413Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -40,21 +37,22 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -71,8 +69,12 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -89,14 +91,18 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -104,20 +110,28 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
@@ -134,8 +148,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,8 +155,16 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reversing-os-update-on-macs-back-to-el-capitan/"><u>2024 Approved Reversing OS Update on Macs Back to El Capitan</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/battled-and-solved-the-erratic-screen-blanks-on-laptops/"><u>Battled and Solved the Erratic Screen Blanks on Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bright-distraction-free-windows/"><u>Bright, Distraction-Free Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-redmi-k70e-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Redmi K70E</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-free-and-easy/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Free & Easy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-visuals-with-geforce-210-driver-on-windows-10/"><u>Enhanced Visuals with GeForce 210 Driver on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-12-rectified-monster-hunter-world-resumes/"><u>Error 12 Rectified: Monster Hunter World Resumes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-failure-a-guide-for-repair/"><u>Laptop Display Failure – A Guide for Repair</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
+</ul></div>
 

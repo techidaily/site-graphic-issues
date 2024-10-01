@@ -1,7 +1,7 @@
 ---
 title: System Stability Achieved Post-Fix #22
-date: 2024-08-15T07:21:23.960Z
-updated: 2024-08-16T07:21:23.960Z
+date: 2024-09-27T04:48:51.975Z
+updated: 2024-09-30T20:06:59.401Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -45,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -58,15 +59,19 @@ Be careful you don’t mistype, or press the wrong keys!
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -75,13 +80,7 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -97,12 +96,24 @@ Example – CMOS battery on a laptop
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -116,8 +127,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,8 +134,22 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-best-scripting-solutions-for-ae-for-2024/"><u>[Updated] Best Scripting Solutions for AE for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-sizzling-social-feast-10-viral-food-trends/"><u>2024 Approved The Sizzling Social Feast 10 Viral Food Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boundary-setting-for-insider-release-access/"><u>Boundary Setting for Insider Release Access</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4-freeze-problems-on-pc/"><u>Fixing Fallout 4 Freeze Problems on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-motorola-moto-g13-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Motorola Moto G13 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>In 2024, Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-the-challenge-of-unseen-graphics/"><u>Overcoming the Challenge of Unseen Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-mouse-on-windows-11/"><u>Screen Fix: Mouse on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-continuous-glare-asus-display-guide/"><u>Stop the Continuous Glare: ASUS Display Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-toms-tech-insights-detailed-analysis-and-reviews/"><u>Understanding Tom’s Tech Insights: Detailed Analysis and Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-black-screen-with-cursor-solved/"><u>Windows 11 Black Screen with Cursor [SOLVED]</u></a></li>
+</ul></div>
 

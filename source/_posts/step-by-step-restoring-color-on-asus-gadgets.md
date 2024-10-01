@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-09-20T17:03:49.528Z
-updated: 2024-09-26T00:36:22.035Z
+date: 2024-09-28T12:36:39.753Z
+updated: 2024-09-30T21:06:01.040Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
@@ -80,13 +73,6 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
@@ -106,6 +92,19 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## Fix 5: Disable fast startup
@@ -118,28 +117,41 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still got a black screen? Please try **Fix 6** , below.
 
@@ -153,35 +165,49 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your computer to see if the black screen issue has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
 
@@ -193,13 +219,6 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -227,16 +246,19 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-photo-editing-essentials-cut-out-unwanted-borders-smoothly/"><u>[Updated] Photo Editing Essentials Cut Out Unwanted Borders Smoothly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-serenity-seekers-guide-to-relaxed-youtube-viewing-52-chars/"><u>[Updated] The Serenity Seeker's Guide to Relaxed YouTube Viewing (52 Chars)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-reactivating-gpu-fan-spin/"><u>Guide to Reactivating GPU Fan Spin</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone SE and iPad</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-reno-10-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Reno 10 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-edge-2023-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Edge 2023 Phone Now with These Tips</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/leverage-multilingualism-why-mondly-is-ideal-for-afrikaans-learners/"><u>Leverage Multilingualism: Why Mondly Is Ideal for Afrikaans Learners</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shedding-light-fixing-twitchs-hidden-issue/"><u>Shedding Light: Fixing Twitch's Hidden Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-fix-tarkov-bug-amd-graphics-quick-guide/"><u>Swift FIX: Tarkov Bug - AMD Graphics Quick Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-fortnites-pitch-black-display-error-on-desktops/"><u>Troubleshooting Guide: How to Overcome Fortnite's Pitch-Black Display Error on Desktops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-mastery-troubleshooting-your-video-equipment/"><u>Zoom Mastery: Troubleshooting Your Video Equipment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-product-reviews-for-monetary-rewards-on-youtube/"><u>[New] Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-and-ai-intersection-redefined-by-gpt-4/"><u>Craftsmanship and AI Intersection Redefined by GPT-4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-to-correct-error-code-0xc00aturate-issues-in-black-ops-cold-war-gameplay/"><u>Expert Advice to Correct Error Code 0Xc00aturate Issues in Black Ops: Cold War Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-htc-by-drfone-android/"><u>How to Bypass FRP on HTC?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-concoct-laughter-in-image-format-giphy-style/"><u>In 2024, Concoct Laughter in Image Format, Giphy Style</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-rise-and-shine-on-these-overlooked-meme-platforms/"><u>In 2024, Rise and Shine on These Overlooked Meme Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pictureprofessional-expert-guide-to-adjusting-ig-content-sizes/"><u>PictureProfessional Expert Guide to Adjusting IG Content Sizes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsls-role-in-boosting-linux-desktops/"><u>WSL's Role in Boosting Linux Desktops</u></a></li>
 </ul></div>
 

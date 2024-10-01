@@ -1,7 +1,7 @@
 ---
 title: "Tips to Avoid GPU Fires: Sustain System Operation"
-date: 2024-08-15T07:23:13.843Z
-updated: 2024-08-16T07:23:13.843Z
+date: 2024-09-23T19:05:12.742Z
+updated: 2024-10-01T06:05:51.310Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Stop overclocking your GPU
 
  One of the first things to do is to stop overclocking your GPU if you’re doing it, even though overclocking the GPU can enhance your PC performance when you’re playing games.
@@ -52,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Clean install the GPU driver
 
  GPU crashes while the PC stays on can also be caused by incompatible graphics drivers. This is usually because an incompatible or faulty driver will stop the graphics card from working normally, and therefore with display problems like crashing and freezing.
@@ -66,9 +67,24 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -96,15 +112,19 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  See if the GPU crashes but the PC stays on problem is fixed with an updated graphics card driver. If the problem still remains, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 3\. Repair corrupted system files
 
  Corrupted or damaged system files can also cause problems like GPU crashing while the PC remains on. This is because the integrity of Windows system files is essential for proper operation and stability of the overall computer, while errors in critical system files can cause crashes, freezes, and problems that affect PC performance.
@@ -116,13 +136,20 @@ To use Fortect:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -143,14 +170,22 @@ To use Fortect:
 2. Type**taskmgr** and hit**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Select **Performance** (the second icon).  
-![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
 5. If you have a second GPU, do the same to check its temperture as well.
@@ -163,9 +198,6 @@ To use Fortect:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 5\. Test your GPU on another computer
 
  At this point, you should try your GPU on a different computer to see if the problem is with the graphics card itself: if no crashing problem is seen on the second computer, then the GPU is problem-free, and you should then move on to the next test.
@@ -175,8 +207,12 @@ To use Fortect:
  If you don’t have a second computer, you can also try to stress test your GPU with a third-party tool like [AIDA64 Extreme](https://www.aida64.com/downloads) ,[3DMark](https://www.3dmark.com/) or [FurMark](https://geeks3d.com/furmark/downloads/) to make sure that your GPU is still working fine. This is the stress GPU feature in AIDA64 Extreme if you’re interested:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-22.png)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time or the energy to run such tests yourself, we also recommend that you seek help from a hardware technician instead, as such tests also require certain knowledge of computer hardware.
@@ -191,9 +227,6 @@ To use Fortect:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Try a new GPU
 
  If you’ve tried all the above, but the GPU crashes but PC remains on issue still persists, it’s probably time for you to consider a new GPU, given that the current GPU might not work well for your computer.
@@ -212,8 +245,6 @@ To use Fortect:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,8 +252,21 @@ To use Fortect:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/automate-peaceful-rest-for-your-windows-11-desktop/"><u>Automate Peaceful Rest for Your Windows 11 Desktop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/detected-gpu-hiccup-nvidia-reparation-complete/"><u>Detected GPU Hiccup - NVIDIA Reparation Complete</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-rapid-graphics-drivers-failure-while-playing-valorant-step-by-step-guide/"><u>Fixing Rapid Graphics Drivers Failure While Playing Valorant - Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-rtx-3080-game-freezes-tips/"><u>Fixing RTX 3080 Game Freezes - Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-upgrade-intelligent-hd-graphics-support-in-windows/"><u>How to Upgrade Intelligent HD Graphics Support in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-15-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-depth-analysis-of-the-dell-inspiron-7635-impressive-display-vs-notable-issues-unveiled-in-our-latest-review/"><u>In-Depth Analysis of the Dell Inspiron 7635: Impressive Display Vs. Notable Issues Unveiled in Our Latest Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-lenovos-dark-scenes/"><u>Shedding Light on Lenovo's Dark Scenes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-nvidia-rtx-freeze-events/"><u>Stop NVIDIA RTX Freeze Events</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-realme-10t-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme 10T 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-a-non-functioning-corsair-hs35-mic-on-windows-systems/"><u>Troubleshooting and Solutions for a Non-Functioning Corsair HS35 Mic on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-in-itunes-audio-configurations/"><u>Troubleshooting Common Issues in iTunes Audio Configurations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-your-gpus-hidden-vigor/"><u>Unlocking Your GPU's Hidden Vigor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-to-the-future-why-choose-chatgpt-pluss-9-features/"><u>Upgrade to the Future: Why Choose ChatGPT Plus's 9 Features?</u></a></li>
+</ul></div>
 

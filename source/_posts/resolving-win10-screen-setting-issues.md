@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2024-09-18T22:23:27.862Z
-updated: 2024-09-20T06:17:30.573Z
+date: 2024-09-28T17:58:54.703Z
+updated: 2024-10-01T13:14:13.390Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -62,6 +76,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -69,6 +90,13 @@ Here is how to do it:
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -96,23 +124,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -140,5 +154,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-5-proven-techniques-for-live-streaming-on-tiktok-desktop/"><u>[Updated] 2024 Approved 5 Proven Techniques for Live Streaming on TikTok Desktop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>[Updated] In 2024, Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-guide-to-outstanding-hdr-cameras/"><u>2024 Approved A Guide to Outstanding HDR Cameras</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a56s-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A56s 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-hiccup-in-win11/"><u>Eliminate Screen Hiccup in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-glitches-a-win11-victory-story/"><u>Fixing Glitches: A Win11 Victory Story</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hidden-advanced-options-in-win10-display/"><u>Fixing Hidden Advanced Options in Win10 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-activation-win11-laptop-operational/"><u>GPU Activation: Win11 Laptop Operational</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/improve-your-ios-devices-wireless-experience-a-guide-to-8-wi-fi-optimization-tips/"><u>Improve Your iOS Device's Wireless Experience: A Guide to 8 Wi-Fi Optimization Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y17s-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y17s Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-a24-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy A24 FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-xr-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone XR? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/max-360-vs-hero-11-gopro-cameras-face-off/"><u>Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-play-with-less-lag/"><u>Optimal Play with Less Lag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-os-blue-screen-correct-wdf-errors-in-windows/"><u>Stop OS Blue Screen: Correct WDF Errors in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-to-asus-display-dilemmas/"><u>Swift Solutions to Asus Display Dilemmas</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-victory-quick-fix-for-blank-monitors/"><u>Visual Victory: Quick FIX for Blank Monitors</u></a></li>
+</ul></div>
 

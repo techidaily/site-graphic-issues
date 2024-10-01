@@ -1,7 +1,7 @@
 ---
 title: Display Protocol Normalized
-date: 2024-08-15T07:24:34.809Z
-updated: 2024-08-16T07:24:34.809Z
+date: 2024-09-28T18:06:30.253Z
+updated: 2024-10-01T10:31:48.245Z
 tags:
   - win11
   - win10
@@ -42,9 +42,12 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -57,37 +60,42 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -106,9 +114,6 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -122,8 +127,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,8 +134,22 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-secrets-of-the-trade-boosting-popularity-with-tiktok-unboxings/"><u>[New] 2024 Approved Secrets of the Trade Boosting Popularity with TikTok Unboxings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-fixed-dxgkrnlsys-bsod-on-pc/"><u>[Tech] Fixed dxgkrnl.sys BSOD on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-persuasive-visuals-uncover-the-power-in-6-video-types/"><u>2024 Approved Persuasive Visuals Uncover the Power in 6 Video Types</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-performance-geforce-210-update-for-w11/"><u>Boost Performance: GeForce 210 Update for W11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-an-oculus-questquest-2-user-profile-tutorial/"><u>Creating an Oculus Quest/Quest 2 User Profile Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/harmonizing-office-efficiency-with-quick-fixes-for-printerpluslaptop-linkage/"><u>Harmonizing Office Efficiency with Quick Fixes for Printer+Laptop Linkage</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-15-plus-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 15 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-easy-youtube-file-transfer-techniques/"><u>In 2024, Easy YouTube File Transfer Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-stable-fallout-4-gaming-on-pc/"><u>Quick Fixes for Stable Fallout 4 Gaming on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reignite-asus-cameras-that-arent-working/"><u>Reignite Asus Cameras That Aren't Working</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/twitch-lights-out-resolution-strategies/"><u>Twitch Lights Out: Resolution Strategies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexpected-darkness-your-laptops-non-responsive-screen/"><u>Unexpected Darkness: Your Laptop's Non-Responsive Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmissable-vr-immersive-storytelling-for-2024/"><u>Unmissable VR Immersive Storytelling for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+</ul></div>
 

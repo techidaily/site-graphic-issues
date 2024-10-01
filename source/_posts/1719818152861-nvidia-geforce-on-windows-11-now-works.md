@@ -1,7 +1,7 @@
 ---
 title: Nvidia GeForce on Windows 11 - Now Works
-date: 2024-09-20T20:53:51.327Z
-updated: 2024-09-25T22:14:41.662Z
+date: 2024-09-26T01:28:27.858Z
+updated: 2024-09-30T23:43:47.440Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 2) Expand**Display adapters**and find **LogMeIn Mirror Driver**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c85651576.png) 3) Right-click **LogMeIn Mirror Driver** and click **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c8b394548.png) 4) At the prompt window, tick the box for **Delete the driver software for this device**and **OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c8e56537f.png) If you have some other remote access software or some third party device showing up under Display adapters, uninstall them as well. 5) Reboot your computer. 6) Try Windows Update again to see if you can upgrade to Windows 10\. If you need, you could install the driver for your LogMeIn Mirror Driver back on again after you have upgraded to Windows 10\. ```` ```` ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ``  Method 2: Clean Re-install Display Driver
@@ -47,20 +47,20 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59daf96a24dba.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Expand**Display adapters**. Right-click your display device driver and click**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d58e3edbb.png) 3) Tick the box for **Delete the driver software for this device** and click**OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d5f49d3d4.png) 4) Then go to the icon on the top and click the**Scan**button.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d64350fba.png) 5) Open the folder where you place the downloaded graphics card driver and copy its address. 6) Go back to **Device Manager**  and right-click your display device driver,  which may be listed under **Other devices,** and click **Update Driver Software…** ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dabe1fa4f.png) 7) Click **Browse my computer for driver software.** ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dacf00084.png) 8)**Paste**the location of the downloaded file to the input box here and click **Next**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dbeb0cb49.png)  Wait for the system to help you with the installation. 9) Reboot your computer for the change to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ```` ```` ``  Method 3: Update Display Driver
@@ -68,10 +68,10 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 If the above method doesn’t work for you, you need to update your display card driver. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0869bdce5d.png) 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0884f08079.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -92,16 +92,21 @@ If the above method doesn’t work for you, you need to update your display card
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-chromebooks-finest-free-video-capturers/"><u>[New] 2024 Approved Chromebooks' Finest Free Video Capturers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-joyjingles-where-to-find-hilarious-ringtone-links/"><u>[New] JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>2024 Approved Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-manage-browser-cookie-settings-in-windows-10-a-guide-for-chrome-firefox-opera-and-edge-users/"><u>How to Manage Browser Cookie Settings in Windows 10: A Guide for Chrome, Firefox, Opera, and Edge Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-real-vs-fake-quick-ways-to-audit-your-insta-circle/"><u>In 2024, Real Vs. Fake Quick Ways to Audit Your Insta Circle</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-installing-the-latest-scansnap-ix500-drivers-on-your-windows-pc/"><u>Simple Steps: Installing the Latest ScanSnap iX500 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solution-wake-up-your-silent-dp-connection/"><u>Swift Solution: Wake up Your Silent DP Connection</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-13-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 13?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-angled-artistry-elevating-youtube-video-editing-skills/"><u>[New] 2024 Approved Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enrich-your-photographic-expression-techniques-for-inserting-text-onto-images-for-2024/"><u>[New] Enrich Your Photographic Expression Techniques for Inserting Text Onto Images for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-motion-enhancement-via-adobe-tools/"><u>2024 Approved Photo Motion Enhancement via Adobe Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-x6-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco X6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-setbacks-with-vanguard-meet-the-new-minimal-specs-for-seamless-performance/"><u>Avoid Setbacks with Vanguard - Meet the New Minimal Specs for Seamless Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/chatgpt-not-working-discover-9-effective-ways-to-get-it-up-and-running-on-your-iphone/"><u>ChatGPT Not Working? Discover 9 Effective Ways to Get It Up and Running on Your iPhone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-the-intensified-experience-of-marvels-spider-man-with-miles-morales/"><u>Comprehensive Review: The Intensified Experience of Marvel’s Spider-Man with Miles Morales</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-disruption-halts-halo-infinite-game-startup/"><u>DX12 Disruption Halts Halo Infinite Game Startup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-the-computer-screen/"><u>Fix Vertical Lines on the Computer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-nvidiawin11-compatibility-concerns/"><u>Fixing NVidia/Win11 Compatibility Concerns</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-pova-5-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Pova 5?</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-residual-reductions-in-visual-outputs/"><u>Rectifying Residual Reductions in Visual Outputs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-non-gpu-use-on-notebook-windows-1011/"><u>Resolve Non-GPU Use on Notebook Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-screen-freeze-fix-minecraft-driver/"><u>Resolve Screen Freeze: Fix Minecraft Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-setup-unsuccessful/"><u>Visual Setup Unsuccessful</u></a></li>
 </ul></div>
 

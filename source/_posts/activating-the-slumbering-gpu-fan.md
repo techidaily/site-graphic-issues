@@ -1,7 +1,7 @@
 ---
 title: Activating the Slumbering GPU Fan
-date: 2024-09-20T01:52:21.918Z
-updated: 2024-09-25T20:13:43.074Z
+date: 2024-09-27T07:14:32.583Z
+updated: 2024-10-01T03:42:57.577Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the fixes. Simply work your way down until you find the one that does the trick.
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 5. [**Repair your system**](#fix5)
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure all cables are plugged in
 
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
@@ -51,29 +65,28 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -101,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  After updating all your drivers, restart your PC and check if the fans spin now.
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
 
@@ -111,23 +124,9 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Scan and repair your system
 
@@ -140,22 +139,29 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -180,16 +186,17 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-novice-networking-necessities-affordable-monetized-platforms/"><u>[New] 2024 Approved Novice Networking Necessities Affordable Monetized Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-inside-vidma-a-new-chapter-in-video-capture-tech/"><u>[New] In 2024, Inside Vidma A New Chapter in Video Capture Tech</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-whats-the-optimal-frame-rate-comparing-30-vs-60hz-recording/"><u>[Updated] 2024 Approved What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-craft-your-virtual-persona-with-our-metaverse-guide/"><u>2024 Approved Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817829043-eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-12-rectified-monster-hunter-world-resumes/"><u>Error 12 Rectified: Monster Hunter World Resumes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-reno-10-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Reno 10 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-failure-a-guide-for-repair/"><u>Laptop Display Failure – A Guide for Repair</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/push-youtube-boundaries-with-creative-studio-expertise-and-tactics/"><u>Push Youtube Boundaries with Creative Studio Expertise and Tactics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnect-tv-with-laptop-via-faulty-hdmi/"><u>Reconnect TV with Laptop via Faulty HDMI</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-deafen-silent-tweets-impact/"><u>[New] 2024 Approved How to Deafen Silent Tweets' Impact</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-content-game-top-20-best-practices-for-captivating-tiktok-captions/"><u>[New] In 2024, Elevate Your Content Game Top 20 Best Practices for Captivating TikTok Captions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-conquer-your-first-successful-zoom-call-for-2024/"><u>[Updated] Conquer Your First Successful Zoom Call for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-defeat-bot-intruders-elevate-video-engagement-for-2024/"><u>[Updated] Defeat Bot Intruders, Elevate Video Engagement for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alleviating-absence-of-aesthetic-screen-features/"><u>Alleviating Absence of Aesthetic Screen Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-vs-powerful-performance-choosing-the-right-gaming-pc-for-you-in-2e3-budget-friendly-and-high-end/"><u>Best Value Vs. Powerful Performance: Choosing the Right Gaming PC for You in 2E3 (Budget-Friendly and High-End)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-bsod-in-windows-reversed/"><u>dxgkrnl.sys BSoD in Windows Reversed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-black-screens-from-twitch-streams/"><u>Eliminating Black Screens From Twitch Streams</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-game-launch-errors-a-step-by-step-solution-for-granblue-fantasy-relink-issue/"><u>Fix Your Game Launch Errors: A Step-by-Step Solution for Granblue Fantasy Relink Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-c1900101-error-on-windows-11-setup/"><u>Troubleshooting C1900101 Error on Windows 11 Setup</u></a></li>
 </ul></div>
 

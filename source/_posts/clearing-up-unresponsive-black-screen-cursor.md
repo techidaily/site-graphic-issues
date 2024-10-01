@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Unresponsive Black Screen, Cursor
-date: 2024-09-09T02:19:52.064Z
-updated: 2024-09-10T02:19:52.064Z
+date: 2024-09-24T22:44:30.262Z
+updated: 2024-09-30T22:37:15.270Z
 tags:
   - win11
   - win10
@@ -14,40 +14,10 @@ keywords: Fixing Black Screen Issues,Resolve Freeze Curser on Monitor,Troublesho
 thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb05110531a19fe5b1a551105a59.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clearing Up Unresponsive Black Screen, Cursor
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
 
  There are six possible solutions for this problem. You may not have to try them all – just work your way down the list until you find the fix that works for you.
@@ -93,6 +63,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -101,13 +78,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
 
@@ -119,32 +97,22 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
@@ -154,11 +122,12 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
 ### **Fix 4: Disable integrated graphics card**
@@ -174,13 +143,21 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -188,12 +165,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Log in using a different user account
 
  The black screen problem can also be caused by corrupted Windows user profile. If you can log in to Windows with a different user account, and use it without any problems, a corrupted user profile may be the cause. You can then replace the folder of the corrupted user profile with the folder of the working user profile. Here’s how:
@@ -240,6 +211,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -250,12 +228,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -267,31 +239,20 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
@@ -306,8 +267,6 @@ If you’re on a laptop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -315,8 +274,18 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-live-broadcasting-made-simple-a-practical-guide/"><u>[New] Live Broadcasting Made Simple A Practical Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>[New] Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-10-essential-screen-recording-apps-for-mac-users-for-2024/"><u>[Updated] 10 Essential Screen Recording Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads/"><u>[Updated] 2024 Approved Navigate with Precision The Complete Guide to iDevice Podcast Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-compreomed-approach-to-filmmaking-mastering-movie-maker-windows-8-techniques/"><u>[Updated] A Compreomed Approach to Filmmaking Mastering Movie Maker (Windows 8) Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818280780-elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-210-latest-updates-for-w11-systems/"><u>GeForce 210: Latest Updates for W11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-system-failure-to-launch/"><u>Graphics System Failure to Launch</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-phantom-v-fold-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Phantom V Fold Location Settings | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-visibility-bring-back-the-lost-screen-signal/"><u>Instant Visibility: Bring Back the Lost Screen Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-wobbly-laptop-monitor-edges/"><u>Resolve Wobbly Laptop Monitor Edges</u></a></li>
+</ul></div>
 

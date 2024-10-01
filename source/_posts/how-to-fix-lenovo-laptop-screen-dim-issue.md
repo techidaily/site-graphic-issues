@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-09-24T10:48:43.831Z
-updated: 2024-09-26T11:29:58.509Z
+date: 2024-09-26T16:02:08.810Z
+updated: 2024-09-30T16:19:56.491Z
 tags:
   - win11
   - win10
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -55,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 **b)**  Press the power button to**start up** your laptop. In the meantime, press and hold the**brightness-up key** on the keyboard, which is usually a**function key** (**F1-** **F12**).
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3) Modify Registry
 
@@ -73,26 +79,32 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
@@ -100,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
@@ -127,21 +139,17 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-10-must-use-filmmaking-cuts-explained/"><u>[Updated] 10 Must-Use Filmmaking Cuts Explained</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-drone-experience-yuneec-q500/"><u>[Updated] The Ultimate Drone Experience Yuneec Q500</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-prime-free-enhancement-tool-for-pics-onlineapp/"><u>2024 Approved Prime Free Enhancement Tool for Pics Online/App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>2024 Approved The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-transforming-unboxing-magic-7-ways/"><u>2024 Approved Transforming Unboxing Magic 7 Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-the-visual-frontier-steps-to-setting-up-your-xbox-series-x-in-4k/"><u>Conquer the Visual Frontier: Steps to Setting Up Your Xbox Series X in 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-inverted-display-on-windows-11/"><u>Correcting Inverted Display on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrective-measures-for-blinking-display-hp/"><u>Corrective Measures for Blinking Display (HP)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ended-the-continuous-blank-screens-in-my-laptop/"><u>Ended the Continuous Blank Screens in My Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-unexpected-display-glitches-on-your-windows-10-computer/"><u>How To Stop Unexpected Display Glitches on Your Windows 10 Computer</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-closing-with-panache-free-youtubes-1-six/"><u>In 2024, Closing with Panache Free YouTube's #1 Six</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-access-no-longer-rejected/"><u>NVIDIA Access No Longer Rejected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silencing-the-shimmer-on-your-acer-monitor/"><u>Silencing the Shimmer on Your Acer Monitor</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/top-techniques-for-quickly-downloading-youtube-content-without-vlc-uncover-the-best-free-tools/"><u>Top Techniques for Quickly Downloading YouTube Content Without VLC: Uncover the Best Free Tools!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turnbackarounddisplay/"><u>TurnBackAroundDisplay</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818141208-update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beyond-hdtv-boundaries-embracing-4k-resolution/"><u>Beyond HDTV Boundaries: Embracing 4K Resolution</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/capture-connections-real-time-recordings-for-2024/"><u>Capture Connections Real Time Recordings for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-speed-with-msis-new-aiplus-series-for-gamers-and-creative-professionals-powered-by-100-to-amoled-542-tops/"><u>Experience Next-Level Speed with MSI's New AI+ Series for Gamers & Creative Professionals - Powered by 100 to Amoled 542 TOPS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-7-easy-steps-for-a-subscriber-surge-on-youtube/"><u>In 2024, 7 Easy Steps for a Subscriber Surge on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>In 2024, Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-under-100-gaming-keyboards-your-next-purchase/"><u>In 2024, Top 5 Under-$100 Gaming Keyboards – Your Next Purchase?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stability-in-screens-preventing-monitor-flickers/"><u>Stability in Screens: Preventing Monitor Flickers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-transforming-snd-audio-files-into-wav-format-using-your-computer/"><u>Step-by-Step Guide: Transforming SND Audio Files Into WAV Format Using Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-requesting-a-steam-game-refund-online/"><u>Step-by-Step Process of Requesting a Steam Game Refund Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-recording-success-tips-for-fixing-your-cam/"><u>Zoom Recording Success: Tips for Fixing Your Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-video-lifeline-immediate-troubleshooting-tips/"><u>Zoom Video Lifeline - Immediate Troubleshooting Tips</u></a></li>
 </ul></div>
 

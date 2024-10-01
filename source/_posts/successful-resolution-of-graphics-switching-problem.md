@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2024-09-18T21:30:13.060Z
-updated: 2024-09-26T12:21:48.343Z
+date: 2024-09-24T18:13:53.832Z
+updated: 2024-09-30T21:55:39.561Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -37,22 +44,29 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -90,25 +104,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -116,16 +123,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -134,13 +141,6 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,16 +157,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/adjustment-required-too-large-win-10-vista/"><u>Adjustment Required: Too Large WIN 10 Vista</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-performance-ahead-updated-drivers-for-radeon-hd-6950/"><u>Drive Performance Ahead: Updated Drivers for Radeon HD 6950</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/jingle-bells-around-the-world-santas-tongue/"><u>Jingle Bells Around the World - Santa's Tongue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-functionality-restored-in-win11/"><u>Laptop's GPU Functionality Restored in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-display-malfunctions-code-fixed/"><u>No More Display Malfunctions - Code Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-fidelity-of-fc6-ui/"><u>Perfecting Visual Fidelity of FC6 UI</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tactile-tech-triumph-a-detailed-look-at-apples-groundbreaking-iphone-15-pro/"><u>Tactile Tech Triumph: A Detailed Look at Apple's Groundbreaking iPhone 15 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-gt-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme GT 3 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-can-i-use-twitter-archive/"><u>[New] In 2024, How Can I Use Twitter Archive?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-rotated-window-interface-in-windows-10/"><u>Correcting Rotated Window Interface in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-end-of-problems/"><u>GPU Error 43: End of Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantly-boost-your-pc-with-intel-3000-update/"><u>Instantly Boost Your PC with Intel 3000 Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-solutions-with-toms-guidance/"><u>Mastering Hardware Solutions with Tom's Guidance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-graphics-for-windows-11-with-nvidia-geforce-210/"><u>Streamlined Graphics for Windows 11 with NVIDIA GeForce 210</u></a></li>
+<li><a href="https://windows11.techidaily.com/success-tips-reviving-your-intel-unison-app/"><u>Success Tips: Reviving Your Intel Unison App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day-for-2024/"><u>Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-6s-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 6s</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-generating-the-nut-button-meme/"><u>Updated Generating the Nut Button Meme</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrading-screen-clarity-for-far-cry-texts/"><u>Upgrading Screen Clarity for Far Cry Texts</u></a></li>
 </ul></div>
 

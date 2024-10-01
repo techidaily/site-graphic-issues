@@ -1,7 +1,7 @@
 ---
 title: Anthem Load Faster Now
-date: 2024-08-15T07:23:28.266Z
-updated: 2024-08-16T07:23:28.266Z
+date: 2024-09-28T00:15:35.287Z
+updated: 2024-09-30T16:29:34.673Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Optimize your in-game settings
 
  For the best performance of Anthem and less lag, you can adjust your in-game settings.
@@ -43,10 +40,6 @@ Here’s how to do it:
  In**Vertical Sync** , select**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
 
@@ -73,13 +66,30 @@ Here’s how to do it:
  In**Vegetation Quality,** choose**Medium** ;  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -111,12 +121,16 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) In the**System Configuration** window, click**OK** .  
 
@@ -125,6 +139,19 @@ So you can follow the steps below to disable CPU core parking:
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -139,16 +166,10 @@ So you can follow the steps below to disable CPU core parking:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -174,11 +195,22 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -188,9 +220,6 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -199,15 +228,16 @@ So you can follow the steps below to disable CPU core parking:
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Click**OK** to exit.
@@ -226,8 +256,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,8 +263,18 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-increasing-video-visibility-with-engaging-youtube-images-for-2024/"><u>[Updated] Increasing Video Visibility with Engaging Youtube Images for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-screenscape-disturbances-in-pro-7/"><u>Banishing Screenscape Disturbances in Pro 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-improved-keyboard-reaction-times/"><u>Effortless Fixes for Improved Keyboard Reaction Times</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/experiencing-slow-performance-in-premiere-pro-explore-these-10plus-troubleshooting-tips/"><u>Experiencing Slow Performance in Premiere Pro? Explore These 10+ Troubleshooting Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-increase-screen-brightness-on-lenovo-laptops/"><u>How to Increase Screen Brightness on Lenovo Laptops</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejoicing-in-high-customer-approval-averaging-245/"><u>Rejoicing in High Customer Approval - Averaging 245%</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-experience-fix-for-intel-and-nvidia-switchable-graphics/"><u>Seamless Windows 10 Experience: Fix for Intel & NVIDIA Switchable Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-stop-asus-laptop-screen-flashes/"><u>Troubleshooting: Stop ASUS Laptop Screen Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stabilization-achieved/"><u>Windows 10 Display Stabilization Achieved</u></a></li>
+</ul></div>
 

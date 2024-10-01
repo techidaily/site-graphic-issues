@@ -1,7 +1,7 @@
 ---
 title: Vertical Panel Setup Fixed in Netbook
-date: 2024-08-15T07:21:26.064Z
-updated: 2024-08-16T07:21:26.064Z
+date: 2024-09-24T21:57:12.787Z
+updated: 2024-10-01T08:00:19.265Z
 tags:
   - win11
   - win10
@@ -28,8 +28,12 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -39,30 +43,39 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
 
 1. Right click_an empty area_ of your desktop, then select**Display settings** or **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
  Sometimes your laptop graphics driver is not working properly so you’re having the screen sideways issue. You should try updating your graphics driver to see if this resolves your problem.
@@ -74,9 +87,6 @@ This should restore your laptop screen.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
@@ -92,8 +102,6 @@ This should restore your laptop screen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +109,21 @@ This should restore your laptop screen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-view-count-prime-hashtags-strategy/"><u>[New] 2024 Approved Elevate View Count Prime Hashtags Strategy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-optimal-viewing-times-on-instagram-videos/"><u>[Updated] 2024 Approved Optimal Viewing Times on Instagram Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-free-voice-modification-tools-enhance-your-auditory-presentation-for-2024/"><u>[Updated] Free Voice Modification Tools – Enhance Your Auditory Presentation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-identity-constructing-memorable-templates-for-gamers/"><u>[Updated] In 2024, Channel Identity Constructing Memorable Templates for Gamers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>[Updated] In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-card-unsupported-on-classic-windows-versions/"><u>AMD Card Unsupported on Classic Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-frozen-windows-10-monitor/"><u>Bypassing Frozen Windows 10 Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-windows-7-reverse-view/"><u>Corrected Windows 7 Reverse View</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-performance-with-updated-amd-hd-6950-for-windows-10/"><u>Enhanced Rendering Performance with Updated AMD HD 6950 for Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unmask-invisible-fb-posts-with-these-proven-effective-12-fixes-for-23/"><u>In 2024, Unmask Invisible FB Posts with These Proven, Effective 12 Fixes for '23</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-through-faulty-asus-camera-glitches/"><u>Push Through Faulty ASUS Camera Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-display-on-graphics-card/"><u>Silent Display on Graphics Card</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo V30? | Dr.fone</u></a></li>
+</ul></div>
 

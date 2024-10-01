@@ -1,7 +1,7 @@
 ---
 title: Flickering Screen? Follow This Quick ASUS Guide to Solve It
-date: 2024-09-04T07:09:57.529Z
-updated: 2024-09-05T07:09:57.529Z
+date: 2024-09-23T18:17:03.039Z
+updated: 2024-10-01T03:29:52.279Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -42,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. In**Related settings** , click**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -59,18 +74,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update or delete incompatible apps
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** .
@@ -81,12 +84,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,39 +99,29 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -147,11 +134,18 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once finished with the repair, check if the error has been resolved.
@@ -170,8 +164,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,8 +171,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>[New] 2024 Approved Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-start-easy-iphone-screen-capture-methods-for-2024/"><u>[New] Quick Start Easy iPhone Screen Capture Methods for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-obs-tutorial-for-skype-sessions/"><u>[Updated] 2024 Approved Step-by-Step OBS Tutorial for Skype Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-simple-guide-seamlessly-transforming-avi-videos-into-ios-device-compatible-formats/"><u>1. Simple Guide: Seamlessly Transforming AVI Videos Into iOS Device Compatible Formats</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818355515-cpp-unlocked-successfully/"><u>CPP Unlocked Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-on-recent-win11-laptop/"><u>GPU Status Normalized on Recent Win11 Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-drives-back-online-post-malfunction/"><u>Graphics Drives Back Online Post-Malfunction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-direct-x-flaw-now-patched-in-lol/"><u>Hidden Direct X Flaw Now Patched in LoL</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/keeping-games-running-on-rtx-3080/"><u>Keeping Games Running on RTX 3080</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-removal-techniques-for-graphics-drivers/"><u>Masterful Removal Techniques for Graphics Drivers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigate-the-maze-of-mp4-cutters-for-mac-creators/"><u>Navigate the Maze of MP4 Cutters for Mac Creators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-gen-gaming-new-radeon-hd-6950-on-win10/"><u>Next-Gen Gaming: New Radeon HD 6950 on Win10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-psd-free-3d-text-treasure-hunt-for-2024/"><u>Premium PSD Free 3D Text Treasure Hunt for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-installation-block-overcome-c1900101-error/"><u>Solving Installation Block: Overcome C1900101 Error</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/undetected-video-card-alert/"><u>Undetected Video Card Alert</u></a></li>
+</ul></div>
 

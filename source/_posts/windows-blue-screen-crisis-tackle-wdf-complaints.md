@@ -1,7 +1,7 @@
 ---
 title: "Windows Blue Screen Crisis: Tackle WDF Complaints"
-date: 2024-09-11T16:07:39.202Z
-updated: 2024-09-14T16:06:28.338Z
+date: 2024-09-24T23:15:10.797Z
+updated: 2024-10-01T12:21:45.042Z
 tags:
   - win11
   - win10
@@ -64,11 +64,25 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When prompted to provide administrator permission, click **Yes** .
 
  2) Type**verifier** in the command prompt window. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910349670aa3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Choose**Create standard settings** and then click**Next** to continue.
 
@@ -79,6 +93,13 @@ When prompted to provide administrator permission, click **Yes** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59103553b4fa3.jpg)
 
  When the detect process finishes, just follow the instructions to get rid of the WDF\_VIOLATION blue screen error fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Run a Windows repair
 
@@ -120,6 +141,13 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 * [BSOD](https://tools.techidaily.com/drivereasy/download/)
@@ -137,12 +165,26 @@ Here’s how to use Fortect to run a Windows repair:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-savvy-sponsorship-strategies-for-small-scale-sites/"><u>2024 Approved Savvy Sponsorship Strategies for Small-Scale Sites</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-economical-sound-experience-a-review-of-basic-soundbar/"><u>Amazon's Economical Sound Experience: A Review of Basic Soundbar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/camera-hardware-problem-code-43-fixed/"><u>Camera Hardware Problem Code 43 Fixed</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/comprehensive-guide-to-the-lg-um7300-49-inch-television-a-budget-friendly-4k-option/"><u>Comprehensive Guide to the LG UM7300 49-Inch Television: A Budget-Friendly 4K Option</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/computerviewcorrection-techniques/"><u>ComputerViewCorrection Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-xbox-series-graphics-hiccup/"><u>Cured Xbox Series Graphics Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-all-systems-go/"><u>Direct3D Startup: All Systems Go</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-pleasure-no-more-lags/"><u>Enhance Viewing Pleasure - No More Lags</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a1-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A1 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-s24plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy S24+ on Mac?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maestro-of-visual-and-sonic-harmony-creation/"><u>In 2024, Maestro of Visual & Sonic Harmony Creation</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mastering-online-broadcasts-with-manycam-the-best-live-video-software-and-fake-webcams/"><u>Mastering Online Broadcasts with ManyCam: The Best Live Video Software & Fake Webcams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-freezes-fix-fallout-4-pc-issues/"><u>No More Freezes: Fix Fallout 4 PC Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-image-loading-problems-in-safari-a-guide-with-9-tips-for-your-iphone/"><u>Overcome Image Loading Problems in Safari: A Guide with 9 Tips for Your iPhone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-screens-with-windows-11-fix/"><u>Precise Screens with Windows 11 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-10s-switchable-gpu-puzzle-with-nvidiaintel/"><u>Solved: Windows 10'S Switchable GPU Puzzle with Nvidia/Intel</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/transformez-vos-fichiers-audio-gsm-en-gratuit-a-la-volee-convertissez-en-wav-via-movavi/"><u>Transformez Vos Fichiers Audio GSM En Gratuit À La Volée - Convertissez en WAV Via Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-comexception-error-now-fixed/"><u>Windows COMException Error Now Fixed</u></a></li>
+</ul></div>
 

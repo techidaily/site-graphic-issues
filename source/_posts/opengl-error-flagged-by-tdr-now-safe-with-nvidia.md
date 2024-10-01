@@ -1,7 +1,7 @@
 ---
 title: OpenGL Error Flagged by TDR — Now Safe with NVIDIA
-date: 2024-08-15T07:20:58.801Z
-updated: 2024-08-16T07:20:58.801Z
+date: 2024-09-29T16:36:47.385Z
+updated: 2024-09-30T21:33:37.231Z
 tags:
   - win11
   - win10
@@ -53,20 +53,34 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -80,8 +94,12 @@ See how to do it:
 3) Type**regedit.exe** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
@@ -93,9 +111,6 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -107,25 +122,17 @@ See how to do it:
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -142,8 +149,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,8 +156,26 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/incompatible-installing-amd-driver-on-classic-windows-versions/"><u>[INCOMPATIBLE] Installing AMD Driver on Classic Windows Versions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-gif-revolution-free-transformation-of-tweets-to-gifs-for-2024/"><u>[New] Gif Revolution Free Transformation of Tweets to GIFs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-increase-views-discover-20-prime-thumbnail-fonts/"><u>[New] Increase Views - Discover 20 Prime Thumbnail Fonts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>[Updated] In 2024, How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-ghosting-effects-on-your-laptops-screen/"><u>Clear Ghosting Effects on Your Laptop's Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combat-incorrect-video-cards-crashing-game/"><u>Combat Incorrect Video Cards Crashing Game</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-for-blacked-out-windows-11-with-fall-patch/"><u>Cure for Blacked-Out Windows 11 with Fall Patch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-ways-to-prevent-immortals-fenyx-rising-from-unexpectedly-crashing/"><u>Effective Ways to Prevent Immortals: Fenyx Rising From Unexpectedly Crashing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-essentials-of-the-windows-registry-a-comprehensive-guide/"><u>Exploring the Essentials of the Windows Registry: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-x50-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor X50 Device SIM</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intelnvidia-hybrid-graphics-resolved-in-windows-10/"><u>Intel/Nvidia Hybrid Graphics Resolved in Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-video-tags-with-ease-best-tools-for-windows-and-mac-for-2024/"><u>New Edit Video Tags with Ease Best Tools for Windows and Mac for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-mastering-the-art-of-video-merging/"><u>Step-by-Step Tutorial: Mastering the Art of Video Merging</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-reviving-your-asus-internal-cam/"><u>Troubleshooting: Reviving Your ASUS Internal Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upsidedownscreenremedy-guide/"><u>UpsideDownScreenRemedy Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-fullscreen-problem-non-displayed-monitor/"><u>Windows 10 Fullscreen Problem: Non-Displayed Monitor</u></a></li>
+</ul></div>
 

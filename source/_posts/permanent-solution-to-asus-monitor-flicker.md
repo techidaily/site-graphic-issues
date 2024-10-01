@@ -1,7 +1,7 @@
 ---
 title: Permanent Solution to ASUS Monitor Flicker
-date: 2024-08-15T07:21:58.403Z
-updated: 2024-08-16T07:21:58.403Z
+date: 2024-09-26T10:37:40.211Z
+updated: 2024-10-01T05:36:43.661Z
 tags:
   - win11
   - win10
@@ -39,39 +39,61 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
 
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In**Related settings** , click**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click**Advanced settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -102,9 +124,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -122,9 +141,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -144,8 +160,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,8 +167,23 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-iphone-lengthy-exposure-secrets/"><u>[New] 2024 Approved The Ultimate iPhone Lengthy Exposure Secrets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-methods-to-infuse-engaging-dialogue-in-videos/"><u>[Updated] Proven Methods to Infuse Engaging Dialogue in Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pursuing-peak-performance-selecting-premium-drone-motors-for-2024/"><u>[Updated] Pursuing Peak Performance Selecting Premium Drone Motors for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-layouts-for-virtual-minecraft-abodes/"><u>2024 Approved Innovative Layouts for Virtual Minecraft Abodes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-human-and-machine-in-academic-research/"><u>Bridging Human and Machine in Academic Research</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/chromebook-screenshots-made-easy-top-5-app-choices-for-2024/"><u>Chromebook Screenshots Made Easy Top 5 App Choices for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-screenscape-with-win11-update/"><u>Corrected Screenscape with Win11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-screen-flickering/"><u>How To Fix ASUS Laptop Screen Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hybridgraphics-reality-nvidia-and-intels-effortless-switching-in-win10/"><u>HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-the-newest-apple-household-aide-anticipated-cost-and-specs-uncovered/"><u>Insider Info on the Newest Apple Household Aide: Anticipated Cost & Specs Uncovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-quirk-identified-and-rectified-by-nvidia/"><u>OpenGL Quirk Identified & Rectified by Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-advanced-windows-10-visual-options/"><u>Recovered Advanced Windows 10 Visual Options</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-screen-dance-a-guide-to-ending-monitor-flicker/"><u>Solving Screen Dance: A Guide to Ending Monitor Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-comms-fault-solution-found/"><u>WinOS Comms Fault - Solution Found</u></a></li>
+</ul></div>
 

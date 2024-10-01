@@ -1,7 +1,7 @@
 ---
 title: "Mend: Window 11 Glitchy Screens"
-date: 2024-08-15T07:24:51.642Z
-updated: 2024-08-16T07:24:51.642Z
+date: 2024-09-29T19:13:57.453Z
+updated: 2024-10-01T06:42:59.963Z
 tags:
   - win11
   - win10
@@ -31,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -43,12 +47,25 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -89,15 +106,17 @@ To do so:
 
 1. On your keyboard, press the **Windows logo key**  and **R**   at the same time. Then type **services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
@@ -109,9 +128,6 @@ To do so:
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  Missing, corrupt, or damaged system files may cause display drivers to crash. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -133,10 +149,14 @@ Here’s how to use Fortect to repair system files on your PC:
 
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -151,17 +171,18 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -182,8 +203,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,8 +210,16 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/declutter-your-view-fix-flicker-in-vista-or-win7/"><u>Declutter Your View – Fix Flicker in Vista or Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-windows-7s-intel-gfx-performance-with-new-drivers/"><u>Elevate Windows 7’S Intel Gfx Performance with New Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-vanished-contact-information-in-your-androids-address-book/"><u>Finding Vanished Contact Information in Your Android's Address Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-craft-gifs-using-your-first-video-tutorials-for-newbies/"><u>How To Craft GIFs Using Your First Video Tutorials (For Newbies)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-blaze-2-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Blaze 2 Pro Through Google Earth?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-overcome-device-resumes-operation/"><u>IGFX Malfunction Overcome, Device Resumes Operation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-photo-edits-made-simple-pro-techniques-for-2024/"><u>Instagram Photo Edits Made Simple Pro Techniques for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-enhances-geforce-210-on-win11/"><u>NVIDIA Enhances GeForce 210 on Win11</u></a></li>
+</ul></div>
 

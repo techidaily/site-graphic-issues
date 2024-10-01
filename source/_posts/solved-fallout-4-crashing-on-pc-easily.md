@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Fallout 4 Crashing on PC [Easily]"
-date: 2024-08-15T07:22:10.794Z
-updated: 2024-08-16T07:22:10.794Z
+date: 2024-09-26T23:45:03.914Z
+updated: 2024-10-01T05:57:33.345Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -51,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
 
@@ -67,21 +68,28 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -95,9 +103,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -107,15 +112,19 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -131,8 +140,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,8 +147,20 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[New] In 2024, Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-strategies-for-youtube-and-twitch-via-obs-for-2024/"><u>[Updated] Essential Strategies for YouTube & Twitch via OBS for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-quick-fix-valorant-thumbnails-professionally-done-now/"><u>[Updated] In 2024, Quick-Fix Valorant Thumbnails Professionally Done Now!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-thriving-in-stardew-insiders-guide-to-ginger-island/"><u>[Updated] In 2024, Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-fix-correcting-windows-wdf-issues/"><u>BlueScreen Fix: Correcting Windows WDF Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcast-power-play-which-livestream-tool-should-you-use-for-2024/"><u>Broadcast Power Play Which Livestream Tool Should You Use for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-freeze-in-windows-triumph/"><u>dxgkrnl.sys Freeze in Windows - Triumph</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ended-flickering-issue-in-dell-ultrabook-display/"><u>Ended Flickering Issue in Dell Ultrabook Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-split-screen-glitches-on-pcs/"><u>Overcome Split-Screen Glitches on PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-angle-for-win7/"><u>Reverse Screen Angle for Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-fall-update-fixes-for-win10/"><u>Shedding Light on Fall Update Fixes for Win10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-resolving-the-test-tone-could-not-start-issue/"><u>Simple Solutions for Resolving the 'Test Tone Could Not Start' Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Colorful Consequences - Fix for Lenovo Screen
-date: 2024-08-15T07:20:33.588Z
-updated: 2024-08-16T07:20:33.588Z
+date: 2024-09-25T14:50:23.293Z
+updated: 2024-09-30T16:24:37.902Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/287414ff43ab53f27880b8114eed3693184381a70
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Hard reset your Lenovo laptop
 
  Peripheral devices that are connected to your Lenovo laptop could also be the cause of the black screen issue. If this is the case for you, you may notice that the dots are spinning during the boot-up process. So you should perform a hard reset on your Lenovo laptop to narrow down the possibilities.
@@ -66,9 +63,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -85,12 +79,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -99,6 +97,13 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -115,8 +120,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -130,8 +139,12 @@ So you can try disabling fast startup to see if it does the trick:
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
@@ -141,13 +154,6 @@ So you can try disabling fast startup to see if it does the trick:
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -162,23 +168,40 @@ No advertising on the website.
  1) On your keyboard, press the**Windows logo key** and type**system restore** , then click on**Create a restore point** once it shows up as a matching result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
@@ -201,8 +224,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,8 +231,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtube-statistics-to-increase-subscribers/"><u>[New] In 2024, Harnessing YouTube Statistics to Increase Subscribers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-enhancing-social-media-visibility-with-quality-livestreams-on-wirecast/"><u>[Updated] In 2024, Enhancing Social Media Visibility with Quality Livestreams on Wirecast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-instagram-engagement-obs-streamed-content-for-2024/"><u>[Updated] Instagram Engagement OBS Streamed Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revel-in-history-reactivating-deleted-reddit-articles/"><u>2024 Approved Revel in History Reactivating Deleted Reddit Articles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activate-disabled-graphics-on-laptops-running-windows-1011/"><u>Activate Disabled Graphics on Laptops Running Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/containing-the-chromatic-charge-of-an-acer-monitor/"><u>Containing the Chromatic Charge of an Acer Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-renaissance-spotlight-on-six-trailblazers-of-nfts/"><u>Digital Renaissance Spotlight on Six Trailblazers of NFTs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-no-more-problematic/"><u>Direct3D Initialization No More Problematic</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-30-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 30 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-deconstructed-digital-captions-technique/"><u>In 2024, Deconstructed Digital Captions Technique</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>In 2024, From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-window-11-glitchy-screens/"><u>Mend: Window 11 Glitchy Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-miracle-hasty-solution-to-loss-of-signal/"><u>Monitor Miracle: Hasty Solution to Loss of Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-5-replacements-for-twitter-users-for-2024/"><u>Prime 5 Replacements for Twitter Users for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshoot-your-iphone-effective-solutions-when-video-playback-fails/"><u>Troubleshoot Your iPhone: Effective Solutions When Video Playback Fails</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-through-apex-with-confidence/"><u>Zoom Through Apex with Confidence</u></a></li>
+</ul></div>
 

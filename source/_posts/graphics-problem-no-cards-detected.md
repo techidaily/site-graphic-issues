@@ -1,7 +1,7 @@
 ---
 title: "Graphics Problem: No Cards Detected"
-date: 2024-09-20T09:52:49.076Z
-updated: 2024-09-26T04:23:58.502Z
+date: 2024-09-25T06:27:44.904Z
+updated: 2024-10-01T03:25:32.703Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 4. **[Reinstall your graphics card](#d)**
 5. **[Update your BIOS](#e)** [](#e)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Refresh Device Manager
 
  One quick fix that works for many Windows users is refreshing Device Manager. Follow the instructions below to see how to do it:  
@@ -36,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  On your keyboard, press the **Windows logo**  key and**R** at the same time to open the Run dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
@@ -60,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -76,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-24.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-29.jpg)
@@ -83,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 **3)** Click**Programs** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**View installed updates** .
 
@@ -101,21 +129,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your problem persists, check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your graphics card
 
@@ -127,25 +141,11 @@ If your problem persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-514.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Open your computer case.
 
 **3)** Remove your graphics card and reinstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-504.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here is where a graphics card is usually located.
 
@@ -154,10 +154,10 @@ Here is where a graphics card is usually located.
  Check if this worked for you. If your problem still exists, don’t fret. There is still 1 more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
@@ -172,21 +172,22 @@ Here is where a graphics card is usually located.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-493.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-495.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Go to the manufacturer’s support website and search for the latest update for your BIOS.
@@ -217,20 +218,22 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android-for-2024/"><u>[Updated] Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-visual-aesthetics-boost-integrating-black-bar-and-box-frame-for-social-media/"><u>[Updated] In 2024, Visual Aesthetics Boost Integrating Black Bar & Box Frame for Social Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-invisible-motion-capture-instruction/"><u>2024 Approved Invisible Motion Capture Instruction</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cross-media-production-network/"><u>Cross-Media Production Network</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dslrmirrorless-guide-top-ten-gimbal-choices/"><u>DSLR/Mirrorless Guide Top Ten Gimbal Choices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-graphics-drivers-in-win1011-laptops/"><u>Enabling Graphics Drivers in Win10/11 Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hardware-glitch-43-cleared-up/"><u>Hardware Glitch 43 Cleared Up</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-effortless-hd-ready-turning-your-fb-videos-into-mp4-instantly/"><u>In 2024, Effortless HD-Ready Turning Your FB Videos Into MP4 Instantly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-infinix-hot-40i-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Infinix Hot 40i to Gmail | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y78t-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y78t? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximize-screen-light-on-your-lenovo-device/"><u>Maximize Screen Light on Your Lenovo Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-and-computer-sync-problems-quick-fix-guide-available-here/"><u>Overcome iPhone & Computer Sync Problems – Quick Fix Guide Available Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-hybrid-card-problem-in-win11/"><u>Overcoming Hybrid Card Problem in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-dark-screen-with-active-cursor-in-win10/"><u>Solving Dark Screen with Active Cursor in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-crt-blackout-in-laptops/"><u>Troubleshooting CRT Blackout in Laptops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-chart-toppers-on-screen-uploading-songs-methodically/"><u>[Updated] Chart-Toppers on Screen Uploading Songs Methodically</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prolific-pose-pattern-packages/"><u>2024 Approved Prolific Pose Pattern Packages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-low-end-spec-puzzle-intel-graphic-setup/"><u>Address Low-End Spec Puzzle: Intel Graphic Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bridging-hdtv-to-uhdtv-understanding-the-intricacies-of-4k/"><u>Bridging HDTV to UHDTV: Understanding the Intricacies of 4K</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-videos-the-essential-guide-to-screencasts-today/"><u>Elevate Your Videos The Essential Guide to Screencasts Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-graphic-functionality-on-win-71011/"><u>Enhancing Graphic Functionality on WIN 7/10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-realm-of-ai-comprehending-the-technology-and-its-associated-threats/"><u>Exploring the Realm of AI: Comprehending The Technology and Its Associated Threats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-coredll-not-found-issue-comprehensive-troubleshooting-tips/"><u>Fix the 'Core.dll Not Found' Issue - Comprehensive Troubleshooting Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-lava-blaze-2-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Lava Blaze 2 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-up-end-of-the-shadows/"><u>Lenovo Lights Up: End of the Shadows</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-the-art-of-zooming-in-on-videos-a-comprehensive-guide-using-a-video-zoom-editor/"><u>Mastering the Art of Zooming In on Videos: A Comprehensive Guide Using a Video Zoom Editor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-access-denied-on-nvidia-panel/"><u>No More 'Access Denied' On NVIDIA Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-performance-refresh-intel-gpu-on-windows/"><u>Optimize Performance: Refresh Intel GPU on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-adventure-say-goodbye-to-apex-crashes/"><u>Seamless Adventure: Say Goodbye to Apex Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-silencing-screen-flickers/"><u>The Ultimate Guide to Silencing Screen Flickers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubes-video-editing-power-plus-professional-equivalents/"><u>YouTube's Video Editing Power + Professional Equivalents</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-09-19T19:20:40.653Z
-updated: 2024-09-25T20:24:10.571Z
+date: 2024-09-23T21:56:29.294Z
+updated: 2024-10-01T06:09:13.039Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -66,13 +59,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -80,6 +66,13 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -98,10 +91,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -120,6 +113,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 ### Fix 4: Repair corrupted system files
@@ -134,10 +134,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -166,21 +166,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-finding-the-right-angle-for-your-fb-videos/"><u>[New] 2024 Approved Finding the Right Angle for Your FB Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-insights-into-polarr-photo-enhancer/"><u>[Updated] Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-step-by-step-guide-to-perfect-voice-recording/"><u>[Updated] In 2024, A Step-by-Step Guide to Perfect Voice Recording</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>Beats and Briefs Music Incorporation Guide on FB Stories</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortlessly-energize-reconnect-and-reset-your-screen/"><u>Effortlessly Energize: Reconnect and Reset Your Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-mouse-in-windows-11-screen-blanking/"><u>Fixed: Mouse in Windows 11 Screen Blanking</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/grand-theft-auto-v-graphics-d3d-setup-failure-errgfxd3dinit-a-comprehensive-fix-guide/"><u>Grand Theft Auto V Graphics D3D Setup Failure ERR_GFX_D3D_INIT: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-action-fix-stutter-effects/"><u>Immediate Action: Fix Stutter Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immerse-yourself-in-graphics-new-windows-10-driver-update/"><u>Immerse Yourself in Graphics: New Windows 10 Driver Update</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-narzo-60x-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme Narzo 60x 5G PC | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-resolution-changes-with-new-windows-11-patches/"><u>Stabilizing Resolution Changes with New Windows 11 Patches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-driver-downloads-and-setup-instructions-for-the-lenovo-x1-carbon-on-windows-107-systems/"><u>Step-by-Step Driver Downloads and Setup Instructions for the Lenovo X1 Carbon on Windows 10/7 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-achieved-ideal-screen-res/"><u>Win10: Achieved Ideal Screen Res</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-live-streaming-on-mac-os-costless-option/"><u>[New] In 2024, Live Streaming on Mac OS - Costless Option</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificer-of-words-the-science-behind-simulating-talks-with-chatbots/"><u>Artificer of Words: The Science Behind Simulating Talks with Chatbots</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-tutorial-how-to-disable-and-rollback-recent-windows-10-patches/"><u>Comprehensive Tutorial: How to Disable and Rollback Recent Windows 10 Patches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/decoding-photopeas-art-of-backdrop-elimination/"><u>Decoding Photopea's Art of Backdrop Elimination</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-enhance-your-pc-with-intels-graphics-driver-update/"><u>Easy Steps to Enhance Your PC with Intels Graphics Driver Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-laggard-to-lightning-pick-8-apps-now-for-2024/"><u>From Laggard to Lightning Pick 8 Apps Now for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 Phone with Broken Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-fixed-intermittent-screen-behavior/"><u>Lenovo Fixed Intermittent Screen Behavior</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-temporal-and-spatial-shifts-in-filmmaking/"><u>Mastering Temporal & Spatial Shifts in Filmmaking</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y02t-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y02T</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-for-correcting-critical-error-code-c1900101-in-windows-11-upgrade/"><u>Steps for Correcting Critical Error Code: C1900101 in Windows 11 Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadows-lifted-fixes-for-falls-patch/"><u>Win11 Shadows Lifted: Fixes for Fall's Patch</u></a></li>
 </ul></div>
 

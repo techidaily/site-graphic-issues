@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screen Freeze: Fix Windows WDF Drivers"
-date: 2024-09-13T21:47:07.677Z
-updated: 2024-09-15T06:35:13.223Z
+date: 2024-09-28T04:19:04.147Z
+updated: 2024-10-01T02:16:48.151Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Use Driver Verifier
 
 **Warning** : You must be in the Administrators group on the computer to use Driver Verifier. In the middle of the session, your PC could**crash** . So, it must be used when you have backed up all your important data and files.
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When prompted to provide administrator permission, click **Yes** .
 
  2) Type**verifier** in the command prompt window. Then hit**Enter** .
@@ -73,6 +87,13 @@ When prompted to provide administrator permission, click **Yes** .
  3) Choose**Create standard settings** and then click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910350abaafc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Choose**Automatically select all drivers installed on this computer** . Then click the**Finish** button to start the verification.
 
@@ -115,6 +136,20 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 2. Type in **SFC /Scannow** , and then press **Enter** .  
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
@@ -137,12 +172,22 @@ Here’s how to use Fortect to run a Windows repair:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-full-scope-understanding-online-performance-artists-for-2024/"><u>[New] Full Scope Understanding Online Performance Artists for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>[New] Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-master-your-stream-utilizing-youtubes-av1-technology/"><u>[Updated] 2024 Approved Master Your Stream Utilizing YouTube's AV1 Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-low-light-photos-on-ios-11/"><u>[Updated] Mastering Low-Light Photos on iOS 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ppt-presentations-merging-audio-and-imagery-fluently/"><u>[Updated] PPT Presentations Merging Audio & Imagery Fluently</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-buffer-and-jitter-in-seconds/"><u>Eradicate Buffer and Jitter in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oppo-a18-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Oppo A18</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pova-6-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Pova 6 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapidly-revamping-your-computer-driver-cleansing/"><u>Rapidly Revamping Your Computer: Driver Cleansing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-windows-graphic-creation/"><u>Secured Windows Graphic Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-high-end-gaming-new-drivers-for-amds-hd-6950-on-windows-10/"><u>Upgrade to High-End Gaming: New Drivers for AMD's HD 6950 on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-overcoming-challenges-with-dual-graphics-cards/"><u>Windows 10: Overcoming Challenges with Dual Graphics Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-display-fresh-pcie/"><u>Zero Display, Fresh PCIe</u></a></li>
+</ul></div>
 

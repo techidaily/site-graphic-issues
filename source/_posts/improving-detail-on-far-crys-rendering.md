@@ -1,7 +1,7 @@
 ---
 title: Improving Detail on Far Cry's Rendering
-date: 2024-08-15T07:23:50.159Z
-updated: 2024-08-16T07:23:50.159Z
+date: 2024-09-24T16:07:43.550Z
+updated: 2024-10-01T05:19:28.482Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/7bf87c712048fd1b5c49af691f0f5b92a0d10753a
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -62,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/7bf87c712048fd1b5c49af691f0f5b92a0d10753a
  If you didn’t use the HD texture pack but you do have sufficient VRAM (>11 GB), you can find the HD texture pack under the DLC section and install it. Some players have reported that the HD texture pack works fine when you have enough VRAM, so it’s definitely worth a try.
 
  This is likely the best workaround for now, but if it doesn’t solve your problem, there are a few more fixes you can try to get better graphics quality on Far Cry 6.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -76,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/7bf87c712048fd1b5c49af691f0f5b92a0d10753a
 [4: Clean the DirectX cache](#fix4)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -102,10 +110,14 @@ If this doesn’t help, try the next fix.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -121,9 +133,6 @@ If this doesn’t help, try the next fix.
 
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
@@ -133,9 +142,6 @@ If this doesn’t help, try the next fix.
 
 If this doesn’t help, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -143,22 +149,34 @@ If this doesn’t help, there’s one more fix you can try.
 1. Press the**Windows key** and**R** on your keyboard to invoke the Run box.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 5. Click**Delete Files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -174,8 +192,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,8 +199,22 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-simplifying-mixers-interface-for-macos-streamers/"><u>[New] Simplifying Mixer's Interface for macOS Streamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-decibel-documentation-system-captures-voice/"><u>[Updated] In 2024, Decibel Documentation System Captures Voice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-picture-an-in-depth-analysis-of-polarr-photo-tools/"><u>2024 Approved The Complete Picture An In-Depth Analysis of Polarr Photo Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-internet-speed-on-mac-the-ultimate-guide-to-flushing-dns-cache/"><u>Boost Internet Speed on Mac: The Ultimate Guide to Flushing DNS Cache</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/connect-and-converse-advanced-techniques-for-facebook-live-screens/"><u>Connect and Converse Advanced Techniques for Facebook Live Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-fault-prevents-halo-infinite-from-launching/"><u>DX12 Fault Prevents Halo Infinite From Launching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevated-window-11-display-controls-unveiled/"><u>Elevated Window 11 Display Controls Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-top-5-iphone-podcast-apps-guide/"><u>Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/failed-to-initialize-direct3d-fixed/"><u>Failed to Initialize Direct3D [Fixed]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-v27e-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo V27e FRP Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>In 2024, Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-lcd-not-lighting-up-fixes-included/"><u>Laptop LCD Not Lighting Up: Fixes Included</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-realme-narzo-60-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme Narzo 60 5G FRP Without Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-clear-imagery-for-twitch-streamers/"><u>Reveal Clear Imagery for Twitch Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-the-secrets-of-ultra-hd-the-power-of-4k/"><u>Unlocking the Secrets of Ultra HD: The Power of 4K</u></a></li>
+</ul></div>
 

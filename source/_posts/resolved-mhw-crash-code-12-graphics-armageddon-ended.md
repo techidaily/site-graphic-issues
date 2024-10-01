@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-09-19T09:58:01.875Z
-updated: 2024-09-26T11:40:57.923Z
+date: 2024-09-28T18:24:43.449Z
+updated: 2024-10-01T05:40:55.122Z
 tags:
   - win11
   - win10
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 3. **[Repair system files](#RE)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
@@ -51,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
@@ -73,6 +72,13 @@ Here’s how to do it:
  1) On your keyboard, press**the Windows logo key** and **R**  at the same time, then type**devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
@@ -107,6 +113,13 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -121,19 +134,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -141,10 +141,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -177,19 +177,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-advanced-android-time-lapse-tips-for-professional-results/"><u>[New] Advanced Android Time-Lapse Tips for Professional Results</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-skaldic-battle-asgard-vs-jotunheim/"><u>[New] Skaldic Battle Asgard vs Jotunheim</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/"><u>[Updated] 2024 Approved Revolutionizing Advertising on Facebook with the Best Video Tactics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/become-an-engaging-speaker-on-google-meet-platforms-for-2024/"><u>Become an Engaging Speaker on Google Meet Platforms for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-wide-screen-distortions-on-windows-10/"><u>Eliminating Wide-Screen Distortions on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-bugs-affecting-pc-experience-civilization-v/"><u>Fixing Bugs Affecting PC Experience, Civilization V</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-accelerates-your-website-creation-a-guide-with-5-key-points/"><u>How ChatGPT Accelerates Your Website Creation – A Guide with 5 Key Points</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/impara-come-caricare-un-dvd-su-google-drive-e-risolvi-i-tuoi-problemi/"><u>Impara Come Caricare Un DVD Su Google Drive E Risolvi I Tuoi Problemi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-sign-of-life-on-your-laptop-screen/"><u>No Sign of Life on Your Laptop Screen?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimal-screen-positioning-on-windows-7/"><u>Optimal Screen Positioning on Windows 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reclaim-camera-function-of-your-asus-pc/"><u>Reclaim Camera Function of Your ASUS PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconciling-nvidia-with-windows-10-problem-resolved/"><u>Reconciling Nvidia with Windows 10 - Problem Resolved</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-m6-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco M6 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>[New] Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>[Updated] GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-flip-photo-trail-on-fb-3-techniques-explored/"><u>[Updated] In 2024, Flip Photo Trail on FB - 3 Techniques Explored</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[Updated] In 2024, Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ban-blinking-behemoth-easy-guide/"><u>Ban Blinking Behemoth: Easy Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-guide-setting-up-the-fanime-add-on-in-your-kodi-media-center-nvidia-shield-compatible/"><u>Complete Guide: Setting Up the FANime Add-On in Your Kodi Media Center (Nvidia Shield Compatible)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-anthem-loading-screen-madness-with-these-effective-fixes-and-tips/"><u>End Anthem Loading Screen Madness with These Effective Fixes and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/infinix-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-outdated-intel-gfx-on-win10-pcs/"><u>Quick Fix for Outdated Intel GFX on Win10 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-nvidia-rtx-crashes-in-games/"><u>Stop NVIDIA RTX Crashes in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-lenovos-best-legion-go-features-at-ifa-2-written-by-alex-johnson-mba/"><u>Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlisted-titan-rtx-on-system-console/"><u>Unlisted Titan RTX on System Console</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stability-achieved/"><u>Windows 10 Display Stability Achieved</u></a></li>
 </ul></div>
 

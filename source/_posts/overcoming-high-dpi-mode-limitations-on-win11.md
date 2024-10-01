@@ -1,7 +1,7 @@
 ---
 title: Overcoming High-DPI Mode Limitations on Win11
-date: 2024-08-15T07:21:01.961Z
-updated: 2024-08-16T07:21:01.961Z
+date: 2024-09-28T23:18:46.084Z
+updated: 2024-09-30T16:21:16.519Z
 tags:
   - win11
   - win10
@@ -27,8 +27,12 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 3. **[Turn on GPU Scaling](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -58,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -67,23 +75,14 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R**  at the same time, type **devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -91,10 +90,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -109,11 +104,25 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -138,8 +147,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,8 +154,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-nexus-nightlife-virtual-theater-realm/"><u>[Updated] 2024 Approved Nexus Nightlife Virtual Theater Realm</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-available-screen-options-with-nvidia/"><u>Bringing Back Available Screen Options with NVidia</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exclusive-winx-dvd-ripper-pro-key-giveaway-unlock-top-tier-conversion-features/"><u>Exclusive WinX DVD Ripper Pro Key Giveaway: Unlock Top-Tier Conversion Features!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-6-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 6</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-gpu-activation-a-success-story-in-win11/"><u>Laptop GPU Activation: A Success Story in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/permanent-solution-to-asus-monitor-flicker/"><u>Permanent Solution to ASUS Monitor Flicker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-racing-thrills-quintet-of-choice/"><u>Prime Racing Thrills Quintet of Choice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-unresponsive-touchscreen/"><u>Resolving Lenovo Unresponsive Touchscreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-resolution-strategies-gpus-alone/"><u>Simplified Resolution Strategies: GPUs Alone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-narzo-n55-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Narzo N55 Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tech-bargains-during-amazon-prime-day/"><u>Top Tech Bargains During Amazon Prime Day</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>Updated 2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+</ul></div>
 

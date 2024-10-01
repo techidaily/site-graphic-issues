@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Displayed Full Screen in Win11
-date: 2024-08-15T07:24:41.499Z
-updated: 2024-08-16T07:24:41.499Z
+date: 2024-09-29T23:27:59.731Z
+updated: 2024-09-30T22:23:03.718Z
 tags:
   - win11
   - win10
@@ -39,8 +39,18 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -53,11 +63,22 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
@@ -68,19 +89,26 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
@@ -89,8 +117,12 @@ Here’s what you need to do:
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Now restart your computer and see if your monitor displays the full screen.
@@ -99,9 +131,6 @@ Here’s what you need to do:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  Your full-screen issue has something to do with your graphics card. If your graphics card driver is missing or outdated, your monitor may not display full screen. To rule out the cause of your issue, you should update your video card driver to the latest version.
@@ -121,6 +150,13 @@ Here’s what you need to do:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
@@ -143,8 +179,12 @@ To do so, follow these steps:
  1) Type the application that is having the full-screen problem in the search box on your desktop, and right-click on it to select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
@@ -154,9 +194,6 @@ To do so, follow these steps:
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
@@ -168,10 +205,6 @@ Still no luck? Okay, there is one more thing to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Avoid software conflicts
 
  Sometimes your monitor doesn’t display full screen because of software conflicts. Some other programs running on your computer may prevent your monitor from displaying the full screen.
@@ -191,8 +224,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,8 +231,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-free-screen-recorder-for-android-for-2024/"><u>[New] Free Screen Recorder for Android for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-coolest-plugins-for-final-cut-pro-x-freeandpaid/"><u>2024 Approved Top 10 Coolest Plugins for Final Cut Pro X Free&Paid</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dealing-with-drivers-stop-wdf-related-bluescreen/"><u>Dealing with Drivers: Stop WDF-Related BlueScreen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-13t-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi 13T Pro Device SIM</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/full-colors-unavailable-on-printout/"><u>Full Colors Unavailable on Printout</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-s18e-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo S18e Phones with/without a PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-error-corrected-returning-to-normal/"><u>IGFX Error Corrected, Returning to Normal</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-lcd-seam-disruptions/"><u>Overcome LCD Seam Disruptions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lenovos-functional-touch-screens/"><u>Restoring Lenovo's Functional Touch Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversed-cominterface-error-on-windows-os/"><u>Reversed: COMInterface Error on Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transform-avi-files-into-m4v-format-for-free-with-speedypdfnets-converter-tool/"><u>Transform AVI Files Into M4V Format for Free with Speedypdf.net's Converter Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-call-for-your-gpus-fans/"><u>Wake-Up Call for Your GPU's Fans</u></a></li>
+</ul></div>
 

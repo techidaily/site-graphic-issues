@@ -1,7 +1,7 @@
 ---
 title: Awaken Your Lenovo's Screen
-date: 2024-08-15T07:24:26.554Z
-updated: 2024-08-16T07:24:26.554Z
+date: 2024-09-30T08:41:01.242Z
+updated: 2024-09-30T21:20:26.011Z
 tags:
   - win11
   - win10
@@ -29,34 +29,27 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -85,9 +78,18 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -104,12 +106,16 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -128,18 +134,11 @@ The ultimate burning program for all your needs!</a>
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -149,10 +148,6 @@ So you can try disabling fast startup to see if it does the trick:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, type **powercfg.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
 
@@ -165,9 +160,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -175,9 +167,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -194,9 +183,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -215,8 +218,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,8 +225,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exclusive-insights-viewing-nba-games-remotely/"><u>[Updated] 2024 Approved Exclusive Insights Viewing NBA Games Remotely</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-conquer-youtubes-copy-paste-loop-mastery-essentials/"><u>[Updated] In 2024, Conquer YouTube's Copy-Paste Loop Mastery Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-starting-line-the-basics-of-picture-resolution/"><u>[Updated] Starting Line The Basics of Picture Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bettering-god-of-war-everyday-play/"><u>Bettering 'God of War': Everyday Play</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-unsaved-display-configuration-on-win-7-10-systems-resolved/"><u>Correcting Unsaved Display Configuration on WIN 7-10 Systems [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-side-of-windows-after-fall-release-fixed/"><u>Dark Side of Windows After Fall Release Fixed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 11 Pro Max Activation Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-graphics-card-not-showing-in-device-manager-solved/"><u>NVIDIA Graphics Card Not Showing in Device Manager [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-non-supported-amd-display-adaptation/"><u>Repairing Non-Supported AMD Display Adaptation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-driver-installation-for-epson-devices-on-your-pc-with-windows/"><u>Seamless Driver Installation for Epson Devices on Your PC with Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-leading-android-wear-os-applications/"><u>Ultimate Guide: Leading Android Wear OS Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-and-smoothening-lag-in-4k-videos-on-vlc-player/"><u>Ultimate Guide: Troubleshooting and Smoothening Lag in 4K Videos on VLC Player</u></a></li>
+</ul></div>
 

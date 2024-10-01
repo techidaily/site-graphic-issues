@@ -1,7 +1,7 @@
 ---
 title: Overcoming Graphics Troubles, Civ 5-PC
-date: 2024-09-14T06:40:09.047Z
-updated: 2024-09-14T19:43:39.927Z
+date: 2024-09-25T18:13:51.104Z
+updated: 2024-10-01T03:40:58.851Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -61,13 +68,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Install the latest DirectX**
 
 **DirectX**  is feature developed by Microsoft to allow for a more smooth gaming experience for gamers. So you should always make sure to have the latest DirectX installed on your computer to stop game crashes.
@@ -77,7 +77,22 @@ Here’s how to do it:
 1. On your keyboard, press **the** **Windows logo key**  , then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -85,15 +100,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
 ---
@@ -115,5 +131,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[New] In 2024, Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beyond-full-hd-understanding-4ks-wonders/"><u>Beyond Full HD: Understanding 4K's Wonders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-techniques-for-archiving-group-discussions/"><u>Easy Techniques for Archiving Group Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-vob-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change VOB Files to MP4 Format with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-gpu-back-on-track-nvidia/"><u>Graphics Glitch Fixed, GPU Back on Track (NVIDIA)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-stop-asus-laptop-screen-flickering-fix-guide/"><u>How To Stop ASUS Laptop Screen Flickering Fix Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-15-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 15 Pro Max for Free</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817511063-lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lighting-the-way-after-fall-update-woes/"><u>Lighting the Way After Fall Update Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macosx-dvd-dvdand/"><u>MacOS向け最適化されたマクシムX プロ DVD ビデオコンバータ - スムーズなDVDリッピング&ビデオ変換機能が追加！</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-the-powerhouse-insights-into-asuss-pro-b760m-ct-with-compact-system-module-csm/"><u>Unboxing the Powerhouse: Insights Into Asus's Pro B760M-CT with Compact System Module (CSM)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-new-nvidia-geforce-210-driver-for-windows-pcs/"><u>Unleash Potential: New NVIDIA GeForce 210 Driver for Windows PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-high-performance-graphics-software-for-gtx-1060/"><u>Upgrade to High-Performance Graphics Software for GTX 1060</u></a></li>
+</ul></div>
 

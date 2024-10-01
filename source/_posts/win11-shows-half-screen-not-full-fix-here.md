@@ -1,7 +1,7 @@
 ---
 title: Win11 Shows Half-Screen, Not Full - Fix Here
-date: 2024-09-15T22:37:05.170Z
-updated: 2024-09-19T20:27:28.482Z
+date: 2024-09-25T08:03:59.896Z
+updated: 2024-09-30T23:51:47.976Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -57,6 +64,19 @@ Here’s what you need to do:
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or you can switch to different resolutions and see if it resolves your problem.
 
@@ -84,6 +104,13 @@ Here’s what you need to do:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics card driver
 
  Your full-screen issue has something to do with your graphics card. If your graphics card driver is missing or outdated, your monitor may not display full screen. To rule out the cause of your issue, you should update your video card driver to the latest version.
@@ -104,11 +131,37 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -117,10 +170,10 @@ Here’s what you need to do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
@@ -141,35 +194,22 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
 Still no luck? Okay, there is one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
 
@@ -197,5 +237,22 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/1716069102195-new-2024-approved-odins-revenge-ragnarok-coming-soon/"><u>[New] 2024 Approved Odin's Revenge Ragnarök - Coming Soon!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-integrating-zoom-with-your-android-gadget-for-2024/"><u>[New] Integrating Zoom with Your Android Gadget for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-short-sketch-storyline-setup/"><u>2024 Approved Short Sketch Storyline Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-optimal-screen-usage-in-windows-10/"><u>Adjusting Aspect Ratios for Optimal Screen Usage in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-proven-methods-to-rectify-your-audacitys-sound-device-issue-solution-guide/"><u>Five Proven Methods to Rectify Your Audacity's Sound Device Issue [Solution Guide]</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-broken-mp3mkv-files-with-our-advanced-video-restoration-tool/"><u>Fix Broken MP3/MKV Files with Our Advanced Video Restoration Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-s23-tactical-edition-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy S23 Tactical Edition Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-green-screen-blunders-in-video-production/"><u>Mastering Green Screen Blunders in Video Production</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-screen-recovery-for-asus-laptops/"><u>Mastering Screen Recovery for Asus Laptops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/open-source-musical-aid-for-playing-games-for-2024/"><u>Open Source Musical Aid for Playing Games for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quenching-flickery-lights-on-acer-computers/"><u>Quenching Flickery Lights on Acer Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/save-windows-710-display-settings-flawlessly-heres-how-solved/"><u>Save Windows 7/10 Display Settings Flawlessly - Here's How [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
+</ul></div>
 

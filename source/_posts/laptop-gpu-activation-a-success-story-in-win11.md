@@ -1,7 +1,7 @@
 ---
 title: "Laptop GPU Activation: A Success Story in Win11"
-date: 2024-08-15T07:21:51.153Z
-updated: 2024-08-16T07:21:51.153Z
+date: 2024-09-29T12:54:12.406Z
+updated: 2024-09-30T18:13:08.233Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 5. **[Make sure your dedicated GPU is enabled in BIOS](#Fix5)**
 6. **[Update your BIOS](#Fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
  When you’re facing the issue of your laptop not using a dedicated GPU, updating the graphics driver should be your go-to option since a faulty or outdated graphics driver can cause many problems. So always make sure you have the latest correct graphics driver for your operating system at all times.
@@ -67,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
 If not, don’t worry, there are other fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Install all Windows Updates
 
  By updating your operating system, your laptop will get the latest fixes and security improvements. Many users reported that they fixed this issue by installing the Windows updates. So you should give it a try. To do so:
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Windows 10
 
 1. On your keyboard, press the**Windows logo key** and**I key** together to open the Windows Settings.
@@ -84,35 +75,30 @@ If not, don’t worry, there are other fixes you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/update-security.jpg)
 3. Under Windows Update, click**Check for updates** . Then wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Windows 11
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. Select **Windows Update**  from the left panel. Then click on the **Check for updates**  button from the right side.  
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
 Now you can check if your dedicated GPU is being used.
 
 If this method doesn’t help, continue with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Switch to the dedicated GPU manually
 
  Usually, your laptop will use the integrated GPU for easier tasks to save power and switch back to the dedicated GPU for better performance. But if it doesn’t switch to the dedicated GPU when needed, you can do it manually via NVIDIA Control Panel or AMD Radeon Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Switch to the dedicated NVIDIA GPU
 
 1. Right-click your desktop background and select**NVIDIA Control Panel** from the menu.  
@@ -120,7 +106,28 @@ If this method doesn’t help, continue with the next fix below.
 2. In the left panel, click**Manage 3D Settings** , then select**High performance NVIDIA processor** from the dropdown menu and click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/manage-3d-settings.jpg)
 3. In the left panel, click**Set PhysX Configuration** . Under Select a PhysX processor, select your dedicated GPU from the dropdown menu, then click**Apply** to save changes.  
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-phx-configuration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Your laptop should now run with the dedicated NVIDIA GPU.
 
@@ -128,73 +135,57 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 
 1. Right-click your desktop and select**AMD** **Radeon Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 2. Navigate to the**System** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/switchable-graphics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Select a program and choose**High performance** from the drop-down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
 5. Running the program again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It should now run with the dedicated AMD GPU.
 
 But if not, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Change the Windows graphics setting
 
  Another way to force your laptop to use the dedicated GPU is by changing the Graphics settings. To do so:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Windows 10
 
 1. Right-click your desktop and select**Display Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. In Display settings, scroll down the page and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Then click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -204,16 +195,27 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Scroll down. Under the Related settings section, click on**Graphics** .  
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Custom-options-for-apps.jpg)
 4. Once added, click on the**Options** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Options.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Graphics-preference-High-performance.jpg)
 
@@ -253,8 +255,6 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,8 +262,24 @@ If this trick doesn’t work for you, check out the last solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[New] 2024 Approved Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-guide-to-youtubes-latest-income-strategies/"><u>[New] In 2024, Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engaging-stories-expanding-audiences-top-three-methods/"><u>[Updated] 2024 Approved Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweeting-on-phones-avoid-retweets-for-2024/"><u>[Updated] Direct Video Tweeting on Phones - Avoid Retweets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-achieving-excellence-in-game-recording-techniques-windows-11-style/"><u>[Updated] In 2024, Achieving Excellence in Game Recording Techniques, Windows 11 Style</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-windowed-world-of-video-editing-a-selective-recommendation-guide/"><u>2024 Approved Windowed World of Video Editing A Selective Recommendation Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-12-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 12 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-a-step-by-step-guide-to-screen-stability/"><u>Banish Blinky: A Step-by-Step Guide to Screen Stability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-tutorial-installing-latest-webcam-software-for-windows-11-users/"><u>Comprehensive Tutorial: Installing Latest Webcam Software for Windows 11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-aspect-ratio-for-flexible-display/"><u>Corrected Aspect Ratio for Flexible Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-immediately-fix-non-responsive-dp-connections/"><u>How to Immediately Fix Non-Responsive DP Connections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intelligent-drivers-streamlining-the-update-process-of-intel-graphic-cards/"><u>Intelligent Drivers: Streamlining the Update Process of Intel Graphic Cards</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/obs-mastery-5-edits-that-will-elevate-your-work/"><u>OBS Mastery 5 Edits That Will Elevate Your Work</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flicker-issues-in-windows-7/"><u>Overcoming Flicker Issues in Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-error-display-settings-now-safe/"><u>Reverse Error - Display Settings Now Safe</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-system-safeguard-techniques-entrance-into-safe-mode-and-drivers-rids/"><u>Simplified System Safeguard Techniques: Entrance Into Safe Mode & Drivers Rids</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-glare-not-glory-win7-tips/"><u>Stop Glare, Not Glory: Win7 Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting Guide: Deciphering Double Impact Incidents"
-date: 2024-09-24T21:08:31.945Z
-updated: 2024-09-26T10:21:36.192Z
+date: 2024-09-27T04:42:57.406Z
+updated: 2024-10-01T00:01:21.082Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -49,9 +56,23 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -64,6 +85,13 @@ Game crashing issues might happen when your game files are corrupted.
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Delete everything except these:
 
@@ -96,13 +124,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,10 +134,10 @@ If the game still crashes, try the next fix below.
 If the crash still occurs, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
@@ -144,22 +165,15 @@ If the crash still occurs, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
@@ -174,13 +188,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -199,13 +206,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -226,20 +226,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[New] 2024 Approved How To Maximize Income A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-quick-ways-to-retain-live-chat-transcripts/"><u>[New] Quick Ways to Retain Live Chat Transcripts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/addressing-video-lag-on-photo-booth-experience-for-2024/"><u>Addressing Video Lag on Photo Booth Experience for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/calm-windows-11-screenscape/"><u>Calm Windows 11 Screenscape</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gaming-revolution-amd-radeon-hd-6950-drivers-enhanced-on-w11/"><u>Gaming Revolution - AMD Radeon HD 6950 Drivers Enhanced on W11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-fan-revival-a-quick-fix-guide/"><u>GPU Fan Revival: A Quick Fix Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 15 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-xr-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone XR online without SIM Card?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/is-splitcam-the-ultimate-in-video-capture/"><u>Is SplitCam The Ultimate in Video Capture?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-displays-half-size-not-full-screen-windows/"><u>Monitor Displays Half Size, Not Full Screen Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-windows-10-amd-driver-load-error/"><u>Overcome Windows 10 AMD Driver Load Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rejuvenating-stable-display-sync-on-compromised-amd-gpus/"><u>Rejuvenating Stable Display Sync on Compromised AMD GPUs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-wait-times-6-proven-methods-to-speed-up-your-instagram-experience-on-any-smartphone/"><u>Say Goodbye to Wait Times: 6 Proven Methods to Speed Up Your Instagram Experience on Any Smartphone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-activate-gpu-for-laptops-running-win1011/"><u>Tips to Activate GPU for Laptops Running Win10/11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-digital-content-showdown-audios-answer-to-visual-media-in-2024/"><u>[Updated] Digital Content Showdown Audio's Answer to Visual Media, In 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enhancing-chromes-audio-5-best-web-based-vocal-conversion-apps/"><u>[Updated] Enhancing Chrome's Audio 5 Best Web-Based Vocal Conversion Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-detailed-guide-securely-recording-on-vimeo/"><u>2024 Approved Detailed Guide Securely Recording on Vimeo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-laptop-maintenance-putting-away-lost-keycaps-on-your-keyboard-easily/"><u>DIY Laptop Maintenance: Putting Away Lost Keycaps On Your Keyboard Easily</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enchanting-elocution-selective-french-films/"><u>Enchanting Elocution: Selective French Films</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-webp-visualization-with-these-excellent-tools/"><u>Enhance WebP Visualization with These Excellent Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-ghost-horizontal-lines-quickly/"><u>Eradicate Ghost Horizontal Lines Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-preventing-nvidia-install-errors/"><u>Fixed: Preventing NVIDIA Install Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-ready-to-game-better-updated-amd-hd-6950-drivers/"><u>Get Ready to Game Better: Updated AMD HD 6950 Drivers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y200-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y200 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-tips-eliminate-hazy-laptop-screen-lines/"><u>Quick Tips: Eliminate Hazy Laptop Screen Lines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windowed-devices-functions/"><u>Restored Windowed Devices Functions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-display-ended-laptop-screen-flickering-resolved/"><u>Stable Display: Ended Laptop Screen Flickering [Resolved]</u></a></li>
+<li><a href="https://tools.techidaily.com/ultrafxvps/products/"><u>Ultrafxvps's Products</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vision-loss-card-detection-failed/"><u>Vision Loss: Card Detection Failed</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-sony-xperia-5-v-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Sony Xperia 5 V Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-glitch-overcome/"><u>Win11 Screen Glitch Overcome</u></a></li>
 </ul></div>
 

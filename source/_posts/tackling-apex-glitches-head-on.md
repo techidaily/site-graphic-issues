@@ -1,7 +1,7 @@
 ---
 title: Tackling Apex Glitches Head-On
-date: 2024-08-15T07:23:12.820Z
-updated: 2024-08-16T07:23:12.820Z
+date: 2024-09-29T17:22:02.437Z
+updated: 2024-09-30T22:06:34.114Z
 tags:
   - win11
   - win10
@@ -32,8 +32,18 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 6. **[Reinstall Apex Legends](#f5)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -45,6 +55,13 @@ There’re two ways to update your Nvidia graphics driver:
 Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
 
@@ -66,10 +83,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -83,8 +96,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2\. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 20 Series** ; for “Product”, select **Geforce RTX 2060** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
@@ -95,9 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apex Legends still keeps crashing?
 
  If Apex Legends still keeps crashing after you update your graphics, don’t worry. There’re some other fixes for you to try.
@@ -140,6 +160,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -157,10 +184,6 @@ You can follow the instructions below to install the latest game patch:
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Update Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  3\. Wait until you see the following message. Then click**Close** .
 
@@ -177,8 +200,12 @@ The ultimate burning program for all your needs!</a>
  2\. Go to**My Game Library** , then**right-click** on**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
@@ -195,8 +222,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,8 +229,18 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-boost-your-video-impact-quickly-learn-effective-techniques-for-fb-subtitle-creation/"><u>[New] 2024 Approved Boost Your Video Impact Quickly - Learn Effective Techniques for FB Subtitle Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-secrets-behind-successful-hd-videos-on-social-networks/"><u>[Updated] 2024 Approved The Secrets Behind Successful HD Videos on Social Networks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/better-views-for-your-windows/"><u>Better Views for Your Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boost-your-workouts-sync-music-and-activities-using-garmin-vivoactive-3-smartwatch/"><u>Boost Your Workouts: Sync Music and Activities Using Garmin Vivoactive 3 Smartwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-crashes-in-civ-5-pc/"><u>Eliminating Crashes in Civ 5-PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-reversed-color-effects-in-pictures/"><u>In 2024, Expert Tips Reversed Color Effects in Pictures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/master-management-with-our-12-best-tycoon-games-ever-crafted/"><u>Master Management with Our #12 Best Tycoon Games Ever Crafted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-app-crashes-during-video-playback-post-upgrade/"><u>Overcoming App Crashes During Video Playback Post-Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-to-resolve-gpu-problems-keeping-pc-online/"><u>Techniques to Resolve GPU Problems, Keeping PC Online</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/unleash-potential-with-advanced-analytics-experience-custom-built-solutions-from-cookiebot-innovations/"><u>Unleash Potential with Advanced Analytics - Experience Custom-Built Solutions From Cookiebot Innovations</u></a></li>
+</ul></div>
 

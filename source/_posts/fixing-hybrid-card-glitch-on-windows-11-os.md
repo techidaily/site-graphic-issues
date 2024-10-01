@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Glitch on Windows 11 OS
-date: 2024-09-09T22:51:59.356Z
-updated: 2024-09-14T23:25:37.372Z
+date: 2024-09-28T14:09:14.261Z
+updated: 2024-10-01T11:53:53.645Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -62,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
@@ -91,10 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -103,33 +116,33 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -148,5 +161,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-virtual-arena-transcript/"><u>[New] Virtual Arena Transcript</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-laughter-ledger-ranking-the-highest-viral-jokes/"><u>[Updated] 2024 Approved Laughter Ledger Ranking the Highest Viral Jokes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-construct-your-fb-cover-vision/"><u>[Updated] Construct Your FB Cover Vision</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>[Updated] State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-becoming-proficient-in-ez-grabber-technology/"><u>2024 Approved Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-enters-blacked-out-win11/"><u>Cursor Enters Blacked Out Win11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-crucial-steps-in-archiving-lol-matchups/"><u>In 2024, Crucial Steps in Archiving LOL Matchups</u></a></li>
+<li><a href="https://article-files.techidaily.com/mechanized-sky-dwellers-classes/"><u>Mechanized Sky-Dwellers' Classes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-amd-radeon-r9-drivers-for-w11-users/"><u>Mending AMD Radeon R9 Drivers for W11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-best-3-live-stream-apps-and-games/"><u>Nintendo Switch - Best 3 Live-Stream Apps & Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-link-reconnect-computer-and-television-hdmi/"><u>Restoring Lost Link: Reconnect Computer & Television HDMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleashing-system-stability-safe-mode-and-gpu-drivers-removal-guide-for-win8/"><u>Unleashing System Stability: Safe Mode and GPU Drivers Removal Guide for WIN8</u></a></li>
+</ul></div>
 

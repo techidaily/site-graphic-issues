@@ -1,7 +1,7 @@
 ---
 title: Eradicate Windows 11 Display Glitches
-date: 2024-09-24T08:56:17.992Z
-updated: 2024-09-25T21:41:28.537Z
+date: 2024-09-24T12:23:45.765Z
+updated: 2024-10-01T10:28:07.097Z
 tags:
   - win11
   - win10
@@ -39,24 +39,25 @@ Here is how to change the monitor refresh rate:
 1. Right-click on**any empty space** on your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
-3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
+3. Click**Display adapter properties for Display 1** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
@@ -64,13 +65,6 @@ Here is how to change the monitor refresh rate:
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -90,6 +84,19 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -108,33 +115,33 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -180,10 +187,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -213,18 +220,16 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-guides.techidaily.com/1726028123116-audacity/"><u>Audacityで音声レコーディング:ステップバイステップガイド</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-chroma-key-fuzziness-for-professional-online-videos/"><u>Clearing Chroma Key Fuzziness for Professional Online Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-sites-with-complimentary-book-downloads-top-17-picks/"><u>Discover the Best Sites with Complimentary Book Downloads (Top 17 Picks)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-windows-drivers-with-ms-tools/"><u>Enhancing Windows Drivers with MS Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-recording-skype-calls-with-ease-for-mac-and-pc-users/"><u>In 2024, Recording Skype Calls with Ease for Mac and PC Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207368348-nier-automata-pc-game-keep-crashing-try-these-fixes-now/"><u>Nier: Automata PC Game Keep Crashing? Try These Fixes Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/normalize-windows-10-display-orientation/"><u>Normalize Windows 10 Display Orientation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cle-video-beginnings-16-youtube-selections-to-increase-watches-for-2024/"><u>Pinnacle Video Beginnings 16 YouTube Selections to Increase Watches for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/transform-your-videos-into-high-definition-masterpieces-with-winxvideo-ai-technology/"><u>Transform Your Videos Into High-Definition Masterpieces with Winxvideo AI Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/undetected-display-adapter-alert/"><u>Undetected Display Adapter Alert</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-google-chromes-false-alarm-critical-error-fixes/"><u>Unraveling the Mystery Behind Google Chrome’s False Alarm: Critical Error Fixes</u></a></li>
-<li><a href="https://facebook.techidaily.com/unseen-innovations-the-most-critical-tech-stories-missed-by-many/"><u>Unseen Innovations: The Most Critical Tech Stories Missed by Many</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cultivating-community-communication-tips-for-youtube-enthusiasts-for-2024/"><u>[New] Cultivating Community Communication Tips for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-deeper-dive-understanding-ez-grabbers-capabilities/"><u>[New] In 2024, A Deeper Dive Understanding EZ Grabber's Capabilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-matchmake-for-maximum-viewership-on-youtube/"><u>2024 Approved How to Matchmake for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-make-a-youtube-trailer-by-filmora-for-2024/"><u>How to Make a YouTube Trailer by Filmora for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-efficiency-with-top-5-clock-screensaver-apps/"><u>Improve Efficiency with Top 5 Clock Screensaver Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pro-gamers-manual-learn-xbox-one-screen-recording/"><u>Pro Gamer's Manual Learn Xbox One Screen Recording</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818136892-seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-struggle-screen-edge-adjustment-on-computers/"><u>Zero Struggle! Screen Edge Adjustment on Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Reviving Your ASUS Internal Cam"
-date: 2024-08-15T07:23:15.820Z
-updated: 2024-08-16T07:23:15.820Z
+date: 2024-09-23T21:43:46.815Z
+updated: 2024-09-30T18:58:28.362Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Allow your device and apps to access the camera
 
  If you failed to enable the camera, it’s very likely that your device cannot access your camera. You should check your privacy settings:
@@ -47,8 +44,12 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  2) Type in**ms-settings:privacy-webcam** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
@@ -60,8 +61,12 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3\. Update the webcam driver
 
  If the system settings are not blocking your camera, the main reason why your Asus camera is not working is an outdated/faulty webcam driver.
@@ -75,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
@@ -86,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 After updating your drivers, restart your PC and test the camera.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 4\. Reinstall the camera driver
 
  Under some circumstances, your camera may still act up after the related driver is up to date. To fix the issue quickly, you can launch Driver Easy, and click**Uninstall driver** next to your webcam driver, and restart your PC.
@@ -103,8 +101,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  1) Type **devmgmt.msc** in the field and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
@@ -112,6 +114,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  3) Right-click **Integrated Camera** and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
 
@@ -131,8 +140,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,8 +147,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-surge-strategy-using-youtube-outros-for-rapid-expansion-for-2024/"><u>[New] Channel Surge Strategy Using YouTube Outros for Rapid Expansion for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-instagram-videos-size-and-quality-insights/"><u>[New] Elevate Your Instagram Videos Size and Quality Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-money-making-guide-on-social-media/"><u>[New] The Ultimate Money-Making Guide on Social Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-playlists-that-dominate-spotify/"><u>[Updated] In 2024, Playlists That Dominate Spotify</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-mac-mastering-screen-recording-via-shortcuts/"><u>[Updated] Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-softening-volume-windowsmac-audio-tips-for-2024/"><u>[Updated] Softening Volume Windows/Mac Audio Tips for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-tour-through-top-virtual-biking-experiences/"><u>2024 Approved A Tour Through Top Virtual Biking Experiences</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-swift-fix-on-opengl-driver-trouble/"><u>NVIDIA's Swift Fix on OpenGL Driver Trouble</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/post-update-win10-flawless-streaming-guide/"><u>Post-Update Win10: Flawless Streaming Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-display-driver-anomalies-of-r9-gpu-in-windows-10/"><u>Resolved Display Driver Anomalies of R9 GPU in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revive-system-efficiency-upgrading-graphics-driver-on-windows/"><u>Revive System Efficiency: Upgrading Graphics Driver on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-remedy-tarkov-and-amd-glitches-cleared/"><u>Swift Remedy: Tarkov and AMD Glitches Cleared</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818200918-win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Distorted Text in Far Cry Game
-date: 2024-09-09T02:19:52.044Z
-updated: 2024-09-10T02:19:52.044Z
+date: 2024-09-27T19:35:39.779Z
+updated: 2024-10-01T07:19:02.493Z
 tags:
   - win11
   - win10
@@ -14,40 +14,16 @@ keywords: Far Cry Font Correction,Far Cry Text Reset Tips,Improve Far Cry Displa
 thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b12482bc1fecd3d439c888dea97.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clearing Up Distorted Text in Far Cry Game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-29-42.png)
 
  Many gamers enjoy the beautiful graphics in Far Cry series, and the new Far Cry 6 hasn’t disappointed the hype. But there’s a recent bug resulting in**random blurry textures in Far Cry 6** . If you also encounter this issue, try the fixes below!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Meet the system requirements
 
  Far Cry 6 is a bit demanding if you want the best graphics quality, but it’s still playable for 1080P at 30 FPS.
@@ -105,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -122,21 +105,29 @@ If this doesn’t help, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -149,32 +140,29 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this doesn’t help, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -185,28 +173,18 @@ If this doesn’t help, there’s one more fix you can try.
 3. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
-5. Click**Delete Files** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
+5. Click**Delete Files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
 ---
 
  Hopefully this article helps! If you have any questions or suggestions, feel free to drop a comment down below!
@@ -220,8 +198,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,8 +205,20 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-experience-the-best-download-options-for-fb-lite-videos-2023-ranking/"><u>[New] 2024 Approved Experience the Best Download Options for FB Lite Videos - 2023 Ranking</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-instant-video-post-how-to-turn-mp3s-into-youtube-playables/"><u>[Updated] In 2024, Instant Video Post How to Turn MP3s Into YouTube Playables</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[Updated] Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker/"><u>New 2024 Approved Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovos-inactive-touchscreen/"><u>Overcoming Lenovo's Inactive Touchscreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolution-tuning-mastered-stable-with-new-window-11-release/"><u>Resolution Tuning Mastered - Stable with New Window 11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-issue-only-partial-window-on-monitor/"><u>Screen Issue: Only Partial Window on Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-address-gpu-crashes-and-maintain-computer-functionality/"><u>Steps to Address GPU Crashes and Maintain Computer Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-essential-guide-to-upgrading-windows-7s-intel-gfx-driver/"><u>The Essential Guide to Upgrading Windows 7’S Intel Gfx Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-address-minecraft-issues-caused-by-faulty-gpu-drivers-in-windows/"><u>Troubleshooting Guide: How to Address Minecraft Issues Caused by Faulty GPU Drivers in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
+</ul></div>
 
