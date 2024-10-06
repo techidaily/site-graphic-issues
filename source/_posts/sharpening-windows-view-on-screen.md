@@ -1,7 +1,7 @@
 ---
 title: Sharpening Windows View on Screen
-date: 2024-08-22T13:31:31.486Z
-updated: 2024-08-23T13:31:31.486Z
+date: 2024-10-04T21:23:08.871Z
+updated: 2024-10-06T22:04:35.794Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 1: Check the monitor connection
 
  Sometimes your monitor**USB cable** may be loose or damaged, and that will affect the monitor signal. So your monitor is blurry. Be sure to check your monitor cable and make sure it works properly. Meanwhile, the**display port** of your monitor should be checked to make sure it’s connecting correctly.
@@ -65,20 +62,25 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 3. In the**Display** section, click**Advanced scaling settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your graphics card driver
 
  A driver faulty for your graphics card can cause the blurry screen, so you can reinstall your graphics card driver to fix the problem.
@@ -99,8 +101,12 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 3. Click **Driver Uninstall** , and double click**Display adapters** . Select your graphics card and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your screen becomes normal.
@@ -121,6 +127,19 @@ Check if your screen becomes normal.
 3. In the**Display** section, ensure to select**100%** for**Scale and layout** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then Windows will apply the changes. Check and see if your screen gets clear.
 
 **If you’re using Windows 8 and Windows 7:**
@@ -129,12 +148,33 @@ Check if your screen becomes normal.
 2. Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -143,25 +183,20 @@ Check if your screen is still blurry.
 1. Type the name of the app in the search box on your desktop, right-click on the app and select**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de6b88075.jpg)
 2. Right click on the application setup file, and select**Properties** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
 
@@ -180,8 +215,6 @@ Check if the blurry problem has been fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,8 +222,17 @@ Check if the blurry problem has been fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-best.techidaily.com/references(urlofrelevantresources)/"><u>[References](<URL_of_relevant_resources>)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-bypassing-channels-tweets-on-whatsapp/"><u>[Updated] In 2024, Bypassing Channels Tweets on WhatsApp</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/charting-a-course-through-public-domain-landmarks/"><u>Charting a Course Through Public Domain Landmarks</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-and-overcoming-4-predominant-gpu-hurdles/"><u>Deciphering and Overcoming 4 Predominant GPU Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/demystifying-ultra-high-definition-what-is-4k/"><u>Demystifying Ultra-High-Definition: What Is 4K?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-project-board-to-public-display-imovie-on-youtube/"><u>In 2024, From Project Board to Public Display IMovie on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818372618-missing-graphic-support-resolve-fast/"><u>Missing Graphic Support, Resolve Fast!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-detection-of-video-adapter/"><u>Non-Detection of Video Adapter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-iphone-failing-to-receive-texts-on-android-phones/"><u>Solving the Issue: IPhone Failing to Receive Texts on Android Phones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-uninstallation-for-graphics-drivers-in-windows/"><u>Swift Uninstallation for Graphics Drivers in Windows</u></a></li>
+</ul></div>
 

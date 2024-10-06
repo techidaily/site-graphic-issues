@@ -1,7 +1,7 @@
 ---
 title: Push Past White Screen in Sims World
-date: 2024-09-23T16:55:12.312Z
-updated: 2024-09-30T23:24:41.693Z
+date: 2024-09-30T17:33:07.504Z
+updated: 2024-10-06T18:49:11.739Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -65,13 +72,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -79,6 +79,13 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -98,6 +105,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Origin in game
 
  Origin in-game is a featured meant to bring better gaming performance especially for gamers to go online. However, this feature can cause conflicts in games and sometimes this white screen issue. So you should disable it while playing The Sims 4.
@@ -112,22 +126,15 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
@@ -139,13 +146,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -162,6 +162,13 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -183,10 +190,10 @@ Here is how to check if your computer spec has met the requirements:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
@@ -196,19 +203,6 @@ Here is how to check if your computer spec has met the requirements:
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -235,22 +229,18 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transforming-film-with-vr-experience/"><u>[New] Transforming Film with VR Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-6-networks-transforming-how-firms-connect-and-engage/"><u>[Updated] Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-accessing-global-hitters-the-1-6-short-video-downloaders/"><u>2024 Approved Accessing Global Hitters The #1-#6 Short Video Downloaders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>2024 Approved Smart Choices 8 Best Convertors From Sub to SRT Format</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-use-zoom-on-xbox-one-for-2024/"><u>How to Use Zoom on Xbox One for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instantly-boost-your-pc-with-intel-3000-update/"><u>Instantly Boost Your PC with Intel 3000 Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-iphone-file-destruction-app-erase-sensitive-data-safely/"><u>Secure iPhone File Destruction App: Erase Sensitive Data Safely</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrading-screen-clarity-for-far-cry-texts/"><u>Upgrading Screen Clarity for Far Cry Texts</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mac-users-guide-to-premium-mp4-slicer-apps/"><u>[New] Mac Users' Guide to Premium MP4 Slicer Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>[New] The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[Updated] 2024 Approved Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-reimagining-anime-narratives-in-trending-tiktok-creations/"><u>[Updated] 2024 Approved Reimagining Anime Narratives in Trending TikTok Creations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asymmetric-screen-aligned-on-notebooks/"><u>Asymmetric Screen Aligned on Notebooks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-value-of-the-latest-apple-ipad-air-a-comparable-experience-to-the-premium-ipad-pro/"><u>Discover the Value of the Latest Apple iPad Air: A Comparable Experience to the Premium iPad Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flickering-screen-follow-this-quick-asus-guide-to-solve-it/"><u>Flickering Screen? Follow This Quick ASUS Guide to Solve It</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y27-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y27 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-restoration-busting-displayport-silence/"><u>Instant Restoration: Busting DisplayPort Silence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instruction-manual-for-launching-safe-mode-in-windows-8-graphics-driver-expulsion/"><u>Instruction Manual for Launching Safe Mode in Windows 8, Graphics Driver Expulsion</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>New 2024 Approved The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-obscured-views-in-twitch-video/"><u>Overcoming Obscured Views in Twitch Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-graphics-cards-with-nvidia-gpu/"><u>Quick-Fix Guide: Graphics Cards with NVIDIA GPU</u></a></li>
 </ul></div>
 

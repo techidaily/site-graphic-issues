@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-09-28T18:24:43.449Z
-updated: 2024-10-01T05:40:55.122Z
+date: 2024-10-04T20:05:48.260Z
+updated: 2024-10-06T20:34:59.785Z
 tags:
   - win11
   - win10
@@ -26,19 +26,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
  Perhaps one of the most common causes for this graphics device crashed error is a corrupt or outdated graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -62,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics driver
 
@@ -73,16 +80,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
@@ -113,13 +120,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -141,10 +141,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -177,19 +177,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>[New] Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>[Updated] GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-flip-photo-trail-on-fb-3-techniques-explored/"><u>[Updated] In 2024, Flip Photo Trail on FB - 3 Techniques Explored</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[Updated] In 2024, Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ban-blinking-behemoth-easy-guide/"><u>Ban Blinking Behemoth: Easy Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-guide-setting-up-the-fanime-add-on-in-your-kodi-media-center-nvidia-shield-compatible/"><u>Complete Guide: Setting Up the FANime Add-On in Your Kodi Media Center (Nvidia Shield Compatible)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-anthem-loading-screen-madness-with-these-effective-fixes-and-tips/"><u>End Anthem Loading Screen Madness with These Effective Fixes and Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-outdated-intel-gfx-on-win10-pcs/"><u>Quick Fix for Outdated Intel GFX on Win10 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-nvidia-rtx-crashes-in-games/"><u>Stop NVIDIA RTX Crashes in Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unboxing-lenovos-best-legion-go-features-at-ifa-2-written-by-alex-johnson-mba/"><u>Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlisted-titan-rtx-on-system-console/"><u>Unlisted Titan RTX on System Console</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stability-achieved/"><u>Windows 10 Display Stability Achieved</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premier-content-creators-colloquy/"><u>[New] Premier Content Creators Colloquy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exhaustive-overview-insights-into-googles-podcast-application/"><u>[Updated] In 2024, Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-optimal-screen-usage-in-windows-10/"><u>Adjusting Aspect Ratios for Optimal Screen Usage in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/before-you-invest-in-wearable-health-technology-the-five-most-important-questions-to-ask/"><u>Before You Invest in Wearable Health Technology: The Five Most Important Questions to Ask</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-duo-assessment-an-overpriced-device-with-glitches-and-poor-usability/"><u>Microsoft Surface Duo Assessment: An Overpriced Device with Glitches and Poor Usability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-adapter-compatibility-windows-10-success-story/"><u>Qualcomm Adapter Compatibility - Windows 10 Success Story</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quenching-flickery-lights-on-acer-computers/"><u>Quenching Flickery Lights on Acer Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-sort-how-to-effortlessly-move-folders-in-w11/"><u>Smart Sort: How to Effortlessly Move Folders in W11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-your-starcraft-2-computer-freezing-problems-a-guide/"><u>Solving Your StarCraft 2 Computer Freezing Problems: A Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-android-cloud-saving-tools-for-2024/"><u>Top Android Cloud Saving Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-ray-tracing-technology-and-its-applications/"><u>Understanding Ray Tracing Technology and Its Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
 </ul></div>
 

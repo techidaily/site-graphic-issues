@@ -1,7 +1,7 @@
 ---
 title: "[Solved] HDMI Laptop to TV Not Working"
-date: 2024-08-22T13:29:26.282Z
-updated: 2024-08-23T13:29:26.282Z
+date: 2024-10-04T18:30:29.815Z
+updated: 2024-10-06T20:32:13.879Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -43,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
 Now check and see if your laptop to TV by HDMI works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -62,13 +71,14 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver in your laptop can stop HDMI from your laptop to TV from working, especially your graphics card driver and USB driver. To rule it out as the cause for your problem, you should update your device drivers to the latest version.
@@ -87,15 +97,29 @@ The difference between each mode is as follows:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
@@ -111,8 +135,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,8 +142,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-preeminence-in-premiere-pro-mastering-fullscreen-vistas/"><u>[New] 2024 Approved Preeminence in Premiere Pro Mastering Fullscreen Vistas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings/"><u>[New] Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-discover-these-must-try-iphone-vr-titles-for-2024/"><u>[New] Discover These Must-Try iPhone VR Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-design-a-great-gaming-youtube-banner-with-templates-for-2024/"><u>[New] How to Design a Great Gaming YouTube Banner with Templates for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[Updated] 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-compatibility-with-minimal-hardware/"><u>Achieving Compatibility with Minimal Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-curtain-of-silence-uncovering-the-potential-of-truthgpt-with-elon-musk-at-the-helm/"><u>Behind the Curtain of Silence: Uncovering the Potential of TruthGPT with Elon Musk at the Helm</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/contract-window-sizing-in-win-10/"><u>Contract Window Sizing in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-window-flip-windows-11s-display-issue/"><u>Correct Window Flip: Windows 11'S Display Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/focused-repairs-nvidia-cards-sans-displays/"><u>Focused Repairs: NVIDIA Cards Sans Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-experience-not-working-solved/"><u>GeForce Experience Not Working [SOLVED]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-in-high-definition-audiovisual-fusion-on-windows-11/"><u>In 2024, Harmony in High Definition Audio/Visual Fusion on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-effective-use-of-the-tracert-command-on-windows-pcs/"><u>The Ultimate Walkthrough for Effective Use of the Tracert Command on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-10-update-error-0x80240034/"><u>Troubleshooting Guide for Windows 10 Update Error - 0X80240034</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-potential-intel-graphics-on-underpowered-devices/"><u>Unlock Potential: Intel Graphics on Underpowered Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Win11 Enhancements for Visual Customization
-date: 2024-08-22T13:27:10.659Z
-updated: 2024-08-23T13:27:10.659Z
+date: 2024-10-04T20:45:05.140Z
+updated: 2024-10-06T18:30:08.785Z
 tags:
   - win11
   - win10
@@ -45,19 +45,37 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
  If the advanced display settings still is missing, don’t worry. Try to find it via Display Adapter Properties.
@@ -70,43 +88,29 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -117,8 +121,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,8 +128,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-no-price-point-digital-video-recorder/"><u>[New] 2024 Approved No-Price Point Digital Video Recorder</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dive-into-diy-the-beginners-guide-to-eye-catching-mac-videos-for-2024/"><u>[New] Dive Into DIY The Beginner’s Guide to Eye-Catching Mac Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-hidden-windows-10-advanced-options/"><u>[RECOVERED]: Hidden Windows 10 Advanced Options</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming-for-2024/"><u>[Updated] Navigating the Convergence of OBS & Zoom for Enhanced Streaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-to-the-chase-quick-guide-to-film-making-with-movie-maker/"><u>Cut to the Chase Quick Guide to Film-Making with Movie Maker</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-iphone-filming-software-list/"><u>Exclusive iPhone Filming Software List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-graphic-device-not-found/"><u>Fixed Graphic Device Not Found</u></a></li>
+<li><a href="https://facebook.techidaily.com/holding-fire-social-media-giant-waits-for-ruling/"><u>Holding Fire: Social Media Giant Waits for Ruling</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 14 Pro?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996362400-lost-arc-game-wont-start-top-fixes-and-workarounds-updated/"><u>Lost Arc Game Won't Start? Top Fixes and Workarounds Updated</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-art-of-window-11-screenshotting-tutorials/"><u>Mastering the Art of Window 11 Screenshotting Tutorials</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/modifying-high-res-on-windows-11/"><u>Modifying High Res on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817458455-nvidiaintel-graphics-issue-no-more-on-windows-10/"><u>Nvidia/Intel Graphics Issue No More on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-obscured-views-in-twitch-video/"><u>Overcoming Obscured Views in Twitch Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-graphics-cards-with-nvidia-gpu/"><u>Quick-Fix Guide: Graphics Cards with NVIDIA GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quiet-windows-11-monitor-stabilization/"><u>Quiet Windows 11 Monitor Stabilization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reducing-glare-on-games-text-interface/"><u>Reducing Glare on Game's Text Interface</u></a></li>
+<li><a href="https://fox-that.techidaily.com/teach-your-iphone-to-type-correctly-a-guide-to-fixing-autocorrect-issues-in-six-steps/"><u>Teach Your iPhone to Type Correctly: A Guide to Fixing Autocorrect Issues in Six Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-crash-faulty-minecraft-cards/"><u>Windows Crash: Faulty Minecraft Cards</u></a></li>
+</ul></div>
 

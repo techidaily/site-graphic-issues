@@ -1,7 +1,7 @@
 ---
 title: "YouTube Troubleshooting: Fixes for Non-Loading Videos"
-date: 2024-09-26T05:29:46.183Z
-updated: 2024-10-01T11:03:50.524Z
+date: 2024-10-03T17:25:59.413Z
+updated: 2024-10-06T20:21:34.783Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 5. [**Delete the app data**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Update your browser**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Fix 1: Check your Internet connection
 
  Sometimes poor Internet connection is behind this YouTube video black screen problem. So make sure your computer is well connected to a working Internet connection. Then re-launch your browser to see if this fixes the video not showing on YouTube issue.
@@ -49,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 2. Open a video in YouTube and see if it displays without fail.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
 
@@ -91,20 +111,21 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
@@ -114,32 +135,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 1. In Firefox, click **the menu button**  \> **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5822606a534.jpg)
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
 
@@ -152,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ###  Fix 5: Delete the app data
@@ -168,6 +156,26 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 1. On your keyboard, press**the**    **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R** at the same time. Then copy & paste**%appdata%** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766fc6d2ecc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**AppData** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
@@ -175,31 +183,18 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76707531fa7.jpg)
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Cut-paste**ALL** contents to a safe location in case something wrong comes up. Then delete**EVERYTHING** in this location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76717eb9673.jpg)
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 6: Update your browser
 
@@ -213,10 +208,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 3. Google Chrome automatically detects if there’s an update available:
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
@@ -247,24 +242,24 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-essential-techniques-for-editing-digits-in-tiktok-content-for-2024/"><u>[New] Essential Techniques for Editing Digits in TikTok Content for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reinstating-windows-photo-viewer-ways-for-windows-11-users/"><u>[New] Reinstating Windows Photo Viewer Ways for Windows 11 Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-your-one-stop-guide-30-prime-websites-offering-free-vectr-and-graphic-services/"><u>[Updated] 2024 Approved Your One-Stop Guide 30 Prime Websites Offering Free Vectr & Graphic Services</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-de-following-immediate-awareness-for-2024/"><u>[Updated] Instagram De-Following Immediate Awareness for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-frequent-disconnections-in-freesync-amd/"><u>Addressing Frequent Disconnections in FreeSync AMD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-at-last/"><u>Clear Windows Image at Last</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/disabling-gpu-by-error-recover-it-for-windows-1011/"><u>Disabling GPU by Error? Recover It for Windows 10/11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dodging-chroma-key-disasters-for-enhanced-videos-on-youtube/"><u>Dodging Chroma Key Disasters for Enhanced Videos on YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-microsoft-window-os-render-capabilities/"><u>Enhancing Microsoft Window OS Render Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hidden-displays-restored-in-windows-10/"><u>Hidden Displays Restored in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-trivial-talent-into-thriving-tv-subscribers-triumphs/"><u>In 2024, Transforming Trivial Talent Into Thriving TV (Subscribers) Triumphs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-understanding-filmoras-creative-certification-protocol/"><u>In 2024, Understanding Filmora's Creative Certification Protocol</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimized-display-on-windows-11-updated/"><u>Optimized Display on Windows 11 Updated</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/patching-up-the-system-windows-plus-nvidia-glide/"><u>Patching Up the System: Windows + NVIDIA Glide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revolutionary-performance-in-depth-analysis-of-the-2020-apple-mac-mini-with-m1-chip/"><u>Revolutionary Performance: In-Depth Analysis of the 2020 Apple Mac Mini with M1 Chip</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-wireless-communicators-2024s-ultimate-list/"><u>Top-Rated Wireless Communicators - 2024'S Ultimate List</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-steps-to-become-a-live-spectator-on-tiktok/"><u>[New] 2024 Approved Steps to Become a Live Spectator on TikTok</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-tips-choosing-the-ideal-screen-recorder-software/"><u>[Updated] 2024 Approved Expert Tips Choosing the Ideal Screen Recorder Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>[Updated] 2024 Approved Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[Updated] In 2024, The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-your-window-experience/"><u>Brighten Your Window Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/easy-steps-to-enable-game-lending-amongst-pals-on-xbox-console/"><u>Easy Steps to Enable Game Lending Amongst Pals on Xbox Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-malware-from-your-pc-4-effective-techniques-for-removing-windows-11-viruses/"><u>Eliminating Malware From Your PC: 4 Effective Techniques for Removing Windows 11 Viruses</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-clear-screens-with-win11-fixes/"><u>Ensuring Clear Screens with Win11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-gui-restoring-normal-gfx-functionality/"><u>Fixed Windows GUI: Restoring Normal GFX Functionality</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-start-to-finish-a-comprehensive-guide-to-quicktime-video-editing-on-mac-for-2024/"><u>From Start to Finish A Comprehensive Guide to QuickTime Video Editing on Mac for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-streamline-your-content-top-8-youtube-to-avi-solutions/"><u>In 2024, Streamline Your Content Top 8 YouTube-to-AVI Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/la-forma-optima-de-convertir-archivos-avchd-m2ts-en-mp4-sin-perdida-de-calidad-top-5-tecnicas/"><u>La Forma Optima De Convertir Archivos AVCHD M2TS en MP4 Sin Pérdida De Calidad - Top 5 Técnicas</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/limit-win-10-display-extensiveness/"><u>Limit WIN 10 Display Extensiveness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-glitches-without-freeze-outages/"><u>Overcoming GPU Glitches Without Freeze Outages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-remedies-reclaiming-your-screens-connection/"><u>Quick Remedies: Reclaiming Your Screen's Connection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sliding-into-saved-screen-setup-post-resolution/"><u>Sliding Into Saved Screen Setup Post-Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-error-reported/"><u>System Graphics Error Reported</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-black-screen-with-cursor-solved/"><u>Windows 10 Black Screen with Cursor [SOLVED]</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-storage-strategies-from-chaos-to-clarity/"><u>Windows Storage Strategies: From Chaos to Clarity</u></a></li>
 </ul></div>
 

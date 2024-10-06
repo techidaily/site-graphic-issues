@@ -1,7 +1,7 @@
 ---
 title: "TDR Alert Fixed: NVIDIA Drivers Stabilize Graphics"
-date: 2024-08-22T13:30:33.931Z
-updated: 2024-08-23T13:30:33.931Z
+date: 2024-10-05T20:02:23.055Z
+updated: 2024-10-06T17:24:30.616Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -57,16 +64,17 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -81,14 +89,8 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -97,21 +99,35 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
@@ -133,8 +149,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,8 +156,23 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-screen-capture-tips-for-mi-11-users/"><u>[Updated] In 2024, Essential Screen Capture Tips for Mi 11 Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>[Updated] In 2024, Mastering Playback Pivot A Step-by-Step YT Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-powerful-applications-to-extract-vimeo-content/"><u>[Updated] In 2024, Powerful Applications to Extract Vimeo Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-in-depth-guide-on-using-annotations-for-marketing/"><u>2024 Approved In-Depth Guide on Using Annotations for Marketing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/charting-new-realms-with-ultra-hd-resolution-4k-explored/"><u>Charting New Realms with Ultra HD Resolution - 4K Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-fichiers-au-vers-wav-service-gratuit-en-ligne-avec-movavi/"><u>Conversion De Fichiers Au Vers WAV - Service Gratuit en Ligne Avec Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expert-pathway-to-windows-8s-secure-boot-graphics-card-driver-eradication/"><u>Expert Pathway to Windows 8'S Secure Boot - Graphics Card Driver Eradication</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-non-registered-graphics-devices-on-pcs/"><u>Fixing Non-Registered Graphics Devices on PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/getting-past-dxgkrnlsys-bsod-on-pc/"><u>Getting Past dxgkrnl.sys BSOD on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818019053-graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-premium-free-fb-media-designer-toolkit/"><u>In 2024, Premium Free FB Media Designer Toolkit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-un65ru80qxaa-tv-analysis-stunning-display-with-clever-intelligence/"><u>In-Depth Samsung UN65RU80QXAA TV Analysis: Stunning Display with Clever Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reach-out-to-digiarty-now-your-digital-partner/"><u>Reach Out to Digiarty Now - Your Digital Partner</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
+</ul></div>
 

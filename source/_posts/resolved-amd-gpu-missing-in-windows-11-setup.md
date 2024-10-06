@@ -1,7 +1,7 @@
 ---
 title: "Resolved: AMD GPU Missing in Windows 11 Setup"
-date: 2024-09-28T14:35:00.061Z
-updated: 2024-10-01T08:38:06.967Z
+date: 2024-10-02T16:14:29.005Z
+updated: 2024-10-06T21:46:27.010Z
 tags:
   - win11
   - win10
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -60,20 +66,20 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,20 +110,20 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-youtube-posters-at-zero-price-top-free-downloading-tool-for-2024/"><u>[Updated] Get YouTube Posters at Zero Price - Top Free Downloading Tool for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[Updated] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advance-your-skillset-god-of-war-challenge/"><u>Advance Your Skillset: 'God of War' Challenge</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dance-no-more-fixing-win11s-screen-issue/"><u>Dance No More: Fixing Win11's Screen Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-to-stop-palworld-from-crashing-on-pc-expert-tips-and-tricks/"><u>Effective Fixes to Stop Palworld From Crashing on PC: Expert Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-of-the-line-no-more-direct3d-rendering-setbacks/"><u>End of the Line: No More Direct3D Rendering Setbacks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-a1x-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo A1x 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-t2-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo T2 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminate-issues-lenovo-bs-woes/"><u>Illuminate Issues - Lenovo BS Woes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-100-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor 100 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A78 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-issue-no-fullscreen-window-on-win10/"><u>Monitor Issue: No Fullscreen Window on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-compatibility-achieved-with-win11/"><u>Nvidia Compatibility Achieved with Win11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/user-guide-to-the-cost-effective-amazonbasics-6-sheets-cross-cut-destroyer/"><u>User Guide to the Cost-Effective AmazonBasics 6-Sheets Cross Cut Destroyer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-pixelmaster-360-multiplatform-resolution-booster/"><u>[New] 2024 Approved PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-enterprise-sky-saver-guide/"><u>[New] 2024 Approved Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-record-android-internal-voice-4-easy-rootless-techniques-for-2024/"><u>[New] Record Android Internal Voice 4 Easy, Rootless Techniques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optimal-record-solution-chromebook-edition/"><u>2024 Approved Optimal Record Solution Chromebook Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-dvdmac-osdvdmp4/"><u>高效率Mac DVD转码器：从Mac OS下载，解锁并转换加密DVD到MP4、手机或平板电子设备</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-screenshake-phenomenon-in-lenovo/"><u>Addressing Screenshake Phenomenon in Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-repairs-no-screen-on-your-nvidia-card/"><u>Effortless Repairs: No Screen on Your NVIDIA Card?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/endeavour-halo-infinite-stalls-over-directx12/"><u>Endeavour: Halo Infinite Stalls Over DirectX12</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-workstation-how-to-install-updated-drivers-for-nvidia-quadro-rtx-4000/"><u>Enhance Your Workstation: How to Install Updated Drivers for NVIDIA Quadro RTX 4000</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-make-your-asus-screen-sparkle-again/"><u>How to Make Your Asus Screen Sparkle Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/luminosity-without-the-dance-preventing-screen-flickers/"><u>Luminosity without the Dance: Preventing Screen Flickers</u></a></li>
+<li><a href="https://games-able.techidaily.com/racing-realism-arcade-wheels-over-touchscreen-techniques/"><u>Racing Realism: Arcade Wheels Over Touchscreen Techniques?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screens-strategies-for-reducing-flickers/"><u>Smooth Screens: Strategies for Reducing Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-switchable-graphics-issue-in-windows-11/"><u>Solving Switchable Graphics Issue in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/understanding-youtubers-income-average-ad-revenues-per-play-in-2024/"><u>Understanding Youtuber's Income Average Ad Revenues per Play, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repairing Flickering LCD Issues on Computers
-date: 2024-09-25T04:38:21.881Z
-updated: 2024-09-30T16:58:57.329Z
+date: 2024-10-03T20:45:36.340Z
+updated: 2024-10-06T17:36:49.178Z
 tags:
   - win11
   - win10
@@ -52,22 +52,15 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Hard reset your laptop
 
@@ -83,13 +76,6 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
@@ -104,37 +90,57 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
@@ -160,14 +166,22 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-securing-your-online-sessions-pcmobile-recording-for-2024/"><u>[New] Securing Your Online Sessions PC/Mobile Recording for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-io-screen-recorder-skills-for-professionals/"><u>[Updated] 2024 Approved Essential IO Screen Recorder Skills for Professionals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-pixlr-upgrades-for-enhanced-results/"><u>[Updated] In 2024, Essential Pixlr Upgrades for Enhanced Results</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-narzo-n55-lock-screen-password-by-drfone-android/"><u>How To Change Realme Narzo N55 Lock Screen Password?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-feedback-loop/"><u>Immediate Feedback Loop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-link-reconnect-computer-and-television-hdmi/"><u>Restoring Lost Link: Reconnect Computer & Television HDMI</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unleashing-system-stability-safe-mode-and-gpu-drivers-removal-guide-for-win8/"><u>Unleashing System Stability: Safe Mode and GPU Drivers Removal Guide for WIN8</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadow-issue-fixes-for-fall-creators-patch/"><u>Win11 Shadow Issue - Fixes for Fall Creator's Patch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-cutting-through-the-clutter-mastering-social-media-videos-on-facebook/"><u>[New] 2024 Approved Cutting Through the Clutter Mastering Social Media Videos on Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-10-apps-to-boost-audio-velocity/"><u>[New] Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-dxgkrnlsys-bluescreen-of-death-fixed/"><u>[System] dxgkrnl.sys BlueScreen of Death Fixed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mould-laughter-inducing-images-giphy-style/"><u>[Updated] 2024 Approved Mould Laughter-Inducing Images, Giphy Style</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-definitive-2023-bandicam-handbook-for-gamers/"><u>[Updated] 2024 Approved The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-custom-whatsapp-ringtone-guide-on-ios-devices/"><u>2024 Approved Custom WhatsApp Ringtone Guide on iOS Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-device-setup-issue/"><u>Conquered Device Setup Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-bsod-correct-wdf-issues/"><u>Eliminating Windows BSOD: Correct WDF Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-computer-arm/"><u>Horizontal Adjustment - Portable Computer Arm</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-of-the-best-top-10-free-4k-video-converter-tools-for-2024/"><u>New Best of the Best Top 10 Free 4K Video Converter Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-break-free-from-q/"><u>New In 2024, Break Free From Q</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-windows-graphics-hurdle/"><u>Overcome Windows Graphics Hurdle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-flickers-fixes-wins11/"><u>Smooth Out Flickers, Fixes Wins11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-z-fold-5-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy Z Fold 5 Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-end-of-visual-shimmy-in-win11/"><u>The End of Visual Shimmy in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-smooth-gameplay-in-fallout-4-pc-edition/"><u>Unlock Smooth Gameplay in Fallout 4, PC Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/zooming-into-better-visuals-implementing-video-effects-for-2024/"><u>Zooming Into Better Visuals Implementing Video Effects for 2024</u></a></li>
 </ul></div>
 

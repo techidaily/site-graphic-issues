@@ -1,7 +1,7 @@
 ---
 title: Overcoming DirectX12 Barriers for Halo Infinite Launch
-date: 2024-09-26T18:32:17.441Z
-updated: 2024-10-01T07:53:22.585Z
+date: 2024-09-30T19:46:28.914Z
+updated: 2024-10-06T21:57:11.701Z
 tags:
   - win11
   - win10
@@ -26,18 +26,18 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -79,13 +79,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -116,33 +109,19 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -155,6 +134,13 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -170,7 +156,22 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -189,21 +190,19 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-seamless-youtube-to-file-conversion-techniques/"><u>[New] 2024 Approved Seamless YouTube to File Conversion Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-overcoming-windows-bluescreen-dxgkrnlsys/"><u>[Tech] Overcoming Windows BlueScreen dxgkrnl.sys</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-exclusive-insight-into-the-6-most-advanced-instagram-reel-apps-for-2024/"><u>[Updated] Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-orchestrate-an-engaging-statement-with-tunes/"><u>2024 Approved Orchestrate an Engaging Statement with Tunes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/deciphering-digital-enhancement-enter-the-world-of-4k/"><u>Deciphering Digital Enhancement: Enter the World of 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-bluescreen-of-death-fixing-in-windows/"><u>dxgkrnl.sys BlueScreen of Death: Fixing in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-scenes-crafting-a-movie-blueprint/"><u>In 2024, Behind the Scenes Crafting a Movie Blueprint</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-guide-to-securely-copying-youtube-music-tracks-safely/"><u>In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/meeting-basic-requirements-running-intel-drivers-on-budget-pc/"><u>Meeting Basic Requirements: Running Intel Drivers on Budget PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-nvidia-control-panel-errors-and-crashes-effectively/"><u>Overcoming NVIDIA Control Panel Errors and Crashes Effectively</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-visual-ui-experience-reinstated-on-win-pc/"><u>Smooth Visual UI Experience Reinstated on Win PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-cleared-nvidia-display-responding-anew/"><u>System Alert Cleared: NVidia Display Responding Anew</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-r9-display-issues-on-windows-11-successfully/"><u>Tackling R9 Display Issues on Windows 11 Successfully</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beat-blackout-blankness-in-sims/"><u>Beat Blackout Blankness in Sims</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-distorted-text-in-far-cry-game/"><u>Clearing Up Distorted Text in Far Cry Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-when-you-cant-hear-anything-on-twitch-live/"><u>Effective Solutions When You Can't Hear Anything on Twitch Live</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-tools-the-10-next-best-options-beyond-chatgpt/"><u>Essential AI Tools: The 10 Next-Best Options Beyond ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-problem-code-43-resolved-now/"><u>GPU Problem Code 43 Resolved Now</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>In 2024, 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-f14-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy F14 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-lava-yuva-3-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Lava Yuva 3 Pro Easily?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-screencapture-guide-for-laptop-techies/"><u>In 2024, The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-liking-article-headliner-for-2024/"><u>Prime Liking Article Headliner for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-opengl-error-nvidias-quick-remedy-found/"><u>Resolved: OpenGL Error - Nvidia's Quick Remedy Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tame-asus-laptop-display-stop-the-squirm-not-quiver/"><u>Tame ASUS Laptop Display: Stop the Squirm, Not Quiver</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y27-4g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y27 4G Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi K70 | Dr.fone</u></a></li>
 </ul></div>
 

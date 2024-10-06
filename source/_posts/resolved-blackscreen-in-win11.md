@@ -1,7 +1,7 @@
 ---
 title: Resolved BlackScreen in Win11
-date: 2024-09-29T18:30:10.078Z
-updated: 2024-10-01T10:56:39.903Z
+date: 2024-10-01T21:39:25.928Z
+updated: 2024-10-06T21:12:20.075Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 6. [**Reset your PC**](#s6)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
 
@@ -73,6 +80,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -84,24 +98,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
 
@@ -113,18 +113,24 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
 
@@ -139,10 +145,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
@@ -153,13 +159,6 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -187,27 +186,20 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -222,15 +214,34 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -260,6 +271,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully one of these fixes has resolved your Windows 10 black screen with cursor error. If you have any questions, please comment below as we’re happy to hear of any suggestions and ideas.
@@ -279,24 +297,24 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] 2024 Approved How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-thrifty-pc-display-saving-programs/"><u>[Updated] 2024 Approved Thrifty PC Display Saving Programs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortlessly-formulating-cohesive-skype-chats-across-windowsmac-platforms-for-2024/"><u>[Updated] Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-twister-timber-titmice-for-2024/"><u>[Updated] Twister Timber Titmice for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adapting-to-insufficient-specifications-installation-guide/"><u>Adapting to Insufficient Specifications: Installation Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/affordable-hd-action-cam-hits-top-list/"><u>Affordable HD Action Cam Hits Top List</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-up-solutions-for-fading-lenovo-screen/"><u>Brighten Up: Solutions for Fading Lenovo Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-win10-monitor-settings/"><u>Corrected Win10 Monitor Settings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-dark-screens-on-mobile-devices/"><u>Correcting Dark Screens on Mobile Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-fixes-for-defective-asus-cam/"><u>Finding Fixes for Defective Asus Cam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-detection-none-detected/"><u>GPU Detection: None Detected</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-razr-40-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Razr 40 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mp3-creation-from-instagram-vids-explained/"><u>In 2024, MP3 Creation From Instagram Vids Explained</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-updates-for-canon-pixma-mg2522-software-drivers-how-to-get-them/"><u>Latest Updates for Canon Pixma MG2522 Software Drivers - How to Get Them</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-compatibility-hiccup-with-amd-driver-and-win10/"><u>Overcome Compatibility Hiccup with AMD Driver and Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-driver-update-intellion-graphics-in-windows-11-compatibility-boost/"><u>Swift Driver Update - IntellIon Graphics in Windows 11 Compatibility Boost</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-discover-the-best-hand-drawing-whiteboard-animation-creators/"><u>Updated In 2024, Discover the Best Hand Drawing Whiteboard Animation Creators</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-exploring-samsungs-photo-enhancing-tools/"><u>[New] 2024 Approved Exploring Samsung’s Photo Enhancing Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevating-visual-experience-big-is-better/"><u>[New] In 2024, Elevating Visual Experience Big Is Better</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-joining-forces-in-video-marketing-on-youtube/"><u>[New] In 2024, Joining Forces in Video Marketing on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-becoming-an-expert-in-lut-technology-for-2024/"><u>[Updated] Becoming an Expert in LUT Technology for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gamers-choice-the-best-of-the-best-4k-tvs/"><u>[Updated] Gamer's Choice The Best of the Best 4K TVs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-skype-audio-with-obs-recording-techniques/"><u>[Updated] Securing Skype Audio with OBS Recording Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-the-c1900101-hiccup-when-installing-win10/"><u>Addressing the C1900101 Hiccup When Installing Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-up-the-darkness-on-lenovo-devices/"><u>Clear Up the Darkness on Lenovo Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-motorola-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Android? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-win11-radeon-r9-display-problems-fixed/"><u>Overcoming Win11 Radeon R9 Display Problems [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-your-asus-notebook-with-simple-steps/"><u>Reviving Your Asus Notebook with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-no-to-screens-that-dance-fix-win7-flickers/"><u>Say No to Screens that Dance – Fix Win7 Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-solutions-no-display-on-graphics-boards/"><u>Smooth Solutions: No Display on Graphics Boards</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ddr5-board-guide-2024/"><u>The Ultimate DDR5 Board Guide 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817565346-transform-your-gaming-experience-on-win10-with-amd-hd-6950-update/"><u>Transform Your Gaming Experience on Win10 with AMD HD 6950 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-post-fall-update-dark-screens-solved/"><u>Windows 10: Post-Fall Update, Dark Screens - Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-amd-radeon-hd-6950-updated-driver-now-available/"><u>Windows 11: AMD Radeon HD 6950 Updated Driver Now Available</u></a></li>
 </ul></div>
 

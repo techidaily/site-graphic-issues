@@ -1,7 +1,7 @@
 ---
 title: Banish Screen Flicker in Workstations
-date: 2024-08-22T13:31:51.255Z
-updated: 2024-08-23T13:31:51.255Z
+date: 2024-10-02T19:01:15.862Z
+updated: 2024-10-06T19:23:33.668Z
 tags:
   - win11
   - win10
@@ -36,10 +36,12 @@ There are two fixes you can try:
 2. [**Turn on V-Sync**](#b)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Update your drivers
 
  You monitor screen may tear if your device drivers, especially your graphics driver, are wrong or out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,13 +56,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -68,6 +74,13 @@ The powerful video editing program for your Windows PC</a>
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -79,10 +92,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -90,8 +99,12 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
@@ -104,14 +117,8 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -122,8 +129,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,8 +136,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-webster.techidaily.com/m-0/"><u> [ M = 0 </u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-access-to-facebook-beats-for-2024/"><u>[Updated] Exclusive Access to Facebook Beats for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-upside-down-screen-problems-in-windows-10/"><u>End Upside-Down Screen Problems in Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/get-your-essential-apple-gadgets-at-record-prices-this-prime-day/"><u>Get Your Essential Apple Gadgets at Record Prices This Prime Day</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y28-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y28 5G Phone FRP Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-13-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 13</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-diet-with-gpt-powered-planning/"><u>Transform Your Diet with GPT-Powered Planning</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmasking-the-invisible-dx-hiccup-in-legion-of-lol/"><u>Unmasking the Invisible DX Hiccup in Legion of LoL</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-eyes-the-case-for-deleting-your-facebook-watch-history/"><u>Unseen Eyes: The Case for Deleting Your Facebook Watch History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-versatile-implementation-of-chatgpt/"><u>Unveiling the Versatile Implementation of ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
+</ul></div>
 

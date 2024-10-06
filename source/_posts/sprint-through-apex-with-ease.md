@@ -1,7 +1,7 @@
 ---
 title: Sprint Through Apex with Ease
-date: 2024-08-22T13:29:27.370Z
-updated: 2024-08-23T13:29:27.370Z
+date: 2024-10-05T18:52:07.787Z
+updated: 2024-10-06T21:50:06.084Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ Or
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -58,17 +62,41 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -83,9 +111,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
@@ -94,9 +119,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apex Legends still keeps crashing?
 
  If Apex Legends still keeps crashing after you update your graphics, don’t worry. There’re some other fixes for you to try.
@@ -143,6 +165,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
 #### Fix 5: Install the latest Apex Legends patch
@@ -157,9 +186,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
@@ -176,9 +202,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -193,8 +216,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,8 +223,22 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-conquering-peaks-comparing-gopro-hero5-black-and-session-for-2024/"><u>[Updated] Conquering Peaks Comparing GoPro Hero5 Black and Session for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>[Updated] History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-engagement-top-video-release-slots/"><u>2024 Approved Elevate Engagement Top Video Release Slots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-face-off-exploring-the-differences-between-chatgpt-and-claude/"><u>Chatbots Face-Off: Exploring the Differences Between ChatGPT and Claude</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-flaw-affecting-halo-infinite-release/"><u>DirectX12 Flaw Affecting Halo Infinite Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-backlight-on-your-lenovo-tvmonitor/"><u>Enhancing Backlight On Your Lenovo TV/Monitor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-pivot-to-short-form-content-unpacking-2023-changes/"><u>Facebook's Pivot to Short-Form Content Unpacking 2023 Changes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-laptops-from-dark-to-daylight/"><u>Lenovo Laptops: From Dark to Daylight</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/merging-youtube-melodies-in-cinematic-pieces/"><u>Merging YouTube Melodies in Cinematic Pieces</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-fixing-a-malfunctioning-keyboard-that-wont-type-anything/"><u>Step-by-Step Guide: Fixing a Malfunctioning Keyboard That Won’t Type Anything</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/thrilling-4k-technology-for-your-mac-top-10-screens-for-2024/"><u>Thrilling 4K Technology for Your Mac - Top 10 Screens for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-smooth-streaming-post-upgrade-win11/"><u>Unlocking Smooth Streaming Post-Upgrade Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-system-safety-access-to-safe-mode-and-gpu-driver-removal-guide/"><u>Unlocking System Safety: Access to Safe Mode & GPU Driver Removal Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-full-screen-display-failure-detected/"><u>Win10 Full Screen Display Failure Detected</u></a></li>
+</ul></div>
 

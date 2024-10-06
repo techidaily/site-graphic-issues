@@ -1,7 +1,7 @@
 ---
 title: Easily Minimize Game Lag
-date: 2024-09-29T17:29:57.547Z
-updated: 2024-10-01T09:16:42.362Z
+date: 2024-10-01T18:41:19.605Z
+updated: 2024-10-06T16:14:01.878Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Optimize your in-game settings
 
  For the best performance of Anthem and less lag, you can adjust your in-game settings.
@@ -40,13 +47,6 @@ Here’s how to do it:
  In**Vertical Sync** , select**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
 
@@ -94,6 +94,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Disable CPU Core Parking
 
  Core parking is a utility in Windows that helps save power by scaling the number of logical processors in use based on the workload. If enabled, it can cause your CPU to be in a sleep state and decrease the performance of your CPU.
@@ -112,27 +119,20 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -148,6 +148,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
@@ -155,13 +162,6 @@ So you can follow the steps below to disable CPU core parking:
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -187,13 +187,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -202,15 +195,22 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
@@ -222,10 +222,16 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Click**OK** to exit.
@@ -253,16 +259,17 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-virtual-races-the-quintessential-list-for-2024/"><u>[New] Ultimate Virtual Races The Quintessential List for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>[Updated] Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-masterclass-analyzing-the-updated-lg-bp550/"><u>[Updated] In 2024, Masterclass Analyzing the Updated LG BP550</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-silence-card-upgrade/"><u>Monitor Silence, Card Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-radiance-to-rugged-reality-views/"><u>Restoring Radiance to Rugged Reality Views</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-display-normalized-after-fix/"><u>Screen Display Normalized After Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-handling-sudden-shutdowns-while-gaming-on-multiple-versions-of-windows-operating-systems/"><u>Solutions for Handling Sudden Shutdowns While Gaming on Multiple Versions of Windows Operating Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818375975-tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/teaching-troubleshooting-tactics-for-blank-displays/"><u>Teaching Troubleshooting Tactics for Blank Displays</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-reference-for-all-discord-users/"><u>The Ultimate Reference for All Discord Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube/"><u>[New] In 2024, Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-story-lore-who-are-the-premier-channels-for-2024/"><u>[New] Story Lore Who Are the Premier Channels for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs/"><u>[Updated] 2024 Approved Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>[Updated] In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-a-step-by-step-guide-to-screen-stability/"><u>Banish Blinky: A Step-by-Step Guide to Screen Stability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-aspect-ratio-for-flexible-display/"><u>Corrected Aspect Ratio for Flexible Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-immediately-fix-non-responsive-dp-connections/"><u>How to Immediately Fix Non-Responsive DP Connections</u></a></li>
+<li><a href="https://fox-http.techidaily.com/iconic-vhs-visuals-to-transform-video-projects-for-2024/"><u>Iconic VHS Visuals to Transform Video Projects for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intelligent-drivers-streamlining-the-update-process-of-intel-graphic-cards/"><u>Intelligent Drivers: Streamlining the Update Process of Intel Graphic Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-system-safeguard-techniques-entrance-into-safe-mode-and-drivers-rids/"><u>Simplified System Safeguard Techniques: Entrance Into Safe Mode & Drivers Rids</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-first-of-its-kind-portal-turned-mobility-friendly/"><u>The First of Its Kind: Portal Turned Mobility-Friendly</u></a></li>
 </ul></div>
 

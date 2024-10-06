@@ -1,7 +1,7 @@
 ---
 title: "Apex's Speedier Setup: Game Saved & Solved"
-date: 2024-08-22T13:27:44.545Z
-updated: 2024-08-23T13:27:44.545Z
+date: 2024-09-30T17:58:19.228Z
+updated: 2024-10-06T16:56:47.118Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -55,6 +62,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
@@ -63,10 +77,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Method 2: Download and install your Nvidia graphics driver manually
 
  You can download the updated driver file for your Nvidia graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -81,9 +91,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
@@ -92,9 +99,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Apex Legends still keeps crashing?
 
  If Apex Legends still keeps crashing after you update your graphics, don’t worry. There’re some other fixes for you to try.
@@ -137,13 +141,17 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
 #### Fix 5: Install the latest Apex Legends patch
@@ -159,8 +167,12 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-344-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
@@ -178,8 +190,12 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -194,8 +210,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,8 +217,21 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-4-easy-ways-to-screen-record-lenovo-laptop/"><u>[New] In 2024, 4 Easy Ways to Screen Record Lenovo Laptop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tips-to-develop-engaging-lifestyle-enlightenment-vids/"><u>[New] Tips to Develop Engaging Lifestyle Enlightenment Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-successfully-upload-elongated-youtube-clips/"><u>[Updated] 2024 Approved How to Successfully Upload Elongated YouTube Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-htc-vive-unveiled-mastering-your-3d-world/"><u>[Updated] HTC Vive Unveiled Mastering Your 3D World</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-proven-approaches-to-sound-recording-on-computers/"><u>[Updated] In 2024, Proven Approaches to Sound Recording on Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>2024 Approved How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-display-brightness-on-portable-devices/"><u>Enhancing Display Brightness on Portable Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-and-correcting-comexception-discrepancies/"><u>Interpreting and Correcting COMException Discrepancies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flicker-issues-in-windows-7/"><u>Overcoming Flicker Issues in Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-network-errors-in-multiplayer-civ-5/"><u>Removing Network Errors in Multiplayer CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-flaccid-gpu-fan-dynamics/"><u>Reviving Flaccid GPU Fan Dynamics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-system-upgraded-graphics-drivers-in-windows/"><u>Streamline Your System: Upgraded Graphics Drivers in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synching-youtube-songs-to-video-frameworks-for-2024/"><u>Synching YouTube Songs to Video Frameworks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722891387108-top-rated-ceiling-sound-systems/"><u>Top Rated Ceiling Sound Systems</u></a></li>
+</ul></div>
 

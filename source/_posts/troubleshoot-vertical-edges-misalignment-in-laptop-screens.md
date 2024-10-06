@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Vertical Edges Misalignment in Laptop Screens
-date: 2024-08-22T13:27:36.618Z
-updated: 2024-08-23T13:27:36.618Z
+date: 2024-09-29T17:23:46.220Z
+updated: 2024-10-06T21:19:26.175Z
 tags:
   - win11
   - win10
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 1. **[Update your graphics driver](#F1)**
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -51,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the screen resolution
 
  Another trick you can try is to adjust your screen to the recommended resolution. Here’s how:
@@ -67,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### I’m using Windows 8 or 7
 
  1) Right-click on the empty area of your desktop screen and click Screen resolution.
@@ -84,20 +95,31 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Gently wipe the screen with cotton balls
 
  If the fixes above didn’t help with the problem, then it’s most likely a hardware problem. You can power off the computer and then gently wipe across the screen with cotton balls. Be sure to proceed with caution so as not to cause any further damage to your laptop.
@@ -119,8 +141,6 @@ Featured image by rawpixel.com from Pexels
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +148,23 @@ Featured image by rawpixel.com from Pexels
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-zoom-camera-not-working-2024-guide/"><u>[Fixed] Zoom Camera Not Working 2024 Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oneplus-12r-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best OnePlus 12R Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-clouds-advanced-drone-video-techniques/"><u>Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-difficulty-blocking-halo-infinites-first-playable-moment/"><u>DX12 Difficulty Blocking Halo Infinite's First Playable Moment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easing-video-delays-after-upgrading-to-win11/"><u>Easing Video Delays After Upgrading to Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-line-treatments-include-high-doses-of-glucocorticoids-and-an-immunosuppressant-like-cyclophosphamide-or-mycophenolate-mofetil-for-induction-therapy/"><u>First-Line Treatments Include High Doses of Glucocorticoids and an Immunosuppressant Like Cyclophosphamide or Mycophenolate Mofetil for Induction Therapy</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-14-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 14 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-12-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme 12 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-teaching-with-technology-innovative-editing-approaches-in-education/"><u>In 2024, Teaching with Technology Innovative Editing Approaches in Education</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818152861-nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-civ-5-malfunctions-pc/"><u>Rectifying Civ 5 Malfunctions PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-blackscreen-in-win11/"><u>Resolved BlackScreen in Win11</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-detected-gpu/"><u>Troubleshooting Non-Detected GPU</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Screen Size Control Achieved in New Version of Windows 11
-date: 2024-08-22T13:31:30.388Z
-updated: 2024-08-23T13:31:30.388Z
+date: 2024-09-29T16:47:33.350Z
+updated: 2024-10-06T16:48:43.492Z
 tags:
   - win11
   - win10
@@ -53,8 +53,12 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -65,9 +69,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -77,8 +78,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -86,8 +91,18 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -102,23 +117,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -138,8 +153,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,8 +160,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevate-your-gameplay-top-5-recording-strategies-for-roblox-and-macos/"><u>[New] 2024 Approved Elevate Your Gameplay Top 5 Recording Strategies for Roblox & macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-android-tools-for-video-recording/"><u>[New] 2024 Approved Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harnessing-your-cameras-power-for-live-online-content-on-personal-computers-for-2024/"><u>[New] Harnessing Your Camera's Power for Live Online Content on Personal Computers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[New] In 2024, Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-purge-background-from-photos-using-photopea/"><u>[New] Techniques to Purge Background From Photos Using Photopea</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-no-amd-graphics-driver-is-installed-on-windows-1110/"><u>[SOLVED] No AMD Graphics Driver Is Installed on Windows 11/10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>Boosting Income Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-dynamic-asus-laptop-resurrection-guide/"><u>From Dark to Dynamic: Asus Laptop Resurrection Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-resolved-and-fixed/"><u>GPU Error 43: Resolved and Fixed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-computer-screen-captures-in-minutes/"><u>Mastering the Art of Computer Screen Captures in Minutes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-visuals-on-win10-with-hd-6950-updates/"><u>Maximize Visuals on Win10 with HD 6950 Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-warped-graphics-in-win11/"><u>No More Warped Graphics in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-buffer-issues-with-ease/"><u>Resolve Buffer Issues with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-large-screen-size-on-win11/"><u>Resolving Large Screen Size on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-interoperability-failure-on-windows-10/"><u>Tackling Interoperability Failure on Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-lenovo-ideapad-yoga-a940-reviews-and-tips/"><u>The Ultimate Guide to Choosing a Lenovo IdeaPad Yoga A940 - Reviews & Tips</u></a></li>
+</ul></div>
 

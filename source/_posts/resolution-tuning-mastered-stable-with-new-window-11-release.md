@@ -1,7 +1,7 @@
 ---
 title: Resolution Tuning Mastered - Stable with New Window 11 Release
-date: 2024-08-22T13:31:24.419Z
-updated: 2024-08-23T13:31:24.419Z
+date: 2024-10-03T20:46:53.048Z
+updated: 2024-10-06T19:24:27.893Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/f99c7a68577d51b6e82bec3d3d1de09b7626e91bd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -65,23 +62,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -103,8 +104,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
 <!-- affiliate ads begin -->
-
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -112,11 +117,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -137,8 +153,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +160,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mkv-playback-top-macos-apps-reviewed/"><u>[New] 2024 Approved MKV Playback Top macOS Apps Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-voice-customization-made-simple-with-these-top-apps/"><u>[New] 2024 Approved Voice Customization Made Simple with These Top Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-insightful-revelations-instagram-snapshot-audiences/"><u>[New] Unlock Insightful Revelations Instagram Snapshot Audiences</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-earning-mastery-youtube-short-video-tips/"><u>[Updated] Earning Mastery Youtube Short Video Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-master-guide-to-unrestricted-digital-vaults-for-2024/"><u>[Updated] Master Guide to Unrestricted Digital Vaults for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-pro-ultimate-2023-template-giveaway/"><u>[Updated] Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/blh4100-by-blade-a-detailed-rtf-heli-review-for-exterior-flight-enthusiasts/"><u>BLH4100 by Blade: A Detailed RTF Heli Review for Exterior Flight Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-rtx-graphics-on-windows-pc/"><u>Hidden RTX Graphics on Windows PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-smooth-visuals-activating-dormant-freesync/"><u>Securing Smooth Visuals: Activating Dormant FreeSync</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-the-easy-anti-cheat-glitch-in-apex-legends/"><u>Step-by-Step Guide to Fixing the Easy Anti-Cheat Glitch in Apex Legends</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-magic-of-4k-unraveling-enhanced-pixels/"><u>The Magic of 4K: Unraveling Enhanced Pixels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/istings-of-youtube-partner-opportunities-and-advertisements/"><u>Top Listings of YouTube Partner Opportunities and Advertisements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-shield-against-monitor-flashes/"><u>Unveiling the Shield Against Monitor Flashes</u></a></li>
+</ul></div>
 

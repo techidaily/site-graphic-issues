@@ -1,7 +1,7 @@
 ---
 title: Laptop Screen Blackout - Troubleshooting Steps
-date: 2024-09-29T10:32:07.475Z
-updated: 2024-09-30T21:41:45.875Z
+date: 2024-09-30T19:15:50.671Z
+updated: 2024-10-06T18:19:51.346Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 2. [**Connect your laptop to an external monitor**](#b)
 3. [**Have your laptop serviced**](#c)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-enable your screen
 
  Your laptop screen may have accidentally been disabled. You should re-enable your laptop screen so you’re able to use it.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  Now check to see if you’re able to turn on your laptop screen. If not, don’t worry. There are still other fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Connect your laptop to an external monitor
@@ -58,27 +65,20 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c14afed043cd.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
  If the methods above still didn’t repair your laptop screen, you may need to…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Have your laptop serviced
@@ -123,18 +123,24 @@ thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-crafting-a-music-career-15-essential-video-tutorials-for-artists-for-2024/"><u>[New] Crafting a Music Career 15 Essential Video Tutorials for Artists for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-out-a-review-of-individual-3d-printing-journey/"><u>[New] Inside Out A Review of Individual 3D Printing Journey</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-entry-to-control-panel-achieved/"><u>[Resolved] Entry to Control Panel Achieved</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-4-ways-to-go-live-on-tiktok-on-computer/"><u>[Updated] 4 Ways to Go Live on TikTok on Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/opusmovavi/"><u>「オンラインOPUSファイルを自在に変換：Movaviの使いやすく無料ツール」</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-malfunction-thwarts-new-halo-infinite-play/"><u>DirectX12 Malfunction Thwarts New Halo Infinite Play</u></a></li>
-<li><a href="https://win-tips.techidaily.com/download-howcast-videos-in-mp4-format-with-easy-guide/"><u>Download HowCast Videos in MP4 Format with Easy Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-silence-to-soundscape-embedding-mp3s-in-presentations-for-2024/"><u>From Silence to Soundscape Embedding MP3s in Presentations for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-narzo-n53-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme Narzo N53 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-no-sight/"><u>New Graphics Card No Sight</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-dead-asus-integrated-camera/"><u>Revive Dead Asus Integrated Camera</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/tips-and-tricks-perfecting-webcam-recordings-on-macbook/"><u>Tips & Tricks Perfecting Webcam Recordings on MacBook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-stream-snipping-specialists-2023-version/"><u>[Updated] 2024 Approved Stream Snipping Specialists, 2023 Version</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-capturing-every-angle-samsungs-pro-versus-lgs/"><u>[Updated] Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cheerful-footage-extractor-analysis/"><u>[Updated] Cheerful Footage Extractor Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-persistent-cursor-visibility-issues-on-windows-11-touchpads/"><u>Effective Solutions for Persistent Cursor Visibility Issues on Windows 11 Touchpads</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-uncover-and-clear-windows-usage-tracks/"><u>Efficient Methods to Uncover and Clear Windows Usage Tracks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-11-display-glitches/"><u>Eradicate Windows 11 Display Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817948147-fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won’t Turn On Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-7025-no-more-win11-issues/"><u>GeForce 7025, No More Win11 Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-processor-error-overcome-system-safe/"><u>Graphics Processor Error Overcome, System Safe</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oneplus-nord-ce-3-lite-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing OnePlus Nord CE 3 Lite 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-apples-new-ultimate-entertainment-device-the-revolutionary-vision-pro/"><u>Introducing Apple’s New 'Ultimate Entertainment Device': The Revolutionary Vision Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invisible-screen-post-firmware/"><u>Invisible Screen Post-Firmware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-conflict-addressed-error-22/"><u>Kernel Conflict Addressed: Error 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-graphics-switching-problem/"><u>Successful Resolution of Graphics Switching Problem</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-file-dpx-in-formato-png-senza-costi-usando-movavi/"><u>Trasforma File DPX in Formato PNG Senza Costi Usando Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-advanced-gpu-software-for-gtx-1060/"><u>Upgrade to Advanced GPU Software for GTX 1060</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Poco M6 Pro 4G? | Dr.fone</u></a></li>
 </ul></div>
 

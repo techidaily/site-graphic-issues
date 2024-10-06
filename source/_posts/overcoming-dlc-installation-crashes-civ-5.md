@@ -1,7 +1,7 @@
 ---
 title: Overcoming DLC Installation Crashes Civ 5
-date: 2024-08-22T13:26:15.637Z
-updated: 2024-08-23T13:26:15.637Z
+date: 2024-10-03T21:36:24.834Z
+updated: 2024-10-06T20:35:53.054Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/92b81c6b9239c64bac098632d00d719afd5ea5939
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game integrity
 
  Sometimes**CIV 5 crashes** because there’re broken or missing files on your system. So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the**CIV 5 crashing**  issue.
@@ -43,9 +50,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  This**CIV 5 crashing** problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,17 +64,25 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 3: Install the latest DirectX**
 
 **DirectX**  is feature developed by Microsoft to allow for a more smooth gaming experience for gamers. So you should always make sure to have the latest DirectX installed on your computer to stop game crashes.
@@ -80,22 +92,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the** **Windows logo key**  , then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -112,8 +123,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +130,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-budget-friendly-asmr-tech-premium-mics-for-exceptional-audio/"><u>[New] Budget-Friendly ASMR Tech Premium Mics for Exceptional Audio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers/"><u>2024 Approved Expert Tips to Correct Video Transmission Problem on Mobile Messengers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-the-c1900101-hiccup-when-installing-win10/"><u>Addressing the C1900101 Hiccup When Installing Win10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-tips-downloading-and-installing-obs-for-mac-users-for-2024/"><u>Essential Tips Downloading & Installing OBS for Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools/"><u>In 2024, From Raw Video to Engaging YouTube Videos with Sony Vegas Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>In 2024, The Ultimate Guide Incorporating Facebook LIVE Into Websites</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-win11-radeon-r9-display-problems-fixed/"><u>Overcoming Win11 Radeon R9 Display Problems [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-your-asus-notebook-with-simple-steps/"><u>Reviving Your Asus Notebook with Simple Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-windows-checkup-guide-explanatory-for-2024/"><u>Swift Windows Checkup Guide Explanatory for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817565346-transform-your-gaming-experience-on-win10-with-amd-hd-6950-update/"><u>Transform Your Gaming Experience on Win10 with AMD HD 6950 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-nvidia-monitor-configurations/"><u>Unlocking NVIDIA Monitor Configurations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-amd-radeon-hd-6950-updated-driver-now-available/"><u>Windows 11: AMD Radeon HD 6950 Updated Driver Now Available</u></a></li>
+</ul></div>
 

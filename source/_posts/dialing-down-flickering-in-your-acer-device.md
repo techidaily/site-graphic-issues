@@ -1,7 +1,7 @@
 ---
 title: Dialing Down Flickering in Your Acer Device
-date: 2024-09-25T06:03:22.935Z
-updated: 2024-09-30T19:58:06.551Z
+date: 2024-10-02T19:26:00.600Z
+updated: 2024-10-06T19:36:42.985Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change the screen refresh rate**
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**Acer laptop screen flickering** problem.
@@ -49,44 +42,24 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -104,6 +77,13 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
@@ -118,6 +98,13 @@ Here is how to change the screen refresh rate:
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the **Acer laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -136,6 +123,13 @@ Here is how to change the screen refresh rate:
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -167,17 +161,20 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-video-appeal-implementing-neon-borders-in-thumbnails/"><u>[New] In 2024, Boosting Video Appeal Implementing Neon Borders in Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lightning-fast-windowed-photo-reader-for-win11/"><u>[New] Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-leading-tech-for-cloud-saving-top-choices-for-android/"><u>[Updated] 2024 Approved Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-ways-ai-enhances-the-future-of-teaching/"><u>8 Ways AI Enhances the Future of Teaching</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expedite-smooth-video-experiences/"><u>Expedite Smooth Video Experiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/increased-productivity/"><u>Increased Productivity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-technique-for-fresh-intel-graphics-drivers-win7/"><u>Step-By-Step Technique for Fresh Intel Graphics Drivers (Win7)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-pro-gamers-screen-capture-strategy-for-xbox-one-for-2024/"><u>The Pro Gamer's Screen Capture Strategy for Xbox One for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trouble-with-full-screen-windows-on-monitor-11/"><u>Trouble With Full-Screen Windows on Monitor 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896440562-unlock-ultimate-bargains-6-premier-coupons-and-deals-galore/"><u>Unlock Ultimate Bargains: 6 Premier Coupons & Deals Galore!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>[New] 2024 Approved 10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-cross-service-song-matching-sharing-your-musical-journey/"><u>[New] 2024 Approved Cross-Service Song Matching Sharing Your Musical Journey</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817759404-breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cerebral-showcase-gk-video-challenge-network-for-2024/"><u>Cerebral Showcase - GK Video Challenge Network for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-for-blacked-out-windows-11-with-fall-patch/"><u>Cure for Blacked-Out Windows 11 with Fall Patch</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/english-spanish-cognates-and-false-cognates-over-50-of-the-most-common-words-and-phrases/"><u>English-Spanish Cognates And False Cognates: Over 50 Of The Most Common Words And Phrases</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-refuses-to-show-fullscreen-win10/"><u>Monitor Refuses to Show Fullscreen Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunter-wos-graphical-victory-over-erratum-12/"><u>Monster Hunter Wo's Graphical Victory Over Erratum 12</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-the-power-of-fcp-advanced-audio-editing-techniques/"><u>New 2024 Approved Unleash the Power of FCP Advanced Audio Editing Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-windows-10-performance-via-nvidia-210-software-update/"><u>Optimized Windows 10 Performance via NVIDIA 210 Software Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-fluctuating-displays-on-lenovo-laptops/"><u>Preventing Fluctuating Displays on Lenovo Laptops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-downloading-installing-and-upgrading-epson-ds-510-printer-software-on-windows/"><u>Step by Step Instructions: Downloading, Installing & Upgrading Epson DS-510 Printer Software on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-rectify-unresponsive-windows-key/"><u>Techniques to Rectify Unresponsive Windows Key</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-designers-odyssey-navigating-to-professional-prominence-for-2024/"><u>The Designer's Odyssey Navigating to Professional Prominence for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-fullscreen-problem-non-displayed-monitor/"><u>Windows 10 Fullscreen Problem: Non-Displayed Monitor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Performance: Fixes for Unsupported FreeSync"
-date: 2024-09-28T03:54:32.497Z
-updated: 2024-10-01T07:05:06.528Z
+date: 2024-10-05T18:22:19.687Z
+updated: 2024-10-06T20:25:34.535Z
 tags:
   - win11
   - win10
@@ -44,14 +44,14 @@ For your reference, here’s what HDMI and DP ports look like:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/graphics-card-hdmi-dp-ports.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the problem persists, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the monitor settings
 
@@ -60,6 +60,13 @@ If the problem persists, take a look at the next fix.
  To bring up OSD, look for**buttons or joysticks** at the bottom or the back of your monitor. You can also refer to the manual and explore the settings. If FreeSync is on by default, do a**factory reset** and see how it goes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/freesync-osd-dell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this doesn’t fix the issue, simply continue to the next solution.
 
@@ -77,10 +84,10 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -103,21 +110,14 @@ If the problem persists, take a look at the next fix.
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -136,13 +136,6 @@ Here’s how:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -150,6 +143,13 @@ Here’s how:
  After installing all the system updates, restart and check if FreeSync is working.
 
 If the issue is still there, simply try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Fullscreen optimizations
 
@@ -160,6 +160,13 @@ If the issue is still there, simply try the next fix.
 1. Right-click the program and select**Properties** .
 2. Navigate to the **Compatibility**  tab. Under the **Settings**  section, check the box next to **Disable fullscreen optimizations** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now restart the program and check if FreeSync is working.
 
@@ -172,35 +179,29 @@ If this doesn’t help, you can continue to the next method.
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
-3. Click **Browse**  to specify the file location of the program/game launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
+3. Click **Browse**  to specify the file location of the program/game launcher.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now launch the program/game and check if FreeSync is working.
 
@@ -225,24 +226,22 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-perfecting-the-fury/"><u>'God of War': Perfecting the Fury</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free/"><u>[New] 2024 Approved Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-slack-filmora-synergy-your-guide-to-meeting-organization-for-2024/"><u>[Updated] Seamless Slack-Filmora Synergy Your Guide to Meeting Organization for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-innovative-igtv-thumbnail-upgrades-guide/"><u>2024 Approved Innovative IGTV Thumbnail Upgrades Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-radeon-r9-crashes-win11-edition/"><u>Addressing Radeon R9 Crashes: Win11 Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-on-twitch-streams/"><u>Banishing Black Screens on Twitch Streams</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/calibrating-oversized-resolution-in-win11/"><u>Calibrating Oversized Resolution in Win11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ructing-captivating-conclusions/"><u>Constructing Captivating Conclusions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-strategies-to-combat-loading-lag/"><u>Efficient Strategies to Combat Loading Lag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fail-to-initialize-graphical-engine/"><u>Fail to Initialize Graphical Engine</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-resolved-nvidias-display-restored/"><u>GPU Glitch Resolved: Nvidia's Display Restored</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722963732842-latest-qualcomm-atheros-ar3011-bluetooth-30-drivers-available-now-download-instantly/"><u>Latest Qualcomm Atheros AR3011 Bluetooth 3.0 Drivers Available Now, Download Instantly</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-updated-feed-dynamics-for-2024/"><u>Navigating Instagram’s Updated Feed Dynamics for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimal-repair-strategies-for-gpus-only/"><u>Optimal Repair Strategies for GPUs Only</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/perfect-pivoting-techniques-for-high-quality-mp4-video-rotation-at-90-180-or-ninety-foury-degrees-without-sacrificing-quality/"><u>Perfect Pivoting Techniques for High-Quality MP4 Video Rotation at 90°, 180°, or Ninety-Foury Degrees Without Sacrificing Quality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snicker-sphere-top-grade-no-charge-memes-for-2024/"><u>Snicker Sphere Top-Grade, No-Charge Memes for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015779749-steelseries-arctis-e-headset-mic-issues-heres-how-to-get-it-working-again/"><u>SteelSeries Arctis E Headset Mic Issues? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-screen-adjustment-mastery/"><u>Win10 Screen Adjustment Mastery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-display-issue-by-nvidia-driver-resolved/"><u>[Mended] Display Issue by Nvidia Driver Resolved</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-blackout-blitz-60-second-effort-for-2024/"><u>[Updated] Blackout Blitz 60-Second Effort for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-list-of-websites-for-text-styling-tools/"><u>[Updated] Expert List of Websites for Text Styling Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-to-rank-facebook-page-better-for-2024/"><u>[Updated] Tips to Rank Facebook Page Better for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deciphering-digital-enhancement-enter-the-world-of-4k/"><u>Deciphering Digital Enhancement: Enter the World of 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-god-of-war-player-experience/"><u>Enhancing 'God of War' Player Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-stuck-windows-11-screen-dpi-dots-per-inch/"><u>Fix for Stuck Windows 11 Screen DPI (Dots Per Inch)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-for-precise-control-over-screens-in-google-meet/"><u>How-To for Precise Control over Screens in Google Meet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-a05-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy A05 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-ideal-sound-devices-for-digital-influencers/"><u>In 2024, Ideal Sound Devices for Digital Influencers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/one-minute-a-day-for-fluent-urdu/"><u>One Minute a Day for Fluent Urdu</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-right-side-up-display-in-windows-10-fixed/"><u>Restoring Right Side Up Display in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-activating-windows-8-safety-measures-gpu-uninstallation/"><u>Step-by-Step Guide: Activating Windows 8 Safety Measures, GPU Uninstallation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-keyboard-quest-6-ways-to-find-out-your-pcs-model/"><u>The Ultimate Keyboard Quest - 6 Ways to Find Out Your PC's Model</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/visionary-selection-best-10-audio-plugins-for-spotify/"><u>Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-problems-missing-fullscreen-mode/"><u>Win10 Screen Problems: Missing Fullscreen Mode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-refresh-rate-fix/"><u>Windows 10 Refresh Rate Fix</u></a></li>
 </ul></div>
 

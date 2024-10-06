@@ -1,7 +1,7 @@
 ---
 title: Correct Misaligned Graphics Outputs
-date: 2024-08-22T13:28:48.837Z
-updated: 2024-08-23T13:28:48.837Z
+date: 2024-10-03T17:44:08.116Z
+updated: 2024-10-06T20:58:32.930Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
@@ -35,9 +42,6 @@ There are two fixes you can try:
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Method 1: Update your drivers
 
  You monitor screen may tear if your device drivers, especially your graphics driver, are wrong or out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,8 +69,12 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
 #### For**NVIDIA** users  
@@ -77,9 +85,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -87,11 +92,22 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -101,14 +117,8 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -119,8 +129,6 @@ There are two fixes you can try:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +136,26 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-syncopated-mix-management-in-sonar-by-platinum/"><u>[New] In 2024, Syncopated Mix Management in Sonar by Platinum</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-victorious-ventures-in-the-top-12-tycoons-your-ultimate-gaming-goal/"><u>[New] In 2024, Victorious Ventures in the Top 12 Tycoons - Your Ultimate Gaming Goal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-crafting-dynamic-canon-time-lapses/"><u>[New] The Ultimate Guide to Crafting Dynamic Canon Time-Lapses</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/note-windows-devices-need-amd-video-drivers/"><u>[NOTE] Windows Devices Need AMD Video Drivers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-grassroots-video-marketing-strategies/"><u>[Updated] In 2024, Grassroots Video Marketing Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-superior-neural-network-rivals-to-chatgpt-on-phones/"><u>7 Superior Neural Network Rivals to ChatGPT on Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-fixing-the-infamous-504-gateway-error-in-web-applications/"><u>Diagnosing and Fixing the Infamous 504 Gateway Error in Web Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-address-missing-zlibdll-files-on-your-computer/"><u>Easy Steps to Address Missing zlib.dll Files on Your Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-display-fluctuations-from-lenovo/"><u>Eliminating Display Fluctuations From Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-your-call-quality-with-these-zoom-tech-fixes-for-today/"><u>Enhance Your Call Quality with These Zoom Tech Fixes for Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unidentified-graphics-device/"><u>Fix: Unidentified Graphics Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a14-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A14 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-greenscreen-effects-on-video-platforms-like-youtube/"><u>Perfecting Greenscreen Effects on Video Platforms Like YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turbocharge-video-playback-speed/"><u>Turbocharge Video Playback Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/under-45-bucks-keep-your-pc-cool-with-the-deepcool-as500-plus-at-amazon/"><u>Under 45 Bucks? Keep Your PC Cool with the DeepCool AS500 Plus at Amazon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+</ul></div>
 

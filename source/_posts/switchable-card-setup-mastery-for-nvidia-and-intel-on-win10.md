@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2024-09-30T10:46:43.367Z
-updated: 2024-10-01T03:02:04.294Z
+date: 2024-10-05T20:17:14.578Z
+updated: 2024-10-06T17:59:30.582Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -44,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
@@ -91,16 +105,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -110,10 +118,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -130,23 +138,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,18 +157,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-conquering-challenges-the-comprehensive-guide-to-google-podcasts-for-2024/"><u>[New] Conquering Challenges The Comprehensive Guide to Google Podcasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guardians-of-the-most-watched-youtube-edition-for-2024/"><u>[New] Guardians of the Most Watched YouTube Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-art-of-curating-memories-on-social-media/"><u>2024 Approved The Art of Curating Memories on Social Media</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crisp-views-reignited-on-win11-screens/"><u>Crisp Views Reignited on Win11 Screens</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fix-intel-hd-graphics-e-620-driver-troubles-under-windows-environment/"><u>How to Fix Intel HD Graphics E 620 Driver Troubles Under Windows Environment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-black-screens-restore-your-laptops-life/"><u>Solve Black Screens, Restore Your Laptop's Life</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-lenovo-display-stop-screen-flicker/"><u>Solving Lenovo Display: Stop Screen Flicker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sync-your-display-flicker-free-surface-pro-7/"><u>Sync Your Display: Flicker-Free Surface Pro 7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-creating-compelling-youtube-video-outlines-for-2024/"><u>The Art of Creating Compelling YouTube Video Outlines for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uninstalling-graphics-drivers-made-fast-and-easy/"><u>Uninstalling Graphics Drivers Made Fast & Easy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-the-full-potential-of-your-gaming-rig-by-boosting-frames-per-second-in-ring-of-elysium-best-tips-inside/"><u>Unlock the Full Potential of Your Gaming Rig by Boosting Frames Per Second in Ring of Elysium – Best Tips Inside</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-vanished-visuals-on-electronic-screens/"><u>Unveiling Vanished Visuals on Electronic Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-configurations-show-on-win10-displays/"><u>[FIXED] Advanced Configurations Show on Win10 Displays</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-elite-camera-set-optimal-webcams-for-windows-11/"><u>[New] 2024 Approved The Elite Camera Set Optimal Webcams for Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fuse-voice-recordings-with-ppt-content/"><u>[Updated] 2024 Approved Fuse Voice Recordings with PPT Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rise-through-the-instagram-rankings-fast/"><u>2024 Approved Rise Through the Instagram Rankings Fast</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-techniques-succeeding-in-spotify-advertising/"><u>2024 Approved Top Techniques Succeeding in Spotify Advertising</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-critical-error-c1900101-on-new-os/"><u>Addressing Critical Error C1900101 on New OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-considerations-for-choosing-the-right-projector/"><u>Essential Considerations for Choosing the Right Projector</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-blinking-issues/"><u>How to Fix Monitor Blinking Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-performance-nvidia-210-driver-update-for-windows-pcs/"><u>Optimized Performance: Nvidia 210 Driver Update for Windows PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-screen-tweaks-align-your-viewing-panel/"><u>Simple Screen Tweaks: Align Your Viewing Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-to-black-screen-in-windows-11-post-fall-release/"><u>Solution to Black Screen in Windows 11 Post Fall Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-video-problem-solution-upgrades/"><u>Win10's Video Problem Solution: Upgrades</u></a></li>
 </ul></div>
 

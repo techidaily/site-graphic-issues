@@ -1,7 +1,7 @@
 ---
 title: Fixing Black Screen on TV via HDMI Connection
-date: 2024-08-22T13:31:03.194Z
-updated: 2024-08-23T13:31:03.194Z
+date: 2024-09-30T16:55:59.833Z
+updated: 2024-10-06T20:54:07.210Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -44,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -61,13 +72,14 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver in your laptop can stop HDMI from your laptop to TV from working, especially your graphics card driver and USB driver. To rule it out as the cause for your problem, you should update your device drivers to the latest version.
@@ -86,14 +98,21 @@ The difference between each mode is as follows:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
@@ -109,8 +128,6 @@ The difference between each mode is as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,8 +135,20 @@ The difference between each mode is as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-approaches-for-quiet-visuals-capture/"><u>[New] 2024 Approved Best Approaches for Quiet Visuals Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-utilizing-zooms-snap-functionality/"><u>[New] In 2024, Utilizing Zoom's Snap Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-is-inshot-surging-above-all-else-in-edits/"><u>[New] Is InShot Surging Above All Else in Edits?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-image-ink-best-captioning-apps-for-photo-enthusiasts-iosandroid-for-2024/"><u>[Updated] Image Ink Best Captioning Apps for Photo Enthusiasts (iOS/Android) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-on-the-move-dvd-player-selections-for-you/"><u>2024 Approved Best On-the-Move DVD Player Selections for You</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-and-complying-with-instagrams-audio-ownership-laws/"><u>2024 Approved Understanding and Complying with Instagram's Audio Ownership Laws</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-stuck-on-black-window-fixed/"><u>Cursor Stuck on Black Window [FIXED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-windows-7s-intel-gfx-performance-with-new-drivers/"><u>Elevate Windows 7’S Intel Gfx Performance with New Drivers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/atching-youtube-most-followed-channels/"><u>Eye-Catching YouTube Most Followed Channels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-monochrome-mishaps-resolved/"><u>Lenovo Monochrome Mishaps Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818332029-realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-intelligent-graphics-update-for-windows-11/"><u>Seamless Intelligent Graphics Update for Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streaming-smarts-engaging-viewers-on-multiple-networks/"><u>Streaming Smarts Engaging Viewers on Multiple Networks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2024-09-30T05:23:00.681Z
-updated: 2024-10-01T13:54:48.269Z
+date: 2024-10-01T18:58:30.398Z
+updated: 2024-10-06T16:09:58.046Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -46,19 +53,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -73,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -97,6 +84,13 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -104,23 +98,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -128,6 +109,13 @@ Or click **Update All**  to automatically download and install the correct versi
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -139,6 +127,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
@@ -146,13 +141,6 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,15 +157,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>[New] 2024 Approved Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-edit-youtube-videos-in-windows-movie-maker-for-2024/"><u>[Updated] How to Edit YouTube Videos in Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/bridging-the-gap-converting-snapchats-flash-into-files-for-2024/"><u>Bridging the Gap Converting Snapchat's Flash Into Files for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-x100-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo X100 Pro?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>In 2024, Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-and-powerful-driver-refresh-transform-your-windows-pcs-graphics/"><u>Quick & Powerful Driver Refresh: Transform Your Windows PC's Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-frozen-windows-monitor-black-screen/"><u>Resolving Frozen Windows Monitor, Black Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/toutes-directions-transformer-votre-flac-en-webm-librement-en-ligne-avec-movavi/"><u>Toutes Directions: Transformer Votre FLAC en WebM Librement En Ligne Avec Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-710-save-screen-settings-issue-resolution-provided-solved/"><u>Win 7/10 Save Screen Settings Issue - Resolution Provided [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-no-full-screen-window-on-monitor/"><u>Windows 10 - No Full Screen Window on Monitor?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-outstanding-mkv-tools-for-macos-users/"><u>2024 Approved 5 Outstanding MKV Tools for macOS Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-crucial-tips-for-buying-an-ipad-on-sale-or-pre-owned/"><u>5 Crucial Tips for Buying an iPad on Sale or Pre-Owned</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-recurring-monitor-blanks-now-stable/"><u>Conquered Recurring Monitor Blanks, Now Stable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-anomalous-refresh/"><u>Ending Window's 10 Anomalous Refresh</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-shadowstack-chipset/"><u>Finding the Hidden Shadowstack Chipset</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-functionality-dealing-with-unresponsive-smart-speakers/"><u>How to Restore Functionality: Dealing with Unresponsive Smart Speakers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-g24-power-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola G24 Power Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v27withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V27with/without a PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-information-management-the-best-6-artificial-intelligence-apps-for-note-taking/"><u>Streamline Your Information Management: The Best 6 Artificial Intelligence Apps for Note Taking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-run-intel-graphics-in-low-end-systems/"><u>Tips to Run Intel Graphics in Low-End Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-5-tips-for-tiktok-success-on-mac-for-2024/"><u>Top 5 Tips for TikTok Success on Mac for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-aiff-audio-files-into-mp3-format-on-your-pc/"><u>Top Methods for Converting AIFF Audio Files Into MP3 Format on Your PC</u></a></li>
 </ul></div>
 

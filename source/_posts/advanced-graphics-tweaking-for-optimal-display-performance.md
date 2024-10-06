@@ -1,7 +1,7 @@
 ---
 title: Advanced Graphics Tweaking for Optimal Display Performance
-date: 2024-08-22T13:26:42.912Z
-updated: 2024-08-23T13:26:42.912Z
+date: 2024-10-03T19:29:42.029Z
+updated: 2024-10-06T19:52:02.361Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -51,13 +58,17 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
  If the advanced display settings still is missing, don’t worry. Try to find it via Display Adapter Properties.
@@ -70,42 +81,42 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -116,8 +127,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,8 +134,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-directx12-stumbling-block-for-halos-debut/"><u>[FIXED]: DirectX12 Stumbling Block for Halo's Debut</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-melody-rights-on-instagram-a-full-breakdown/"><u>[New] Navigating Melody Rights on Instagram A Full Breakdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>[Updated] In 2024, Stay on Top The Essential Guide to FB's Latest Video Tracks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-micro-influencer-approach-to-live-youtube-streams-from-mobile/"><u>[Updated] Micro-Influencer Approach to Live Youtube Streams From Mobile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-soundstage-networking-for-2024/"><u>Best Soundstage Networking for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-blinking-monitor-blues/"><u>Cure Blinking Monitor Blues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decrypting-youtube-live-thumbnails-for-success/"><u>Decrypting YouTube Live Thumbnails for Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/exciting-amds-hd-6950-graphics-update-on-windows-11/"><u>Exciting: AMD's HD 6950 Graphics Update on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-supports-new-hardware-configurations/"><u>Overwatch Supports New Hardware Configurations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/reviving-the-past-top-5-desktop-friendly-gb-emulation-software/"><u>Reviving the Past Top 5 Desktop-Friendly GB Emulation Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/scale-down-oversized-win-10-interface/"><u>Scale Down: Oversized WIN 10 Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-harmony-geforce-nforce-and-windows-10-together/"><u>Successful Harmony: GeForce, nForce, and Windows 10 Together</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c02-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C02 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

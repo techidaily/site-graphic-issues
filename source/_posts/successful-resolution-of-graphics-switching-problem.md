@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2024-09-24T18:13:53.832Z
-updated: 2024-09-30T21:55:39.561Z
+date: 2024-10-01T16:29:19.989Z
+updated: 2024-10-06T21:42:51.449Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -57,16 +57,22 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -104,31 +110,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -141,6 +140,13 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,18 +163,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-can-i-use-twitter-archive/"><u>[New] In 2024, How Can I Use Twitter Archive?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-rotated-window-interface-in-windows-10/"><u>Correcting Rotated Window Interface in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-end-of-problems/"><u>GPU Error 43: End of Problems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instantly-boost-your-pc-with-intel-3000-update/"><u>Instantly Boost Your PC with Intel 3000 Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-solutions-with-toms-guidance/"><u>Mastering Hardware Solutions with Tom's Guidance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlined-graphics-for-windows-11-with-nvidia-geforce-210/"><u>Streamlined Graphics for Windows 11 with NVIDIA GeForce 210</u></a></li>
-<li><a href="https://windows11.techidaily.com/success-tips-reviving-your-intel-unison-app/"><u>Success Tips: Reviving Your Intel Unison App</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day-for-2024/"><u>Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-6s-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 6s</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-generating-the-nut-button-meme/"><u>Updated Generating the Nut Button Meme</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrading-screen-clarity-for-far-cry-texts/"><u>Upgrading Screen Clarity for Far Cry Texts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-basic-to-brilliant-a-complete-insta-cover-photo-course/"><u>[New] 2024 Approved From Basic to Brilliant A Complete Insta Cover Photo Course</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-frosty-yet-inviting-backdrops-for-your-vids-for-2024/"><u>[New] 5 Frosty Yet Inviting Backdrops for Your Vids for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-sierra-icloud-drives-a-complete-overview/"><u>[Updated] Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/warning-missing-drivers-for-amd-graphics-adapter-on-win10/"><u>[WARNING!] Missing Drivers for AMD Graphics Adapter on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-your-camera-now-a-2024-guide-to-zoom-functionality/"><u>Fix Your Camera Now: A 2024 Guide to Zoom Functionality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-se-2020-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone SE (2020) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-canvas-potential-10-secrets-for-professionals/"><u>In 2024, Unlocking Canvas Potential - 10 Secrets for Professionals</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-luts-to-color-grade-on-your-iphone/"><u>New How to Use LUTS to Color Grade on Your iPhone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818327806-no-more-win-graphics-failure/"><u>No More Win Graphics Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/power-windows-10-gaming-new-radeon-6950-drivers/"><u>Power Windows 10 Gaming: New Radeon 6950 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reimagining-image-clarity-the-role-of-4k-in-visual-media/"><u>Reimagining Image Clarity: The Role of 4K in Visual Media</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-operation-windows-plus-nvidia-card/"><u>Seamless Operation: Windows + Nvidia Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-direct3d-boot-up-confirmed/"><u>Successful Direct3D Boot-Up Confirmed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-answer-to-solving-glexttexturencompression-level-format-problem-in-opengl-error-1281/"><u>The Definitive Answer to Solving GL_EXT_texture_ncompression Level Format Problem in OpenGL (Error 1281)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unbeatable-deals-await-secure-acronis-true-image-now-and-enjoy-an-instant-20-discount/"><u>Unbeatable Deals Await: Secure Acronis True Image Now & Enjoy an Instant 20% Discount!</u></a></li>
 </ul></div>
 

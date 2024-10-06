@@ -1,7 +1,7 @@
 ---
 title: Resolving Res Scale Problems in Win10
-date: 2024-08-22T13:29:17.427Z
-updated: 2024-08-23T13:29:17.427Z
+date: 2024-09-29T20:00:35.253Z
+updated: 2024-10-06T20:40:29.052Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -62,23 +69,28 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -100,24 +112,28 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -137,8 +153,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +160,23 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-to-including-vimeo-on-instagram/"><u>[New] 2024 Approved A Step-by-Step Guide to Including Vimeo on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube/"><u>[New] 2024 Approved From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-captivating-content-crafting-impactful-insta-videos-for-2024/"><u>[Updated] Captivating Content Crafting Impactful Insta-Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>2024 Approved Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/acers-updated-touchpad-driver-for-windows-11-secure-it-today-with-our-free-downloads/"><u>Acer's Updated Touchpad Driver for Windows 11 - Secure It Today with Our Free Downloads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-installer-hurdle-for-nvidia/"><u>Conquered Installer Hurdle for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-glitchy-views-end-monitor-flicker-annoyances/"><u>Conquering Glitchy Views: End Monitor Flicker Annoyances</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-error-uncovered-direct-x-fixed-in-lol/"><u>Hidden Error Uncovered - Direct X Fixed in LoL</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-tecno-spark-20-proplus-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Tecno Spark 20 Pro+? Try These Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quickly-discard-outdated-graphics-drivers-windows-style/"><u>Quickly Discard Outdated Graphics Drivers, Windows-Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-extended-display-in-win10-environments/"><u>Stabilizing Extended Display in Win10 Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g84-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G84 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/systems-graphics-adapter-fixed/"><u>System's Graphics Adapter Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-gfxui-reset-completed-and-working/"><u>Windows GfxUI Reset Completed and Working</u></a></li>
+</ul></div>
 

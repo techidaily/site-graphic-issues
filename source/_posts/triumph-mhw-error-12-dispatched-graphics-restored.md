@@ -1,7 +1,7 @@
 ---
 title: "[Triumph] MHW Error 12 Dispatched, Graphics Restored"
-date: 2024-08-22T13:31:39.282Z
-updated: 2024-08-23T13:31:39.282Z
+date: 2024-10-03T20:59:18.881Z
+updated: 2024-10-06T16:05:52.217Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 1. **[Update your graphics driver (nearly always fixes the problem)](#F1)**
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
@@ -51,8 +58,12 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Roll back your graphics driver
 
  Some users also report the latest graphics driver to be the culprit of the err 12: graphics card crashed problem. If you’ve recently updated your graphics driver and the problem occurs subsequently, then it’s probable that the up-to-date driver is to blame. So you can roll it back to see if it fixes the issue.
@@ -63,25 +74,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
 
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair system files
 
  Missing, corrupt, or damaged system files may cause games to crash. Many Monster Hunter World players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -105,9 +107,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -123,19 +122,30 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -158,8 +168,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,8 +175,26 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>[New] 2024 Approved The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/"><u>[New] Enhancing Outdoor Vision with GoPro and Live Streaming Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-explore-9-simple-and-economical-editing-solutions-for-your-projects-for-2024/"><u>[Updated] Explore 9 Simple & Economical Editing Solutions for Your Projects for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>[Updated] In 2024, Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-networking-galore-places-for-youtube-affiliate-marketing/"><u>[Updated] Networking Galore Places for YouTube Affiliate Marketing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>2024 Approved Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adapting-hardware-capabilities-for-intell-graphic-use/"><u>Adapting Hardware Capabilities for Intell Graphic Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-lcd-issues-hp-laptop-fix/"><u>Addressing LCD Issues: HP Laptop Fix</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-economical-choice-high-performance-asmr-mic-picks-for-2024/"><u>Best Economical Choice High-Performance ASMR Mic Picks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-screenscape-achieved-with-win11-fixes/"><u>Crisp Screenscape Achieved with Win11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deciphered-the-veiled-direct-x-discreprancy-in-legion/"><u>Deciphered the Veiled Direct X Discreprancy in Legion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818312100-efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-shadows-decoding-the-mysterious-dx-error-in-lol/"><u>Illuminating Shadows: Decoding the Mysterious DX Error in LoL</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-mastery-in-visual-storytelling/"><u>Melodic Mastery in Visual Storytelling</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/oneplus-8t-evaluation-snapshots-hinder-speedsters-full-potential/"><u>OnePlus #8T Evaluation: Snapshots Hinder Speedster's Full Potential</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powershot-g9-x-mark-ii-review-traveling-in-style-and-functionality/"><u>PowerShot G9 X Mark II Review – Traveling in Style & Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-gpu-malfunction-alert-nvidia/"><u>Resolved: GPU Malfunction Alert (NVIDIA)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-streaming-problems-on-windows-10-after-upgrade-solved/"><u>Video Streaming Problems on Windows 10 After Upgrade [Solved]</u></a></li>
+</ul></div>
 

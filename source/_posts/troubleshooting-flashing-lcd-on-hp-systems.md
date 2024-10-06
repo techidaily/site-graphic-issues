@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-09-25T07:13:42.106Z
-updated: 2024-10-01T04:51:10.809Z
+date: 2024-09-30T20:05:29.628Z
+updated: 2024-10-06T16:24:29.941Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop screen flickering issue by ruling out the physical factors.
@@ -41,13 +48,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your display driver
 
  This problem may occur if you are using the wrong display driver or it’s out of date. So you should update your display driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -61,6 +61,13 @@ Here is how to do it:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -95,10 +102,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
@@ -109,16 +116,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -132,13 +145,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -166,17 +172,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/advice-install-supported-drivers-for-amd-video-adapter/"><u>[ADVICE] Install Supported Drivers for AMD Video Adapter</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-establishing-a-signature-style-in-the-tiktok-arena/"><u>[New] In 2024, Establishing a Signature Style in the TikTok Arena</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-expert-audio-adjustments-for-youtube-content-makers/"><u>[New] In 2024, Expert Audio Adjustments for YouTube Content Makers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-innovation-unleashed-cutting-edge-ar-games-for-2024/"><u>[New] Innovation Unleashed Cutting-Edge AR Games for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-zoom-recording/"><u>[Updated] 2024 Approved The Ultimate Checklist for Zoom Recording</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>2024 Approved Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-jump-into-the-moment-with-these-8-trendy-videos-on-fb/"><u>2024 Approved Jump Into the Moment with These 8 Trendy Videos on FB</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-efficient-hashtag-use-for-skyrocketing-youtube-audience/"><u>In 2024, Efficient Hashtag Use for Skyrocketing YouTube Audience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-win-graphics-capability/"><u>Restored Win Graphics Capability</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-xbox-one-graphics-issue/"><u>Restored Xbox One Graphics Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-cleared-nvidia-driver-update-effective/"><u>TDR Alert Cleared: Nvidia Driver Update Effective</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-facebook-instream-ads-how-to-setup-and-evaluate-facebook-instream-ad/"><u>[New] 2024 Approved Facebook Instream Ads | How to Setup and Evaluate Facebook Instream Ad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-masterclass-for-srt-editing-in-macos/"><u>[New] Masterclass for SRT Editing in macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-tesla-automaton-price-estimates-projected-debut-and-performance-specs-revealed/"><u>Anticipated Tesla Automaton: Price Estimates, Projected Debut, and Performance Specs Revealed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-enters-blacked-out-win11/"><u>Cursor Enters Blacked Out Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-corrections-for-gpus-without-screens/"><u>Easy Corrections for GPUs Without Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-communication-with-8-superior-alternate-phone-number-app-options/"><u>Enhance Your Communication with 8 Superior Alternate Phone Number App Options</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-update-webcam-software-for-your-dell-computer/"><u>How to Successfully Update Webcam Software for Your Dell Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-feedback-loop/"><u>Immediate Feedback Loop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>In 2024, Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/les-meilleurs-logiciels-hdr-solutions-gratuites-et-payantes-pour-pc-et-mac-top-9-listes/"><u>Les Meilleurs Logiciels HDR - Solutions Gratuites Et Payantes Pour PC Et Mac, Top 9 Listes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-modernizing-intel-hd-graphics-on-windows/"><u>Master the Art of Modernizing Intel HD Graphics on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-amd-radeon-r9-drivers-for-w11-users/"><u>Mending AMD Radeon R9 Drivers for W11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-link-reconnect-computer-and-television-hdmi/"><u>Restoring Lost Link: Reconnect Computer & Television HDMI</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sound-excellence-on-a-shoestring-superior-asmr-mics-affordably-for-2024/"><u>Sound Excellence on a Shoestring - Superior ASMR Mics Affordably for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-art-of-scroll-mastery-in-win-810/"><u>The Art of Scroll Mastery in Win 8/10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleashing-system-stability-safe-mode-and-gpu-drivers-removal-guide-for-win8/"><u>Unleashing System Stability: Safe Mode and GPU Drivers Removal Guide for WIN8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-and-geforce-7025-compatibility-fixed/"><u>Windows 11 & GeForce 7025 Compatibility Fixed</u></a></li>
 </ul></div>
 

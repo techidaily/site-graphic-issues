@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2024-09-27T13:43:56.432Z
-updated: 2024-10-01T05:28:05.733Z
+date: 2024-10-04T20:12:25.557Z
+updated: 2024-10-06T18:20:10.420Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -69,26 +69,26 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
@@ -96,16 +96,10 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
@@ -139,20 +133,24 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals-for-2024/"><u>[Updated] Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-low-carbon-screen-recording-solutions-for-2024/"><u>[Updated] Premier Low-Carbon Screen Recording Solutions for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-proven-strategies-for-successful-youtube-shorts-for-2024/"><u>[Updated] Proven Strategies for Successful YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pull-the-right-strings-increasing-likes-on-unboxed-tiktoks/"><u>2024 Approved Pull the Right Strings Increasing Likes on Unboxed TikToks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-edges-achieve-clarity-and-comfort/"><u>Adjust Monitor Edges, Achieve Clarity & Comfort</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/all-about-alexa-in-a-small-frame-the-ultimate-review-of-the-new-gen-3-echo-dot/"><u>All About Alexa in a Small Frame: The Ultimate Review of the New Gen 3 Echo Dot</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-adjustment-in-win11/"><u>Enhanced Screen Resolution Adjustment in Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-persistent-crashes-how-to-stop-nox-player-from-shutting-down-your-pc/"><u>Fixing Persistent Crashes: How to Stop Nox Player From Shutting Down Your PC</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-dissecting-mobile-photography-with-android-lightroom/"><u>In 2024, Dissecting Mobile Photography with Android Lightroom</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/innovative-fixes-for-streamlining-your-youtube-background-effects/"><u>Innovative Fixes for Streamlining Your YouTube Background Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-win8s-protective-measures-and-gpu-drivers-elimination/"><u>Masterful Guide to WIN8's Protective Measures and GPU Drivers Elimination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-images-new-gpu/"><u>No Images - New GPU?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolvingscreenreversal-problems/"><u>ResolvingScreenReversal Problems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/start-filming-right-the-newbies-guide-to-video-gear/"><u>Start Filming Right The Newbie's Guide to Video Gear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-desktops-in-focus-free-capture-tutorials-for-2024/"><u>[New] Desktops in Focus - Free Capture Tutorials for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>[New] From Stream to File Vimeo HD to MP4 Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-graphics-tuning-for-windows-11/"><u>[Resolved] Advanced Graphics Tuning for Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insta-turn-techniques-flipping-your-photos-and-gaining-followers/"><u>[Updated] 2024 Approved Insta-Turn Techniques Flipping Your Photos and Gaining Followers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capturecraft-in-depth-analysis-of-screen-capture-tech-for-2024/"><u>[Updated] CaptureCraft In-Depth Analysis of Screen Capture Tech for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-simplify-your-social-media-uploading-multiple-photos-and-vids-on-ig-for-2024/"><u>[Updated] Simplify Your Social Media Uploading Multiple Photos and Vids on IG for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/apk-gaming-revolution-welcome-funimate-pro-android-edition-for-2024/"><u>APK Gaming Revolution Welcome Funimate Pro Android Edition for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-resolved-wdf-api-errors-in-windows/"><u>BlueScreen Resolved: WDF API Errors in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-screen-definition-and-precision/"><u>Boosting Screen Definition and Precision</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-hyperz-compatibility-fault/"><u>Cured HyperZ Compatibility Fault</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-meizu-21-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Meizu 21 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>In 2024, The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhaul-black-screen-in-win11-after-update-fall/"><u>Overhaul Black Screen in Win11 After Update Fall</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-uninstalling-and-reinstalling-on-windows-11/"><u>Quick Guide to Uninstalling and Reinstalling on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-gpus-no-video-output-needed/"><u>Quick-Fix Guide: GPUs, No Video Output Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-civ-5-pc-glitches/"><u>Resolve CIV 5 PC Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/updated-graphic-settings-for-overwatch/"><u>Updated Graphic Settings for Overwatch</u></a></li>
 </ul></div>
 

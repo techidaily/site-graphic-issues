@@ -1,7 +1,7 @@
 ---
 title: A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]
-date: 2024-08-22T13:30:47.364Z
-updated: 2024-08-23T13:30:47.364Z
+date: 2024-10-05T20:58:15.763Z
+updated: 2024-10-06T20:59:47.737Z
 tags:
   - win11
   - win10
@@ -37,14 +37,6 @@ thumbnail: https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb
 
 ---
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -62,31 +54,27 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -120,18 +108,26 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
 ---
@@ -147,8 +143,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,8 +150,24 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-superior-visual-experience-ranking-the-best-12-html5-players/"><u>[New] 2024 Approved Superior Visual Experience Ranking the Best 12 HTML5 Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-picks-for-excellent-free-srt-translation-tools/"><u>[New] Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-avoiding-common-mistakes-in-macos-mixer-streaming/"><u>[Updated] Avoiding Common Mistakes in MacOS Mixer Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-persistent-fluctuating-light-on-asus-laptops/"><u>Banish Persistent Fluctuating Light on ASUS Laptops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-pilots-guide-to-best-vr-headsets/"><u>Drone Pilots' Guide to Best VR Headsets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-asus-lcd-glitches-today/"><u>Eliminate ASUS LCD Glitches Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-crash-episodes-in-fallout-4-on-pc/"><u>End Crash Episodes in Fallout 4 on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-light-in-a-dark-laptop-monitor/"><u>Finding the Light in a Dark Laptop Monitor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-dance-away-worries-with-these-20-soothing-country-hits-tiktok-edition/"><u>In 2024, Dance Away Worries with These 20 Soothing Country Hits (TikTok Edition)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>In 2024, The Voice of Action Crafting Moving Screenplay Conversations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-comservice-disruption-on-windows-os/"><u>Overcoming COMService Disruption on Windows OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-with-high-end-nvidia-card/"><u>Prevent Crashes with High-End NVIDIA Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-system-and-graphics-hurdle-on-win10geforce-7025/"><u>Resolving System & Graphics Hurdle on Win10/GeForce 7025</u></a></li>
+<li><a href="https://article-files.techidaily.com/strengthening-video-impact-with-professional-audio-cues/"><u>Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitch-time-rewind-hacks-unveiled-for-2024/"><u>Twitch Time Rewind Hacks Unveiled for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-enhanced-nvidia-geforce-driver-release/"><u>Windows 10 Upgrade: Enhanced NVIDIA GeForce Driver Release</u></a></li>
+</ul></div>
 

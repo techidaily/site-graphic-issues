@@ -1,7 +1,7 @@
 ---
 title: Conquer Flickering Screen Issues on ASUS Computers
-date: 2024-08-22T13:29:51.237Z
-updated: 2024-08-23T13:29:51.237Z
+date: 2024-09-29T19:40:44.834Z
+updated: 2024-10-06T19:17:47.374Z
 tags:
   - win11
   - win10
@@ -40,8 +40,24 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -52,6 +68,14 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -59,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update or delete incompatible apps
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** .
@@ -72,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,25 +107,23 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -120,8 +136,18 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once finished with the repair, check if the error has been resolved.
@@ -140,8 +166,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,8 +173,22 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-master-your-edits-with-top-15-affordable-web-based-editors-2023/"><u>[New] 2024 Approved Master Your Edits with Top 15 Affordable Web-Based Editors, 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-clips-best-winter-bgs-for-video-warmth/"><u>2024 Approved Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-collaboration/"><u>Enhanced Collaboration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-glare-methods-to-stop-monitor-flashing/"><u>Eradicating Glare: Methods to Stop Monitor Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glitch-gone-preferences-permanently-preserved/"><u>Glitch Gone, Preferences Permanently Preserved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-90-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-zagg-pro-stylus-2-assessment-the-ideal-alternative-for-apple-pencil-users/"><u>In-Depth Zagg Pro Stylus 2 Assessment: The Ideal Alternative for Apple Pencil Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-pixel-misalignment-issues/"><u>Mend Pixel Misalignment Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-reinstating-nvidia-installation/"><u>Mended: Reinstating NVIDIA Installation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/panoramic-lenses-and-fixed-angle-gear/"><u>Panoramic Lenses & Fixed-Angle Gear</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/premiered-top-8-crowd-pleasing-ae-setups-for-2024/"><u>Premiered Top 8 Crowd-Pleasing AE Setups for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quantum-leap-on-your-acer-screen/"><u>Quelling Quantum Leap on Your Acer Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-icloud-images-the-ultimate-7-tips-for-syncing-photos-back-onto-your-iphone-seamlessly/"><u>Reviving iCloud Images: The Ultimate 7 Tips for Syncing Photos Back Onto Your iPhone Seamlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-mysterious-c1900101-during-windows-setup/"><u>Solving the Mysterious C1900101 During Windows Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/to-simplify-you-can-divide-both-numerator-and-denominator-by-their-greatest-common-divisor-gcd-the-gcd-of-20-and-8-is-4/"><u>To Simplify, You Can Divide Both Numerator and Denominator by Their Greatest Common Divisor (GCD). The GCD of 20 and 8 Is 4.</u></a></li>
+</ul></div>
 

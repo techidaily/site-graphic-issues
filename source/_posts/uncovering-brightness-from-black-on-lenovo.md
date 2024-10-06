@@ -1,7 +1,7 @@
 ---
 title: Uncovering Brightness From Black on Lenovo
-date: 2024-09-26T23:50:46.454Z
-updated: 2024-09-30T18:47:40.308Z
+date: 2024-09-29T18:28:23.825Z
+updated: 2024-10-06T17:55:29.285Z
 tags:
   - win11
   - win10
@@ -29,23 +29,9 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
@@ -78,10 +64,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -100,6 +86,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -111,6 +104,13 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -125,6 +125,13 @@ Here is how to do it:
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -141,22 +148,15 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -177,10 +177,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
@@ -221,18 +221,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-learn-the-layers-of-photography-with-snapseed/"><u>[New] 2024 Approved Learn the Layers of Photography with Snapseed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices-for-2024/"><u>[New] 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1716069811180-new-in-2024-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] In 2024, Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterclass-choosing-the-pinnacle-in-hdr-cameras/"><u>[Updated] Masterclass Choosing the Pinnacle in HDR Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/acoustic-dissolve-windowsmac-playback-guide/"><u>Acoustic Dissolve Windows/Mac Playback Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-anthem-performance-boost/"><u>Effortless Anthem Performance Boost</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-asus-monitor-glitches-with-easy-fix-methods/"><u>End ASUS Monitor Glitches with Easy Fix Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-geforce-shader-compatibility-hiccup/"><u>Fixed GeForce Shader Compatibility Hiccup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-xbox-one-audio-back-on-track-a-complete-guide/"><u>Getting Your Xbox One Audio Back on Track – A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-keys-on-a-dell-laptop-computer/"><u>How to Repair Unresponsive Keys on a Dell Laptop Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-dark-screen-in-win10/"><u>Taming the Dark Screen in Win10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-step-by-step-journey-to-professional-image-uploads-on-youtube/"><u>Your Step-by-Step Journey to Professional Image Uploads on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplify-your-storytelling-music-for-instagram-stories-and-videos/"><u>[New] 2024 Approved Amplify Your Storytelling Music for Instagram Stories & Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-display-scale-and-size-on-updated-win11-os/"><u>Adjusting Display Scale and Size on Updated Win11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cannot-initialize-graphical-display/"><u>Cannot Initialize Graphical Display</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-addressing-and-correcting-issues-with-pci-security-processor-command-module-drivers/"><u>Guide to Addressing and Correcting Issues with PCI Security Processor Command Module Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818155431-how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f04-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F04 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-your-laptop-simple-lenovo-steps/"><u>In 2024, Capturing Your Laptop Simple Lenovo Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2080-drivers-fresh-release-download-now-for-windows-1178/"><u>NVIDIA RTX 2080 Drivers - Fresh Release: Download Now for Windows 11/7/8</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-call-troubles-essential-fixes-for-iphone-communication-breakdowns/"><u>Resolving Call Troubles: Essential Fixes for iPhone Communication Breakdowns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sony-a6400-screen-blackout-mystery/"><u>Sony A6400 Screen Blackout Mystery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-repairs-gpu-no-monitor-attached/"><u>Streamlined Repairs: GPU, No Monitor Attached</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaking-visual-settings-in-windows-11-now-available/"><u>Tweaking Visual Settings in Windows 11 Now Available</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadow-issue-fixes-for-fall-creators-patch/"><u>Win11 Shadow Issue - Fixes for Fall Creator's Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-brightness-fluctuation-fixed/"><u>Windows 10 Brightness Fluctuation Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-fix-hidden-advanced-options/"><u>Windows 10 Display Fix: Hidden Advanced Options</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-gui-error-rectified-gfxui-back-online/"><u>Windows GUI Error Rectified: GfxUI Back Online</u></a></li>
 </ul></div>
 

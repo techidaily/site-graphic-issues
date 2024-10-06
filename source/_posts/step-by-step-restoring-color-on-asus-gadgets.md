@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-09-28T12:36:39.753Z
-updated: 2024-09-30T21:06:01.040Z
+date: 2024-10-04T18:52:28.817Z
+updated: 2024-10-06T20:09:31.191Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
@@ -93,19 +100,20 @@ Here is how to do it:
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable fast startup
 
@@ -120,42 +128,22 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Still got a black screen? Please try **Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a system restore
 
@@ -164,19 +152,6 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press the **Windows logo key** and type **system restore** , then click on **Create a restore point** once it shows up as a matching result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
@@ -188,25 +163,19 @@ So you can try disabling fast startup to see if it does the trick:
 5. Follow the on-screen instructions to complete the system restore process.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer to see if the black screen issue has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
@@ -219,6 +188,13 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -246,19 +222,24 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/astering-product-reviews-for-monetary-rewards-on-youtube/"><u>[New] Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craftsmanship-and-ai-intersection-redefined-by-gpt-4/"><u>Craftsmanship and AI Intersection Redefined by GPT-4</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-to-correct-error-code-0xc00aturate-issues-in-black-ops-cold-war-gameplay/"><u>Expert Advice to Correct Error Code 0Xc00aturate Issues in Black Ops: Cold War Gameplay</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-htc-by-drfone-android/"><u>How to Bypass FRP on HTC?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-concoct-laughter-in-image-format-giphy-style/"><u>In 2024, Concoct Laughter in Image Format, Giphy Style</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-rise-and-shine-on-these-overlooked-meme-platforms/"><u>In 2024, Rise and Shine on These Overlooked Meme Platforms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/pictureprofessional-expert-guide-to-adjusting-ig-content-sizes/"><u>PictureProfessional Expert Guide to Adjusting IG Content Sizes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wsls-role-in-boosting-linux-desktops/"><u>WSL's Role in Boosting Linux Desktops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>[New] 2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-the-hidden-potential-of-twitter-archives/"><u>[New] 2024 Approved Unveiling the Hidden Potential of Twitter Archives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-mp3-capture-skype-calls-no-cost-for-2024/"><u>[Updated] Mastering MP3 Capture Skype Calls, No Cost for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-playback-error-unsupported-mp4-format-on-popular-media-players-like-windows-media-player-quicktime-and-vlc/"><u>1. Playback Error: Unsupported MP4 Format on Popular Media Players Like Windows Media Player, QuickTime & VLC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-deep-insight-screenflow-for-mac-performance-review/"><u>2024 Approved Deep Insight ScreenFlow for Mac Performance Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos/"><u>2024 Approved Maximize YouTube Views A Comprehensible Guide to Collaborative Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spectacular-indulgent-pc-pastimes/"><u>2024 Approved Spectacular Indulgent PC Pastimes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-visuals-upgrade-intel-3000-in-windows-11/"><u>Accelerate Visuals: Upgrade Intel 3000 in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-gpu-absence-noted-on-win10win11/"><u>AMD GPU Absence Noted on Win10/Win11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-the-fallen-windows-screen-issue/"><u>Clearing the Fallen Windows Screen Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dial-down-the-disruption-solve-windows-7-display-shimmies/"><u>Dial Down the Disruption: Solve Windows 7 Display Shimmies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-mended-after-system-failure/"><u>Display Driver Mended After System Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-win-error-resolved-effortless-user-experience/"><u>GFXUI Win Error Resolved: Effortless User Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigate-lcd-distortion-effects/"><u>Mitigate LCD Distortion Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quickly-upgrade-3000-gfx-drivers-in-win10/"><u>Quickly Upgrade 3000 GFX Drivers in Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-case-for-extra-tactile-controls-a-look-at-increasing-button-count-on-smartphones/"><u>The Case for Extra Tactile Controls: A Look at Increasing Button Count on Smartphones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-win-drivers-msi-related-issues/"><u>Troubleshooting WIN Drivers, MSI-Related Issues</u></a></li>
 </ul></div>
 

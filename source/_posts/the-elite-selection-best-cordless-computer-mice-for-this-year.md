@@ -1,7 +1,7 @@
 ---
 title: "The Elite Selection: Best Cordless Computer Mice for This Year"
-date: 2024-09-23T22:18:09.918Z
-updated: 2024-09-30T17:12:30.901Z
+date: 2024-10-04T16:49:40.952Z
+updated: 2024-10-06T16:49:38.861Z
 categories:
   - BestProducts
 description: "This Article Describes The Elite Selection: Best Cordless Computer Mice for This Year"
@@ -41,13 +41,6 @@ Lifewire / Yoona Wagener
 
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/4iXRVsuxT7GiqqU4k4vdl39TFNg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_HeroSquare-6cc84a98de3e43e1a252acfbcc81fbb3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
 [View On Best Buy $201](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6450037.p) [View On Macy's](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.macys.com%2Fshop%2Fproduct%2Fmichael-kors-access-gen-5e-mkgo-black-rubber-smartwatch-43mm%3FID%3D11867918%26pla%255Fcountry%3DUS%26CAGPSPN%3Dpla) [View On Michaelkors.com](https://www.michaelkors.com/michael-kors-access-gen-5e-mkgo-pink-tone-and-logo-rubber-smartwatch/%5F/R-US%5FMKT5116)
@@ -82,11 +75,25 @@ Lifewire / Yoona Wagener
 
  New Wear OS users will appreciate the guided instructions that appear after pairing the watch to walk you through the various menus and swiping navigations. Even without this guidance, most menus are intuitive to use. My favorite menu was the quick-access menu that appears with a swipe-down motion. It contains a handy collection of shortcuts for basics like adjusting battery mode settings. It’s also home to the Theater Mode option, which turns the display off with a tap—especially convenient for dimming the screen at bedtime.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comfort: Best outside of exercise
 
  Though it’s a slight contrast to the high-end details of the face, the MKGO version of the Access Gen 5E comes with a comfortable and flexible Michael Kors branded rubber strap. This added touch offers practicality and comfort without taking away from the upscale design fit for fancier occasions, too.
 
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/Al5yHGgflExrdPzuv1O8nFyRL0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_03-4a139c21df9b44ce8a0a5b5604859b26.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -95,13 +102,6 @@ Lifewire / Yoona Wagener
  In addition to a supple rubber material on the band, the Access Gen 5E MKGO offers a unique push-stud clamping mechanism. Two studs snap into place in one of the circular band notches, creating a neat and tidy look without excess band material flapping around.
 
  This feature made clasping the band speedy, but I still experienced a slightly loose fit overall. During normal wear, while relaxing, sleeping, or working at a desk, this wasn’t an issue. While running, the case’s considerable weight—which comes in at a hefty 54.6 grams—felt a little too bulky for high-impact activity.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Good for the essentials
 
@@ -131,29 +131,22 @@ Lifewire / Yoona Wagener
 
  Regardless of your operating system, you’ll need a Google account to get this watch paired and activated and to take advantage of contactless pay through Google Pay. And if you’re married to Google Fit for health insights, you’ll need that app too.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery: Potential for multi-day longevity
 
  The manufacturer suggests that this smartwatch battery should last up to 24 hours, depending on usage, and provides several battery modes to work with to help make the most of the battery. Daily mode lived up to its name and lasted about a whole day, while the multi-day Extended mode, which turns off most smart features, lasted only about a day and a half for me.
 
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/BT4hOR8gRPGpDwIsxjK35ikzSeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_02-503172a94cbc444389f491de49cf2646.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
  Regardless of the mode you choose, the watch will automatically enter a time-only mode once the battery hits 9 percent. This thoughtful touch allows this device to function as a straightforward watch as well. When you charge up, the handy magnetic USB charging cable is easy to attach to the device and provides quick charging: just a little over an hour, maximum.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: Luxury style at a friendlier entry point
 
@@ -164,6 +157,13 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
  When comparing this device to other fashion smartwatches, it’s challenging to find a competitor outside of the Michael Kors/Fossil sphere that differs in any notable way. If you’re looking for something comparably priced with more of a fitness bent, the Samsung Galaxy Watch Active2 is worth a look.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Michael Kors Access Gen 5E vs. Samsung Galaxy Watch Active2
 
@@ -181,18 +181,18 @@ Lifewire / Yoona Wagener
 
  The Michael Kors Access Gen 5E MKGO is an upscale smartwatch with luxury looks and a slightly sporty sensibility. Its Wear OS and Fossil Gen 5E foundation provide a solid foundation for everyday ease with features like Bluetooth calling, Google Assistant, and battery modes. And while it offers some fitness tracking, this wearable dazzles primarily as a lifestyle accessory.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 6](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Garmin Venu](https://www.lifewire.com/garmin-venu-review-4843916)
 * [Mobvoi TicWatch Pro 4G LTE](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -226,19 +226,21 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screenflow-pros-mac-saga-full-evaluation-report/"><u>[Updated] 2024 Approved ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-crafting-a-standout-identifier-for-your-tiktok-stream/"><u>[Updated] Crafting a Standout Identifier for Your TikTok Stream</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-7-streaming-tools-for-mac-enthusiasts/"><u>[Updated] Top 7 Streaming Tools for Mac Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-average-podcaster-salary/"><u>2024 Approved Breaking Down Average Podcaster Salary</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/avoiding-pitfalls-in-intel-gfx-update-for-win7-users/"><u>Avoiding Pitfalls in Intel Gfx Update for Win7 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-visual-clarity-in-fc6-interface/"><u>Enhancing Visual Clarity in FC6 Interface</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-share-a-private-youtube-video-with-google-account-in-2024/"><u>How to Share a Private YouTube Video with Google Account, In 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-resilience-shown-successful-recovery/"><u>IGFX Resilience Shown: Successful Recovery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refined-display-features-now-in-windows-11/"><u>Refined Display Features Now In Windows 11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/reviving-classics-top-20-anime-concepts-for-tiktoks/"><u>Reviving Classics Top 20 Anime Concepts for TikToks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revolutionize-your-visuals-latest-hd-6950-driver-update-on-win10/"><u>Revolutionize Your Visuals: Latest HD 6950 Driver Update on Win10</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-choice-compact-gaming-computers-the-ultimate-list/"><u>Top Choice Compact Gaming Computers: The Ultimate List</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/vocal-visions-instructions-for-posting-songs-on-youtube/"><u>Vocal Visions Instructions for Posting Songs on YouTube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-mastering-snapchats-call-and-chat-features/"><u>[New] 2024 Approved The Ultimate Guide Mastering Snapchat's Call & Chat Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-facebook-video-freeze-up-solutions-for-secure-browser-users/"><u>[New] Facebook Video Freeze-Up Solutions for Secure Browser Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>[New] Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-creativity-with-free-audio-effects-online-for-2024/"><u>[Updated] Boost Creativity with Free Audio Effects Online for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screenmasterreview-latest-editions-performance-insights/"><u>[Updated] ScreenMasterReview Latest Edition's Performance Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-of-conversion-boosting-click-through-rates-on-social-platforms/"><u>[Updated] The Art of Conversion Boosting Click-Through Rates on Social Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-windows-post-fall/"><u>Clearing Up Black Windows Post Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-dark-desktop-issue-win10-style/"><u>Eradicating Dark Desktop Issue - Win10 Style</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/flying-high-with-husqvarna-the-drone-revolution/"><u>Flying High with Husqvarna The Drone Revolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-startup-not-successful/"><u>Graphics Startup: Not Successful</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-vr-to-shape-modern-business-practices/"><u>In 2024, Leveraging VR to Shape Modern Business Practices</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/macmp3aviwmvmovmp4mp3/"><u>Mac用無料MP3動画コンバータ【AVI/WMV/MOV/MP4からMP3への自由な変換】</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-display-features-unlocked-on-windows-11/"><u>New Display Features Unlocked on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dark-mode-clearing-twitch-displays/"><u>Overcoming Dark Mode: Clearing Twitch Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-banish-win7-screen-flicker/"><u>Quick Fix: Banish Win7 Screen Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-lenovo-display-glare-issue/"><u>Solutions for Lenovo Display Glare Issue</u></a></li>
 </ul></div>
 

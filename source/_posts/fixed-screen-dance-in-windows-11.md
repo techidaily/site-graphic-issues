@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Screen Dance in Windows 11"
-date: 2024-08-22T13:28:10.446Z
-updated: 2024-08-23T13:28:10.446Z
+date: 2024-10-03T18:40:50.262Z
+updated: 2024-10-06T21:31:37.219Z
 tags:
   - win11
   - win10
@@ -64,9 +64,6 @@ There are mainly two ways to update your display driver:
 
 If the issue remains, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the refresh rate
 
  The refresh rate of a display is the number of times per second that your monitor draws a new image. If your display refresh rate is not set properly, you may encounter screen flickering issues in Windows 11\. To fix it, you can change the refresh rate. Here’s how:
@@ -74,19 +71,18 @@ If the issue remains, check out the next fix.
 1. On your desktop,**right-click** an empty space and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
-3. For**Choose a refresh rate** , select a different refresh rate.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
+3. For**Choose a refresh rate** , select a different refresh rate.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
+
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
 ### Fix 4: Update or uninstall incompatible apps
@@ -98,19 +94,18 @@ If the issue remains, check out the next fix.
 1. Click**Start** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
 4. Click**Uninstall** again to confirm your choice.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
 
@@ -124,24 +119,34 @@ If the issue remains, check out the next fix.
 3. To**personalize your background** , select**Picture** or**Solid color** . (You should avoid using the**Slideshow** option, which might cause your screen to flicker.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-picture.jpg)
 4. Go back to**Personalization** window and select**Colors** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-personalization-colors.jpg)
 5. For**Accent color** , select**Manual** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable animation effects
 
  Some users reported that they fixed the screen flickering issue in Windows 11 by disabling animation effects. You can give this a try. Here’s how:
@@ -165,15 +170,34 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-regedit.jpg)
 2. In Registry Editor, navigate to**HKEY\_CURRENT\_USER\\SOFTWARE\\Microsoft\\Avalon.Graphics** .
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Under Avalon.Graphics, on the right pane, check to see if there is a key named**DisableHWAcceleration** .  
 
  If there is,**double-click** on it and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
  If there isn’t, right-click on empty space and select**New** \>**DWORD (32-bit) value** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-new-DWORD.jpg)  
  Then rename the file as**DisableHWAcceleration** .**Double-click** on the file and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
 4. Close Registry Editor and restart your computer.
 
@@ -185,9 +209,6 @@ If this fix doesn’t do the trick, try the next one below.
 2. At the top right, click the**vertical three dots** icon and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-settings.jpg)
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
 
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
@@ -206,6 +227,13 @@ If this fix doesn’t do the trick, try the next one below.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2: Use the System File Checker tool to repair system files
 
  System File Checker is a built-in tool that allows users to scan for and restore corrupted Windows system files. To perform SFC scan and repair Windows image:
@@ -213,14 +241,8 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl** +**Shift** +**Enter** to run Command Prompt as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
@@ -229,9 +251,6 @@ If this fix doesn’t do the trick, try the next one below.
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 Once done, check if your problem has been resolved.
 
@@ -247,8 +266,6 @@ Once done, check if your problem has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,8 +273,26 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-building-brand-persona-writing-killer-bios-for-facebook-profiles/"><u>[New] In 2024, Building Brand Persona Writing Killer Bios for Facebook Profiles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-discover-the-overlooked-insights-on-instagram-story-watching/"><u>[New] In 2024, Discover the Overlooked Insights on Instagram Story Watching</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unveiling-the-secrets-to-fhd-in-social-tweeting/"><u>[New] In 2024, Unveiling the Secrets to FHD in Social Tweeting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks/"><u>[Updated] 2024 Approved Best Tools to Track Popular Tags on FB, Twt & IG Networks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-identity-protection-blur-image-edges/"><u>2024 Approved Instant Identity Protection Blur Image Edges</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>2024 Approved The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/beat-the-rush-grab-your-cost-effective-qualcomm-snapdragon-x-elite-pc-before-its-gone-preorders-open/"><u>Beat the Rush: Grab Your Cost-Effective Qualcomm Snapdragon X Elite PC Before It's Gone – Preorders Open</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decoded-secret-direct-x-mishap-in-league/"><u>Decoded Secret Direct X Mishap in League</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-combat-efficiency-in-god-of-war/"><u>Enhancing Combat Efficiency in 'God of War'</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-realme-narzo-n55-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Realme Narzo N55 Device SIM</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-setback-display-preservation-accomplished/"><u>No More Setback: Display Preservation Accomplished</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-with-new-geforce-210-drivers/"><u>Optimizing Win11 with New GeForce 210 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-asus-monochrome-mishaps-a-guide/"><u>Overcoming Asus Monochrome Mishaps: A Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-c1900101-issue-for-windows-10-installation/"><u>Overcoming C1900101 Issue for Windows 10 Installation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ct-your-presentation-the-yt-guide-to-background-softening/"><u>Perfect Your Presentation The YT Guide to Background Softening</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-video-card-glitch-prevent-crash/"><u>Rectify Video Card Glitch, Prevent Crash</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-shadows-on-smartphone-screens/"><u>Remedying Shadows on Smartphone Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solidifying-stability-tips-for-flaky-amd-freesync/"><u>Solidifying Stability: Tips for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966341386-solution-the-primary-cause-of-arc-blow-in-welding-processes-is-magnetic-fields-that-deflect-the-arc-away-from-its-intended-path/"><u>Solution: The Primary Cause of Arc Blow in Welding Processes Is Magnetic Fields that Deflect the Arc Away From Its Intended Path.</u></a></li>
+</ul></div>
 

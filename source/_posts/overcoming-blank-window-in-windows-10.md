@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blank Window in Windows 10
-date: 2024-09-30T09:48:32.025Z
-updated: 2024-10-01T05:38:07.518Z
+date: 2024-09-30T17:12:38.826Z
+updated: 2024-10-06T17:01:37.191Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -71,14 +78,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
 
@@ -96,10 +103,10 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
@@ -117,16 +124,10 @@ If you’re on a laptop:
 ---
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
@@ -142,10 +143,16 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
@@ -183,13 +190,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -197,6 +197,19 @@ If you’re on a laptop:
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -209,13 +222,6 @@ If you’re on a laptop:
  1) Open Command Prompt as administrator: type cmd in the search box. Right click**Command Prompt** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
@@ -242,28 +248,28 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -284,19 +290,17 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/mended-display-issue-by-nvidia-driver-resolved/"><u>[Mended] Display Issue by Nvidia Driver Resolved</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972248266-download-ultimate-wireless-drivers-for-optimal-performance-solved-issues/"><u>Download Ultimate Wireless Drivers for Optimal Performance - Solved Issues!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-god-of-war-player-experience/"><u>Enhancing 'God of War' Player Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-overcoming-ntdlldll-errors-in-windows-a-guide-for-windows-7-to-10-users/"><u>Expert Tips: Overcoming ntdll.dll Errors in Windows - A Guide for Windows 7 to 10 Users</u></a></li>
-<li><a href="https://app-tips.techidaily.com/free-windows-10-update-initiative-where-did-it-go/"><u>Free Windows 10 Update Initiative: Where Did It Go?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-microsofts-new-audio-drivers-now-direct-links-and-step-by-step-instructions-for-windows-users/"><u>Get Microsoft's New Audio Drivers Now - Direct Links and Step-by-Step Instructions for Windows Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-right-side-up-display-in-windows-10-fixed/"><u>Restoring Right Side Up Display in Windows 10 [Fixed]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-activating-windows-8-safety-measures-gpu-uninstallation/"><u>Step-by-Step Guide: Activating Windows 8 Safety Measures, GPU Uninstallation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-8-best-no-cost-editing-software-for-social-media-for-2024/"><u>The 8 Best No-Cost Editing Software for Social Media for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-fltmgrsys-bluescreen-issues-solutions-for-stable-windows-performance/"><u>Troubleshooting Fltmgr.sys Bluescreen Issues: Solutions for Stable Windows Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-screen-problems-missing-fullscreen-mode/"><u>Win10 Screen Problems: Missing Fullscreen Mode</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-refresh-rate-fix/"><u>Windows 10 Refresh Rate Fix</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-key-to-viral-instagram-posts/"><u>[New] 2024 Approved The Key to Viral Instagram Posts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-visionary-insights-selecting-from-5-premier-slow-cameras-for-2024/"><u>[New] Visionary Insights Selecting From 5 Premier Slow Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-voice-storage-test-report/"><u>[New] Voice Storage Test Report</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-10-photo-grid-apps-to-make-your-pictures-stand-out/"><u>2024 Approved Top 10 Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-ui-now-visible-in-10s-display/"><u>Enhanced Windows UI: Now Visible in 10'S Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-c1900101-installation-problem/"><u>Fixing Windows 10'S C1900101 Installation Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-gpu-fans-not-spinning/"><u>How to Fix GPU Fans Not Spinning</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-video-playback-speed-on-facebook/"><u>Maximizing Video Playback Speed on Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-win-graphics-failure/"><u>No More Win Graphics Failure!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcast-feature-listen-and-share-with-friends-for-2024/"><u>Podcast Feature Listen and Share with Friends for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-for-activating-unsupported-amd-freesync/"><u>Steps for Activating Unsupported AMD FreeSync</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategies-for-bulk-tiktok-video-acquisition/"><u>Strategies for Bulk TikTok Video Acquisition</u></a></li>
 </ul></div>
 

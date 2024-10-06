@@ -1,7 +1,7 @@
 ---
 title: "Restoring Full-Resolution Customization: Win11's Solution"
-date: 2024-09-30T11:40:10.230Z
-updated: 2024-10-01T06:24:20.543Z
+date: 2024-10-03T16:56:32.487Z
+updated: 2024-10-06T17:55:16.058Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -59,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -76,33 +62,46 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -117,6 +116,13 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
@@ -156,22 +162,16 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-twitch-black-screen-issues/"><u>[SOLVED] Twitch Black Screen Issues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-hitting-the-high-notes-in-instagram-photography/"><u>[Updated] 2024 Approved Hitting the High Notes in Instagram Photography</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-zero-dollar-video-editing-pathway/"><u>[Updated] 2024 Approved Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>2024 Approved A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-3-affordable-switch-game-duplicates/"><u>2024 Approved Top 3 Affordable Switch Game Duplicates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-and-solving-critical-error-c1900101-in-windows-setup/"><u>Addressing and Solving Critical Error C1900101 in Windows Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-the-next-generation-an-overview-of-the-current-ipad-model/"><u>Apple Unveils the Next Generation: An Overview of the Current iPad Model</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/detecting-issue-gpu-missing/"><u>Detecting Issue: GPU Missing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-your-contents-impact-smart-utilization-of-igtv-hashtags/"><u>Enhancing Your Content's Impact Smart Utilization of IGTV Hashtags</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-mic-on-your-oculus-quest-2/"><u>How to Fix a Nonfunctional Mic on Your Oculus Quest 2</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-youtube-images-without-spending-a-dime-quick-tips-here/"><u>In 2024, YouTube Images Without Spending a Dime – Quick Tips Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maintain-perfect-line-horizontality-in-screens/"><u>Maintain Perfect Line Horizontality in Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-winblueerror-correct-windows-wdf-api-problems/"><u>Overcome WinBlueError: Correct Windows WDF API Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-new-drivers-for-windows-10-users/"><u>Radeon HD 6950: New Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/slash-size-of-windows-screen-in-win-10/"><u>Slash Size of Windows Screen in WIN 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-evasive-examiner-of-fb-narratives/"><u>[Updated] Evasive Examiner of FB Narratives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-itop-a-screencast-game-changer/"><u>[Updated] In 2024, Unveiling ITop A Screencast Game-Changer?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-10-vectors-where-quality-thrives-for-2024/"><u>[Updated] Top 10 Vectors Where Quality Thrives for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/game-changer-alert-experience-unmatched-quality-with-asus-vg245h-monitor-for-consoles/"><u>Game Changer Alert: Experience Unmatched Quality with Asus VG245H Monitor for Consoles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-make-awesome-youtube-channel-art-ultimate-guide/"><u>How to Make Awesome YouTube Channel Art [Ultimate Guide ]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvstreamuseraagentexe-application-error-on-windows-solved/"><u>NvStreamUseraAgent.exe Application Error on Windows [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-post-update-black-screen-issue-on-windows-10/"><u>Resolve Post-Update Black Screen Issue on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-amd-gpu-missing-in-windows-11-setup/"><u>Resolved: AMD GPU Missing in Windows 11 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-gtx-43-code-issue-on-nvidia-geforce-950-under-windows-10-operating-system/"><u>Resolving the 'GTX 43 Code' Issue on NVIDIA GeForce 950 Under Windows 10 Operating System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-se-2022-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone SE (2022) Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tt560s-swift-flash-performance-uncomplicated-design/"><u>TT560's Swift Flash Performance, Uncomplicated Design</u></a></li>
 </ul></div>
 

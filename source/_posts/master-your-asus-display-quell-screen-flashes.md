@@ -1,7 +1,7 @@
 ---
 title: "Master Your ASUS Display: Quell Screen Flashes"
-date: 2024-09-29T00:32:17.862Z
-updated: 2024-10-01T03:21:29.488Z
+date: 2024-09-30T17:05:20.389Z
+updated: 2024-10-06T16:23:27.626Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -68,23 +61,16 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -98,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -123,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -135,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -168,20 +168,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-defining-your-digital-dna-a-guide-to-youtubing-personal-branding-for-2024/"><u>[New] Defining Your Digital DNA A Guide to YouTubing Personal Branding for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-directly-uploading-tweets-videos-to-instagram-profile-for-2024/"><u>[New] Directly Uploading Tweets Videos to Instagram Profile for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-google-meets-with-efficient-snap-photography-tips-for-2024/"><u>[Updated] Streamlining Google Meets with Efficient Snap Photography Tips for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-crashes-make-fallout-4-run-easily-on-pc/"><u>Banish Crashes: Make Fallout 4 Run Easily on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/excellent-ending-for-displays-save-saga/"><u>Excellent Ending for Displays' Save-Saga</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos/"><u>Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>Framing for Instagram Techniques for Vertical Footage in FCPX</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-105-classic-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia 105 Classic Phone When You Forget the Password</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/interact-using-your-voice-experience-upgraded-communication-with-bing-chat-online/"><u>Interact Using Your Voice: Experience Upgraded Communication with Bing Chat Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/meme-crafters-guide-to-kinemaster/"><u>Meme Crafters' Guide to KineMaster</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-win-10-screen-to-smaller-dimensions/"><u>Optimize WIN 10 Screen to Smaller Dimensions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pinpoint-problematic-video-card-in-crashes/"><u>Pinpoint Problematic Video Card in Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/suppressing-sudden-shifts-on-your-acer-screen/"><u>Suppressing Sudden Shifts on Your Acer Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unraveling-directx12-obstacles-for-halo-infinite-launch/"><u>Unraveling: DirectX12 Obstacles for Halo Infinite Launch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/why-isnt-my-windows-10-monitor-fullview/"><u>Why Isn't My Windows 10 Monitor Fullview?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-sourcing-premium-background-images/"><u>[New] 2024 Approved The Ultimate Guide to Sourcing Premium Background Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-viral-instagram-cinematography-for-2024/"><u>[New] Mastering the Art of Viral Instagram Cinematography for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-script-failures-civilization-v-edition/"><u>Addressing Script Failures, Civilization V Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015439333-chrome-speaker-issues-fixed-regain-your-videoaudio-sounds/"><u>Chrome Speaker Issues Fixed: Regain Your Video/Audio Sounds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/controlling-ai-alignment-with-global-norms/"><u>Controlling AI Alignment with Global Norms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curing-laptop-screen-flickers-in-lenovo-models/"><u>Curing Laptop Screen Flickers in Lenovo Models</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-flickering-keeping-your-display-steady/"><u>Fix for Flickering: Keeping Your Display Steady</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-enable-laptop-graphics-on-windows-1011/"><u>How To Enable Laptop Graphics On Windows 10/11?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsoft-demonstrates-windows-role-in-shaping-hybrid-working-futures-zdnet/"><u>Microsoft Demonstrates Windows' Role in Shaping Hybrid Working Futures - ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-pushing-boundaries-in-sound-design-top-5-innovative-audio-distortion-applications/"><u>New Pushing Boundaries in Sound Design Top 5 Innovative Audio Distortion Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-smudgy-graphics-in-fc6/"><u>Resolving Smudgy Graphics in FC6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-the-day-resurrected-hdmi-connection/"><u>Saving the Day: Resurrected HDMI Connection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-easy-path-to-great-audio-recordings-in-windows-11-for-2024/"><u>The Easy Path to Great Audio Recordings in Windows 11 for 2024</u></a></li>
 </ul></div>
 

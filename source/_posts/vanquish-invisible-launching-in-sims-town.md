@@ -1,7 +1,7 @@
 ---
 title: Vanquish Invisible Launching in Sims Town
-date: 2024-09-26T21:47:44.885Z
-updated: 2024-10-01T05:12:00.911Z
+date: 2024-10-03T19:38:32.452Z
+updated: 2024-10-06T16:06:34.963Z
 tags:
   - win11
   - win10
@@ -44,22 +44,15 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -100,10 +93,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
@@ -122,34 +115,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -165,6 +137,19 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -176,6 +161,13 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -196,9 +188,23 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -229,19 +235,21 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-yt-storytellers-for-enthralling-viewing-experience/"><u>[New] Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-becoming-a-pro-with-obs-gaming-recordings-for-2024/"><u>[Updated] Becoming a Pro with OBS Gaming Recordings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginner-to-expert-choose-studio-or-beta-for-2024/"><u>[Updated] From Beginner to Expert Choose Studio or Beta for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-master-the-art-of-audible-social-media-posts-without/"><u>[Updated] In 2024, Master the Art of Audible Social Media Posts (Without)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/every-game-for-the-new-playstation-vr2-a-comprehensive-listing/"><u>Every Game for the New PlayStation VR2: A Comprehensive Listing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-narzo-60x-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme Narzo 60x 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-tom-dissects-and-discusses-cutting-edge-hardware/"><u>Unveiling Tech Secrets: Tom Dissects and Discusses Cutting-Edge Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/user-guide-to-downloading-and-using-the-latest-snappy-driver-installer-v113/"><u>User Guide to Downloading and Using the Latest Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-digital-dominance-youtubes-best-female-gamers/"><u>[New] 2024 Approved Digital Dominance YouTube's Best Female Gamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>[Updated] In 2024, Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-peak-performance-nvidias-latest-1060-driver-update/"><u>Achieve Peak Performance: Nvidia's Latest 1060 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-load-faster-now/"><u>Anthem Load Faster Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-delete-programs-on-your-windows-11-system/"><u>Easy Steps to Delete Programs on Your Windows 11 System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flip-monitor-angle-fix-for-windows-7/"><u>Flip Monitor Angle: Fix for Windows 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-11-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 11 to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-g22-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G22 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-stunning-s95c-oled-is-now-a-steal-with-up-to-1500-savings-dont-miss-out-cnet/"><u>Samsung's Stunning S95C OLED Is Now a Steal with Up to $1,500 Savings - Don't Miss Out! | CNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-list-of-untapped-facebook-meme-havens/"><u>The Ultimate List of Untapped Facebook Meme Havens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tv-displaying-no-signal-hdmi-link-issues/"><u>TV Displaying No Signal: HDMI Link Issues</u></a></li>
 </ul></div>
 

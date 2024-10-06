@@ -1,7 +1,7 @@
 ---
 title: Enhanced Window Visuals, No More Blur
-date: 2024-09-29T03:34:35.339Z
-updated: 2024-09-30T18:49:38.069Z
+date: 2024-09-29T18:40:27.282Z
+updated: 2024-10-06T20:28:39.023Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
  With that said, the reasons for the blurry screen issue are different. If the screen resolutions are different in two displays, apps or text will become blurred if you move them from one monitor to another. And the monitor driver issue can also cause a blurry screen.
 
  But don’t worry. We will help you fix your problem and get a clear screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,27 +68,26 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, click**Advanced scaling settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your graphics card driver
 
@@ -109,6 +115,13 @@ Check if your screen becomes normal.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change DPI scaling settings for your monitor
 
  You can also change the DPI scaling settings to fix the blurry screen or blurry apps.
@@ -133,31 +146,38 @@ Check if your screen becomes normal.
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -167,37 +187,29 @@ Check if your screen is still blurry.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de6b88075.jpg)
 2. Right click on the application setup file, and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if the blurry problem has been fixed.
 
@@ -223,20 +235,22 @@ Check if the blurry problem has been fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-novel-nooks-in-mc-the-simplest-house-designs/"><u>[New] Novel Nooks in MC The Simplest House Designs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-overheat-monitor-access-denied/"><u>[Resolved] Overheat Monitor Access Denied</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] In 2024, From One-Off to Firm Follower An Ethical Approach</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/audacity-lame-mp3-troubles-fixing-the-elusive-lameeenc-dll-file-error-effectively/"><u>Audacity Lame MP3 Troubles: Fixing the Elusive Lame_eEnc DLL File Error Effectively</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-light-back-to-your-twitch-video/"><u>Bring Light Back to Your Twitch Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dark-room-gfx-card-updation/"><u>Dark Room - GFX Card Updation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-back-excessive-windows-sizing/"><u>Dial Back Excessive Windows Sizing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g34-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G34 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lightning-cure-fast-remedy-for-amd-and-tarkov-bug/"><u>Lightning Cure: Fast Remedy for AMD & Tarkov Bug</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-fixes-for-win10s-asus-acpi-drivers/"><u>Quick Fixes for Win10's Asus ACPI Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-fix-how-i-solved-game-freezing-problems/"><u>Rocket League Fix - How I Solved Game Freezing Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/straightening-computer-border-lines/"><u>Straightening Computer Border Lines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swifter-play-eliminate-amd-tarkov-glitches-now/"><u>Swifter Play: Eliminate AMD Tarkov Glitches Now</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-calming-virtual-worlds-on-pc/"><u>Top Calming Virtual Worlds on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-11-missing/"><u>[Fixed] Advanced Display Settings Windows 11 Missing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-art-of-advertising-making-money-on-the-worlds-social-network/"><u>[New] In 2024, The Art of Advertising Making Money on the World's Social Network</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-review-of-manycams-game-changing-recorder-tech-for-2024/"><u>[New] In-Depth Review of ManyCam's Game-Changing Recorder Tech for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-20plus-hashes-to-skyrocket-your-short-films-popularity/"><u>[Updated] 20+ Hashes to Skyrocket Your Short Film's Popularity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-discover-the-best-phone-apps-to-improve-vocality/"><u>[Updated] In 2024, Discover the Best Phone Apps to Improve Vocality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-inside-the-dji-phantom-3-pro-advantages/"><u>[Updated] In 2024, Inside the DJI Phantom 3 Pro Advantages</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-harmonious-updates-musical-whatsapp-statues/"><u>2024 Approved Harmonious Updates Musical WhatsApp Statues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-resolved-display-driver-woes-in-w10/"><u>AMD Radeon R9: Resolved Display Driver Woes in W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combating-distorted-ui-design-in-far-cry-6/"><u>Combating Distorted UI Design in Far Cry 6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/completed-resolving-installer-snags/"><u>Completed: Resolving Installer Snags</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-reinstalling-serial-communication-device-drivers-in-windows/"><u>Comprehensive Tutorial on Reinstalling Serial Communication Device Drivers in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-compatibility-now-secured-gpu-acceleration-available/"><u>Direct3D Compatibility Now Secured - GPU Acceleration Available</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-polarr-the-powerhouse-photo-toolkit/"><u>In 2024, Inside Polarr The Powerhouse Photo Toolkit</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-win7-performance-integrating-latest-intel-drivers/"><u>Streamline Win7 Performance: Integrating Latest Intel Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-distortion-window-not-fullscreen/"><u>Win10 Screen Distortion: Window Not Fullscreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-810-plus-no-amd-graphics-software-installed/"><u>Windows 8/10 + No AMD Graphics Software Installed</u></a></li>
 </ul></div>
 

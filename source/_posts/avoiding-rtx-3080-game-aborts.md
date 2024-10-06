@@ -1,7 +1,7 @@
 ---
 title: Avoiding RTX 3080 Game Aborts
-date: 2024-08-22T13:30:52.859Z
-updated: 2024-08-23T13:30:52.859Z
+date: 2024-10-02T20:50:34.841Z
+updated: 2024-10-06T21:41:55.124Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
  If the NVIDIA RTX 3080 crashes a game, it’s very likely that the graphics driver is outdated or gets corrupted. It’s always recommended to update to the latest graphics driver since it can affect your gaming experience, especially when you’re using a high-end graphics card.
@@ -53,12 +50,23 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. This will help you update all the available driver updates, thus ruling out the possibility of other outdated driver interference. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have a 30-day money-back guarantee and full tech support. )  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -66,15 +74,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Stop overclocking
 
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
 
  The feature ‘Hardware-Accelerated GPU Scheduling’ is first introduced in Windows 10 May 2020 update. It allows your graphics card to manage its video memory (VRAM). What’s interesting is that some players find disabling this feature helped resolve this issue.
@@ -84,14 +99,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 Now launch your game again to see if this method works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Keep the GPU fed
 
  Another possible cause of your NVIDIA RTX 3080 crashing is that it’s not getting enough power. When you’re in a middle of a game, it can easily hit 620W or even more, let alone all the things you plugged into the USB.
@@ -121,8 +137,6 @@ Now launch your game again to see if this method works for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,8 +144,20 @@ Now launch your game again to see if this method works for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-flash-vids-unpacked-whats-inside/"><u>[New] 2024 Approved Flash Vids Unpacked What's Inside?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>[New] Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-shorts-templates-understanding-the-fundamentals/"><u>[Updated] 2024 Approved YouTube Shorts Templates Understanding the Fundamentals</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-cryptic-quests-for-the-digital-detective-ai/"><u>4 Cryptic Quests for the Digital Detective AI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dealing-with-drivers-stop-wdf-related-bluescreen/"><u>Dealing with Drivers: Stop WDF-Related BlueScreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-loss-in-windows-10-display-setup/"><u>Fullscreen Loss in Windows 10 Display Setup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-canvas-on-a-screen-ranking-the-best-8-drawing-apps-for-iphones/"><u>In 2024, Canvas on a Screen Ranking the Best 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-window-10-ui-settings-fixed-and-solved/"><u>Missing Window 10 UI Settings: Fixed & Solved</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reinstating-disrupted-mp4-content-for-mobile-use/"><u>Reinstating Disrupted MP4 Content for Mobile Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-call-for-your-gpus-fans/"><u>Wake-Up Call for Your GPU's Fans</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+</ul></div>
 

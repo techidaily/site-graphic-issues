@@ -1,7 +1,7 @@
 ---
 title: Fixing Erratic Illumination in Acer Devices
-date: 2024-08-22T13:29:00.263Z
-updated: 2024-08-23T13:29:00.263Z
+date: 2024-10-05T18:08:17.161Z
+updated: 2024-10-06T17:04:10.532Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
@@ -50,9 +57,23 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -74,9 +95,6 @@ Here is how to change the screen refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update or delete incompatible apps
 
  1) On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** .
@@ -89,8 +107,12 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,16 +127,10 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -136,8 +152,6 @@ Here is how to change the screen refresh rate:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,8 +159,20 @@ Here is how to change the screen refresh rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[New] 2024 Approved Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-meeting-experience-with-zooms-camera-snaps/"><u>[Updated] In 2024, Elevate Meeting Experience with Zoom's Camera Snaps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-viewership-with-effective-game-streaming/"><u>[Updated] Maximizing Viewership with Effective Game Streaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-viral-success-the-most-loved-ae-themes-for-social-media/"><u>2024 Approved Viral Success The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ceasing-operation-solutions-for-laptop-screens-not-working/"><u>Ceasing Operation: Solutions for Laptop Screens Not Working</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-boost-your-sites-engagement-and-analytics/"><u>Cookiebot-Enabled: Boost Your Site's Engagement & Analytics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-video-issues-post-update/"><u>Fixing Windows 10 Video Issues Post-Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-youtube-video-trailers-with-filmora-software/"><u>In 2024, The Art of YouTube Video Trailers with Filmora Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-free-filmora-13-editor-download-for-windows-and-mac-for-2024/"><u>New Free Filmora 13 Editor Download For Windows and Mac for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-rapid-flash-problems-in-acer-devices/"><u>Rectifying Rapid-Flash Problems in Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resizing-large-screen-size-in-win11/"><u>Resizing Large Screen Size in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rousing-a-silent-gpus-spinning-heart/"><u>Rousing a Silent GPU's Spinning Heart</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-xperia-5-assessment-great-for-on-the-go-with-a-hefty-cost/"><u>Sony Xperia 5 Assessment: Great for On-The-Go with a Hefty Cost</u></a></li>
+</ul></div>
 

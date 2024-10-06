@@ -1,7 +1,7 @@
 ---
 title: Enhancinas Microsoft's Windows Core Functions
-date: 2024-08-22T13:26:57.624Z
-updated: 2024-08-23T13:26:57.624Z
+date: 2024-09-29T21:05:32.825Z
+updated: 2024-10-06T20:31:14.925Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c71ce8851536aefe75546ef7e7f6082e226191710
 
  To simply put, you can choose to use your dedicated graphics card and update your graphics card driver to fix your problems.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are solutions you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -35,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/c71ce8851536aefe75546ef7e7f6082e226191710
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -46,23 +50,29 @@ Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -82,15 +92,17 @@ Here’s how to do it:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -103,8 +115,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,8 +122,16 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-humor-hierarchy-the-20-most-popular-memes/"><u>[New] Humor Hierarchy The 20 Most Popular Memes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-discovering-vimeo-home-for-high-quality-films/"><u>[Updated] 2024 Approved Discovering Vimeo Home for High-Quality Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-understanding-and-altering-account-numbers/"><u>[Updated] Unleash Potential Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-videos-into-youtube-shelves-a-practical-guide/"><u>In 2024, Integrating Videos Into YouTube Shelves A Practical Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-bug-bypassed-22/"><u>Kernel Bug Bypassed - #22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-settings-failures-on-windows-7-and-10-fix-complete/"><u>Resetting Display Settings Failures on Windows 7 & 10 [Fix Complete]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-error-amds-load-failure-on-win10-addressed/"><u>Resolved Error: AMD's Load Failure on Win10 Addressed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-random-screen-flashing-on-dell-computers/"><u>Resolved: Random Screen Flashing on Dell Computers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skincare-secrets-for-success/"><u>Skincare Secrets for Success</u></a></li>
+</ul></div>
 

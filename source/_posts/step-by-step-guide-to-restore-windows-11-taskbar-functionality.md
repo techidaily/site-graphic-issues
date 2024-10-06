@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restore Windows 11 Taskbar Functionality
-date: 2024-09-25T14:29:12.540Z
-updated: 2024-10-01T04:52:27.655Z
+date: 2024-10-05T17:45:20.298Z
+updated: 2024-10-06T17:44:16.372Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -69,6 +69,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Use compatibility mode
 
  Run Fortnite in compatibility mode is a way to solve many problems. This Fortnite black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -79,22 +86,15 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 3. Click **OK** then run Fortnite to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -133,10 +133,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Use your integrated graphics card
@@ -147,19 +147,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Change scale and layout limit
 
  This solution has been proved by some users that help them fix the Fortnite black screen problem. Follow the steps below to change the display settings on your computer.
@@ -168,16 +155,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -189,6 +176,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
@@ -216,19 +211,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-be-a-guest-in-the-digital-arena-tips-for-live-viewers/"><u>[Updated] Be a Guest in the Digital Arena Tips for Live Viewers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-aspect-ratio-anomalies/"><u>Correcting Aspect Ratio Anomalies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-xcover-7-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy XCover 7 has native HEVC support?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-effortless-ipodcast-downloads-on-iphone-for-2024/"><u>Expert Tips for Effortless IPodcast Downloads on iPhone for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/glitch-spotted-and-rectified-nvidia-drivers-to-the-rescue/"><u>Glitch Spotted & Rectified - Nvidia Drivers to the Rescue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-find-x6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Find X6 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide/"><u>In 2024, Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-novel-nooks-in-mc-the-simplest-house-designs/"><u>In 2024, Novel Nooks in MC The Simplest House Designs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-proaudios-choice-the-five-pioneering-ducking-plugins-to-elevate-your-mixes-2023-rundown-for-2024/"><u>New ProAudios Choice The Five Pioneering Ducking Plugins to Elevate Your Mixes (2023 Rundown) for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-brightness-fix-twitchs-void-screens/"><u>Restore Brightness: Fix Twitch's Void Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turndisplayrightway/"><u>TurnDisplayRightWay</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-g14-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto G14 FRP Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-and-nvidia-reconciled-issue-resolved/"><u>Win11 & NVIDIA Reconciled Issue Resolved</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-12-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 12 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-overhaul-wins-dxgkrnlsys-fix/"><u>BlueScreen Overhaul: Win's dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-pcs-potential-to-handle-intel-driver-setup/"><u>Boost PC's Potential to Handle Intel Driver Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-10-refresh-disturbances/"><u>Eliminating Windows 10 Refresh Disturbances</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/group-free-enhance-windows-11-taskbar-ease/"><u>Group-Free: Enhance Windows 11 Taskbar Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-correct-save-error-in-display-preferences-win-7-10-edition-settled/"><u>How to Correct Save Error in Display Preferences, WIN 7-10 Edition [Settled]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-co-production-strategies-for-online-content-proliferation/"><u>In 2024, Co-Production Strategies for Online Content Proliferation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/make-display-settings-save-in-win-7-and-10-against-all-odds-solution-achieved/"><u>Make Display Settings Save in WIN 7 & 10 Against All Odds [Solution Achieved]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mkvmp43/"><u>MKVからMP4への無料変換サービストップ3 - おすすめがわります</u></a></li>
+<li><a href="https://fox-links.techidaily.com/palette-prestige-highlighting-10-free-mac-compatible-art-tools-for-2024/"><u>Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-solutions-no-display-on-graphics-cards/"><u>Simplified Solutions, No Display on Graphics Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubled-streams-no-more-on-updated-win10/"><u>Troubled Streams No More on Updated Win10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unified-streaming-techniques-for-youtube-and-top-networks-for-2024/"><u>Unified Streaming Techniques for YouTube & Top Networks for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725289223336-winx-dvd-authoring-pack/"><u>WinX DVD Authoring Pack ダウンロード専用: 最新版のオンライン購入方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
-date: 2024-09-27T00:45:18.190Z
-updated: 2024-10-01T13:50:48.861Z
+date: 2024-09-29T19:48:46.456Z
+updated: 2024-10-06T17:04:13.843Z
 categories:
   - BestProducts
 description: This Article Describes Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
@@ -37,9 +37,23 @@ Lifewire / Jonno Hill
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -71,6 +85,13 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -93,21 +114,7 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance** :**Great components for gaming and productivity**
 
@@ -131,20 +138,13 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
@@ -163,13 +163,6 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -177,6 +170,13 @@ Lifewire / Jonno Hill
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -226,22 +226,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/healed-graphic-driver-error-and-display-fixed/"><u>[Healed] Graphic Driver Error and Display Fixed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unlocking-earnings-the-mean-daily-pay-from-youtube-adsense-per-k-viewers/"><u>[New] 2024 Approved Unlocking Earnings The Mean Daily Pay From YouTube AdSense per K Viewers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-transforming-images-via-look-up-table-techniques-in-adobes-image-editor/"><u>[New] In 2024, Transforming Images via Look-Up Table Techniques in Adobe's Image Editor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>[New] Unveiling the Illusion How Genuine Growth Is Stifled by Shams</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-the-flashing-window-troubleshoot/"><u>[SOLVED] The Flashing Window Troubleshoot</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pixelshalfed-dissection-for-2024/"><u>[Updated] PixelsHalfed Dissection for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-not-included-in-winxp-setup/"><u>AMD Graphics Not Included in WinXP Setup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-directives-finding-ideal-dj-templates-for-2024/"><u>Dance Directives Finding Ideal DJ Templates for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enlightening-the-path-to-uhd-tv-4k-insights/"><u>Enlightening the Path to UHD TV: 4K Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-driver-found-resolving-critical-system-errors/"><u>Missing Media Driver Found: Resolving Critical System Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-amd-load-failure-in-windows-10/"><u>Overcoming AMD Load Failure in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pros-and-cons-of-virtual-reality-for-2024/"><u>Pros and Cons of Virtual Reality for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaited-nvidia-gpu-firmware-problem/"><u>Repaited Nvidia GPU Firmware Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-amd-radeon-r9-functionality-for-enhanced-win10-gaming/"><u>Restored AMD Radeon R9 Functionality for Enhanced Win10 Gaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-audio-experience-how-to-sync-a-computer-with-your-bluetooth-speaker/"><u>Seamless Audio Experience: How to Sync a Computer With Your Bluetooth Speaker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-guide-to-intel-hd-graphics-driver-update/"><u>Simple Guide to Intel HD Graphics Driver Update</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/wireless-file-sharing-tips-syncing-with-your-steam-deck-and-alternative-usb-methods/"><u>Wireless File Sharing Tips: Syncing with Your Steam Deck & Alternative USB Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-free-to-fortune-carryminatis-youtube-transformation-ajey-for-2024/"><u>[New] From Free to Fortune CarryMinati’s YouTube Transformation (Ajey) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-tools-for-visual-storytelling-from-photographic-sources/"><u>[Updated] Prime Tools for Visual Storytelling From Photographic Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-mystery-of-premium-free-photography-access/"><u>[Updated] Unraveling the Mystery of Premium Free Photography Access</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-eradicate-fallout-4-crashes-on-computer/"><u>Easy Steps to Eradicate Fallout 4 Crashes on Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-startup-dx12-error-with-halo-infinite/"><u>Halted Game Startup: DX12 Error with Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-chatgpts-new-speaking-abilities-by-openai-for-enhanced-dialogue-response/"><u>Introducing ChatGPT's New Speaking Abilities by OpenAI for Enhanced Dialogue Response</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-connected-with-ease-download-the-optimal-wi-fi-network-adapter-driver/"><u>Keep Your Dell Connected with Ease: Download The Optimal Wi-Fi Network Adapter Driver</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-nuances-of-snapchat-spotlight-for-2024/"><u>Navigating the Nuances of Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-join-mov-files-together-for-free-5-best-software-for-2024/"><u>New Join MOV Files Together for Free 5 Best Software for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-widescreen-layout-discrepancies-in-win10-devices/"><u>Rectifying Widescreen Layout Discrepancies in Win10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-window-mistake-in-windows-11/"><u>Resolving Reflective Window Mistake in Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-key-to-authenticity-on-discord-a-verification-roadmap/"><u>The Key to Authenticity on Discord A Verification Roadmap</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transform-your-feed-a-comprehensive-guide-to-videos-for-2024/"><u>Transform Your Feed A Comprehensive Guide to Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/visual-vaults-expert-tips-on-capturing-and-storing-twitter-video-for-2024/"><u>Visual Vaults Expert Tips on Capturing and Storing Twitter Video for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
 </ul></div>
 

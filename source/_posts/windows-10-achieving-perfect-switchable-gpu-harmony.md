@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Achieving Perfect Switchable GPU Harmony"
-date: 2024-09-25T09:20:36.214Z
-updated: 2024-10-01T05:50:52.433Z
+date: 2024-09-29T19:46:36.871Z
+updated: 2024-10-06T21:11:13.602Z
 tags:
   - win11
   - win10
@@ -37,27 +37,35 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -73,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -103,13 +104,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -117,10 +111,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -133,16 +127,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -163,22 +157,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>[Updated] In 2024, Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-keep-the-conversation-flowing-on-discord/"><u>2024 Approved How to Keep the Conversation Flowing on Discord</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-youtube-income-insights-and-techniques/"><u>2024 Approved Maximize Youtube Income Insights and Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-inaccessible-display-features-in-nvidia/"><u>Addressing Inaccessible Display Features in Nvidia</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-graphics-game-on-windows-with-new-nvidia-drivers/"><u>Boost Your Graphics Game on Windows with New NVIDIA Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-the-secrets-of-car-radio-codes-an-informative-tutorial/"><u>Deciphering the Secrets of Car Radio Codes – An Informative Tutorial</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-avoidance-found-enhanced-performance-achieved/"><u>Direct3D Avoidance Found - Enhanced Performance Achieved</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhancing-privacy-how-i-customize-roku-settings-for-secure-viewing/"><u>Enhancing Privacy: How I Customize Roku Settings for Secure Viewing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-boost-youtube-video-spacing-for-2024/"><u>How to Boost YouTube Video Spacing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-master-windows-blue-screen-troubleshooting/"><u>How to Master Windows Blue Screen Troubleshooting</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-8-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 8 Plus with 3 Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/techniques-for-softening-volume-in-logic-pro-mixing/"><u>Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-amd-detection-error-now-fixed/"><u>Windows 10 AMD: Detection Error, Now Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-xp-vista-no-drivers-for-amd-card-required/"><u>Windows XP, Vista - No Drivers for AMD Card Required</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/lipmaster-software-for-2024/"><u>[New] ClipMaster Software for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy-for-2024/"><u>[New] Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger-for-2024/"><u>[New] Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-gpu-shutdown-in-windows-1011-pcs/"><u>Addressing GPU Shutdown in Windows 10/11 PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-new-horizons-innovative-applications-for-chatgpts-code-execution-feature/"><u>Explore New Horizons: Innovative Applications for ChatGPT's Code Execution Feature</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-urgently-no-gpu-detected/"><u>Fix Urgently: No GPU Detected</u></a></li>
+<li><a href="https://facebook.techidaily.com/harness-the-power-of-linkedin-and-facebook-for-career-advancement/"><u>Harness the Power of LinkedIn & Facebook for Career Advancement</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-stepping-up-your-gaming-stream-with-steam-capture/"><u>In 2024, Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-horizontality/"><u>Perfecting Visual Horizontality</u></a></li>
 </ul></div>
 

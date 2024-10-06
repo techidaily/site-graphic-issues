@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-09-26T16:02:08.810Z
-updated: 2024-09-30T16:19:56.491Z
+date: 2024-09-30T17:59:28.931Z
+updated: 2024-10-06T20:32:55.924Z
 tags:
   - win11
   - win10
@@ -47,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -69,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -80,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
@@ -95,28 +96,15 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -139,17 +127,15 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/beyond-hdtv-boundaries-embracing-4k-resolution/"><u>Beyond HDTV Boundaries: Embracing 4K Resolution</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/capture-connections-real-time-recordings-for-2024/"><u>Capture Connections Real Time Recordings for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-speed-with-msis-new-aiplus-series-for-gamers-and-creative-professionals-powered-by-100-to-amoled-542-tops/"><u>Experience Next-Level Speed with MSI's New AI+ Series for Gamers & Creative Professionals - Powered by 100 to Amoled 542 TOPS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-7-easy-steps-for-a-subscriber-surge-on-youtube/"><u>In 2024, 7 Easy Steps for a Subscriber Surge on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>In 2024, Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-under-100-gaming-keyboards-your-next-purchase/"><u>In 2024, Top 5 Under-$100 Gaming Keyboards – Your Next Purchase?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stability-in-screens-preventing-monitor-flickers/"><u>Stability in Screens: Preventing Monitor Flickers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-transforming-snd-audio-files-into-wav-format-using-your-computer/"><u>Step-by-Step Guide: Transforming SND Audio Files Into WAV Format Using Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-requesting-a-steam-game-refund-online/"><u>Step-by-Step Process of Requesting a Steam Game Refund Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-recording-success-tips-for-fixing-your-cam/"><u>Zoom Recording Success: Tips for Fixing Your Cam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-video-lifeline-immediate-troubleshooting-tips/"><u>Zoom Video Lifeline - Immediate Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-studio-monetization-check-ensure-your-channels-monetization/"><u>[New] 2024 Approved YouTube Studio Monetization Check Ensure Your Channel's Monetization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>2024 Approved Amplify Detail Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-lap-top-horizontal-line-correction/"><u>Effortless Lap Top - Horizontal Line Correction</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-win11-screen-blackout-post-fall-release/"><u>Overcoming Win11 Screen Blackout Post Fall Release</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-corsair-void-headset-mic/"><u>Step-by-Step Repair Tips for Nonfunctional Corsair Void Headset Mic</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-intel-graphics-in-minutes-on-your-windows-10/"><u>Upgrade Intel Graphics in Minutes on Your WIndows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-adjustment-mastery/"><u>Win10 Screen Adjustment Mastery</u></a></li>
 </ul></div>
 

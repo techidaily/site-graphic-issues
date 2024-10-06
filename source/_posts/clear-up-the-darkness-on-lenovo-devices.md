@@ -1,7 +1,7 @@
 ---
 title: Clear Up the Darkness on Lenovo Devices
-date: 2024-08-15T07:25:24.862Z
-updated: 2024-08-16T07:25:24.862Z
+date: 2024-10-01T21:04:23.096Z
+updated: 2024-10-06T20:48:08.809Z
 tags:
   - win11
   - win10
@@ -30,8 +30,12 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 6. **[Perform a system restore](#F6)**
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
@@ -41,8 +45,12 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Hard reset your Lenovo laptop
 
  Peripheral devices that are connected to your Lenovo laptop could also be the cause of the black screen issue. If this is the case for you, you may notice that the dots are spinning during the boot-up process. So you should perform a hard reset on your Lenovo laptop to narrow down the possibilities.
@@ -69,9 +77,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -87,13 +92,17 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -117,9 +126,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -138,12 +144,16 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -152,8 +162,12 @@ So you can try disabling fast startup to see if it does the trick:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -169,16 +183,17 @@ So you can try disabling fast startup to see if it does the trick:
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -197,8 +212,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,8 +219,26 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-inverted-illusions-the-art-of-rotating-visuals-for-social-media-success/"><u>[New] Inverted Illusions The Art of Rotating Visuals for Social Media Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-the-world-of-zooms-camera-snapping-easily-for-2024/"><u>[New] Navigating the World of Zoom's Camera Snapping Easily for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-apples-tunes-in-the-frame-of-reality/"><u>2024 Approved Apple's Tunes in the Frame of Reality</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-guide-on-secure-data-deletion-with-advice-from-stellar-experts/"><u>Comprehensive Guide on Secure Data Deletion with Advice From Stellar Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-starting-call-of-dutys-modern-warfare-2-successfully-uncovered/"><u>Cracking the Code: Starting Call of Duty's Modern Warfare 2 Successfully Uncovered</u></a></li>
+<li><a href="https://facebook.techidaily.com/determining-digital-picture-proprietorship/"><u>Determining Digital Picture Proprietorship</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-illumination-in-acer-devices/"><u>Fixing Erratic Illumination in Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-gpu-error-43-successfully/"><u>Fixing GPU Error 43 Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-screen-orientation-in-windows-10-solved/"><u>Fixing Screen Orientation in Windows 10 [Solved]</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/grasping-the-visionary-shift-to-4k-resolution/"><u>Grasping the Visionary Shift to 4K Resolution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enlarged-pictures-maintaining-high-quality-standards/"><u>In 2024, Enlarged Pictures Maintaining High-Quality Standards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mobile-magic-instagram-covers-iphone-plus-android/"><u>In 2024, Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-flicker-resolution-achieved-successfully/"><u>Laptop Display Flicker: Resolution Achieved Successfully</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-in-translation-make-sure-your-android-delivers-texts-to-your-iphone-without-fail/"><u>Lost in Translation? Make Sure Your Android Delivers Texts to Your iPhone Without Fail</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-responding-to-fullscreen-mode-win10/"><u>Monitor Not Responding to Fullscreen Mode, Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-sims-screensaver-stop/"><u>Rectify Sims Screensaver Stop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-playtime-with-windows-11-driver-update-for-hd-6950/"><u>Supercharge Your Playtime with Windows 11 Driver Update for HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
+</ul></div>
 

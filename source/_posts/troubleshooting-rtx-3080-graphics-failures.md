@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting RTX 3080 Graphics Failures
-date: 2024-08-22T13:29:33.993Z
-updated: 2024-08-23T13:29:33.993Z
+date: 2024-10-01T19:18:32.898Z
+updated: 2024-10-06T16:29:53.377Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
  If the NVIDIA RTX 3080 crashes a game, it’s very likely that the graphics driver is outdated or gets corrupted. It’s always recommended to update to the latest graphics driver since it can affect your gaming experience, especially when you’re using a high-end graphics card.
@@ -53,13 +50,22 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. This will help you update all the available driver updates, thus ruling out the possibility of other outdated driver interference. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have a 30-day money-back guarantee and full tech support. )  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -68,16 +74,22 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
  After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Stop overclocking
 
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
 
  The feature ‘Hardware-Accelerated GPU Scheduling’ is first introduced in Windows 10 May 2020 update. It allows your graphics card to manage its video memory (VRAM). What’s interesting is that some players find disabling this feature helped resolve this issue.
@@ -87,10 +99,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Now launch your game again to see if this method works for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Keep the GPU fed
 
@@ -121,8 +137,6 @@ Now launch your game again to see if this method works for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,8 +144,19 @@ Now launch your game again to see if this method works for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-android-photography-alterations/"><u>[Updated] 2024 Approved Premium Android Photography Alterations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-full-assessment-macs-screenflow-studio-experience/"><u>[Updated] In 2024, Full Assessment Mac's ScreenFlow Studio Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlined-steps-for-preserving-vimeo-recordings/"><u>[Updated] Streamlined Steps for Preserving Vimeo Recordings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-apcs-disregard-for-internal-video-cards/"><u>Fix: APC's Disregard for Internal Video Cards</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967326351-get-the-latest-msi-sound-card-drivers-on-your-windows-system-today/"><u>Get the Latest MSI Sound Card Drivers on Your Windows System Today!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-rendering-system-errored-on-start/"><u>Graphic Rendering System Errored On-Start</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23plus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23+ FRP Locks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertingscreenview-solution/"><u>InvertingScreenView Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-v27-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo V27 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-improving-your-keyboards-reaction-time-quickly/"><u>Simple Solutions: Improving Your Keyboard's Reaction Time Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexplained-geforce-gtx-absence/"><u>Unexplained GeForce GTX Absence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-victory-displays-preserved-after-fix/"><u>Visual Victory: Displays Preserved After Fix</u></a></li>
+</ul></div>
 

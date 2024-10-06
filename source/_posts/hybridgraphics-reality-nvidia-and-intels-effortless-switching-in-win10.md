@@ -1,7 +1,7 @@
 ---
 title: "HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10"
-date: 2024-09-28T05:40:52.300Z
-updated: 2024-10-01T12:33:20.302Z
+date: 2024-09-30T21:17:34.088Z
+updated: 2024-10-06T18:28:45.744Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -43,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  Step 2:[**Update graphic cards drivers (Recommended)**](#m3)
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
 
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -98,10 +91,17 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -116,26 +116,26 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -157,20 +157,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-jokes-and-puns-iphone-edition/"><u>2024 Approved Jokes and Puns IPhone Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>2024 Approved Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/complete-guide-video-and-audio-formats-compatible-with-windows-11/"><u>Complete Guide: Video and Audio Formats Compatible with Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 (4 Methods) | Stellar</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 12 mini with a Mask On</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovating-filming-techniques-smartphones-as-webcams/"><u>Innovating Filming Techniques Smartphones as Webcams</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mouse-sighting-blacked-out-windows-11-fix/"><u>Mouse Sighting: Blacked Out Windows 11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-r9-graphics-issues-for-a-better-win10-experience/"><u>Overcoming R9 Graphics Issues for a Better Win10 Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reclaiming-default-display-settings-on-windows-710-success-achieved/"><u>Reclaiming Default Display Settings on Windows 7/10 - Success [Achieved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-hp-laptops-stable-display/"><u>Resolving HP Laptops: Stable Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-radiance-to-rugged-reality-views/"><u>Restoring Radiance to Rugged Reality Views</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/saving-skies-best-price-for-data-keepers-2024/"><u>Saving Skies Best Price for Data Keepers 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/teaching-troubleshooting-tactics-for-blank-displays/"><u>Teaching Troubleshooting Tactics for Blank Displays</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12plus-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12+ 5G Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-potential-of-your-mobile-content-for-youtube-wealth-for-2024/"><u>Unlocking the Potential of Your Mobile Content for YouTube Wealth for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-direct-compare-obs-and-twitch-studio-benefits/"><u>[New] In 2024, Direct Compare OBS and Twitch Studio Benefits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[New] In 2024, From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-with-updated-intel-hd-graphics-driver/"><u>Boost Your PC with Updated Intel HD Graphics Driver</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-the-potential-of-filters-and-masks-for-online-conferencing/"><u>In 2024, Unlocking the Potential of Filters and Masks for Online Conferencing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/patched-amds-graphics-issues-r9-now-fixed-on-w10/"><u>Patched AMD's Graphics Issues: R9 Now Fixed on W10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premiere-pro-power-tools-your-ultimate-2023-samples-free-for-2024/"><u>Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-methods-creating-new-dossiers-in-win11/"><u>Quick Methods: Creating New Dossiers in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-system-freeze-repair-wdf-api-crashes-in-winos/"><u>Stop System Freeze: Repair WDF API Crashes in WinOS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-free-online-conversion-transforming-mxf-files-into-mp4/"><u>Top Strategies for Free, Online Conversion: Transforming MXF Files Into MP4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-high-dpi-settings-on-latest-window-11-update/"><u>Unlock High-DPI Settings on Latest Window 11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-video-glitches-resolution/"><u>Windows 10 Video Glitches Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-hassle-fix-laptops-horizontal-borders/"><u>Zero Hassle: Fix Laptop's Horizontal Borders</u></a></li>
 </ul></div>
 

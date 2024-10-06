@@ -1,7 +1,7 @@
 ---
 title: "Sharp Focus: Quick Cure for AMD & Tarkov Bug"
-date: 2024-08-22T13:28:30.232Z
-updated: 2024-08-23T13:28:30.232Z
+date: 2024-09-29T18:49:12.959Z
+updated: 2024-10-06T21:43:45.719Z
 tags:
   - win11
   - win10
@@ -39,13 +39,17 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/integrity-check-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This may take some minutes to redownload and reinstall any missing or corrupted game files.
 
  When the process is finished, relaunch your game and test the gameplay. If it’s still unplayable when it’s raining, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 2\. Delete the game cache
 
  Another great way to troubleshoot your issue is by clearing the cache. Temporary files and data are often stored. But over time, this cached data might become corrupted, which can lead to issues with connectivity, game freezes, slow or unsuccessful game loads, and other performance issues. In this situation, you’ll need to clear the cache from the EST launcher. To do this, follow the steps below.
@@ -67,19 +71,27 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-temp-folder.png)
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
 
  When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update your graphics driver
 
  Next you would need to take a look at your graphics driver. Graphics glitches may be caused by your outdated graphics driver. If you can’t remember when was the last time you updated your graphics driver, definitely do it right now. Doing so may help you fix your issue in no time.
@@ -91,13 +103,24 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After updating drivers, restart your PC and test the gameplay.
 
@@ -105,9 +128,6 @@ After updating drivers, restart your PC and test the gameplay.
 
 If your game is still unplayable, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Repair your PC
 
  If none of the methods listed above help fix your issue, it’s time you check if you have corrupted system files, which significantly reduce PC performance. In this case, you can try running a scan of your PC. And for that job, we recommend you use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a **100% legitimate** program that specializes in Windows repair. When you run Fortect, it’ll automatically find, and fix system software issues without losing your data.
@@ -118,9 +138,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
 ---
@@ -133,8 +150,6 @@ If your game is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,8 +157,20 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-wirecast-overview-and-comparable-solutions/"><u>[New] In 2024, WireCast Overview & Comparable Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-profits-from-a-million-viewer-baseline/"><u>[New] Maximizing Profits From a Million-Viewer Baseline</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-accelerated-editing-seamless-laptoppc-videos-with-inshot/"><u>[Updated] 2024 Approved Accelerated Editing Seamless Laptop/PC Videos with Inshot</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-markets-tiny-helicopters-a-ranked-list/"><u>2024 Approved Market's Tiny Helicopters A Ranked List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accessing-trendsetting-background-images-for-tiktok/"><u>Accessing Trendsetting Background Images for TikTok</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-player-engagement-in-god-of-war/"><u>Boosting Player Engagement in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-missing-display-options-on-gpu/"><u>Correcting Missing Display Options on GPU</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/intuitive-detection-on-wheels-a-comprehensive-review-of-the-ix-escorts-smart-learning-technology-for-safer-journeys/"><u>Intuitive Detection on Wheels: A Comprehensive Review of the iX Escort's Smart Learning Technology for Safer Journeys</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-live-concert-streamers/"><u>Premier Live Concert Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repair-completed-graphics-system-fixed/"><u>Repair Completed: Graphics System Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-screens-your-guide-to-peace/"><u>Silent Screens: Your Guide to Peace</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-systems-graphics-update-intels-gfx-in-windows/"><u>Supercharge Your System's Graphics - Update Intels GFX in WIndows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting C1900101 Error in Windows Upgrade
-date: 2024-09-24T12:46:55.650Z
-updated: 2024-10-01T13:02:53.853Z
+date: 2024-10-05T18:20:57.370Z
+updated: 2024-10-06T17:25:02.808Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you’re about to upgrade to Windows 10, or you’re updating your current Wi
 
 Here are 6 of the most effective solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.  Method 1:[**Update device drivers, esp. the display card driver**](#m1) Method 2:[**Uninstall third-party antivirus programs**](#m2) Method 3:[**Remove unused SAT devices**](#m3) Method 4: [**Do a clean boot**](#m4) Method 5:[**Run SFC/ DISM tools**](#m5) Method 6: [**Update BIOS**](#m6)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This post helps to fix the following error codes as well
 
 In many case, the error codes could be different in different combinations of computers, but all of them have some general solutions. Here are some of the most commonly seen codes: **0xC1900101 – 0x20004** **0xC1900101 – 0x2000c** **0xC1900101 – 0x20017** **0xC1900101 – 0x30018** **0xC1900101 – 0x3000D** **0xC1900101 – 0x4000D** **0xC1900101 – 0x40017**If you’re bugged by one of the codes above, feel free to try the methods below, one at a time.
@@ -47,10 +54,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
  This error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)  If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or remove it from your computer. In fact, if you’re already on Windows 10, we recommend that you don’t install any third-party antivirus program, because the built-in Windows Defender is powerful enough for you already.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Remove unused SAT devices
@@ -60,10 +67,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
@@ -74,6 +81,13 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
 ## Method 4: Do a clean boot
@@ -82,16 +96,16 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
@@ -102,10 +116,10 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
@@ -122,18 +136,18 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow
 
 Press the **Enter**key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
 
@@ -141,21 +155,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420dc53a080.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
 
@@ -180,20 +180,15 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-dominate-social-media-sales-5-strategic-moves-for-instagram-experts/"><u>[New] Dominate Social Media Sales 5 Strategic Moves for Instagram Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-effortlessly-eradicate-unwanted-youtube-post-comments-for-2024/"><u>[New] How to Effortlessly Eradicate Unwanted Youtube Post-Comments for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-transforming-horizontal-footage-into-vertical-video-gold-on-igtv-for-2024/"><u>[Updated] Transforming Horizontal Footage Into Vertical Video Gold on IGTV for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-light-back-to-your-twitch-video/"><u>Bring Light Back to Your Twitch Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dark-room-gfx-card-updation/"><u>Dark Room - GFX Card Updation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-back-excessive-windows-sizing/"><u>Dial Back Excessive Windows Sizing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-linking-amazon-firestick-to-wifi-via-cellular-data/"><u>Easy Tutorial on Linking Amazon Firestick to WiFi via Cellular Data</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide/"><u>In 2024, From Catalina to Big Sur A Comprehensive Mac OS Shift Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lightning-cure-fast-remedy-for-amd-and-tarkov-bug/"><u>Lightning Cure: Fast Remedy for AMD & Tarkov Bug</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-erratic-screen-behavior-on-dell-laptop/"><u>Resolved: Erratic Screen Behavior on Dell Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/straightening-computer-border-lines/"><u>Straightening Computer Border Lines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swifter-play-eliminate-amd-tarkov-glitches-now/"><u>Swifter Play: Eliminate AMD Tarkov Glitches Now</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/techniques-to-upload-extended-videographics-on-instagram/"><u>Techniques to Upload Extended Videographics on Instagram</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-4-free-methods-to-transform-ogg-files-into-m4r-on-pc-and-online/"><u>Top 4 FREE Methods to Transform OGG Files Into M4R on PC and Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-screen-anomalies-on-windows-7/"><u>Addressing Screen Anomalies on Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-eradication-made-simple-on-windows-pcs/"><u>Graphics Eradication Made Simple on Windows PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-30-second-guide-to-fast-fortnite-graphics/"><u>In 2024, 30-Second Guide to Fast Fortnite Graphics</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>In 2024, How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-shortcomings-for-unmatched-gaming-performance/"><u>Overcoming Direct3D Shortcomings for Unmatched Gaming Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-c1900101-error-during-windows-11-setup/"><u>Resolving C1900101 Error During Windows 11 Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-capture-to-cut-a-comprehensive-guide-to-editing-sony-camcorder-footage-for-2024/"><u>Updated From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/your-ultimate-companion-for-mastering-mov-recordings-on-windows-10/"><u>Your Ultimate Companion for Mastering MOV Recordings on Windows 10</u></a></li>
 </ul></div>
 

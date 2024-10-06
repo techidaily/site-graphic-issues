@@ -1,7 +1,7 @@
 ---
 title: Rectifying WIN 7/8/10/11 Graphic Driver Flaws
-date: 2024-08-22T13:31:23.326Z
-updated: 2024-08-23T13:31:23.326Z
+date: 2024-10-04T19:16:33.579Z
+updated: 2024-10-06T21:26:12.046Z
 tags:
   - win11
   - win10
@@ -36,9 +36,12 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -47,29 +50,34 @@ Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
@@ -92,15 +100,9 @@ Here’s how to do it:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So there you go. Hope the solutions help you with your**Microsoft Basic Render Driver** issues in your Windows computer.
 
@@ -113,8 +115,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,8 +122,21 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-ranking-of-8-swift-recorders/"><u>[New] 2024 Approved Ultimate Ranking of 8 Swift Recorders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-is-it-allowable-to-distribute-videos-via-social-networks/"><u>[New] In 2024, Is It Allowable to Distribute Videos via Social Networks?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-techniques-for-securing-product-placements-on-youtube-for-2024/"><u>[Updated] Essential Techniques for Securing Product Placements on Youtube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ideal-video-player-apps-for-windows-os-enthusiasts/"><u>2024 Approved Ideal Video Player Apps for Windows OS Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-drivers-for-hp-elitebook-x360-1030-g2-model/"><u>Download Essential Drivers for HP EliteBook X360 1030 G2 Model</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-freesync-connectivity-errors/"><u>Fixing AMD FreeSync Connectivity Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphical-interface-resumed-after-interruption/"><u>Graphical Interface Resumed After Interruption</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-setting-up-and-managing-discord-channels-step-by-step-guide/"><u>In 2024, Setting Up and Managing Discord Channels Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/keep-your-gpu-in-top-shape-with-driver-upgrade/"><u>Keep Your GPU in Top Shape with Driver Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-low-end-amd-graphics-limitations/"><u>Overcoming Low-End AMD Graphics Limitations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/quick-start-guide-to-editing-with-snapseed/"><u>Quick Start Guide to Editing with Snapseed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-large-display-on-win11-pc/"><u>Resolving Large Display on Win11 PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/by-step-methodology-assembling-youtube-playlists/"><u>Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/forming-life-experiences-into-engaging-yt-videos/"><u>Transforming Life Experiences Into Engaging YT Videos</u></a></li>
+</ul></div>
 

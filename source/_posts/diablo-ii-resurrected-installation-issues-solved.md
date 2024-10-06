@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2024-09-27T05:55:14.665Z
-updated: 2024-09-30T22:53:20.473Z
+date: 2024-09-30T18:14:07.502Z
+updated: 2024-10-06T19:15:24.227Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/cable-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Ensure your computer is not on mute
 
  When you run into audio issues on your computer, another thing to do is to test the sound from ANY application. You can do this by opening local multimedia files, such as audio or video played in Windows Media Player, to see if you get sound from them. If you hear sound from other apps, skip to **[Method 1](https://tools.techidaily.com/drivereasy/download/)**  to fix your issue.
@@ -66,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the **OK** button.
@@ -77,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-230.png)
 
 If the sound is still not available, try the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Restart Your PC
 
@@ -102,23 +116,9 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**OK** to save the changes.
 
@@ -144,13 +144,6 @@ If not, read on and try the next solution.
 
 If the sound isn’t coming back, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Update Your Audio Driver
 
  One of the most common causes of audio problems on Windows devices is an outdated or a faulty audio driver.
@@ -168,10 +161,10 @@ If the sound isn’t coming back, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -181,10 +174,10 @@ If the sound isn’t coming back, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -193,6 +186,13 @@ If the sound isn’t coming back, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the sound issue isn’t resolved, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
 
@@ -233,22 +233,21 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-laptop-not-using-gpu-windows-1111/"><u>[SOLVED] Laptop Not Using GPU Windows 11/11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-discover-the-ultimate-comfort-of-these-top-8-5ks-for-2024/"><u>[Updated] Discover the Ultimate Comfort of These Top 8 5Ks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>[Updated] In 2024, Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mirror-movies-a-guide-to-flipping-your-youtube-video-upside-down/"><u>[Updated] Mirror Movies A Guide to Flipping Your YouTube Video Upside Down</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advantages-in-god-of-war-a-closer-look/"><u>Advantages in 'God of War': A Closer Look</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/comprehensively-addressing-r9-driver-issues-on-w10/"><u>Comprehensively Addressing R9 Driver Issues on W10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortlessly-upgrade-intel-graphics-plus-windows-11-drivers/"><u>Effortlessly Upgrade: Intel Graphics + Windows 11 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-system-response-fixed-comfailure-windows-based/"><u>Enhanced System Response: Fixed COMFailure Windows-Based</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a15-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A15 5Gwith/without a PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>In 2024, IPhone Tips Achieve Softened Images in 4 Easy Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-no-8-advanced-online-photographic-merge-suite/"><u>In 2024, No. 8 Advanced Online Photographic Merge Suite</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-repair-completed-successfully/"><u>Lenovo SmartTouch Repair Completed Successfully</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-join-the-fun-top-5-free-online-video-merger-tools-you-need-to-try/"><u>New In 2024, Join the Fun Top 5 Free Online Video Merger Tools You Need to Try</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-driver-installation-for-amd-in-windows-10/"><u>Successful Driver Installation for AMD in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-stabilize-your-vision/"><u>Win11: Stabilize Your Vision</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-comparing-vsdc-to-best-screen-recording-software/"><u>[New] 2024 Approved Comparing VSDC to Best Screen Recording Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-aplus-ppts-into-screen-recording/"><u>[New] A+ PPTs Into Screen Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-to-mp3-converter/"><u>[New] In 2024, Social Media to Mp3 Converter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ransform-your-on-screen-identity-into-a-brand-on-youtube-for-2024/"><u>[New] Transform Your On-Screen Identity Into a Brand on YouTube for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audioadvisor-dacast-and-what-it-should-be/"><u>[Updated] AudioAdvisor DaCast & What It Should Be</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-wide-viewport-experience-in-windows-10/"><u>Enhancing Wide-Viewport Experience in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flash-free-visual-experience-now/"><u>Flash-Free Visual Experience Now</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ladies-of-the-digital-battlefield-youtubes-leading-tens/"><u>In 2024, Ladies of the Digital Battlefield YouTube's Leading Tens</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-classroom-potential-with-simple-methods-to-record-mac-lectures/"><u>In 2024, Unlocking Classroom Potential with Simple Methods to Record Mac Lectures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/install-update-nvidia-graphics-card-software/"><u>Install Update: Nvidia Graphics Card Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-overcoming-setup-obstacle/"><u>Mended: Overcoming Setup Obstacle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-dance-like-flickers-in-win11/"><u>No More Dance-Like Flickers in Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outsmart-the-dark-strategic-solutions-for-fixing-nba-2k21-black-loading-screens-in-the-new-year-of-2024/"><u>Outsmart the Dark: Strategic Solutions for Fixing NBA 2K21 Black Loading Screens in the New Year of 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-non-functioning-laptop-screen-answers-within-reach/"><u>The Non-Functioning Laptop Screen: Answers Within Reach</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-complication-guide-to-reactivate-port/"><u>Zero-Complication Guide to Reactivate Port</u></a></li>
 </ul></div>
 

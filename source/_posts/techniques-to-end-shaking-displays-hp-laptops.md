@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-09-23T21:56:29.294Z
-updated: 2024-10-01T06:09:13.039Z
+date: 2024-09-29T17:36:23.494Z
+updated: 2024-10-06T17:41:24.457Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -59,6 +66,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -66,13 +80,6 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -91,10 +98,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -113,14 +126,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -132,13 +151,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -166,18 +178,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-live-streaming-on-mac-os-costless-option/"><u>[New] In 2024, Live Streaming on Mac OS - Costless Option</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificer-of-words-the-science-behind-simulating-talks-with-chatbots/"><u>Artificer of Words: The Science Behind Simulating Talks with Chatbots</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-tutorial-how-to-disable-and-rollback-recent-windows-10-patches/"><u>Comprehensive Tutorial: How to Disable and Rollback Recent Windows 10 Patches</u></a></li>
-<li><a href="https://fox-info.techidaily.com/decoding-photopeas-art-of-backdrop-elimination/"><u>Decoding Photopea's Art of Backdrop Elimination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-enhance-your-pc-with-intels-graphics-driver-update/"><u>Easy Steps to Enhance Your PC with Intels Graphics Driver Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-laggard-to-lightning-pick-8-apps-now-for-2024/"><u>From Laggard to Lightning Pick 8 Apps Now for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 Phone with Broken Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-fixed-intermittent-screen-behavior/"><u>Lenovo Fixed Intermittent Screen Behavior</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-temporal-and-spatial-shifts-in-filmmaking/"><u>Mastering Temporal & Spatial Shifts in Filmmaking</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y02t-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y02T</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-for-correcting-critical-error-code-c1900101-in-windows-11-upgrade/"><u>Steps for Correcting Critical Error Code: C1900101 in Windows 11 Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadows-lifted-fixes-for-falls-patch/"><u>Win11 Shadows Lifted: Fixes for Fall's Patch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-explore-10-elite-streamers-offering-freshest-live-content/"><u>[New] Explore 10 Elite Streamers Offering Freshest Live Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-virtual-frontiers-in-business-technology-and-strategy-for-2024/"><u>[New] Virtual Frontiers in Business Technology and Strategy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-premier-top-selections-affordable-sbd-applications/"><u>[Updated] 2024 Approved Premier Top Selections Affordable SBD Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brightening-up-post-fall-windows-experience/"><u>Brightening Up Post-Fall Windows Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-boring-watch-these-15-hilarious-youtube-bites-for-2024/"><u>Cut the Boring, Watch These 15 Hilarious YouTube Bites for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-an-insight-into-its-associated-perils/"><u>Decoding AI: An Insight Into Its Associated Perils</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-last-graphic-problem-for-overwatch/"><u>Fixing the Last Graphic Problem for Overwatch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/"><u>In 2024, Mastering the Art of Virtual Board Usage in Web Conferences Android, Apple & PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-11-driver-for-amd-radeon-hd-6950-gpu/"><u>Latest Windows 11 Driver for AMD Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-installation-error-code-c1900101-in-windows-11/"><u>Overcoming Installation Error Code C1900101 in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-se-2020-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone SE (2020) Making It Possible</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-decorations-monitors-wallpaper-differentiation-guide/"><u>Windows 11 Decorations: Monitors Wallpaper Differentiation Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Banish Blinky: A Step-by-Step Guide to Screen Stability"
-date: 2024-09-30T09:22:38.049Z
-updated: 2024-10-01T04:19:06.870Z
+date: 2024-09-29T17:31:35.147Z
+updated: 2024-10-06T16:40:28.854Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
@@ -60,19 +67,6 @@ To troubleshoot these hardware issues:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -82,32 +76,18 @@ To troubleshoot these hardware issues:
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -119,30 +99,45 @@ To troubleshoot these hardware issues:
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -183,14 +178,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/added-hidden-settings-in-windows-10-displays-unlocked/"><u>[ADDED] Hidden Settings in Windows 10 Displays Unlocked</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-your-new-m1-max-clip-world/"><u>2024 Approved Navigating Through Your New M1 Max Clip World</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/compose-your-story-best-mobile-annotation-tools-for-2024/"><u>Compose Your Story Best Mobile Annotation Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-slow-downloads-on-origin-expert-techniques-and-guides-for-superior-download-speeds/"><u>Conquer Slow Downloads on Origin - Expert Techniques and Guides for Superior Download Speeds</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-devices-fixed/"><u>Horizontal Adjustment - Portable Devices Fixed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-narzo-60-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme Narzo 60 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-examination-lg-bp350-screen-specifications-and-reviews/"><u>In 2024, In-Depth Examination LG BP350 Screen Specifications and Reviews</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-diagonal-misalignment-in-netbooks/"><u>Resolved Diagonal Misalignment in Netbooks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-your-watch-experience-now/"><u>Streamline Your Watch Experience Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-recording-tools-top-5-webcam-capturers-for-2024/"><u>[New] Essential Recording Tools - Top 5 Webcam Capturers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-engineering-an-impactful-storyboard-fragment/"><u>[Updated] In 2024, Engineering an Impactful Storyboard Fragment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-investigating-competitors-to-manycam-better-choices/"><u>[Updated] In 2024, Investigating Competitors to ManyCam Better Choices?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-savor-playtime-the-essential-guide-to-high-quality-offline-ios-games/"><u>[Updated] Savor Playtime – The Essential Guide to High-Quality Offline iOS Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-cominterface-issue-with-precision/"><u>Fixing Windows COMInterface Issue with Precision</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-keep-your-videos-secure-youtube-to-mp4-downloading-safely/"><u>In 2024, Keep Your Videos Secure - YouTube-to-MP4 Downloading Safely</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-find-x7-ultra-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Find X7 Ultra Android SIM Unlock APK</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/initial-graphical-system-unresponsive/"><u>Initial Graphical System Unresponsive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpt-to-elevate-your-social-media-messages-a-step-by-step-guide/"><u>Leverage ChatGPT to Elevate Your Social Media Messages – A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-blur-windows-display-enhanced/"><u>No Blur: Windows Display Enhanced</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-visibility-after-driver-update/"><u>No Visibility After Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-d3d-initialization-setbacks/"><u>Overcoming D3D Initialization Setbacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pcie-lone-gpu-in-system-logs-cleared/"><u>PCIe Lone GPU in System Logs Cleared</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-youtube-seo-methods-for-video-rankings/"><u>Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-memory-management-increasing-ram-in-minecraft/"><u>The Art of Memory Management Increasing RAM in Minecraft</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-note-30i-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Note 30i</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-anthem-delays/"><u>Troubleshoot Anthem Delays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-nvidia-driver-issue-settled/"><u>Windows 11, NVidia Driver Issue Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wnddevice-creation-now-smooth/"><u>WndDevice Creation Now Smooth</u></a></li>
 </ul></div>
 

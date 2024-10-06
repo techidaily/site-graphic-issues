@@ -1,7 +1,7 @@
 ---
 title: "Monitor Misbehaving: Can't Show Full Screen 11 Windows"
-date: 2024-08-22T13:31:14.550Z
-updated: 2024-08-23T13:31:14.550Z
+date: 2024-10-01T21:02:30.389Z
+updated: 2024-10-06T19:00:13.640Z
 tags:
   - win11
   - win10
@@ -55,8 +55,18 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
@@ -66,8 +76,12 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
@@ -76,33 +90,27 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  8) Now restart your computer and see if your monitor displays the full screen.
 
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  Your full-screen issue has something to do with your graphics card. If your graphics card driver is missing or outdated, your monitor may not display full screen. To rule out the cause of your issue, you should update your video card driver to the latest version.
@@ -123,6 +131,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -130,13 +145,24 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -149,8 +175,18 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
@@ -169,9 +205,6 @@ Still no luck? Okay, there is one more thing to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Avoid software conflicts
 
  Sometimes your monitor doesn’t display full screen because of software conflicts. Some other programs running on your computer may prevent your monitor from displaying the full screen.
@@ -191,8 +224,6 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,8 +231,18 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-non-operational-epson-printer-in-windows-11-environment/"><u>[FIXED] Non-Operational Epson Printer in Windows 11 Environment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-step-by-step-approach-to-crafting-shareable-facebook-slideshows/"><u>[New] 2024 Approved Step-by-Step Approach to Crafting Shareable Facebook Slideshows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-interface-reactivated-post-error/"><u>Display Interface Reactivated Post-Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-11-enhanced-control-over-resolutions/"><u>Fixed Windows 11 - Enhanced Control Over Resolutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-beginner-to-expert-in-funimate/"><u>From Beginner to Expert in Funimate</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-video-recording-and-editing-with-adobe-connect/"><u>Mastering Video Recording & Editing with Adobe Connect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-os-laptop-gpu-functionality-verified-on-win11/"><u>New OS - Laptop GPU Functionality Verified on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817990669-radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-11-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-tricks-for-easy-downloading-and-installing-of-surface-book-2-drivers/"><u>Simple Tricks for Easy Downloading & Installing of Surface Book 2 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-now-offers-extended-display-options/"><u>Windows 11 Now Offers Extended Display Options</u></a></li>
+</ul></div>
 

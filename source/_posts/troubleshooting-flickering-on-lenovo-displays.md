@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flickering on Lenovo Displays
-date: 2024-08-22T13:29:32.926Z
-updated: 2024-08-23T13:29:32.926Z
+date: 2024-10-02T20:36:45.639Z
+updated: 2024-10-06T18:53:23.788Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -70,15 +77,39 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Troubleshoot hardware issues
 
  It is also possible that the problem with your Lenovo laptop screen results from interference from outside or a defective cable connection.
@@ -99,8 +130,6 @@ You can troubleshoot these hardware issues on your own:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,8 +137,22 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/1719817906327-solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>[Updated] 2024 Approved Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ensuring-transparency-in-video-creator-incomes-for-2024/"><u>[Updated] Ensuring Transparency in Video Creator Incomes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-breakthrough-tactics-for-efficient-home-podcasting/"><u>2024 Approved Breakthrough Tactics for Efficient Home Podcasting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-rectified-in-monitor-driver/"><u>Error Rectified in Monitor Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-dx12-error-in-new-halo-infinites-release/"><u>Halted: DX12 Error in New Halo Infinite's Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hasten-installing-intel-gfx-3000-on-windows-10/"><u>Hasten Installing Intel GFX 3000 on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-a18-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo A18 Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-z-flip-5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy Z Flip 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infinite-possibilities-with-ai-generating-viral-video-titles/"><u>In 2024, Infinite Possibilities with AI Generating Viral Video Titles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overheating-iphoneipad-explained-identify-the-reasons-and-implement-repairs/"><u>Overheating iPhone/iPad Explained: Identify the Reasons & Implement Repairs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-for-clearing-smudge-filled-displays/"><u>Techniques for Clearing Smudge-Filled Displays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-and-detailed-assessments-at-toms-tech-review/"><u>Top Picks and Detailed Assessments at Tom's Tech Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-update-no-more-video-glitches-or-buffering/"><u>Win10 Update: No More Video Glitches or Buffering</u></a></li>
+</ul></div>
 

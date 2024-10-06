@@ -1,7 +1,7 @@
 ---
 title: "ASUS Internal Cameras: Fixed and Running"
-date: 2024-09-24T06:25:34.641Z
-updated: 2024-10-01T02:46:46.290Z
+date: 2024-09-30T19:14:30.976Z
+updated: 2024-10-06T17:49:54.786Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1\. Press the hotkey to enable the camera
@@ -52,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
@@ -88,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 After updating your drivers, restart your PC and test the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4\. Reinstall the camera driver
 
  Under some circumstances, your camera may still act up after the related driver is up to date. To fix the issue quickly, you can launch Driver Easy, and click**Uninstall driver** next to your webcam driver, and restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
@@ -108,13 +115,6 @@ After updating your drivers, restart your PC and test the camera.
  1) Type **devmgmt.msc** in the field and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
@@ -149,16 +149,22 @@ After updating your drivers, restart your PC and test the camera.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-assessing-instagrams-limits-on-posted-videos/"><u>[New] 2024 Approved Assessing Instagram's Limits on Posted Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-insert-a-vimeo-video-into-powerpoint-for-2024/"><u>[New] How to Insert a Vimeo Video Into PowerPoint for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems.</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-deep-dive-into-durecorders-full-range/"><u>[Updated] In 2024, A Deep Dive Into DuRecorder's Full Range</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power-for-2024/"><u>ASMR and You Understanding Its Healing Power for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-no-graphics-gpu-error-detected/"><u>Display No Graphics: GPU Error Detected</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-logitech-g-pro-x-microphone-failures/"><u>Expert Tips on Resolving Logitech G Pro X Microphone Failures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-system-halt-successful-continuity-achieved/"><u>Graphics System Halt: Successful Continuity Achieved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-response-to-lenovo-flicker-concerns/"><u>Immediate Response to Lenovo Flicker Concerns</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>New In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-fixes-without-external-monitors/"><u>NVIDIA Fixes Without External Monitors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-strategic-media-mapping-charting-your-course-against-competitors-videos/"><u>[New] In 2024, Strategic Media Mapping Charting Your Course Against Competitors' Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-optimize-your-online-store-top-15-tools-for-social-media-insight-and-sales-analysis/"><u>[Updated] In 2024, Optimize Your Online Store Top 15 Tools for Social Media Insight and Sales Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-hidden-gems-open-source-art-lists/"><u>2024 Approved Unlocking Hidden Gems Open-Source Art Lists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/codec-clash-determining-the-leader-in-video-quality/"><u>Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispel-darkness-twitch-streaming-troubleshooting/"><u>Dispel Darkness: Twitch Streaming Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-visual-fidelity-with-latest-nvidia-drivers/"><u>Enhance Visual Fidelity with Latest Nvidia Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/exciting-amds-hd-6950-graphics-update-on-windows-11/"><u>Exciting: AMD's HD 6950 Graphics Update on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-troubleshoot-your-microphones-volume-issues/"><u>Fixes & Solutions: How To Troubleshoot Your Microphone's Volume Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/hoe-je-bijna-gelanceerde-website-verbeteren-door-de-kracht-van-png-bestandsextensies-te-profiteren/"><u>Hoe Je Bijna Gelanceerde Website Verbeteren Door De Kracht Van PNG Bestandsextensies Te Profiteren</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-smart-8-plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Smart 8 Plus Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-graphics-overheating-crises-keeping-systems-running/"><u>Preventing Graphics Overheating Crises, Keeping Systems Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-screen-dark-issue/"><u>Radeon Screen Dark Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-silent-gpu-fans-to-life/"><u>Reviving Silent GPU Fans to Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/scale-down-oversized-win-10-interface/"><u>Scale Down: Oversized WIN 10 Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-black-screen-issue-after-win11-fall-update/"><u>Solving Black Screen Issue After Win11 Fall Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-non-functioning-scroll-buttons-in-synaptics-mouse-pad-for-windows-10-users/"><u>Solving Non-Functioning Scroll Buttons in Synaptics Mouse Pad for Windows 10 Users</u></a></li>
 </ul></div>
 

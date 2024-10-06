@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-09-24T21:55:58.892Z
-updated: 2024-10-01T05:22:36.100Z
+date: 2024-10-02T16:56:08.002Z
+updated: 2024-10-06T18:42:42.787Z
 tags:
   - win11
   - win10
@@ -41,19 +41,27 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -61,19 +69,26 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -99,29 +114,22 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -133,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -168,24 +169,14 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>[New] 2024 Approved Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-straightforward-path-to-turn-off-igtv/"><u>[Updated] In 2024, A Straightforward Path to Turn Off IGTV</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>[Updated] In 2024, Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>2024 Approved Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/achieve-remarkable-speed-abbyys-intelligent-document-solution-slashes-invoice-times-by-90/"><u>Achieve Remarkable Speed: ABBYY's Intelligent Document Solution Slashes Invoice Times by 90%</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expedite-smooth-video-experiences/"><u>Expedite Smooth Video Experiences</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flawless-adventures-await-in-updated-apex/"><u>Flawless Adventures Await in Updated Apex</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/increased-productivity/"><u>Increased Productivity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-fix-for-windows-11-supported/"><u>Nvidia Fix for Windows 11 Supported</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realigning-monitor-edge-display/"><u>Realigning Monitor Edge Display</u></a></li>
-<li><a href="https://article-helps.techidaily.com/screencasting-app-performance-examination/"><u>ScreenCasting App Performance Examination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sharpening-upon-rendered-characteristics-in-fc6/"><u>Sharpening Upon Rendered Characteristics in FC6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-technique-for-fresh-intel-graphics-drivers-win7/"><u>Step-By-Step Technique for Fresh Intel Graphics Drivers (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trouble-with-full-screen-windows-on-monitor-11/"><u>Trouble With Full-Screen Windows on Monitor 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/websites-for-downloading-copyright-free-gaming-music/"><u>Websites for Downloading Copyright -Free Gaming Music</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-display-mode-adjustment-achieved/"><u>Win10 Display Mode Adjustment Achieved</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-essential-8-choices-of-tripods-for-4k-cinematography/"><u>2024 Approved Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensure-maximum-performance-new-nvidia-drivers-install/"><u>Ensure Maximum Performance: New Nvidia Drivers Install</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-motorola-g24-power-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola G24 Power Phone Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-galaxy-m14-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Galaxy M14 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srt-deep-dive-knowledge-at-your-fingertips/"><u>In 2024, SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-lack-of-visibility/"><u>Overcoming Lenovo Lack of Visibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817876286-revamp-your-visual-experience-update-intel-gfx-driver-on-windows-10/"><u>Revamp Your Visual Experience - Update Intel GFX Driver on Windows 10!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-system-integration-geforce-7025nforce-630a-in-win10/"><u>Smooth System Integration: GeForce 7025/nForce 630a in Win10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-list-leading-portable-charger-solutions-for-laptops-this-year/"><u>Ultimate List: Leading Portable Charger Solutions for Laptops This Year</u></a></li>
 </ul></div>
 

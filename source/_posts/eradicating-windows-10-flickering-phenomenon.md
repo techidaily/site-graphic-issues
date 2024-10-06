@@ -1,7 +1,7 @@
 ---
 title: Eradicating Windows 10 Flickering Phenomenon
-date: 2024-09-26T00:56:11.779Z
-updated: 2024-10-01T01:13:10.325Z
+date: 2024-10-05T19:05:44.098Z
+updated: 2024-10-06T21:23:14.951Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -39,13 +46,6 @@ Here is how to change the monitor refresh rate:
 1. Right-click on**any empty space** on your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
@@ -71,28 +71,15 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -104,10 +91,10 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
@@ -122,21 +109,16 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
-4. Check if the**screen is flashing** problem has been resolved.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
+4. Check if the**screen is flashing** problem has been resolved.
 
 ---
 
@@ -145,13 +127,6 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -190,11 +165,25 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -223,19 +212,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-top-7-nft-generators-to-turn-your-artwork-into-nfts/"><u>[New] Top 7 NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-essential-handbook-for-incorporating-music-into-ppt/"><u>[Updated] The Essential Handbook for Incorporating Music Into PPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-turing-test-and-envisioning-a-winner/"><u>Decoding the Turing Test & Envisioning a Winner</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-palworld-inside-out/"><u>Discover PalWorld Inside Out</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-crashing-woes-in-fallout-4-on-pc/"><u>End Crashing Woes in Fallout 4 on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-winbluescreen-resolve-wdf-conflict-issues/"><u>Eradicate WinBlueScreen: Resolve WDF Conflict Issues</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-apex-series-select-7-top-fps-games/"><u>In 2024, Apex Series Select 7 Top FPS Games</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-recalibrating-youtube-rearranging-with-ease-and-speed/"><u>In 2024, Recalibrating YouTube Rearranging with Ease and Speed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-win11-easy-intel-3000-driver-installation/"><u>Optimize Win11 - Easy Intel 3000 Driver Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-persistent-flashing-screens-in-computers/"><u>Overcome Persistent Flashing Screens in Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revitalizing-your-pcs-intel-video-with-win7/"><u>Revitalizing Your PC’s Intel Video with Win7</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-frame-drops-a-guide-to-boost-your-games-performance/"><u>Solving the Puzzle of Frame Drops: A Guide to Boost Your Game's Performance</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-insights-and-evaluations-for-your-next-apple-watch-series/"><u>Top Insights and Evaluations for Your Next Apple Watch Series ✨</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-proficiently-follow-facebook-live-updates-for-2024/"><u>[New] How to Proficiently Follow Facebook Live Updates for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experiences-with-the-syma-x8c-drone/"><u>[Updated] Experiences with the Syma X8C Drone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-8-platforms-for-sharing-3d-text-psd-files/"><u>[Updated] The Finest 8 Platforms for Sharing 3D Text PSD Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-film-techniques-for-drones/"><u>2024 Approved Professional Film Techniques for Drones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-youtube-playback-on-newly-upgraded-windows-11/"><u>Enhancing YouTube Playback on Newly Upgraded Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-display-perfection-after-fix/"><u>Ensuring Display Perfection After Fix</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/full-access-your-in-depth-look-at-fcp/"><u>Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-huawei-nova-y71-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Huawei Nova Y71 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-flickering-lcd-issues-on-computers/"><u>Repairing Flickering LCD Issues on Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/setting-save-successful-after-glitch-fix/"><u>Setting Save Successful After Glitch Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gameplay-quick-cure-for-amd-and-tarkov-gaffe/"><u>Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-power-of-irecorder-in-action-for-2024/"><u>The Power of iRecorder in Action for 2024</u></a></li>
 </ul></div>
 

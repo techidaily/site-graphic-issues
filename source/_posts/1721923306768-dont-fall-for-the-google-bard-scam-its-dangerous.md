@@ -1,7 +1,7 @@
 ---
 title: Don't Fall for the Google Bard Scam, It's Dangerous
-date: 2024-09-25T06:24:16.096Z
-updated: 2024-09-30T16:18:24.062Z
+date: 2024-10-05T16:11:50.860Z
+updated: 2024-10-06T21:40:46.752Z
 tags:
   - chatgpt
   - open-ai
@@ -39,11 +39,67 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
+## Why You Shouldn't Download the Google Bard App
+
+ On November 13, 2023, Google announced on its official blog, [The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/), that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on [Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf).
+
+![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
+
+ The scammers created social media pages under account names such as Google AI, AIGoogle Bard FB, and AIGoogleBard and ran advertisements encouraging users to download an app version of Google Bard.
+
+ However, the download is malware that compromises a user's social media login credentials, which the scammers use to take over accounts and spread malware ads. It is unknown how many users have downloaded the malicious version of Google Bard.
+
+ To trick users, the scammers use Google trademarks, such as Google, Google AI, and Bard, and claim to offer the latest version of Google Bard for unsuspecting users to download.
+
+ The scammers, who have no affiliation with Google, specifically used Facebook posts to spread their malware. For instance, the scammers imply their version of Bard is a paid app to download when Google Bard itself is free to use and doesn't require a download.
+
+ Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
+
+## Stick With Google Bard on Your Browser
+
+ If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice; **it's malware**.
+
+ There is no app version of Google Bard at the time of writing, so users should stick to the free web-based version until Google officially announces an app. Until then, use the web-based version and always check the source's reliability before downloading or installing any software.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Scammers are taking advantage of Google's generative AI tool, Bard, to infect unsuspecting users with dangerous malware and steal their login credentials.
+
+ Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Is Google Bard?
+
+[Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to [OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
+
+![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ There are many [ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/). You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
+
+ The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
@@ -51,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
  On November 13, 2023, Google announced on its official blog, [The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/), that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on [Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf).
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -88,19 +151,6 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog, [The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/), that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on [Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf).
@@ -119,13 +169,6 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice; **it's malware**.
@@ -140,11 +183,25 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Google Bard?
 
 [Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to [OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are many [ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/). You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
@@ -169,73 +226,10 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Stick With Google Bard on Your Browser
-
- If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice; **it's malware**.
-
- There is no app version of Google Bard at the time of writing, so users should stick to the free web-based version until Google officially announces an app. Until then, use the web-based version and always check the source's reliability before downloading or installing any software.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Scammers are taking advantage of Google's generative AI tool, Bard, to infect unsuspecting users with dangerous malware and steal their login credentials.
-
- Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## What Is Google Bard?
-
-[Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to [OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
-
-![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
-
- There are many [ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/). You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
-
- The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
-
-## Why You Shouldn't Download the Google Bard App
-
- On November 13, 2023, Google announced on its official blog, [The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/), that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on [Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf).
-
-![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
-
- The scammers created social media pages under account names such as Google AI, AIGoogle Bard FB, and AIGoogleBard and ran advertisements encouraging users to download an app version of Google Bard.
-
- However, the download is malware that compromises a user's social media login credentials, which the scammers use to take over accounts and spread malware ads. It is unknown how many users have downloaded the malicious version of Google Bard.
-
- To trick users, the scammers use Google trademarks, such as Google, Google AI, and Bard, and claim to offer the latest version of Google Bard for unsuspecting users to download.
-
- The scammers, who have no affiliation with Google, specifically used Facebook posts to spread their malware. For instance, the scammers imply their version of Bard is a paid app to download when Google Bard itself is free to use and doesn't require a download.
-
- Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -259,20 +253,15 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/outube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[New] YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-image-perfection-how-to-remove-picture-backdrops-swiftly/"><u>[Updated] In 2024, Digital Image Perfection How To Remove Picture Backdrops Swiftly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-approach-to-convert-webp-images-to-jpeg/"><u>2024 Approved Professional Approach to Convert WebP Images to JPEG</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-screenshake-phenomenon-in-lenovo/"><u>Addressing Screenshake Phenomenon in Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-win-error-resolution-shared/"><u>dxgkrnl.sys Win Error Resolution Shared</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-repairs-no-screen-on-your-nvidia-card/"><u>Effortless Repairs: No Screen on Your NVIDIA Card?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-writers-of-aural-narratives/"><u>Elite Writers of Aural Narratives</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 12 mini or iPad?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-eradicate-green-screen-inaccuracies-in-video-editing/"><u>How To Eradicate Green Screen Inaccuracies in Video Editing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-make-your-asus-screen-sparkle-again/"><u>How to Make Your Asus Screen Sparkle Again</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-simplified-live-streaming/"><u>Mastering the Art of Simplified LIVE Streaming</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-win10-printer-performance-and-speed/"><u>Optimize WIN10 Printer Performance and Speed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-a-gpu-fan-immediate-fixes/"><u>Reviving a GPU Fan: Immediate Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-screens-strategies-for-reducing-flickers/"><u>Smooth Screens: Strategies for Reducing Flickers</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-setting-up-the-mad-titan-sports-addon-in-kodi-v203-nexus-edition/"><u>Step-by-Step Guide to Setting Up the Mad Titan Sports Addon in Kodi V.20.3 - Nexus Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-epic-stories-academy-the-premier-8-list-for-2024/"><u>[Updated] Epic Stories Academy – The Premier 8 List for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>2024 Approved Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-dynamic-duo-videos-on-macos-sierra/"><u>Crafting Dynamic Duo Videos on macOS Sierra</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-rapide-traiter-les-problemes-de-balbutiements-et-dachevement-de-lecture-pour-videos-mkv-sur-pc-et-mac/"><u>Guide Rapide : Traiter Les Problèmes De Balbutiements Et D'achèvement De Lecture Pour Vidéos MKV Sur PC Et Mac.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-undetected-headphones-on-windows-11-devices/"><u>How to Fix Undetected Headphones on Windows 11 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphics-cards-detected-help-needed/"><u>No Graphics Cards Detected, Help Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rebooted-pixel-shader-failure/"><u>Rebooted Pixel Shader Failure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transform-your-pcm-files-into-mp3s-instantly-using-any-studio-no-cost/"><u>Transform Your PCM Files Into MP3s Instantly Using Any Studio - No Cost!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "End the Eclipse: Restoring Lenovo's Color"
-date: 2024-09-24T09:45:05.890Z
-updated: 2024-10-01T10:23:13.236Z
+date: 2024-10-05T21:07:34.695Z
+updated: 2024-10-06T19:23:23.089Z
 tags:
   - win11
   - win10
@@ -33,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -71,10 +71,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -105,6 +105,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -120,10 +127,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
@@ -137,10 +144,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
@@ -169,13 +176,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
@@ -189,10 +189,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
@@ -221,18 +221,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-distinctive-digital-monikers-for-video-creators/"><u>[New] 2024 Approved Distinctive Digital Monikers for Video Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-conquer-chrome-multitasking-learn-to-utilize-pip-effectively/"><u>[New] Conquer Chrome Multitasking Learn to Utilize PIP Effectively</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reclaim-lost-watch-video-preview/"><u>[New] In 2024, Reclaim Lost Watch Video Preview</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-watch-facebook-live-on-your-apple-media-hub/"><u>[Updated] In 2024, How to Watch Facebook Live on Your Apple Media Hub</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-acurite-pro-weather-station-model-01036m-user-friendly-setup-and-reliable-design-reviewed/"><u>Evaluating the AcuRite Pro Weather Station (Model 01036M): User-Friendly Setup & Reliable Design Reviewed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fortnite-pc-stuttering-solved-expert-tips-for-smooth-gameplay/"><u>Fortnite PC Stuttering Solved? Expert Tips for Smooth Gameplay</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/invert-display-window-7-solution/"><u>Invert Display Window 7 Solution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-battery-drained-laptop-screens/"><u>Overcoming Battery-Drained Laptop Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-clarity-mastered-in-windows-11-update/"><u>Screen Clarity Mastered in Windows 11 Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-shiver-in-windows-11/"><u>Stop Screen Shiver in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-13-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 13 Pro 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolving-inpage-fault-issues-in-the-kernel/"><u>Troubleshooting and Resolving Inpage Fault Issues in the Kernel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-stream-fix-after-upgrade/"><u>Windows 10 Stream Fix After Upgrade</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-melodic-masterpieces-top-sites-for-legal-skype-files/"><u>[Updated] In 2024, Melodic Masterpieces Top Sites for Legal Skype Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>2024 Approved IPhone & iPad Video Powerhouses The Ultimate List of 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-dxgkrnlsys-crash-in-windows/"><u>BlueScreen: dxgkrnl.sys Crash in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-screen-upside-down-error-windows-11/"><u>Correcting Screen Upside-Down Error: Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-issue-code-43-now-fixed/"><u>Drivers' Issue Code 43 Now Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-refinement-on-your-laptop-display/"><u>Effortless Edge Refinement on Your Laptop Display</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266210457-effortlessly-remove-notes-on-your-iphone-with-the-stellar-eraser-available-now/"><u>Effortlessly Remove Notes on Your iPhone with the Stellar Eraser - Available Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-clash-win10-and-geforce-7025-in-unity/"><u>Fixed Clash - Win10 & GeForce 7025 in Unity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>In 2024, Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/macbook-pro-13-protection-unveiling-value-and-durability-with-finties-laptop-sleeve-review/"><u>MacBook Pro 13 Protection: Unveiling Value and Durability with Fintie's Laptop Sleeve Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed-for-2024/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-apple-smartphone-savings-in-july-2024-exclusive-offers-spotted/"><u>Top Apple Smartphone Savings in July 2024: Exclusive Offers Spotted</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991603015-update-error-in-discord-problem-solved-with-latest-fix/"><u>Update Error in Discord? Problem Solved with Latest Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-achieving-perfect-switchable-gpu-harmony/"><u>Windows 10: Achieving Perfect Switchable GPU Harmony</u></a></li>
 </ul></div>
 

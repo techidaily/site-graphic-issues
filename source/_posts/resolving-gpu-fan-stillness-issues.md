@@ -1,7 +1,7 @@
 ---
 title: Resolving GPU Fan Stillness Issues
-date: 2024-09-25T00:32:19.326Z
-updated: 2024-10-01T11:40:55.054Z
+date: 2024-10-04T19:25:25.249Z
+updated: 2024-10-06T16:31:45.089Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure all cables are plugged in
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
@@ -87,33 +80,27 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all your drivers, restart your PC and check if the fans spin now.
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
 
@@ -125,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
@@ -139,13 +133,20 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -155,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -186,15 +180,24 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nmatched-convert-experience-premier-online-ytvideo-tools/"><u>[New] Unmatched Convert Experience Premier Online YTVideo Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-avoiding-legal-issues-best-practices-for-zoom-records/"><u>[Updated] In 2024, Avoiding Legal Issues Best Practices for Zoom Records</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capturing-your-browsing-journey-top-2023-web-recorder-software-for-2024/"><u>Capturing Your Browsing Journey Top 2023 Web Recorder Software for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cease-window-11-screen-flashing/"><u>Cease Window 11 Screen Flashing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-broadcom-gige-driver-for-windows-11-issue-resolved/"><u>Download and Update Broadcom GigE Driver for Windows 11: Issue Resolved!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-roundup-and-testing-of-high-end-120mm-aio-coolers-by-be-quiet-corsair-and-more/"><u>Expert Roundup and Testing of High-End 120Mm AIO Coolers by Be Quiet, Corsair, and More</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-game-lag/"><u>Quick Fix for Game Lag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilized-visual-output-on-dell-workstation-pcs/"><u>Stabilized Visual Output on Dell Workstation PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-mpeg-streamer-issues-on-latest-win11/"><u>Tackling MPEG Streamer Issues on Latest Win11</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-12-herramientas-esenciales-para-optimizar-la-claridad-de-tu-contenido-audiovisual/"><u>Top 12 Herramientas Esenciales Para Optimizar La Claridad De Tu Contenido Audiovisual</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-halo-ones-dx12-failure-at-launching/"><u>[FIX] Halo One's DX12 Failure at Launching</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-spectacular-gopro-time-lapses-made-easy/"><u>[New] Crafting Spectacular GoPro Time-Lapses Made Easy</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-inside-the-headset-comprehensive-vr-gear-analysis/"><u>[New] In 2024, Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-surge-video-popularity-with-essential-seo-aids/"><u>[New] In 2024, Surge Video Popularity with Essential SEO Aids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-direct-screens-capture-chromeos-edition-for-2024/"><u>[Updated] Direct Screens Capture ChromeOS Edition for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-do-shopping-blogs-have-a-payment-scheme-for-reports-for-2024/"><u>[Updated] Do Shopping Blogs Have a Payment Scheme for Reports for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029547136-clipbox/"><u>Clipboxにて再生・ダウンロードに失敗する際の解決方法</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/combining-security-effortlessly-an-insightful-overview-of-the-arlo-video-doorbell-with-built-in-alarm-features/"><u>Combining Security Effortlessly: An Insightful Overview of the Arlo Video Doorbell with Built-In Alarm Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discard-bad-drivers-to-prevent-game-breakdown/"><u>Discard Bad Drivers to Prevent Game Breakdown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-specs-for-optimal-intell-driver-use/"><u>Enhancing PC Specs for Optimal Intell Driver Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-volta-driver/"><u>Finding the Hidden Volta Driver</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/initialization-of-visual-framework-stalled/"><u>Initialization of Visual Framework Stalled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-clarity-the-world-of-4k/"><u>Mastering the Art of Clarity: The World of 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-brightness-to-twitch-video-playback/"><u>Restoring Brightness to Twitch Video Playback</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-to-flawless-zoom-screen-sharing/"><u>Step-by-Step Guide to Flawless Zoom Screen Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-facilement-un-mp4-en-video-flash-flv-sans-frais-movavi/"><u>Transformez Facilement Un MP4 en Vidéo Flash (FLV) Sans Frais - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-down-amd-graphics-problems-tarkov/"><u>Trim Down AMD Graphics Problems - Tarkov</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-quiet-displays/"><u>Unveiling Secrets to Quiet Displays</u></a></li>
 </ul></div>
 

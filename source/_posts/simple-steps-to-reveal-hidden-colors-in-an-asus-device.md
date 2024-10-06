@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Reveal Hidden Colors in an Asus Device
-date: 2024-09-28T23:27:09.047Z
-updated: 2024-10-01T03:55:38.347Z
+date: 2024-10-02T19:45:07.418Z
+updated: 2024-10-06T18:45:10.527Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Reset the display mode
 
@@ -58,6 +65,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -72,13 +86,6 @@ Here is how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -99,14 +106,14 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable fast startup
 
@@ -118,6 +125,13 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
@@ -127,23 +141,9 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Still got a black screen? Please try **Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a system restore
 
@@ -152,15 +152,16 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press the **Windows logo key** and type **system restore** , then click on **Create a restore point** once it shows up as a matching result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
-![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
-3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
@@ -169,19 +170,19 @@ So you can try disabling fast startup to see if it does the trick:
 5. Follow the on-screen instructions to complete the system restore process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer to see if the black screen issue has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
@@ -221,22 +222,17 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-vlogging-101-techniques-for-a-polished-look/"><u>[New] GoPro Vlogging 101 Techniques for a Polished Look</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-top-choice-elite-videographer-tool-for-vimeo-for-2024/"><u>[New] Top Choice Elite Videographer Tool for Vimeo for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>[Updated] Enhancing Professionalism Blurring TeamBackgrounds Effectively</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-story-expertise-your-ultimate-resource-for-2024/"><u>[Updated] Instagram Story Expertise Your Ultimate Resource for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-conversion-techniques-from-myspace-tunes-to-mp3-files/"><u>Effortless Conversion Techniques From MySpace Tunes to MP3 Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-cominterface-issue-with-precision/"><u>Fixing Windows COMInterface Issue with Precision</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-5-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 5 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-class-engagement-with-visual-media-usage/"><u>In 2024, Optimizing Class Engagement with Visual Media Usage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/initial-graphical-system-unresponsive/"><u>Initial Graphical System Unresponsive</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-visibility-after-driver-update/"><u>No Visibility After Driver Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-blackout-mystery/"><u>NVIDIA Blackout Mystery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-d3d-initialization-setbacks/"><u>Overcoming D3D Initialization Setbacks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/playback-problem-why-cant-i-watch-video-on-sony-a6400/"><u>Playback Problem Why Can't I Watch Video on Sony A6400?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-meizu-21-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Meizu 21 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-anthem-delays/"><u>Troubleshoot Anthem Delays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-nvidia-driver-issue-settled/"><u>Windows 11, NVidia Driver Issue Settled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wnddevice-creation-now-smooth/"><u>WndDevice Creation Now Smooth</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>[New] 2024 Approved From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-audio-mastery-in-visual-storytelling-vimeo-edition/"><u>[New] In 2024, Audio Mastery in Visual Storytelling Vimeo Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859923158-new-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] Next-Gen Online Meeting Apps Azoom No More!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>2024 Approved Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-walkthrough-fresh-nvme-drivers-download-and-installation-on-windows/"><u>Complete Walkthrough: Fresh NVMe Drivers Download & Installation on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818280780-elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-resilient-anker-beacon-of-light-a-critical-review-of-its-bright-torch-performance-outdoors/"><u>Evaluating the Resilient Anker Beacon of Light - A Critical Review of Its Bright Torch Performance Outdoors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-system-failure-to-launch/"><u>Graphics System Failure to Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-fault-recovered-and-running-smoothly/"><u>IGFX Fault: Recovered and Running Smoothly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-visibility-bring-back-the-lost-screen-signal/"><u>Instant Visibility: Bring Back the Lost Screen Signal</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>New Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-wobbly-laptop-monitor-edges/"><u>Resolve Wobbly Laptop Monitor Edges</u></a></li>
 </ul></div>
 

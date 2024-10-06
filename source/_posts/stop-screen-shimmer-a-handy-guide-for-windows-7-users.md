@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Shimmer – A Handy Guide for Windows 7 Users
-date: 2024-09-25T13:21:35.653Z
-updated: 2024-09-30T19:54:57.229Z
+date: 2024-10-04T17:46:00.841Z
+updated: 2024-10-06T19:50:20.786Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -68,20 +75,22 @@ To troubleshoot these hardware issues:
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
@@ -102,44 +111,30 @@ To troubleshoot these hardware issues:
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -174,20 +169,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-directvid-snapper-for-video-calls/"><u>[New] In 2024, DirectVid Snapper for Video Calls</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-a-teachers-journey-through-multimedia-educational-practices/"><u>[Updated] A Teacher’s Journey Through Multimedia Educational Practices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-insider-guide-elevating-your-instagram-imagery-for-2024/"><u>[Updated] The Insider Guide Elevating Your Instagram Imagery for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-with-updated-intel-hd-graphics-driver/"><u>Boost Your PC with Updated Intel HD Graphics Driver</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-t2x-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo T2x 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-11-proplus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme 11 Pro+ Phone Screen?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-surface-wont-charge-a-step-by-step-guide/"><u>How to Resolve When Your Surface Won't Charge: A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-zte-nubia-flip-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 ZTE Nubia Flip 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/patched-amds-graphics-issues-r9-now-fixed-on-w10/"><u>Patched AMD's Graphics Issues: R9 Now Fixed on W10</u></a></li>
-<li><a href="https://win-able.techidaily.com/six-quick-solutions-to-prevent-constant-minecraft-game-crashes/"><u>Six Quick Solutions to Prevent Constant Minecraft Game Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-system-freeze-repair-wdf-api-crashes-in-winos/"><u>Stop System Freeze: Repair WDF API Crashes in WinOS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turning-black-out-blank-screens-back-on-fast-asus/"><u>Turning Black-Out Blank Screens Back on, Fast! (Asus)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-high-dpi-settings-on-latest-window-11-update/"><u>Unlock High-DPI Settings on Latest Window 11 Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-video-glitches-resolution/"><u>Windows 10 Video Glitches Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-hassle-fix-laptops-horizontal-borders/"><u>Zero Hassle: Fix Laptop's Horizontal Borders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-melodies-with-a-twist-funny-tone-websites-listed/"><u>[Updated] 2024 Approved Melodies with a Twist Funny Tone Websites Listed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>[Updated] Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-battle-royale-hero5-b-stacked-against-session/"><u>2024 Approved GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-no-more-crashing-just-conquering/"><u>Apex Legends: No More Crashing, Just Conquering</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-logitech-speaker-software-updates-for-your-pc-windows-1078/"><u>Get the Newest Logitech Speaker Software Updates for Your PC (Windows 10/7/8)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-module-doesnt-start-up/"><u>Graphics Module Doesn't Start Up</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-leverage-igs-busiest-hours-for-your-content/"><u>How to Leverage IG's Busiest Hours for Your Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-shader-compilation-stuck-point-in-cod-black-ops-cold-war/"><u>How to Overcome Shader Compilation Stuck Point in COD: Black Ops Cold War</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-the-high-definition-journey-to-4k/"><u>Illuminating the High Definition Journey to 4K</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 80 Pro Straight Screen Edition Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-to-television-reconnect-overcoming-hdmi-deadlock/"><u>Laptop-to-Television Reconnect: Overcoming HDMI Deadlock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-level-gaming-new-gpu-drivers-on-w11-from-amd-radeon-hd-6950/"><u>Next Level Gaming - New GPU Drivers on W11, From AMD Radeon HD 6950</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-solutions-to-resolve-your-dvd-players-pink-screen-issue/"><u>Quick Solutions to Resolve Your DVD Player's Pink Screen Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-art-issue-sorted-for-windows-users/"><u>Screen Art Issue Sorted for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-screens-your-guide-to-peace/"><u>Silent Screens: Your Guide to Peace</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-start-direct3d-engaged/"><u>Smooth Start: Direct3D Engaged</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-instagram-delay-issues-6-effective-tips-for-iphones-and-andriods/"><u>Solve Your Instagram Delay Issues: 6 Effective Tips for iPhones & Andriods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-extended-visual-display-with-windows-10-tweaks/"><u>Streamlining Extended Visual Display with Windows 10 Tweaks</u></a></li>
+<li><a href="https://facebook.techidaily.com/terrifying-realities-in-metas-media-empire/"><u>Terrifying Realities in Meta’s Media Empire</u></a></li>
 </ul></div>
 

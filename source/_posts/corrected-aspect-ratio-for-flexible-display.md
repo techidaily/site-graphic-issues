@@ -1,7 +1,7 @@
 ---
 title: Corrected Aspect Ratio for Flexible Display
-date: 2024-09-26T12:45:09.523Z
-updated: 2024-09-30T22:33:17.592Z
+date: 2024-10-04T17:57:36.473Z
+updated: 2024-10-06T21:39:22.010Z
 tags:
   - win11
   - win10
@@ -36,16 +36,10 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -56,17 +50,24 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-This should restore your laptop screen.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+This should restore your laptop screen.
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -82,21 +83,14 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -119,16 +113,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screensnap-chromecast-quick-video-capture/"><u>[New] 2024 Approved ScreenSnap Chromecast Quick Video Capture</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-crafting-instagram-content-with-visual-flair/"><u>[New] Crafting Instagram Content with Visual Flair</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[New] In 2024, Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypass-game-lag-in-anthem/"><u>Bypass Game Lag in Anthem</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-4k-video-sharpness/"><u>Demystifying 4K Video Sharpness</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-galaxy-s10plus-stand-against-its-successor-the-s20-insights-and-reviews/"><u>How Does the Samsung Galaxy S10+ Stand Against Its Successor, the S20? Insights and Reviews</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/making-microsofts-basic-driver-more-reliable/"><u>Making Microsoft's Basic Driver More Reliable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-hdmi-link-between-notebook-and-television/"><u>Restoring HDMI Link Between Notebook & Television</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revived-infinity-sapphire-probe/"><u>Revived Infinity Sapphire Probe</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-enigma-of-direct-x-ends-with-a-patch-in-lol/"><u>The Enigma of Direct X Ends with a Patch in LoL</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-audio-a-rapid-guide-on-converting-mp4-files-to-wave-format/"><u>Transforming Audio: A Rapid Guide on Converting MP4 Files to Wave Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-premier-programs-to-transform-webcam-footage/"><u>[New] In 2024, Premier Programs to Transform Webcam Footage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-epic-echoes-academy-superlative-seventeen-for-2024/"><u>[Updated] Epic Echoes Academy – Superlative Seventeen for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-rated-dj-templates-free-access-for-music-makers/"><u>[Updated] Top-Rated DJ Templates Free Access for Music Makers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comparative-journey-through-the-top-10-tv-streamers/"><u>2024 Approved A Comparative Journey Through the Top 10 TV Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-reviving-a-darkened-asus-machine/"><u>Brighten Up: Reviving a Darkened Asus Machine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-flaw-rectified-for-peak-performance-gains/"><u>Direct3D Flaw Rectified for Peak Performance Gains</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-lenovo-laptop-shadows-and-dimming/"><u>Fixing Lenovo Laptop Shadows & Dimming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-support-failure-noted/"><u>Graphics Support Failure Noted</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-personalize-wins-standard-cli-application/"><u>How To Personalize Win’s Standard CLI Application</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-without-password-by-drfone-android/"><u>How To Unlock Realme C51 Phone Without Password?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-g42-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia G42 5G FRP Without Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-failed-graphics-init/"><u>No More Failed Graphics Init</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-compatibility-issues-the-complete-guide-to-correcting-acer-graphics-and-device-drivers/"><u>Overcoming Compatibility Issues: The Complete Guide to Correcting Acer Graphics and Device Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-monitor-configuration-for-nvidia-graphics/"><u>Restoring Monitor Configuration for NVIDIA Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-drivers-elevate-geforce-210-experience-on-windows-11/"><u>Revamped Drivers Elevate GeForce 210 Experience on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-fixed-direct3d-failures/"><u>Unveiling Fixed Direct3D Failures</u></a></li>
 </ul></div>
 

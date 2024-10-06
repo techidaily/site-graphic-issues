@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 10 Res Scale Faults
-date: 2024-08-15T07:25:36.060Z
-updated: 2024-08-16T07:25:36.060Z
+date: 2024-10-01T16:48:18.071Z
+updated: 2024-10-06T21:53:57.088Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -56,8 +53,12 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -67,15 +68,16 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R**  at the same time, type **devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
@@ -89,8 +91,12 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -104,15 +110,25 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -137,8 +153,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +160,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-video-summary-aesthetics-neons-included/"><u>[New] Elevate Your Video Summary Aesthetics - Neons Included</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-10-subtitle-editing-software-online/"><u>[Updated] Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-spotting-a-block-snapchat-notifications-gone-mute-for-2024/"><u>[Updated] Spotting a Block Snapchat Notifications Gone Mute for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cracked-code-direct-x-quirk-no-longer-lurks-in-lol/"><u>Cracked Code: Direct X Quirk No Longer Lurks in LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-glitch-code-43-overcome/"><u>Drivers' Glitch Code 43 Overcome</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-solution-stop-pc-crashes-in-fallout-4/"><u>Easy Solution: Stop PC Crashes in Fallout 4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancinas-microsofts-windows-core-functions/"><u>Enhancinas Microsoft's Windows Core Functions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-insights-on-streaming-games-using-microsofts-xbox-game-pass-ultimate/"><u>Essential Insights on Streaming Games Using Microsoft's Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-and-curing-screen-flashes-in-dell-computers/"><u>Fixing and Curing Screen Flashes in Dell Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-bios-routes-in-msi-windows-os/"><u>Fixing BIOS Routes in MSI Windows OS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-art-of-acceleration-a-comprehensive-guide-to-time-lapse-video-software/"><u>In 2024, The Art of Acceleration A Comprehensive Guide to Time Lapse Video Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-solutions-to-a-malfunctioning-igfxem-module/"><u>Overcoming Challenges: Solutions to a Malfunctioning iGFXem Module</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-automatic-shutdown-timer/"><u>Techniques to Prevent Automatic Shutdown Timer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/triumph-in-technicality-smooth-run-for-nvidia-nforce-630a/"><u>Triumph in Technicality: Smooth Run for Nvidia, nForce 630A</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-creative-potential-with-ig-reel-slow-motion/"><u>Unlocking Creative Potential with IG Reel Slow-Motion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-screen-flashing-or-flickering-solved/"><u>Windows 11 Screen Flashing Or Flickering [SOLVED]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-3-overcoming-pc-performance-issues-and-stability-problems-improved/"><u>Yakuza 3 - Overcoming PC Performance Issues and Stability Problems ([IMPROVED])</u></a></li>
+</ul></div>
 

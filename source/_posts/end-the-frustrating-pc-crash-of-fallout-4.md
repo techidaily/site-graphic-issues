@@ -1,7 +1,7 @@
 ---
 title: End the Frustrating PC Crash of Fallout 4
-date: 2024-09-25T23:29:04.811Z
-updated: 2024-10-01T00:12:52.518Z
+date: 2024-10-03T17:40:58.974Z
+updated: 2024-10-06T20:21:27.847Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -39,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 4) Restart your computer and open your Fallout 4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 If the issue persists, try the following method.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Configure settings in your Fallout 4**
@@ -120,10 +120,10 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
@@ -149,20 +149,18 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-consumers-blueprint-mastering-the-art-of-purchasing-and-setting-up-your-dream-tv-at-home/"><u>A Consumer’s Blueprint: Mastering the Art of Purchasing and Setting Up Your Dream TV at Home</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/accelerating-your-videos-in-5-simple-steps-a-guide-to-creating-quicker-clips/"><u>Accelerating Your Videos in 5 Simple Steps: A Guide to Creating Quicker Clips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-100-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor 100 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/immerse-in-the-world-of-tamriel-with-instant-skyrim-gameplay-on-geforce-now-platform/"><u>Immerse in the World of Tamriel with Instant Skyrim Gameplay on GeForce Now Platform.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-9-windows-gif-capture-tools-perfect-animation-preservation/"><u>In 2024, Top 9 Windows GIF Capture Tools Perfect Animation Preservation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-why-your-youtube-comments-may-not-appear/"><u>Troubleshooting Guide: Why Your YouTube Comments May Not Appear</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch-for-2024/"><u>[New] Stream Like a Pro Top 5 Cams Revolutionizing Live Broadcasts on Twitch for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-and-share-your-win10-gaming-life/"><u>[Updated] 2024 Approved Capture and Share Your Win10 Gaming Life</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mac-masters-choice-top-10-incredible-4k-displays/"><u>2024 Approved Mac Master's Choice Top 10 Incredible 4K Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-dormant-screen-at-work-steps-for-revival/"><u>A Dormant Screen at Work: Steps for Revival</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bad-video-card-drivers-crash-minecraft-on-windows-solved/"><u>Bad Video Card Drivers Crash Minecraft on Windows [Solved]</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-11-free-downloads-of-3d-films-top-websites-with-high-quality-3d-blu-ray-sbs-movie-content/"><u>Best 11 Free Downloads of 3D Films: Top Websites with High-Quality 3D Blu-Ray SBS Movie Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disabled-gpu-how-to-turn-it-on-for-windows-1011/"><u>Disabled GPU - How to Turn It On for Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-techniques-for-creating-full-sphere-photos/"><u>In 2024, Ultimate Techniques for Creating Full-Sphere Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/one-airpod-not-working-how-to-fix-it/"><u>One Airpod Not Working How to Fix It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-correct-error-code-c1900101-when-installing-windows-11/"><u>Steps to Correct Error Code C1900101 When Installing Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stop-video-error-at-0xc00d36c4-glitch/"><u>Stop Video Error at 0XC00D36C4 Glitch</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winerror-unhandled-exception-wdf-blue-screen/"><u>WinError: Unhandled Exception, WDF Blue Screen</u></a></li>
 </ul></div>
 

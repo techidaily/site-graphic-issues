@@ -1,7 +1,7 @@
 ---
 title: "Screen Issue: Only Partial Window on Monitor"
-date: 2024-08-22T13:31:28.769Z
-updated: 2024-08-23T13:31:28.769Z
+date: 2024-10-04T16:50:13.743Z
+updated: 2024-10-06T19:28:42.323Z
 tags:
   - win11
   - win10
@@ -39,8 +39,12 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -53,16 +57,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
@@ -75,33 +73,45 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  8) Now restart your computer and see if your monitor displays the full screen.
 
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  Your full-screen issue has something to do with your graphics card. If your graphics card driver is missing or outdated, your monitor may not display full screen. To rule out the cause of your issue, you should update your video card driver to the latest version.
@@ -128,6 +138,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
@@ -144,9 +161,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
@@ -156,15 +170,35 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5) Re-launch the application and try full-screen to see if it works.
 
 Still no luck? Okay, there is one more thing to try.
@@ -190,8 +224,6 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,8 +231,23 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/lueprint-for-broadcasting-breaks/"><u>[New] Blueprint for Broadcasting Breaks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mp4-file-capture-comparative-study-and-reviews/"><u>[New] In 2024, MP4 File Capture Comparative Study & Reviews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximizing-youtube-visibility-with-key-hashtags/"><u>[Updated] 2024 Approved Maximizing YouTube Visibility with Key #Hashtags</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>[Updated] 2024 Approved Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-in-twitch-streams/"><u>Bring Back the Colors in Twitch Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/constructing-a-compelling-docu-script-a-stepwise-approach/"><u>Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-fixes-for-fallout-4-on-your-computer/"><u>Efficient Fixes for Fallout 4 on Your Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-reversed-screens-in-windows-11/"><u>Fixing Reversed Screens in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-does-the-system-restore-feature-work-in-windows-11/"><u>How Does the System Restore Feature Work in Windows 11?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-launching-successful-online-gaming-shows-on-youtube/"><u>In 2024, Launching Successful Online Gaming Shows on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-meizu-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Meizu Phones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-graphics-not-functional-on-windows-1011/"><u>Laptop Graphics Not Functional on Windows 10/11?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-back-online-after-hiccup/"><u>Nvidia Driver: Back Online After Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-void-after-graphic-installation/"><u>Silent Void After Graphic Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-laptops-misaligned-vertical-lines/"><u>Swift Fix for Laptop's Misaligned Vertical Lines</u></a></li>
+<li><a href="https://win-guides.techidaily.com/turn-back-time-for-your-legacy-computer-top-5-tricks-to-resurrect-and-save-money-using-windows/"><u>Turn Back Time for Your Legacy Computer: Top 5 Tricks to Resurrect and Save Money Using Windows</u></a></li>
+</ul></div>
 

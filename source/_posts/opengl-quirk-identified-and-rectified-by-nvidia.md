@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-09-23T20:32:58.010Z
-updated: 2024-09-30T16:25:12.873Z
+date: 2024-09-29T21:47:44.978Z
+updated: 2024-10-06T17:41:36.686Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -58,10 +65,10 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
@@ -82,13 +89,6 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -100,22 +100,15 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -123,6 +116,19 @@ See how to do it:
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
@@ -152,18 +158,17 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-downloading-youtube-srt-simplified-with-3-ways/"><u>[New] 2024 Approved Downloading YouTube (SRT) Simplified with 3 Ways</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube-for-2024/"><u>[Updated] Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnose-and-repair-computers-non-detection-of-vga/"><u>Diagnose & Repair: Computer's Non-Detection of VGA</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-restoring-compatibility-overcoming-the-26nci-wia-driver-usb-problem/"><u>Expert Tips for Restoring Compatibility: Overcoming the 26nCi WIA Driver-USB Problem</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-most-durable-and-comfortable-mechanical-keyboards-for-2t38iners-a-2024-showcase/"><u>Exploring the Most Durable and Comfortable Mechanical Keyboards for 2T38iners - A 2024 Showcase</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-dpi-settings-with-latest-windows-11-release/"><u>Mastering DPI Settings with Latest Windows 11 Release</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-path-to-group-departure-with-tact/"><u>Navigating the Path to Group Departure with Tact</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-achieving-perfect-intonation-in-audacity-maintaining-high-quality-output/"><u>New In 2024, Achieving Perfect Intonation in Audacity Maintaining High-Quality Output</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/precision-planning-of-collaborative-slack-plus-filmora-meetings/"><u>Precision Planning of Collaborative Slack + Filmora Meetings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-switchable-graphics-error/"><u>Successful Resolution of Switchable Graphics Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tactics-for-eradicating-blinking-screens-hp/"><u>Tactics for Eradicating Blinking Screens (HP)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-unavailable-display-modes/"><u>Troubleshooting Unavailable Display Modes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-an-in-depth-guide-to-every-element-of-srt/"><u>[New] 2024 Approved An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cadence-and-codes-a-mac-studio-journey/"><u>[New] Cadence and Codes A Mac Studio Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-glimmering-glides-of-2022s-speed-skaters/"><u>[New] Glimmering Glides of 2022'S Speed Skaters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-iphone-image-editing-mastering-photo-cropping-tools-for-2024/"><u>[New] IPhone Image Editing Mastering Photo Cropping Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximize-engagement-the-ultimate-list-of-youtube-growth-tactics-for-2024/"><u>[Updated] Maximize Engagement The Ultimate List of YouTube Growth Tactics for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/compress-win-10-screen-size/"><u>Compress WIN 10 Screen Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptops-absence-of-signal-for-tv-display/"><u>Fixing Laptop's Absence of Signal for TV Display</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-playback-glitches-in-phasmophobia-a-comprehensive-fix/"><u>Overcoming Playback Glitches in Phasmophobia - A Comprehensive Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-windows-10-flash-disparities/"><u>Reconciling Windows 10 Flash Disparities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rehabilitating-non-functional-asus-cameras/"><u>Rehabilitating Non-Functional Asus Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-the-setup-issue-of-c1900101-for-win10-success/"><u>Remedy the Setup Issue of C1900101 for Win10 Success</u></a></li>
 </ul></div>
 

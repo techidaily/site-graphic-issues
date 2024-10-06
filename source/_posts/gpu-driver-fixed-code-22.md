@@ -1,7 +1,7 @@
 ---
 title: "GPU Driver Fixed: Code 22"
-date: 2024-08-15T07:25:38.172Z
-updated: 2024-08-16T07:25:38.172Z
+date: 2024-09-29T17:16:50.000Z
+updated: 2024-10-06T16:50:09.360Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -44,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/b7b3d8c39a821649dc44d49c09139a20a97e41dfc
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -56,34 +60,41 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -102,9 +113,6 @@ The powerful video editing program for your Windows PC</a>
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -118,8 +126,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +133,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-simplifying-complex-moves/"><u>'God of War': Simplifying Complex Moves</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>[New] In 2024, Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-perfecting-your-videos-narrative-integrating-timestamps-smartly/"><u>[Updated] Perfecting Your Video's Narrative Integrating Timestamps Smartly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-flawless-video-thumbnails-instantly/"><u>[Updated] Unlock Flawless Video Thumbnails Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctupsidedownscreens/"><u>CorrectUpsideDownScreens</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/disseminating-tweeted-videos-on-the-worlds-biggest-social-site-for-2024/"><u>Disseminating Tweeted Videos on the World's Biggest Social Site for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-laptops-warped-display-lines-painlessly/"><u>Ease Laptop's Warped Display Lines Painlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-switchable-gpu-woes-nvidiaintel-fix-on-win10/"><u>Ending Switchable GPU Woes: Nvidia/Intel Fix on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-corrected-in-display-driver-recovery-achieved/"><u>Error Corrected in Display Driver: Recovery Achieved</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-red-magic-8s-proplus-by-fonelab-android-recover-video/"><u>How to recover old videos from your Red Magic 8S Pro+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-s18e-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo S18e Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-lenovo-chromebook-duet-an-economical-convertible-device/"><u>In-Depth Look at the Lenovo Chromebook Duet: An Economical Convertible Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/render-engine-failed-to-initialize/"><u>Render Engine Failed to Initialize</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-non-displaying-full-screen-in-windows-11-pcs/"><u>Resolve: Non-Displaying Full Screen in Windows 11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-vertical-edges-misalignment-in-laptop-screens/"><u>Troubleshoot Vertical Edges Misalignment in Laptop Screens</u></a></li>
+</ul></div>
 

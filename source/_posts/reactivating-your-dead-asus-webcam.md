@@ -1,7 +1,7 @@
 ---
 title: Reactivating Your Dead ASUS Webcam
-date: 2024-08-22T13:28:22.513Z
-updated: 2024-08-23T13:28:22.513Z
+date: 2024-10-05T17:46:51.745Z
+updated: 2024-10-06T20:47:16.244Z
 tags:
   - win11
   - win10
@@ -50,15 +50,16 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 3\. Update the webcam driver
 
  If the system settings are not blocking your camera, the main reason why your Asus camera is not working is an outdated/faulty webcam driver.
@@ -73,14 +74,29 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -92,9 +108,6 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
  On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run command.
@@ -104,13 +117,12 @@ After updating your drivers, restart your PC and test the camera.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
  3) Right-click **Integrated Camera** and select **Uninstall device** .
@@ -135,8 +147,6 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,8 +154,20 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-avoid-infringement-checking-your-tiktok-content-for-rights-for-2024/"><u>[New] Avoid Infringement Checking Your TikTok Content for Rights for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>[Updated] The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-how-to-access-geoblocked-videos-worldwide-solve-the-this-video-is-not-available-error/"><u>1. How to Access Geoblocked Videos Worldwide: Solve the 'This Video Is Not Available' Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-heat-management-for-your-graphics-card-types-and-reviews-of-gpu-coolers/"><u>Choosing the Right Heat Management for Your Graphics Card: Types and Reviews of GPU Coolers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-place-among-mirrorless-cameras-for-videos-for-2024/"><u>DSLR's Place Among Mirrorless Cameras for Videos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y78-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y78 5G? Try These Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fps-boost-top-6-tips/"><u>FPS Boost [Top 6 Tips]</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-logitech-mice-for-gamers/"><u>Game-Changing Logitech Mice for Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gtx-950-code-43-error-on-windows-10-solved/"><u>GTX 950 Code 43 Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-amd-graphics-card-failure-detection-on-windows-11-devices/"><u>How to Fix AMD Graphics Card Failure Detection on Windows 11 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-an-undetected-amd-gpu-in-windows-1nvite/"><u>How to Fix an Undetected AMD GPU in Windows 1Nvite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-13-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 13 Pro 5G Phone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reviving Stalled GPU Fan Operation
-date: 2024-08-22T13:26:23.288Z
-updated: 2024-08-23T13:26:23.288Z
+date: 2024-10-03T21:15:16.218Z
+updated: 2024-10-06T17:28:07.426Z
 tags:
   - win11
   - win10
@@ -47,29 +47,34 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  More often than not, you’re actually dealing with a driver issue. The fans not spinning issue could mean that you’re using**a broken or outdated graphics driver** . To rule out this possibility, always make sure you’re using the latest correct computer drivers.
@@ -84,13 +89,30 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all your drivers, restart your PC and check if the fans spin now.
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
 
@@ -100,11 +122,23 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 2. Open MSI Afterburner. At the bottom right corner, click the A icon to toggle auto control.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
 ### Fix 5: Scan and repair your system
@@ -119,14 +153,8 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Upgrade your GPU BIOS
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
@@ -147,8 +175,6 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,8 +182,22 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/treamline-your-youtube-videos-in-windows-movie-maker/"><u>[New] Streamline Your YouTube Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unlocking-youtube-success-seo-strategies-for-videos-for-2024/"><u>[Updated] Unlocking YouTube Success SEO Strategies for Videos for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-tactical-edition-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 Tactical Edition FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-down-on-game-delay-instances/"><u>Cut Down On Game Delay Instances</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-setback-eliminated-full-gaming-power-unlocked/"><u>Direct3D Setback Eliminated: Full GAMING Power Unlocked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-on-screen-the-years-best-camcorders-reviewed-for-2024/"><u>Excellence on Screen The Year's Best Camcorders Reviewed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-ingenuity-funnyflick-studio-for-2024/"><u>Image Ingenuity FunnyFlick Studio for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-12-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 12 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-synergy-in-copywriting-the-trio-technique-to-boost-your-fb-campaigns-performance/"><u>In 2024, Synergy in Copywriting The Trio Technique to Boost Your FB Campaign's Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-c1900101-during-windows-11-os-setup/"><u>Prevent and Resolve C1900101 During Windows 11 OS Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-distorted-displays-within-windows-10-systems/"><u>Realigning Distorted Displays Within Windows 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenshots-no-more-blank-spells-on-my-laptop/"><u>Screenshots No More Blank Spells on My Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silencing-screenscape-shenanigans-in-pro-7/"><u>Silencing Screenscape Shenanigans in Pro 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-inkjet-printer-drivers-complete-guide-for-models-like-the-mg3620mg3920/"><u>Update Your Canon Inkjet Printer Drivers: Complete Guide for Models Like the MG3620/MG3920</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-unite-without-problems/"><u>Windows & NVidia Unite Without Problems</u></a></li>
+</ul></div>
 

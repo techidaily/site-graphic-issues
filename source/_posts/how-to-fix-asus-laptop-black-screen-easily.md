@@ -1,7 +1,7 @@
 ---
 title: How To Fix Asus Laptop Black Screen Easily
-date: 2024-09-26T05:24:28.726Z
-updated: 2024-09-30T23:49:05.820Z
+date: 2024-09-30T21:53:35.088Z
+updated: 2024-10-06T20:32:26.086Z
 tags:
   - win11
   - win10
@@ -30,20 +30,27 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Asus laptop
 
@@ -80,13 +87,6 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
@@ -118,38 +118,39 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still got a black screen? Please try **Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a system restore
 
@@ -162,13 +163,6 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
 
@@ -176,13 +170,20 @@ So you can try disabling fast startup to see if it does the trick:
 5. Follow the on-screen instructions to complete the system restore process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer to see if the black screen issue has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
 
@@ -221,16 +222,18 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-tailor-your-media-auto-scaling-videos-for-instagram-via-macos-for-2024/"><u>[New] Tailor Your Media Auto-Scaling Videos for Instagram via MacOS for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[Updated] 2024 Approved Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-top-camcorders-to-consider-in-depth-analysis/"><u>[Updated] The Top Camcorders to Consider – In-Depth Analysis</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-5-accessories-for-beneath-water-shooting/"><u>2024 Approved Top 5 Accessories for Beneath Water Shooting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/disappearing-quadro-resolved/"><u>Disappearing Quadro Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-imagery-new-firmware-loaded/"><u>No Imagery, New Firmware Loaded</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-210-win11-driver-revamp/"><u>NVIDIA GeForce 210 Win11 Driver Revamp</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-quality-on-a-dime-vr-edition/"><u>Selecting Quality on a Dime: VR Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/t5-unboxed-the-revolution-in-action-filming/"><u>T5 Unboxed - The Revolution in Action Filming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818365828-troubleshooting-screen-flashes-fixed/"><u>Troubleshooting Screen Flashes: Fixed</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 using icloud website</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-online-persona-transformation-rendering-your-cartoon-self/"><u>[New] 2024 Approved Online Persona Transformation Rendering Your Cartoon Self</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-step-by-step-perfecting-your-lol-recordings/"><u>[New] In 2024, Step-by-Step Perfecting Your LOL Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-stardew-valley-emphasizing-its-jewel-ginger-island/"><u>[New] In 2024, Unveiling the Secrets of Stardew Valley, Emphasizing Its Jewel - Ginger Island</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfect-your-photos-with-text-tips-for-adding-titles-in-microsoft-photos/"><u>[Updated] In 2024, Perfect Your Photos with Text Tips for Adding Titles in Microsoft Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-motion-enhancement-via-adobe-tools/"><u>2024 Approved Photo Motion Enhancement via Adobe Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-win-troubleshoot-complete-functioning-normally/"><u>GFXUI Win Troubleshoot Complete, Functioning Normally</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ghostly-gtx-displayed-by-device-hub/"><u>Ghostly GTX Displayed by Device Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>In 2024, Horizon Haven The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-updated-list-the-premier-pc-vr-headsets-of-2023/"><u>In 2024, Updated List The Premier PC VR Headsets of 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-normalized-flickering-no-more/"><u>Laptop Display Normalized: Flickering No More</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/right-orientation-fix-in-win7-mode/"><u>Right Orientation Fix in Win7 Mode</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-flashing-lcd-on-hp-systems/"><u>Troubleshooting Flashing LCD on HP Systems</u></a></li>
 </ul></div>
 

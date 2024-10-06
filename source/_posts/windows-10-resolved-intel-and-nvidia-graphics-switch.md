@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Resolved Intel & Nvidia Graphics Switch"
-date: 2024-08-22T13:29:41.744Z
-updated: 2024-08-23T13:29:41.744Z
+date: 2024-10-02T17:29:34.191Z
+updated: 2024-10-06T18:23:56.109Z
 tags:
   - win11
   - win10
@@ -47,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -63,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -81,8 +85,12 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -90,13 +98,24 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -104,35 +123,36 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,8 +161,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[New] [Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-instantaneously-showcasing-archived-video-sessions-via-facebook-live-for-2024/"><u>[New] Instantaneously Showcasing Archived Video Sessions via Facebook Live for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-best-free-tiktok-to-mp3-extractors-top-6-innovative-sites/"><u>[Updated] 2024 Approved Best FREE TikTok to MP3 Extractors Top 6 Innovative Sites</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-smoothly-stitching-images-together/"><u>[Updated] In 2024, Smoothly Stitching Images Together</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essentials-of-xbox-live-recording/"><u>[Updated] The Essentials of Xbox Live Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/alternative-methods-for-removing-an-iphone-sim-without-the-pin/"><u>Alternative Methods for Removing an iPhone SIM Without the Pin</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-smart-speakers-showdown-echo-pop-vs-echo-dot-explored/"><u>Amazon's Smart Speakers Showdown: Echo Pop Vs. Echo Dot Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminar-ruido-de-video-com-eficiencia-um-guia-sobre-as-quatro-ferramentas-mais-importantes-para-profissionais-de-multimidia/"><u>Eliminar Ruído De Vídeo Com Eficiência - Um Guia Sobre as Quatro Ferramentas Mais Importantes Para Profissionais De Multimídia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guidelines-for-quelling-hp-monitor-flares/"><u>Guidelines for Quelling HP Monitor Flares</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-the-c1900101-problem-in-win10-setup/"><u>How To Fix the C1900101 Problem in Win10 Setup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-voices-for-change-highlighting-influential-ladies-on-youtube/"><u>In 2024, Voices for Change Highlighting Influential Ladies on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-clearance-how-to-discard-graphics-drivers-fast/"><u>Quick Clearance: How to Discard Graphics Drivers, Fast</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedied-lenovo-smarttouch-glitches/"><u>Remedied Lenovo SmartTouch Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphic-device-errors/"><u>Resolved Graphic Device Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-civ-5-errors-pc/"><u>Troubleshooting Civ 5 Errors PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-potential-gameplay-improvements-in-god-of-war/"><u>Unlocking Potential: Gameplay Improvements in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-and-nvidia-geforce-7025-clash-resolved/"><u>Windows 11 & NVidia GeForce 7025 Clash - Resolved</u></a></li>
+</ul></div>
 

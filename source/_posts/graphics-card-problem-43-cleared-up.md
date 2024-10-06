@@ -1,7 +1,7 @@
 ---
 title: Graphics Card Problem 43 Cleared Up
-date: 2024-08-15T07:25:39.170Z
-updated: 2024-08-16T07:25:39.170Z
+date: 2024-10-04T18:44:09.120Z
+updated: 2024-10-06T18:55:21.814Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you’re using the wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,16 +47,28 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the**Graphics Device Driver Error Code 43** error has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your graphics driver
 
@@ -57,27 +76,22 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 2. Locate and double-click on **Display adapters**  (aka. **Graphics card** , **Video card**). Then right-click on **the item** right below and click **Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Uninstall**   in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 4. After the uninstall, right-click on**the name of your PC** and click**Scan for hardware changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b838add712.jpg)
 5. Double-click on**your graphics card** again to check if you can see “This device is working properly” on Device Manager. If yes, then congrats – you’ve fixed the problem. If it is still the same**Graphics Device Driver Error Code 43** message, please try**Fix 3** , below.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b841ab4dd2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b841ab4dd2.jpg)
 
 ---
 
@@ -96,9 +110,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System**) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it solves this**code 43** issue.
@@ -107,9 +118,6 @@ No advertising on the website.
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
 3. Check out the **Support** (or **Download**) section and search for the latest BIOS update.
 4. Download the file and install it properly.
@@ -127,8 +135,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,8 +142,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-from-recording-to-revelation-a-comprehensive-guide-to-360-videos-on-facebook/"><u>[New] From Recording to Revelation A Comprehensive Guide to 360 Videos on Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-compatibility-issue-with-win10-settled/"><u>AMD's Compatibility Issue with Win10, Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-vision-clarity/"><u>Enhancing Lenovo Laptop Vision Clarity</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-stalled-windows-outlook-conditional-rules/"><u>Fixing Stalled Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizons-in-focus-easy-monitor-alignment-techniques/"><u>Horizons in Focus: Easy Monitor Alignment Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-reconnect-loop-issue-in-league-of-legends-latest-fixes-and-patch-notes/"><u>How to Overcome the Reconnect Loop Issue in League of Legends - Latest Fixes and Patch Notes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4mov/"><u>MP4形式からMOVへ効果的に変換するための最適化方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-youtube-unboxers-who-to-follow/"><u>Premier YouTube Unboxers Who to Follow</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-troubleshoot-for-dead-displayport/"><u>Simple Troubleshoot for Dead DisplayPort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-11-streaming-problems-fixed/"><u>Troubleshooting Windows 11 Streaming Problems Fixed</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-real-vs-phantom-identifying-false-accounts-in-fb/"><u>Unveiling Real Vs. Phantom: Identifying False Accounts in FB</u></a></li>
+</ul></div>
 

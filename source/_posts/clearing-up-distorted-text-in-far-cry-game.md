@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Distorted Text in Far Cry Game
-date: 2024-09-27T19:35:39.779Z
-updated: 2024-10-01T07:19:02.493Z
+date: 2024-10-04T18:17:31.671Z
+updated: 2024-10-06T21:15:40.430Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 If this doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -106,26 +113,26 @@ If this doesn’t help, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -141,25 +148,11 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t help, there’s one more fix you can try.
 
@@ -175,15 +168,22 @@ If this doesn’t help, there’s one more fix you can try.
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -207,18 +207,20 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-experience-the-best-download-options-for-fb-lite-videos-2023-ranking/"><u>[New] 2024 Approved Experience the Best Download Options for FB Lite Videos - 2023 Ranking</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-instant-video-post-how-to-turn-mp3s-into-youtube-playables/"><u>[Updated] In 2024, Instant Video Post How to Turn MP3s Into YouTube Playables</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[Updated] Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker/"><u>New 2024 Approved Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovos-inactive-touchscreen/"><u>Overcoming Lenovo's Inactive Touchscreen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolution-tuning-mastered-stable-with-new-window-11-release/"><u>Resolution Tuning Mastered - Stable with New Window 11 Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-issue-only-partial-window-on-monitor/"><u>Screen Issue: Only Partial Window on Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-address-gpu-crashes-and-maintain-computer-functionality/"><u>Steps to Address GPU Crashes and Maintain Computer Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-essential-guide-to-upgrading-windows-7s-intel-gfx-driver/"><u>The Essential Guide to Upgrading Windows 7’S Intel Gfx Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-address-minecraft-issues-caused-by-faulty-gpu-drivers-in-windows/"><u>Troubleshooting Guide: How to Address Minecraft Issues Caused by Faulty GPU Drivers in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-critical-analysis-the-true-value-of-instas-selfie-confirmation/"><u>[New] 2024 Approved Critical Analysis The True Value of Insta's Selfie Confirmation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-podcast-introduction-skills/"><u>[New] 2024 Approved The Ultimate Guide to Podcast Introduction Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilizing-edges-split-screen-feature-pip/"><u>[Updated] Utilizing Edge's Split Screen Feature PIP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-power-of-claude-2-what-can-this-ai-achieve/"><u>Demystifying the Power of Claude 2 - What Can This AI Achieve?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-43-on-graphics-solved/"><u>Error 43 on Graphics Solved</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intricacies-of-organic-light-emitting-diodes-oled-explained/"><u>Exploring the Intricacies of Organic Light-Emitting Diodes (OLED) Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-driver-crisis-resolved/"><u>Graphics Driver Crisis Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hasten-clear-video-transmission/"><u>Hasten Clear Video Transmission</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-mystery-of-free-pictorial-video-downloads/"><u>In 2024, Unveiling the Mystery of Free Pictorial Video Downloads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y100i-power-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y100i Power 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-lost-window-on-pc-windows/"><u>Resetting Lost Window on PC [WINDOWS]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-tackle-non-functioning-asus-cam/"><u>Steps to Tackle Non-Functioning Asus Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-restore-vivid-colors-in-displays/"><u>Strategies to Restore Vivid Colors in Displays</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-wonders-of-yokus-island-express-a-unique-gaming-odyssey/"><u>Unveiling the Wonders of Yoku's Island Express - A Unique Gaming Odyssey</u></a></li>
 </ul></div>
 

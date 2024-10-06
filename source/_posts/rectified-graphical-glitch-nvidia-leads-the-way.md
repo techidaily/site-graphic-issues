@@ -1,7 +1,7 @@
 ---
 title: Rectified Graphical Glitch - NVIDIA Leads the Way
-date: 2024-09-29T22:27:41.061Z
-updated: 2024-09-30T23:59:08.189Z
+date: 2024-09-29T16:59:05.615Z
+updated: 2024-10-06T16:49:42.036Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -43,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -74,10 +54,10 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
@@ -104,13 +84,6 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -128,11 +101,32 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -158,20 +152,16 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elevating-user-experience-in-windows-11/"><u>[New] 2024 Approved Elevating User Experience in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-tips-for-animation-using-windows-movie-maker/"><u>[New] Advanced Tips for Animation Using Windows Movie Maker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing/"><u>2024 Approved Asus ProArt PA 329Q The Pinnacle in High-Definition Viewing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>2024 Approved Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-techniques-for-downloading-twitter-videos-and-creating-mp3s/"><u>2024 Approved Techniques for Downloading Twitter Videos and Creating MP3s</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-device-visual-stability-no-more-flickering-issues/"><u>Dell Device Visual Stability: No More Flickering Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-video-card-errors-from-minecraft/"><u>Eliminate Video Card Errors From Minecraft</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-esteemed-creators-best-of-breed-insta-hlv-makers/"><u>In 2024, Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-navigating-online-audio-archives-an-intuitive-guide/"><u>In 2024, Navigating Online Audio Archives An Intuitive Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steady-screen-stable-workflows/"><u>Steady Screen, Stable Workflows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-correct-error-code-c1900101-when-installing-windows-11/"><u>Steps to Correct Error Code C1900101 When Installing Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winerror-unhandled-exception-wdf-blue-screen/"><u>WinError: Unhandled Exception, WDF Blue Screen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-finest-frames-iphone-plus-android-edition/"><u>[Updated] In 2024, Instagram's Finest Frames IPhone + Android Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-youtube-snippets-for-captivating-ig-stories/"><u>[Updated] YouTube Snippets for Captivating IG Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-universal-techniques-for-streaming-to-disk-from-youtube/"><u>2024 Approved Universal Techniques for Streaming to Disk From YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4-freeze-problems-on-pc/"><u>Fixing Fallout 4 Freeze Problems on PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/creation-to-calculation-your-guide-to-a-3-step-strategy-for-youtube-revenue-insight-for-2024/"><u>From Creation to Calculation Your Guide to a 3-Step Strategy for YouTube Revenue Insight for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-mouse-on-windows-11/"><u>Screen Fix: Mouse on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-microsoft-teams-navigating-with-copilot-effortlessly/"><u>Unveiling the Secrets of Microsoft Teams: Navigating with Copilot Effortlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-black-screen-with-cursor-solved/"><u>Windows 11 Black Screen with Cursor [SOLVED]</u></a></li>
 </ul></div>
 

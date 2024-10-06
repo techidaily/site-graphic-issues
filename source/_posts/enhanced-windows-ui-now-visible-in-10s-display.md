@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Windows UI: Now Visible in 10'S Display"
-date: 2024-09-30T06:15:17.149Z
-updated: 2024-09-30T23:47:28.651Z
+date: 2024-10-04T17:36:41.205Z
+updated: 2024-10-06T17:55:57.918Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -52,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
@@ -75,10 +89,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
@@ -89,23 +103,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -130,18 +130,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-logitech-m185-webcam-software-and-drivers/"><u>Free Download: Logitech M185 Webcam Software and Drivers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/groundbreaking-gear-for-virtual-reality-players/"><u>Groundbreaking Gear for Virtual Reality Players</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-crafting-unique-iphone-tones/"><u>In 2024, Step-by-Step Guide to Crafting Unique iPhone Tones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-a18-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo A18 Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-installation-error-code-c1900101-in-windows-11/"><u>Overcoming Installation Error Code C1900101 in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-upside-down-displays-on-win7/"><u>Resolve Upside-Down Displays on Win7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-battle-cry-fix-no-audio-issues-in-apex-legends-today/"><u>Revive the Battle Cry: Fix No Audio Issues in Apex Legends Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-non-detections-of-gpu-in-computer-systems/"><u>Solve Non-Detections of GPU in Computer Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-hidden-world-exploring-vlc-player-extras/"><u>The Hidden World Exploring VLC Player Extras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unseen-ways-to-leverage-instagrams-query-symbol/"><u>[New] In 2024, Unseen Ways to Leverage Instagram's Query Symbol</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-live-cutting-edge-strategies-audiences/"><u>[Updated] 2024 Approved Facebook Live Cutting-Edge Strategies Audiences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-leveraging-fb-media-speeds-up-strategies/"><u>[Updated] Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-use-d3dgear-screen-recorder/"><u>2024 Approved How to Use D3DGear Screen Recorder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-a-quick-guide-for-asus-laptops/"><u>Banishing Black Screens: A Quick Guide for Asus Laptops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-controls-in-win11/"><u>Enhanced Screen Resolution Controls in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-geforce-xray-issue/"><u>Fixing GeForce XRay Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-invisible-displays-on-personal-computers/"><u>Fixing Invisible Displays on Personal Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-end-alienware-pro-wireless-keyboard-assessment-an-elite-option-for-gamers/"><u>High-End Alienware Pro Wireless Keyboard Assessment: An Elite Option for Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igniting-the-dormant-gpu-fan-force/"><u>Igniting the Dormant GPU Fan Force</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-xs-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone XS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-12-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 12 Activation Lock</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-your-corsair-mouse-with-this-easy-to-use-program/"><u>Install Your Corsair Mouse with This Easy-to-Use Program</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jumpstart-your-gaming-with-latest-hd-6950-w11-drivers/"><u>Jumpstart Your Gaming with Latest HD 6950 W11 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigating-performance-drops-civ-5-computer/"><u>Mitigating Performance Drops, CIV 5 Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-os-drivers-blues-stop-winblue-screen/"><u>Overcoming OS Drivers Blues: Stop WinBlue Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplifying-intel-graphics-driver-upgrade-on-windows-7/"><u>Simplifying Intel Graphics Driver Upgrade on Windows 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-exceptional-cover-letters-with-gpt-3/"><u>Step by Step Guide to Exceptional Cover Letters with GPT-3</u></a></li>
 </ul></div>
 

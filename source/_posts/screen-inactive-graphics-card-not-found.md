@@ -1,7 +1,7 @@
 ---
 title: "Screen Inactive: Graphics Card Not Found"
-date: 2024-08-22T13:27:27.875Z
-updated: 2024-08-23T13:27:27.875Z
+date: 2024-09-30T21:16:08.190Z
+updated: 2024-10-06T20:57:36.771Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/223b2cd84b554fcba98d5372ea1d3dd821fdb509b
 2. [Update graphics card driver](#Solution2)
 3. [Delete the config.dat file of your game](#Solution3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Graphics Card and why this problem happens
 
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
@@ -49,8 +56,12 @@ thumbnail: https://thmb.techidaily.com/223b2cd84b554fcba98d5372ea1d3dd821fdb509b
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -71,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/223b2cd84b554fcba98d5372ea1d3dd821fdb509b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -81,23 +89,18 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -106,12 +109,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
@@ -130,8 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +144,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-auditory-interpretation-accessible-at-no-expense/"><u>[Updated] Auditory Interpretation Accessible at No Expense</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-branding-with-visuals-inserting-watermarks-into-youtube-vids/"><u>2024 Approved Branding with Visuals Inserting Watermarks Into YouTube Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-the-right-gopro-features-at-your-fingertips/"><u>2024 Approved Selecting the Right Gopro Features at Your Fingertips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-past-white-screen-in-sims-world/"><u>Push Past White Screen in Sims World</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/soundscapes-for-vimeo-a-compreayers-manual-for-2024/"><u>Soundscapes for Vimeo A Compreayer's Manual for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speed-up-your-system-with-latest-nvidia-driver/"><u>Speed Up Your System with Latest Nvidia Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-blue-screen-freeze-fix-windows-wdf-drivers/"><u>Stop Blue Screen Freeze: Fix Windows WDF Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-macx-pro-the-ultimate-no-cost-video-transformer-for-seamless-mac-switch-your-ts-files-to-mov-mp4-and-more/"><u>Top Rated MacX Pro: The Ultimate No-Cost Video Transformer for Seamless Mac - Switch Your TS Files to Mov, Mp4 and More</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmistakable-window-visibility/"><u>Unmistakable Window Visibility</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-title-magic-in-fcpx-how-to-create-eye-catching-headlines/"><u>Updated 2024 Approved Title Magic in FCPX How to Create Eye-Catching Headlines</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-f5-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco F5 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/mpeg-wav-access-movavi/"><u>무료 MPEG에서 WAV로의 직접 Access - 강력한 Movavi 태스크 광고</u></a></li>
+</ul></div>
 

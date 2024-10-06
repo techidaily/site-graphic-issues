@@ -1,7 +1,7 @@
 ---
 title: "Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now"
-date: 2024-09-28T05:22:04.247Z
-updated: 2024-10-01T13:04:16.664Z
+date: 2024-09-30T19:03:58.058Z
+updated: 2024-10-06T18:53:23.647Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
@@ -54,16 +54,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -80,18 +80,18 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -99,14 +99,14 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
- Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 ### 3\. Reinstall Discord
 
@@ -145,19 +145,21 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-assemble-creative-gifs-for-online-sharing/"><u>[New] Assemble Creative GIFs for Online Sharing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-tips-for-amplifying-minecraft-performance-via-ram-increase/"><u>[New] Tips for Amplifying Minecraft Performance via RAM Increase</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-customizing-video-assets-for-instagram-mastery-for-2024/"><u>[Updated] Customizing Video Assets for Instagram Mastery for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-computer-screen-edge-balance/"><u>Adjusting Computer Screen Edge Balance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cam-problems-save-your-asus/"><u>Cam Problems? Save Your ASUS!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-screen-tilt-in-netbook-fix/"><u>Corrected Screen Tilt in Netbook Fix</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-meizu-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Meizu Phone Pattern Lock</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/init-graphics-loop-disrupted/"><u>Init Graphics Loop Disrupted</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/leveraging-cookiebot-technology-for-enhanced-website-performance-and-insights/"><u>Leveraging Cookiebot Technology for Enhanced Website Performance and Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-fullscreen-display-win11-monitor-issue/"><u>Missing Fullscreen Display: Win11 Monitor Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-launch-problems-in-lost-ark-a-users-guide-to-a-seamless-game-experience/"><u>Overcoming Launch Problems in Lost Ark: A User's Guide to a Seamless Game Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-ghost-runner-critical-failure-in-windows-11-solutions-explored/"><u>Resolving the 'Ghost Runner' Critical Failure in Windows 11 - Solutions Explored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoration-of-screen-preferences-achieved/"><u>Restoration of Screen Preferences Achieved</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-conversion-simplified-subtitles-transformation-for-2024/"><u>SRT Conversion Simplified Subtitles Transformation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-15-fun-filled-multiplayer-titles-for-friends/"><u>[New] 15 Fun-Filled Multiplayer Titles for Friends</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] In 2024, Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>2024 Approved Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8-useful-tools-that-allow-you-to-pixelate-face-on-photos/"><u>8 Useful Tools That Allow You to Pixelate Face on Photos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activating-graphics-settings-via-nvidia-control-panel/"><u>Activating Graphics Settings via NVIDIA Control Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-eliminate-black-screens-on-asus-pcs/"><u>Effortlessly Eliminate Black Screens on Asus PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-of-non-availability-in-direct3d-graphics-path/"><u>End of Non-Availability in Direct3D Graphics Path</u></a></li>
+<li><a href="https://driver-install.techidaily.com/exhaustive-guide-to-gpu-driver-reinstallation/"><u>Exhaustive Guide to GPU Driver Reinstallation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-turn-off-flicker-on-your-computer-monitor/"><u>How to Turn Off Flicker on Your Computer Monitor</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-blank-windows-display/"><u>Resetting Blank Windows Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-display-inversion-issue-w7-style/"><u>Resolve Display Inversion Issue, W7 Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-peace-eradicate-windows-crashes-in-f4/"><u>Restore Peace: Eradicate Windows Crashes in F4</u></a></li>
 </ul></div>
 

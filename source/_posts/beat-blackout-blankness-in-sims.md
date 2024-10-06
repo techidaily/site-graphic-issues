@@ -1,7 +1,7 @@
 ---
 title: Beat Blackout Blankness in Sims
-date: 2024-09-28T17:18:47.913Z
-updated: 2024-10-01T08:14:06.820Z
+date: 2024-09-30T16:37:43.188Z
+updated: 2024-10-06T19:30:50.503Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -73,10 +73,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
@@ -86,19 +86,6 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -132,16 +119,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -158,10 +145,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -177,10 +164,10 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
@@ -210,6 +197,19 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -235,20 +235,15 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solution-missing-displays-in-windows-10/"><u>[SOLUTION]: Missing Displays in Windows 10</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>[Updated] In 2024, Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revamping-videos-the-art-of-editing-via-story-remix-and-windows-photos/"><u>[Updated] Revamping Videos The Art of Editing via Story Remix and Windows Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-photos-and-videos-playing-with-text-deformation/"><u>2024 Approved Framing Photos & Videos Playing With Text Deformation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia FRP Bypass Instantly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-and-durable-omoton-t1-tablet-stand-comprehensive-review/"><u>Affordable and Durable Omoton T1 Tablet Stand - Comprehensive Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-driver-loading-now-fully-operational-on-win10/"><u>AMD Driver Loading - Now Fully Operational on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dousing-disruptive-dance-in-your-acer-screen/"><u>Dousing Disruptive Dance in Your Acer Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-black-screen-on-tv-via-hdmi-connection/"><u>Fixing Black Screen on TV via HDMI Connection</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-14-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi 14 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-neo-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme GT Neo 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/msi-pro-mp161-e2-the-epitome-of-convenient-compact-monitor-technology-for-professionals/"><u>MSI Pro MP161 E2 - The Epitome of Convenient, Compact Monitor Technology for Professionals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-win-781011-graphic-driver-flaws/"><u>Rectifying WIN 7/8/10/11 Graphic Driver Flaws</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-driver-debugged-at-code-43/"><u>Video Driver Debugged at Code #43</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easysnap-win11-no-hassle-just-screenshots-for-2024/"><u>[New] EasySnap Win11 No Hassle, Just Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-bridging-social-media-and-television-with-live-streaming/"><u>[Updated] 2024 Approved Bridging Social Media & Television with Live Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-finesse-selecting-superior-video-cams-for-slow-motion/"><u>2024 Approved Frame Finesse Selecting Superior Video Cams for Slow Motion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-teaching-through-media-efficient-classroom-editing/"><u>2024 Approved Teaching Through Media Efficient Classroom Editing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-your-perfect-youtube-playlists-a-step-by-step-guide-for-2024/"><u>Crafting Your Perfect YouTube Playlists A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-bluescreen-error-wdf-incompatibility-fix/"><u>Overcome BlueScreen Error: WDF Incompatibility Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconfigure-display-mode-in-win10/"><u>Reconfigure Display Mode in Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-smoother-gaming-introducing-nvidia-g-sync/"><u>The Evolution of Smoother Gaming: Introducing Nvidia G-Sync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-solution-to-stabilize-amd-radeon-r9-on-win10/"><u>Unveiling the Solution to Stabilize AMD Radeon R9 on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-system-repaired-driver-running-well/"><u>Video System Repaired: Driver Running Well</u></a></li>
 </ul></div>
 
