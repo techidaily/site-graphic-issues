@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-09-29T21:38:16.884Z
-updated: 2024-10-06T19:22:54.623Z
+date: 2024-10-08T22:19:55.818Z
+updated: 2024-10-12T06:37:30.526Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -70,10 +70,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
@@ -81,10 +81,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
@@ -98,10 +98,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
@@ -156,19 +156,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/udience-engagement-where-to-captivate-viewers/"><u>[New] Audience Engagement Where to Captivate Viewers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-understanding-macos-big-sur-minimum-requirements/"><u>[Updated] 2024 Approved Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-webcam-recording-solutions-explored-for-2024/"><u>[Updated] Professional WebCam Recording Solutions Explored for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-sharpening-attention-utilizing-leading-lines-on-iphone-for-2024/"><u>[Updated] Sharpening Attention Utilizing Leading Lines on iPhone for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-list-mastering-youtubes-best-music-reaction-videos/"><u>[Updated] The Ultimate List Mastering YouTube's Best Music Reaction Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blur-tackling-monitor-flickering-troubles/"><u>Banishing Blur: Tackling Monitor Flickering Troubles</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/film-like-a-pro-a-beginners-guide-to-making-movies/"><u>Film Like a Pro A Beginners Guide to Making Movies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto G24 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-blank-screens-rapid-resolution-of-monitor-issues/"><u>No More Blank Screens: Rapid Resolution of Monitor Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reduce-lag-with-easy-tweaks/"><u>Reduce Lag with Easy Tweaks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-alexas-silence-steps-for-reactive-measures/"><u>Resolving Alexa's Silence: Steps for Reactive Measures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stay-updated-latest-windows-10-drivers-for-amd-6950/"><u>Stay Updated: Latest Windows 10 Drivers for AMD 6950</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-mystery-of-a-non-functional-youtube/"><u>Troubleshooting Tips: Solving the Mystery of a Non-Functional YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-update-laptop-gpu-now-compatible-and-active/"><u>Windows Update - Laptop GPU Now Compatible & Active</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-asmr-knowledge-beyond-what-you-see/"><u>[New] 2024 Approved ASMR Knowledge Beyond What You See</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discovering-the-convergence-in-mixed-reality-for-2024/"><u>[New] Discovering the Convergence in Mixed Reality for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-infusing-energy-youtube-music-in-film-and-media-projects-for-2024/"><u>[New] Infusing Energy YouTube Music in Film and Media Projects for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-your-zoom-collaboration-calendar/"><u>[Updated] 2024 Approved Streamlining Your Zoom Collaboration Calendar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-constraints-in-virtual-assistants-and-its-influence/"><u>Decoding AI Constraints in Virtual Assistants and Its Influence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-pc-freezes-enjoy-uninterrupted-fallout-4-play/"><u>End PC Freezes, Enjoy Uninterrupted Fallout 4 Play</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-address-gpu-anomalies-in-pcs/"><u>How to Address GPU Anomalies in PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone XR | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme 11 Pro+ Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphic-support-detected/"><u>No Graphic Support Detected</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/powerpoint-presentations-enhancing-clarity-with-voiceovers-for-2024/"><u>PowerPoint Presentations Enhancing Clarity with Voiceovers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shadowless-shots-overcoming-challenges-with-light-techniques-for-2024/"><u>Shadowless Shots Overcoming Challenges with Light Techniques for 2024</u></a></li>
 </ul></div>
 

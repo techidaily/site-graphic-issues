@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-10-04T18:52:28.817Z
-updated: 2024-10-06T20:09:31.191Z
+date: 2024-10-08T03:48:33.480Z
+updated: 2024-10-11T19:16:39.143Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
 ---
@@ -64,6 +57,13 @@ Here is how to do it:
 **If the screen is still black** , the issue isn’t with the peripherals. You should move on to **Fix 3** , below to continue the troubleshooting.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -99,20 +99,13 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable fast startup
@@ -125,6 +118,13 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
@@ -134,15 +134,22 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Still got a black screen? Please try **Fix 6** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Perform a system restore
@@ -156,27 +163,27 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Restart your computer to see if the black screen issue has been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
 
@@ -188,13 +195,6 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -222,24 +222,20 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>[New] 2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-the-hidden-potential-of-twitter-archives/"><u>[New] 2024 Approved Unveiling the Hidden Potential of Twitter Archives</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-mp3-capture-skype-calls-no-cost-for-2024/"><u>[Updated] Mastering MP3 Capture Skype Calls, No Cost for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-playback-error-unsupported-mp4-format-on-popular-media-players-like-windows-media-player-quicktime-and-vlc/"><u>1. Playback Error: Unsupported MP4 Format on Popular Media Players Like Windows Media Player, QuickTime & VLC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-deep-insight-screenflow-for-mac-performance-review/"><u>2024 Approved Deep Insight ScreenFlow for Mac Performance Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos/"><u>2024 Approved Maximize YouTube Views A Comprehensible Guide to Collaborative Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spectacular-indulgent-pc-pastimes/"><u>2024 Approved Spectacular Indulgent PC Pastimes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accelerate-visuals-upgrade-intel-3000-in-windows-11/"><u>Accelerate Visuals: Upgrade Intel 3000 in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-gpu-absence-noted-on-win10win11/"><u>AMD GPU Absence Noted on Win10/Win11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-the-fallen-windows-screen-issue/"><u>Clearing the Fallen Windows Screen Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-down-the-disruption-solve-windows-7-display-shimmies/"><u>Dial Down the Disruption: Solve Windows 7 Display Shimmies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-driver-mended-after-system-failure/"><u>Display Driver Mended After System Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfxui-win-error-resolved-effortless-user-experience/"><u>GFXUI Win Error Resolved: Effortless User Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mitigate-lcd-distortion-effects/"><u>Mitigate LCD Distortion Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quickly-upgrade-3000-gfx-drivers-in-win10/"><u>Quickly Upgrade 3000 GFX Drivers in Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-case-for-extra-tactile-controls-a-look-at-increasing-button-count-on-smartphones/"><u>The Case for Extra Tactile Controls: A Look at Increasing Button Count on Smartphones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-win-drivers-msi-related-issues/"><u>Troubleshooting WIN Drivers, MSI-Related Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-obs-playback-handbook/"><u>[New] In 2024, The Complete OBS Playback Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[New] Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-handling-haters-strategies-for-content-creators/"><u>[Updated] In 2024, Handling Haters Strategies for Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-the-algorithm-maximizing-earning-potential-on-youtube/"><u>[Updated] Understanding the Algorithm Maximizing Earning Potential on YouTube</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discordwindows-1087/"><u>恢复被删除的Discord照片：为Windows 10、8和7用户提供解决方案（两种不同方法）</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-journey-through-the-landscape-of-instagram-reels-for-2024/"><u>A Step-by-Step Journey Through the Landscape of Instagram Reels for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-sideways-screen-on-windows-10/"><u>Addressing Sideways Screen on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-flickering-displays/"><u>How to Eliminate Flickering Displays</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-8-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 8 Plus?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-guide-to-hosting-a-virtual-meeting-with-zoom-on-android-gadgets/"><u>In 2024, Quick Guide to Hosting a Virtual Meeting with Zoom on Android Gadgets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/inverted-screen-position-fixed-in-windows-10/"><u>Inverted Screen Position Fixed in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-update-graphical-incompatibility-fixed/"><u>Overwatch Update: Graphical Incompatibility Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-non-working-asus-cam/"><u>Solutions for Non-Working ASUS Cam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-msstdfmtdll-not-detected-error-efficiently/"><u>Understanding and Correcting the 'msstdfmt.dll' Not Detected Error Efficiently</u></a></li>
 </ul></div>
 

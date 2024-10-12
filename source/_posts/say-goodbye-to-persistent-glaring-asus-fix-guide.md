@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Persistent Glaring: ASUS Fix Guide"
-date: 2024-10-02T18:16:12.561Z
-updated: 2024-10-06T22:07:48.992Z
+date: 2024-10-08T11:48:59.804Z
+updated: 2024-10-12T08:58:29.890Z
 tags:
   - win11
   - win10
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
@@ -49,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 2. In**Related settings** , click**Advanced display** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
@@ -61,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -92,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -113,22 +112,29 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -168,15 +174,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-secrets-of-librecam-studio/"><u>[New] Unveiling the Secrets of LibreCam Studio</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-essentials-for-transforming-your-google-meet-into-youtube-live/"><u>[Updated] 2024 Approved The Essentials for Transforming Your Google Meet Into Youtube Live</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amplify-your-television-clarity-on-a-budget-in-depth-analysis-of-the-1byone-digital-indoor-tv-antenna/"><u>Amplify Your Television Clarity on a Budget: In-Depth Analysis of the 1BYONE Digital Indoor TV Antenna</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cleared-windows-distortion-for-improved-views/"><u>Cleared Windows Distortion for Improved Views</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-stability-avoiding-rtx-crashes/"><u>Game Stability: Avoiding RTX Crashes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-third-generation-apple-tv-4k-edition/"><u>In-Depth Assessment: Third Generation Apple TV 4K Edition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/leading-edge-of-technology-top-10-4k-displays/"><u>Leading Edge of Technology #Top 10 4K Displays</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/master-your-pc-setup-with-advice-from-toms-hardware-pros/"><u>Master Your PC Setup with Advice From Tom's Hardware Pros</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proven-strategies-for-windows-8s-secure-boot-graphics-card-drivers-erasure/"><u>Proven Strategies for Windows 8'S Secure Boot - Graphics Card Drivers Erasure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-asus-built-in-camera-operation/"><u>Restoring ASUS Built-In Camera Operation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crafting-compelling-content-weaving-text-into-os-imagery/"><u>[New] 2024 Approved Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mp3-recording-guide-exclusive-to-free-skype-calls-for-2024/"><u>[New] MP3 Recording Guide Exclusive to Free Skype Calls for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-blue-screen-fixed-dxgkrnlsys-win-issue/"><u>[Tech] Blue Screen Fixed: dxgkrnl.sys Win Issue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sculpt-social-shares/"><u>[Updated] 2024 Approved Sculpt Social Shares</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-incorporating-film-into-lessons/"><u>[Updated] Mastering the Art of Incorporating Film Into Lessons</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-8-no-cost-video-chat-tools-pcmac-compatibility-for-2024/"><u>[Updated] Top 8 No-Cost Video Chat Tools PC/Mac Compatibility for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-reimagined-for-speed-and-solved-issues/"><u>Apex Legends, Reimagined for Speed and Solved Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-monitor-sizes-for-win11/"><u>Balancing Monitor Sizes for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-visual-fidelity-latest-update-for-radeon-hd-6950-graphics-card/"><u>Enhanced Visual Fidelity: Latest Update for Radeon HD 6950 Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-static-screen-flashes-in-devices-laptop/"><u>Fixing Static Screen Flashes in Devices [Laptop]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-8-best-mirrorless-cameras-vloggers-should-know/"><u>In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-updating-graphics-on-win7/"><u>Mastering the Art of Updating Graphics on Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-vintage-look-blur-on-fc6-console/"><u>Resolving Vintage Look Blur on FC6 Console</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-or-advanced-decide-on-pure-text-or-add-on-gpt-features/"><u>Simple or Advanced: Decide on Pure Text or Add-On GPT Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-overcoming-thaumaturge-malfunctions-in-windows-and-mac/"><u>Troubleshooting Tips: Overcoming Thaumaturge Malfunctions in Windows and Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-amd-radeon-hd-6950-graphics-drivers-on-windows-11/"><u>Upgraded AMD Radeon HD 6950 Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
 

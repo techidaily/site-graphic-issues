@@ -1,7 +1,7 @@
 ---
 title: Tidy Up Your Screen's Distorted Edges Now
-date: 2024-08-27T04:12:52.840Z
-updated: 2024-08-28T04:12:52.840Z
+date: 2024-10-09T05:21:25.941Z
+updated: 2024-10-11T23:04:34.005Z
 tags:
   - win11
   - win10
@@ -40,9 +40,23 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -51,8 +65,12 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the screen resolution
 
  Another trick you can try is to adjust your screen to the recommended resolution. Here’s how:
@@ -67,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### I’m using Windows 8 or 7
 
  1) Right-click on the empty area of your desktop screen and click Screen resolution.
@@ -84,21 +96,18 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Gently wipe the screen with cotton balls
 
  If the fixes above didn’t help with the problem, then it’s most likely a hardware problem. You can power off the computer and then gently wipe across the screen with cotton balls. Be sure to proceed with caution so as not to cause any further damage to your laptop.
@@ -120,8 +129,6 @@ Featured image by rawpixel.com from Pexels
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,8 +136,22 @@ Featured image by rawpixel.com from Pexels
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-delighted-user-registration-walkthrough/"><u>[New] 2024 Approved Delighted User Registration Walkthrough</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-youtube-studio-the-ultimate-guide-to-video-edits/"><u>[New] In 2024, Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>[New] Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-streamline-your-video-upload-process-instagram-ready-sizing-for-2024/"><u>[Updated] Streamline Your Video Upload Process Instagram-Ready Sizing for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-diy-digital-storytelling-making-moving-pictures-on-your-smartphone/"><u>2024 Approved DIY Digital Storytelling Making Moving Pictures on Your Smartphone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-rtx-3080-glitchy-games/"><u>How to Fix RTX 3080 Glitchy Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-spark-20-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Spark 20 Devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-s17-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo S17 Pro online without jailbreak</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lights-out-windows-11-post-fall-creators-fixes/"><u>Lights Out Windows 11 Post Fall Creator's Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-gaming-experience-restored-for-r9-in-win10/"><u>Optimal Gaming Experience Restored for R9 in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-win10-display-dilemma/"><u>Overcoming Win10 Display Dilemma</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-settings-in-win7/"><u>Reverse Screen Settings in Win7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reversing-pictures-in-seconds-a-simple-tutorial-for-android-users/"><u>Reversing Pictures in Seconds: A Simple Tutorial for Android Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-pc-graphic-drivers-removal-tips/"><u>Streamline Your PC: Graphic Drivers Removal Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips to Fix Low-Brightness Lenovo Screens
-date: 2024-08-27T04:14:50.603Z
-updated: 2024-08-28T04:14:50.603Z
+date: 2024-10-06T10:18:26.877Z
+updated: 2024-10-11T21:15:34.452Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -57,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -69,31 +80,32 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
  If none of the methods above get your Lenovo laptop screen back to normal, you may need to consider the dim screen problem as a hardware issue. You can contact Lenovo’s official support and see if they can offer any further assistance.
@@ -106,8 +118,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,8 +125,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unleash-potential-mastering-minecraft-recordings-with-macos-technology/"><u>[Updated] 2024 Approved Unleash Potential Mastering Minecraft Recordings with macOS Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>[Updated] In 2024, 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-portable-switch-game-clones/"><u>[Updated] Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c-for-2024/"><u>[Updated] The Top Pick for New Dronists – A Deep Look at Syma X5C for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-down-non-responsive-laptop-to-tv-hdmi/"><u>Breaking Down Non-Responsive Laptop-to-TV HDMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-nvidia-card-absent-in-control-panel/"><u>Fix: NVIDIA Card Absent in Control Panel</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fresh-driver-pack-for-your-pc-enhance-the-performance-of-msi-b350-motherboard-windows-friendly/"><u>Fresh Driver Pack for Your PC: Enhance the Performance of MSI B350 Motherboard (Windows Friendly)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-card-issue-43-eliminated/"><u>Graphic Card Issue #43 Eliminated</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-hiccup-detected-now-ironed-out-by-nvidia/"><u>Graphic Hiccup Detected, Now Ironed Out by NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guiding-through-gpu-problems-maintaining-pc-usage/"><u>Guiding Through GPU Problems, Maintaining PC Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727783850179-how-three-key-apple-watch-series-10-features-won-me-over-insights/"><u>How Three Key Apple Watch Series 10 Features Won Me Over - Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-ace-3-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Ace 3 online without jailbreak</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/inverted-screens-quick-win7-repair/"><u>Inverted Screens: Quick Win7 Repair</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximizing-enjoyment-with-improved-god-of-war/"><u>Maximizing Enjoyment with Improved 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-synergy-achieved-geforce-7025-in-windows-10/"><u>System Synergy Achieved: GeForce 7025 in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-multi-user-platforms-for-effective-talks-for-2024/"><u>Top Multi-User Platforms for Effective Talks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-inverted-screen-on-windows-11/"><u>Troubleshooting Inverted Screen on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tutorial-on-how-to-retain-image-thumbnails-in-ms-word-documents/"><u>Tutorial on How to Retain Image Thumbnails in MS Word Documents</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleashing-oral-clarity-in-ppt-creations/"><u>Unleashing Oral Clarity in PPT Creations</u></a></li>
+</ul></div>
 
