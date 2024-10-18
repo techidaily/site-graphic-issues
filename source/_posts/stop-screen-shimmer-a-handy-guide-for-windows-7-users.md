@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Shimmer – A Handy Guide for Windows 7 Users
-date: 2024-10-04T17:46:00.841Z
-updated: 2024-10-06T19:50:20.786Z
+date: 2024-10-13T01:47:50.343Z
+updated: 2024-10-18T11:10:15.272Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -43,8 +50,23 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -60,10 +82,10 @@ To troubleshoot these hardware issues:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
@@ -74,22 +96,8 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -111,21 +119,14 @@ To troubleshoot these hardware issues:
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
@@ -169,24 +170,17 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-melodies-with-a-twist-funny-tone-websites-listed/"><u>[Updated] 2024 Approved Melodies with a Twist Funny Tone Websites Listed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>[Updated] Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-battle-royale-hero5-b-stacked-against-session/"><u>2024 Approved GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/apex-legends-no-more-crashing-just-conquering/"><u>Apex Legends: No More Crashing, Just Conquering</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-logitech-speaker-software-updates-for-your-pc-windows-1078/"><u>Get the Newest Logitech Speaker Software Updates for Your PC (Windows 10/7/8)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-module-doesnt-start-up/"><u>Graphics Module Doesn't Start Up</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-leverage-igs-busiest-hours-for-your-content/"><u>How to Leverage IG's Busiest Hours for Your Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-shader-compilation-stuck-point-in-cod-black-ops-cold-war/"><u>How to Overcome Shader Compilation Stuck Point in COD: Black Ops Cold War</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminating-the-high-definition-journey-to-4k/"><u>Illuminating the High Definition Journey to 4K</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 80 Pro Straight Screen Edition Phone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-television-reconnect-overcoming-hdmi-deadlock/"><u>Laptop-to-Television Reconnect: Overcoming HDMI Deadlock</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/next-level-gaming-new-gpu-drivers-on-w11-from-amd-radeon-hd-6950/"><u>Next Level Gaming - New GPU Drivers on W11, From AMD Radeon HD 6950</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-solutions-to-resolve-your-dvd-players-pink-screen-issue/"><u>Quick Solutions to Resolve Your DVD Player's Pink Screen Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-art-issue-sorted-for-windows-users/"><u>Screen Art Issue Sorted for Windows Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-screens-your-guide-to-peace/"><u>Silent Screens: Your Guide to Peace</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-start-direct3d-engaged/"><u>Smooth Start: Direct3D Engaged</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-instagram-delay-issues-6-effective-tips-for-iphones-and-andriods/"><u>Solve Your Instagram Delay Issues: 6 Effective Tips for iPhones & Andriods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlining-extended-visual-display-with-windows-10-tweaks/"><u>Streamlining Extended Visual Display with Windows 10 Tweaks</u></a></li>
-<li><a href="https://facebook.techidaily.com/terrifying-realities-in-metas-media-empire/"><u>Terrifying Realities in Meta’s Media Empire</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-navigating-through-ez-grabbers-features/"><u>[Updated] 2024 Approved Navigating Through EZ Grabber's Features</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-easiest-way-to-download-and-use-tiktok-on-your-macbook/"><u>[Updated] The Easiest Way to Download and Use TikTok on Your MacBook</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-virtual-reality-with-ps-vr2-perks/"><u>Enhance Virtual Reality with PS VR2 Perks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-best-15-standout-stop-motion-films-of-all-time/"><u>Explore the Best 15 Standout Stop-Motion Films of All Time</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-directors-academy-youtube-channels-for-cinematic-innovation/"><u>In 2024, Directors Academy YouTube Channels for Cinematic Innovation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shoot-straight-best-tripods-for-smartphones-today/"><u>In 2024, Shoot Straight Best Tripods for Smartphones Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-magic-v2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Magic V2 Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphics-cards-detected-help-needed/"><u>No Graphics Cards Detected, Help Needed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gpu-firmware-gtx-1060-upgrade/"><u>Nvidia GPU Firmware - GTX 1060 Upgrade</u></a></li>
 </ul></div>
 

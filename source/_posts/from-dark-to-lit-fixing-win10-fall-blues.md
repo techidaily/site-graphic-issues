@@ -1,7 +1,7 @@
 ---
 title: "From Dark to Lit: Fixing Win10 Fall Blues"
-date: 2024-10-05T20:38:41.995Z
-updated: 2024-10-06T18:47:39.674Z
+date: 2024-10-15T07:05:38.307Z
+updated: 2024-10-18T10:43:01.012Z
 tags:
   - win11
   - win10
@@ -24,33 +24,33 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall display card driver
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -59,16 +59,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,18 +85,17 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-balancing-act-proper-techniques-for-stable-photos/"><u>[New] Balancing Act Proper Techniques for Stable Photos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-cutting-the-clutter-eschewing-fb-video-ads-for-2024/"><u>[New] Cutting the Clutter Eschewing FB Video Ads for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-record-review-repeat-unveiling-top-5-browser-screen-recorders/"><u>[Updated] Record, Review, Repeat Unveiling Top 5 Browser Screen Recorders</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-acquiring-and-configuring-nvme-drivers-for-windows/"><u>Complete Guide: Acquiring and Configuring NVMe Drivers for Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conquer-the-blue-death-syndrome-a-players-handbook-for-helldivers-2-recovery/"><u>Conquer the Blue Death Syndrome: A Player’s Handbook for Helldivers 2 Recovery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-incompatibility-eliminated-for-accelerated-gaming/"><u>Direct3D Incompatibility Eliminated for Accelerated Gaming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/downsize-window-space-in-win-10/"><u>Downsize Window Space in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-shutdown-black-screen/"><u>GPU Shutdown: Black Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/merging-forces-win10s-success-with-nvidia-graphics/"><u>Merging Forces - Win10's Success with Nvidia Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-driver-error-22/"><u>Resolved Graphics Driver Error 22</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-find-your-photo-oasis-a-guide-to-pexels/"><u>[New] Find Your Photo Oasis A Guide to Pexels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-money-making-guide-to-streaming-services/"><u>[New] In 2024, The Ultimate Money-Making Guide to Streaming Services</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-peer-reviewed-evaluation-of-action-screening-tech/"><u>[Updated] Peer-Reviewed Evaluation of Action Screening Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-clutter-with-a-sleek-setup-using-your-android-tab-in-w11/"><u>Avoiding Clutter with a Sleek Setup: Using Your Android Tab in W11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-performance-with-updated-intel-drivers/"><u>Enhancing PC Performance with Updated Intel Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-smooth-silence-integration-in-audio-post-production-audacity-style/"><u>In 2024, Smooth Silence Integration in Audio Post-Production - Audacity Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunter-wo-fixed-erratum-12-cleared/"><u>Monster Hunter Wo Fixed: Erratum 12 Cleared</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-sony-vegas-persistent-malfunction-troubleshooting-techniques-that-work/"><u>Overcoming Sony Vegas Persistent Malfunction: Troubleshooting Techniques That Work</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-with-high-end-nvidia-card/"><u>Prevent Crashes with High-End NVIDIA Card</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/protecting-your-digital-publications-step-by-step-to-setting-up-passwords-in-flipbuilder/"><u>Protecting Your Digital Publications: Step-by-Step to Setting Up Passwords in FlipBuilder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-smooth-video-playback-on-updated-os/"><u>Securing Smooth Video Playback on Updated OS</u></a></li>
 </ul></div>
 

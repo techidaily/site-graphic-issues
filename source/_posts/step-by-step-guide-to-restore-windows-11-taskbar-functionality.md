@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restore Windows 11 Taskbar Functionality
-date: 2024-10-11T14:08:50.878Z
-updated: 2024-10-11T21:25:32.619Z
+date: 2024-10-11T17:04:24.898Z
+updated: 2024-10-17T23:38:44.057Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -42,6 +49,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,13 +75,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -113,15 +120,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -141,15 +148,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -160,38 +174,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -217,21 +211,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-definitive-guide-to-the-top-9-mic-recording-apps-in-23-for-2024/"><u>[New] The Definitive Guide to the Top 9 Mic Recording Apps in '23 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-webcam-advancements-revolutionizing-video-capture-at-home-for-2024/"><u>[Updated] WebCam Advancements Revolutionizing Video Capture at Home for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-fix-correcting-windows-wdf-issues/"><u>BlueScreen Fix: Correcting Windows WDF Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-freeze-in-windows-triumph/"><u>dxgkrnl.sys Freeze in Windows - Triumph</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ended-flickering-issue-in-dell-ultrabook-display/"><u>Ended Flickering Issue in Dell Ultrabook Display</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-v30t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme V30T to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-step-by-step-approach-to-youtube-copyright-mastery/"><u>In 2024, Your Step-by-Step Approach to YouTube Copyright Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-rectify-disabled-windows-menu-items/"><u>Methods to Rectify Disabled Windows Menu Items</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-split-screen-glitches-on-pcs/"><u>Overcome Split-Screen Glitches on PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x50-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50 Black and White | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-windows-11-screen-reversal/"><u>Resolving Windows 11 Screen Reversal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-fall-update-fixes-for-win10/"><u>Shedding Light on Fall Update Fixes for Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-screen-after-gfx-update/"><u>Silent Screen After GFX Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-gpu-software-update-hd-graphics-710/"><u>Speedy GPU Software Update: HD Graphics 710</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-diagnosing-and-repairing-hissingbuzzing-issues-with-earbuds-or-overheads/"><u>Step-by-Step Guide: Diagnosing and Repairing Hissing/Buzzing Issues with Earbuds or Overheads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-by-tom/"><u>The Ultimate Resource for Hardware Enthusiasts by Tom</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-missing-high-end-display-settings-in-win11/"><u>[Fixed] Missing High-End Display Settings in Win11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mediascreen-reviewer-pro-for-2024/"><u>[Updated] MediaScreen Reviewer Pro for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-snap-tastic-facebooks-fleeting-media/"><u>2024 Approved Snap-Tastic Facebook's Fleeting Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-start-your-journey-to-savvy-social-analytics-on-facebook/"><u>2024 Approved Start Your Journey to Savvy Social Analytics on Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817759404-breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-blinking-monitor-blues/"><u>Cure Blinking Monitor Blues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-lenovos-inoperative-touch-interface/"><u>Fix for Lenovo's Inoperative Touch Interface</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-blaze-2-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Blaze 2 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-attention-grabber-designer/"><u>Innovative Attention Grabber Designer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-refuses-to-show-fullscreen-win10/"><u>Monitor Refuses to Show Fullscreen Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunter-wos-graphical-victory-over-erratum-12/"><u>Monster Hunter Wo's Graphical Victory Over Erratum 12</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-a78-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo A78 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-complete-solving-the-issue-of-battlefield-n4-not-launching-in-pc-edition/"><u>Troubleshooting Complete: Solving the Issue of Battlefield N4 Not Launching in PC Edition</u></a></li>
 </ul></div>
 

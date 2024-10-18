@@ -1,7 +1,7 @@
 ---
 title: Curtailing the Choreography of a Flickering Display
-date: 2024-10-01T19:06:25.370Z
-updated: 2024-10-06T19:36:45.627Z
+date: 2024-10-14T09:08:18.965Z
+updated: 2024-10-18T08:07:12.436Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change the screen refresh rate**
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**Acer laptop screen flickering** problem.
@@ -49,26 +42,33 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
@@ -87,10 +87,10 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
@@ -112,19 +112,6 @@ Here is how to change the screen refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -142,6 +129,13 @@ Here is how to change the screen refresh rate:
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -173,22 +167,20 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-top-editing-efforts-10-text-innovations/"><u>[Updated] Top Editing Efforts 10 Text Innovations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-jest-jar-imgur-meme-tool/"><u>2024 Approved Jest Jar Imgur Meme Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-camera-app-for-2024/"><u>Comprehensive Guide to VSCO Camera App for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cracking-the-code-to-common-icloud-dilemmas-in-apple-ecosystem-9-key-points/"><u>Cracking the Code to Common iCloud Dilemmas in Apple Ecosystem (9 Key Points)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decrease-excessive-display-on-win-10-pc/"><u>Decrease Excessive Display on WIN 10 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-drivers-fixed-at-43/"><u>Display Drivers Fixed at #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-display-fluctuations-from-lenovo/"><u>Eliminating Display Fluctuations From Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-80-pro-straight-screen-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor 80 Pro Straight Screen Edition Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-meizu-21-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Meizu 21 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>In 2024, Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-windows-fast-methods-for-removing-drivers/"><u>Mastering Windows: Fast Methods for Removing Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-non-functioning-asus-webcam/"><u>Overcoming Non-Functioning ASUS Webcam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-clear-windows-display/"><u>Resolved: Clear Windows Display</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719151967218-the-tech-titans-meet-zucks-pet-the-crypto-goat/"><u>The Tech Titans Meet: Zuck's Pet, the Crypto-Goat.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-optimizing-video-size-for-seamless-streaming-on-discord-across-devices/"><u>Ultimate Guide: Optimizing Video Size for Seamless Streaming on Discord Across Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-obs-timer-mastery-building-a-custom-countdown-timer/"><u>[Updated] 2024 Approved OBS Timer Mastery Building a Custom Countdown Timer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-icecream-screen-recorder-how-to-guide-and-indepth-review-for-2024/"><u>[Updated] Icecream Screen Recorder - How-To Guide and Indepth Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-through-youtubes-minis-for-2024/"><u>[Updated] Navigating Through YouTube's Minis for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-quip-quarterly-event-oriented-joke-anthology/"><u>2024 Approved Quip Quarterly Event-Oriented Joke Anthology</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nubia-red-magic-9-proplus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nubia Red Magic 9 Pro+ without App | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-intermittent-flickering-in-lenovo-displays/"><u>Fixing Intermittent Flickering in Lenovo Displays</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gamers-choice-razer-portal-wireless-adapter-evaluation/"><u>Gamer's Choice Razer Portal Wireless Adapter Evaluation</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oneplus-nord-3-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Nord 3 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-tv-recovery-solving-unresponsive-hdmi-link/"><u>Laptop-TV Recovery: Solving Unresponsive HDMI Link</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-mp4-to-wav-file-transformation-no-cost-easy-use-by-movavi/"><u>Online MP4 to WAV File Transformation - No Cost, Easy Use by Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilized-visual-output-on-dell-workstation-pcs/"><u>Stabilized Visual Output on Dell Workstation PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-mpeg-streamer-issues-on-latest-win11/"><u>Tackling MPEG Streamer Issues on Latest Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-functional-hdmi-from-pc/"><u>Troubleshooting Non-Functional HDMI From PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-fix-the-deadly-critical-process-died-blue-screen-on-windows-10/"><u>Troubleshooting Steps to Fix the Deadly 'Critical Process Died' Blue Screen on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-and-gpu-sync-aged-nvidia-now-compatible/"><u>Windows & GPU Sync: Aged Nvidia Now Compatible</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Lenovo's Erratic Display Behavior
-date: 2024-08-31T05:32:00.864Z
-updated: 2024-09-01T05:32:00.864Z
+date: 2024-10-15T22:46:50.502Z
+updated: 2024-10-18T06:23:35.585Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -62,6 +69,13 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
@@ -70,15 +84,26 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Troubleshoot hardware issues
 
  It is also possible that the problem with your Lenovo laptop screen results from interference from outside or a defective cable connection.
@@ -99,8 +124,6 @@ You can troubleshoot these hardware issues on your own:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,8 +131,20 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-balancing-act-tripod-use-for-stable-vlogging/"><u>[Updated] In 2024, Balancing Act Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-video-features-annotations-and-cards/"><u>[Updated] Leveraging Video Features Annotations & Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10-flash-dilemma/"><u>Addressing Windows 10 Flash Dilemma</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-find-n3-flip-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Find N3 Flip</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-accessories-and-game-library-of-nintendo-switch/"><u>Exploring the Accessories & Game Library of Nintendo Switch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-falsehoods-the-non-existent-chatgpt-app-for-windows-is-not-safe-avoid-potential-threats/"><u>Exposing Falsehoods: The Non-Existent ChatGPT App for Windows Is Not Safe - Avoid Potential Threats</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hidden-advanced-options-in-win10-display/"><u>Fixing Hidden Advanced Options in Win10 Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-securing-your-stylized-content-insta-photo-watermarking-basics/"><u>In 2024, Securing Your Stylized Content Insta Photo Watermarking Basics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-malfunction-rectified-driver-running/"><u>Monitor Malfunction Rectified: Driver Running</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneers-designing-the-online-avengers-landscape-for-2024/"><u>Pioneers Designing the Online Avengers Landscape for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/richting-mooiere-vlogs-maken-met-movavi-video-suite-100-betrouwbaar-duitsland-gebonden/"><u>Richting Mooiere Vlogs Maken Met Movavi Video Suite: 100% Betrouwbaar, Duitsland-Gebonden</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-digital-connection-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Digital Connection: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

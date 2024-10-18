@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-10-08T08:30:05.658Z
-updated: 2024-10-12T07:55:28.487Z
+date: 2024-10-12T05:17:13.820Z
+updated: 2024-10-17T18:02:48.562Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ Here’s how you can do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
  Another method to fix the ‘A TDR has been detected’ error is to**increase the timeout of your graphics device** .
@@ -76,10 +83,10 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
@@ -92,29 +99,9 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -124,15 +111,22 @@ See how to do it:
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -158,18 +152,16 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-simplified-guide-integrating-snapchat-with-your-mac/"><u>[New] Simplified Guide Integrating Snapchat with Your Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>[Updated] 2024 Approved Jailbreak Comedy Hour Best FB Moments of Amusement and Awe</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-revolutionize-your-posts-best-igtv-edits-unveiled/"><u>2024 Approved Revolutionize Your Posts Best IGTV Edits Unveiled</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cryptic-code-deciphered-direct-x-error-eradicated-in-league/"><u>Cryptic Code Deciphered: Direct X Error Eradicated in League</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/download-the-enhanced-nvidia-1060-drivers/"><u>Download the Enhanced Nvidia 1060 Drivers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-list-of-gaming-and-recording-audio-cards-for-pc/"><u>Elite List of Gaming and Recording Audio Cards for PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-health-restored-after-detected-tdr/"><u>GPU Health Restored After Detected TDR</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-c1900101-issue-during-windows-11-installation-process/"><u>Resolving the C1900101 Issue During Windows 11 Installation Process</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/saving-screen-configuration-job-well-done/"><u>Saving Screen Configuration, Job Well Done!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-steps-for-subnautica-below-zero-continuous-crashes-on-windows-platforms/"><u>Solution Steps for 'Subnautica: Below Zero' Continuous Crashes on Windows Platforms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/voice-virtuosos-guide-the-7-finest-android-transformation-audio-tools/"><u>Voice Virtuosos Guide The 7 Finest Android Transformation Audio Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-funny-image-maker/"><u>2024 Approved Foremost Funny Image Maker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ceasing-operation-solutions-for-laptop-screens-not-working/"><u>Ceasing Operation: Solutions for Laptop Screens Not Working</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixit-enhance-fallout-4s-pc-performance/"><u>Fixit: Enhance Fallout 4'S PC Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-hurdle-resolving-nba-2k24s-error-727e66ac-with-expert-advice-for-gamers/"><u>Overcome the Hurdle: Resolving NBA 2K24's Error 727E66ac with Expert Advice for Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-rapid-flash-problems-in-acer-devices/"><u>Rectifying Rapid-Flash Problems in Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resizing-large-screen-size-in-win11/"><u>Resizing Large Screen Size in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rousing-a-silent-gpus-spinning-heart/"><u>Rousing a Silent GPU's Spinning Heart</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spruce-up-your-stories-with-effortless-animated-text-techniques-for-2024/"><u>Spruce Up Your Stories With Effortless Animated Text Techniques for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-itel-s23-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Itel S23? | Dr.fone</u></a></li>
 </ul></div>
 

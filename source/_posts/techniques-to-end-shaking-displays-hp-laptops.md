@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-09-29T17:36:23.494Z
-updated: 2024-10-06T17:41:24.457Z
+date: 2024-10-12T06:41:47.897Z
+updated: 2024-10-18T14:16:40.233Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -67,10 +67,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -80,6 +80,13 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -98,16 +105,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -127,19 +128,6 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -178,18 +166,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-explore-10-elite-streamers-offering-freshest-live-content/"><u>[New] Explore 10 Elite Streamers Offering Freshest Live Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-virtual-frontiers-in-business-technology-and-strategy-for-2024/"><u>[New] Virtual Frontiers in Business Technology and Strategy for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-premier-top-selections-affordable-sbd-applications/"><u>[Updated] 2024 Approved Premier Top Selections Affordable SBD Applications</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brightening-up-post-fall-windows-experience/"><u>Brightening Up Post-Fall Windows Experience</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-boring-watch-these-15-hilarious-youtube-bites-for-2024/"><u>Cut the Boring, Watch These 15 Hilarious YouTube Bites for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-an-insight-into-its-associated-perils/"><u>Decoding AI: An Insight Into Its Associated Perils</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-the-last-graphic-problem-for-overwatch/"><u>Fixing the Last Graphic Problem for Overwatch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/"><u>In 2024, Mastering the Art of Virtual Board Usage in Web Conferences Android, Apple & PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-windows-11-driver-for-amd-radeon-hd-6950-gpu/"><u>Latest Windows 11 Driver for AMD Radeon HD 6950 GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-installation-error-code-c1900101-in-windows-11/"><u>Overcoming Installation Error Code C1900101 in Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-se-2020-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone SE (2020) Making It Possible</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-decorations-monitors-wallpaper-differentiation-guide/"><u>Windows 11 Decorations: Monitors Wallpaper Differentiation Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effective-strategies-for-exporting-photos-from-your-device-to-snapchat/"><u>[New] In 2024, Effective Strategies for Exporting Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>[Updated] Android's Top Podcast Apps Showdown 6 Innovators Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-compre-web-resources-for-effortless-youtube-template-access-for-2024/"><u>[Updated] Compre-Web Resources for Effortless YouTube Template Access for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-transformative-tips-making-an-indelible-mark-in-the-digital-world/"><u>[Updated] Transformative Tips Making an Indelible Mark in the Digital World</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/audible-unlock-a-world-of-audiobooks-at-your-ear/"><u>@Audible: Unlock a World of Audiobooks at Your Ear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-stability-resolved-amd-r9-driver-issues-w10/"><u>Achieving Stability: Resolved AMD R9 Driver Issues W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/battled-and-solved-the-erratic-screen-blanks-on-laptops/"><u>Battled and Solved the Erratic Screen Blanks on Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bright-distraction-free-windows/"><u>Bright, Distraction-Free Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-12-rectified-monster-hunter-world-resumes/"><u>Error 12 Rectified: Monster Hunter World Resumes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-best-rated-gamers-dream-dell-s3222dgm-for-a-record-low-of-just-229/"><u>Get Your Hands on the Best Rated Gamer's Dream, Dell S3222DGM for a Record Low of Just $229!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-failure-a-guide-for-repair/"><u>Laptop Display Failure – A Guide for Repair</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-gpu-blackout-problem/"><u>Latest GPU - Blackout Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-resolves-graphics-incompatibility/"><u>Overwatch Resolves Graphics Incompatibility</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-edit-mp4-files-on-windows-8-a-step-by-step-guide-for-2024/"><u>Updated How to Edit MP4 Files on Windows 8 A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

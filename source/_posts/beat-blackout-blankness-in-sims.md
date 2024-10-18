@@ -1,7 +1,7 @@
 ---
 title: Beat Blackout Blankness in Sims
-date: 2024-09-30T16:37:43.188Z
-updated: 2024-10-06T19:30:50.503Z
+date: 2024-10-12T00:41:25.421Z
+updated: 2024-10-18T04:00:59.436Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -72,13 +65,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -98,6 +84,13 @@ Here is how to do it:
  2) In the **Command Line Arguments** box, type **\-w** and click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
 
@@ -120,10 +113,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
@@ -140,15 +133,22 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -162,13 +162,6 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -189,26 +182,27 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -235,15 +229,17 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-easysnap-win11-no-hassle-just-screenshots-for-2024/"><u>[New] EasySnap Win11 No Hassle, Just Screenshots for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-bridging-social-media-and-television-with-live-streaming/"><u>[Updated] 2024 Approved Bridging Social Media & Television with Live Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-finesse-selecting-superior-video-cams-for-slow-motion/"><u>2024 Approved Frame Finesse Selecting Superior Video Cams for Slow Motion</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-teaching-through-media-efficient-classroom-editing/"><u>2024 Approved Teaching Through Media Efficient Classroom Editing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/crafting-your-perfect-youtube-playlists-a-step-by-step-guide-for-2024/"><u>Crafting Your Perfect YouTube Playlists A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-bluescreen-error-wdf-incompatibility-fix/"><u>Overcome BlueScreen Error: WDF Incompatibility Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconfigure-display-mode-in-win10/"><u>Reconfigure Display Mode in Win10</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-evolution-of-smoother-gaming-introducing-nvidia-g-sync/"><u>The Evolution of Smoother Gaming: Introducing Nvidia G-Sync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-solution-to-stabilize-amd-radeon-r9-on-win10/"><u>Unveiling the Solution to Stabilize AMD Radeon R9 on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-system-repaired-driver-running-well/"><u>Video System Repaired: Driver Running Well</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-b-footage-a-filmmakers-guide/"><u>2024 Approved Incorporating B-Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-size-and-scale-on-the-latest-os-update/"><u>Adjusting Screen Size & Scale on the Latest OS Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/epic-tech-pranks-creative-ways-to-surprise-with-an-iphone-or-ipad/"><u>Epic Tech Pranks: Creative Ways to Surprise with an iPhone or iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-undo-history-erasing-previous-conversations-with-gpt/"><u>How to Undo History: Erasing Previous Conversations with GPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-capturing-and-keeping-your-social-media-moments/"><u>In 2024, Capturing and Keeping Your Social Media Moments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-position-solved-for-devices/"><u>Optimal Lateral Position Solved for Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-civ-5-hardware-failures/"><u>Overcoming Civ 5 Hardware Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-incompatible-hdmi-between-devices/"><u>Solved Incompatible HDMI Between Devices</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-5-free-clonezilla-tools-for-windows-11-users/"><u>Top 5 Free Clonezilla Tools for Windows 11 Users</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/trouble-free-strategies-for-reinstating-sql-server-data-using-a-compressive-backup/"><u>Trouble-Free Strategies for Reinstating SQL Server Data Using a Compressive Backup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-the-best-10-cost-free-photo-hosters-for-2024/"><u>Ultimate Guide to the Best 10 Cost-Free Photo Hosters for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stability-achieved/"><u>Windows 10 Display Stability Achieved</u></a></li>
 </ul></div>
 

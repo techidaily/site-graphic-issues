@@ -1,7 +1,7 @@
 ---
 title: "Graphics Problem: No Cards Detected"
-date: 2024-10-05T00:39:48.520Z
-updated: 2024-10-12T12:39:26.878Z
+date: 2024-10-15T10:39:50.662Z
+updated: 2024-10-18T06:16:28.069Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 4. **[Reinstall your graphics card](#d)**
 5. **[Update your BIOS](#e)** [](#e)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Refresh Device Manager
 
  One quick fix that works for many Windows users is refreshing Device Manager. Follow the instructions below to see how to do it:  
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
@@ -59,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 4. **Check if your graphics card shows up under Display adapters.**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check if your graphics card shows up under Display adapters.
@@ -83,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -103,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall recent Windows updates
 
@@ -121,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**View installed updates** .
@@ -132,16 +112,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-38.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Right-click a recent update, and then click**Uninstall** .
@@ -151,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your problem persists, check the fix below.
@@ -193,9 +167,23 @@ Here is where a graphics card is usually located.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-493.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-495.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to the manufacturer’s support website and search for the latest update for your BIOS.
 
@@ -225,22 +213,24 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-youtube-playlist-step-by-step-for-2024/"><u>[New] How to Download YouTube Playlist-Step by Step for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/hielding-your-media-what-does-unlisted-mean-in-youtube-in-2024/"><u>[New] Shielding Your Media What Does Unlisted Mean in YouTube, In 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-newbies-guide-to-understanding-core-filming-techniques/"><u>[New] The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-10-premier-online-systems-for-screen-saving/"><u>[Updated] In 2024, 10 Premier Online Systems for Screen Saving</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/a-compilation-of-must-play-virtual-realms/"><u>A Compilation of Must-Play Virtual Realms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinky-behavior-from-acer-equipment/"><u>Banishing Blinky Behavior From Acer Equipment</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/burning-iso-files-to-dvd-a-step-by-step-guide-for-pcs-and-macs/"><u>Burning ISO Files to DVD: A Step-by-Step Guide for PCs & Macs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-dark-screen-win11/"><u>Cursor's Comeback in Dark Screen Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-on-windows-10-with-nvidia-210-drivers/"><u>Enhanced Graphics on Windows 10 with NVIDIA 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mystery-solved-win11-screen-glitch/"><u>Mystery Solved: Win11 Screen Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/normalizing-screen-extensions-in-windows-10-systems/"><u>Normalizing Screen Extensions in Windows 10 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-solution-for-flaky-displayport-signals/"><u>Quick Solution for Flaky DisplayPort Signals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stable-screen-view-post-fix-on-laptop-completed/"><u>Stable Screen View Post-Fix on Laptop [Completed]</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-tutorial-on-iphone-14-backup-and-restore-with-itunes/"><u>Step-by-Step Tutorial on iPhone 14 Backup & Restore with iTunes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails-for-2024/"><u>The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-cultivating-a-thriving-business-model-with-snapchat-insights/"><u>[New] Cultivating a Thriving Business Model with Snapchat Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[Updated] Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/20-must-have-devices-for-a-perfect-holiday/"><u>20 Must-Have Devices for a Perfect Holiday</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-resolving-setup-error-for-nvidia/"><u>Corrected: Resolving Setup Error for NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-refinement-on-your-laptop-display/"><u>Effortless Edge Refinement on Your Laptop Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-lenovo-screen-flicker-phenomenon/"><u>Ending Lenovo Screen Flicker Phenomenon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-rectify-unrecognized-video-cards/"><u>How to Rectify Unrecognized Video Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminate-the-blackness-in-twitch-streaming/"><u>Illuminate the Blackness in Twitch Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-guide-to-macs-image-file-transformation/"><u>In 2024, The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-ios-image-to-pdf-the-ultimate-guide-for-users/"><u>Mastering IOS Image-to-PDF The Ultimate Guide for Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-a-closer-look-at-new-devices-with-tomn-hardware/"><u>Navigating Tech Trends: A Closer Look at New Devices with Tom'n Hardware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-effortlessly-connect-your-airpods-to-yamahas-yas-507b-soundbar-silently-for-everyones-comfort-cnet/"><u>Quick Guide: Effortlessly Connect Your AirPods to Yamaha's YAS-507B Soundbar Silently for Everyone's Comfort | CNET</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-comintegration-fault-winos-update-successful/"><u>Repaired ComIntegration Fault, WinOS Update Successful</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadows-lifted-direct-x-error-exposed-and-eliminated-from-lol/"><u>Shadows Lifted: Direct X Error Exposed & Eliminated From LoL</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-to-communicate-with-youtube-subscribers-for-2024/"><u>Tips to Communicate with YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-fifa-19-analysis-setting-new-records-in-sport-simulations/"><u>Top FIFA 19 Analysis: Setting New Records in Sport Simulations</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-discount-alert-4-ways-to-save-big-on-filmora-software-for-2024/"><u>Updated Discount Alert! 4 Ways to Save Big on Filmora Software for 2024</u></a></li>
 </ul></div>
 

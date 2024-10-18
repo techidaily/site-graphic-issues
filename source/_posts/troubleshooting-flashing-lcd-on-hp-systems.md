@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-10-07T03:31:42.718Z
-updated: 2024-10-12T12:32:36.653Z
+date: 2024-10-14T11:21:32.413Z
+updated: 2024-10-17T23:42:53.669Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -65,6 +65,13 @@ Here is how to do it:
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -102,32 +109,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -139,6 +132,19 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -166,22 +172,17 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/360-degree-panoramic-shot-systems-for-2024/"><u>360 Degree Panoramic Shot Systems for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/android-capture-king-spam-free-edition-for-2024/"><u>Android Capture King Spam-Free Edition for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-graphics-drivers-in-win1011-laptops/"><u>Enabling Graphics Drivers in Win10/11 Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-vr-gaming-update-intel-graphics-in-win11/"><u>Enhance VR Gaming: Update Intel Graphics in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flawless-switchable-graphics-introducing-windows-10s-nvidiaintel-combo/"><u>Flawless Switchable Graphics: Introducing Windows 10’S Nvidia/Intel Combo</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-tutorial-crop-and-resize-your-videos-like-a-pro/"><u>In 2024, Avidemux Tutorial Crop and Resize Your Videos Like a Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-note-12-pro-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 4G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/lighting-the-way-in-film-tips-for-immaculate-visuals/"><u>Lighting the Way in Film Tips for Immaculate Visuals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximize-screen-light-on-your-lenovo-device/"><u>Maximize Screen Light on Your Lenovo Device</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mp4-aac/"><u>MP4動画への変換: AAC音楽ファイルを簡単な手順で変換する</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-hybrid-card-problem-in-win11/"><u>Overcoming Hybrid Card Problem in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedying-intermittent-displays-in-hp/"><u>Remedying Intermittent Displays in HP</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-lag-effective-ways-to-improve-your-call-of-duty-warzone-20-connection/"><u>Say Goodbye to Lag: Effective Ways to Improve Your Call of Duty Warzone 2.0 Connection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-oversized-windows-11-display/"><u>Taming Oversized Windows 11 Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-crt-blackout-in-laptops/"><u>Troubleshooting CRT Blackout in Laptops</u></a></li>
-<li><a href="https://techidaily.com/wifi-connection-mastery-how-to-connect-computers-and-notebooks/"><u>WiFi Connection Mastery: How to Connect Computers and Notebooks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-closer-examination-the-finest-mac-recording-software/"><u>[New] In 2024, A Closer Examination The Finest Mac Recording Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-best-video-grabbers-for-windows-10-pc/"><u>[New] In 2024, Best Video Grabbers for Windows 10 PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-enhance-tv-broadcasts-with-seamless-video-loops-from-youtube/"><u>[New] In 2024, Enhance TV Broadcasts with Seamless Video Loops From YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-ways-to-infuse-voiceovers-into-your-media/"><u>[New] Innovative Ways to Infuse Voiceovers Into Your Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-13t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 13T Activity | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-x-anomaly-eliminated-from-league-gameplay/"><u>Direct X Anomaly Eliminated From League Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-horizontal-line-issues-fast/"><u>Eliminate Ghost Horizontal Line Issues Fast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/epic-webcam-connectivity-quests-for-2024/"><u>Epic Webcam Connectivity Quests for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-xtreme-not-found-in-device-manager/"><u>Nvidia's XTREME Not Found in Device Manager</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-non-gpu-usage-issue-in-windows-1011-pcs/"><u>Resolving Non-GPU Usage Issue in Windows 10/11 PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722715729717-revolutionize-your-office-space-with-modern-chic-designs-flexispots-theodore-standing-desk-revealed/"><u>Revolutionize Your Office Space with Modern Chic Designs - Flexispot's Theodore Standing Desk Revealed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme GT Neo 5 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reducing Glare on Game's Text Interface
-date: 2024-09-30T10:06:11.217Z
-updated: 2024-10-01T04:56:18.507Z
+date: 2024-10-13T06:28:53.686Z
+updated: 2024-10-17T20:18:22.047Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 ## Before you start…
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Meet the system requirements
 
@@ -101,6 +108,13 @@ If this doesn’t help, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -113,24 +127,25 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
-3. Once the game executable is added, click **Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
+3. Once the game executable is added, click **Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
@@ -138,10 +153,10 @@ If this doesn’t help, try the next fix.
 If this doesn’t help, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Clean the DirectX cache
@@ -156,36 +171,16 @@ If this doesn’t help, there’s one more fix you can try.
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -209,14 +204,17 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-selection-adding-to-your-youtube-playlists/"><u>[New] Mastering Video Selection Adding to Your YouTube Playlists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[Updated] 2024 Approved Creating Memorable Beginnings IMovie Tips for YouTube Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-jokes-jamboree-mastering-memelore-made-simple/"><u>2024 Approved Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818350627-geforce-1060-get-new-nvidia-drivers-now/"><u>GeForce 1060: Get New Nvidia Drivers Now!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-12-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 12 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/obscured-display-post-driver/"><u>Obscured Display Post-Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-dead-laptop-monitor-issue/"><u>Resolving the Dead Laptop Monitor Issue</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-to-downloading-and-saving-gangnam-style-songs-in-mp4avimov-for-mac-users-and-windows/"><u>Step-by-Step Guide to Downloading and Saving Gangnam Style Songs in MP4/AVI/MOV for Mac Users and Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfinity-driver-correction-smooth-operation-restored/"><u>XFINITY Driver Correction: Smooth Operation Restored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>[New] Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ners-tutorial-setting-up-your-youtube-presence-for-2024/"><u>Beginner's Tutorial Setting Up Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-failing-internal-asus-camera/"><u>Bypassing Failing Internal Asus Camera</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/embedding-audio-in-instant-storytelling-platforms-for-2024/"><u>Embedding Audio in Instant Storytelling Platforms for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-pc-how-to-resolve-constant-f1-2020-game-crashes/"><u>Fix Your PC: How to Resolve Constant F1 2020 Game Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-quickly-get-back-into-your-facebook-profile/"><u>How to Quickly Get Back Into Your Facebook Profile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>In 2024, Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-m14-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy M14 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-correction-of-jittery-viewing/"><u>Instant Correction of Jittery Viewing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screen-sideways-solved/"><u>Laptop Screen Sideways [SOLVED]</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-outlook-overcoming-one-way-startup-glitches/"><u>Reactivating Outlook: Overcoming One-Way Startup Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-normal-screen-orientation-in-windows-10/"><u>Restore Normal Screen Orientation in Windows 10</u></a></li>
 </ul></div>
 

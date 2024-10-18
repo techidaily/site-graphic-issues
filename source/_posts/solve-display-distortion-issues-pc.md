@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2024-10-04T22:46:20.977Z
-updated: 2024-10-11T17:44:21.412Z
+date: 2024-10-17T14:19:45.932Z
+updated: 2024-10-18T09:33:17.163Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to fix my tearing screen?
@@ -41,6 +41,13 @@ There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -60,6 +67,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -67,13 +81,6 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -95,6 +102,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### For**AMD** graphics users
 
  Open Radeon Software, go to**Gaming > 3D Application Settings/Global Graphics** . Then set**Wait for vertical refresh** as**Always On** .
@@ -103,22 +117,8 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
@@ -139,17 +139,17 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-privacy-first-reader-of-facebook-snapshots/"><u>[Updated] Privacy-First Reader of Facebook Snapshots</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-ui-glitch-smooth-graphics-now-available/"><u>Fixed Windows UI Glitch - Smooth Graphics Now Available</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/flickering-camera-lights-to-financial-highlights/"><u>From Flickering Camera Lights to Financial Highlights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-change-background-on-teams-before-or-after-calling/"><u>In 2024, How to Change Background on Teams Before or After Calling</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-v30t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme V30T Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023-for-2024/"><u>Modern Photo Editing Wonders Frame Integration Essentials, 2023 for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-halo-infinite-crashes-on-xbox-with-dx12/"><u>Resolved: Halo Infinite Crashes on Xbox with DX12</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-refresh-intel-hd-graphics-in-windows/"><u>Step-by-Step: Refresh Intel HD Graphics in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-improve-lenovo-monitor-luminosity/"><u>Steps to Improve Lenovo Monitor Luminosity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-getting-miracast-to-work-on-systems-with-incorrect-graphic-card-support/"><u>Troubleshoot and Fix: Getting Miracast to Work on Systems with Incorrect Graphic Card Support</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-eliminating-screen-burn-in-on-your-display/"><u>Ultimate Guide: Eliminating Screen Burn-In on Your Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10s-hybrid-gpu-success-story-with-nvidia-and-intel-fixes/"><u>Windows 10'S Hybrid GPU Success Story with NVIDIA & Intel Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-captioning-masterful-techniques-for-text-in-windowsmac-pics/"><u>[Updated] Creative Captioning Masterful Techniques for Text in Windows/Mac Pics</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>2024 Approved From Bland to Breathtaking Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alternative-win-art-software-matching-procreates-quality/"><u>Alternative Win Art Software Matching Procreate's Quality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deciphering-and-fixing-geforce-experiences-error-0x0003/"><u>Deciphering and Fixing GeForce Experience's Error 0X0003</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dying-light-audio-malfunction-repaired-step-by-step-solutions/"><u>Dying Light Audio Malfunction Repaired: Step-by-Step Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/id-lost-naming-intel-icd-with-opengl-support/"><u>ID Lost: Naming Intel ICD with OpenGL Support</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-itel-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Itel Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/increase-phone-alert-levels-expert-advice-on-amplifying-iphone-calls/"><u>Increase Phone Alert Levels: Expert Advice on Amplifying iPhone Calls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-erasing-your-files-forever-with-these-7-techniques/"><u>The Ultimate Guide to Erasing Your Files Forever with These 7 Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-no-cost-live-sports-streaming-platforms/"><u>Top 5 No-Cost Live Sports Streaming Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1723012843350-winning-at-games-how-to-deal-with-fps-fluctuations-eradicate-hitches-and-increase-overall-gameplay-quality/"><u>Winning at Games: How to Deal with FPS Fluctuations, Eradicate Hitches & Increase Overall Gameplay Quality.</u></a></li>
 </ul></div>
 

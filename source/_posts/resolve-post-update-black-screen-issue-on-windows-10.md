@@ -1,7 +1,7 @@
 ---
 title: Resolve Post-Update Black Screen Issue on Windows 10
-date: 2024-10-07T13:56:17.895Z
-updated: 2024-10-12T02:49:53.118Z
+date: 2024-10-13T00:53:38.359Z
+updated: 2024-10-18T06:13:23.518Z
 tags:
   - win11
   - win10
@@ -28,26 +28,12 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 5. [**Log in using a different user account**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 1: Try a Windows key sequence to wake the screen
 
 A quick fix to your black screen problem would be:
 
 * If you have a keyboard connected, press the   **Windows logo![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
 **key+Ctrl+Shift + B**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
 
@@ -65,6 +51,13 @@ A quick fix to your black screen problem would be:
 If this produces no results, you can move on to Fix 3.  
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics card driver
 
@@ -102,42 +95,29 @@ If this produces no results, you can move on to Fix 3.
 3. Click the**File** tab, then**Run new task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
 7. **Restart** your PC to check if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -160,25 +140,18 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Accounts** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### How to activate the original Windows administrator account
 
@@ -187,14 +160,21 @@ If this produces no results, you can move on to Fix 3.
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -207,6 +187,13 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Update & security** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
 
@@ -214,6 +201,13 @@ If this produces no results, you can move on to Fix 3.
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -237,17 +231,20 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] In 2024, Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-gradual-aesthetic-launch/"><u>[Updated] In 2024, Gradual Aesthetic Launch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anthropics-guide-to-claude-3-toolbox/"><u>Anthropic's Guide to Claude 3 Toolbox</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dawn-arises-for-windows-11-after-update-falls/"><u>Dawn Arises for Windows 11 After Update Falls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-down-asus-laptop-display-flash-quickly/"><u>Dial Down ASUS Laptop Display Flash Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-smooth-transitions-with-revived-freesync/"><u>Enabling Smooth Transitions with Revived FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-imaging-reinstate-your-screens-display/"><u>Immediate Imaging: Reinstate Your Screen's Display</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-accelerating-learning-in-lut-design/"><u>In 2024, Accelerating Learning in LUT Design</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-update-failed-with-error-0x80240017-expert-strategies-revealed/"><u>Overcoming 'Windows Update Failed with Error 0X80240017': Expert Strategies Revealed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-out-win11-flickering-screens/"><u>Smooth Out: Win11 Flickering Screens</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/topeight-innovative-4k-blu-ray-player-options/"><u>TopEight Innovative 4K Blu-Ray Player Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-nier-automata-pc-issues-for-smooth-gaming-experience/"><u>Troubleshooting Nier: Automata PC Issues for Smooth Gaming Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tailoring-your-video-for-optimal-instagram-impact/"><u>[New] 2024 Approved Tailoring Your Video for Optimal Instagram Impact</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels/"><u>2024 Approved Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-failed-to-load-detection-driver-on-windowas-10-solved/"><u>AMD: Failed to Load Detection Driver on Windowas 10 [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/awaken-your-lenovos-screen/"><u>Awaken Your Lenovo's Screen</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-11-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-non-displayed-full-screen-in-win11/"><u>Fixing Non-Displayed Full Screen in Win11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-instagram-video-sharing-techniques/"><u>In 2024, Instagram Video Sharing Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-m14-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy M14 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-s23plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy S23+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/modernize-your-system-intels-drivers-for-windows/"><u>Modernize Your System: Intel's Drivers for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-distorted-displays-within-windows-10-systems/"><u>Realigning Distorted Displays Within Windows 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-your-black-screened-laptop/"><u>Reviving Your Black Screened Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silencing-screenscape-shenanigans-in-pro-7/"><u>Silencing Screenscape Shenanigans in Pro 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unifying-similar-portraits-in-your-photograph-collection-using-iphone-or-mac-tools/"><u>Unifying Similar Portraits in Your Photograph Collection Using iPhone or Mac Tools</u></a></li>
 </ul></div>
 

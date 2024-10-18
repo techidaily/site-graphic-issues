@@ -1,7 +1,7 @@
 ---
 title: "Boosting Frame Rate Mastery: Discover the 6 Best Techniques"
-date: 2024-10-07T21:32:13.762Z
-updated: 2024-10-12T11:27:12.014Z
+date: 2024-10-11T14:11:12.913Z
+updated: 2024-10-18T03:27:18.136Z
 tags:
   - win11
   - win10
@@ -39,20 +39,14 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Tip 2: Adjust your PC for best performance
 
@@ -61,41 +55,35 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and**Pause** at the same time and click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In **Advanced** , click **Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98b285ef51d.jpg)
 3. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Tip 3: Update your graphics driver
 
@@ -113,16 +101,23 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Tip 4: Do a disk clean-up 
@@ -132,25 +127,18 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **c:\\windows\\SYSTEM32\\cleanmgr.exe /cDrive**   into the box and click **OK** .![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee1e0c3be4.png)
 2. Choose **the drive** you want to free up storage and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
 3. Technically, you can tick all **the boxes** . You might also need to check out **Recycle Bin** and see if there’s anything to be restored first. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
 4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
@@ -201,20 +189,24 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/0plus-best-free-video-editing-programs-of-2023-for-2024/"><u>[New] 10+ Best Free Video Editing Programs of 2023 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-screen-record-on-lenovo-laptop/"><u>[Updated] In 2024, How to Screen Record on Lenovo Laptop</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unlocking-the-secrets-to-building-trust-with-fb-giveaways/"><u>[Updated] Unlocking the Secrets to Building Trust with FB Giveaways</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings/"><u>2024 Approved Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/"><u>Eliminating Blurry Displays with Win11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-tips-for-eradicating-extra-green-on-youtube-videos-mac-for-2024/"><u>Expert Tips for Eradicating Extra Green on YouTube Videos (Mac) for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-pixel-gap-phenomena-computer-screens/"><u>Fix Pixel Gap Phenomena (Computer Screens)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-note-12-proplus-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi Note 12 Pro+ 5G Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-maintaining-clear-views-in-win7/"><u>Master the Art of Maintaining Clear Views in Win7</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-for-windows-11s-software-folder-restarts/"><u>Quick-Fix Guide for Windows 11'S Software Folder Restarts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-integration-issues-of-nvidia-and-intel-graphic-cards-on-win10/"><u>Resolved Integration Issues of Nvidia & Intel Graphic Cards on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-direct3d-deployment-achieved/"><u>Seamless Direct3D Deployment Achieved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Analysis & Hardware Insights</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-8-best-kept-video-download-secrets/"><u>Top 8 Best-Kept Video Download Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-cricket-experience-a-guide-to-top-live-sports-services/"><u>[New] Streamline Your Cricket Experience A Guide to Top Live Sports Services</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-subscribe-savvy-double-your-audience-in-pocket-change-for-2024/"><u>[Updated] Subscribe Savvy Double Your Audience in Pocket Change for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-3-effective-steps-to-brighten-your-photos/"><u>2024 Approved 3 Effective Steps to Brighten Your Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-tips-for-perfecting-your-srt-files/"><u>2024 Approved Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breakthrough-on-sims-4-invisible-launching/"><u>Breakthrough on Sims 4 Invisible Launching</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/convert-mpg-and-mp3-to-m4v-format-free-online-easy-guide/"><u>Convert MPG & MP3 to M4V Format FREE Online - Easy Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cracked-code-direct-x-quirk-no-longer-lurks-in-lol/"><u>Cracked Code: Direct X Quirk No Longer Lurks in LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-glitch-code-43-overcome/"><u>Drivers' Glitch Code 43 Overcome</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-s17-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo S17 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-solution-stop-pc-crashes-in-fallout-4/"><u>Easy Solution: Stop PC Crashes in Fallout 4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-solutions-for-when-windows-11-wont-exit-shut-down-troubleshooting-guide/"><u>Easy Solutions for When Windows 11 Won't Exit - Shut Down Troubleshooting Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancinas-microsofts-windows-core-functions/"><u>Enhancinas Microsoft's Windows Core Functions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/essential-techniques-to-correct-issues-with-nwstoreexe-errors/"><u>Essential Techniques to Correct Issues with NW_store.exe Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-and-curing-screen-flashes-in-dell-computers/"><u>Fixing and Curing Screen Flashes in Dell Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-bios-routes-in-msi-windows-os/"><u>Fixing BIOS Routes in MSI Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-card-not-compatible-with-windows-11-fix/"><u>Nvidia Card Not Compatible with Windows 11 [Fix]</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-windows-method-for-cr2-image-jpg-transformation/"><u>Step-by-Step Windows Method for CR2 Image JPG Transformation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-screen-flashing-or-flickering-solved/"><u>Windows 11 Screen Flashing Or Flickering [SOLVED]</u></a></li>
 </ul></div>
 

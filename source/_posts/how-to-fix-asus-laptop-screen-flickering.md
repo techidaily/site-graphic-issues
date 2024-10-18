@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-10-04T17:42:56.601Z
-updated: 2024-10-12T02:35:36.188Z
+date: 2024-10-11T09:17:25.483Z
+updated: 2024-10-18T13:51:09.087Z
 tags:
   - win11
   - win10
@@ -42,19 +42,41 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 2. In**Related settings** , click**Advanced display** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -62,32 +84,18 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -100,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -170,14 +171,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-make-a-youtube-intro-video-2-ways/"><u>[Updated] In 2024, How to Make A YouTube Intro Video [2 Ways]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-sideways-screens-on-windows-10/"><u>Correcting Sideways Screens on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-a-win11-fix/"><u>Eliminating Graphic Swap Errors: A Win11 Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-pro-logic-iix-driver-errors-to-enable-audio-in-windows-11-systems/"><u>Fixing Dolby Pro Logic IIx Driver Errors to Enable Audio in Windows 11 Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-xr-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone XR</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rapid-repair-amd-graphics-bug-in-tarkov/"><u>Rapid Repair: AMD Graphics Bug in Tarkov</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817435202-upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-magic-5-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Magic 5 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-usb-c-driver-on-windows-10/"><u>[Download] USB-C Driver on Windows 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>[New] 2024 Approved In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-your-engagement-with-full-screen-facebook-videos/"><u>[New] 2024 Approved Maximize Your Engagement with Full-Screen Facebook Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-google-meet-on-phone-for-2024/"><u>[New] How to Record Google Meet on Phone for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unbiased-take-on-recordcast-efficacy-for-2024/"><u>[New] Unbiased Take on RecordCast Efficacy for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4s-windows-woes-simplified/"><u>Fixing Fallout 4'S Windows Woes Simplified</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-c615-back-in-action-driver-fixes-explained/"><u>Get Your Logitech C615 Back in Action: Driver Fixes Explained</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-french-speaker-trends-leading-nations-reviewed/"><u>Global French Speaker Trends: Leading Nations Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-malfunction-resolved-screen-responding/"><u>GPU Malfunction Resolved: Screen Responding</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pc-peace-stop-the-fallout-4-crash-cases/"><u>PC Peace: Stop the Fallout 4 Crash Cases</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-geforce-shader-overheat/"><u>Resolved GeForce Shader Overheat</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-gaming-on-rtx-graphics/"><u>Uninterrupted Gaming on RTX Graphics</u></a></li>
 </ul></div>
 

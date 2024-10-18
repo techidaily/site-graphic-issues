@@ -1,7 +1,7 @@
 ---
 title: "Fix: Unclear Windows Display"
-date: 2024-10-05T16:26:42.429Z
-updated: 2024-10-06T19:27:44.458Z
+date: 2024-10-15T16:02:24.853Z
+updated: 2024-10-18T09:10:34.703Z
 tags:
   - win11
   - win10
@@ -63,21 +63,20 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -101,26 +100,12 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e2b88e496.jpg)
 3. Click **Driver Uninstall** , and double click**Display adapters** . Select your graphics card and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
 
 Check if your screen becomes normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change DPI scaling settings for your monitor
 
@@ -137,10 +122,10 @@ Check if your screen becomes normal.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then Windows will apply the changes. Check and see if your screen gets clear.
@@ -151,12 +136,34 @@ Check if your screen becomes normal.
 2. Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -165,31 +172,32 @@ Check if your screen is still blurry.
 1. Type the name of the app in the search box on your desktop, right-click on the app and select**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de6b88075.jpg)
 2. Right click on the application setup file, and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de9be456f.jpg)
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if the blurry problem has been fixed.
 
@@ -215,24 +223,19 @@ Check if the blurry problem has been fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-adobes-jestful-journey-to-meme-making/"><u>[New] Adobe's Jestful Journey to Meme-Making</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-creating-content-with-purpose-balancing-job-and-youtube/"><u>[Updated] 2024 Approved Creating Content with Purpose Balancing Job & YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-syncopated-sound-understanding-ip-rules-on-instagram/"><u>[Updated] Syncopated Sound Understanding IP Rules on Instagram</u></a></li>
-<li><a href="https://win-blog.techidaily.com/2024s-ultimate-troubleshooting-companion-resolving-rockstar-games-launcher-problems/"><u>2024'S Ultimate Troubleshooting Companion: Resolving Rockstar Games Launcher Problems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-guide-to-choosing-between-the-latest-ipad-pro-or-macbook-pro/"><u>A Comprehensive Guide to Choosing Between the Latest iPad Pro or MacBook Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-laptops-erratic-screenshots-flashing/"><u>Conquered Laptop's Erratic Screenshots Flashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/critical-dxgkrnlsys-bsod-in-windows-addressed/"><u>Critical dxgkrnl.sys BSoD in Windows Addressed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-dead-pixels-from-desktop-screens/"><u>Eliminating Dead Pixels From Desktop Screens</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722968274863-get-the-newest-amd-radeon-pro-w5700-driver-for-win11107-systems-today/"><u>Get the Newest AMD Radeon Pro W5700 Driver for Win11/10/7 Systems Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-fan-rewake-strategy-documented-here/"><u>GPU Fan Rewake Strategy Documented Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-resolution-restored-error-22/"><u>Graphics Resolution Restored - Error 22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-stable-screens/"><u>Master the Art of Stable Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcame-graphics-failure-issue/"><u>Overcame Graphics Failure Issue</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-6-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 6</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-your-chatgpt-experience-a-plugin-journey/"><u>Transforming Your ChatGPT Experience: A Plugin Journey</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgraded-advanced-graphics-tweaks-for-win11/"><u>Upgraded: Advanced Graphics Tweaks for Win11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/why-does-my-photo-booth-videos-keep-freezing-in-2024/"><u>Why Does My Photo Booth Videos Keep Freezing, In 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-cutting-edge-design-top-5-3d-intro-makers/"><u>[New] 2024 Approved Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-quickly-add-speech-overlays-to-your-instagram-posts/"><u>[Updated] 2024 Approved Quickly Add Speech Overlays to Your Instagram Posts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-on-lenovo-pcs/"><u>Bring Back the Colors on Lenovo PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-faulty-printer-response-in-ad-ds-win-10-and-11/"><u>Eliminating Faulty Printer Response in AD DS, WIN 10 & 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-light-win11-black-screen-resolved-post-fall/"><u>From Dark to Light: Win11 Black Screen Resolved Post-Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-troubleshoot-and-fix-0x80n4def7-error-in-onedrive-for-windows-11-users/"><u>How to Troubleshoot and Fix 0X80n4DEF7 Error in OneDrive for Windows 11 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>In 2024, Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-visual-output-from-gpu/"><u>Recovered Visual Output From GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-glare-and-glitches-pro-7-edition/"><u>Repairing Glare and Glitches: Pro 7 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/respecting-copyrights-when-converting-youtube-to-mp4-for-2024/"><u>Respecting Copyrights When Converting YouTube to MP4 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-an-inactive-alexa-a-comprehensive-fix-it-manual/"><u>Reviving an Inactive Alexa - A Comprehensive Fix-It Manual</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upcoming-respiratory-tracking-capability-in-apples-vision-pro-revealed/"><u>Upcoming Respiratory Tracking Capability in Apple’s Vision Pro, Revealed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmare-post-fall-dark-display-solved/"><u>Win11 Nightmare: Post Fall Dark Display Solved</u></a></li>
 </ul></div>
 

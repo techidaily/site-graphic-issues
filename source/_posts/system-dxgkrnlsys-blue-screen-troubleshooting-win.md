@@ -1,7 +1,7 @@
 ---
 title: "[System] dxgkrnl.sys Blue Screen: Troubleshooting Win"
-date: 2024-08-31T05:33:12.612Z
-updated: 2024-09-01T05:33:12.612Z
+date: 2024-10-17T04:38:42.777Z
+updated: 2024-10-18T08:44:51.123Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 
  The methods work only when you can boot into your PC desktop. If you are having problem logging into your desktop, you can try a [hard boot](https://tools.techidaily.com/drivereasy/download/) into Advanced Startup Options. From there, choose Safe Mode with Networking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1\. Run Fortect to repair BSOD error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix the blue screen of death error **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys)** . Fortect Windows Repair is tailored to your specific system and is working in a private and automatic way. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings or user data.
@@ -45,13 +52,23 @@ thumbnail: https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead5
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2\. Keep Windows 10 Updated
 
  It is always suggested that you keep your system updated so as to avoid any unwanted issues, like this one. So if you have not yet updated your Windows 10 just yet, do it now.
@@ -60,20 +77,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f05148ad.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f35b1798.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Check for updates** button and Windows will search for the needed patches for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f6328d3b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  4) If find any available update, just download them and wait for them to be installed. You may need to restart your computer for the change to take effect.
 
 ## Fix 3\. Update Graphics Card Driver (Recommended)
@@ -92,21 +110,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f257432e57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics card device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f25aff37f6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Fix 4\. Check for Possible Hardware Failure
 
  We have seen some cases in which the problem was caused by a faulty motherboard or a RAM module. If you have tried the above methods and the error stays, you may need to take your PC to a repair store to get it checked.
@@ -130,8 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +146,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/added-hidden-settings-in-windows-10-displays-unlocked/"><u>[ADDED] Hidden Settings in Windows 10 Displays Unlocked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-7-best-apps-to-go-live-on-youtube-from-iphone-or-android-for-2024/"><u>[New] FREE 7 Best Apps to Go Live on YouTube From iPhone or Android for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-addressing-over-encoded-obs-media/"><u>[Updated] Addressing Over-Encoded OBS Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a78-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A78 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-and-preventing-fraudulent-activities-with-fraudgpt-chatbots/"><u>Identifying and Preventing Fraudulent Activities with FraudGPT Chatbots</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-ace-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Ace 2</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-11-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 11 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-diagonal-misalignment-in-netbooks/"><u>Resolved Diagonal Misalignment in Netbooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-affected-by-graphics-driver-crash-repaired/"><u>System Affected by Graphics Driver Crash Repaired</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-display-fade/"><u>Troubleshooting Lenovo Display Fade</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Remedying Shadows on Smartphone Screens
-date: 2024-10-09T15:22:26.119Z
-updated: 2024-10-11T21:41:06.194Z
+date: 2024-10-16T12:58:59.494Z
+updated: 2024-10-18T12:14:42.040Z
 tags:
   - win11
   - win10
@@ -52,26 +52,26 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
 
@@ -79,20 +79,33 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ef3d35e32.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Laptop memory
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extra tips
 
@@ -104,16 +117,16 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
@@ -122,19 +135,6 @@ And then in the dialog popping up, click the**System Restore**button.
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  2\. Update your device driver
 
@@ -166,22 +166,22 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-steps-to-achieve-flawless-nocturnal-photography/"><u>[New] Essential Steps to Achieve Flawless Nocturnal Photography</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-olympic-ice-rush-speed-skaters-best-from-games/"><u>[New] Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-future-of-tiktok-master-video-trends-and-techniques/"><u>[New] The Future of TikTok - Master Video Trends and Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-8-top-movie-downloader-rankings/"><u>[Updated] Mastering Facebook #8 Top Movie Downloader Rankings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-understanding-theta-s-complete-technical-review/"><u>[Updated] Understanding Theta S Complete Technical Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-efficiency-with-a-discounted-m1-imac-now-available-for-just-800-upgrade-to-powerhouse-productivity/"><u>Boost Efficiency with a Discounted M1 iMac Now Available for Just $800 – Upgrade to Powerhouse Productivity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-peace-to-your-win11-display/"><u>Bringing Peace to Your Win11 Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-unclear-font-in-fc6-gameplay/"><u>Correcting Unclear Font in FC6 Gameplay</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/counteracting-screen-shimmer-on-surface-pro-7/"><u>Counteracting Screen Shimmer on Surface Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-resolve-system-freezes-on-windows-or-mac-computers/"><u>How To Diagnose & Resolve System Freezes on Windows or Mac Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-screenscape-for-win11-users/"><u>Smooth Screenscape for Win11 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-gpu-errors-in-minecraft-on-pc/"><u>Stop GPU Errors in Minecraft on PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-restoring-vibration-functionality-for-iphones-on-silent-or-ring-mode/"><u>Troubleshooting Guide: Restoring Vibration Functionality for iPhones on Silent or Ring Mode</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-creating-and-copying-dvds-with-winx-dvd-author-on-windows-11-free-download/"><u>Ultimate Guide to Creating & Copying DVDs with WinX DVD Author on Windows 11 – Free Download</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-laptop-gpu-confirmation-successful/"><u>Win11 Laptop GPU Confirmation Successful</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-gpu-ready-status-achieved/"><u>Windows 11 GPU Ready Status Achieved</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-building-brilliance-top-6-minecraft-homes/"><u>[New] In 2024, Building Brilliance Top 6 Minecraft Homes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>2024 Approved Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-ultimate-selection-of-iphone-1616-pro-skins-expert-reviews-and-ratings/"><u>2024'S Ultimate Selection of iPhone 16/16 Pro Skins: Expert Reviews and Ratings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818172681-amds-graphics-evolution-upgraded-hd-6950-windows-10-driver/"><u>AMD's Graphics Evolution: Upgraded HD 6950 Windows 10 Driver!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-champions-emerge-gpt-vs-bing-showdown/"><u>Chatbot Champions Emerge: GPT Vs. Bing Showdown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-windows-display-in-win-10-system/"><u>Decrease Windows Display in WIN 10 System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-7025-no-more-win11-issues/"><u>GeForce 7025, No More Win11 Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-processor-error-overcome-system-safe/"><u>Graphics Processor Error Overcome, System Safe</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-t2x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo T2x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-wedding-timers-android-and-ios-top-10-picks/"><u>In 2024, Perfect Wedding Timers Android & iOS' Top 10 Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-sonic-immersion-for-static-snapshots/"><u>In 2024, Sonic Immersion for Static Snapshots</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-13t-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi 13T Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-transformation-of-windows-10-landscape/"><u>In 2024, The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-installation-obstacle-for-nvidia-driver/"><u>Overcome Installation Obstacle for Nvidia Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-graphics-switching-problem/"><u>Successful Resolution of Graphics Switching Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-advanced-gpu-software-for-gtx-1060/"><u>Upgrade to Advanced GPU Software for GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/what-is-4k-resolution/"><u>What Is 4K Resolution</u></a></li>
 </ul></div>
 

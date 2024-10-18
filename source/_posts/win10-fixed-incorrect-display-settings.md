@@ -1,7 +1,7 @@
 ---
 title: "Win10: Fixed Incorrect Display Settings"
-date: 2024-10-02T17:52:20.780Z
-updated: 2024-10-06T21:16:50.391Z
+date: 2024-10-13T22:44:50.903Z
+updated: 2024-10-18T08:46:58.054Z
 tags:
   - win11
   - win10
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -65,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -79,29 +73,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -123,15 +110,22 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
@@ -162,19 +156,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-master-the-art-of-cutting-a-video-editors-handbook-for-instagram-for-2024/"><u>[New] Master the Art of Cutting A Video Editor's Handbook for Instagram for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-essential-insights-into-hands-free-interaction-for-2024/"><u>[Updated] Essential Insights Into Hands-Free Interaction for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-quick-tips-eliminate-signature-bg-in-minutes/"><u>2024 Approved Quick Tips Eliminate Signature Bg in Minutes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dampening-displays-fixing-pro-7-flashes/"><u>Dampening Displays: Fixing Pro 7 Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/identify-faulty-drivers-stop-crashes/"><u>Identify Faulty Drivers, Stop Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-gaming-experience-with-new-updates-on-amd-rx-amoledr-480-drivers/"><u>Improve Gaming Experience with New Updates on AMD RX Amoled(R) 480 Drivers</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1725288931075-m4vmp4/"><u>M4VフォーマットとMP4形式:それらの主な違いを解読する</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-your-asus-display-quell-screen-flashes/"><u>Master Your ASUS Display: Quell Screen Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastery-over-lenovo-display-glitches/"><u>Mastery Over Lenovo Display Glitches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/perfect-shots-every-time-removing-eye-glare-from-pet-portraits/"><u>Perfect Shots Every Time: Removing Eye Glare From Pet Portraits</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quelling-flickering-on-microsoft-surface-pro-7/"><u>Quelling Flickering on Microsoft Surface Pro 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-tactical-edition-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Tactical Edition Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-1110-homes-enabling-efficient-user-handling/"><u>Windows 11/10 Homes: Enabling Efficient User Handling</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-blue-screen-crisis-tackle-wdf-complaints/"><u>Windows Blue Screen Crisis: Tackle WDF Complaints</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-joining-the-dots-obs-and-zoom-pairing-explained/"><u>[New] 2024 Approved Joining the Dots OBS & Zoom Pairing Explained</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-tech-to-record-and-share-google-meet-insights/"><u>[New] In 2024, Essential Tech to Record and Share Google Meet Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>[New] In 2024, Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-virtual-worlds-analyzing-current-state-and-ahead-for-2024/"><u>[Updated] Virtual Worlds Analyzing Current State & Ahead for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simple-tips-for-capturing-google-voice-conversations/"><u>2024 Approved Simple Tips for Capturing Google Voice Conversations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/accelerate-engagement-through-vimeo-linking/"><u>Accelerate Engagement Through Vimeo Linking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avert-gpu-failure-in-popular-pc-game/"><u>Avert GPU Failure in Popular PC Game</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deviceinit-failed-now-working/"><u>DeviceInit Failed, Now Working</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-windows-10-unresponsive-monitor/"><u>Fix for Windows 10 Unresponsive Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-aspect-ratio-on-slant-view-laptop/"><u>Fixed Aspect Ratio on Slant-View Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fuzzy-fonts-on-far-cry-6-screen/"><u>Fixing Fuzzy Fonts on Far Cry 6 Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-mini-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 mini Without a Passcode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-open-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus Open FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-fullscreen-view-in-win10/"><u>Monitor Not Showing Fullscreen View in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-configuration-for-windows-11/"><u>Revamped Visual Configuration for Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionize-your-streaming-experience-top-18-webcam-tools-explored-for-2024/"><u>Revolutionize Your Streaming Experience Top 18 Webcam Tools Explored for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-managing-gpu-fails-in-running-systems/"><u>Strategies for Managing GPU Fails in Running Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-output-restored-post-error/"><u>Video Output Restored Post-Error</u></a></li>
 </ul></div>
 

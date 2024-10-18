@@ -1,7 +1,7 @@
 ---
 title: OpenGL & TDR Alert Overcome - Thanks to NVIDIA!
-date: 2024-10-04T21:54:06.162Z
-updated: 2024-10-06T16:52:04.334Z
+date: 2024-10-11T19:21:35.302Z
+updated: 2024-10-18T09:23:21.089Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -64,13 +57,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
@@ -89,7 +75,21 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -104,10 +104,10 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
@@ -115,18 +115,18 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -152,20 +152,22 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>[New] Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-securing-memories-how-to-obtain-facebooks-live-videos/"><u>[Updated] In 2024, Securing Memories How to Obtain Facebook's Live Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-creating-a-captivating-experience-with-your-first-facebook-live/"><u>2024 Approved Creating a Captivating Experience with Your First Facebook Live</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/access-updated-nvidia-gtx-1060-drivers-online/"><u>Access Updated Nvidia GTX 1060 Drivers Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oneplus-nord-ce-3-lite-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Nord CE 3 Lite 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-linux-screenshot-the-most-acclaimed-applications/"><u>In 2024, Linux Screenshot The Most Acclaimed Applications</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimized-dual-gpu-operation-on-windows-10-with-nvidiaintel/"><u>Optimized Dual-GPU Operation on Windows 10 with Nvidia/Intel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refining-win-os-render-performance-via-upgrades/"><u>Refining Win OS Render Performance via Upgrades</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-asus-video-output-capabilities/"><u>Restore ASUS Video Output Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revolutionary-clear-window-tech/"><u>Revolutionary Clear Window Tech</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-poco-x6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Poco X6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-into-the-future-of-gaming-updated-amd-hd-6950-drivers-for-win10/"><u>Step Into the Future of Gaming: Updated AMD HD 6950 Drivers for Win10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/streaming-quality-comparison-obs-or-fraps/"><u>Streaming Quality Comparison OBS or Fraps?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-five-key-drivers-for-chatgpts-record-breaking-popularity-surge/"><u>Unveiling the Five Key Drivers for ChatGPT's Record-Breaking Popularity Surge</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-dive-into-freeware-for-precise-music-tempo-tracking-for-2024/"><u>[New] Dive Into Freeware for Precise Music Tempo Tracking for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exceptional-windows-calls-8-highest-rated-for-2024/"><u>[Updated] Exceptional Windows Calls 8 Highest Rated for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>[Updated] Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/captioning-for-social-video-content-from-snapchat-to-igtv/"><u>Captioning for Social Video Content From Snapchat to IGTV</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-mirrored-display-glitch-in-windows-11/"><u>Correcting Mirrored Display Glitch in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-monitor-issues/"><u>Correcting Windows 10 Monitor Issues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-review-navigating-through-2024s-elite-weather-stations-for-homes/"><u>Expert Review: Navigating Through 2024'S Elite Weather Stations for Homes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-unsupported-card-missing/"><u>Graphics Unsupported: Card Missing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/introducing-the-enhanced-windows-11-geforce-210-driver/"><u>Introducing the Enhanced Windows 11 GeForce 210 Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-wireless-fix-atheros-adapter-in-windows-10/"><u>Qualcomm Wireless Fix: Atheros Adapter in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-failed-display-saving-in-win-7-and-10-systems-solution-found/"><u>Restore Failed Display Saving in Win 7 & 10 Systems [Solution Found]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-shaping-success-in-windows-11/"><u>Screen Shaping Success in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-the-trouble-youtubes-green-screen-fixes-unveiled/"><u>Tackling the Trouble: YouTube's Green Screen Fixes Unveiled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hoice-microphones-for-youtube-creators/"><u>Top Choice Microphones for YouTube Creators</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transform-your-mod-videos-into-mp4-seamlessly-free-online-tool-by-movavi/"><u>Transform Your MOD Videos Into MP4 Seamlessly - Free Online Tool by Movavi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-clarity-achieved/"><u>Windows Clarity Achieved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Settling Disputed Display Settings in Win10
-date: 2024-10-02T19:03:36.360Z
-updated: 2024-10-06T17:46:41.511Z
+date: 2024-10-17T00:34:39.718Z
+updated: 2024-10-18T09:23:14.723Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -76,33 +69,33 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -117,6 +110,13 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
@@ -156,17 +156,22 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-science-of-display-understanding-srgb-vs-rgb-colors/"><u>[New] The Science of Display Understanding Srgb vs Rgb Colors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-on-windows-10-how-to-fix/"><u>AMD Graphics Card Unrecognized on Windows 10 - How to Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-fps-game-top-6-expert-strategies/"><u>Boost Your FPS Game: Top 6 Expert Strategies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decoding-vulkan-runtime-libraries-functions-and-best-practices-explained/"><u>Decoding Vulkan Runtime Libraries: Functions & Best Practices Explained</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-content-game-with-these-instagram-story-tips-for-2024/"><u>Elevate Your Content Game with These Instagram Story Tips for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-cod-black-ops-cold-war-now-functional-on-windows/"><u>Fixes Implemented: Cod: Black Ops Cold War Now Functional on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-eliminate-yellow-discoloration-from-your-iphones-screen-a-step-by-step-guide/"><u>How to Eliminate Yellow Discoloration From Your iPhone's Screen: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accelerate-document-creation-learning-ms-words-speech-feature/"><u>In 2024, Accelerate Document Creation Learning MS Word's Speech Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-techniques-selecting-audioscapes-for-unveiling-videos/"><u>In 2024, Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-poco-x5-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Poco X5 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-have-your-video-embrace-by-vimeo-experts/"><u>[New] Strategies to Have Your Video Embrace by Vimeo Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-layers-of-a-great-humorous-poster/"><u>[New] The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-harnessing-the-power-of-short-videos-for-maximum-income/"><u>[Updated] Harnessing the Power of Short Videos for Maximum Income</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-infiltration-despite-advanced-tech/"><u>Content Infiltration Despite Advanced Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001197212-doom-eternal-not-launching-heres-the-fix/"><u>DOOM Eternal Not Launching? Here's the Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-wide-viewport-experience-in-windows-10/"><u>Enhancing Wide-Viewport Experience in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funhouse-laughs-top-10-meme-blueprints-explained/"><u>In 2024, Funhouse Laughs Top 10 Meme Blueprints Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-securely-saving-your-instagram-videos-on-pc-and-macos/"><u>In 2024, Securely Saving Your Instagram Videos on PC and MacOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jumpstart-gaming-on-win10-new-release-of-radeon-hd-6950-drivers/"><u>Jumpstart Gaming on Win10: New Release of Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-overcoming-setup-obstacle/"><u>Mended: Overcoming Setup Obstacle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-shadowed-by-new-gfx-card/"><u>Monitor Shadowed by New GFX Card</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-complete-voice-free-auditory-experience-premium-sound-processor-applications-reviewed/"><u>New The Complete Voice-Free Auditory Experience Premium Sound Processor Applications Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-speed-control-the-editors-essential-handbook-for-2024/"><u>Seamless Speed Control The Editor's Essential Handbook for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-gpu-overheats-preserving-system-availability/"><u>Solutions to GPU Overheats: Preserving System Availability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-glitch/"><u>Solved: Windows 11 Display Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-modernize-intel-graphics-support/"><u>Windows 7: Modernize Intel Graphics Support</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-complication-guide-to-reactivate-port/"><u>Zero-Complication Guide to Reactivate Port</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastery Over Lenovo Display Glitches
-date: 2024-10-05T22:10:32.502Z
-updated: 2024-10-06T17:43:41.846Z
+date: 2024-10-15T16:12:58.471Z
+updated: 2024-10-18T05:59:48.217Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -63,10 +70,10 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -74,32 +81,25 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
@@ -133,22 +133,24 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-filmoquery-your-guide-to-video-editing-insights/"><u>[New] FilmoQuery Your Guide to Video Editing Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/arnessing-technology-the-art-of-capturing-ios-devices-in-media-for-2024/"><u>[New] Harnessing Technology The Art of Capturing iOS Devices in Media for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>[Updated] In 2024, Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-cover-chronicles-top-tier-tech-edition-for-2024/"><u>[Updated] Insta Cover Chronicles Top-Tier Tech Edition for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-playback-anarchy-youtube-playlists-unordered-again-for-2024/"><u>[Updated] The Art of Playback Anarchy YouTube Playlists Unordered Again for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-av1-codec-mastery/"><u>2024 Approved Unveiling the Secrets of AV1 Codec Mastery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-itel-p55-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Itel P55 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dismantle-the-flashy-monitor-myth/"><u>Dismantle the Flashy Monitor Myth</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-clear-uninterrupted-videos/"><u>Effortless Clear, Uninterrupted Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-troubleshooting-for-graphics-cards/"><u>Effortless Troubleshooting for Graphics Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-vr-experience-with-functional-freesync/"><u>Enhancing VR Experience with Functional FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-tips-for-stopping-squirm-in-asus-lcds/"><u>Expert Tips for Stopping Squirm in ASUS LCDs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-fisheye-sphere-capture/"><u>In 2024, Innovative Techniques for Fisheye Sphere Capture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-connection-repair-via-hdmi/"><u>Laptop to TV Connection Repair via HDMI</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-latency-for-uninterrupted-videos/"><u>Overcome Latency for Uninterrupted Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-rejuvenate-fallout-4-on-windows/"><u>Solved: Rejuvenate Fallout 4 on Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/troubleshooting-silent-playback-solutions-for-plex-audio-issues-across-devices/"><u>Troubleshooting Silent Playback: Solutions for Plex Audio Issues Across Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-iphone-backup-flawless-integration-with-snapchat-photos/"><u>[New] Navigating iPhone Backup Flawless Integration with Snapchat Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-presence-mastering-ig-video-borders/"><u>[Updated] In 2024, Elevate Your Presence Mastering IG Video Borders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximize-offline-viewing-8-best-youtube-downloaders/"><u>[Updated] Maximize Offline Viewing 8 Best YouTube Downloaders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advance-your-skillset-god-of-war-challenge/"><u>Advance Your Skillset: 'God of War' Challenge</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/aomei-backuppercyber/"><u>AOMEI Backupper工程師與Cyber後勤計劃 - 最佳無限電腦保全解決方案</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/cut-editing-time-in-half-40-final-cut-pro-x-keyboard-shortcuts-for-2024/"><u>Cut Editing Time in Half 40 Final Cut Pro X Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dance-no-more-fixing-win11s-screen-issue/"><u>Dance No More: Fixing Win11's Screen Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-problem-halts-anticipated-start-of-halo-infinite/"><u>DX12 Problem Halts Anticipated Start of Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-of-the-line-no-more-direct3d-rendering-setbacks/"><u>End of the Line: No More Direct3D Rendering Setbacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-spotlight-now-resolved/"><u>GPU Glitch Spotlight - Now Resolved</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-batch-convert-your-ppt-presentations-into-flipbooks-in-one-go-with-flipbuilder/"><u>How to Batch Convert Your PPT Presentations Into Flipbooks in One Go with FlipBuilder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-excel-2021-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to make a digital signature for Excel 2021 files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminate-issues-lenovo-bs-woes/"><u>Illuminate Issues - Lenovo BS Woes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-anonymizing-videos-tips-for-keeping-personal-data-hidden/"><u>In 2024, Anonymizing Videos Tips for Keeping Personal Data Hidden</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-issue-no-fullscreen-window-on-win10/"><u>Monitor Issue: No Fullscreen Window on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-compatibility-achieved-with-win11/"><u>Nvidia Compatibility Achieved with Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reenergize-your-gpus-spinning-partners/"><u>Reenergize Your GPU's Spinning Partners</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tailored-visual-representation-free-logo-base-for-personal-touches/"><u>Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-mail-troubleshooting-unraveling-the-zero-x-eight-oh-three-one-f-mystery/"><u>Windows Mail Troubleshooting: Unraveling the Zero X Eight Oh Three One F Mystery</u></a></li>
 </ul></div>
 

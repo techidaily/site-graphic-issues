@@ -1,7 +1,7 @@
 ---
 title: "[Solved] NVIDIA Installer Cannot Continue"
-date: 2024-08-31T05:29:44.801Z
-updated: 2024-09-01T05:29:44.801Z
+date: 2024-10-12T20:17:20.378Z
+updated: 2024-10-17T16:53:15.779Z
 tags:
   - win11
   - win10
@@ -59,8 +59,12 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 2) Restart your PC if it asks you to. Then reinstall the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Check if the Graphics Card is Detected Incorrectly**
 
  Under category the “ **Display adapters**  “, if you can’t see your graphics card listed, it’s probably not being detected properly. It could be listed under “Other devices” or somewhere else, or coming up as another device name.
@@ -71,30 +75,39 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_581c568d597b7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Go to the **Details** tab, select**Hardware Ids** from the drop-down menu under **Property** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785de836c928.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) The Hardware Id Value should be similar to the below screenshot. The VEN code means vendor and the DEV code means device. In the example below, the VEN code is 15AD and the device is 0740.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785df1376590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Go to [https://pci-ids.ucw.cz/](https://pci-ids.ucw.cz/) . You use the VEN code and the DEV code you got from Step 3) to find the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56e6603c4e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This will give you the device name and the vendor name (NVIDIA).
 
  Once you figure out the specific NVIDIA graphics card you have, you should update your driver to the latest version.
@@ -107,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,8 +127,23 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-social-media-live-platforms-facebook-vs-youtube-live-and-twitter-periscope/"><u>2024 Approved Social Media Live Platforms FACEbook Vs. YOUTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamline-your-classic-gaming-with-optimal-ps2-android-emulators/"><u>2024 Approved Streamline Your Classic Gaming with Optimal PS2 Android Emulators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-tarkov-fix-visual-evasion-guide/"><u>AMD & Tarkov Fix: Visual Evasion Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-device-init-on-win-os/"><u>Fixed Device Init on Win OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-winbluescreen-violations-of-wdf-api/"><u>Fixing WinBlueScreen: Violations of WDF API</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-between-podcast-and-youtube-for-content-consumption/"><u>In 2024, Choosing Between Podcast and YouTube for Content Consumption</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intermittent-screen-problems-solved-for-laptop-success/"><u>Intermittent Screen Problems Solved for Laptop [Success]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertdisplayorientation-advice/"><u>InvertDisplayOrientation Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lag-fixing-made-simple-for-anthem/"><u>Lag Fixing Made Simple for Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-ui-tweaks-windows-10-advanced-fix/"><u>Missing UI Tweaks: Windows 10 Advanced Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-rectify-failed-extractions-on-windows-11/"><u>Navigate and Rectify Failed Extractions on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shift-key-malfunction-heres-how-you-can-resolve-it/"><u>Shift Key Malfunction? Here’s How You Can Resolve It</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-viewing-lord-of-the-rings-trilogy-sequentially/"><u>The Ultimate Guide: Viewing 'Lord of the Rings' Trilogy Sequentially</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-13c-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi 13C Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

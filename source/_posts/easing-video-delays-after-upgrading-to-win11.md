@@ -1,7 +1,7 @@
 ---
 title: Easing Video Delays After Upgrading to Win11
-date: 2024-09-29T18:53:39.161Z
-updated: 2024-10-06T18:12:50.802Z
+date: 2024-10-13T06:48:40.369Z
+updated: 2024-10-18T03:45:48.550Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2: Disable Hardware Acceleration**
@@ -52,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -83,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6936efa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged graphics card device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -92,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6f9c972.jpg)
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4: Clean Browser Cache**
 
@@ -130,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/clear-browsing-data.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``The settings are similar in other browsers, you might need to do this with all the browsers that you have.
 **``**
 
@@ -155,19 +155,19 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-from-vision-to-reality-personal-animation-mastery/"><u>[New] 2024 Approved From Vision to Reality Personal Animation Mastery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/apex-enhanced-hurdles-cleared-and-issues-resolved/"><u>Apex Enhanced - Hurdles Cleared & Issues Resolved</u></a></li>
-<li><a href="https://extra-information.techidaily.com/brand-alliances-elevating-youtube-content/"><u>Brand Alliances Elevating YouTube Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-misaligned-graphics-outputs/"><u>Correct Misaligned Graphics Outputs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/critical-gpu-not-detected-alert/"><u>Critical: GPU Not Detected Alert</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fine-tuning-your-obs-live-feeds-for-facebook-audience-for-2024/"><u>Fine-Tuning Your OBS Live Feeds for Facebook Audience for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-transforming-wav-files-into-m4r-format-with-movavi/"><u>Free Online Conversion: Transforming WAV Files Into M4R Format with Movavi</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inspire-your-sweat-session-with-the-most-motivating-melodies-for-2024/"><u>Inspire Your Sweat Session with the Most Motivating Melodies for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/madden-nfl-20-for-windows-overcoming-crashes-and-enhancing-performance/"><u>Madden NFL '20 for Windows: Overcoming Crashes and Enhancing Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-res-scale-problems-in-win10/"><u>Resolving Res Scale Problems in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/settled-amd-xbox-series-graphics-issue/"><u>Settled AMD Xbox Series Graphics Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/todays-essential-disneyplus-movie-lineup-for-a-magical-viewing-experience/"><u>Today’s Essential Disney+ Movie Lineup for a Magical Viewing Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-notch-animated-text-settings/"><u>Top-Notch Animated Text Settings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-amd-radeon-r9-driver-fixed-case/"><u>Win10 AMD Radeon R9 Driver Fixed Case</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerate-your-storytelling-with-customized-speed-settings-for-2024/"><u>Accelerate Your Storytelling with Customized Speed Settings for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-lag-in-civilization-v-pc/"><u>Addressing Lag in Civilization V PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-k70-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi K70 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instant-verbal-to-written-conversion-for-nothing/"><u>In 2024, Instant Verbal to Written Conversion for Nothing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-with-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering Social Media Engagement with Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-release-nvidia-geforce-210-windows-10-compatibility/"><u>New Release: NVIDIA GeForce 210 - Windows 10 Compatibility</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/personal-snap-chronicles-how-to-create-your-120plus-distinctive-story-titles-for-2024/"><u>Personal Snap Chronicles How to Create Your 120+ Distinctive Story Titles for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-intermittent-displays-in-hp/"><u>Remedying Intermittent Displays in HP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-interface-malfunctions-in-windows-systems/"><u>Resolving Interface Malfunctions in Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-amd-remedy-for-tarkov-bug-spotlight/"><u>Swift AMD Remedy for Tarkov Bug Spotlight</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-quick-fixing-youtube-chroma-key-flaws/"><u>Swift Solutions for Quick-Fixing YouTube Chroma Key Flaws</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g04-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G04 Phone Hassle-Free</u></a></li>
 </ul></div>
 

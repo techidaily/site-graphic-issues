@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Windows 11 GPU Issue
-date: 2024-08-31T05:34:25.140Z
-updated: 2024-09-01T05:34:25.140Z
+date: 2024-10-11T18:23:25.630Z
+updated: 2024-10-18T13:35:39.676Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -38,24 +45,22 @@ thumbnail: https://thmb.techidaily.com/5f965e05f94f7cfe9aba689162b9d85f8fa664dac
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -86,33 +91,48 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -122,16 +142,11 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,8 +155,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-racing-cameras-face-off-is-gopro-the-ultimate-champion/"><u>[Updated] In 2024, Racing Cameras Face Off Is GoPro the Ultimate Champion?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-sync-up-to-share-live-moments-on-tiktok-for-2024/"><u>[Updated] Sync Up to Share Live Moments on TikTok for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-playwriting-workshop/"><u>[Updated] Ultimate Playwriting Workshop</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-from-static-to-dynamic-traffic-youtube-backlinks-explained/"><u>2024 Approved From Static to Dynamic Traffic YouTube Backlinks Explained</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-gamegazers-graphic-guide/"><u>2024 Approved GameGazer's Graphic Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-with-updated-intel-hd-graphics-driver/"><u>Boost Your PC with Updated Intel HD Graphics Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/displaying-non-fullscreen-on-monitors-with-win10/"><u>Displaying Non-Fullscreen on Monitors with Win10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dive-into-memelore-the-kinemaster-method-for-2024/"><u>Dive Into Memelore The KineMaster Method for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-performance-tools-youtube-meets-twitter/"><u>In 2024, High-Performance Tools YouTube Meets Twitter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-art-of-online-photo-trimming/"><u>In 2024, Navigating the Art of Online Photo Trimming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-system-freeze-repair-wdf-api-crashes-in-winos/"><u>Stop System Freeze: Repair WDF API Crashes in WinOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-high-dpi-settings-on-latest-window-11-update/"><u>Unlock High-DPI Settings on Latest Window 11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiled-the-concealed-direct-x-flaw-in-gameplay-lol/"><u>Unveiled the Concealed Direct X Flaw in Gameplay LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrading-msdn-drivers-for-faster-results/"><u>Upgrading MSDN Drivers for Faster Results</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/youtubewindows-11/"><u>YouTubeを完璧にキャプチャ:Windows 11でのガイドラインと手順</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-hassle-fix-laptops-horizontal-borders/"><u>Zero Hassle: Fix Laptop's Horizontal Borders</u></a></li>
+</ul></div>
 

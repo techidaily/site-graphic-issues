@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Reveal Hidden Colors in an Asus Device
-date: 2024-10-02T19:45:07.418Z
-updated: 2024-10-06T18:45:10.527Z
+date: 2024-10-12T21:35:45.338Z
+updated: 2024-10-18T13:19:48.016Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
@@ -64,13 +57,6 @@ Here is how to do it:
 **If the screen is still black** , the issue isn’t with the peripherals. You should move on to **Fix 3** , below to continue the troubleshooting.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -108,13 +94,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -126,14 +105,21 @@ So you can try disabling fast startup to see if it does the trick:
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
@@ -145,6 +131,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -154,10 +147,10 @@ So you can try disabling fast startup to see if it does the trick:
 2. In the **System Protection** tab, click **System Restore…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
@@ -166,24 +159,30 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Restart your computer to see if the black screen issue has been fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
 
@@ -195,6 +194,13 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -222,17 +228,17 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>[New] 2024 Approved From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-audio-mastery-in-visual-storytelling-vimeo-edition/"><u>[New] In 2024, Audio Mastery in Visual Storytelling Vimeo Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715859923158-new-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] Next-Gen Online Meeting Apps Azoom No More!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>2024 Approved Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-walkthrough-fresh-nvme-drivers-download-and-installation-on-windows/"><u>Complete Walkthrough: Fresh NVMe Drivers Download & Installation on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818280780-elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-resilient-anker-beacon-of-light-a-critical-review-of-its-bright-torch-performance-outdoors/"><u>Evaluating the Resilient Anker Beacon of Light - A Critical Review of Its Bright Torch Performance Outdoors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-system-failure-to-launch/"><u>Graphics System Failure to Launch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-fault-recovered-and-running-smoothly/"><u>IGFX Fault: Recovered and Running Smoothly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-visibility-bring-back-the-lost-screen-signal/"><u>Instant Visibility: Bring Back the Lost Screen Signal</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>New Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-wobbly-laptop-monitor-edges/"><u>Resolve Wobbly Laptop Monitor Edges</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-swipe-to-enhance-turning-videos-upside-down/"><u>[New] 2024 Approved Swipe to Enhance Turning Videos Upside Down</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfecting-instagram-posts-tips-for-vertical-editing-in-final-cut-pro-x/"><u>[Updated] 2024 Approved Perfecting Instagram Posts Tips for Vertical Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-successful-nvidia-setup-process/"><u>Achieved: Successful NVIDIA Setup Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-window-11s-display-a-settled-problem/"><u>Adjusting Window 11'S Display: A Settled Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-windows-11-recovery-success/"><u>Cursory Windows 11 Recovery Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-stop-total-war-rome-remastered-from-crashing-during-gameplay/"><u>Effective Techniques to Stop Total War: Rome Remastered From Crashing During Gameplay</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-dungeon-crawlers-to-complex-gameplay-for-2024/"><u>From Dungeon Crawlers to Complex Gameplay for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-asus-rog-phone-7-ultimate-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Asus ROG Phone 7 Ultimate to Another | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/optimizing-your-connectivity-inside-look-at-asus-ax6600-mesh-wi-fis-capabilities-and-efficiency/"><u>Optimizing Your Connectivity: Inside Look at Asus AX6600 Mesh Wi-Fi's Capabilities & Efficiency</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
 </ul></div>
 

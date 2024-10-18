@@ -1,7 +1,7 @@
 ---
 title: Sprint Through Apex with Ease!
-date: 2024-10-02T17:40:05.742Z
-updated: 2024-10-06T19:14:41.256Z
+date: 2024-10-14T03:06:30.064Z
+updated: 2024-10-18T09:59:21.846Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -51,10 +44,10 @@ Or
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
@@ -69,9 +62,23 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
@@ -100,10 +107,16 @@ _You can do it for free if you like, but it’s partly manual._
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apex Legends still keeps crashing?
@@ -152,13 +165,6 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
 #### Fix 5: Install the latest Apex Legends patch
@@ -178,10 +184,10 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
@@ -219,18 +225,15 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-game-strategies-for-stellar-gaming-youtube-banners/"><u>[New] 2024 Approved Elevate Your Game Strategies for Stellar Gaming YouTube Banners</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>[New] Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-fusing-live-streams-combining-cameras-plus-monitors-for-2024/"><u>[New] Fusing Live Streams Combining Cameras + Monitors for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-video-creation-with-the-ultimate-screencast-guidebook/"><u>2024 Approved Navigating Video Creation with The Ultimate Screencast Guidebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automate-your-living-space-can-chatgpt-be-the-answer/"><u>Automate Your Living Space – Can ChatGPT Be The Answer?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>Content Distribution Showdown Vimeo vs YouTubes and DailyMotions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818355515-cpp-unlocked-successfully/"><u>CPP Unlocked Successfully</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-on-recent-win11-laptop/"><u>GPU Status Normalized on Recent Win11 Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-drives-back-online-post-malfunction/"><u>Graphics Drives Back Online Post-Malfunction</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keeping-games-running-on-rtx-3080/"><u>Keeping Games Running on RTX 3080</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/masterful-removal-techniques-for-graphics-drivers/"><u>Masterful Removal Techniques for Graphics Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/undetected-video-card-alert/"><u>Undetected Video Card Alert</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-joining-the-twitter-community-from-scratch/"><u>[New] 2024 Approved Joining the Twitter Community From Scratch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-in-depth-examination-the-working-of-googles-podcast-application/"><u>[Updated] In 2024, In-Depth Examination The Working of Google's Podcast Application</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cpp-unlocked-successfully/"><u>CPP Unlocked Successfully!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-how-to-update-your-canon-dr-c225-printer-drivers-on-latest-windows-versions/"><u>Getting Started: How to Update Your Canon DR-C225 Printer Drivers on Latest Windows Versions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-breeze-through-snapchat-two-techniques-for-dynamic-lenses/"><u>In 2024, Breeze Through Snapchat Two Techniques for Dynamic Lenses</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-siri-functionality-resolving-common-glitches-on-iphones-and-ipads/"><u>Restore Siri Functionality: Resolving Common Glitches on iPhones and iPads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-monitor-hides-full-screen-windows-11/"><u>Screen Fix: Monitor Hides Full-Screen Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-win-devices-creation/"><u>Secured Win Devices Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vision-disabled-graphic-device-missing/"><u>Vision Disabled: Graphic Device Missing</u></a></li>
 </ul></div>
 

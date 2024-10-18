@@ -1,7 +1,7 @@
 ---
 title: Mastering DPI Settings with Latest Windows 11 Release
-date: 2024-08-31T05:31:51.973Z
-updated: 2024-09-01T05:31:51.973Z
+date: 2024-10-15T18:35:33.823Z
+updated: 2024-10-18T08:57:09.654Z
 tags:
   - win11
   - win10
@@ -63,31 +63,40 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -102,22 +111,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -137,8 +147,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +154,26 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-netflix-tips-maximizing-screenshots-with-your-mac/"><u>[New] 2024 Approved Expert Netflix Tips Maximizing Screenshots with Your Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-no-fog-only-clarity-gopro-lens-care-essentials/"><u>[Updated] 2024 Approved No Fog, Only Clarity GoPro Lens Care Essentials</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers/"><u>[Updated] From Concepts to Recordings A Step-by-Step Guide for Podcast Writers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crossing-the-black-screen-barrier-in-win11/"><u>Crossing the Black Screen Barrier in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-issue-sorted-now-with-graphics-boost/"><u>Direct3D Issue Sorted: Now With Graphics Boost</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/displayreversalsolution-guide/"><u>DisplayReversalSolution Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-win11-visual-quakes/"><u>Ending Win11 Visual Quakes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-roundup-videonix-editors-capabilities-for-2024/"><u>Expert Roundup Videonix Editor's Capabilities for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-blurry-monitor-borders-with-simple-steps/"><u>Fix Blurry Monitor Borders with Simple Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-eliminate-your-discord-servers-desktop-and-android-tips/"><u>In 2024, Eliminate Your Discord Servers Desktop & Android Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-studio-hd-screen-grab-audit/"><u>In 2024, Free Studio HD Screen Grab Audit</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rallying-colombo-support-with-dannys-foundation/"><u>Rallying Colombo Support with Danny's Foundation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-issue-monitor-not-showing-full-screen-win11/"><u>Screen Issue: Monitor Not Showing Full Screen Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-geforce-frame-pacing/"><u>Solved GeForce Frame Pacing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-curser-disappearing/"><u>Solved: Windows 11 Curser Disappearing</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x7b-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X7b Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-synchronizing-lightworks-videos-and-audio-post-import/"><u>Ultimate Guide to Synchronizing Lightworks Videos & Audio Post-Import</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unravel-sims-graphical-hiccup/"><u>Unravel Sims Graphical Hiccup</u></a></li>
+</ul></div>
 

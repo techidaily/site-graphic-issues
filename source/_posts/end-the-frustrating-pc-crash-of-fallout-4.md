@@ -1,7 +1,7 @@
 ---
 title: End the Frustrating PC Crash of Fallout 4
-date: 2024-10-11T05:47:07.610Z
-updated: 2024-10-12T09:28:44.132Z
+date: 2024-10-15T01:04:16.226Z
+updated: 2024-10-18T00:37:15.319Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
@@ -52,6 +59,19 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
 
@@ -69,33 +89,20 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
-4) Restart your computer and open your Fallout 4.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Restart your computer and open your Fallout 4.
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -125,13 +132,6 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -155,19 +155,21 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-roadmap-to-powerful-instagram-partnerships-and-campaigns/"><u>[Updated] 2024 Approved The Roadmap to Powerful Instagram Partnerships & Campaigns</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-your-passport-portrait-a-compilation-of-top-10-free-tools/"><u>2024 Approved Perfect Your Passport Portrait A Compilation of Top 10 Free Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-texture-ambiguity-in-far-cry-6/"><u>Addressing Texture Ambiguity in Far Cry 6</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-apples-m3-macbook-pro-specs-price-guide-and-availability-timeline/"><u>All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehending-pagefilesys-its-role-and-impact-on-performance/"><u>Comprehending Pagefile.sys: Its Role and Impact on Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-monitor-horizontal-distortion/"><u>Correcting Monitor Horizontal Distortion</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nokia-g310-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nokia G310</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-easy-memes-to-share-on-iphone/"><u>In 2024, Easy Memes to Share on iPhone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-90frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 90FRP Lock</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-14-free-video-editing-software-without-watermark/"><u>In 2024, Top 14 Free Video Editing Software without Watermark</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-troubleshooting-lacking-video-output/"><u>Quick Troubleshooting, Lacking Video Output</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-installation-error-code-1900101-in-win10/"><u>Tackling Installation Error Code 1900101 in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-curtail-anthems-hesitation/"><u>Tips to Curtail Anthem's Hesitation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-cmusbdacsys-blue-screen-of-death-in-windows/"><u>[Fixed] CMUSBDAC.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-revolutionize-your-virtual-dialogue-the-google-meet-guide/"><u>[New] 2024 Approved Revolutionize Your Virtual Dialogue The Google Meet Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-gridiron-a-detailed-review-of-vegas-pro-2021/"><u>[Updated] Exploring the Gridiron A Detailed Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-understanding-facebooks-real-time-content-restrictions-for-2024/"><u>[Updated] Understanding Facebook's Real-Time Content Restrictions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-to-inputting-heart-emoji-using-keyboard-characters/"><u>Effortless Guide to Inputting Heart Emoji Using Keyboard Characters</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-on-how-to-bypass-the-c1900101-problem/"><u>Guide on How to Bypass the C1900101 Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel to Protect Your Individual Information</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-laptop-screen-what-are-my-options/"><u>No Laptop Screen: What Are My Options?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/probando-el-grabadora-de-audios-online-con-movavi-suite-libre-para-comprobar-calidad-sonora/"><u>Probando El Grabadora De Audios Online Con Movavi: Suite Libre Para Comprobar Calidad Sonora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-version-of-apples-sports-platform-whats-new/"><u>Revamped Version of Apple's Sports Platform - What's New?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blackout-with-radeon/"><u>Screen Blackout with Radeon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-resurrection-quick-steps-to-reclaim-signal/"><u>Screen Resurrection: Quick Steps to Reclaim Signal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-12-mejores-aplicaciones-de-grabacion-de-pantalla-en-4k-para-todos-tus-dispositivos-el-ranking-definitivo/"><u>Top 12 Mejores Aplicaciones De Grabación De Pantalla en 4K Para Todos Tus Dispositivos: El Ranking Definitivo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unblock-sims-screensaver-snag/"><u>Unblock Sims Screensaver Snag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818151303-unleash-peak-performance-windows-10-update-with-amd-graphics/"><u>Unleash Peak Performance: Windows 10 Update with AMD Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-no-more-flickering-displays/"><u>Win11 No More Flickering Displays</u></a></li>
 </ul></div>
 

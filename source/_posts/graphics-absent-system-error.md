@@ -1,7 +1,7 @@
 ---
 title: "Graphics Absent: System Error"
-date: 2024-08-31T05:29:26.769Z
-updated: 2024-09-01T05:29:26.769Z
+date: 2024-10-14T08:29:06.809Z
+updated: 2024-10-17T20:23:23.265Z
 tags:
   - win11
   - win10
@@ -37,8 +37,12 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
  No Suitable Graphics Card Found error occurs usually because the developer changes the settings of the game, or your graphics card adapter is not suitable for the display anymore. So you can follow the solutions below to solve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Restarting your PC helps your PC to check through the system and automatically update your Windows, then the problem may be automatically resolved.
@@ -51,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -74,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -89,6 +87,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -97,23 +109,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your PC and open your game again.
 
   That’s it – three effective ways to fix No suitable graphics card found issue in your computer. Please feel free to leave us a comment below and we will see what more we can do to help. At the same time, if you have another solution for this problem, please don’t hesitate to share with us to help more people.
@@ -127,8 +137,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,8 +144,17 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-microsoft-basic-render-driver-issues-in-windows-111087/"><u>[FIXED] Microsoft Basic Render Driver Issues in Windows 11/10/8/7</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tips-for-adding-visual-impact-in-google-meet/"><u>[Updated] Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-stream-videos-on-twitter-using-your-smartphone-for-2024/"><u>[Updated] How To Stream Videos on Twitter Using Your Smartphone for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2022pc/"><u>錄像片2022保存至PC：探究三大傳統技術</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-seamless-video-output-via-amd-freesync/"><u>Enabling Seamless Video Output via AMD FreeSync</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-rotated-interface-issue-on-windows-10/"><u>Overcoming Rotated Interface Issue on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-gpu-issues-with-continuous-system-use/"><u>Remedying GPU Issues with Continuous System Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-microsoft-sculpt-keyboard-driver-installation-instructions/"><u>Seamless Microsoft Sculpt Keyboard Driver Installation Instructions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-science-behind-the-best-sized-videos-for-your-instagram-story/"><u>The Science Behind the Best-Sized Videos for Your Instagram Story</u></a></li>
+</ul></div>
 

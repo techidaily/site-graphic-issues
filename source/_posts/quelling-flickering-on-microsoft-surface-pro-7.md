@@ -1,7 +1,7 @@
 ---
 title: Quelling Flickering on Microsoft Surface Pro 7
-date: 2024-09-30T18:16:09.784Z
-updated: 2024-10-06T18:31:03.631Z
+date: 2024-10-13T17:52:06.050Z
+updated: 2024-10-18T03:02:43.386Z
 tags:
   - win11
   - win10
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
  But there’s more to that. Your Surface Pro 7 screen flickering can also be caused by corrupt system files, out-of-date BIOS, or hardware faults.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  No matter what caused your Surface Pro 7 to screen flicker, you can try the following troubleshooting to fix the issue. You don’t have to try them all, just work your way down the list until you find the one that works for you.
@@ -48,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 5. **[Run the System File Checker](#h5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable adaptive brightness
@@ -100,25 +87,19 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and check if your screen flickering has been resolved by now. If not, you can contact our support team for further assistance or request a refund (if you’re using the Pro Version).
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Close unnecessary apps
 
@@ -134,6 +115,13 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -146,13 +134,6 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the side taskbar, click**Display** .
 
  4) Under**Multiple displays** , select**Advanced display settings** .
@@ -160,10 +141,10 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click**Display adapter properties** .
@@ -171,6 +152,13 @@ Here’s how you can update your drivers with Driver Easy:
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
 
@@ -189,6 +177,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -200,13 +195,6 @@ Here’s how you can update your drivers with Driver Easy:
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check your screen to see if the flickering issue is resolved by now.
 
@@ -247,24 +235,21 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-into-the-world-of-expressive-snapchat-lenses/"><u>[New] 2024 Approved Step Into the World of Expressive Snapchat Lenses</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>[New] Dive Into the World of YouTube on Facebook Video Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easy-peasy-guide-to-capturing-online-events-for-mac-and-windows-users/"><u>[New] In 2024, Easy-Peasy Guide to Capturing Online Events For Mac & Windows Users</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-mastering-tweeted-videos-on-facebooks-networks-for-2024/"><u>[New] Mastering Tweeted Videos on Facebooks Networks for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-5-economical-game-ready-keyboards/"><u>[Updated] In 2024, Top 5 Economical Game-Ready Keyboards</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tailoring-teammate-backgrounds-on-teams-chat-for-2024/"><u>[Updated] Tailoring Teammate Backgrounds on Teams Chat for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-note-13-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi Note 13 Pro 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/blueprinting-your-social-strategy-with-effective-group-formation-fb/"><u>Blueprinting Your Social Strategy with Effective Group Formation (FB)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-glitch-cleared-giving-you-smooth-performance-boost/"><u>Direct3D Glitch Cleared, Giving You Smooth Performance Boost</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-your-graphics-with-new-nvidia-win11-drivers/"><u>Elevate Your Graphics with New NVIDIA Win11 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevating-the-television-experience-with-4k-pixels/"><u>Elevating the Television Experience with 4K Pixels</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-winbluescreen-errors-address-windows-wdf/"><u>Eradicate WinBlueScreen Errors: Address Windows WDF</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-graphic-device-not-found/"><u>Fixed Graphic Device Not Found</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 14 Plus</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>New 2024 Approved Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reducing-glare-on-games-text-interface/"><u>Reducing Glare on Game's Text Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-and-enhance-zoom-calls-with-this-camera-repair-guide/"><u>Revive and Enhance Zoom Calls with This Camera Repair Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screeninversionproblem-fixes/"><u>ScreenInversionProblem Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-faulty-drivers-for-game-stability/"><u>Tackle Faulty Drivers for Game Stability</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-captivating-cycles-on-ig-perfecting-the-boomerang-effect-for-2024/"><u>[New] Captivating Cycles on IG Perfecting the Boomerang Effect for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-create-captivating-videos-an-introduction-to-fb-reels/"><u>[New] In 2024, How to Create Captivating Videos An Introduction to FB Reels</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-probing-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>[Updated] 2024 Approved Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-anime-intros-the-ultimate-collection/"><u>[Updated] Iconic Anime Intros The Ultimate Collection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-distortion-on-win11/"><u>Eliminate Screen Distortion on Win11</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-fix-windows-server-2012-backup-functionality-when-connecting-to-a-network-attached-storage-nas-device/"><u>How to Fix Windows Server 2012 Backup Functionality When Connecting to a Network Attached Storage (NAS) Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-fold-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X Fold 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mirthful-mobile-memories-iphone/"><u>Mirthful Mobile Memories (iPhone)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-screen-line-perpendniess/"><u>Optimizing Screen Line Perpendniess</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflicts-in-win11/"><u>Overcoming Dual GPU Conflicts in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-glare-on-lenovo-monitors/"><u>Restoring Lost Glare on Lenovo Monitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/righted-view-laptop-screenset-corrected/"><u>Righted View: Laptop Screenset Corrected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-aspect-ratio-glitches-in-windows-10/"><u>Tackling Aspect Ratio Glitches in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-resolution/"><u>Windows 11: Perfect Display Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-bsod-resolving-dxgkrnlsys-crash/"><u>Windows BSOD: Resolving dxgkrnl.sys Crash</u></a></li>
 </ul></div>
 

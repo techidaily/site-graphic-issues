@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Windows 10 Advanced UI Settings Not Showed"
-date: 2024-10-03T22:09:59.933Z
-updated: 2024-10-06T20:58:20.369Z
+date: 2024-10-17T08:29:13.489Z
+updated: 2024-10-18T13:19:59.954Z
 tags:
   - win11
   - win10
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
@@ -86,30 +79,37 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
@@ -130,24 +130,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-nine-superior-tools-to-freeze-dynamic-windows-gifs-flawlessly/"><u>[Updated] 2024 Approved Nine Superior Tools to Freeze Dynamic Windows GIFs Flawlessly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-new-era-of-computing-the-impacts-and-performance-of-the-2020-apple-macbook-pro-m1-13-reviewed/"><u>A New Era of Computing: The Impacts & Performance of the 2020 Apple MacBook Pro (M1, 13) Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-flaring-on-windows-11-monitor/"><u>Banish Flaring on Windows 11 Monitor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-mac-scenery-screen-and-microphone-feature-for-2024/"><u>Capture Mac Scenery Screen and Microphone Feature for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/connectivity-comeback-rapidly-restore-display-signal/"><u>Connectivity Comeback: Rapidly Restore Display Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-background-haze-on-your-youtube-greenscreen/"><u>Eliminating Background Haze on Your YouTube Greenscreen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-chip-restarts-after-failure/"><u>Graphics Chip Restarts After Failure</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 15 Pro in the Best Ways</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-mastering-online-promotion-top-5-proven-methods-for-maximum-impact-on-youtube/"><u>In 2024, Mastering Online Promotion Top 5 Proven Methods for Maximum Impact on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-newest-tp-link-wireless-ac-networking-driver-compatible-with-windows-os-version-11-8-and-7/"><u>Install Newest TP-Link Wireless AC Networking Driver | Compatible with Windows OS (Version 11, 8 & 7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-calmed-flickers-no-longer-an-issue/"><u>Laptop Display Calmed: Flickers No Longer an Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-configurations-in-win11/"><u>Navigating Network Configurations in Win11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/photoshop-hdr-mastery-from-basics-to-advanced-strategies/"><u>Photoshop HDR Mastery From Basics to Advanced Strategies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-resolution-zero-signal-on-dp-ports/"><u>Quick Resolution: Zero Signal on DP Ports</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-a38-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo A38 on Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stretching-issues-cleared-for-win11-screens/"><u>Stretching Issues Cleared for Win11 Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tiltingscreensolution-steps/"><u>TiltingScreenSolution Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-video-clarity-a-step-by-step-2024-camera-repair-guide/"><u>Zoom Video Clarity - A Step-by-Step 2024 Camera Repair Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-diving-into-3d-worlds-iphones-approach-to-vr-viewing/"><u>2024 Approved Diving Into 3D Worlds IPhone's Approach to VR Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-podcast-titling-evolution-10-ai-generators-to-watch/"><u>2024 Approved Podcast Titling Evolution 10 AI Generators to Watch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ceasing-the-chaos-stop-lenovo-screen-anomalies/"><u>Ceasing the Chaos: Stop Lenovo Screen Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-oversized-win11-screen/"><u>Fine-Tuning Oversized Win11 Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revitalize-slowdowns-on-your-windows-system-after-software-updates-effective-tips-and-tricks/"><u>Revitalize Slowdowns on Your Windows System After Software Updates – Effective Tips & Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-issue-of-full-disk-utilization-on-windows-11/"><u>Solving the Issue of Full Disk Utilization on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-fallout-4-play-on-pc-systems/"><u>Stabilizing Fallout 4 Play on PC Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-enhancing-zoom-meetings-with-effects/"><u>The Ultimate Guide to Enhancing Zoom Meetings With Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-clear-vision-flawless-screens/"><u>Win11 - Clear Vision, Flawless Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-activation-success/"><u>Windows 11 Laptop: GPU Activation Success</u></a></li>
 </ul></div>
 

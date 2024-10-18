@@ -1,7 +1,7 @@
 ---
 title: "Screen Blank: GPU Missing [2020]"
-date: 2024-08-31T05:29:39.583Z
-updated: 2024-09-01T05:29:39.583Z
+date: 2024-10-17T01:32:34.399Z
+updated: 2024-10-18T11:11:46.256Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 
  No Suitable Graphics Card Found error occurs usually because the developer changes the settings of the game, or your graphics card adapter is not suitable for the display anymore. So you can follow the solutions below to solve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Restarting your PC helps your PC to check through the system and automatically update your Windows, then the problem may be automatically resolved.
@@ -48,18 +55,6 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -80,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -90,8 +82,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
@@ -99,11 +95,18 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
+
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -112,19 +115,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
@@ -142,8 +143,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,8 +150,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-streamlining-controls/"><u>'God of War': Streamlining Controls</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-app-list-androids-best-video-and-image-capture-for-2024/"><u>[New] Premium App List Android's Best Video & Image Capture for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-6-video-techniques-that-grab-eyes/"><u>[New] Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-restore-shadows-in-iphone-hdr-footage-using-premiere-pro-techniques/"><u>[Updated] Restore Shadows in iPhone HDR Footage Using Premiere Pro Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-tips-to-elevate-computer-based-vhs-artwork/"><u>2024 Approved Essential Tips to Elevate Computer-Based VHS Artwork</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-that-dull-as-asus-laptop-screen/"><u>Brighten up that Dull as Asus Laptop Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-transform-heic-photos-to-jpeg-via-windows-11/"><u>Efficiently Transform HEIC Photos to JPEG via Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>In 2024, Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pioneering-compatibility-geforce-nforce-in-win10-environment/"><u>Pioneering Compatibility: GeForce, nForce in Win10 Environment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/propel-performance-install-intel-gpu-on-win11-quickly/"><u>Propel Performance - Install Intel GPU on Win11 Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-drivers-update-guide-to-maximize-intel-graphics-in-windows/"><u>Quick Drivers Update Guide to Maximize Intel Graphics in WIndows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-transition-for-direct3d-loading/"><u>Seamless Transition for Direct3D Loading</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-enhanced-performance-via-intelldriver-refresh-win7/"><u>Securing Enhanced Performance via IntellDriver Refresh (Win7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-document-production-using-chatgpt-with-ms-word/"><u>Streamlining Document Production: Using ChatGPT with MS Word</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-addressing-game-crashes-in-star-citizen-for-pc-users/"><u>Understanding and Addressing Game Crashes in Star Citizen for PC Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-monitor-settlement-completed/"><u>Win10 Monitor Settlement Completed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-latency-issue-addressed-for-laptop-gpu/"><u>Windows 11 Latency Issue Addressed for Laptop GPU</u></a></li>
+</ul></div>
 

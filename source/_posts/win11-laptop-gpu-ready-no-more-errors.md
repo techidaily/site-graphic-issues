@@ -1,7 +1,7 @@
 ---
 title: "Win11 Laptop: GPU Ready, No More Errors"
-date: 2024-10-01T22:09:34.113Z
-updated: 2024-10-06T18:42:15.094Z
+date: 2024-10-15T03:19:24.181Z
+updated: 2024-10-17T16:49:18.991Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 4. **[Change the Windows Graphics Settings](#Fix4)**
 5. **[Make sure your dedicated GPU is enabled in BIOS](#Fix5)**
 6. **[Update your BIOS](#Fix6)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -78,13 +85,6 @@ If not, don’t worry, there are other fixes you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows 11
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
@@ -93,26 +93,32 @@ If not, don’t worry, there are other fixes you can try.
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can check if your dedicated GPU is being used.
 
 If this method doesn’t help, continue with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Switch to the dedicated GPU manually
 
  Usually, your laptop will use the integrated GPU for easier tasks to save power and switch back to the dedicated GPU for better performance. But if it doesn’t switch to the dedicated GPU when needed, you can do it manually via NVIDIA Control Panel or AMD Radeon Settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Switch to the dedicated NVIDIA GPU
 
@@ -121,13 +127,6 @@ If this method doesn’t help, continue with the next fix below.
 2. In the left panel, click**Manage 3D Settings** , then select**High performance NVIDIA processor** from the dropdown menu and click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/manage-3d-settings.jpg)
 3. In the left panel, click**Set PhysX Configuration** . Under Select a PhysX processor, select your dedicated GPU from the dropdown menu, then click**Apply** to save changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-phx-configuration.jpg)
 
@@ -138,13 +137,6 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 1. Right-click your desktop and select**AMD** **Radeon Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Navigate to the**System** tab.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
@@ -157,19 +149,6 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 It should now run with the dedicated AMD GPU.
 
 But if not, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Change the Windows graphics setting
 
@@ -190,6 +169,13 @@ But if not, you can take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 11
 
 1. Right-click on the empty space on your desktop. Then select**Display settings** .  
@@ -198,14 +184,21 @@ But if not, you can take a look at the next fix.
 2. Scroll down. Under the Related settings section, click on**Graphics** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics.jpg)
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Custom-options-for-apps.jpg)
 4. Once added, click on the**Options** button.  
@@ -213,18 +206,25 @@ But if not, you can take a look at the next fix.
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Options.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Graphics-preference-High-performance.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After doing so, open Task Manager to check if the program is using the dedicated GPU.
 
 If not, see below for more solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Make sure your dedicated GPU is enabled in BIOS
 
@@ -267,24 +267,24 @@ If this trick doesn’t work for you, check out the last solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-drive-more-viewers-to-your-videos-top-growth-hacks/"><u>[New] In 2024, Drive More Viewers to Your Videos Top Growth Hacks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-for-effortless-access-to-youtube-comments/"><u>[Updated] 2024 Approved Expert Tips for Effortless Access to YouTube Comments</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-download-all-your-favorite-songs-access-hearthisats-entire-collection-5-minute-setup-for-free/"><u>1) 'Download All Your Favorite Songs: Access Hearthis.at's Entire Collection - 5-Minute Setup for Free!'</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-secure-your-device-footage-with-mi-11-techniques/"><u>2024 Approved Secure Your Device Footage with Mi 11 Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-smoothing-out-aerial-footage-pulsation/"><u>2024 Approved Smoothing Out Aerial Footage Pulsation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817511865-banish-frame-lag-swift-hassle-free-fixes/"><u>Banish Frame Lag: Swift, Hassle-Free Fixes!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinking-light-from-asus-devices-simply/"><u>Banishing Blinking Light From ASUS Devices Simply</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/connect-your-tiktok-creativity-to-twitter/"><u>Connect Your TikTok Creativity to Twitter</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquer-flickering-screen-issues-on-asus-computers/"><u>Conquer Flickering Screen Issues on ASUS Computers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/crafting-captivating-jujutsu-kaisen-videos-for-tiktok/"><u>Crafting Captivating Jujutsu Kaisen Videos for TikTok</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-trail-removal-made-easy-discover-the-power-of-stellar-file-eraser-5-windows-edition-and-auto-scheduling/"><u>Expert Trail Removal Made Easy: Discover the Power of Stellar File Eraser 5 Windows Edition & Auto-Scheduling</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-0x80-cuff-error-code-now-a-comprehensive-troubleshooting-manual/"><u>Fix the 0X80 Cuff Error Code Now – A Comprehensive Troubleshooting Manual</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flip-the-switch-restoring-screen-brightness-on-asus/"><u>Flip the Switch: Restoring Screen Brightness on Asus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-overcoming-non-detection-of-vga-hardware/"><u>Guide to Overcoming Non-Detection of VGA Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improved-graphics-amd-hd-6950-driver-for-windows-11-released/"><u>Improved Graphics: AMD HD 6950 Driver for Windows 11 Released</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/power-up-displayport-with-a-click/"><u>Power Up DisplayPort with a Click</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proven-pathways-for-sound-alteration-in-pubg-gamers-for-2024/"><u>Proven Pathways for Sound Alteration in PUBG Gamers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-fixed-nvidia-drivers-stabilize-graphics/"><u>TDR Alert Fixed: NVIDIA Drivers Stabilize Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-mastering-combat-skills/"><u>'God of War': Mastering Combat Skills</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-excellence-in-instagram-grids-with-these-elite-tools/"><u>[New] In 2024, Crafting Excellence in Instagram Grids with These Elite Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-facetime-best-practices-unveiled-for-2024/"><u>[Updated] Capturing FaceTime Best Practices Unveiled for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-capturing-attention-sharing-tweets-as-snaps/"><u>[Updated] In 2024, Capturing Attention Sharing Tweets as Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>[Updated] In 2024, Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-potential-switch-pro-controller-on-steam-for-2024/"><u>[Updated] Unlocking Potential Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/aligning-screen-borders-uniformly/"><u>Aligning Screen Borders Uniformly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-bug-patched/"><u>Direct3D Launcher Bug Patched</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-problem-solved-now-gpus-work-at-maximum-speed/"><u>Direct3D Problem Solved: Now GPUs Work at Maximum Speed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-remove-unwanted-display-wobblyness/"><u>Easy Steps to Remove Unwanted Display Wobblyness</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expertly-selected-8-recording-software/"><u>Expertly Selected 8 Recording Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exploring-the-features-of-windows-11-arm-a-comparison-with-traditional-windows-versions/"><u>Exploring the Features of Windows 11 ARM: A Comparison with Traditional Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-load-error-for-amd-on-win10-post-update/"><u>Fixed Load Error for AMD on Win10 Post-Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-disabled-local-authentication-layers-securely/"><u>How To Reactivate Disabled Local Authentication Layers Securely</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-readability-of-text-in-far-cry-6/"><u>Improving Readability of Text in Far Cry 6</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-timely-humor-for-various-gatherings/"><u>In 2024, Ultimate List Timely Humor for Various Gatherings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-control-panel-missing-solved/"><u>NVIDIA Control Panel Missing [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-guide-resolving-asus-laptop-blackout-issues/"><u>Quick Guide: Resolving Asus Laptop Blackout Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-online-hideaways-tips-for-series-sx-users/"><u>Unveiling Online Hideaways: Tips for Series S/X Users</u></a></li>
 </ul></div>
 

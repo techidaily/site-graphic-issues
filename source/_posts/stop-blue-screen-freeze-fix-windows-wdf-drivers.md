@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screen Freeze: Fix Windows WDF Drivers"
-date: 2024-10-05T21:15:12.297Z
-updated: 2024-10-06T20:42:45.314Z
+date: 2024-10-10T17:03:11.294Z
+updated: 2024-10-17T18:28:44.027Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Use Driver Verifier
 
 **Warning** : You must be in the Administrators group on the computer to use Driver Verifier. In the middle of the session, your PC could**crash** . So, it must be used when you have backed up all your important data and files.
@@ -71,22 +64,29 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When prompted to provide administrator permission, click **Yes** .
 
  2) Type**verifier** in the command prompt window. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910349670aa3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Choose**Create standard settings** and then click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910350abaafc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Choose**Automatically select all drivers installed on this computer** . Then click the**Finish** button to start the verification.
 
@@ -116,6 +116,13 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
 
 5) Restart your computer for the changes to take effect.
@@ -129,26 +136,20 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
-4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
+4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
 
 ---
 
@@ -169,17 +170,16 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-noir-nights-transitioning-with-pro/"><u>[New] 2024 Approved Noir Nights - Transitioning with Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-decoding-off-facebook-activities-review-and-security-implications/"><u>[New] Decoding Off-Facebook Activities Review and Security Implications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[New] In 2024, Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hdr-sky-scenes-the-top-10-online-archives/"><u>[Updated] HDR Sky Scenes The Top 10 Online Archives</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easily-minimize-game-lag/"><u>Easily Minimize Game Lag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-disdain-to-dependence-how-a-simple-phone-ring-holder-became-essential-for-me/"><u>From Disdain to Dependence: How a Simple Phone Ring Holder Became Essential for Me</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/harmonized-geforce-nforce-and-windows-colliding-no-more/"><u>Harmonized: GeForce, nForce, and Windows Colliding No More</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-languages-made-easy-googles-choice-mondly/"><u>Navigating Languages Made Easy: Google's Choice Mondly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-windows-8s-secure-operations-how-to-delete-graphic-drivers/"><u>Navigating Windows 8'S Secure Operations: How to Delete Graphic Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shattered-secrets-unmasking-direct-x-flaw-in-lol/"><u>Shattered Secrets: Unmasking Direct X Flaw in LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-dual-gpu-issues-on-windows-11-os/"><u>Tackling Dual-GPU Issues on Windows 11 OS</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-soundscape-inversion-masterclass-identifying-the-premium-audio-reversers-available-today/"><u>Updated In 2024, Soundscape Inversion Masterclass Identifying the Premium Audio Reversers Available Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-powerdirector-2024-reviewed/"><u>[New] Mastering PowerDirector 2024 Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-screens-final-touches/"><u>[New] Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-visual-monologue-engineer/"><u>[New] Visual Monologue Engineer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoying-hulu-content-on-an-lg-smart-tv-easy-setup-steps-inside/"><u>Enjoying Hulu Content on an LG Smart TV - Easy Setup Steps Inside!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/fast-track-to-flawless-podcast-live-for-2024/"><u>Fast Track to Flawless Podcast Live for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-functionality-restored-in-win11/"><u>Laptop's GPU Functionality Restored in Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-self-care-with-asmr-sounds/"><u>Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-display-malfunctions-code-fixed/"><u>No More Display Malfunctions - Code Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-inverted-screen-in-windows-10-fixed/"><u>Overcoming Inverted Screen in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-fidelity-of-fc6-ui/"><u>Perfecting Visual Fidelity of FC6 UI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-pc-graphics-swiftly-install-newest-intel-3000-drivers-for-win10/"><u>Transform Your PC Graphics: Swiftly Install Newest Intel 3000 Drivers for Win10</u></a></li>
 </ul></div>
 

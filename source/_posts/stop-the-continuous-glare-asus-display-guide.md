@@ -1,7 +1,7 @@
 ---
 title: "Stop the Continuous Glare: ASUS Display Guide"
-date: 2024-09-26T06:26:02.466Z
-updated: 2024-10-01T14:35:41.407Z
+date: 2024-10-11T21:21:04.444Z
+updated: 2024-10-17T21:54:16.179Z
 tags:
   - win11
   - win10
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -54,45 +41,27 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
-4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
+4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **I’m using Windows 7:**
@@ -104,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -131,22 +107,35 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -186,17 +175,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-best-video-editors-for-youtube/"><u>[New] The Best Video Editors for YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-turn-viewers-into-cashflow-your-online-income-plan/"><u>2024 Approved Turn Viewers Into Cashflow Your Online Income Plan</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correctupsidedownscreens/"><u>CorrectUpsideDownScreens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ease-laptops-warped-display-lines-painlessly/"><u>Ease Laptop's Warped Display Lines Painlessly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-vision-clarity/"><u>Enhancing Lenovo Laptop Vision Clarity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .rtf file</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/horizons-in-focus-easy-monitor-alignment-techniques/"><u>Horizons in Focus: Easy Monitor Alignment Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nokia-c300-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nokia C300 Phone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>In 2024, Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-z-flip-5-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy Z Flip 5 Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-free-mod-video-editors/"><u>In 2024, Unleash Your Creativity Top Free MOD Video Editors</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-evolution-rtx-takes-over-from-gtx/"><u>Nvidia's Evolution: RTX Takes Over From GTX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicated-error-12-hunt-masters-graphics-wofixed/"><u>[Eradicated] Error 12 - Hunt Master's Graphics WoFixed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-videos-an-android-lighting-guide/"><u>2024 Approved Luminous Videos An Android Lighting Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818085821-fast-track-to-flawless-apex-playtime/"><u>Fast Track to Flawless Apex Playtime!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-winter-showcase-peak-performances-from-beijing-2022/"><u>In 2024, Winter Showcase Peak Performances From Beijing 2022</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-metrics-for-earning-livelihoods-for-2024/"><u>Mastering YouTube Metrics for Earning Livelihoods for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-correction-display-operational/"><u>Nvidia Error Correction: Display Operational</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-your-vr-experience-with-new-gpu-drivers/"><u>Optimize Your VR Experience with New GPU Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-11-installation-error-code-c1900101/"><u>Overcoming Windows 11 Installation Error Code C1900101</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-mobile-and-desktop-mkv-software/"><u>Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-galaxy-s24-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Galaxy S24</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-alteration-of-yt-vids-for-mac-screens/"><u>Speedy Alteration of YT Vids for Mac Screens</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tuning-into-fitness-the-power-of-music-on-your-garmin-vivoactive-3-wearable/"><u>Tuning Into Fitness: The Power of Music on Your Garmin Vivoactive 3 Wearable</u></a></li>
 </ul></div>
 

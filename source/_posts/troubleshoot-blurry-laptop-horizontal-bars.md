@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Blurry Laptop Horizontal Bars
-date: 2024-10-08T01:27:00.815Z
-updated: 2024-10-12T01:22:01.239Z
+date: 2024-10-15T16:51:20.749Z
+updated: 2024-10-18T04:49:20.302Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
@@ -71,9 +64,23 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### I’m using Windows 8 or 7
 
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Adjust the screen resolution and see if the horizontal lines disappear.
@@ -93,20 +100,13 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -138,24 +138,19 @@ Featured image by rawpixel.com from Pexels
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-finding-balance-the-art-of-choosing-video-dimensions/"><u>2024 Approved Finding Balance The Art of Choosing Video Dimensions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-class-adding-podcasts-to-instagram-features/"><u>2024 Approved Master Class Adding Podcasts to Instagram Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-storm-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Storm 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-discord-glitches-a-step-by-step-fix-for-continual-app-crashes/"><u>Banishing Discord Glitches: A Step-by-Step Fix for Continual App Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/build-your-dream-pc-with-simplicity-using-hytes-nexus-link-big-screen-cooling-unit-and-effortless-assembly/"><u>Build Your Dream PC With Simplicity Using Hyte’s Nexus Link – Big-Screen Cooling Unit & Effortless Assembly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decrease-excessive-display-on-win-10-pc/"><u>Decrease Excessive Display on WIN 10 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-drivers-fixed-at-43/"><u>Display Drivers Fixed at #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-display-fluctuations-from-lenovo/"><u>Eliminating Display Fluctuations From Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-can-you-design-original-graphics-using-flipbuildercoms-tools/"><u>How Can You Design Original Graphics Using FlipBuilder.com's Tools?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-z50-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nubia Z50 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-gt-5-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme GT 5 and Browser | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-windows-fast-methods-for-removing-drivers/"><u>Mastering Windows: Fast Methods for Removing Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/name-seek-opengl-drivers-for-intels-chipset/"><u>Name Seek: OpenGL Drivers for Intel's Chipset</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-non-functioning-asus-webcam/"><u>Overcoming Non-Functioning ASUS Webcam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-clear-windows-display/"><u>Resolved: Clear Windows Display</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-charging-and-temperature-control-discover-the-ultimate-3-in-1-magsafe-dock-for-all-your-apple-gadgets-featuring-exclusive-insights-from-zdnet.146/"><u>Revolutionize Charging and Temperature Control: Discover the Ultimate 3-in-1 MagSafe Dock for All Your Apple Gadgets - Featuring Exclusive Insights From ZDNet!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shutting-down-windows-10-glitchy-glare/"><u>Shutting Down Windows 10 Glitchy Glare</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-shrink-it-down-youtubes-video-trimming-process/"><u>[Updated] 2024 Approved Shrink It Down YouTube's Video Trimming Process</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-what-is-a-haul-video-and-how-to-edit-it/"><u>[Updated] 2024 Approved What Is a Haul Video and How to Edit It</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-ways-to-record-without-background-sounds/"><u>[Updated] Innovative Ways to Record Without Background Sounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-7-music-recovery-recover-deleted-music-from-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>Asus ROG Phone 7 Music Recovery - Recover Deleted Music from Asus ROG Phone 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expand-your-knowledge-explore-the-five-overlooked-features-of-chatgpt/"><u>Expand Your Knowledge: Explore the Five Overlooked Features of ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-keep-your-pcs-intel-hardware-at-its-peak-performance/"><u>How to Keep Your PC's Intel Hardware at Its Peak Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-flip-video-clips-in-final-cut-pro-a-4-step-guide-for-beginners/"><u>New Flip Video Clips in Final Cut Pro A 4-Step Guide for Beginners</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-past-white-screen-in-sims-world/"><u>Push Past White Screen in Sims World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speed-up-your-system-with-latest-nvidia-driver/"><u>Speed Up Your System with Latest Nvidia Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-downloading-and-installing-hp-840-g3-driver-software/"><u>Step-by-Step Guide: Downloading & Installing HP 840 G3 Driver Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-blue-screen-freeze-fix-windows-wdf-drivers/"><u>Stop Blue Screen Freeze: Fix Windows WDF Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-issues-when-your-iphone-wont-take-incoming-calls/"><u>Troubleshooting: How to Fix Issues When Your iPhone Won't Take Incoming Calls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmistakable-window-visibility/"><u>Unmistakable Window Visibility</u></a></li>
 </ul></div>
 

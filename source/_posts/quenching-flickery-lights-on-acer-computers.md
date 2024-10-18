@@ -1,7 +1,7 @@
 ---
 title: Quenching Flickery Lights on Acer Computers
-date: 2024-08-31T05:34:09.554Z
-updated: 2024-09-01T05:34:09.554Z
+date: 2024-10-11T19:40:15.317Z
+updated: 2024-10-18T10:34:36.037Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -75,8 +82,12 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update or delete incompatible apps
 
  1) On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** .
@@ -89,8 +100,12 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,16 +120,17 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -136,8 +152,6 @@ Here is how to change the screen refresh rate:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,8 +159,21 @@ Here is how to change the screen refresh rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-efficiently-access-your-facebook-lite-videos-with-these-top-apps-of-2023/"><u>[Updated] 2024 Approved Efficiently Access Your Facebook Lite Videos with These Top Apps of 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-the-best-free-srt-translation-services-for-2024/"><u>[Updated] Navigating the Best FREE SRT Translation Services for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/edge-alignment-made-easy-fix-your-screen-now/"><u>Edge Alignment Made Easy - Fix Your Screen Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-graphic-density-for-text-elements/"><u>Improving Graphic Density for Text Elements</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-magic-5-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Magic 5?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-revenue-driven-guide-to-designing-youtube-trailers/"><u>In 2024, The Revenue-Driven Guide to Designing YouTube Trailers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a1-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A1 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-fullscreen-settings-for-windows-10/"><u>Perfecting Fullscreen Settings for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-computer-edge-guidelines/"><u>Realigning Computer Edge Guidelines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-play-end-fallout-4-crashes-on-windows/"><u>Secure Play: End Fallout 4 Crashes on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-c1900101-obstacle-for-new-windows-10-install/"><u>Solving C1900101 Obstacle for New Windows 10 Install</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streaming-social-feeds-on-your-smart-tv-whats-next/"><u>Streaming Social Feeds on Your Smart TV What's Next?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unearthing-the-potential-in-magixs-image-sorter/"><u>Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285347760-windows-mac-android-iphone/"><u>다양한 장치(Windows, Mac, Android, iPhone)에서 스ム업을 유지하는 기술</u></a></li>
+</ul></div>
 

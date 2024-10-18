@@ -1,7 +1,7 @@
 ---
 title: Illuminate the Blackness in Twitch Streaming
-date: 2024-10-06T13:17:30.287Z
-updated: 2024-10-12T05:40:36.577Z
+date: 2024-10-15T02:27:04.147Z
+updated: 2024-10-17T17:33:58.326Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715b
 * [Fix 6: Switch in or out of hardware acceleration](#h-fix-6-switch-in-or-out-of-hardware-acceleration)
 * [Fix 7: Is it a server issue?](#h-fix-7-is-it-a-server-issue)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your network devices
 
  Twitch may go black if it loses its connection. Chances are you have a weak internet connection that doesn’t provide enough bandwidth for Twitch to stream properly. So the first thing we should look into is your network devices, which could become overflooded with cache if you have kept them on for too long a while.
@@ -43,7 +50,22 @@ Here’s how you go about it:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
@@ -61,22 +83,8 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/、name-Microsoft.NetworkAndSharingCenter-1.png)
 2. In the window that pops up, click **Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
@@ -96,10 +104,10 @@ Here’s how you go about it:
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -118,15 +126,15 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear cache and cookies
 
@@ -153,24 +161,18 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
@@ -195,16 +197,16 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-3.png)
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
@@ -216,21 +218,14 @@ Here’s how you go about it:
 3. In**General** , uncheck the**Use recommended performance settings** box to expand the section, then for the**Use hardware acceleration when available** box, choose the opposite.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
@@ -260,24 +255,22 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deciphering-the-auto-cut-functionality-in-imovie/"><u>[New] 2024 Approved Deciphering the Auto-Cut Functionality in iMovie</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimizing-worker-output-the-influence-of-office-environment/"><u>[New] Optimizing Worker Output The Influence of Office Environment</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-fitness-tracking-with-the-best-value-a-comprehensive-fitbit-versa-lite-review/"><u>Affordable Fitness Tracking with the Best Value - A Comprehensive Fitbit Versa Lite Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/align-vertical-borders-on-computer-monitors-quickly/"><u>Align Vertical Borders on Computer Monitors Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-views-on-zoom-how-to-mend-your-camera/"><u>Clear Views on Zoom - How to Mend Your Camera</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-secure-and-responsible-use-of-conversational-agents-in-therapy-sessions/"><u>Ensuring Secure and Responsible Use of Conversational Agents in Therapy Sessions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-built-in-camera-not-working/"><u>How to Fix Asus Built-In Camera Not Working</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-fix-for-disconnected-displayport/"><u>Immediate Fix for Disconnected DisplayPort</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-on-no-more-black-outages/"><u>Lenovo Lights On: No More Black Outages</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-7-5-ways-to-get-into-a-locked-iphone-7-drfone-by-drfone-ios/"><u>Locked Out of iPhone 7? 5 Ways to get into a Locked iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-spotify-promos-your-comprehensive-guide/"><u>Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-how-to-resolve-discord-not-launching-issue/"><u>Solved: How to Resolve 'Discord Not Launching' Issue</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools/"><u>Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/thriving-in-thumbnails-creating-impressive-youtube-on-macos-for-2024/"><u>Thriving in Thumbnails Creating Impressive Youtube on macOS for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-screen-lost-cursor-found/"><u>Win11 Screen Lost, Cursor Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-cant-change-resolution-solved/"><u>Windows 11 Can't Change Resolution [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-display-issue-no-more/"><u>Windows 11 Display Issue No More</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-youtube-affiliate-deals-famebits-guide-to-earnings-for-2024/"><u>Winning YouTube Affiliate Deals FameBit's Guide to Earnings for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-cam-revived-essential-fixes-for-todays-technology/"><u>Zoom Cam Revived! Essential Fixes for Today's Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-infuse-rhythm-to-instagram-music-guide/"><u>[New] 2024 Approved Infuse Rhythm to Instagram Music Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-acquiring-top-notch-clip-art-without-a-price-tag/"><u>[New] Step-by-Step Acquiring Top-Notch Clip Art Without a Price Tag</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-exploring-the-past-top-10-educational-history-yt-channels/"><u>[Updated] 2024 Approved Exploring the Past Top 10 Educational History YT Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-successful-youtube-sponsorship-deals/"><u>[Updated] In 2024, Crafting Successful YouTube Sponsorship Deals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-web-destinations-alarm-ringtone-downloads-guide/"><u>2024 Approved Superior Web Destinations Alarm Ringtone Downloads Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-anthem-for-seamless-gaming/"><u>Accelerate Anthem for Seamless Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-fault-prevents-halo-infinite-from-launching/"><u>DX12 Fault Prevents Halo Infinite From Launching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevated-window-11-display-controls-unveiled/"><u>Elevated Window 11 Display Controls Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/failed-to-initialize-direct3d-fixed/"><u>Failed to Initialize Direct3D [Fixed]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-conversion-change-wma-files-into-avi-format-with-easyweb/"><u>Free Online Conversion: Change WMA Files Into AVI Format with EasyWeb</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-lcd-not-lighting-up-fixes-included/"><u>Laptop LCD Not Lighting Up: Fixes Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screenshots-and-social-shares-on-nintendo-switch-gaming-console/"><u>Mastering the Art of Screenshots and Social Shares on Nintendo Switch Gaming Console</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-android-video-editor-showdown-top-10-free-and-paid-apps/"><u>New Android Video Editor Showdown Top 10 Free and Paid Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-radeon-ray-tracing-glitch/"><u>Revived Radeon Ray Tracing Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-the-secrets-of-ultra-hd-the-power-of-4k/"><u>Unlocking the Secrets of Ultra HD: The Power of 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-users-say-goodbye-to-dual-gpu-hurdles-by-nvidiaintel/"><u>Win10 Users: Say Goodbye to Dual GPU Hurdles by Nvidia/Intel</u></a></li>
 </ul></div>
 

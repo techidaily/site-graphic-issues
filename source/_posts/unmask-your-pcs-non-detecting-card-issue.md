@@ -1,7 +1,7 @@
 ---
 title: Unmask Your PC's Non-Detecting Card Issue
-date: 2024-09-30T20:11:48.857Z
-updated: 2024-10-06T17:19:25.165Z
+date: 2024-10-15T16:32:18.430Z
+updated: 2024-10-18T13:42:03.896Z
 tags:
   - win11
   - win10
@@ -40,37 +40,53 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
 5. Select**Display adpaters** and click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-12.png)
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the GPU is added back, do the following to update its driver in Device Manager:
@@ -78,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 1. Double-click the expand**Display adapters** , then right-click the**Microsoft Remote Display Adapter** that you just added back and select**Update device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-14.png)
 2. Click**Search automatically for drivers** , Windows will then initiate a search online for the latest driver update. Follow any additional instructions provided during the driver update process.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-15.png)
 3. When the driver update is done, restart your computer for the change to take effect.
@@ -97,19 +106,6 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  There are mainly 2 ways you can update your GPU driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -121,6 +117,13 @@ To do so, first visit the website of your GPU manufacturer:
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (Recommended)
 
@@ -162,10 +165,16 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair damaged or corrupted system files
@@ -179,20 +188,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -248,21 +250,24 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-stand-out-on-google-the-ultimate-thumbnail-font-guide/"><u>[New] 2024 Approved Stand Out on Google The Ultimate Thumbnail Font Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-pinnacle-business-cloud-haven/"><u>[New] In 2024, Pinnacle Business Cloud Haven</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-stabilizing-your-display-on-windows-11/"><u>[SOLVED]: Stabilizing Your Display on Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-larger-video-posts-in-instagram/"><u>[Updated] 2024 Approved Mastering the Art of Larger Video Posts in Instagram</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-forge-an-impeccable-vr-self-representation-for-2024/"><u>[Updated] How to Forge an Impeccable VR Self-Representation for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ideal-6-economical-projector-brands-for-4k/"><u>[Updated] In 2024, Ideal 6 Economical Projector Brands for 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-spotted-after-win11-blackout/"><u>Cursor Spotted After Win11 Blackout</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/cutting-edge-videography-bordering-techniques-for-ig-for-2024/"><u>Cutting-Edge Videography Bordering Techniques for IG for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/essential-tips-for-3d-text-manipulation-in-photosoft/"><u>Essential Tips for 3D Text Manipulation in PhotoSoft</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hardware-compatibility-re-established/"><u>Hardware Compatibility Re-Established</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-overcome-c1900101-error-while-installing-windows-11/"><u>How to Overcome C1900101 Error While Installing Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-12plus-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme 12+ 5G Phone Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A56s 5G?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-optimal-results-the-latest-intel-gpu-drivers-for-windows-pcs/"><u>Secure Optimal Results: The Latest Intel GPU Drivers for Windows PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-fix-amds-detection-driver-for-win10/"><u>Successful Fix: AMD's Detection Driver for Win10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-your-media-with-vlcs-secret-features/"><u>[New] Mastering Your Media with VLC's Secret Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11s-advanced-display-options-unlocked/"><u>[Resolved]: Windows 11'S Advanced Display Options Unlocked</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-laughlines-prime-websites-for-giggling-tones/"><u>[Updated] In 2024, LaughLines Prime Websites for Giggling Tones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-transforming-your-photos-on-instagram-green-screen/"><u>2024 Approved Transforming Your Photos on Instagram Green Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/create-powerful-biz-decks-with-no-cost-templates/"><u>Create Powerful Biz Decks with No-Cost Templates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curing-asus-lcd-flickering-issues-effectively/"><u>Curing ASUS LCD Flickering Issues Effectively</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-correction-for-comfortable-viewing/"><u>Effortless Edge Correction for Comfortable Viewing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/epoch-elucidators-academy-top-ten-titans/"><u>Epoch Elucidators Academy - Top Ten Titans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-adjustments-for-big-display-on-win11/"><u>Fine Adjustments for Big Display on Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-zero-5g-2023-turbo-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Zero 5G 2023 Turbo FRP Without Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/leap-into-faster-windows-10-graphics-with-updated-intel-gfx/"><u>Leap Into Faster Windows 10 Graphics with Updated Intel GFX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-your-zoom-call-troubleshooting-tech/"><u>Master Your Zoom Call: Troubleshooting Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208930168-mastering-the-fix-put-an-end-to-non-stop-rebooting-on-your-windows-11-pc-today/"><u>Mastering the Fix: Put an End to Non-Stop Rebooting on Your Windows 11 PC Today</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-discordance-nvidia-and-nforce-within-windows/"><u>Resolved Discordance: Nvidia & nForce Within Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadow-of-a-vulkan-compatible-gpu/"><u>Shadow of a Vulkan-Compatible GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unable-to-detect-no-support-for-amd-video-card-in-winxpvista/"><u>Unable to Detect: No Support for AMD Video Card in WinXP/Vista</u></a></li>
 </ul></div>
 

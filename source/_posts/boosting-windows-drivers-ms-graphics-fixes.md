@@ -1,7 +1,7 @@
 ---
 title: Boosting Windows Drivers, MS Graphics Fixes
-date: 2024-08-31T05:33:40.740Z
-updated: 2024-09-01T05:33:40.740Z
+date: 2024-10-11T08:26:39.144Z
+updated: 2024-10-17T22:37:50.682Z
 tags:
   - win11
   - win10
@@ -36,8 +36,18 @@ thumbnail: https://thmb.techidaily.com/f063158b07bb5f14ea4aab44ee9234e61e405ad94
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Enable your dedicated graphics card
 
  If your own graphics card has been disabled or corrupted, your computer will automatically choose to use the Microsoft Basic Display adapter for GPU, in order to maintain the routine process in your system. So you should make sure that your graphics card is in good condition, and then enable your dedicated graphics card for Windows.
@@ -46,27 +56,30 @@ Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 2. In Device Manager, double click**Display adapters** to expand it.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1be34535d.jpg)
 3. Right click on your graphics card that you want to use, and click**Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d6521b36.jpg)  
  If you don’t see Enable device in the context menu, but see**Disable device** , you can click**Disable device** , then click**Enable device** to re-enable your graphics card.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1d9a8d932.jpg)
 4. Restart your computer and see if it fixes your Microsoft Basic Render driver issue.
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t work for you, don’t worry. There’s something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics card driver
 
  A missing or outdated graphics card driver can cause you with the Microsoft Basic Render driver, so you should update your graphics card driver to the latest version.
@@ -85,9 +98,14 @@ Here’s how to do it:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e5a9d95a.jpg)
 3. Click the**Update** button next to the flagged graphics device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdc1e794ab50.jpg)
 4. Restart your computer to take effect.
@@ -103,8 +121,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,8 +128,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-youtube-stream-the-wirecast-way/"><u>[Updated] 2024 Approved Elevating Your YouTube Stream The WireCast Way</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-androids-ultimate-guide-to-best-wildlife-games-for-2024/"><u>[Updated] Android's Ultimate Guide to Best Wildlife Games for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/comerror-detected-in-winos-resolved-issue/"><u>COMError Detected in WinOS - Resolved Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-mastered/"><u>Direct3D Initialization Mastered</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-x6-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find X6 FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-simplify-information-storage-via-mematic/"><u>In 2024, Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers/"><u>In 2024, The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers</u></a></li>
+<li><a href="https://win-web.techidaily.com/microsoft-azures-new-radius-platform-boosts-cross-cloud-development-with-open-source-solutions-itproportal/"><u>Microsoft Azure's New Radius Platform Boosts Cross-Cloud Development with Open Source Solutions | ITProPortal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-210-driver-enhancement-for-windows-10/"><u>Nvidia RTX 210 Driver Enhancement for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818160725-opengl-glitch-spotted-nvidia-gpu-fixed-up/"><u>OpenGL Glitch Spotted - Nvidia GPU Fixed Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnecting-displayport-without-fuss-or-risk/"><u>Reconnecting DisplayPort Without Fuss or Risk</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-to-use-gpu-on-win1011-laptops/"><u>Resetting Display to Use GPU on Win10/11 Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818375975-tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-expert-reviews-top-tech-analysis/"><u>Tom's Hardware Expert Reviews: Top Tech Analysis</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-guide-on-how-to-enable-the-text-to-speech-function-on-iphone/"><u>Updated Guide on How to Enable the Text to Speech Function on iPhone</u></a></li>
+</ul></div>
 

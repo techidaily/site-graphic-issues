@@ -1,7 +1,7 @@
 ---
 title: Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10
-date: 2024-10-10T17:33:05.689Z
-updated: 2024-10-11T23:41:06.634Z
+date: 2024-10-14T08:26:04.537Z
+updated: 2024-10-17T23:32:00.757Z
 tags:
   - win11
   - win10
@@ -70,34 +70,40 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
@@ -119,10 +125,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -148,18 +154,17 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streaming-with-flair-xbox-one-edition/"><u>[New] 2024 Approved Streaming with Flair Xbox One Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cash-up-fast-a-newbies-guide-to-the-13-best-reddit-money-hacks/"><u>[Updated] Cash Up Fast A Newbie's Guide to the 13 Best Reddit Money Hacks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-textualizer/"><u>2024 Approved Video Textualizer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activating-the-slumbering-gpu-fan/"><u>Activating the Slumbering GPU Fan</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/computer-performance-essentials-understanding-necessary-speed-requirements/"><u>Computer Performance Essentials: Understanding Necessary Speed Requirements</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-awakening-post-blackout-win11/"><u>Cursor Awakening Post-Blackout Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-init-no-more-hurdles/"><u>Direct3D Init: No More Hurdles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-play-by-reducing-latency/"><u>Enhance Play by Reducing Latency</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-advice-the-complete-process-to-clear-every-bit-of-information-off-your-iphone/"><u>Expert Advice: The Complete Process to Clear Every Bit of Information Off Your iPhone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-problem-no-cards-detected/"><u>Graphics Problem: No Cards Detected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-lapses-secure-display-on-dell-laptop/"><u>No More Lapses: Secure Display on Dell Laptop</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-ultimate-guide-to-iphone-photography-apps-in-2angs-transforming-pixels-into-masterpieces/"><u>The Ultimate Guide to iPhone Photography Apps in 2Angs - Transforming Pixels Into Masterpieces</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-packet-loss-on-discord-platforms/"><u>Troubleshooting Steps for Resolving Packet Loss on Discord Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-thorough-analysis-elevating-video-recording-with-obs-for-2024/"><u>[New] A Thorough Analysis Elevating Video Recording with OBS for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-behind-the-scenes-the-top-7-studio-programs-for-animators/"><u>[New] In 2024, Behind the Scenes The Top 7 Studio Programs for Animators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-igtvs-potential-a-video-resizing-primer-for-2024/"><u>[Updated] Unlocking IGTV's Potential A Video Resizing Primer for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2022s-ultimate-guide-to-portable-air-compressors-for-car-tires-reviewed-by-zdnet/"><u>2022'S Ultimate Guide to Portable Air Compressors for Car Tires - Reviewed by ZDNET</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-busting-the-myth-of-perfect-follower-numbers-on-social-media/"><u>2024 Approved Busting the Myth of 'Perfect' Follower Numbers on Social Media</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-issue-card-absence-notified/"><u>Display Issue: Card Absence Notified</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-selecting-premier-notetaking-apps-for-modern-ipad-users/"><u>Essential Guide to Selecting Premier Notetaking Apps for Modern iPad Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-failure-alerted/"><u>Graphic Device Failure Alerted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivate-your-displayport-in-seconds/"><u>Reactivate Your DisplayPort in Seconds</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-breakdown-of-stellaris-conquering-stars-and-civilizations/"><u>The Ultimate Breakdown of Stellaris: Conquering Stars and Civilizations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winfix-dxgkrnlsys-system-freeze-explained/"><u>Winfix: dxgkrnl.sys System Freeze Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/xcom-2-windows-stability-problems-resolved-tips-and-tricks-for-smooth-gaming/"><u>XCOM 2 Windows Stability Problems Resolved: Tips & Tricks for Smooth Gaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2024-10-05T20:32:17.552Z
-updated: 2024-10-11T23:26:18.182Z
+date: 2024-10-15T02:11:33.863Z
+updated: 2024-10-17T20:41:01.945Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -70,10 +63,16 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -81,10 +80,10 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -96,13 +95,20 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -133,19 +139,17 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quick-fixes-essential-tips-to-survive-win11/"><u>[New] Quick Fixes Essential Tips to Survive Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ffmpeg-and-its-role-in-preserving-natural-auditory-formats/"><u>2024 Approved FFmpeg and Its Role in Preserving Natural Auditory Formats</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-step-by-step-guide-to-professional-gopro-footage-for-2024/"><u>A Step-by-Step Guide to Professional Gopro Footage for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-stuck-on-black-window-fixed/"><u>Cursor Stuck on Black Window [FIXED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/declutter-your-view-fix-flicker-in-vista-or-win7/"><u>Declutter Your View – Fix Flicker in Vista or Win7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-windows-7s-intel-gfx-performance-with-new-drivers/"><u>Elevate Windows 7’S Intel Gfx Performance with New Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-accessibility-to-twitch-content-via-premium-extractors/"><u>Enhancing Accessibility to Twitch Content via Premium Extractors</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco Phone FRP Lock</u></a></li>
-<li><a href="https://facebook.techidaily.com/instafb-embraces-meta-drops-nfts-for-limited-testing-period/"><u>Insta/FB Embraces Meta Drops NFTs for Limited Testing Period</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-monochrome-mishaps-resolved/"><u>Lenovo Monochrome Mishaps Resolved</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mirroring-your-iphone-screen-on-windows-10-discover-the-top-7-methods/"><u>Mirroring Your iPhone Screen on Windows 10: Discover the Top 7 Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-enhances-geforce-210-on-win11/"><u>NVIDIA Enhances GeForce 210 on Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-intelligent-graphics-update-for-windows-11/"><u>Seamless Intelligent Graphics Update for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-disk-space-through-powershell-metrics-analysis/"><u>Understanding Disk Space Through PowerShell Metrics Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-historical-wisdom-on-youtube-for-students-for-2024/"><u>[Updated] Historical Wisdom on YouTube for Students for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-captioning-techniques-for-professional-youtube-content/"><u>2024 Approved Captioning Techniques for Professional YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-top-6-classic-mario-adventures-on-pc-an-ultimate-collection/"><u>Best Top 6 Classic Mario Adventures on PC: An Ultimate Collection</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-asus-x441ba-laptop-high-resolution-screen-vs-other-factors/"><u>Comprehensive Guide to Asus X4^41BA Laptop: High-Resolution Screen vs Other Factors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-visual-acuity-of-game-ui-graphics/"><u>Enhancing Visual Acuity of Game UI Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-utorrent-not-downloadingconnecting-to-peers/"><u>How to Fix uTorrent Not Downloading/Connecting to Peers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-display-straighten-out-lines-now/"><u>Laptop's Display: Straighten Out Lines Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-graphic-incompatibility-resolved/"><u>Overwatch: Graphic Incompatibility Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-cursor-from-win11-blank-screens/"><u>Recovered Cursor From Win11 Blank Screens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screenflow-for-mac-full-review/"><u>ScreenFlow for Mac Full Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-windows-11-issues-incompatibility-with-legacy-processors/"><u>Troubleshooting Windows 11 Issues: Incompatibility with Legacy Processors</u></a></li>
 </ul></div>
 

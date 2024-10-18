@@ -1,7 +1,7 @@
 ---
 title: Horizontal Adjustment - Portable Devices Fixed
-date: 2024-08-31T05:29:27.984Z
-updated: 2024-09-01T05:29:27.984Z
+date: 2024-10-12T00:32:49.016Z
+updated: 2024-10-18T06:06:52.764Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -45,20 +42,25 @@ To rotate your screen in your system display settings:
 1. Right click_an empty area_ of your desktop, then select**Display settings** or **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
  Sometimes your laptop graphics driver is not working properly so you’re having the screen sideways issue. You should try updating your graphics driver to see if this resolves your problem.
@@ -71,14 +73,24 @@ This should restore your laptop screen.
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -91,8 +103,6 @@ This should restore your laptop screen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,8 +110,20 @@ This should restore your laptop screen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-shorts-and-tiktok-which-one-is-better-for-personal-usage/"><u>[New] In 2024, YouTube Shorts & TikTok Which One Is Better for Personal Usage?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-igtv-title-and-description-revision-for-2024/"><u>[New] Mastering IGTV Title & Description Revision for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-apowersofts-latest-capture-tech-for-efficient-pc-recording/"><u>[Updated] In 2024, Apowersoft's Latest Capture Tech for Efficient PC Recording</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-free-from-blacked-out-display/"><u>Breaking Free From Blacked-Out Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-11-video-issues-post-upgrade-resolved/"><u>Fixing Windows 11 Video Issues Post-Upgrade [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hassle-free-fixes-for-gpus-without-displays/"><u>Hassle-Free Fixes for GPUs Without Displays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-catchy-headline-creator/"><u>In 2024, Prime Catchy Headline Creator</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone XS Max</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prime-day-deals-how-the-apple-watch-series-se-2nd-generation-remains-80-cheaper-on-launch-insights-from-zdnet/"><u>Prime Day Deals: How the Apple Watch Series SE (2Nd Generation) Remains $80 Cheaper on Launch - Insights From ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-how-to-fix-screen-not-showing-full-window/"><u>Windows 10: How to Fix Screen Not Showing Full Window?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xilinx-gpu-error-cleared-back-to-service/"><u>Xilinx GPU: Error Cleared, Back to Service</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/your-guide-to-the-funniest-and-most-touching-memes-on-instagram/"><u>Your Guide to the Funniest & Most Touching Memes on Instagram</u></a></li>
+</ul></div>
 

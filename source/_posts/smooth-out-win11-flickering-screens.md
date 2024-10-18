@@ -1,7 +1,7 @@
 ---
 title: "Smooth Out: Win11 Flickering Screens"
-date: 2024-10-03T20:30:17.785Z
-updated: 2024-10-06T18:59:08.187Z
+date: 2024-10-14T16:44:52.996Z
+updated: 2024-10-18T04:21:42.475Z
 tags:
   - win11
   - win10
@@ -40,45 +40,24 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -94,13 +73,6 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -113,6 +85,13 @@ Here is how to change the monitor refresh rate:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -123,24 +102,25 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -149,6 +129,19 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -172,6 +165,19 @@ Here’s how to use Fortect to repair system files on your PC:
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -220,19 +226,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-masterclass-in-virtual-reality-finger-hacks/"><u>[New] Masterclass in Virtual Reality Finger Hacks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-guide-to-adding-snapchat-on-your-macbook-for-2024/"><u>[New] Quick Guide to Adding Snapchat on Your MacBook for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essential-guide-to-choosing-top-gopro-cases-for-2024/"><u>[Updated] Essential Guide to Choosing Top GoPro Cases for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-to-master-free-online-and-offline-text-animations/"><u>[Updated] In 2024, How to Master Free Online & Offline Text Animations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-failed-to-load-detection-driver-on-windowas-10-solved/"><u>AMD: Failed to Load Detection Driver on Windowas 10 [SOLVED]</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-boost-your-sites-performance-and-user-engagement/"><u>Cookiebot-Enabled: Boost Your Site's Performance and User Engagement</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-sony-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Sony Xperia 10 V</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/modernize-your-system-intels-drivers-for-windows/"><u>Modernize Your System: Intel's Drivers for Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realigning-distorted-displays-within-windows-10-systems/"><u>Realigning Distorted Displays Within Windows 10 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-your-black-screened-laptop/"><u>Reviving Your Black Screened Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silencing-screenscape-shenanigans-in-pro-7/"><u>Silencing Screenscape Shenanigans in Pro 7</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-converting-vimeo-videos-to-mp3-format/"><u>[New] Converting Vimeo Videos to MP3 Format</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-palette-perfection-translating-color-concepts-for-2024/"><u>[New] Palette Perfection Translating Color Concepts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-framefinder-top-picks-for-screen-capturing/"><u>[Updated] FrameFinder Top Picks for Screen Capturing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons-for-2024/"><u>[Updated] Integrate with Ease An In-Depth Look at Instagram's Music Icons for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brilliant-displays-how-to-stop-screen-flickering/"><u>Brilliant Displays: How to Stop Screen Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/card-detection-failure-alert/"><u>Card Detection Failure Alert</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dimming-the-distraction-how-to-fix-a-flickering-display/"><u>Dimming the Distraction: How to Fix a Flickering Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-interface-reactivated-post-error/"><u>Display Interface Reactivated Post-Error</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-tips-and-tricks-transforming-flv-video-into-iphone-friendly-formats/"><u>Easy Tips & Tricks: Transforming FLV Video Into iPhone-Friendly Formats</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-11-enhanced-control-over-resolutions/"><u>Fixed Windows 11 - Enhanced Control Over Resolutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-se-2022-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone SE (2022) iCloud Activation Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-os-laptop-gpu-functionality-verified-on-win11/"><u>New OS - Laptop GPU Functionality Verified on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-direct3d-lag-enhanced-rendering-unlocked/"><u>No More Direct3D Lag: Enhanced Rendering Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-and-intel-synchro-on-win10-end-of-switchable-graphics-woes/"><u>NVIDIA & Intel Synchro on Win10: End of Switchable Graphics Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfectly-presented-photos-mastering-the-art-of-crafting-captivating-slideshows-in-win11-photos-app/"><u>Perfectly Presented Photos: Mastering the Art of Crafting Captivating Slideshows in Win11 Photos App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refreshdisplayinvertedcorrection/"><u>RefreshDisplayInvertedCorrection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-shorts-thumbnail-absence-on-youtube-for-2024/"><u>Solving Shorts Thumbnail Absence on YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
 </ul></div>
 

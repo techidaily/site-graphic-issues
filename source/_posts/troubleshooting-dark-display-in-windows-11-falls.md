@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dark Display in Windows 11 Falls
-date: 2024-10-02T21:43:45.136Z
-updated: 2024-10-06T21:48:48.358Z
+date: 2024-10-12T09:22:15.415Z
+updated: 2024-10-17T20:53:53.350Z
 tags:
   - win11
   - win10
@@ -24,33 +24,33 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall display card driver
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -60,10 +60,10 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
@@ -85,21 +85,20 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-aligning-content-quality-with-instagrams-user-base/"><u>[New] 2024 Approved Aligning Content Quality with Instagram's User Base</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimizing-your-in-stream-ad-strategy-on-facebooks-platform/"><u>[New] Optimizing Your In-Stream Ad Strategy on Facebook's Platform</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-for-the-msvcr71dll-file-not-found-issue/"><u>Comprehensive Troubleshooting for the 'Msvcr71.dll' File Not Found Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-mod-conflicts-with-civ-5-pc/"><u>Fixing Mod Conflicts with Civ 5 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-find-x6-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Oppo Find X6 Pro Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-70-lite-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor 70 Lite 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/insights-on-the-postponed-launch-of-assassins-creed-valhalla-explanation-unveiled/"><u>Insights on the Postponed Launch of Assassin's Creed Valhalla - Explanation Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnect-at-a-glance-speedy-fixes-for-no-signal/"><u>Reconnect at a Glance: Speedy Fixes for No Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-absent-display-in-win10/"><u>Resolving Absent Display in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818017200-switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/time-markers-for-youtube-videos-expert-tips-desktopmobile-for-2024/"><u>Time Markers for YouTube Videos Expert Tips (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-virtualdub-vs-the-rest-a-comprehensive-review-of-video-editing-options/"><u>Updated Virtualdub Vs. The Rest A Comprehensive Review of Video Editing Options</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972733509-zexmte-bluetooth-adapter-obtain-official-drivers-compatible-with-windows-10-8-and-7-today/"><u>Zexmte Bluetooth Adapter: Obtain Official Drivers Compatible with Windows 10, 8 & 7 Today</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-edit-your-way-to-perfection-with-android/"><u>[New] Edit Your Way to Perfection with Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[New] Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-stop-video-buffering-during-streaming/"><u>[New] Stop Video Buffering During Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tales-of-trial-by-fire-vs-innovative-challenges/"><u>[New] Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-untold-chronicles-adventures-in-antique-literature/"><u>[New] The Untold Chronicles Adventures in Antique Literature</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-mp4-players-you-cant-miss/"><u>10 MP4 Players You Can't Miss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/align-vertical-borders-on-computer-monitors-quickly/"><u>Align Vertical Borders on Computer Monitors Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-views-on-zoom-how-to-mend-your-camera/"><u>Clear Views on Zoom - How to Mend Your Camera</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-fix-for-disconnected-displayport/"><u>Immediate Fix for Disconnected DisplayPort</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-xr-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone XR? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-on-no-more-black-outages/"><u>Lenovo Lights On: No More Black Outages</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/twitter-elite-moments-live-on-snapchat-for-2024/"><u>Twitter Elite Moments Live on Snapchat for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-lost-cursor-found/"><u>Win11 Screen Lost, Cursor Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-display-issue-no-more/"><u>Windows 11 Display Issue No More</u></a></li>
 </ul></div>
 

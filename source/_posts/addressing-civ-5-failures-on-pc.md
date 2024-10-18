@@ -1,7 +1,7 @@
 ---
 title: Addressing CIV 5 Failures on PC
-date: 2024-10-04T20:29:09.389Z
-updated: 2024-10-06T20:12:26.843Z
+date: 2024-10-16T16:02:35.307Z
+updated: 2024-10-18T11:13:06.497Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify your game integrity
 
  Sometimes**CIV 5 crashes** because there’re broken or missing files on your system. So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the**CIV 5 crashing**  issue.
@@ -46,23 +39,17 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,6 +63,14 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -94,10 +89,10 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
@@ -108,15 +103,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -141,20 +136,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-captivate-viewers-create-success-a-strategy-for-gamers-channels-for-2024/"><u>[New] Captivate Viewers, Create Success A Strategy for Gamers' Channels for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-examining-youtubes-workflow-after-content-submission/"><u>[New] Examining YouTube's Workflow After Content Submission</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-copycat-cinema-steps-for-satirical-video-making/"><u>[New] In 2024, Copycat Cinema Steps for Satirical Video Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lustrous-android-video-techniques-for-every-user/"><u>2024 Approved Lustrous Android Video Techniques for Every User</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-intel-3000-driver-fix-for-windows-10-users/"><u>Effortless Intel 3000 Driver Fix for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-screen-flip-mishap/"><u>Ending Windows 10 Screen Flip Mishap</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-iphone-hdr-photo-perfection/"><u>In 2024, The Art of iPhone HDR Photo Perfection</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-zero-30-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix Zero 30 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/integrating-the-latest-intel-gpu-software-on-windows/"><u>Integrating the Latest Intel GPU Software on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overhauled-peripheral-controller-fixes/"><u>Overhauled Peripheral Controller Fixes</u></a></li>
-<li><a href="https://facebook.techidaily.com/protocol-for-leaving-a-digital-community-constructively/"><u>Protocol for Leaving a Digital Community Constructively</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/real-time-fix-for-jittery-videos/"><u>Real-Time Fix for Jittery Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refinement-of-greenscreen-footage-a-video-editors-mantra/"><u>Refinement of Greenscreen Footage: A Video Editor’s Mantra</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remediation-of-cominterface-error-windows-edition/"><u>Remediation of COMInterface Error, Windows Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-music-syncing-for-iphones-and-androids-in-fb/"><u>[New] 2024 Approved Music Syncing for iPhones & Androids in FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list/"><u>[New] Make Your Screenshots Stand Out The Ultimate iOS & Android App List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stretched-screen-issues-for-windows-10/"><u>[Solved] Stretched Screen Issues for Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-imagination-drought-hindering-vr-development-for-2024/"><u>[Updated] The Imagination Drought Hindering VR Development for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-instant-accessibility-the-simplest-way-to-ifunny-memes/"><u>2024 Approved Instant Accessibility The Simplest Way to iFunny Memes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/black-screen-on-latest-gpu/"><u>Black Screen on Latest GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-fixes-for-asus-laptops-unresponsive-display/"><u>Easy Fixes for Asus Laptop's Unresponsive Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-angle-correction-for-clear-vision/"><u>Effortless Angle Correction for Clear Vision</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-csv-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .csv document online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-imageinterplay-hub/"><u>In 2024, ImageInterplay Hub</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-luminous-lenses-the-ultimate-10-4k-smartphone-cameras-reviewed/"><u>In 2024, Luminous Lenses The Ultimate 10 4K Smartphone Cameras Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos-for-2024/"><u>Navigating to No-Cost & Risk-Free VLC Player Download for macOS for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-non-touch-problem/"><u>Overcoming Lenovo Non-Touch Problem</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pc-gaming-troubles-why-is-my-rec-room-mic-not-working-fixes-and-tips-latest-guide/"><u>PC Gaming Troubles: Why Is My Rec Room Mic Not Working? Fixes & Tips (Latest Guide)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-repair-swift-solution-to-amds-tarkov-glitch/"><u>Precise Repair: Swift Solution to AMD's Tarkov Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-windows-10-screen-blink/"><u>Quelling Windows 10 Screen Blink</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-laptop-monitor-horizontal-line-distortion-quickly/"><u>Rectify Laptop Monitor Horizontal Line Distortion Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-glitch-in-windowsminecraft/"><u>Resolve Graphics Glitch in Windows/Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-tech-tecnos-new-color-changing-features/"><u>Transforming Tech: Tecno's New Color-Changing Features</u></a></li>
 </ul></div>
 

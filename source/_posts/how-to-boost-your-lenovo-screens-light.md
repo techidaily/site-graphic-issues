@@ -1,7 +1,7 @@
 ---
 title: How To Boost Your Lenovo Screens' Light
-date: 2024-08-31T05:30:30.224Z
-updated: 2024-09-01T05:30:30.224Z
+date: 2024-10-16T12:31:50.912Z
+updated: 2024-10-18T00:39:31.480Z
 tags:
   - win11
   - win10
@@ -57,8 +57,12 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3) Modify Registry
 
  You can also**change a Registry value** to fix your dim screen issue. But please note that Registry editing is very**risky** in that any misoperation can bring about unexpected consequences. You should always be very**careful** about modifying the registry. Besides, it is also strongly recommended that you [**back up your Registry**](https://tools.techidaily.com/drivereasy/download/) before you go ahead with the steps below.
@@ -69,30 +73,39 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
  If none of the methods above get your Lenovo laptop screen back to normal, you may need to consider the dim screen problem as a hardware issue. You can contact Lenovo’s official support and see if they can offer any further assistance.
@@ -105,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,8 +125,23 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simple-steps-to-coordinate-consistent-productive-google-collaboration-times/"><u>[New] 2024 Approved Simple Steps to Coordinate Consistent, Productive Google Collaboration Times</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-download-custom-mcb-banner-packs/"><u>[New] In 2024, Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x50-gt-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X50 GT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-latency-solutions/"><u>Anthem Latency Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhancing-engagement-top-20-best-practices-for-video-ads-on-facebook-for-2024/"><u>Enhancing Engagement Top 20 Best Practices for Video Ads on Facebook for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-s24-ultra-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy S24 Ultra Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-s24-ultra-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy S24 Ultra FRP?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-sony-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Sony Without PUK Codes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-distraction-a-guide-to-prevent-monitor-flickering/"><u>No More Distraction: A Guide to Prevent Monitor Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-microsofts-driver-for-windows/"><u>Optimizing Microsoft's Driver for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-loading-issue-amds-detector-in-win10/"><u>Resolved Loading Issue - AMD's Detector in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-pixelated-playback/"><u>Say Goodbye to Pixelated Playback</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-updated-d-link-drivers-in-windows-expert-tips-and-solutions/"><u>Seamless Installation of Updated D-Link Drivers in Windows - Expert Tips & Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-intel-graphics-on-windows-11/"><u>Swift Fix for Intel Graphics on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/"><u>Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unseen-maxwell-technology-on-windows-pc/"><u>Unseen Maxwell Technology on Windows PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Graphics Troubles, Civ 5-PC
-date: 2024-10-05T21:17:03.258Z
-updated: 2024-10-06T21:26:52.553Z
+date: 2024-10-12T14:14:50.253Z
+updated: 2024-10-18T10:59:17.697Z
 tags:
   - win11
   - win10
@@ -40,16 +40,10 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
@@ -58,16 +52,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -86,16 +74,10 @@ Here’s how to do it:
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
@@ -112,14 +94,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -153,18 +135,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2023s-premier-movie-options-beyond-the-top-selections-for-2024/"><u>[Updated] 2023'S Premier Movie Options Beyond The Top Selections for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[Updated] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/converting-twitch-livestreams-for-youtube-success/"><u>Converting Twitch Livestreams for YouTube Success</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-combat-efficiency-in-god-of-war/"><u>Enhancing Combat Efficiency in 'God of War'</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-conquering-video-design-challenges-with-filmora-tips/"><u>In 2024, Conquering Video Design Challenges with Filmora Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-leading-makers-premium-instagram-highlight-craftsmen/"><u>In 2024, Leading Makers Premium Instagram Highlight Craftsmen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-with-new-geforce-210-drivers/"><u>Optimizing Win11 with New GeForce 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-c1900101-issue-for-windows-10-installation/"><u>Overcoming C1900101 Issue for Windows 10 Installation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-dialogue-draft-directory/"><u>Prime Dialogue Draft Directory</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rapid-download-guide-to-microsofts-ergonomic-keyboard-40amo-driver-setup-hassle-free/"><u>Rapid Download Guide to Microsoft's Ergonomic Keyboard 40Amo Driver Setup – Hassle-Free</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedying-shadows-on-smartphone-screens/"><u>Remedying Shadows on Smartphone Screens</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-the-mystery-of-non-functional-dolby-sound-in-your-pc-heres-how/"><u>Solving the Mystery of Non-Functional Dolby Sound in Your PC – Here’s How! ✅</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-boosting-visibility-igtv-and-facebook-connection-techniques/"><u>[New] Boosting Visibility IGTV & Facebook Connection Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-advanced-techniques-for-proximity-viewing-in-roblox/"><u>[New] In 2024, Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[New] Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-future-of-fb-ads-whats-a-must-try/"><u>[Updated] Future of FB Ads – What’s a Must-Try?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>[Updated] Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smartest-3d-apps-available-on-android/"><u>2024 Approved Smartest 3D Apps Available on Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-speedy-smooth-and-secure/"><u>Apex Legends: Speedy, Smooth, and Secure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-bard-head-to-head-determining-the-superior-conversational-ai/"><u>ChatGPT and Google Bard Head-to-Head: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-sims-colorless-startup/"><u>Eradicate Sims' Colorless Startup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-access-premium-imagery-no-copyright-restrictions/"><u>In 2024, Access Premium Imagery, No Copyright Restrictions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-avoid-unsolicited-podcast-selections-by-spotify/"><u>In 2024, Avoid Unsolicited Podcast Selections by Spotify</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastered-overcoming-nvidia-setup-hurdle/"><u>Mastered: Overcoming NVIDIA Setup Hurdle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-glitches-in-civilization-v/"><u>Mending Glitches in Civilization V</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mice-on-the-move-post-blackout-win11/"><u>Mice on the Move Post-Blackout Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-end-fallout-4-pc-freezes/"><u>Quick Fix: End Fallout 4 PC Freezes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-approach-to-rectifying-greenscreen-issues/"><u>Step-by-Step Approach to Rectifying Greenscreen Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-gtx-1060s-potential-with-updated-graphics-software/"><u>Unlock GTX 1060'S Potential with Updated Graphics Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vrije-movavi-service-efficient-converteer-m4r-filetes-naar-aiff-audio-online/"><u>Vrije Movavi Service: Efficiënt Converteer M4R Filetes Naar AIFF Audio - Online!</u></a></li>
 </ul></div>
 

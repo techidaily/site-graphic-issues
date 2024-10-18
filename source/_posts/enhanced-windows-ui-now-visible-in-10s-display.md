@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Windows UI: Now Visible in 10'S Display"
-date: 2024-10-04T17:36:41.205Z
-updated: 2024-10-06T17:55:57.918Z
+date: 2024-10-16T18:38:17.909Z
+updated: 2024-10-18T11:37:34.550Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -52,29 +45,22 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -89,15 +75,22 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
@@ -106,6 +99,13 @@ Here’s how to do it:
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -130,24 +130,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unseen-ways-to-leverage-instagrams-query-symbol/"><u>[New] In 2024, Unseen Ways to Leverage Instagram's Query Symbol</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-live-cutting-edge-strategies-audiences/"><u>[Updated] 2024 Approved Facebook Live Cutting-Edge Strategies Audiences</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-leveraging-fb-media-speeds-up-strategies/"><u>[Updated] Leveraging FB Media Speeds Up Strategies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-use-d3dgear-screen-recorder/"><u>2024 Approved How to Use D3DGear Screen Recorder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-a-quick-guide-for-asus-laptops/"><u>Banishing Black Screens: A Quick Guide for Asus Laptops</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-controls-in-win11/"><u>Enhanced Screen Resolution Controls in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-geforce-xray-issue/"><u>Fixing GeForce XRay Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-invisible-displays-on-personal-computers/"><u>Fixing Invisible Displays on Personal Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/high-end-alienware-pro-wireless-keyboard-assessment-an-elite-option-for-gamers/"><u>High-End Alienware Pro Wireless Keyboard Assessment: An Elite Option for Gamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igniting-the-dormant-gpu-fan-force/"><u>Igniting the Dormant GPU Fan Force</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-xs-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone XS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-12-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 12 Activation Lock</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-your-corsair-mouse-with-this-easy-to-use-program/"><u>Install Your Corsair Mouse with This Easy-to-Use Program</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jumpstart-your-gaming-with-latest-hd-6950-w11-drivers/"><u>Jumpstart Your Gaming with Latest HD 6950 W11 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mitigating-performance-drops-civ-5-computer/"><u>Mitigating Performance Drops, CIV 5 Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-os-drivers-blues-stop-winblue-screen/"><u>Overcoming OS Drivers Blues: Stop WinBlue Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simplifying-intel-graphics-driver-upgrade-on-windows-7/"><u>Simplifying Intel Graphics Driver Upgrade on Windows 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-exceptional-cover-letters-with-gpt-3/"><u>Step by Step Guide to Exceptional Cover Letters with GPT-3</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-12-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 12 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dells-display-now-consistent-no-more-flickering/"><u>Dell's Display Now Consistent, No More Flickering</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/desinstallation-reussie-dune-partition-de-demarrage-sous-windows-11-guide-complet-et-corrige/"><u>Désinstallation Réussie D'une Partition De Démarrage Sous Windows 11 : Guide Complet Et Corrigé</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-brother-l2740dw-printer-drivers-on-windows-complete-guide/"><u>Download Brother L2740DW Printer Drivers on Windows: Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-access-blocked-heres-how-to-fix-the-not-found-entry-issue-easily/"><u>Fortnite Access Blocked? Here’s How to Fix the 'Not Found' Entry Issue Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gateway-to-nvidia-cpanel-removed/"><u>Gateway to NVIDIA CPanel Removed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halt-luminary-lurches-in-acer-computers/"><u>Halt Luminary Lurches in Acer Computers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-12-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi 12 5G FRP Without Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-gaming-eliminate-lags/"><u>Maximize Gaming: Eliminate Lags</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunters-unite-erratum-12-conquered/"><u>Monster Hunters Unite: Erratum 12 Conquered</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-protect-your-eyes-from-digital-strain-with-lensdirects-prescription-blocking-blue-light-spectacles/"><u>Review: Protect Your Eyes From Digital Strain with LensDirect's Prescription Blocking Blue Light Spectacles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-unhandled-exception-error-code-0xc0000005-in-call-stack-overflow-for-black-ops-cold-war-players/"><u>Solving Unhandled Exception (Error Code 0Xc0000005) in Call Stack Overflow for Black Ops Cold War Players</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-implementing-effective-transitions-on-inshot-for-2024/"><u>Step-by-Step Implementing Effective Transitions on Inshot for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-gaming-with-updated-nvidia-driver/"><u>Streamline Gaming with Updated Nvidia Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-blackout-after-creators-update-fixes/"><u>Win11 Blackout: After Creator's Update Fixes</u></a></li>
 </ul></div>
 

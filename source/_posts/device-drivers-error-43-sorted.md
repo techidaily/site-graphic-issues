@@ -1,7 +1,7 @@
 ---
 title: Device Drivers' Error #43 Sorted
-date: 2024-08-31T05:29:12.939Z
-updated: 2024-09-01T05:29:12.939Z
+date: 2024-10-17T08:44:39.572Z
+updated: 2024-10-18T00:50:08.449Z
 tags:
   - win11
   - win10
@@ -55,28 +55,39 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91effe026eb.png)
 2. Locate and double-click on **Display adapters**  (aka. **Graphics card** , **Video card**). Then right-click on **the item** right below and click **Uninstall device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
-3. Click **Uninstall**   in the pop-up window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-4. After the uninstall, right-click on**the name of your PC** and click**Scan for hardware changes** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b838add712.jpg)
-5. Double-click on**your graphics card** again to check if you can see “This device is working properly” on Device Manager. If yes, then congrats – you’ve fixed the problem. If it is still the same**Graphics Device Driver Error Code 43** message, please try**Fix 3** , below.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b841ab4dd2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f0b245dd2.jpg)
+3. Click **Uninstall**   in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+4. After the uninstall, right-click on**the name of your PC** and click**Scan for hardware changes** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b838add712.jpg)
+5. Double-click on**your graphics card** again to check if you can see “This device is working properly” on Device Manager. If yes, then congrats – you’ve fixed the problem. If it is still the same**Graphics Device Driver Error Code 43** message, please try**Fix 3** , below.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b841ab4dd2.jpg)
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Power cycle your PC
 
  Sometimes the **Windows has stopped this device because it has reported problems (** **code 43)** issue can be fixed by **power cycling your PC** , which is mainly about shutting down your PC and then disconnecting it from the power source before you turn it back on again. To do so:
@@ -93,8 +104,12 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System**) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it solves this**code 43** issue.
@@ -104,9 +119,6 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Check out the **Support** (or **Download**) section and search for the latest BIOS update.
 4. Download the file and install it properly.
 5. Restart your computer and check if this   **Windows has stopped this device because it has reported problems (** **code 43)** message disappears.
@@ -123,8 +135,6 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,8 +142,22 @@ If you ever run into this **Graphics Device Driver Error Code 43**  error in you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-quick-guide-integrating-snap-camera-with-teams/"><u>[New] 2024 Approved Quick Guide Integrating Snap Camera with Teams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-video-capture-apps-for-educators/"><u>[New] In 2024, Ideal Video Capture Apps for Educators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-achieving-audiovisual-consistency-in-premiers/"><u>[Updated] Achieving Audiovisual Consistency in Premiers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide/"><u>[Updated] From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-prime-video-hits-on-twitter-the-most-popular-watches-of-23/"><u>2024 Approved Prime Video Hits on Twitter The Most Popular Watches of '23</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-loopy-screen-lines-on-laptops-efficiently/"><u>Cure Loopy Screen Lines on Laptops Efficiently</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/damping-down-display-dynamics-in-acer-systems/"><u>Damping Down Display Dynamics in Acer Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-issue-dark-screens/"><u>Graphics Issue: Dark Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-your-macos-performance-by-flushing-the-dns-cache/"><u>Improve Your macOS Performance by Flushing the DNS Cache</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array/"><u>In 2024, Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quick-flash-on-your-acer-screen/"><u>Quelling Quick Flash on Your Acer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-physics-problems-civilization-v-pc/"><u>Resolving Physics Problems, Civilization V PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-m3-macbook-air-by-apple-how-this-innovative-ai-device-is-changing-the-game-for-everyone-zdnet/"><u>Unveiling the M3 MacBook Air by Apple - How This Innovative AI Device Is Changing the Game for Everyone | ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-os-x-mavericks-video-editing-crash-course/"><u>Updated 2024 Approved The Ultimate OS X Mavericks Video Editing Crash Course</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blackout-error-solved/"><u>Windows 10 Blackout Error Solved</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'God of War': Polishing Combat Intuition"
-date: 2024-08-31T05:29:25.553Z
-updated: 2024-09-01T05:29:25.553Z
+date: 2024-10-14T21:10:43.857Z
+updated: 2024-10-17T16:14:29.989Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -54,15 +51,26 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Verify game files
 
  Verifying the game files is a useful fix to solve game issues, especially when game are crashing or having terrible performance. As a new game, God of War has new patches roll out almost every day, verifying your game files may resolve installation corruption that prevents you from being able to play the game.
@@ -73,17 +81,18 @@ Here’s how:
 2. Right-click **God of War** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
 If this doesn’t fix the problem, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Check for system updates
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
@@ -93,9 +102,6 @@ If this doesn’t fix the problem, take a look at the next fix.
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
@@ -114,13 +120,25 @@ If the latest updates don’t work for you, try the next method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -132,8 +150,6 @@ If the latest updates don’t work for you, try the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,8 +157,23 @@ If the latest updates don’t work for you, try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-srs-mastery-innovative-conversion-techniques/"><u>[New] 2024 Approved SRS Mastery Innovative Conversion Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harness-natural-light-for-iphone-photography/"><u>[New] Harness Natural Light for iPhone Photography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide/"><u>[Updated] Leveraging OBS for Smooth Streaming Mac & PC Users' Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tiny-tycoons-car-contests-for-2024/"><u>[Updated] Tiny Tycoons' Car Contests for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/2024dvd-windows-1110/"><u>2024免費DVD播放器最新推薦軟件 [爱好者选择：適用Windows 11/10]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-win11-resolution-settings/"><u>Balancing Win11 Resolution Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-lenovos-secret/"><u>Bring Back The Colors: Lenovo's Secret</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-why-the-microsoft-sculpt-keyboard-is-a-highly-recommended-investment-for-comfort-and-productivity/"><u>Discover Why the Microsoft Sculpt Keyboard Is a Highly Recommended Investment for Comfort and Productivity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-display-options-in-windows-11-unlocked/"><u>Enhanced Display Options in Windows 11 Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-window-display-lack-of-full-screen-on-monitor-win11/"><u>Fix Window Display: Lack of Full-Screen on Monitor Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-error-code-c1900101-when-upgrading-to-windows-11/"><u>How To Fix Error Code C1900101 When Upgrading to Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-starting-your-channel-right-top-tier-tech-list/"><u>In 2024, Starting Your Channel Right Top-Tier Tech List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175723499-introducing-the-sleek-and-powerful-valkyrie-al125-cpu-cooling-solution-crisp-ips-display-dazzling-rgb-light-effects-all-for-less-than-twenty-bucks/"><u>Introducing the Sleek and Powerful Valkyrie AL125 CPU Cooling Solution: Crisp IPS Display, Dazzling RGB Light Effects, All for Less than Twenty Bucks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-acid-pro-review-a-look-at-similar-programs/"><u>Magix ACID Pro Review A Look at Similar Programs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refining-gameplay-dynamics-in-god-of-war/"><u>Refining Gameplay Dynamics in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversing-rear-screen-renders-in-tablets/"><u>Reversing Rear Screen Renders in Tablets</u></a></li>
+</ul></div>
 

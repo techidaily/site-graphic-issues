@@ -1,7 +1,7 @@
 ---
 title: "Banishing Blue Screen: Solve WDF Crashes on WinOS"
-date: 2024-10-01T18:15:31.412Z
-updated: 2024-10-06T16:24:07.141Z
+date: 2024-10-13T05:51:15.312Z
+updated: 2024-10-18T00:00:02.163Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Use Driver Verifier
 
 **Warning** : You must be in the Administrators group on the computer to use Driver Verifier. In the middle of the session, your PC could**crash** . So, it must be used when you have backed up all your important data and files.
@@ -64,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When prompted to provide administrator permission, click **Yes** .
 
  2) Type**verifier** in the command prompt window. Then hit**Enter** .
@@ -78,10 +78,16 @@ When prompted to provide administrator permission, click **Yes** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910349670aa3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Choose**Create standard settings** and then click**Next** to continue.
@@ -92,7 +98,21 @@ When prompted to provide administrator permission, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59103553b4fa3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the detect process finishes, just follow the instructions to get rid of the WDF\_VIOLATION blue screen error fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Run a Windows repair
 
@@ -133,28 +153,8 @@ Here’s how to use Fortect to run a Windows repair:
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -175,15 +175,14 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-exclusive-guide-to-the-leading-top-10-fb-videos-downloader-for-android/"><u>[New] In 2024, Exclusive Guide to the Leading Top 10 FB Videos Downloader for Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-timer-mastery-building-a-custom-countdown-timer/"><u>[Updated] In 2024, OBS Timer Mastery Building a Custom Countdown Timer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieve-flawless-fast-video-playback/"><u>Achieve Flawless, Fast Video Playback</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-cursor-issue/"><u>Clearing Up Black Cursor Issue</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/expert-insights-for-saving-and-curating-insta-stories/"><u>Expert Insights for Saving and Curating Insta Stories</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-driver-fix-display-system-regained/"><u>Graphics Driver Fix: Display System Regained</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-6s-plus-how-to-unlock-a-disabled-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6s Plus How to Unlock a Disabled Apple iPhone 6s Plus?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a56s-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A56s 5G Lock Screen Password?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolution-control-recovery-for-windows-11-users/"><u>Resolution Control Recovery for Windows 11 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-eradicating-the-purged-blue-screen-caused-by-dxgmms2-on-windows-10-systems/"><u>Step-by-Step Solution: Eradicating the '[PURGED]' Blue Screen Caused by DxGmms2 on Windows 10 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[New] Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-hack-your-webcam-efficient-recording-techniques/"><u>[Updated] In 2024, Hack Your Webcam Efficient Recording Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-youtube-music-replay-tracks-2023/"><u>2024 Approved The Ultimate YouTube Music Replay Tracks, 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/introducing-improved-windows-11-geforce-210-drivers/"><u>Introducing Improved Windows 11 GeForce 210 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gtx-1060-latest-graphics-driver-release/"><u>Nvidia GTX 1060 - Latest Graphics Driver Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blank-screen-issue-on-laptop-television/"><u>Overcoming Blank Screen Issue on Laptop-Television</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-low-quality-font-renderings/"><u>Rectifying Low-Quality Font Renderings</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-a05s-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel A05s Device</u></a></li>
 </ul></div>
 

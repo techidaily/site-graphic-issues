@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-10-09T01:31:16.368Z
-updated: 2024-10-12T02:00:12.283Z
+date: 2024-10-13T00:24:06.089Z
+updated: 2024-10-18T11:28:42.490Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
  Perhaps one of the most common causes for this graphics device crashed error is a corrupt or outdated graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -56,6 +69,19 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics driver
 
@@ -67,23 +93,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
@@ -128,18 +140,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -171,18 +183,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fix-directx12-stumbling-block-for-halo-infinite-startup/"><u>[FIX] DirectX12 Stumbling Block for Halo Infinite Startup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rafting-news-end-credits-a-step-by-step-guide-for-2024/"><u>[New] Crafting News End Credits A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[Updated] In 2024, A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-video-transforming-tools-an-in-depth-look-at-the-leading-walkman-video-converters/"><u>Best Video Transforming Tools: An In-Depth Look at the Leading Walkman Video Converters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-your-hp-m477-color-laserjet-pro-driver-installed-step-by-step-tutorial/"><u>How to Get Your HP M477 Color LaserJet Pro Driver Installed – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-cleared-tdr-sighted-and-solved/"><u>NVIDIA Error Cleared: TDR Sighted & Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-opaque-outcomes-in-os-devices/"><u>Overcoming Opaque Outcomes in OS Devices</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-guide-clone-windows-query/"><u>Quick Guide: Clone Windows # Query</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rebuilt-display-integrity-on-win11-os/"><u>Rebuilt Display Integrity on Win11 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-screen-settings-save-issue-windows-edition-vs710-fixed/"><u>Resolve Screen Settings Save Issue, Windows Edition - Vs7/10 [Fixed]</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-the-mystery-of-missing-audio-content-from-your-sd-card/"><u>Solving the Mystery of Missing Audio Content From Your SD Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-screen-precision-achieved/"><u>Win11 Screen Precision Achieved</u></a></li>
-<li><a href="https://fox-making.techidaily.com/44oh44kj44k544kv44oq44od44kv44ki44od44ox44go44k344k544og44og44oq44od44kv44ki44od44ox77ya5li744gq6ygv44ge44ks6kej6kqs/"><u>ディスクバックアップとシステムバックアップ：主な違いを解説</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-step-by-step-guide-to-watching-facebook-live-2sy-year-for-2024/"><u>[New] Step-by-Step Guide to Watching Facebook Live, 2Sy Year for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] 2024 Approved Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ace-guide-to-smooth-laptop-video-editing-via-inshot/"><u>[Updated] In 2024, The Ace Guide to Smooth Laptop Video Editing via Inshot</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-tackle-missing-thumbnails-on-youtube-shorts/"><u>2024 Approved How to Tackle Missing Thumbnails on YouTube Shorts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/seagate5/"><u>嗶嗶叫的Seagate外接硬碟如何方便解決？5個輕難修復法指南</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-aspect-ratio-error-on-wide-windows-10-displays/"><u>Fixing Aspect Ratio Error on Wide Windows 10 Displays</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Xperia 10 V?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>New In 2024, From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-laptop-gpu-works-smoothly-on-win11-os/"><u>New Laptop GPU Works Smoothly on Win11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gpu-fan-stillness-issues/"><u>Resolving GPU Fan Stillness Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversing-high-dpi-lockup-windows-11s-fix/"><u>Reversing High-DPI Lockup: Windows 11'S Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-victory-in-apex-game-overhaul-complete/"><u>Swift Victory in Apex: Game Overhaul Complete!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-x7-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find X7 Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-visual-orientation-tweaks/"><u>Win7 Visual Orientation Tweaks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zoom-like-a-pro-top-video-gear-for-slow-motion-effects/"><u>Zoom Like a Pro Top Video Gear for Slow Motion Effects</u></a></li>
 </ul></div>
 

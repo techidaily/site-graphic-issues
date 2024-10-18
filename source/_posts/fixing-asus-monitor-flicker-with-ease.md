@@ -1,7 +1,7 @@
 ---
 title: Fixing ASUS Monitor Flicker with Ease
-date: 2024-09-30T21:05:31.253Z
-updated: 2024-10-06T17:45:04.963Z
+date: 2024-10-15T12:47:00.343Z
+updated: 2024-10-18T13:51:52.208Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -43,28 +50,8 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
@@ -75,17 +62,25 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -113,16 +108,16 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -142,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -175,21 +170,17 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-customizing-twitter-video-thumbnails/"><u>[Updated] Mastering the Art of Customizing Twitter Video Thumbnails</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-mobile-and-desktop-apps-adjusting-audio-playback-speed/"><u>2024 Approved Best Mobile & Desktop Apps Adjusting Audio Playback Speed</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>2024 Approved How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-back-available-screen-options-with-nvidia/"><u>Bringing Back Available Screen Options with NVidia</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ceasing-acer-screen-dance-resolution-guide/"><u>Ceasing Acer Screen Dance: Resolution Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-rapide-et-facile-de-webp-vers-jpeg-en-ligne-gratuit-picconvert-pro/"><u>Conversion Rapide Et Facile De WEBP Vers JPEG en Ligne Gratuit - PicConvert Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mitigate-bad-drivers-restore-game-flow/"><u>Mitigate Bad Drivers, Restore Game Flow</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigate-your-deskless-files-with-windows-ai-powered-recall-feature-exclusive-guide/"><u>Navigate Your Deskless Files with Windows' AI-Powered Recall Feature – Exclusive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/permanent-solution-to-asus-monitor-flicker/"><u>Permanent Solution to ASUS Monitor Flicker</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/proven-methods-for-youtubers-rapid-subscriber-expansion/"><u>Proven Methods for Youtubers' Rapid Subscriber Expansion</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-screen-clarity-following-win11-changeover/"><u>Restoring Screen Clarity Following Win11 Changeover</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-disconnected-or-unresponsive-windows-media-files/"><u>Step-by-Step Guide: Repairing Disconnected or Unresponsive Windows Media Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-unveils-crystal-clear-displays/"><u>Win11 Unveils Crystal Clear Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winerror-dxgkrnlsys-crash-troubleshoot/"><u>WinError: dxgkrnl.sys Crash Troubleshoot</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-a-step-by-step-approach-to-movie-recording-on-multiple-os/"><u>[New] 2024 Approved A Step-by-Step Approach to Movie Recording on Multiple OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[New] 2024 Approved The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-perfect-ringtones-from-popular-tiktok-audio-tracks/"><u>2024 Approved Crafting Perfect Ringtones From Popular TikTok Audio Tracks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conclusion-completing-nvidia-installer-procedure/"><u>Conclusion: Completing NVIDIA Installer Procedure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-tackle-gpu-failures-without-system-freeze/"><u>How to Tackle GPU Failures Without System Freeze</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-final-cut-pro-a-step-by-step-guide-to-flipping-clips/"><u>New 2024 Approved Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-windows-10-r9-driver-problems/"><u>No More Glitches: Solved Windows 10 R9 Driver Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-windows-on-monitor-in-win10/"><u>Non-Fullscreen Windows on Monitor in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-reversed-displays-in-windows-11/"><u>Rectifying Reversed Displays in Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-recovered-video-files-4-easy-solutions/"><u>Repair Recovered Video Files | 4 Easy Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-restore-functionality-of-your-left-click-mouse/"><u>Step-by-Step Solutions to Restore Functionality of Your Left Click Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-windows-host-rundll32-stopped-functioning-errors-in-windows-os/"><u>Understanding and Fixing 'Windows Host (Rundll32) Stopped Functioning' Errors in Windows OS</u></a></li>
 </ul></div>
 

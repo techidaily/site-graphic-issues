@@ -1,7 +1,7 @@
 ---
 title: No Graphics Available During Startup
-date: 2024-10-08T21:37:41.462Z
-updated: 2024-10-11T21:04:42.287Z
+date: 2024-10-14T13:10:45.843Z
+updated: 2024-10-18T06:28:13.811Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 * **[Method 3: Change resolution settings](#l3)**
 * **[Method 4: Update Windows](#windows)**
 * **[Method 5: Repair corrupted system files](#fix4)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your graphics driver
 
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Run the game in compatibility mode
 
  Many users find it works by simply running the game in compatibility mode. To do it here is how:
@@ -83,26 +83,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Change your display resolution settings
@@ -112,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 3. Try the various resolution options until the game launches successfully.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/change-resolution.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To change system screen resolution on Windows 11:
 
 1. Right-click the empty area on your desktop to invoke a menu and click **Display settings** .  
@@ -119,20 +113,13 @@ To change system screen resolution on Windows 11:
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the problem remains, please move on.
 
@@ -147,14 +134,21 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -205,18 +199,24 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-fast-video-filming-on-tiktok/"><u>[Updated] 2024 Approved Mastering Fast Video Filming on TikTok</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-creating-spiritual-ringtone-options-free-downloads-explained/"><u>[Updated] Creating Spiritual Ringtone Options Free Downloads Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-the-power-of-pixels-master-color-correction-techniques-11-steps/"><u>[Updated] Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-and-win10-teamwork-detection-driver-now-functional/"><u>AMD & Win10 Teamwork: Detection Driver Now Functional</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016389767-astro-a50-hearing-troubles-fast-track-to-resolving-the-soundless-dilemma/"><u>Astro A50 Hearing Troubles? Fast Track to Resolving the Soundless Dilemma!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-lava-blaze-2-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Lava Blaze 2 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keep-your-pc-running-post-gpu-crashes-with-these-fixes/"><u>Keep Your PC Running Post-GPU Crashes with These Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-horizons-in-gaming-radeon-hd-6950-drivers-on-win10/"><u>New Horizons in Gaming: Radeon HD 6950 Drivers on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-asus-lcd-glitches-for-smooth-viewing/"><u>Overcoming ASUS LCD Glitches for Smooth Viewing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-error-comservices-issue-on-windows/"><u>Rectified Error: COMServices Issue on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-available-display-preferences-on-nvidia/"><u>Restoring Available Display Preferences on NVIDIA</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-updater-0x8024a205-malfunction-on-pcs/"><u>Tackling Updater 0X8024a205 Malfunction on PCs</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-making-funny-photos-no-fees-involved-for-2024/"><u>[New] Making Funny Photos No Fees Involved for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-2023-how-to-find-videos-on-facebook/"><u>[Updated] In 2024, 2023 | How to Find Videos on Facebook?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-and-uncomplicated-gpu-fixes/"><u>Direct and Uncomplicated GPU Fixes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-se-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone SE Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-not-responding-resolution-achieved/"><u>Lenovo TapScreen Not Responding, Resolution Achieved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpg-naar-flv-vervanging-kostenloos-en-direct-moviesaver/"><u>MPG Naar FLV Vervanging Kostenloos en Direct - MovieSaver</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/must-have-mac-frame-captures-handbook-limited-to-156-characters-for-2024/"><u>Must-Have Mac Frame Captures Handbook (Limited to 156 Characters) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-to-safety-windows-8s-safe-mode-and-graphics-card-uninstallation/"><u>Navigating to Safety: Windows 8'S Safe Mode & Graphics Card Uninstallation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quick-flash-queries/"><u>Quelling Quick-Flash Queries</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-tips-screen-record-and-camera-integration-on-android/"><u>Quick Tips Screen Record & Camera Integration on Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reclaim-your-video-resolving-zoom-camera-malfunctions-of-2024/"><u>Reclaim Your Video: Resolving Zoom Camera Malfunctions of 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restorenormalcomputerview/"><u>RestoreNormalComputerView</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-formatting-your-hard-diskssd-in-windows-11/"><u>Step-by-Step Guide: Formatting Your Hard Disk/SSD in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y78plus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y78+ Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-solution-to-windows-10-glare/"><u>Unveiling Solution to Window's 10 Glare</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-emerges/"><u>Win11 Shadowed, Cursor Emerges</u></a></li>
 </ul></div>
 

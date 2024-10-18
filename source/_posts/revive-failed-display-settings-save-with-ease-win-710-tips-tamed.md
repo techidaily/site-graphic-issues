@@ -1,7 +1,7 @@
 ---
 title: Revive Failed Display Settings Save with Ease - Win 7/10 Tips [Tamed]
-date: 2024-10-10T10:43:39.188Z
-updated: 2024-10-11T22:59:45.961Z
+date: 2024-10-16T17:30:29.683Z
+updated: 2024-10-17T19:11:40.273Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Change your screen resolution
@@ -48,24 +48,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,14 +80,21 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
 
@@ -113,24 +119,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevating-video-experience-best-youtube-to-avi-companions/"><u>[New] 2024 Approved Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-vloggers-guide-to-choosing-camgear-the-top-9-innovations-for-2024/"><u>[New] The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-troubleshooting-tips-for-rapid-fixes-of-fortnite-not-loading-issues/"><u>Easy Troubleshooting Tips for Rapid Fixes of Fortnite Not Loading Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-control-over-screen-dpi-in-windows-11-fix/"><u>Enhanced Control Over Screen DPI in Windows 11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-lines-on-laptop-straighten-horizontal-borders/"><u>Fix Lines on Laptop - Straighten Horizontal Borders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-disabled-gpu-settings-on-windows-devices-win1011/"><u>Fixing Disabled GPU Settings on Windows Devices (Win10/11)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/heal-displays-with-smooth-transitions/"><u>Heal Displays with Smooth Transitions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g73-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Motorola Moto G73 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-capturing-live-cricket-action/"><u>In 2024, Mastering the Art of Capturing Live Cricket Action</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>In 2024, Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revived-vega-rendering-glitch/"><u>Revived Vega Rendering Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smoothened-laptop-monitor-glitches-effectively/"><u>Smoothened Laptop Monitor Glitches Effectively</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz-for-2024/"><u>Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-tempestuous-screens-in-vista-or-win7/"><u>Taming the Tempestuous Screens in Vista or Win7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-power-up-updated-nvidia-drivers-for-windows-enthusiasts/"><u>Visual Power-Up: Updated NVIDIA Drivers for Windows Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-blue-screen-issue-fixed/"><u>Windows 10 Blue Screen Issue Fixed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edit-like-a-championtop-strategies-for-beginner-youtubers/"><u>[New] 2024 Approved Edit Like a Champion—Top Strategies for Beginner YouTubers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[New] How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-streamlining-the-process-of-sending-videos-in-discord/"><u>[Updated] In 2024, Streamlining the Process of Sending Videos in Discord</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-the-new-apple-launch-date-releases-rumored-details-inside/"><u>Anticipating the New Apple Launch: Date Releases, Rumored Details Inside</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>Beyond Zoom The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/debugging-comresolution-for-os-windows-errors/"><u>Debugging: ComResolution for OS Windows Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-repair-gpu-detection-failure/"><u>Diagnose & Repair: GPU Detection Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-the-flashing-problems-for-good/"><u>Fixed the Flashing Problems for Good</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-connection-claudians-vs-gpt-the-top-4-enhancements-explored/"><u>From Conversation to Connection: Claudians vs GPT - The Top 4 Enhancements Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-windows-errors-when-displays-dont-boot-up/"><u>Handling Windows Errors: When Displays Don't Boot Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/leveling-screen-horizontal-borders/"><u>Leveling Screen Horizontal Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/modifying-monitor-border-symmetry/"><u>Modifying Monitor Border Symmetry</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-kodi-freeze-in-new-win11-release/"><u>Overcoming Kodi Freeze in New Win11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-screen-woes/"><u>Resolving Reflective Screen Woes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-resolving-tilt-errors-in-your-steam-deck-console/"><u>Step-by-Step Guide: Resolving Tilt Errors in Your Steam Deck Console</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-wobble-of-pro-7s-screen/"><u>Taming the Wobble of Pro 7'S Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-lightrooms-best-color-grads-and-luts/"><u>The Ultimate Guide to LightRoom's Best Color Grads & LUTs</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1728486725123-windows-102/"><u>Windows 10への自動バックアップ:最も効果的な手法2選び</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-and-geforce-7025-harmony-achieved/"><u>Windows 11 & GeForce 7025 Harmony Achieved</u></a></li>
 </ul></div>
 

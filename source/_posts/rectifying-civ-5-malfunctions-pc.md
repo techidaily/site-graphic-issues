@@ -1,7 +1,7 @@
 ---
 title: Rectifying Civ 5 Malfunctions PC
-date: 2024-09-30T17:04:42.850Z
-updated: 2024-10-06T21:26:18.771Z
+date: 2024-10-11T06:56:21.561Z
+updated: 2024-10-18T12:05:37.020Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -63,21 +56,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
@@ -96,20 +88,34 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -135,21 +141,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-future-proofing-your-mp4s-srt-integration-hacks-for-2024/"><u>[New] Future-Proofing Your MP4s SRT Integration Hacks for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-tips-for-iphone-360-videography/"><u>[New] Professional Tips for iPhone 360 Videography</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-seamless-integration-transferring-snapchat-images-directly/"><u>[Updated] 2024 Approved Seamless Integration Transferring Snapchat Images Directly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enable-gpu-functionality-in-windows-1110-devices/"><u>Enable GPU Functionality in Windows 11/10 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-frozen-steam-interface-on-windows-and-mac-a-step-by-step-guide-202/"><u>Fixing the Frozen Steam Interface on Windows and Mac - A Step-by-Step Guide (202</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-problem-43-cleared-up/"><u>Graphics Card Problem 43 Cleared Up</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-105-classic-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia 105 Classic</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dlc-installation-crashes-civ-5/"><u>Overcoming DLC Installation Crashes Civ 5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/scale-down-windows-monitor-size/"><u>Scale Down Windows Monitor Size</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/speedy-sync-effortlessly-share-your-lists-online-for-2024/"><u>Speedy Sync Effortlessly Share Your Lists Online for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stopping-lcd-flash-in-hp-devices/"><u>Stopping LCD Flash in HP Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transform-your-iphone-photos-into-searchable-pdfs-mastering-scan-ocr-and-file-conversion-in-finereader-app/"><u>Transform Your iPhone Photos Into Searchable PDFs: Mastering Scan, OCR, and File Conversion in FineReader App</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-total-makeover-how-to-execute-a-clean-installation-and-factory-reset-your-device/"><u>Windows 11 Total Makeover: How to Execute a Clean Installation and Factory Reset Your Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>[New] Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-videos-potential-with-dynamic-titles/"><u>2024 Approved Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-pop-7-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Pop 7 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/custom-whisper-of-your-electric-car-denied-by-american-laws/"><u>Custom Whisper of Your Electric Car Denied by American Laws</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enable-gpu-use-in-display-settings-windows-fixes/"><u>Enable GPU Use in Display Settings: Windows Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-hiccup-mended-recovery-complete-for-nvidia/"><u>Graphics Hiccup Mended: Recovery Complete for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-imaging-swift-solution-to-no-signal-dilemma/"><u>Immediate Imaging: Swift Solution to No Signal Dilemma</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-3-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme GT 3 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launching-liberated-chatgpt-on-windows/"><u>Launching Liberated ChatGPT on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-on-10-pcs/"><u>Overcoming Streaming Hiccups on 10 PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-google-pixel-fold-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Google Pixel Fold Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-windows-10-visual-vexations/"><u>Rectifying Windows 10 Visual Vexations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharpening-your-screen-avoid-flickering-issues/"><u>Sharpening Your Screen: Avoid Flickering Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guides-addressing-and-correcting-the-0xc0000022-launch-issue-for-adobe-products/"><u>Solution Guides: Addressing and Correcting the 0xC0000022 Launch Issue for Adobe Products</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-blunders-in-systems-pc/"><u>Stop Screen Blunders in Systems (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-your-display-from-blinking-tips-and-tricks/"><u>Stop Your Display From Blinking: Tips & Tricks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-capabilities-of-the-fitbit-charge-6-detailed-assessment-and-insights/"><u>Unpacking the Capabilities of the Fitbit Charge 6: Detailed Assessment and Insights</u></a></li>
 </ul></div>
 

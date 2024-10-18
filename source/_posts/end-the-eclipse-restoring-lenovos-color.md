@@ -1,7 +1,7 @@
 ---
 title: "End the Eclipse: Restoring Lenovo's Color"
-date: 2024-10-05T21:07:34.695Z
-updated: 2024-10-06T19:23:23.089Z
+date: 2024-10-17T11:02:20.960Z
+updated: 2024-10-18T10:55:33.540Z
 tags:
   - win11
   - win10
@@ -33,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -69,13 +69,6 @@ Here is how to do it:
 * **If the screen is still black** , the issue isn’t with the peripherals. You should move on to**Fix 3** , below to continue the troubleshooting.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -105,13 +98,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -122,16 +108,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -143,13 +129,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -158,9 +137,23 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -184,15 +177,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
@@ -221,22 +221,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-melodic-masterpieces-top-sites-for-legal-skype-files/"><u>[Updated] In 2024, Melodic Masterpieces Top Sites for Legal Skype Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>2024 Approved IPhone & iPad Video Powerhouses The Ultimate List of 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-dxgkrnlsys-crash-in-windows/"><u>BlueScreen: dxgkrnl.sys Crash in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-screen-upside-down-error-windows-11/"><u>Correcting Screen Upside-Down Error: Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drivers-issue-code-43-now-fixed/"><u>Drivers' Issue Code 43 Now Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-edge-refinement-on-your-laptop-display/"><u>Effortless Edge Refinement on Your Laptop Display</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266210457-effortlessly-remove-notes-on-your-iphone-with-the-stellar-eraser-available-now/"><u>Effortlessly Remove Notes on Your iPhone with the Stellar Eraser - Available Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-clash-win10-and-geforce-7025-in-unity/"><u>Fixed Clash - Win10 & GeForce 7025 in Unity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>In 2024, Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/macbook-pro-13-protection-unveiling-value-and-durability-with-finties-laptop-sleeve-review/"><u>MacBook Pro 13 Protection: Unveiling Value and Durability with Fintie's Laptop Sleeve Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed-for-2024/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-apple-smartphone-savings-in-july-2024-exclusive-offers-spotted/"><u>Top Apple Smartphone Savings in July 2024: Exclusive Offers Spotted</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991603015-update-error-in-discord-problem-solved-with-latest-fix/"><u>Update Error in Discord? Problem Solved with Latest Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-achieving-perfect-switchable-gpu-harmony/"><u>Windows 10: Achieving Perfect Switchable GPU Harmony</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-content-creator-to-cash-generator-your-facebook-journey/"><u>[New] 2024 Approved From Content Creator to Cash Generator Your Facebook Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-choosing-excellence-a-buyers-guide-to-hdr-cameras/"><u>[New] Choosing Excellence A Buyer's Guide to HDR Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-record-your-mac-in-hd-no-fee/"><u>[New] Record Your Mac in HD No Fee</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hite-list-microphones-for-frugal-filmmakers/"><u>[New] White-List Microphones for Frugal Filmmakers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-note-12-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi Note 12 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/adobe-mkvmp4/"><u>Adobeソフトウェアを使った完全ガイド: MKVからMP4への変換方法</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/darkened-vision-new-graphics-patch/"><u>Darkened Vision - New Graphics Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-gpu-non-detection-problems/"><u>Fix: GPU Non-Detection Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-behavior-of-hp-monitors/"><u>Fixing Erratic Behavior of HP Monitors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-save-game-errors-civ-5/"><u>Overcoming Save Game Errors, Civ 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fallout-4-stability-issues-for-pc-gamers/"><u>Resolved: Fallout 4 Stability Issues for PC Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-tricks-for-fast-high-quality-mp4-creation-from-iso-archives/"><u>Simple Tricks for Fast, High-Quality MP4 Creation From ISO Archives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-the-spotlight-swings-on-acer-displays/"><u>Stopping the Spotlight Swings on Acer Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-variances-microsoft-vs-non-microsoft-user-access-on-windows-systems/"><u>Understanding Variances: Microsoft vs Non-Microsoft User Access on Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-combat-flickering-display/"><u>Unveiling Secrets to Combat Flickering Display</u></a></li>
 </ul></div>
 

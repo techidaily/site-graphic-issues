@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your FPS: Top 6 Strategies for Enhanced Performance"
-date: 2024-10-05T11:01:57.429Z
-updated: 2024-10-11T17:36:26.740Z
+date: 2024-10-12T03:49:32.337Z
+updated: 2024-10-18T09:32:06.176Z
 tags:
   - win11
   - win10
@@ -40,20 +40,13 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Tip 2: Adjust your PC for best performance
 
@@ -63,10 +56,29 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In **Advanced** , click **Settings** .  
@@ -97,6 +109,19 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ###  Tip 4: Do a disk clean-up 
@@ -106,43 +131,28 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **c:\\windows\\SYSTEM32\\cleanmgr.exe /cDrive**   into the box and click **OK** .![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee1e0c3be4.png)
 2. Choose **the drive** you want to free up storage and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
 3. Technically, you can tick all **the boxes** . You might also need to check out **Recycle Bin** and see if there’s anything to be restored first. Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
 4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Tip 5: Defrag your hard drive
 
@@ -150,6 +160,20 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 1. On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png) and **R**   at the same time. Then type **dfrgui.exe**   in the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
@@ -189,17 +213,20 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-speedy-social-stardom-likes-plus-videos-on-instagram-guide/"><u>[New] 2024 Approved Speedy Social Stardom Likes + Videos on Instagram Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleashing-instagrams-filter-power-free-searches-revealed/"><u>[New] 2024 Approved Unleashing Instagram's Filter Power – Free Searches Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ideal-choice-12-superior-clicking-adventures-on-your-pc-for-2024/"><u>[Updated] Ideal Choice 12 Superior Clicking Adventures on Your PC for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatible-setups-win11-with-nvidia-card/"><u>Compatible Setups: Win11 with NVidia Card</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube-for-2024/"><u>Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovering-graphics-options-lockout-issue/"><u>Recovering Graphics Options Lockout Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-covert-guide-to-livestreaming-on-instagram-unseen/"><u>The Covert Guide to Livestreaming on Instagram Unseen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-dark-display-in-windows-11-falls/"><u>Troubleshooting Dark Display in Windows 11 Falls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-gpu-usage-in-modern-operating-systems/"><u>Troubleshooting Non-GPU Usage in Modern Operating Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-discussion-treasures-for-listener-retention-for-2024/"><u>Updated Discussion Treasures for Listener Retention for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-directing-the-stream-choosing-between-obs-and-twitch-studio/"><u>[New] In 2024, Directing the Stream Choosing Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-why-cant-i-watch-video-on-sony-a6400-camera-for-2024/"><u>[New] Why Can't I Watch Video on Sony A6400 Camera for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro/"><u>A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/containing-the-chromatic-charge-of-an-acer-monitor/"><u>Containing the Chromatic Charge of an Acer Monitor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-max-series-documentaries-available-in-july-2024/"><u>Discover the Best Max Series Documentaries Available in July 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>Enhance YT Experience The Most Outstanding Reaction Ideas</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-trouble-signaled-by-tdr-smoothed-out-by-nvidia/"><u>GPU Trouble Signaled By TDR — Smoothed Out By NVIDIA</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guide-pour-reorganiser-la-barre-dapplets-systeme-dans-windows-11/"><u>Guide Pour Réorganiser La Barre D’Applets Système Dans Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-crafting-a-powerful-earnings-strategy-on-the-vimeo-platform/"><u>In 2024, Crafting a Powerful Earnings Strategy on the Vimeo Platform</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-hot-30i-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Hot 30i Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-window-11-glitchy-screens/"><u>Mend: Window 11 Glitchy Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-miracle-hasty-solution-to-loss-of-signal/"><u>Monitor Miracle: Hasty Solution to Loss of Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/reigniting-your-passion-for-creativity-how-artificnial-intelligence-helped/"><u>Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped</u></a></li>
 </ul></div>
 

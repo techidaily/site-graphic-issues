@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2024-10-08T13:53:56.107Z
-updated: 2024-10-12T05:37:01.358Z
+date: 2024-10-14T19:39:48.280Z
+updated: 2024-10-18T03:53:40.575Z
 tags:
   - win11
   - win10
@@ -57,16 +57,16 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the **Playback tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-226.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Make sure you have the right device set as the default audio device. If not, right-click your audio device and select **Set as default device** .
 
@@ -76,21 +76,7 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-230.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the sound is still not available, try the fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Restart Your PC
 
@@ -99,13 +85,6 @@ If the sound is still not available, try the fixes below.
  A reboot wipes away the current state of the software. In case of losing data, please make sure you don’t have any unsaved documents open before restarting your device.
 
 If your issue persists after the reboot, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Fix Browser Issues
 
@@ -123,9 +102,23 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**OK** to save the changes.
 
@@ -167,24 +160,18 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -192,6 +179,13 @@ If the sound isn’t coming back, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the sound issue isn’t resolved, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
 
@@ -203,16 +197,16 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/audio-issues.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Next**  and wait for the scans to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/run-audio-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to fix the Twitch audio issue.
 
@@ -239,20 +233,21 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[Updated] Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elevating-creative-content-vimeo-vs-youtubes-approach/"><u>[Updated] Elevating Creative Content Vimeo vs YouTube's Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chip-vonburg-elevated-to-vital-role-senior-executive-for-abbyys-client-experience/"><u>Chip vonBurg Elevated to Vital Role: Senior Executive for ABBYY's Client Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-and-repairing-the-recurrent-crashes-in-fuelstation-pro-simulator-for-pc-players/"><u>Diagnosing and Repairing the Recurrent Crashes in FuelStation Pro Simulator for PC Players</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965559654-get-your-thinkpad-t420s-running-on-windows-10-free-driver-downloads-here/"><u>Get Your ThinkPad T420s Running on Windows 10 - Free Driver Downloads Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Redmi Note 13 Pro+ 5G ?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-your-quick-guide-to-google-voice-call-history/"><u>In 2024, Your Quick Guide to Google Voice Call History</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-virtual-visuals-zooms-step-by-step-filters-guide/"><u>Mastering the Art of Virtual Visuals Zoom's Step-By Step Filters Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-restore-windows-11-taskbar-functionality/"><u>Step-by-Step Guide to Restore Windows 11 Taskbar Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-complete-review-of-gimp-affordable-versatile-image-editor-across-multiple-devices/"><u>The Complete Review of GIMP: Affordable, Versatile Image Editor Across Multiple Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unboxing-the-accessible-and-chic-moto-g-smartphone-featuring-a-stylus/"><u>Unboxing the Accessible and Chic Moto G Smartphone Featuring a Stylus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-troubleshooting-how-to-successfully-refresh-your-minecraft-native-launcher/"><u>Update Troubleshooting - How To Successfully Refresh Your Minecraft Native Launcher</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-advanced-tips-for-integrating-markers-in-videography/"><u>[New] In 2024, Advanced Tips for Integrating Markers in Videography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>[New] In 2024, Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-innovate-with-imagery-installing-the-windows-11-movie-maker-app-for-2024/"><u>[Updated] Innovate with Imagery Installing the Windows 11 Movie Maker App for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveil-your-inner-artist-best-free-sketching-software-on-mac/"><u>[Updated] Unveil Your Inner Artist Best Free Sketching Software on Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-zero-to-twitter-an-instagram-guide/"><u>From Zero to Twitter An Instagram Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>In 2024, Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-c51-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme C51 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/interface-to-enlarge-videography-elements-for-2024/"><u>Interface to Enlarge Videography Elements for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-bug-bypassed-22/"><u>Kernel Bug Bypassed - #22</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-guide-expand-your-messenger-circle/"><u>Quick Guide: Expand Your Messenger Circle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-horizontal-displacement-errors/"><u>Rectifying Horizontal Displacement Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-settings-failures-on-windows-7-and-10-fix-complete/"><u>Resetting Display Settings Failures on Windows 7 & 10 [Fix Complete]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-error-amds-load-failure-on-win10-addressed/"><u>Resolved Error: AMD's Load Failure on Win10 Addressed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-random-screen-flashing-on-dell-computers/"><u>Resolved: Random Screen Flashing on Dell Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-obscured-post-fix-install/"><u>Screen Obscured Post-Fix Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unified-graphics-experience-achieved-nvidiaintel-for-win10/"><u>Unified Graphics Experience Achieved - Nvidia/Intel for Win10</u></a></li>
 </ul></div>
 

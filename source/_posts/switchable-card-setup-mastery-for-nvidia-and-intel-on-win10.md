@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2024-10-05T20:17:14.578Z
-updated: 2024-10-06T17:59:30.582Z
+date: 2024-10-17T10:38:19.233Z
+updated: 2024-10-18T08:44:09.483Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -57,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -105,10 +105,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -117,18 +117,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -157,20 +157,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-configurations-show-on-win10-displays/"><u>[FIXED] Advanced Configurations Show on Win10 Displays</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-elite-camera-set-optimal-webcams-for-windows-11/"><u>[New] 2024 Approved The Elite Camera Set Optimal Webcams for Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fuse-voice-recordings-with-ppt-content/"><u>[Updated] 2024 Approved Fuse Voice Recordings with PPT Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rise-through-the-instagram-rankings-fast/"><u>2024 Approved Rise Through the Instagram Rankings Fast</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-techniques-succeeding-in-spotify-advertising/"><u>2024 Approved Top Techniques Succeeding in Spotify Advertising</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-critical-error-c1900101-on-new-os/"><u>Addressing Critical Error C1900101 on New OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-considerations-for-choosing-the-right-projector/"><u>Essential Considerations for Choosing the Right Projector</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-blinking-issues/"><u>How to Fix Monitor Blinking Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimized-performance-nvidia-210-driver-update-for-windows-pcs/"><u>Optimized Performance: Nvidia 210 Driver Update for Windows PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-screen-tweaks-align-your-viewing-panel/"><u>Simple Screen Tweaks: Align Your Viewing Panel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solution-to-black-screen-in-windows-11-post-fall-release/"><u>Solution to Black Screen in Windows 11 Post Fall Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10s-video-problem-solution-upgrades/"><u>Win10's Video Problem Solution: Upgrades</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-explore-advanced-video-control-in-youtubes-playback-features/"><u>[New] 2024 Approved Explore Advanced Video Control in YouTube’s Playback Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-iphone-flash-optimization-tips/"><u>[New] 2024 Approved IPhone Flash Optimization Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlocking-audio-potential-3-free-strategies-for-syncing-music-with-iphone-films/"><u>[New] 2024 Approved Unlocking Audio Potential 3 Free Strategies for Syncing Music with iPhone Films</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-amplify-your-videos-impact-increasing-view-count-on-youtube-shorts-for-2024/"><u>[Updated] Amplify Your Video's Impact Increasing View Count on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-seamless-podcast-journey-from-creation-to-google-submission/"><u>[Updated] In 2024, Seamless Podcast Journey From Creation to Google Submission</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-selecting-the-right-flight-stabilizer-drones-edition/"><u>2024 Approved Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-flickering-start-to-troubleshooting-dead-laptop-screen/"><u>A Flickering Start to Troubleshooting Dead Laptop Screen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-free-live-streaming-software-and-app-for-all-platforms-2023-list-for-2024/"><u>Best Free Live Streaming Software and App for All Platforms [2023 List] for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dismiss-sims-startup-anomaly/"><u>Dismiss Sims' Startup Anomaly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-8k-vision-selecting-the-superior-cameras/"><u>In 2024, Premium 8K Vision Selecting the Superior Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mp4-video-download-companion-booklet-for-2024/"><u>MP4 Video Download Companion Booklet for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tarkov-amd-glitch-overcome-in-minutes/"><u>Tarkov AMD Glitch Overcome in Minutes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-vibrant-visuals-on-twitch-channels/"><u>Uncover Vibrant Visuals on Twitch Channels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-cant-change-resolution-solved/"><u>Windows 11 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-cam-revived-essential-fixes-for-todays-technology/"><u>Zoom Cam Revived! Essential Fixes for Today's Technology</u></a></li>
 </ul></div>
 

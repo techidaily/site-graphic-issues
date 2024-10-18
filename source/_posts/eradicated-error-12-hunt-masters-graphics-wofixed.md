@@ -1,7 +1,7 @@
 ---
 title: "[Eradicated] Error 12 - Hunt Master's Graphics WoFixed"
-date: 2024-08-31T05:34:54.991Z
-updated: 2024-09-01T05:34:54.991Z
+date: 2024-10-17T08:41:49.189Z
+updated: 2024-10-18T05:56:46.683Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -50,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Roll back your graphics driver
 
  Some users also report the latest graphics driver to be the culprit of the err 12: graphics card crashed problem. If you’ve recently updated your graphics driver and the problem occurs subsequently, then it’s probable that the up-to-date driver is to blame. So you can roll it back to see if it fixes the issue.
@@ -63,13 +67,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
@@ -77,8 +92,12 @@ Here’s how to do it:
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair system files
 
  Missing, corrupt, or damaged system files may cause games to crash. Many Monster Hunter World players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -102,9 +121,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -119,18 +135,12 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -152,8 +162,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,8 +169,23 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-unlocking-full-potential/"><u>'God of War': Unlocking Full Potential</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-free-enterprise-templates-with-dynamic-ideas-for-slideshows/"><u>[New] 2024 Approved Free Enterprise Templates with Dynamic Ideas for Slideshows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-behind-the-lens-innovative-techniques-using-hero5-black/"><u>[New] Behind the Lens Innovative Techniques Using Hero5 Black</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] 2024 Approved Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/windows10/"><u>失われたデータ:Windows10のフォルダがなくなってしまったらどうする?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-yuva-2-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Yuva 2</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-enhancement-reached-after-acceleration-fix/"><u>Direct3D Enhancement Reached After Acceleration Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-guide-to-clearing-laptop-display-skew/"><u>Easy Guide to Clearing Laptop Display Skew</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-screen-capturing-for-gaming-enthusiasts/"><u>Efficient Screen Capturing for Gaming Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-horizontal-screen-deformities-fast/"><u>Fix Horizontal Screen Deformities Fast</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-note-50-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Note 50 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/euroscience-insights-enhance-effective-corporate-governance-for-2024/"><u>How Neuroscience Insights Enhance Effective Corporate Governance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-persistent-gpu-failures-with-operational-pcs/"><u>Solutions for Persistent GPU Failures with Operational PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-security-enhanced-step-wise-deletion-of-graphics-drivers-on-win8/"><u>System Security Enhanced: Step-Wise Deletion of Graphics Drivers on WIN8</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-gps-trackers-for-runners-2024-edition/"><u>Ultimate Guide: Leading GPS Trackers for Runners - 2024 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-updates-lead-to-laptop-gpu-functionality/"><u>Windows Updates Lead to Laptop GPU Functionality</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2024-10-05T20:49:29.142Z
-updated: 2024-10-06T21:18:29.266Z
+date: 2024-10-16T10:28:40.096Z
+updated: 2024-10-18T05:04:14.882Z
 tags:
   - win11
   - win10
@@ -26,18 +26,18 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -74,16 +74,23 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
@@ -122,27 +129,7 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -172,13 +159,20 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
@@ -198,14 +192,18 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[New] OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-mac-programming-solutions-excluded-from-bandicam-for-2024/"><u>[Updated] Premium Mac Programming Solutions Excluded From Bandicam for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1726030376843-ogg/"><u>音量調整：OGG形式ファイルで上げ下げ方法を学ぶ！</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-black-screen-win11/"><u>Cursor's Comeback in Black Screen Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-approach-to-resolving-c1900101-install-issue/"><u>Efficient Approach to Resolving C1900101 Install Issue</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-multitasking-in-the-apple-universe-translocating-batches-of-apps-together-on-iphoneipad/"><u>Master Multitasking in the Apple Universe: Translocating Batches of Apps Together on iPhone/iPad</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/powerful-updates-new-drivers-for-amds-hd-6950-gfx/"><u>Powerful Updates: New Drivers for AMD's HD 6950 GFX</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ui-graphics-recovered-on-win-seamless-interaction/"><u>UI Graphics Recovered on Win - Seamless Interaction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-a-new-era-with-sony-xperia-xz-premium-review/"><u>Unveiling a New Era with Sony - Xperia XZ Premium Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-deep-dive-into-zdsoft-recorder-features/"><u>[Updated] A Deep Dive Into ZDSoft Recorder Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-sideways-screen-on-windows-10/"><u>Addressing Sideways Screen on Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/echo-dot-vs-homepod-mini-whats-the-difference/"><u>Echo Dot Vs. HomePod Mini: What's the Difference?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-flickering-displays/"><u>How to Eliminate Flickering Displays</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/inverted-screen-position-fixed-in-windows-10/"><u>Inverted Screen Position Fixed in Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-15-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 15 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-update-graphical-incompatibility-fixed/"><u>Overwatch Update: Graphical Incompatibility Fixed</u></a></li>
+<li><a href="https://discover-able.techidaily.com/simple-steps-securely-preserve-your-microsoft-outlook-contacts-with-a-reliable-backup-strategy/"><u>Simple Steps: Securely Preserve Your Microsoft Outlook Contacts with a Reliable Backup Strategy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-non-working-asus-cam/"><u>Solutions for Non-Working ASUS Cam</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-15-best-luts-to-buy/"><u>Updated 2024 Approved 15 Best LUTS to Buy</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme GT 5 | Dr.fone</u></a></li>
 </ul></div>
 

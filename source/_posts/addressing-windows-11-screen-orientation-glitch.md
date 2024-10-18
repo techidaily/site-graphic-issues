@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 11 Screen Orientation Glitch
-date: 2024-10-05T21:50:18.127Z
-updated: 2024-10-06T16:41:42.310Z
+date: 2024-10-11T03:10:23.597Z
+updated: 2024-10-18T09:26:19.180Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 **Note** : It would be so uncomfortable to search from Google and follow the solutions on your computer screen, so we recommend using another computer or mobile phone to search and follow the instructions below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Method 1: Fix screen upside down with keyboard shortcuts
 
  This is a simple and easy way to fix screen upside in Windows 10 computer/laptop. Before getting started, you should make sure that Hot Keys are enabled in your Windows 10 computer. Here’s how to do it:
@@ -40,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On your keyboard, simultaneously press**Ctrl** +**Alt** +**Arrow** key.
 
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Method 2: Fix screen upside down via Display settings
 
  You can also modify the Display settings in Windows 10 to fix the**screen upside down issue** . To do so:
@@ -76,25 +76,18 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
- Still no luck? Don’t be upset. There’s one more thing to try…
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Still no luck? Don’t be upset. There’s one more thing to try…
 
 ###  Method 3: Fix screen upside down by updating graphics card driver
 
@@ -122,6 +115,13 @@ There are two options to update drivers in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -148,18 +148,19 @@ There are two options to update drivers in Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-kik-id-visualization-width-x-height-aspect-ratio-duration-for-2024/"><u>[New] Kik ID Visualization Width X Height, Aspect Ratio, Duration for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-primes-trending-topics-highest-tweets-and-watch-count-achievements/"><u>[Updated] 2024 Approved Prime’s Trending Topics Highest Tweets & Watch Count Achievements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-guide-to-infusing-movement-into-images-in-illustrator/"><u>[Updated] A Guide to Infusing Movement Into Images in Illustrator</u></a></li>
-<li><a href="https://games-able.techidaily.com/dxvk-transform-your-gameplay-on-windows-systems/"><u>DXVK: Transform Your Gameplay on Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-the-newest-drivers-for-nvidias-gtx-1060/"><u>Get the Newest Drivers for Nvidia's GTX 1060</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-missing-windows-11-full-screen-on-monitor/"><u>How to Fix Missing Windows 11 Full Screen on Monitor</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-distinguishing-between-youtube-policies-and-cc-clauses/"><u>In 2024, Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-picking-between-filmora-and-democracy-creator-for-edits/"><u>In 2024, Picking Between Filmora and Democracy Creator for Edits</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-windows-on-win10/"><u>Monitor Not Recognizing Fullscreen Windows on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-media-player-functionality-for-new-win11/"><u>Optimizing Media Player Functionality for New Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-crimescreen-a-complete-guide-to-solutions/"><u>Overcoming Windows 10 CRIMESCREEN - A Complete Guide to Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trim-oversized-display-settings-in-win-10/"><u>Trim Oversized Display Settings in WIN 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-direct-screen-capture-chrome-os-tool/"><u>[New] 2024 Approved Direct Screen Capture Chrome OS Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-premium-asmr-microphones-that-dont-break-the-bank/"><u>[Updated] 2024 Approved Premium ASMR Microphones That Don't Break the Bank</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adapting-hardware-capabilities-for-intell-graphic-use/"><u>Adapting Hardware Capabilities for Intell Graphic Use</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-instructions-how-to-refresh-microsoft-mouse-software-in-windows-os/"><u>Comprehensive Instructions: How to Refresh Microsoft Mouse Software in Windows OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-screenscape-achieved-with-win11-fixes/"><u>Crisp Screenscape Achieved with Win11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/damping-down-display-dynamics-in-acer-systems/"><u>Damping Down Display Dynamics in Acer Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-enigma-of-online-dialogues-a-deep-dive-into-the-dead-internet-concept/"><u>Decoding the Enigma of Online Dialogues: A Deep Dive Into the Dead Internet Concept</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-gameplay-with-in-depth-screen-shotting-and-video-documentation-techniques/"><u>Elevate Your Gameplay with In-Depth Screen Shotting and Video Documentation Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-latest-amazon-fire-hd-8-eighth-generation-a-top-pick-for-low-budget-tablets-comprehensive-review-inside/"><u>Is the Latest Amazon Fire HD 8 (Eighth Generation) a Top Pick for Low Budget Tablets? Comprehensive Review Inside!</u></a></li>
+<li><a href="https://win-great.techidaily.com/overbrengen-windows-11-naar-een-nieuw-harde-schijf-3-gewone-oplossingen/"><u>Overbrengen Windows 11 Naar Een Nieuw Harde Schijf: 3 Gewone Oplossingen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-physics-problems-civilization-v-pc/"><u>Resolving Physics Problems, Civilization V PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-apex-selection-authoritative-guide-to-best-mesh-wireless-2024-edition/"><u>The Apex Selection: Authoritative Guide to Best Mesh Wireless - 2024 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-compact-gaming-laptop-reviewed-acers-predator/"><u>The Best Compact Gaming Laptop Reviewed: Acer's Predator</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blackout-error-solved/"><u>Windows 10 Blackout Error Solved</u></a></li>
 </ul></div>
 

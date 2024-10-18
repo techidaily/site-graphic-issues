@@ -1,7 +1,7 @@
 ---
 title: Override Sims Game Freeze
-date: 2024-10-01T17:29:44.766Z
-updated: 2024-10-06T17:56:05.670Z
+date: 2024-10-12T11:02:26.029Z
+updated: 2024-10-17T22:50:41.753Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -59,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -99,13 +106,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -113,10 +113,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
@@ -137,6 +137,19 @@ Here are the steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and The Sims 4
 
  You may encounter a white loading screen on The Sims 4 if the files in Origin or The Sims 4 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -146,19 +159,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -196,10 +196,10 @@ Here is how to check if your computer spec has met the requirements:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
@@ -235,16 +235,24 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tunefabs-innovative-approach-to-video-capturing/"><u>[Updated] 2024 Approved Tunefab's Innovative Approach to Video Capturing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blue-screen-solve-wdf-crashes-on-winos/"><u>Banishing Blue Screen: Solve WDF Crashes on WinOS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-unresponsive-black-screen-cursor/"><u>Clearing Up Unresponsive Black Screen, Cursor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enjoy-uninterrupted-mlb-the-show-21-with-server-issues-sorted-out/"><u>Enjoy Uninterrupted MLB The Show 21 with Server Issues Sorted Out</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-plex-streaming-faults-in-windows-11/"><u>Eradicating Plex Streaming Faults in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-r9-graphics-drivers-for-windows-10-users/"><u>Fixing R9 Graphics Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-unresponsive-pacific-drive-performance-issues/"><u>Step-by-Step Fixes for Unresponsive Pacific Drive Performance Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-guide-turn-off-touchpad-automatically-when-using-an-external-mouse/"><u>Windows 11 Guide: Turn Off Touchpad Automatically when Using an External Mouse</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ace-your-edits-youtube-studios-time-saving-secrets-revealed/"><u>[New] 2024 Approved Ace Your Edits YouTube Studio's Time-Saving Secrets Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ranked-elite-12-best-camcorders-sporting-gps-mapping-technology/"><u>[New] 2024 Approved Ranked Elite 12 Best Camcorders Sporting GPS Mapping Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-boosting-brand-exposure-through-box-for-2024/"><u>[New] Boosting Brand Exposure Through Box for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal/"><u>[Updated] In 2024, From Basic to Expert Mastering the Art of Adobe PS Background Removal</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>[Updated] In 2024, The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-tarkov-fix-visual-evasion-guide/"><u>AMD & Tarkov Fix: Visual Evasion Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-device-init-on-win-os/"><u>Fixed Device Init on Win OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-winbluescreen-violations-of-wdf-api/"><u>Fixing WinBlueScreen: Violations of WDF API</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-c65-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on C65</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-beyondbasics-futurecameraspost-mycam/"><u>In 2024, BeyondBasics FutureCamerasPost-MyCam</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intermittent-screen-problems-solved-for-laptop-success/"><u>Intermittent Screen Problems Solved for Laptop [Success]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertdisplayorientation-advice/"><u>InvertDisplayOrientation Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lag-fixing-made-simple-for-anthem/"><u>Lag Fixing Made Simple for Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-ui-tweaks-windows-10-advanced-fix/"><u>Missing UI Tweaks: Windows 10 Advanced Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-for-nvidiaintel-graphic-swap/"><u>Successful Fix for NVIDIA/Intel Graphic Swap</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-blue-screen-of-death-error-0x00000133-in-windows-10-systems/"><u>Troubleshooting Guide for Blue Screen of Death Error 0X00000133 in Windows 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-overcoming-twitchs-dark-display/"><u>Troubleshooting: Overcoming Twitch's Dark Display</u></a></li>
+<li><a href="https://solve-help.techidaily.com/ultimate-guide-to-mastering-video-edits-on-a-windows-pc-for-insta-ready-content/"><u>Ultimate Guide to Mastering Video Edits on a Windows PC for Insta-Ready Content</u></a></li>
 </ul></div>
 

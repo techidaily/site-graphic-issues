@@ -1,7 +1,7 @@
 ---
 title: Save Windows 7/10 Display Settings Flawlessly - Here's How [Solved]
-date: 2024-08-31T05:34:17.432Z
-updated: 2024-09-01T05:34:17.432Z
+date: 2024-10-17T04:03:18.097Z
+updated: 2024-10-17T21:19:39.511Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -40,14 +47,26 @@ To do so:
 1. Right-click on**any empty space** on your desktop and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This**Unable to save display settings** error may occur if you are using the wrong  graphics  driver or it’s out of date. So you should update your graphics driver  to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -60,14 +79,16 @@ To do so:
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer and see if the problem is solved.
 
 ---
@@ -82,8 +103,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,8 +110,19 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-transitioning-smoothly-from-your-discord-networks-for-2024/"><u>[New] Transitioning Smoothly From Your Discord Networks for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-dissecting-video-trimming-in-imovie-app/"><u>2024 Approved Dissecting Video Trimming in iMovie App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ideal-chat-and-meetup-tools-for-large-groups/"><u>Ideal Chat & Meetup Tools for Large Groups</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/infographic-exploration-premier-fifa-videos-for-2024/"><u>Infographic Exploration Premier FIFA Videos for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New 2024 Approved Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-winblueerror-correct-windows-wdf-api-problems/"><u>Overcome WinBlueError: Correct Windows WDF API Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-new-drivers-for-windows-10-users/"><u>Radeon HD 6950: New Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/slash-size-of-windows-screen-in-win-10/"><u>Slash Size of Windows Screen in WIN 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-hands-free-navigation-manual/"><u>The Complete Hands-Free Navigation Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-gadget-reviews-and-insights/"><u>Tom's Tech Hub: In-Depth Gadget Reviews and Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultra-fast-conversion-official-platinum-winx-dvd-ripper-for-speedy-dvd-to-264hevc-mp4-ripping-in-minutes/"><u>Ultra-Fast Conversion: [OFFICIAL] Platinum WinX DVD Ripper for Speedy DVD to 264/HEVC MP4 Ripping in Minutes!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ghostly GTX Displayed by Device Hub
-date: 2024-10-06T12:55:22.105Z
-updated: 2024-10-12T04:36:38.193Z
+date: 2024-10-11T12:33:10.994Z
+updated: 2024-10-17T22:03:24.156Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
  This method is especially useful for fixing the problem caused by leftover drivers after replacing a video card . Follow these steps:
@@ -36,7 +43,27 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
@@ -46,35 +73,21 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
 
  To uninstall the device, right-click on the device name and select**Uninstall** from the context menu. The following screenshot is for your reference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
@@ -91,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
@@ -128,22 +134,22 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-crafting-the-perfect-tiktok-image-with-simple-hacks/"><u>[New] 2024 Approved Crafting the Perfect TikTok Image with Simple Hacks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-complete-introduction-to-snapchats-new-feature/"><u>[New] A Complete Introduction to Snapchat's New Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-infinite-jest-10-ultimate-meme-layouts/"><u>[Updated] Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassed-direct3d-delays-unleash-full-gpu-capabilities-now/"><u>Bypassed Direct3D Delays - Unleash Full GPU Capabilities Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-rely-on-auto-gpt-successfully-in-absence-of-gpt-n/"><u>Can You Rely on Auto-GPT Successfully in Absence of GPT-N?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/combatting-screenscape-irregularities-in-pro-7/"><u>Combatting Screenscape Irregularities in Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/glide-over-and-adjust-vertical-lines-on-monitors/"><u>Glide Over and Adjust Vertical Lines on Monitors</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-zero-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Zero 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-potential-of-onestream-live-streaming/"><u>In 2024, Unlocking the Potential of OneStream Live Streaming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/invertedviewresolution/"><u>InvertedViewResolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-widows-11-setup-challenge-error-c1900101/"><u>Overcoming the WIDows 11 Setup Challenge: Error C1900101</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-non-standard-laptop-display-layout/"><u>Rectified Non-Standard Laptop Display Layout</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedying-blurry-ui-elements-in-far-cry/"><u>Remedying Blurry UI Elements in Far Cry</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-guide-updating-your-intel-optane-drivers-on-windows-systems/"><u>Successful Installation Guide: Updating Your Intel Optane Drivers on Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-reinstallation-of-amd-driver-on-windows-10/"><u>Successful Reinstallation of AMD Driver on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-protectively-download-youtube-audio-without-fear-for-2024/"><u>[New] How to Protectively Download YouTube Audio Without Fear for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-a-concise-guide-to-speedy-mac-screen-capture/"><u>[New] In 2024, A Concise Guide to Speedy Mac Screen Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-leading-ps2-simulators-top-picks-for-2024/"><u>[New] IOS Leading PS2 Simulators Top Picks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>[New] Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfecting-live-display-images-with-ease/"><u>[Updated] 2024 Approved Perfecting Live Display Images with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-whatsapp-integration-for-facebook-video-posts/"><u>2024 Approved WhatsApp Integration for Facebook Video Posts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blackout-alert-gpu-firmware/"><u>Blackout Alert: GPU Firmware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypass-amd-visual-snags-tarkov-fix/"><u>Bypass AMD Visual Snags - Tarkov Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-43-on-graphics-solved/"><u>Error 43 on Graphics Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-driver-crisis-resolved/"><u>Graphics Driver Crisis Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hasten-clear-video-transmission/"><u>Hasten Clear Video Transmission</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pictorial-insight-mastery-of-vsco-tools/"><u>In 2024, Pictorial Insight Mastery of VSCO Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-lost-window-on-pc-windows/"><u>Resetting Lost Window on PC [WINDOWS]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-tackle-non-functioning-asus-cam/"><u>Steps to Tackle Non-Functioning Asus Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-restore-vivid-colors-in-displays/"><u>Strategies to Restore Vivid Colors in Displays</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-non-functional-spatial-sound-on-your-pc-win11-and-win10-solutions/"><u>Troubleshooting Non-Functional Spatial Sound on Your PC - Win11 and Win10 Solutions</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/wie-man-digitale-rechteinschrankungen-von-drmed-kindle-und-epub-buchern-entfernt/"><u>Wie Man Digitale Rechteinschränkungen Von DRMed Kindle Und EPUB Büchern Entfernt</u></a></li>
 </ul></div>
 

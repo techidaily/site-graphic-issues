@@ -1,7 +1,7 @@
 ---
 title: Zoom Perfectionist's Manual - Reviving Faulty Cameras
-date: 2024-08-31T05:30:08.973Z
-updated: 2024-09-01T05:30:08.973Z
+date: 2024-10-15T17:58:58.398Z
+updated: 2024-10-18T13:14:36.094Z
 tags:
   - win11
   - win10
@@ -42,19 +42,17 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 1. On your keyboard, press the**Windows logo key** +**I** at the same time to open the Settings menu. Then, click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/privacy.jpg)
 2. In the left pane, click**Camera** to open the Camera privacy settings. Click**Change** and make sure Camera access for this device is on.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-22_15-58-26.jpg)
 3. Check **Allow apps to access your camera & Allow desktop apps to access your camera** toggle is on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-22_16-45-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  So now you’ve finished granting the access. Then check if your microphone can pick up your voice as intended. If not, please proceed to the next fix.
 
 ---
@@ -87,19 +85,34 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall the Zoom client
 
 Reinstall Zoom may help you solve the issue.
@@ -107,9 +120,14 @@ Reinstall Zoom may help you solve the issue.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Right-click**Zoom** and click**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 3. Complete the uninstallation process.
 4. Restart your computer and delete all components.
@@ -127,8 +145,6 @@ Reinstall Zoom may help you solve the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,8 +152,26 @@ Reinstall Zoom may help you solve the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-top-instagram-hidden-tips-and-tricks/"><u>[New] Top Instagram Hidden Tips and Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-camera-test-hero5-meets-sjcam/"><u>[Updated] 2024 Approved Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nokia XR21</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818238108-bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-mixer-broadcasting-on-macos-systems/"><u>Conquer Mixer Broadcasting on macOS Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/das-erfordernis-von-ki-gesteuerten-content-analysen-wie-abbyy-die-wissensautomation-vorantreibt/"><u>Das Erfordernis Von KI-Gesteuerten Content Analysen - Wie ABBYY Die Wissensautomation Vorantreibt</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unsavable-screen-display-preferences-in-win-710-completed/"><u>Fix Unsavable Screen Display Preferences in WIN 7/10 [Completed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-c1900101-problem-during-windows-11-boot-up/"><u>Fixing the C1900101 Problem During Windows 11 Boot Up</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-p40plus-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel P40+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/journey-into-ultra-high-definition-4k-explained/"><u>Journey Into Ultra-High-Definition: 4K Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-revival-rapid-restoration-of-video-feed/"><u>Monitor Revival: Rapid Restoration of Video Feed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/pnp-detected-fatal-error-on-windows-10-solved/"><u>PNP Detected Fatal Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/powerpoint-enhancement-techniques-a-comprehensive-guide-on-updating-your-slides/"><u>PowerPoint Enhancement Techniques: A Comprehensive Guide on Updating Your Slides</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ssds-matching-ps5-specs/"><u>Prime SSDs Matching PS5 Specs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-playing-on-advanced-rtx-setup/"><u>Smooth Playing on Advanced RTX Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-gpu-hangs-keeping-system-running/"><u>Troubleshooting GPU Hangs: Keeping System Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-revival-overcoming-creator-setbacks/"><u>Win10 Revival: Overcoming Creator Setbacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-made-simple/"><u>Windows Sharpness Made Simple</u></a></li>
+</ul></div>
 

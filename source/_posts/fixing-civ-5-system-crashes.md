@@ -1,7 +1,7 @@
 ---
 title: Fixing Civ 5 System Crashes
-date: 2024-08-31T05:29:24.248Z
-updated: 2024-09-01T05:29:24.248Z
+date: 2024-10-11T10:04:10.040Z
+updated: 2024-10-18T10:39:14.315Z
 tags:
   - win11
   - win10
@@ -38,19 +38,19 @@ Here’s how to do it:
 2. Click**Library** , then locate and right-click on**Sid Meier’s Civilizatio** n in your list of games and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  This**CIV 5 crashing** problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,25 +63,20 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Install the latest DirectX**
 
 **DirectX**  is feature developed by Microsoft to allow for a more smooth gaming experience for gamers. So you should always make sure to have the latest DirectX installed on your computer to stop game crashes.
@@ -93,19 +88,35 @@ No advertising on the website.
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
 ---
@@ -120,8 +131,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,8 +138,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-streamline-action-camera-upgrades-what-to-buy-for-2024/"><u>[New] Streamline Action Camera Upgrades What to Buy for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-masterful-audio-mesh-for-voice-broadcasters/"><u>[Updated] In 2024, Masterful Audio Mesh for Voice Broadcasters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-costless-methods-for-superior-photo-quality/"><u>2024 Approved Explore Costless Methods for Superior Photo Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brightening-dark-photos-on-iphone-simple-techniques/"><u>Brightening Dark Photos on Iphone - Simple Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conclusion-completing-nvidia-installer-procedure/"><u>Conclusion: Completing NVIDIA Installer Procedure</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972753134-downloadupdate-logitech-headset-drivers-with-one-click/"><u>Download/Update Logitech Headset Drivers with One Click!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-tackle-gpu-failures-without-system-freeze/"><u>How to Tackle GPU Failures Without System Freeze</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-utilize-chatgpt-for-innovative-writing-of-video-game-storylines/"><u>How to Utilize ChatGPT for Innovative Writing of Video Game Storylines</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-windows-10-r9-driver-problems/"><u>No More Glitches: Solved Windows 10 R9 Driver Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-windows-on-monitor-in-win10/"><u>Non-Fullscreen Windows on Monitor in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-reversed-displays-in-windows-11/"><u>Rectifying Reversed Displays in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilized-laptop-monitor-flickering-no-more/"><u>Stabilized Laptop Monitor, Flickering No More</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-innovative-design-of-klipschs-flexus-200-soundbar/"><u>Unveiling the Innovative Design of Klipsch’s Flexus 200 Soundbar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visuals-cannot-start/"><u>Visuals Cannot Start</u></a></li>
+</ul></div>
 

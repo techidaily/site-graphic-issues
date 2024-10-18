@@ -1,7 +1,7 @@
 ---
 title: "Banish Blinky: A Step-by-Step Guide to Screen Stability"
-date: 2024-10-10T19:56:54.481Z
-updated: 2024-10-12T09:33:30.696Z
+date: 2024-10-17T05:51:36.436Z
+updated: 2024-10-17T20:27:42.772Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -44,24 +51,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -85,22 +85,15 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
@@ -114,24 +107,18 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
@@ -144,6 +131,13 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -178,24 +172,19 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-bring-life-to-stills-motion-blur-technique-for-2024/"><u>[New] Bring Life to Stills Motion Blur Technique for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-reel-effect-creating-compelling-loops-on-ig/"><u>[New] The Reel Effect Creating Compelling Loops on IG</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages/"><u>2024 Approved A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-techniques-locating-ip-and-mac-in-windows-ps/"><u>Advanced Techniques: Locating IP & MAC in Windows PS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-back-the-beam-easy-fix-for-monitor-blackout/"><u>Bring Back the Beam: Easy Fix for Monitor Blackout</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-your-system-with-latest-nvidia-win11-geforce-210-updates/"><u>Enhance Your System with Latest NVIDIA Win11 GeForce 210 Updates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-your-laptops-horizontal-boundaries-now/"><u>Fix Your Laptop's Horizontal Boundaries Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-to-know-gptzero-the-definitive-guide-for-distinguishing-ai-creations/"><u>Get to Know GPTZero: The Definitive Guide for Distinguishing AI Creations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-uploading-to-twitter-a-complete-video-walkthrough/"><u>In 2024, Uploading to Twitter A Complete Video Walkthrough</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-off-how-can-it-be-resolved/"><u>Laptop Display Off, How Can It Be Resolved?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-inverse-display-phenomenon-windows-11/"><u>Overcoming Inverse Display Phenomenon: Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-software-setup-issues-for-intel-graphics/"><u>Resolving Software Setup Issues for Intel Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/righted-angled-view-on-mobile-computing-screens/"><u>Righted Angled View on Mobile Computing Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-interactive-ui-on-windows-after-repair/"><u>Smooth Interactive UI on Windows After Repair</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-docu-script-writers-guide/"><u>The Docu-Script Writer's Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-clarity-fixed-screen-issue/"><u>Windows Clarity: Fixed Screen Issue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-enjoy-anytime-anywhere-with-our-12-channel-stream-for-2024/"><u>[New] Enjoy Anytime, Anywhere with Our 12 Channel Stream for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-advanced-tips-for-proficient-use-of-vlcs-functions/"><u>[Updated] Advanced Tips for Proficient Use of VLC's Functions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-great-video-platform-debate-vimeo-and-youtube/"><u>[Updated] In 2024, The Great Video Platform Debate Vimeo & YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-elevating-vhs-imagery-on-modern-devices/"><u>[Updated] Ultimate Guide to Elevating VHS Imagery on Modern Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-setting-up-snapchat-on-mac/"><u>2024 Approved Step-by-Step Setting Up Snapchat on Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blinking-void-after-graphic-patch/"><u>Blinking Void After Graphic Patch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13/iPad Without Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-spotlight-tactics-a-3-step-guide-for-2024/"><u>Instagram Spotlight Tactics A 3-Step Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-laptops-from-dark-to-daylight/"><u>Lenovo Laptops: From Dark to Daylight</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flickering-on-hp-laptops/"><u>Overcoming Flickering on HP Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/soothing-screen-symptoms-pro-7-fixes/"><u>Soothing Screen Symptoms: Pro 7 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-full-screen-display-failure-detected/"><u>Win10 Full Screen Display Failure Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked!</u></a></li>
 </ul></div>
 
