@@ -1,7 +1,7 @@
 ---
 title: Restoring ASUS Built-In Camera Operation
-date: 2024-09-04T07:09:14.384Z
-updated: 2024-09-05T07:09:14.384Z
+date: 2024-10-25T19:47:26.593Z
+updated: 2024-10-30T00:38:23.593Z
 tags:
   - win11
   - win10
@@ -35,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Allow your device and apps to access the camera
 
  If you failed to enable the camera, it’s very likely that your device cannot access your camera. You should check your privacy settings:
@@ -52,25 +46,33 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3\. Update the webcam driver
 
  If the system settings are not blocking your camera, the main reason why your Asus camera is not working is an outdated/faulty webcam driver.
@@ -85,12 +87,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -98,18 +94,19 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 After updating your drivers, restart your PC and test the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4\. Reinstall the camera driver
 
  Under some circumstances, your camera may still act up after the related driver is up to date. To fix the issue quickly, you can launch Driver Easy, and click**Uninstall driver** next to your webcam driver, and restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
  On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run command.
@@ -118,23 +115,18 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
  3) Right-click **Integrated Camera** and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
 
@@ -154,8 +146,6 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,8 +153,23 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-kinemaster-elevating-your-game-play-experience-on-android-devices-for-2024/"><u>[New] KineMaster Elevating Your Game Play Experience on Android Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uniting-disparate-iphone-media-into-one-feed/"><u>[New] Uniting Disparate iPhone Media Into One Feed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-display-optimization-missing/"><u>[Resolved] Windows 11 Display Optimization Missing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-youtube-presence-with-masterful-editing-skills/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thankful-tailings-templates-for-every-dollar-plan/"><u>2024 Approved Thankful Tailings Templates for Every Dollar Plan</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-transforming-self-doubt-into-youtube-dominance/"><u>2024 Approved Transforming Self-Doubt Into YouTube Dominance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-driver-issue-resolved-workflow-enhanced-in-win10/"><u>AMD Driver Issue Resolved - Workflow Enhanced in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-bugs-halting-halo-infinite-startup/"><u>DirectX12 Bugs Halting Halo Infinite Startup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-with-updated-geforce-210-for-windows-11/"><u>Enhanced Graphics with Updated GeForce 210 for Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-rankings-top-photo-rejuvenation-services-analyzing-pros-and-cons/"><u>Expert Rankings: Top Photo Rejuvenation Services – Analyzing Pros and Cons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-overcome-visual-display-operational/"><u>Graphics Failure Overcome: Visual Display Operational</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-3d-animation-software-free-trials-and-paid-versions/"><u>In 2024, Best 3D Animation Software Free Trials and Paid Versions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/metaverse-persona-design-a-beginners-compreraniary-guide/"><u>Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-magic-quick-cure-for-loss-of-connection/"><u>Monitor Magic: Quick Cure for Loss of Connection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-fixes-opengl-driver-snafu/"><u>NVIDIA GPU Fixes OpenGL Driver Snafu</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
+</ul></div>
 

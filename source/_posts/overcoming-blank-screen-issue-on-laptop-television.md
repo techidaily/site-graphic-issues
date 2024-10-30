@@ -1,7 +1,7 @@
 ---
 title: Overcoming Blank Screen Issue on Laptop-Television
-date: 2024-09-04T07:08:56.566Z
-updated: 2024-09-05T07:08:56.566Z
+date: 2024-10-26T00:58:40.421Z
+updated: 2024-10-30T00:26:50.914Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart and reconnect your devices
 
  It’s likely your problem is caused by the hardware connection. So you should make sure that the hardware components (including the HDMI ports and cables) are working properly, then reconnect.
@@ -43,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
 Now check and see if your laptop to TV by HDMI works.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -63,26 +64,15 @@ The difference between each mode is as follows:
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver in your laptop can stop HDMI from your laptop to TV from working, especially your graphics card driver and USB driver. To rule it out as the cause for your problem, you should update your device drivers to the latest version.
@@ -101,26 +91,23 @@ The difference between each mode is as follows:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
@@ -136,8 +123,6 @@ The difference between each mode is as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,8 +130,22 @@ The difference between each mode is as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-arcadegeddon-keeps-crashing-on-pc/"><u>[SOLVED] Arcadegeddon Keeps Crashing on PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-experience-professional-video-calling-explore-the-top-5-devices-for-2024/"><u>[Updated] Experience Professional Video Calling - Explore The Top 5 Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-snap-to-share-the-ultimate-guide-to-archiving-photos/"><u>[Updated] From Snap to Share The Ultimate Guide to Archiving Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-experts-guide-to-effortless-video-submissions-on-igtv-for-2024/"><u>[Updated] The Expert's Guide to Effortless Video Submissions on IGTV for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-launch-of-samsung-galaxy-s25-ultra-latest-price-forecasts-and-release-timeline-revealed/"><u>Anticipated Launch of Samsung Galaxy S25 Ultra - Latest Price Forecasts & Release Timeline Revealed!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-ui-glitches-in-civilization-v/"><u>Correcting UI Glitches in Civilization V</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curtailing-luminescent-lurches-on-acer-screens/"><u>Curtailing Luminescent Lurches on Acer Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expedite-system-speed-download-geforce-gtx-1060-drivers/"><u>Expedite System Speed: Download GeForce GTX 1060 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfx-init-no-success-detected/"><u>GFX Init: No Success Detected</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mejorando-la-experiencia-de-visualizacion-con-ia-fotograma-por-fotograma-aumento-y-transiciones-sin-fuga/"><u>Mejorando La Experiencia De Visualización Con IA: Fotograma Por Fotograma Aumento Y Transiciones Sin Fuga</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-graphical-challenges-overwatch-updates/"><u>Overcoming Graphical Challenges, Overwatch Updates!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817876286-revamp-your-visual-experience-update-intel-gfx-driver-on-windows-10/"><u>Revamp Your Visual Experience - Update Intel GFX Driver on Windows 10!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-simple-iphone-screencasting/"><u>The Ultimate Guide to Simple iPhone Screencasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-insights-what-patch-wxx-brings-to-windows-11/"><u>Upgrade Insights: What Patch W.x.x Brings to Windows 11</u></a></li>
+</ul></div>
 

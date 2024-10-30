@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Dell PC Monitor Intermittent Flashing"
-date: 2024-09-04T07:09:10.892Z
-updated: 2024-09-05T07:09:10.892Z
+date: 2024-10-25T02:47:13.980Z
+updated: 2024-10-29T19:15:53.380Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the power plan and restore default settings
 
  Changing your power plan to high performance and restore it to default settings is a proven effective way to get rid of this**screen flashing on Dell laptop** issue. To do so:
@@ -39,9 +46,24 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **powercfg.cpl**  into the box and press **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the**High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a803558e52.jpg)
 3. Click **Restore default settings for this plan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b740b5511476.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click **Yes**   to confirm the restore.
 4. Restart your computer for the changes to take effect.
@@ -62,12 +84,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 1. Right-click on **the empty area**   of your desktop and click **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In **Resolution** , click the drop-down menu and make sure **the recommended resolution**   is selected.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 3. Keep track of your laptop screen and see if it displays properly this time. Still no joy? Please move on to**Fix 4** .
 
@@ -76,25 +92,14 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Adjust the screen resolution one by one in the drop-down menu and see if there’s one that helps get rid of the screen flickering problem.  
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)  
  Still no joy? Please move on to**Fix 4** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -132,50 +137,37 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
  and **R**  at the same time. Then type**services.msc** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a691fe0c.png)
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
-3. Double-click on **Desktop Window Manager Session Manager** .  
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b9fbc86c.jpg)
-4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
-5. Restart your computer and hopefully your laptop screen displays normally again.
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
+3. Double-click on **Desktop Window Manager Session Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b9fbc86c.jpg)
+4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
+5. Restart your computer and hopefully your laptop screen displays normally again.
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update or delete incompatible apps
 
@@ -200,8 +192,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,8 +199,22 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ideal-ios-platform-for-psp-emulation-our-top-5-list-of-2023/"><u>[New] In 2024, Ideal iOS Platform for PSP Emulation - Our Top 5 List of 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-graphics-tuning-for-windows-11/"><u>[Resolved] Advanced Graphics Tuning for Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unleashing-potential-in-your-channel-through-studio/"><u>[Updated] 2024 Approved Unleashing Potential in Your Channel Through Studio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725284676552-winx-dvd-ripper-platinum/"><u>解決：WinX DVD Ripper Platinumで進行中に止まる問題と修正手順</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-resolved-wdf-api-errors-in-windows/"><u>BlueScreen Resolved: WDF API Errors in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-hyperz-compatibility-fault/"><u>Cured HyperZ Compatibility Fault</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-y100i-power-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo Y100i Power 5G.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x9b-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor X9b</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-privacy-on-facebook-a-handy-list-of-7-steps/"><u>Navigating Privacy on Facebook: A Handy List of 7 Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-gpus-no-video-output-needed/"><u>Quick-Fix Guide: GPUs, No Video Output Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-the-setup-issue-of-c1900101-for-win10-success/"><u>Remedy the Setup Issue of C1900101 for Win10 Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-when-your-computer-freezes-during-minecraft-gameplay/"><u>Solutions for When Your Computer Freezes During Minecraft Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gpt-decoded-essential-knowledge-for-families/"><u>The GPT Decoded: Essential Knowledge for Families</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/updated-graphic-settings-for-overwatch/"><u>Updated Graphic Settings for Overwatch</u></a></li>
+</ul></div>
 

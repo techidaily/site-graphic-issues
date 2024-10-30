@@ -1,7 +1,7 @@
 ---
 title: "Maximize Frame Rate Performance: Essential Guide with 6 Pro Tips for Gamers"
-date: 2024-10-19T07:34:43.800Z
-updated: 2024-10-24T05:00:14.200Z
+date: 2024-10-24T16:51:22.875Z
+updated: 2024-10-30T00:56:06.431Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Tip 1: Change the power option 
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the  operating capacity of your graphics card and CPU. To adjust the power option to improve FPS: 
@@ -39,27 +46,13 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Tip 2: Adjust your PC for best performance
@@ -70,33 +63,32 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In **Advanced** , click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98b285ef51d.jpg)
 3. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Tip 3: Update your graphics driver
 
@@ -118,6 +110,13 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Tip 4: Do a disk clean-up 
 
 **Disk Clean-up**   is a built-in tool in Windows that helps us delete unimportant and junk files. To run **Disk Clean-up** :
@@ -135,6 +134,13 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Tip 5: Defrag your hard drive
 
  As we constantly add and remove files on our hard drives, small packets of information can end up in random places. This may result in our computer having to check multiple places for those pieces, hence the longer file opening/loading time, boot-up time etc. So we might have to defrag our hard drive to solve this and give our computer performance a boost. Here’s how: 
@@ -142,16 +148,16 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png) and **R**   at the same time. Then type **dfrgui.exe**   in the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
 3. Click **Optimize**   if Windows tell you to optimize the drive. Usually the recommended percentage is 5% or higher.
@@ -187,15 +193,24 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ios-leading-edge-5-exceptional-psp-game-tools/"><u>[Updated] 2024 Approved IOS Leading Edge 5 Exceptional PSP Game Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-filmoras-quick-start-approach-for-youtube-trailers/"><u>[Updated] Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discover-hidden-ui-in-win10s-advanced-settings/"><u>Discover Hidden UI in Win10's Advanced Settings</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-major-networks-connect-with-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Networks: Connect with Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-glitch-be-gone-monster-hunter-world-fixed/"><u>Graphic Glitch Be Gone: Monster Hunter World Fixed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y36-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y36 FRP Without Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-malfunction-addressed-driver-now-functional/"><u>Screen Malfunction Addressed: Driver Now Functional</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-the-notorious-nba-2k24-error-72e6ab-2024-edition-tips-and-tricks/"><u>Step-by-Step Fixes for the Notorious NBA 2K24 Error 72E6ab: 2024 Edition Tips and Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-lenovo-lcds-light-flashing-issue/"><u>Stop Lenovo LCD's Light Flashing Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/taking-console-crown-to-new-heights-an-experts-take-on-the-xbox-one-x-performance/"><u>Taking Console Crown to New Heights: An Expert's Take on the Xbox One X Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-dive-into-peace-with-these-soothing-games/"><u>[New] Dive Into Peace with These Soothing Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-movie-file-processing-in-windows-11/"><u>[New] In 2024, Streamlining Movie File Processing in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-15-best-game-recording-software-for-youtuber-for-2024/"><u>[Updated] 15 Best Game Recording Software for YouTuber for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-essential-guide-to-integrating-video-in-curricular-design/"><u>[Updated] 2024 Approved Essential Guide to Integrating Video in Curricular Design</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-stardews-best-guide-to-ginger-island/"><u>2024 Approved Stardew's Best Guide to Ginger Island</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-driver-error-in-win-7810/"><u>Addressing Graphics Driver Error in WIN 7/8/10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-laptops-erratic-screenshots-flashing/"><u>Conquered Laptop's Erratic Screenshots Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-no-full-screen-window-displayed-by-monitor/"><u>Fix: No Full Screen Window Displayed by Monitor</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x9a-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X9a Unlock Without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-black-screens-green-asus-fix-guide/"><u>Making Black Screens Green: Asus Fix Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-chromecast-without-limits-how-to-play-all-video-formats-2023-edition/"><u>New 2024 Approved Chromecast Without Limits How to Play All Video Formats (2023 Edition)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-windows-11-compatible-geforce-210-drivers/"><u>New Windows 11-Compatible GeForce 210 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rebooted-directx-12-renderer-glitch/"><u>Rebooted DirectX 12 Renderer Glitch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-perfect-blend-combining-6-effective-video-genres/"><u>The Perfect Blend Combining 6 Effective Video Genres</u></a></li>
+<li><a href="https://win-web.techidaily.com/two-effective-methods-for-cloning-your-existing-windows-server-2011-onto-a-new-hard-drive/"><u>Two Effective Methods for Cloning Your Existing Windows Server 2011 Onto a New Hard Drive</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-advanced-graphics-tweaks-for-win11/"><u>Upgraded: Advanced Graphics Tweaks for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nvidiaintel-hybrid-gpu-fix/"><u>Win11: NVIDIA/Intel Hybrid GPU Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-extras-gone-missing-now-here/"><u>Windows 10 Screen Extras - Gone Missing, Now Here</u></a></li>
 </ul></div>
 

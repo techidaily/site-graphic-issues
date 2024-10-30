@@ -1,7 +1,7 @@
 ---
 title: Graphic Engine Start Up Halted
-date: 2024-09-09T02:14:48.016Z
-updated: 2024-09-10T02:14:48.016Z
+date: 2024-10-26T17:41:15.665Z
+updated: 2024-10-29T16:27:21.505Z
 tags:
   - win11
   - win10
@@ -14,24 +14,12 @@ keywords: Graphic Engine Development Issues,Graphics Software Halting Troublesho
 thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b816448c60f70b991c5a0f3d865d.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Graphic Engine Start Up Halted
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/initialization-error.png)
 
  Keep getting**Unable to initialize graphics system** error message? You’re definitely not alone. Don’t worry. No matter what game you’re playing, you can fix the problem with the following troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix a graphics initialization failure?
 
 * **[Method 1: Update your graphics driver](#l1)**
@@ -41,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 * **[Method 5: Repair corrupted system files](#fix4)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Update your graphics driver
 
  Drivers handle the communication between your computer hardware and your operating system, programs, and apps. Therefore, if your graphic driver is outdated or corrupt, your program may not be able to initialize your graphics system.
@@ -75,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
 4) Restart your computer for the changes to take effect.
@@ -84,11 +80,12 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Run the game in compatibility mode
 
  Many users find it works by simply running the game in compatibility mode. To do it here is how:
@@ -100,6 +97,19 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 3: Change your display resolution settings
@@ -109,12 +119,6 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
 3. Try the various resolution options until the game launches successfully.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/change-resolution.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To change system screen resolution on Windows 11:
 
 1. Right-click the empty area on your desktop to invoke a menu and click **Display settings** .  
@@ -134,22 +138,26 @@ If the problem remains, please move on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
-3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
+3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
  Then try your game again to see if the Unable to Initialize Graphics System problem persists. If the problem remains, please move on to the next fix.
 
 ---
@@ -164,34 +172,10 @@ If the problem remains, please move on.
 2. Open Fortect and click **Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -209,8 +193,6 @@ If the problem remains, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,8 +200,21 @@ If the problem remains, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-efficiently-redistributing-your-creative-works-for-2024/"><u>[New] Efficiently Redistributing Your Creative Works for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unnoticed-consumers-of-fb-stories/"><u>[New] Unnoticed Consumers of Fb Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-master-recorder-a-comprehensive-review-of-screen-recording/"><u>[Updated] 2024 Approved Master Recorder A Comprehensive Review of Screen Recording</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctupsidedownscreens/"><u>CorrectUpsideDownScreens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-laptops-warped-display-lines-painlessly/"><u>Ease Laptop's Warped Display Lines Painlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-vision-clarity/"><u>Enhancing Lenovo Laptop Vision Clarity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-fantasy-to-reality-vrs-path/"><u>From Fantasy to Reality VR’s Path</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizons-in-focus-easy-monitor-alignment-techniques/"><u>Horizons in Focus: Easy Monitor Alignment Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo Find N3 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/render-engine-failed-to-initialize/"><u>Render Engine Failed to Initialize</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-11-streaming-problems-fixed/"><u>Troubleshooting Windows 11 Streaming Problems Fixed</u></a></li>
+</ul></div>
 

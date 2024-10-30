@@ -1,7 +1,7 @@
 ---
 title: Addressing Lenovo Screens That Dim Suddenly
-date: 2024-09-09T02:14:32.558Z
-updated: 2024-09-10T02:14:32.558Z
+date: 2024-10-25T03:11:29.798Z
+updated: 2024-10-30T01:19:36.060Z
 tags:
   - win11
   - win10
@@ -28,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
  **3)[Modify Registry](#c)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1) Update graphics driver
 
  In many cases, the culprit of the dim laptop screen issue is the faulty graphics drivers. You need to update the graphics driver to the latest and correct version. But if you don’t have time, patience or computer skills to deal with drivers (since it is very tricky and time-consuming), we recommend you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -53,17 +47,12 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -84,35 +73,38 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -126,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,8 +125,24 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-prime-biz-vault-services-for-data/"><u>[New] In 2024, Prime Biz Vault Services for Data</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-your-workflow-macos-screencast-tutorial/"><u>[New] Streamline Your Workflow MacOS Screencast Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-do-youtube-clips-pay-per-view/"><u>[Updated] 2024 Approved How Much Do YouTube Clips Pay Per View?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortless-webcam-recordings-on-hp-systems/"><u>[Updated] In 2024, Effortless Webcam Recordings on HP Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-power-the-best-for-web-video-gems/"><u>[Updated] Pixel Power The Best for Web Video Gems</u></a></li>
+<li><a href="https://win-best.techidaily.com/skypemovavi/"><u>完全な方法でSkypeセッションを静止画化しよう！【Movaviプロテクト】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-interview-standards-with-smart-use-of-chatgpt/"><u>Elevate Interview Standards with Smart Use of ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/grasping-the-visionary-shift-to-4k-resolution/"><u>Grasping the Visionary Shift to 4K Resolution</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/guide-comparatif-de-sauvegarde-et-clonage-dhddssd-methodes-a-privilegier/"><u>Guide Comparatif De Sauvegarde Et Clonage D'HDD/SSD - Méthodes À Privilégier</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigating-multiplayer-crashes-civ-5/"><u>Mitigating Multiplayer Crashes, CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-g-sync-not-detected/"><u>Nvidia's G-Sync Not Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remove-interference-from-laptop-vision-line/"><u>Remove Interference From Laptop Vision Line</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-10-fixed/"><u>Screen Upside Down in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shielding-screen-stability-in-surface-pro-7/"><u>Shielding Screen Stability in Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-playtime-with-windows-11-driver-update-for-hd-6950/"><u>Supercharge Your Playtime with Windows 11 Driver Update for HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-no-more-issues/"><u>Windows 11: Perfect Display, No More Issues</u></a></li>
+</ul></div>
 

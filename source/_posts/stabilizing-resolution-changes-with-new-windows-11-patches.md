@@ -1,7 +1,7 @@
 ---
 title: Stabilizing Resolution Changes with New Windows 11 Patches
-date: 2024-09-09T02:15:23.296Z
-updated: 2024-09-10T02:15:23.296Z
+date: 2024-10-24T03:45:55.077Z
+updated: 2024-10-29T22:41:32.279Z
 tags:
   - win11
   - win10
@@ -14,28 +14,10 @@ keywords: Windows 11,Patches,Resolution Changes,Stabilizing,New Updates/Upgrades
 thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687cbf80433fabaf4944196642.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stabilizing Resolution Changes with New Windows 11 Patches
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -71,11 +60,12 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -86,9 +76,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -100,12 +104,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -120,30 +118,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
@@ -167,8 +147,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,8 +154,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-10-volume-magnifiers-for-windowsmacos/"><u>[New] 2024 Approved Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-sneakily-bypass-online-learning-videos-without-breach/"><u>[New] Sneakily Bypass Online Learning Videos Without Breach</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-win10-fix-no-more-r9-display-disruptions/"><u>AMD's Win10 Fix: No More R9 Display Disruptions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/critical-card-detection-failure/"><u>Critical: Card Detection Failure</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-digital-culture-a-comprehensive-look-at-memes/"><u>Demystifying Digital Culture: A Comprehensive Look at Memes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-init-flawless-operation-now/"><u>Direct3D Init: Flawless Operation Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-settings-extras-win10-windows-display-fix/"><u>Display Settings Extras: Win10 Windows Display Fix</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-installing-toshibas-drivers-for-seamless-windows-integration/"><u>Guide to Downloading and Installing Toshiba's Drivers for Seamless Windows Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-x6-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find X6 FRP Bypass</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-zte-unlock-codes-to-unlock-your-zte-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free ZTE Unlock Codes to Unlock Your ZTE Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/multi-channel-earnings-from-tech-tips-to-game-archives/"><u>Multi-Channel Earnings: From Tech Tips to Game Archives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-era-increased-customization-on-windows-11/"><u>New Era: Increased Customization on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nixplays-x15d-a-revolution-in-digital-frame-technology-and-photo-display/"><u>Nixplay's X15D: A Revolution in Digital Frame Technology & Photo Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-for-nvidiaintel-graphic-switch-failure/"><u>Remedy for NVIDIA/Intel Graphic Switch Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/twitch-obscured-by-unseen-errors/"><u>Twitch Obscured by Unseen Errors?</u></a></li>
+</ul></div>
 

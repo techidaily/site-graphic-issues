@@ -1,7 +1,7 @@
 ---
 title: Combatting the Blackout on a Laptop Monitor
-date: 2024-09-04T07:09:43.400Z
-updated: 2024-09-05T07:09:43.400Z
+date: 2024-10-26T18:46:44.172Z
+updated: 2024-10-29T23:14:27.554Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 2. [**Connect your laptop to an external monitor**](#b)
 3. [**Have your laptop serviced**](#c)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-enable your screen
 
  Your laptop screen may have accidentally been disabled. You should re-enable your laptop screen so you’re able to use it.
@@ -37,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
  Now check to see if you’re able to turn on your laptop screen. If not, don’t worry. There are still other fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Connect your laptop to an external monitor
 
  If your laptop screen is still not working, you should try connecting your laptop to a monitor. If the external monitor is working, then there are a few things you should try:
@@ -56,19 +64,20 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c14afed043cd.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -84,11 +93,12 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
  If the methods above still didn’t repair your laptop screen, you may need to…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Have your laptop serviced
 
  You may be experiencing hardware issues with your laptop screen so it’s not working properly. You should contact your laptop manufacturer support or a repair store and ask them for advice.
@@ -103,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,8 +120,20 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-and-polishing-videography-in-adobe-connect-for-2024/"><u>[New] Capturing and Polishing Videography in Adobe Connect for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-optimizing-discord-stream-quality-with-these-key-steps/"><u>2024 Approved Optimizing Discord Stream Quality with These Key Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-enhance-your-pc-with-intels-graphics-driver-update/"><u>Easy Steps to Enhance Your PC with Intels Graphics Driver Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gameplay-techniques-for-achieving-better-fps-in-the-realm-of-ring-of-elysium/"><u>Elevate Your Gameplay: Techniques for Achieving Better FPS in the Realm of Ring of Elysium</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-resolve-windows-11-c1900101-installation-error/"><u>Guide to Resolve Windows 11 C1900101 Installation Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-stop-asus-laptop-screen-flickering-fix-guide/"><u>How To Stop ASUS Laptop Screen Flickering Fix Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-incorporating-b-roll-in-video-projects/"><u>In 2024, Strategies for Incorporating B-Roll in Video Projects</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-x50-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor X50</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817511063-lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-pcs-sound-issues-in-windows-11-using-this-simple-5-step-method/"><u>Resolve Your PC's Sound Issues in Windows 11 Using This Simple 5-Step Method</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tidy-up-your-screens-distorted-edges-now/"><u>Tidy Up Your Screen's Distorted Edges Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-new-nvidia-geforce-210-driver-for-windows-pcs/"><u>Unleash Potential: New NVIDIA GeForce 210 Driver for Windows PCs</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/nashdd/"><u>シノロジのNASサポート下で、外付けHDD用データバックアップ手順ガイド</u></a></li>
+</ul></div>
 

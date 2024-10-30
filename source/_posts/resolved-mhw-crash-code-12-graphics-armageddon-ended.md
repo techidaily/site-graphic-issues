@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-10-18T06:38:28.880Z
-updated: 2024-10-23T19:50:13.310Z
+date: 2024-10-27T19:59:29.001Z
+updated: 2024-10-29T17:17:12.673Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
  Perhaps one of the most common causes for this graphics device crashed error is a corrupt or outdated graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,28 +47,15 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -69,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics driver
 
@@ -84,25 +85,11 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
 
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair system files
 
@@ -147,6 +134,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -177,17 +177,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers/"><u>[New] In 2024, The Ultimate Guide to Instagram's Gold Standard Six Tactics to Attract More Followers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-editors-edge-exploring-the-best-of-youtube-video-tools-for-2024/"><u>[New] The Editor's Edge Exploring the Best of YouTube Video Tools for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-apcs-disregard-for-internal-video-cards/"><u>Fix: APC's Disregard for Internal Video Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-rendering-system-errored-on-start/"><u>Graphic Rendering System Errored On-Start</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-soundtrack-secrets-your-complete-audio-compilation-for-ig-videos/"><u>In 2024, Soundtrack Secrets Your Complete Audio Compilation for IG Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/invertingscreenview-solution/"><u>InvertingScreenView Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/make-every-sound-count-on-xbox-one-again/"><u>Make Every Sound Count on Xbox One Again!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastery-in-masking-and-retaining-digital-discussions/"><u>Mastery in Masking & Retaining Digital Discussions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/ranking-the-premier-online-church-service-providers-for-2024/"><u>Ranking the Premier Online Church Service Providers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-squad-microphone-problems/"><u>The Ultimate Guide to Fixing Squad Microphone Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unexplained-geforce-gtx-absence/"><u>Unexplained GeForce GTX Absence</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-victory-displays-preserved-after-fix/"><u>Visual Victory: Displays Preserved After Fix</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-top-10-free-apps-for-crafting-youtube-channel-graphics/"><u>[New] 2024 Approved Top 10 Free Apps for Crafting YouTube Channel Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-the-flickering-windows-11-enigma/"><u>[RESOLVED] The Flickering Windows 11 Enigma</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-classic-collection-finding-yesteryears-social-media-gems-for-2024/"><u>[Updated] Classic Collection Finding Yesteryear's Social Media Gems for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cutting-through-the-facade-real-vs-pretend-facebook-followers-for-2024/"><u>[Updated] Cutting Through the Facade Real vs Pretend Facebook Followers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>[Updated] In 2024, The Art of Patience Transform Your Reels Through Slow-Motion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activate-a-sluggish-gpu-fan-with-ease/"><u>Activate a Sluggish GPU Fan with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-inverted-orientation-on-windows-11/"><u>Addressing Inverted Orientation on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-reflection-issue-in-windows-11-views/"><u>Addressing Reflection Issue in Windows 11 Views</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-8-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-made-simple-enhancing-your-intel-hd-graphics-in-windows/"><u>Update Made Simple: Enhancing Your Intel HD Graphics in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-10-16T18:42:37.532Z
-updated: 2024-10-24T07:59:31.786Z
+date: 2024-10-23T22:41:57.402Z
+updated: 2024-10-29T20:55:58.358Z
 tags:
   - win11
   - win10
@@ -47,21 +47,14 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **I’m using Windows 7:**
@@ -73,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -109,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -120,10 +127,16 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -136,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -171,18 +177,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-spectacular-gratis-switch-gaming-tools/"><u>[New] Spectacular Gratis Switch Gaming Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>[New] Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-effective-affordable-youtube-intros-with-templates/"><u>[Updated] In 2024, Crafting Effective, Affordable YouTube Intros with Templates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-stability-resolved-amd-r9-driver-issues-w10/"><u>Achieving Stability: Resolved AMD R9 Driver Issues W10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-nvidia-geforce-210-for-next-gen-windows-11/"><u>Enhanced NVIDIA GeForce 210 for Next-Gen Windows 11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-mastering-tags-the-ultimate-guide-for-video-optimization/"><u>In 2024, Mastering Tags The Ultimate Guide for Video Optimization</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-gpu-blackout-problem/"><u>Latest GPU - Blackout Problem</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-mac-video-editor-how-to-produce-a-pro-quality-movie/"><u>New 2024 Approved The Ultimate Mac Video Editor How to Produce a Pro-Quality Movie</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-flv-naar-ogv-converter-vrije-diensten-professioneel-techniek-movavi/"><u>Online FLV Naar OGV Converter Vrije Diensten - Professioneel Techniek Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-resolves-graphics-incompatibility/"><u>Overwatch Resolves Graphics Incompatibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-blackout-updated-gpu/"><u>Silent Blackout, Updated GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-drive-tiktok-engagement-a-collection-of-viral-username-concepts-for-2024/"><u>[Updated] Drive TikTok Engagement A Collection of Viral Username Concepts for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-the-art-of-accessing-your-facebook-watchlist-for-2024/"><u>[Updated] Mastering the Art of Accessing Your Facebook Watchlist for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-seamlessly-stream-your-laptops-dvd-library-for-2024/"><u>[Updated] Seamlessly Stream Your Laptop's DVD Library for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-configure-streamlabs-on-your-mac-using-obs/"><u>2024 Approved Configure Streamlabs on Your Mac Using OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-no-cost-screen-players/"><u>Best No-Cost Screen Players</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-light-to-darkened-windows-11-post-creators/"><u>Bringing Light to Darkened Windows 11 Post Creators</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dive-into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818312100-efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-flickering-glitches-from-your-lenovo/"><u>Eradicating Flickering Glitches From Your Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-windows-7-screen-flickering/"><u>How to Fix Windows 7 Screen Flickering</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-your-homes-digital-signal-with-easy-to-install-indoor-antennas/"><u>Improve Your Home's Digital Signal with Easy-to-Install Indoor Antennas</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y100i-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y100i to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y55s-5g-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y55s 5G (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-drive-shedding-guide-for-graphics-removal/"><u>Instant Drive Shedding - Guide for Graphics Removal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-the-graphic-problem-in-overwatch/"><u>Overcoming the Graphic Problem in Overwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlit-screen-following-graphics-install/"><u>Unlit Screen Following Graphics Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-displays-re-enable-advanced-settings/"><u>Windows 10 Displays: Re-Enable Advanced Settings</u></a></li>
 </ul></div>
 

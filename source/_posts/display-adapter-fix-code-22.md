@@ -1,7 +1,7 @@
 ---
 title: "Display Adapter Fix: Code 22"
-date: 2024-09-04T07:09:48.263Z
-updated: 2024-09-05T07:09:48.263Z
+date: 2024-10-25T23:52:40.626Z
+updated: 2024-10-29T23:04:53.794Z
 tags:
   - win11
   - win10
@@ -42,11 +42,12 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -65,32 +66,36 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -107,21 +112,9 @@ Example – CMOS battery on a laptop
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -134,8 +127,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,8 +134,26 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-screen-recording-software-reviewed-on-pcmac-for-2024/"><u>[New] Top 10 Screen Recording Software Reviewed on PC/Mac for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>[Updated] 2024 Approved MI Drone Reviewed Capturing Landscapes in Full Resolution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ascend-to-million-view-milestone-with-this-guide/"><u>[Updated] Ascend to Million View Milestone with This Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>[Updated] Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-digital-dissection-the-vll-review-process/"><u>2024 Approved Digital Dissection The VLL Review Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-inaccessible-display-features-in-nvidia/"><u>Addressing Inaccessible Display Features in Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-graphics-game-on-windows-with-new-nvidia-drivers/"><u>Boost Your Graphics Game on Windows with New NVIDIA Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-avoidance-found-enhanced-performance-achieved/"><u>Direct3D Avoidance Found - Enhanced Performance Achieved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/edge-alignment-made-easy-fix-your-screen-now/"><u>Edge Alignment Made Easy - Fix Your Screen Now</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-tips-for-mac-based-tiktok-video-edits-for-2024/"><u>Essential Tips for Mac-Based TikTok Video Edits for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-graphic-density-for-text-elements/"><u>Improving Graphic Density for Text Elements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/invigorate-snaps-implement-inner-blur-spread-in-cs-for-2024/"><u>Invigorate Snaps Implement Inner Blur Spread in CS for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mobile-showdown-iphone-versus-samsung-which-fits-your-tech-lifestyle-best/"><u>Mobile Showdown: IPhone Versus Samsung – Which Fits Your Tech Lifestyle Best?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-computer-edge-guidelines/"><u>Realigning Computer Edge Guidelines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-play-end-fallout-4-crashes-on-windows/"><u>Secure Play: End Fallout 4 Crashes on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-c1900101-obstacle-for-new-windows-10-install/"><u>Solving C1900101 Obstacle for New Windows 10 Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now"
-date: 2024-10-22T22:47:40.076Z
-updated: 2024-10-24T06:05:07.066Z
+date: 2024-10-25T23:32:25.506Z
+updated: 2024-10-29T19:03:03.954Z
 tags:
   - win11
   - win10
@@ -47,16 +47,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -64,6 +64,13 @@ There’re mainly two ways for you to update an audio driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Change sound settings
 
@@ -73,6 +80,13 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
@@ -80,10 +94,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
@@ -92,21 +106,7 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -145,24 +145,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-amd-graphics-card-not-detected-windows-10/"><u>[Solved] AMD Graphics Card Not Detected Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-amd-graphics-card-not-detected-windows-11/"><u>[Solved] AMD Graphics Card Not Detected Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-a-deeper-dive-into-high-definition-online-visibility-for-2024/"><u>[Updated] A Deeper Dive Into High Definition Online Visibility for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-video-popularity-on-youtube-for-2024/"><u>[Updated] Elevating Video Popularity on YouTube for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pinnacle-screenshots-on-mac-a-deep-dive-into-top-apps-for-2024/"><u>[Updated] Pinnacle Screenshots on Mac A Deep Dive Into Top Apps for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-clear-focus-navigating-the-nuances-of-zooming/"><u>2024 Approved Clear Focus Navigating the Nuances of Zooming</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-filmoras-competitors-the-ultimate-list-of-top-notch-free-template-collections/"><u>2024 Approved Filmora's Competitors The Ultimate List of Top-Notch, Free Template Collections</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/beyond-analytics-how-combining-advanced-technologies-can-provide-a-complete-solution-to-your-business-hurdles-insights-from-abbyy-blog/"><u>Beyond Analytics: How Combining Advanced Technologies Can Provide a Complete Solution to Your Business Hurdles | Insights From ABBYY Blog</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-chatgpt-prompts-to-enrich-your-novels-cast/"><u>Essential ChatGPT Prompts to Enrich Your Novel's Cast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-silent-notification-problem-on-your-iphone/"><u>Resolving the Silent Notification Problem on Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos-for-2024/"><u>Riding the Wave Strategies for High-Likes TikTok Unpacking Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-your-astro-a50-headset-quick-solutions-inside/"><u>Solving Audio Problems on Your Astro A50 Headset - Quick Solutions Inside</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/story-2-the-confusion-over-cubital-tunnel-syndrome/"><u>Story 2: The Confusion over Cubital Tunnel Syndrome</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-and-fix-nvidia-gtx-950-error-code-43-in-windows-11-a-step-by-step-solution/"><u>Troubleshoot and Fix NVIDIA GTX 950 Error Code 43 in Windows 11: A Step-by-Step Solution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-exploring-functionality-and-troubleshooting/"><u>Understanding Vulkan Runtime Libraries – Exploring Functionality & Troubleshooting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-a-comprehensive-guide/"><u>Understanding Vulkan Runtime Libraries: A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/what-is-my-screen-resolution-one-step-to-find-out/"><u>What Is My Screen Resolution? One Step to Find Out!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/youtube-troubleshooting-fixes-for-non-loading-videos/"><u>YouTube Troubleshooting: Fixes for Non-Loading Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/youtube-video-not-showing-fixed/"><u>YouTube Video Not Showing [FIXED]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069277615-new-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>[New] In 2024, Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resolving-common-windows-11-photo-app-problems/"><u>[New] Resolving Common Windows 11 Photo App Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-discover-every-shared-element-with-friends/"><u>[Updated] In 2024, Discover Every Shared Element with Friends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-issues-with-ipads-key-insights-on-the-risks-of-upgrading-to-ios-16-gizmodaily/"><u>Avoid Potential Issues with iPads – Key Insights on the Risks of Upgrading to iOS 16 | GizmoDaily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-winbluescreen-tackle-wdf-api-crashes-on-windows/"><u>Banish WinBlueScreen: Tackle WDF API Crashes on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-guide-transforming-your-itunes-m4b-audiobooks-into-mp3-files-with-ease/"><u>Free Guide: Transforming Your iTunes M4B Audiobooks Into MP3 Files with Ease</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-gt-neo-5-se-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme GT Neo 5 SE Devices</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-protect-pdf-files-with-passwords-three-easy-methods/"><u>How To Protect PDF Files with Passwords – Three Easy Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-solution-amds-tarkov-glitch-fix/"><u>Immediate Solution: AMD's Tarkov Glitch Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improved-gaming-experience-new-drivers-for-win10-and-amd-6950/"><u>Improved Gaming Experience: New Drivers for Win10 & AMD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-screen-revelation-see-clearly-again/"><u>Lenovo Screen Revelation - See Clearly Again</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-tech-choices-with-the-precision-of-toms-hardware-wisdom/"><u>Mastering Tech Choices with the Precision of Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-rtx-3080-play-freezes/"><u>Overcoming RTX 3080 Play Freezes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-screen-stabilize-horizontal-edges/"><u>Transform Your Screen - Stabilize Horizontal Edges</u></a></li>
+<li><a href="https://win-great.techidaily.com/upcoming-changes-in-windows-update-strategy-inside-scoop-on-microsofts-latest-move-by-zdnet/"><u>Upcoming Changes in Windows Update Strategy? Inside Scoop on Microsoft's Latest Move by ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-win10-expert-guide-to-flawless-streaming/"><u>Upgraded Win10 - Expert Guide to Flawless Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-forgotten-ui-elements-now-showing-up/"><u>Win10's Forgotten UI Elements: Now Showing Up</u></a></li>
 </ul></div>
 

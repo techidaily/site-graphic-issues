@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2024-10-20T04:05:35.744Z
-updated: 2024-10-24T06:12:13.567Z
+date: 2024-10-22T19:53:23.532Z
+updated: 2024-10-29T18:24:44.380Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -56,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -91,13 +91,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -105,23 +98,17 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -148,6 +135,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -163,21 +157,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/apid-audio-to-video-conversion-for-youtube-fans/"><u>[New] Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[New] Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-supercharged-strategies-to-locate-online-ids/"><u>[Updated] In 2024, Supercharged Strategies to Locate Online ID's</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-through-top-9-youtube-download-apps-on-android-devices/"><u>2024 Approved Navigating Through Top 9 YouTube Download Apps on Android Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Phone When You Forget the Password</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dealing-with-drivers-stop-wdf-related-bluescreen/"><u>Dealing with Drivers: Stop WDF-Related BlueScreen</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-video-recording-and-editing-software-for-new-gamers-for-2024/"><u>Essential Video Recording & Editing Software for New Gamers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fullscreen-loss-in-windows-10-display-setup/"><u>Fullscreen Loss in Windows 10 Display Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-error-corrected-returning-to-normal/"><u>IGFX Error Corrected, Returning to Normal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-window-10-ui-settings-fixed-and-solved/"><u>Missing Window 10 UI Settings: Fixed & Solved</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pro-rated-apple-compreran-of-the-best-screen-recorders-for-2024/"><u>Pro-Rated Apple Compreran of the Best Screen Recorders for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lenovos-functional-touch-screens/"><u>Restoring Lenovo's Functional Touch Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversed-cominterface-error-on-windows-os/"><u>Reversed: COMInterface Error on Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solving-compatibility-issues-with-hp-monitor-drivers-on-windows-1187-platforms/"><u>Solving Compatibility Issues with HP Monitor Drivers on Windows 11/8/7 Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-airpods-and-iphone-connections-here-are-nine-fixes-to-restore-seamless-interaction/"><u>Trouble With AirPods and iPhone Connections? Here Are Nine Fixes to Restore Seamless Interaction</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wake-up-call-for-your-gpus-fans/"><u>Wake-Up Call for Your GPU's Fans</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-oven-to-screen-cooking-videos-unveiled/"><u>[New] From Oven to Screen Cooking Videos Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-the-ultimate-video-cropping-techniques-for-2024/"><u>[New] Mastering Instagram The Ultimate Video Cropping Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-fresh-footage-first-episode-insight/"><u>[Updated] In 2024, Fresh Footage First-Episode Insight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>[Updated] In 2024, The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
+<li><a href="https://win-data.techidaily.com/addressing-potential-flaw-in-emeditors-user-settings/"><u>Addressing Potential Flaw in EmEditor's User Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/broaden-world-view-by-acquiring-new-linguistic-skills/"><u>Broaden World View by Acquiring New Linguistic Skills</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-distortion-on-win11/"><u>Eliminate Screen Distortion on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818076989-gpu-not-recognized-resolve-immediately/"><u>GPU Not Recognized, Resolve Immediately!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M14 4G?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-screen-line-perpendniess/"><u>Optimizing Screen Line Perpendniess</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflicts-in-win11/"><u>Overcoming Dual GPU Conflicts in Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-glare-on-lenovo-monitors/"><u>Restoring Lost Glare on Lenovo Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-resolution/"><u>Windows 11: Perfect Display Resolution</u></a></li>
 </ul></div>
 

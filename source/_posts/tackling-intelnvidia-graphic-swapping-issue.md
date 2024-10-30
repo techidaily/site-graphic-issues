@@ -1,7 +1,7 @@
 ---
 title: Tackling Intel/Nvidia Graphic Swapping Issue
-date: 2024-10-22T04:26:24.077Z
-updated: 2024-10-23T20:03:31.242Z
+date: 2024-10-25T18:36:33.118Z
+updated: 2024-10-29T17:50:53.066Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -84,13 +91,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -98,17 +98,23 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -117,18 +123,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -157,22 +163,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-guide-to-creating-unique-tiktok-cover-art/"><u>[New] Guide to Creating Unique TikTok Cover Art</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-record-video-presentations-using-adobe-presenter/"><u>[Updated] 2024 Approved How to Record Video Presentations Using Adobe Presenter</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-blurring-techniques-for-cleaner-image-edits-for-2024/"><u>[Updated] Blurring Techniques for Cleaner Image Edits for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[Updated] Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blink-blank-how-to-stop-it/"><u>Blink Blank: How to Stop It</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-reappears-post-win11-blackout/"><u>Cursor Reappears Post-Win11 Blackout</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discovering-hdmi-errors-between-computer-and-screen/"><u>Discovering HDMI Errors Between Computer & Screen</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elite-screening-pacts-how-to-choose-a-cms-for-2024/"><u>Elite Screening Pacts How to Choose a CMS for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-dark-mode-woes-in-win11-after-fall-upgrade/"><u>End Dark Mode Woes in Win11 After Fall Upgrade</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-optimize-your-online-presence-with-effective-pinging-methods/"><u>Expert Advice: Optimize Your Online Presence with Effective Pinging Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-non-pressing-tab-button-on-windows-desktop/"><u>Fixing the Non-Pressing Tab Button on Windows Desktop</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nubia-red-magic-9-proplus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nubia Red Magic 9 Pro+ Devices | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-overcome-universal-print-driver-challenges-with-your-samsung-printer-in-windows-problem-solved/"><u>How to Overcome Universal Print Driver Challenges with Your Samsung Printer in Windows - Problem Solved!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dimming-on-lenovo-laptop-displays/"><u>Overcoming Dimming on Lenovo Laptop Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-tv-like-screen-darkening/"><u>Overcoming Lenovo TV-Like Screen Darkening</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-now-works-on-all-latest-gpus/"><u>Overwatch Now Works on All Latest GPUs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-fix-normal-view-now/"><u>Windows 10 Screen Fix: Normal View Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-direct-linking-of-photos-and-videos-between-devices/"><u>[Updated] In 2024, Direct Linking of Photos & Videos Between Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-noir-nights-transitioning-with-pro/"><u>2024 Approved Noir Nights - Transitioning with Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-soft-soundscapes-low-profile-alterations-in-garageband/"><u>2024 Approved Soft Soundscapes Low-Profile Alterations in Garageband</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/effortless-ways-to-access-jackie-chan-films-online/"><u>Effortless Ways to Access Jackie Chan Films Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-and-stabilize-no-more-pc-freezes-for-f4/"><u>Fix and Stabilize: No More PC Freezes for F4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-overcome-code-fixed/"><u>GPU Glitch Overcome: Code Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-recognition-error-fix/"><u>GPU Recognition Error Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-drivers-restored-no-more-errors/"><u>Graphics Drivers Restored, No More Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-ae-title-design-standout-effects-guide/"><u>In 2024, Mastering AE Title Design Standout Effects Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-era-of-gaming-graphics-on-windows-with-nvidia-210/"><u>New Era of Gaming Graphics on Windows with NVIDIA 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-image-warping-screens/"><u>Rectify Image Warping Screens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-data-sharing-best-apps-and-extensions-for-ai-conversations/"><u>Secure Data Sharing: Best Apps & Extensions for AI Conversations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-load-fix-amd-and-windows-10-detection/"><u>Successful Load Fix: AMD & Windows 10 Detection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players-for-2024/"><u>The Best Budget-Friendly, High-Fidelity WebM Players for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-asf-a-formato-mpeg-online-e-gratuito-con-movavi/"><u>Trasforma File ASF a Formato MPEG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-pdfs-effective-techniques-for-removing-drm-restrictions/"><u>Unlocking PDFs: Effective Techniques for Removing DRM Restrictions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/urgent-video-adapter-undetected-issue/"><u>Urgent: Video Adapter Undetected Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-fixed-missing-high-res-settings/"><u>Windows 10 Fixed: Missing High-Res Settings</u></a></li>
 </ul></div>
 

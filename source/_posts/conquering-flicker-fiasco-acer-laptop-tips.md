@@ -1,7 +1,7 @@
 ---
 title: "Conquering Flicker Fiasco: Acer Laptop Tips"
-date: 2024-10-17T06:43:56.277Z
-updated: 2024-10-24T04:33:42.052Z
+date: 2024-10-27T17:56:36.655Z
+updated: 2024-10-29T23:34:10.454Z
 tags:
   - win11
   - win10
@@ -54,6 +54,19 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
 #### **I’m using Windows 7:**
@@ -62,22 +75,15 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
@@ -89,10 +95,10 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
@@ -120,16 +126,16 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -161,18 +167,17 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-effortlessly-enhance-photos-how-to-remove-backgrounds-quickly/"><u>[New] 2024 Approved Effortlessly Enhance Photos How to Remove Backgrounds Quickly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nubia-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nubia FRP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-sims-monochrome-woes/"><u>Banish Sims' Monochrome Woes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bios-update-error-22-settled/"><u>BIOS Update: Error 22 Settled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-monitor-rotation-for-win7/"><u>Correct Monitor Rotation for Win7</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcp-2023-color-correction-essentials-from-basics-to-advanced/"><u>FCP 2023 Color Correction Essentials From Basics to Advanced</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/image-rendering-error-corrected-22/"><u>Image Rendering Error Corrected: #22</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/innovative-approaches-to-customizing-your-tiktok-videos/"><u>Innovative Approaches to Customizing Your TikTok Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/integrate-intel-graphics-direct-windows-11-update-guide/"><u>Integrate Intel Graphics: Direct Windows 11 Update Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tv-playback-successfully-viewing-mkv-videos/"><u>Troubleshooting TV Playback: Successfully Viewing MKV Videos</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1728485940059-windows-111087/"><u>トラブルシューティング:Windows 11/10/8/7のバックアップ作業中に困っている方へ</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>[New] Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-complete-guide-to-lightroom/"><u>[Updated] Android's Complete Guide to Lightroom</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-curated-array-of-chat-catalyzing-queries-for-podcasters/"><u>[Updated] Curated Array of Chat-Catalyzing Queries for Podcasters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-directorvid-evaluation-all-you-need-to-know/"><u>2024 Approved DirectorVid Evaluation – All You Need to Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/align-vertical-borders-on-computer-monitors-quickly/"><u>Align Vertical Borders on Computer Monitors Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-fix-for-disconnected-displayport/"><u>Immediate Fix for Disconnected DisplayPort</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-download-free-youtube-pics-and-templates/"><u>In 2024, Download Free YouTube Pics & Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-instant-anonymity-shield-face-details/"><u>In 2024, Instant Anonymity Shield Face Details</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-on-no-more-black-outages/"><u>Lenovo Lights On: No More Black Outages</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-camon-20-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Camon 20 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-display-issue-no-more/"><u>Windows 11 Display Issue No More</u></a></li>
 </ul></div>
 

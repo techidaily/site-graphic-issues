@@ -1,7 +1,7 @@
 ---
 title: "Solutions to GPU Overheats: Preserving System Availability"
-date: 2024-09-09T02:15:20.677Z
-updated: 2024-09-10T02:15:20.677Z
+date: 2024-10-24T17:56:08.776Z
+updated: 2024-10-29T21:12:39.011Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: GPU Overheat Solutions,System Availability Maintenance,Preventive GPU 
 thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9f258c0a63e3b6ef48739db7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to GPU Overheats: Preserving System Availability
 
  It’s a rather strange-sounding issue that the GPU crashes but the PC stays on, but it’s true: quite a few users are experiencing this problem. Most of the time, the GPU goes dark and then goes to power saving or sleep mode when resource-hungry programs like games are running, but the computer remains on. In other words, the fan is still running, and the keyboard is still lit up. But nothing could be done other than restart the PC for the monitor to work again. How frustrating is that?
@@ -28,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes for the GPU crashes but PC stays on problem
 
  You don’t have to try all the following methods: just work your way down the list until you find the one that does the trick to fix the display card crashes but computer remains on problem for you.
@@ -69,31 +57,21 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -114,12 +92,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -131,6 +103,13 @@ To do so, first visit the website of your GPU manufacturer:
  See if the GPU crashes but the PC stays on problem is fixed with an updated graphics card driver. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair corrupted system files
 
@@ -144,13 +123,20 @@ To use Fortect:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -171,16 +157,25 @@ To use Fortect:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select **Performance** (the second icon).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
 5. If you have a second GPU, do the same to check its temperture as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even though the GPU temperatures differ for differet manufacturers and models, your GPU tempertures should be in the range from**65 to 85°C** (149° to 185°F) under normal usage.
 
@@ -191,11 +186,12 @@ To use Fortect:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Test your GPU on another computer
 
  At this point, you should try your GPU on a different computer to see if the problem is with the graphics card itself: if no crashing problem is seen on the second computer, then the GPU is problem-free, and you should then move on to the next test.
@@ -211,17 +207,18 @@ To use Fortect:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1516072">
+<span id="2135472">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Check your power supply
 
  When the power supply for your computer is not enough for your GPU, or that your power supply unit is at fault, problems like GPU crashing can happen as well. Your computer can still run properly even if the PSU is at fault, but when you run resource-intensive programs, which ask more power from the PSU, it may fail to meet the requirements, and therefore crashes.
@@ -230,18 +227,6 @@ To use Fortect:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Try a new GPU
 
  If you’ve tried all the above, but the GPU crashes but PC remains on issue still persists, it’s probably time for you to consider a new GPU, given that the current GPU might not work well for your computer.
@@ -260,8 +245,6 @@ To use Fortect:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,8 +252,22 @@ To use Fortect:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-whats-captivating-twitter-users-the-most/"><u>[New] In 2024, What's Captivating Twitter Users the Most?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-showcasing-creativity-an-assortment-of-top-5-book-vtts/"><u>[New] Showcasing Creativity An Assortment of Top 5 Book VTTs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stabilizing-your-display-on-windows-11/"><u>[SOLVED]: Stabilizing Your Display on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-strategy-for-increasing-youtube-traffic/"><u>[Updated] 2024 Approved The Ultimate Strategy for Increasing YouTube Traffic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-further-the-revolutionary-lg-360-vr-headset-reviewed-for-2024/"><u>A Step Further The Revolutionary LG 360 VR Headset Reviewed for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-load-faster-now/"><u>Anthem Load Faster Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-spotted-after-win11-blackout/"><u>Cursor Spotted After Win11 Blackout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flip-monitor-angle-fix-for-windows-7/"><u>Flip Monitor Angle: Fix for Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hardware-compatibility-re-established/"><u>Hardware Compatibility Re-Established</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-overcome-c1900101-error-while-installing-windows-11/"><u>How to Overcome C1900101 Error While Installing Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing-for-2024/"><u>How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dissecting-youtubes-activities-post-uploading-videos/"><u>In 2024, Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-optimal-results-the-latest-intel-gpu-drivers-for-windows-pcs/"><u>Secure Optimal Results: The Latest Intel GPU Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gameplay-by-increasing-frames-per-second-fps-in-ring-of-elysium/"><u>Ultimate Guide: Enhancing Your Gameplay by Increasing Frames Per Second (FPS) in Ring of Elysium</u></a></li>
+</ul></div>
 

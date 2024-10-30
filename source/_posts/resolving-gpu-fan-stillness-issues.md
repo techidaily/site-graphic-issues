@@ -1,7 +1,7 @@
 ---
 title: Resolving GPU Fan Stillness Issues
-date: 2024-10-22T23:01:50.157Z
-updated: 2024-10-23T23:15:37.083Z
+date: 2024-10-25T19:37:13.949Z
+updated: 2024-10-29T18:04:21.091Z
 tags:
   - win11
   - win10
@@ -42,10 +42,16 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure all cables are plugged in
@@ -53,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
@@ -71,16 +70,16 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -102,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Configure GPU RPM (fan speed)
 
  RPM stands for revolutions per minute, which is what we usually call fan speed. To see if it’s a wrong configuration, you can use hardware monitor programs like [**MSI Afterburner**](https://www.msi.com/Landing/afterburner/graphics-cards) to adjust the fan speed manually. This is a safer approach compared to stress tests.
@@ -112,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
@@ -127,47 +140,28 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -192,19 +186,24 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ouble-down-on-youtube-visibility-2-quick-methods-for-2024/"><u>[New] Double Down on YouTube Visibility (2 Quick Methods) for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevating-your-content-becoming-a-staff-pick-favorite-on-vimeo/"><u>[Updated] 2024 Approved Elevating Your Content Becoming a Staff Pick Favorite on Vimeo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce/"><u>[Updated] In 2024, Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>2024 Approved Bringing Back the Glitter Integrating Instagram Effects to Past Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-shot-success-adopt-these-10-key-photographic-rules/"><u>2024 Approved IPhone Shot Success Adopt These 10 Key Photographic Rules</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-visuals-updated-drivers-roll-out-for-amd-hd-6950/"><u>Boost Your Visuals - Updated Drivers Roll-Out for AMD HD 6950</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-disposal-in-windows-instant-guide-for-graphics/"><u>Drive Disposal in Windows: Instant Guide for Graphics</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enable-scanner-activation-after-updating-win10/"><u>Enable Scanner Activation After Updating Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enigmatic-dx-glitch-now-explained-legions-resolution/"><u>Enigmatic DX Glitch Now Explained - Legion's Resolution</u></a></li>
-<li><a href="https://win-blog.techidaily.com/far-cry-5-wont-start-diagnosis-and-solutions-for-a-smooth-launch/"><u>Far Cry 5 Won't Start: Diagnosis and Solutions for a Smooth Launch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-infinix-hot-30i-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Infinix Hot 30i Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mystery-direct-x-issue-culprit-identified-in-leagues-realm/"><u>Mystery Direct X Issue: Culprit Identified in League's Realm</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-addressed-driver-returns-to-form/"><u>Nvidia Error Addressed - Driver Returns to Form</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-10/"><u>NVIDIA GeForce 210 Drivers Update for Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-direct-linking-of-photos-and-videos-between-devices/"><u>[New] 2024 Approved Direct Linking of Photos & Videos Between Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-vr-game-engines-2023-update-for-2024/"><u>[New] Top VR Game Engines -2023 Update for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-remote-conferences-with-5-elite-recorders/"><u>[Updated] 2024 Approved Mastering Remote Conferences with 5 Elite Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-professionals-playbook-refined-gopro-video-production-techniques/"><u>2024 Approved The Professional's Playbook Refined GoPro Video Production Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-12-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 12 without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-persistent-fluctuating-light-on-asus-laptops/"><u>Banish Persistent Fluctuating Light on ASUS Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-crash-episodes-in-fallout-4-on-pc/"><u>End Crash Episodes in Fallout 4 on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-performance-with-updated-intel-drivers/"><u>Enhancing PC Performance with Updated Intel Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-leading-game-console-innovations-a-comprehensive-breakdown/"><u>Exploring the Leading Game Console Innovations : A Comprehensive Breakdown</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/find-hidden-watch-tile-artwork-for-2024/"><u>Find Hidden Watch Tile Artwork for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-light-in-a-dark-laptop-monitor/"><u>Finding the Light in a Dark Laptop Monitor</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unraveling-virtual-realitys-interactive-gear/"><u>In 2024, Unraveling Virtual Reality's Interactive Gear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-comservice-disruption-on-windows-os/"><u>Overcoming COMService Disruption on Windows OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-with-high-end-nvidia-card/"><u>Prevent Crashes with High-End NVIDIA Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-system-and-graphics-hurdle-on-win10geforce-7025/"><u>Resolving System & Graphics Hurdle on Win10/GeForce 7025</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-smooth-video-playback-on-updated-os/"><u>Securing Smooth Video Playback on Updated OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-enhanced-nvidia-geforce-driver-release/"><u>Windows 10 Upgrade: Enhanced NVIDIA GeForce Driver Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-lag-a-complete-guide-to-fixing-fallout-3-crashes-on-windows-10-pc/"><u>Winning Against Lag: A Complete Guide to Fixing Fallout 3 Crashes on Windows 10 PC</u></a></li>
 </ul></div>
 

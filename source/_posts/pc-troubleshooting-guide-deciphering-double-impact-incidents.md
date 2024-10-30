@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting Guide: Deciphering Double Impact Incidents"
-date: 2024-10-21T05:00:39.743Z
-updated: 2024-10-23T20:53:17.449Z
+date: 2024-10-28T20:16:45.014Z
+updated: 2024-10-29T22:55:37.309Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -49,23 +56,9 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -79,6 +72,13 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -86,13 +86,6 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -113,16 +106,23 @@ If the game still crashes, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -132,13 +132,6 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -169,10 +162,10 @@ If the crash still occurs, go ahead with the next fix.
 If Phasmophobia crashing issues persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
@@ -207,6 +200,13 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -226,17 +226,19 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-on-windows-10-how-to-fix/"><u>AMD Graphics Card Unrecognized on Windows 10 - How to Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
-<li><a href="https://solve-news.techidaily.com/comprehensive-low-codeno-code-strategies-for-streamlining-invoice-management/"><u>Comprehensive Low-Code/No-Code Strategies for Streamlining Invoice Management</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/election-enthusiasts-essentials-quintessential-voting-games/"><u>Election Enthusiasts' Essentials Quintessential Voting Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-blaze-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Lava Blaze 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-big-on-amazons-latest-innovation-the-echo-spot-alarm-clock-with-a-whopping-40-discount-during-prime-day-shop-now/"><u>Save Big on Amazon's Latest Innovation: The Echo Spot Alarm Clock with a Whopping 40% Discount During Prime Day – Shop Now!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-5-webcams-for-cutting-edge-twitch-live-streaming-quality-for-2024/"><u>Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1724467299742-vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries - What Is It and What to Do About It?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-earnings-average-income-per-video-ad/"><u>YouTube Earnings Average Income per Video Ad?</u></a></li>
-<li><a href="https://win-news.techidaily.com/obespechte-bezopasnost-vashej-informacii-s-pomoshyu-rezervnogo-kopirovaniya-diska-raid/"><u>Обеспечьте Безопасность Вашей Информации С Помощью Резервного Копирования Диска RAID #</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discovering-beyond-vidcon-key-youtube-occasions/"><u>[New] In 2024, Discovering Beyond VidCon Key Youtube Occasions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/achieving-high-quality-videos-with-your-cellphone-webcam-for-2024/"><u>Achieving High-Quality Videos with Your Cellphone Webcam for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977902964-comprehensive-solutions-for-startech-drivers-errors-on-windows-1087-issues-resolved/"><u>Comprehensive Solutions for StarTech Drivers Errors on Windows 10/8/7 - Issues Resolved!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-visual-acuity-of-game-ui-graphics/"><u>Enhancing Visual Acuity of Game UI Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-windows-missing-on-my-monitor-why/"><u>Fullscreen Windows Missing on My Monitor, Why?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-privacy-first-sending-your-personal-youtube-link-via-google/"><u>In 2024, Privacy First Sending Your Personal YouTube Link via Google</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-visual-fidelity-at-its-peak-the-merits-of-high-dynamic-range-over-sdr/"><u>In 2024, Visual Fidelity at Its Peak The Merits of High Dynamic Range Over SDR</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-display-straighten-out-lines-now/"><u>Laptop's Display: Straighten Out Lines Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-mcuicntexe-missing-problems-on-pcs/"><u>Overcoming McUICnt.exe Missing Problems on PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-graphic-incompatibility-resolved/"><u>Overwatch: Graphic Incompatibility Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-cursor-from-win11-blank-screens/"><u>Recovered Cursor From Win11 Blank Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-the-secrets-of-your-windows-11-powershell-edition-and-version-info/"><u>Unlock the Secrets of Your Windows 11 PowerShell Edition and Version Info</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstick-your-speakers-how-to-eliminate-stuttering-and-distorted-sounds-on-pcs-with-windows-os/"><u>Unstick Your Speakers! How to Eliminate Stuttering and Distorted Sounds on PCs with Windows OS</u></a></li>
 </ul></div>
 

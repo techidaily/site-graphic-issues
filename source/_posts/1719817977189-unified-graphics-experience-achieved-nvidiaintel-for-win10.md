@@ -1,7 +1,7 @@
 ---
 title: Unified Graphics Experience Achieved - Nvidia/Intel for Win10!
-date: 2024-10-23T07:49:50.880Z
-updated: 2024-10-23T16:37:40.797Z
+date: 2024-10-22T20:17:15.762Z
+updated: 2024-10-30T03:36:37.268Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -85,10 +92,16 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -97,6 +110,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -104,10 +124,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -116,23 +136,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -157,22 +163,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-efficiency-at-play-reducing-youtube-video-length/"><u>[Updated] Efficiency at Play Reducing YouTube Video Length</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-discord-video-recorder-tools-iosandroid/"><u>[Updated] In 2024, Best Discord Video Recorder Tools (iOS/Android)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-techniques-to-archive-and-save-video-calls/"><u>[Updated] Techniques to Archive and Save Video Calls</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-leading-edge-in-social-media-video-capture-5-apps-reviewed-for-2024/"><u>[Updated] The Leading Edge in Social Media Video Capture (5 Apps Reviewed) for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-vga-display-faults-pc/"><u>Address VGA Display Faults (PC)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/blitz-30-second-guide-to-fast-thumbnails/"><u>Blitz 30-Second Guide to Fast Thumbnails</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blue-screen-dxgkrnlsys-bsod-explained-and-resolved/"><u>Blue Screen: dxgkrnl.sys BSoD Explained & Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/critical-dxgkrnlsys-bsod-in-windows-addressed/"><u>Critical dxgkrnl.sys BSoD in Windows Addressed</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-pratique-pour-corriger-les-erreurs-chkdsk-sur-les-lettres-capitales-detectees-dans-un-fichier/"><u>Guide Pratique Pour Corriger Les Erreurs CHKDSK Sur Les Lettres Capitales Detectées Dans Un Fichier</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-flash-facts-how-videos-captivate-twitters-audience/"><u>In 2024, Flash Facts How Videos Captivate Twitter's Audience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-stable-screens/"><u>Master the Art of Stable Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/restaurer-vos-souvenirs-le-top-des-logiciels-libres-de-reparation-photo-par-ia-les-meilleures-solutions-gratuites/"><u>Restaurer Vos Souvenirs : Le Top Des Logiciels Libres De Réparation Photo Par IA - Les Meilleures Solutions Gratuites</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-enigmatic-dx-error-explained-lol-armistice/"><u>The Enigmatic DX Error Explained - LoL Armistice</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trim-latency-for-pristine-streams/"><u>Trim Latency for Pristine Streams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-a-win11-fix/"><u>Eliminating Graphic Swap Errors: A Win11 Fix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>In 2024, The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Phone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-loop-mastery-unlock-the-art-of-endless-viewing/"><u>In 2024, YouTube Loop Mastery Unlock the Art of Endless Viewing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/setting-up-your-youtube-studio-essential-equipment-list-for-2024/"><u>Setting Up Your YouTube Studio Essential Equipment List for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-full-screen-customization-in-win11/"><u>Unlocking Full Screen Customization in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817435202-upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now</u></a></li>
 </ul></div>
 

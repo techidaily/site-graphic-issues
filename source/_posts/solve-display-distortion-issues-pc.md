@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2024-10-21T08:10:03.760Z
-updated: 2024-10-24T03:37:35.223Z
+date: 2024-10-25T17:04:23.013Z
+updated: 2024-10-30T01:06:22.811Z
 tags:
   - win11
   - win10
@@ -54,16 +54,10 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
@@ -73,13 +67,6 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -91,22 +78,29 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -116,15 +110,15 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
@@ -145,18 +139,20 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sharpen-your-photos-pro-tips-for-lunapic-users/"><u>[New] 2024 Approved Sharpen Your Photos Pro Tips for LunaPic Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-laptops-display-no-more-intermittent-flashing/"><u>Dell Laptop's Display: No More Intermittent Flashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-display-settings-on-nvidia-gpu/"><u>Enabling Display Settings on NVIDIA GPU</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/guiding-iphone-and-android-owners-to-fix-video-sending-problems-in-fb-chat-for-2024/"><u>Guiding iPhone & Android Owners to Fix Video Sending Problems in FB Chat for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-7-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 7 to Another | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y36-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y36 To Phone | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-monochrome-output-from-portable-units/"><u>Mending Monochrome Output From Portable Units</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-intermittent-flashing-dell-laptop-screen-fix/"><u>Overcome Intermittent Flashing: Dell Laptop Screen Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-initiation-no-more-d3d-hiccups/"><u>Smooth Initiation: No More D3D Hiccups</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-the-flicker-phenomenon-on-win11/"><u>Solving the Flicker Phenomenon on Win11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tips-for-efficiently-changing-fb-cover-image-for-2024/"><u>Tips for Efficiently Changing FB Cover Image for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-f15-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy F15 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-strategic-use-of-creative-commons-copyright-law/"><u>[New] 2024 Approved Strategic Use of Creative Commons Copyright Law</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-monitor-issues/"><u>Correcting Windows 10 Monitor Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnosing-and-fixing-gpu-crashes-without-pc-loss-of-function/"><u>Diagnosing and Fixing GPU Crashes without PC Loss of Function</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-logic-to-lore-the-8-key-ai-shifts/"><u>From Logic to Lore: The 8 Key AI Shifts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-unsupported-card-missing/"><u>Graphics Unsupported: Card Missing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-asus-usb-bt500-bluetooth-device-on-pcs-with-windows-11-10-or-8/"><u>How to Install Asus USB-BT500 Bluetooth Device on PCs with Windows 11, 10 or 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-turn-off-default-recommended-podcast-listings-in-spotify-for-2024/"><u>How to Turn Off Default Recommended Podcast Listings in Spotify for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/introducing-the-enhanced-windows-11-geforce-210-driver/"><u>Introducing the Enhanced Windows 11 GeForce 210 Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-shaping-success-in-windows-11/"><u>Screen Shaping Success in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-the-trouble-youtubes-green-screen-fixes-unveiled/"><u>Tackling the Trouble: YouTube's Green Screen Fixes Unveiled</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-evolution-of-youtube-shorts-templates-and-their-impact-on-engagement/"><u>The Evolution of YouTube Shorts Templates and Their Impact on Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-future-forecasts-in-cybersecurity-you-cant-ignore/"><u>Top 7 Future Forecasts in Cybersecurity You Can't Ignore</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-premium-free-srt-translation-services/"><u>Unveiling Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cutting-edge-mkv-trimmers-for-mac-top-picks-2023/"><u>Updated In 2024, Cutting-Edge MKV Trimmers for Mac Top Picks 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-ai-amelioration-et-restauration-de-videos-en-resolution-ultra-haute-definition-4k-8k-10k/"><u>WinxVideo AI : Amélioration Et Restauration De Vidéos en Résolution Ultra Haute Définition (4K, 8K, 10K)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Recovery From Cursor Freeze in Windows
-date: 2024-10-22T00:59:52.018Z
-updated: 2024-10-23T18:10:44.202Z
+date: 2024-10-27T19:43:59.857Z
+updated: 2024-10-30T03:34:50.259Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -70,6 +63,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -81,10 +81,10 @@ If you’re on a laptop:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
@@ -103,19 +103,6 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -125,16 +112,16 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -145,6 +132,13 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
@@ -190,21 +184,22 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -218,16 +213,16 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -245,29 +240,22 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
@@ -292,20 +280,20 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quickcapture-for-windows-ultimate/"><u>[New] 2024 Approved QuickCapture for Windows Ultimate</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cementing-climactic-conclusions/"><u>[New] In 2024, Cementing Climactic Conclusions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-premium-ff-downloader-suite-for-efficient-fb-media-grabs/"><u>[New] In 2024, Premium FF Downloader Suite for Efficient FB Media Grabs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-crafting-your-perfect-minecraft-shelter/"><u>[Updated] In 2024, Crafting Your Perfect Minecraft Shelter</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pro-level-mobile-media-capture-iphone-and-androids-top-5-apps/"><u>[Updated] Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-smart-content-creator-legal-checks-for-pre-upload-videos/"><u>2024 Approved The Smart Content Creator Legal Checks for Pre-Upload Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/completed-navigating-through-installer-snags/"><u>Completed: Navigating Through Installer Snags</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-pc-freezes-enjoy-uninterrupted-fallout-4-play/"><u>End PC Freezes, Enjoy Uninterrupted Fallout 4 Play</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-performance-install-new-gpu-drivers/"><u>Enhance Performance: Install New GPU Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-address-gpu-anomalies-in-pcs/"><u>How to Address GPU Anomalies in PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-graphic-support-detected/"><u>No Graphic Support Detected</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-mastering-photo-reshaping-tools/"><u>The Essential Guide to Mastering Photo Reshaping Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-flashing-or-flickering-solved/"><u>Windows 10 Screen Flashing Or Flickering [SOLVED]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-4-proven-methods-for-screenshotting-and-recording/"><u>[New] 4 Proven Methods for Screenshotting & Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pro-video-creators-choice-10-exceptional-photo-background-alternators-for-2024/"><u>[New] Pro Video Creators' Choice 10 Exceptional Photo-Background Alternators for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-secret-whatsapp-techniques-for-maximum-impact/"><u>[New] Secret WhatsApp Techniques for Maximum Impact</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/behind-curtains-lies-a-secret-direct-x-fix-in-league/"><u>Behind Curtains Lies a Secret - Direct X Fix in League</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-direct3d-initialization-error/"><u>Fixed Direct3D Initialization Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-60-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-remove-non-listed-applications-from-your-pcs-control-panel/"><u>How to Remove Non-Listed Applications From Your PC's Control Panel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-find-n3-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-off-quick-fixes-and-tips/"><u>Laptop Display Off - Quick Fixes and Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-connect-quest-reestablish-your-screens-signal/"><u>Quick-Connect Quest: Reestablish Your Screen's Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-windows-11-resolution-settings-successfully/"><u>Resetting Windows 11 Resolution Settings Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-setting-up-your-chatgpt-widget-on-android-devices/"><u>Step-by-Step Tutorial: Setting Up Your ChatGPT Widget on Android Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/switched-up-choices-evaluating-the-nintendo-switch-lite-versus-the-switch-oled/"><u>Switched-Up Choices: Evaluating The Nintendo Switch Lite Versus The Switch OLED</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrading-nvidias-geforce-drivers/"><u>Upgrading Nvidia's GeForce Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/usb-audio-drivers-for-behringer-equipment-instant-downloads-available/"><u>USB Audio Drivers for Behringer Equipment: Instant Downloads Available</u></a></li>
 </ul></div>
 

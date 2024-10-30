@@ -1,7 +1,7 @@
 ---
 title: "Solved: Windows 11 Display Glitch"
-date: 2024-09-09T02:15:22.013Z
-updated: 2024-09-10T02:15:22.013Z
+date: 2024-10-25T18:16:18.276Z
+updated: 2024-10-29T21:10:26.041Z
 tags:
   - win11
   - win10
@@ -14,22 +14,10 @@ keywords: Windows 11 Display Issue,Solved Windows 11 Screen Glitch,Fixing Window
 thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d91b0c90b63f17b606d1e7ada.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solved: Windows 11 Display Glitch
 
  If you’ve been experiencing screen flashing or flickering issues on your Windows 10 computer lately, don’t panic. It can be easily fixed…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for screen flashing or flickering problem
 
  Here’re 5 fixes that have helped other users resolve the screen flashing issue. Just work your way down the list until you find the one that works for you.
@@ -42,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -61,12 +43,6 @@ Here is how to change the monitor refresh rate:
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -74,11 +50,12 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -106,11 +83,12 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -122,10 +100,31 @@ To do so:
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
@@ -134,11 +133,18 @@ To do so:
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  Missing, corrupt, or damaged system files may cause display drivers to crash. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -161,11 +167,12 @@ Here’s how to use Fortect to repair system files on your PC:
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -188,12 +195,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -212,8 +213,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,8 +220,26 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-choreographing-a-stellar-tiktok-wrap-up/"><u>[New] 2024 Approved Choreographing a Stellar TikTok Wrap-Up</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dji-quadcopters-groups-fundamentals-advanced-configurations-hd-experts/"><u>[New] 2024 Approved DJI Quadcopters Groups Fundamentals, Advanced Configurations, HD Experts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-8-linux-friendly-video-cutters/"><u>[New] In 2024, Top 8 Linux-Friendly Video Cutters</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-daily-inspirations-from-15-tiktok-visionaries/"><u>[Updated] 2024 Approved Daily Inspirations From 15 TikTok Visionaries</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-your-photo-workflow-in-windows-11-for-2024/"><u>[Updated] Boost Your Photo Workflow in Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-supreme-choices-for-inexpensive-film-assets-for-2024/"><u>[Updated] Supreme Choices for Inexpensive Film Assets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-pen-to-pixel-best-photography-caption-apps-iosandroid/"><u>2024 Approved Pen to Pixel Best Photography Caption Apps (iOS/Android)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-peak-performance-nvidias-latest-1060-driver-update/"><u>Achieve Peak Performance: Nvidia's Latest 1060 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-device-conflict-resolution-tips-for-when-other-programs-are-running/"><u>HDMI Device Conflict Resolution: Tips for When Other Programs Are Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-anthem-loading-times/"><u>Improve Anthem Loading Times</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-signal-new-graphics-card/"><u>No Signal - New Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-visual-fluidity-through-supported-freesync/"><u>Optimizing Visual Fluidity Through Supported FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-steps-to-enter-safe-mode-in-windows-8-remove-graphic-drivers/"><u>Streamlined Steps to Enter Safe Mode in Windows 8, Remove Graphic Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tv-displaying-no-signal-hdmi-link-issues/"><u>TV Displaying No Signal: HDMI Link Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-drawbacks-of-using-chatgpt-for-text-compilation-and-synopsis/"><u>Understanding the Drawbacks of Using ChatGPT for Text Compilation and Synopsis</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-visual-magic-how-to-create-stunning-video-effects-from-scratch/"><u>Updated 2024 Approved Visual Magic How to Create Stunning Video Effects From Scratch</u></a></li>
+</ul></div>
 

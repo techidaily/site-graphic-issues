@@ -1,7 +1,7 @@
 ---
 title: How to Get League of Legends Running Smoothly Again – Expert Tips
-date: 2024-10-17T05:49:15.657Z
-updated: 2024-10-23T23:33:07.592Z
+date: 2024-10-28T22:45:46.951Z
+updated: 2024-10-30T02:40:49.908Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -106,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -130,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -147,15 +127,22 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
@@ -165,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -186,6 +173,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -209,18 +203,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-effective-ways-to-archive-webcam-discussions/"><u>[New] 2024 Approved Effective Ways to Archive Webcam Discussions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-whos-watching-your-videos/"><u>[New] In 2024, Discovering Who's Watching Your Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-thrills-that-dont-involve-los-angeles-lives/"><u>[New] In 2024, Thrills That Don't Involve Los Angeles Lives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/urning-tides-exploring-unique-methods-to-reverse-youtube-videos-for-2024/"><u>[New] Turning Tides Exploring Unique Methods to Reverse YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-overview-dji-inspire-2/"><u>[Updated] Comprehensive Overview - DJI Inspire 2</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unleash-creativity-with-these-10-ae-text-setups/"><u>[Updated] Unleash Creativity with These 10 AE Text Setups</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-beginning-your-journey-to-digital-creation/"><u>2024 Approved Beginning Your Journey to Digital Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-meizu-21-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Meizu 21 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/borderlands-grog-3-how-to-troubleshoot-and-fix-missing-game-sounds-on-your-computer/"><u>Borderlands Grog 3 - How to Troubleshoot and Fix Missing Game Sounds on Your Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-silent-airpods-issues-with-bluetooth-on-windows-11-and-10/"><u>Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/samsung-galaxy-fit2-a-small-sized-powerful-gadget-for-health-and-fitness-enthusiasts/"><u>Samsung Galaxy Fit2: A Small-Sized, Powerful Gadget for Health and Fitness Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-complete-review-of-gimp-affordable-versatile-image-editor-across-multiple-devices/"><u>The Complete Review of GIMP: Affordable, Versatile Image Editor Across Multiple Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations/"><u>[New] In 2024, Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/earn-the-art-of-crafting-short-youtube-videos/"><u>[New] Learn the Art of Crafting Short YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios-for-2024/"><u>[Updated] Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-pioneering-techniques-to-enhance-fb-video-ads-for-2024/"><u>[Updated] Pioneering Techniques to Enhance Fb Video Ads for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-tips-efficient-gameplay-archiving-in-roblox-on-macos-for-2024/"><u>[Updated] Tech Tips Efficient Gameplay Archiving in Roblox on MacOS for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/download-and-play-ign-content-anywhere-easy-conversion-to-mp4avi-for-windows-and-mac-users/"><u>Download and Play IGN Content Anywhere: Easy Conversion to MP4/AVI for Windows & Mac Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-upside-down-screen-on-windows-11/"><u>Fixing Upside Down Screen on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hurdles-halved-display-settings-saved-successfully/"><u>Hurdles Halved: Display Settings Saved Successfully</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-v30-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo V30 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y02t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y02T Devices | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-update-all-graphics-hardware-compatible-with-overwatch/"><u>New Update: All Graphics Hardware Compatible with Overwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhauled-graphics-card-error-43/"><u>Overhauled Graphics Card Error 43</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-cure-for-lags-and-interruptions/"><u>Quick Cure for Lags & Interruptions</u></a></li>
 </ul></div>
 

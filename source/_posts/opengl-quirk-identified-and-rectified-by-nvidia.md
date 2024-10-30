@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-10-21T04:43:43.236Z
-updated: 2024-10-24T03:53:52.351Z
+date: 2024-10-24T19:15:20.221Z
+updated: 2024-10-30T01:07:05.905Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -36,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -60,27 +60,26 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -98,13 +97,6 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -112,6 +104,13 @@ See how to do it:
  6) Right-click on**GraphicsDrivers** to select**Export** . (It’s to back up the GraphicsDrivers registry key in case any wrong happen during our next change to it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
@@ -121,6 +120,19 @@ See how to do it:
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
@@ -152,22 +164,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-mirage-identifying-false-friends-at-no-price/"><u>[New] In 2024, Instagram's Mirage Identifying False Friends at No Price</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-engagement-from-tiktok-to-twitter/"><u>[Updated] 2024 Approved Maximizing Engagement From TikTok to Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>[Updated] Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-discover-your-top-10-choice-of-editors-for-youtube-short-videos-for-2024/"><u>[Updated] Discover Your Top 10 Choice of Editors for YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-xbox-one-shutterbug-techniques/"><u>[Updated] The Ultimate Xbox One Shutterbug Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/charting-new-realms-with-ultra-hd-resolution-4k-explored/"><u>Charting New Realms with Ultra HD Resolution - 4K Explored</u></a></li>
-<li><a href="https://fox-place.techidaily.com/customizing-your-cars-driving-options/"><u>Customizing Your Car's Driving Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/descargue-y-convierte-videos-flv-a-mp3-de-forma-gratuita-con-herramientas-online-movavi/"><u>Descargue Y Convierte Vídeos FLV a MP3 De Forma Gratuita Con Herramientas Online: Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-steps-for-your-systems-ghosted-gpu/"><u>Diagnosing: Steps for Your System's Ghosted GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-pathway-to-windows-8s-secure-boot-graphics-card-driver-eradication/"><u>Expert Pathway to Windows 8'S Secure Boot - Graphics Card Driver Eradication</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-non-registered-graphics-devices-on-pcs/"><u>Fixing Non-Registered Graphics Devices on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/getting-past-dxgkrnlsys-bsod-on-pc/"><u>Getting Past dxgkrnl.sys BSOD on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818019053-graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-screen-sharing-for-ppts/"><u>In 2024, Mastering Screen Sharing for PPTs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-your-digital-footprint-prime-2024-cloud-solutions/"><u>Mastering Your Digital Footprint Prime 2024 Cloud Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>[New] In 2024, Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-chrome-os-snapshotting-for-2024/"><u>[Updated] The Ultimate Guide to Chrome OS Snapshotting for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-obs-studio-explained-capturing-ps4-playthroughs/"><u>2024 Approved OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-11-proplus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme 11 Pro+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/complete-guide-on-moving-your-iphone-data-to-a-new-device-effortlessly/"><u>Complete Guide on Moving Your iPhone Data to a New Device Effortlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easier-streaming-on-updated-windows-10/"><u>Easier Streaming on Updated Windows 10</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/hochwertige-mp4-kompression-verringern-sie-grosse-behalten-sie-qualitat/"><u>Hochwertige MP4 Kompression - Verringern Sie Größe, Behalten Sie Qualität</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 14 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphic-detection-action-required/"><u>No Graphic Detection, Action Required!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-incorrect-win10-resolution/"><u>Resolving Incorrect Win10 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolvingcomputerscreenflip/"><u>ResolvingComputerScreenFlip</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unable-to-launch-full-screen-in-windows-11/"><u>Unable to Launch Full Screen in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-battles-increasing-hostility-online/"><u>Virtual Battles: Increasing Hostility Online</u></a></li>
 </ul></div>
 

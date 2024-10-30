@@ -1,7 +1,7 @@
 ---
 title: "Kernel Conflict Addressed: Error 22"
-date: 2024-10-20T17:57:59.031Z
-updated: 2024-10-24T04:48:19.211Z
+date: 2024-10-24T22:45:14.345Z
+updated: 2024-10-30T01:52:01.171Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 11. Voila! Your screen should appear normally now. If it isn’t working, you can press the power button to shut down and restart your computer, then carefully repeat the above steps to better troubleshoot the issue.
 
 Be careful you don’t mistype, or press the wrong keys!
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
@@ -67,10 +67,10 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -79,15 +79,22 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -105,13 +112,6 @@ Example – CMOS battery on a laptop
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
@@ -137,21 +137,18 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[New] 2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-channels-on-the-fly-tubebuddy-essentials/"><u>[New] In 2024, Mastering Channels on the Fly - TubeBuddy Essentials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-best-sites-to-buy-mystery-boxes/"><u>10 Best Sites to Buy Mystery Boxes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-com-interface-error-windows-update/"><u>Corrected COM Interface Error, Windows Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-error-overcome-display-ready/"><u>Driver Error Overcome - Display Ready</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-remove-unwanted-display-wobblyness/"><u>Easy Steps to Remove Unwanted Display Wobblyness</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-conversion-compile-your-flipbook-projects-into-cds-with-flipbuilder/"><u>Effortless Conversion: Compile Your FlipBook Projects Into CDs with FlipBuilder</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-compatible-arduino-usb-driver-updates-for-windows-operating-systems/"><u>Get the Latest Compatible Arduino USB Driver Updates for Windows Operating Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-effective-are-evs-when-facing-extreme-weather-challenges/"><u>How Effective Are EVs When Facing Extreme Weather Challenges?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-11x-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme 11X 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-obstacles-in-youtubes-chroma-key-setup/"><u>Overcoming the Obstacles in YouTube's Chroma Key Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-video-driver-problem-43/"><u>Overcoming Video Driver Problem #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stable-windows-11-screen-view/"><u>Stable Windows 11 Screen View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-clear-vision-crusade-fighting-off-flickers/"><u>The Clear Vision Crusade: Fighting Off Flickers</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-improving-video-playback-clearer-facebook-views-online-for-2024/"><u>[New] Improving Video Playback Clearer Facebook Views Online for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-initiate-an-impactful-live-stream-on-facebook-today/"><u>[New] Initiate an Impactful Live Stream on Facebook Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-expanding-possibilities-with-virtual-reality/"><u>[Updated] 2024 Approved Expanding Possibilities with Virtual Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726228253380-mpeg-mov-movavi/"><u>有料なしオンラインでMPEG MOV編集 - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conclusion-completing-nvidia-installer-procedure/"><u>Conclusion: Completing NVIDIA Installer Procedure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-tackle-gpu-failures-without-system-freeze/"><u>How to Tackle GPU Failures Without System Freeze</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-windows-10-r9-driver-problems/"><u>No More Glitches: Solved Windows 10 R9 Driver Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-windows-on-monitor-in-win10/"><u>Non-Fullscreen Windows on Monitor in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-reversed-displays-in-windows-11/"><u>Rectifying Reversed Displays in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speedy-shots-for-immersive-narratives/"><u>Speedy Shots for Immersive Narratives</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos/"><u>Updated Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visuals-cannot-start/"><u>Visuals Cannot Start</u></a></li>
 </ul></div>
 

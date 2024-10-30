@@ -1,7 +1,7 @@
 ---
 title: Silent Screen After GFX Update
-date: 2024-10-22T21:36:50.165Z
-updated: 2024-10-23T17:55:53.926Z
+date: 2024-10-28T20:29:39.443Z
+updated: 2024-10-29T23:22:42.647Z
 tags:
   - win11
   - win10
@@ -56,18 +56,26 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-35.png)
 4. Select**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-36.png)
 5. Select**Microsoft Basic Display Adapter** from the list and click**Next** for the driver to be installed.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-37.png)
 6. Your screen might flash a couple of times during the older driver installation, but no need to worry much about it, as it’s normal.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Repeat the same to install the generic display card driver for your other display card should you have one.
 
  Restart your computer to see if your computer screen remains black. If the problem remains, please move on.
@@ -82,21 +90,14 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -129,10 +130,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -158,6 +159,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-troubleshooter-2.jpg)
 4. If any issues are found, follow the on-screen instructions to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If none are found, close the window and try the next fix below.
 
 ---
@@ -174,16 +182,16 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-38.png)
 4. Wait for 5 minutes, and then reinstall your CMOS battery.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. If you can’t boot into your computer…
 
@@ -206,27 +214,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-42.png)
 7. Click**Startup Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-43.png)
 8. Click**Restart** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-46.png)
 9. Press**F5** , or**5** to enter the**Safe Mode with networking mode** .
 
  On a side note, when you can boot into your computer via the Advanced Repair settings, you can check the other [_**fixes mentioned in section one**_](https://tools.techidaily.com/drivereasy/download/) to see if they help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.1 Uninstall the graphics card driver in Safe Mode
 
@@ -239,17 +240,23 @@ When you boot into the Safe Mode with networking
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Restart your computer into Safe Mode again to see if it helps. If not, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.2 Try different hardware devices
 
@@ -279,19 +286,20 @@ When you boot into the Safe Mode with networking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-avoid-risks-secure-paths-to-get-gratis-vlc-for-mac-os-x/"><u>[New] 2024 Approved Avoid Risks Secure Paths to Get Gratis VLC for Mac OS X</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-compreenasian-guide-to-beautiful-collage-making/"><u>[New] Compreenasian Guide to Beautiful Collage Making</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-masterful-voice-modification-tools-for-smartphones-for-2024/"><u>[New] Masterful Voice Modification Tools for Smartphones for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-digital-dreamscapes-compared-metaverse-vs-omniverse-in-the-limelight-for-2024/"><u>[Updated] Digital Dreamscapes Compared Metaverse Vs. Omniverse in the Limelight for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-changes-to-your-pubg-characters-speech/"><u>2024 Approved Pioneering Changes to Your PUBG Character's Speech</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-driver-fix-resumed-normal-operations/"><u>Display Driver Fix: Resumed Normal Operations</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/exploring-the-efficiency-and-functionality-of-the-logitech-combo-touch-as-a-competitive-replacement-to-apples-classic-ipad-keyboard/"><u>Exploring the Efficiency and Functionality of the Logitech Combo Touch as a Competitive Replacement to Apple’s Classic iPad Keyboard</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-crashing-minecraft-on-pc-with-bad-cards/"><u>Fix Crashing Minecraft on PC with Bad Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-oscillating-on-screen-oracles/"><u>Overcoming Oscillating On-Screen Oracles</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-private-yt-content-with-google-login/"><u>Step-by-Step Guide Private YT Content with Google Login</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817944373-transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11s-amd-radeon-r9-fix-guide-completed/"><u>Win11's AMD Radeon R9 Fix Guide [Completed]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tactics-for-transforming-youtube-list-layouts/"><u>[New] 2024 Approved Tactics for Transforming YouTube List Layouts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-transforming-teams-visuals-for-flawless-video-meetings-for-2024/"><u>[New] Transforming Teams' Visuals for Flawless Video Meetings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-11-audio-devices-reviewed-here/"><u>[Updated] In 2024, Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cutting-through-windows-10-post-fall-issue/"><u>Cutting Through Windows 10 Post-Fall Issue</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effective-techniques-to-protect-your-inbox-scanning-email-attachments-with-malwarefox/"><u>Effective Techniques to Protect Your Inbox: Scanning Email Attachments with MalwareFox</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-wide-screen-distortions-on-windows-10/"><u>Eliminating Wide-Screen Distortions on Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-15-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 15 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-sign-of-life-on-your-laptop-screen/"><u>No Sign of Life on Your Laptop Screen?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/onnected-video-experience-joining-on-youtube-for-2024/"><u>One Connected Video Experience Joining on YouTube for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-screen-positioning-on-windows-7/"><u>Optimal Screen Positioning on Windows 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psn-unavailable-global-service-disruption-or-personal-internet-connection-issues/"><u>PSN Unavailable: Global Service Disruption or Personal Internet Connection Issues?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reclaim-camera-function-of-your-asus-pc/"><u>Reclaim Camera Function of Your ASUS PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-nvidia-with-windows-10-problem-resolved/"><u>Reconciling Nvidia with Windows 10 - Problem Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-error-handler-for-comexception-revised/"><u>Windows Error Handler for COMException Revised</u></a></li>
 </ul></div>
 

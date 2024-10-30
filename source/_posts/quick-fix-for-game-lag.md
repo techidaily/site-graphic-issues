@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Game Lag
-date: 2024-09-04T07:09:03.668Z
-updated: 2024-09-05T07:09:03.668Z
+date: 2024-10-28T01:26:02.975Z
+updated: 2024-10-29T17:41:17.231Z
 tags:
   - win11
   - win10
@@ -41,6 +41,19 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to **SETTINGS > Graphics Settings** .
 
  4) In**Motion Blur** , select**Off** .
@@ -67,9 +80,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -102,47 +129,31 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3\. Update your graphics driver
 
  An outdated or faulty graphics driver is one of the common causes of this Anthem lag problem. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -157,16 +168,24 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
@@ -191,18 +210,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
@@ -219,22 +226,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
@@ -255,8 +250,6 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,8 +257,22 @@ So you can follow the steps below to disable CPU core parking:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[New] In 2024, Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-exclusive-insights-into-top-8-facebook-film-extractors/"><u>[Updated] 2024 Approved Exclusive Insights Into Top 8 Facebook Film Extractors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-profit-strategies-galore-top-13-income-opportunities-on-reddit/"><u>[Updated] Profit Strategies Galore Top 13 Income Opportunities on Reddit</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoid-flickering-secure-your-lenovo-display/"><u>Avoid Flickering: Secure Your Lenovo Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-fps-latest-amd-hd-6950-driver-release/"><u>Boost FPS: Latest AMD HD 6950 Driver Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-gui-glitches-windows-ux-graphic-improvements-made/"><u>Fixing GUI Glitches: Windows UX Graphic Improvements Made</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-maximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes/"><u>In 2024, Maximizing Visibility A Comprehensive Guide to YT Gaming Hashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-issue-successfully-addressed/"><u>Lenovo SmartTouch Issue: Successfully Addressed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-in-this-article-i-want-to-show-you-how-to-apply-an-effect-to-a-clip-modify-that-effect-temporarily-turn-that-effect-on-or-off-or-delete-it/"><u>New 2024 Approved In This Article, I Want to Show You How to Apply an Effect to a Clip, Modify that Effect, Temporarily Turn that Effect on or Off, or Delete It Entirely</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-conflict-windows-10-geforce-7025-settled/"><u>Nvidia Conflict - Windows 10, GeForce 7025 Settled</u></a></li>
+<li><a href="https://windows11.techidaily.com/privacy-control-remove-your-email-in-login-screen/"><u>Privacy Control: Remove Your Email in Login Screen</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-safety-stellars-new-data-recovery-ease-of-use/"><u>Streamlining Safety: Stellar's New Data Recovery Ease of Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-downloading-and-updating-lenovo-ideapad-100-drivers-on-windows-10/"><u>Ultimate Troubleshooting Tips: Downloading and Updating Lenovo IdeaPad 100 Drivers on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-power-of-nvidias-wins11-compatible-drivers-geforce-210/"><u>Unveiling the Power of NVIDIA's Wins11-Compatible Drivers, GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-8-entrusting-system-in-safe-mode-and-removing-gpu-drivers/"><u>Windows 8: Entrusting System in Safe Mode & Removing GPU Drivers</u></a></li>
+</ul></div>
 

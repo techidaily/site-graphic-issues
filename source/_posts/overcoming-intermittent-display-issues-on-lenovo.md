@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2024-10-19T21:41:42.897Z
-updated: 2024-10-23T19:14:06.248Z
+date: 2024-10-24T16:00:28.326Z
+updated: 2024-10-29T17:13:20.069Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -62,22 +69,21 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -89,25 +95,19 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -139,18 +139,24 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-alchemy-turning-viewers-into-believers/"><u>[New] 2024 Approved Channel Alchemy Turning Viewers Into Believers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlock-creative-potential-strategic-use-of-strikethrough/"><u>[New] 2024 Approved Unlock Creative Potential Strategic Use of Strikethrough</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>2024 Approved Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
-<li><a href="https://win-bits.techidaily.com/black-friday-bargains-at-microsoft-store-score-a-discounted-300-surface-go-2-or-snag-the-230-acer-convertible-for-less-exclusive-deals-from-zdnet/"><u>Black Friday Bargains at Microsoft Store: Score a Discounted $300 Surface Go 2 or Snag the $230 Acer Convertible for Less! - Exclusive Deals From ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dark-side-of-windows-after-fall-release-fixed/"><u>Dark Side of Windows After Fall Release Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-lack-of-acceleration-overcome-fix-complete/"><u>Direct3D Lack of Acceleration Overcome [Fix Complete]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-drivers-for-hp-officejet-4650-printer-on-windows-pc/"><u>Download & Install Drivers for HP Officejet 4650 Printer on Windows PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-blurry-graphics-in-game-interface/"><u>Eradicating Blurry Graphics in Game Interface</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 11 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/path-retrieval-pro-unveiling-six-strategies-for-copying-windows-11-directory-structures/"><u>Path Retrieval Pro: Unveiling Six Strategies for Copying Windows 11 Directory Structures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-end-of-the-wobble-on-win11-screens/"><u>The End of the Wobble on Win11 Screens</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-disneyplus-monthly-subscription-at-an-unbeatable-price-of-only-199/"><u>Unlock Disney+ Monthly Subscription at an Unbeatable Price of Only $1.99!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giroptic-360cam-complete-review/"><u>[Updated] Giroptic 360Cam Complete Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-endless-entertainment-building-addictive-ig-boomerangs/"><u>[Updated] In 2024, Endless Entertainment Building Addictive IG Boomerangs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gif-to-sticker-guide-mastering-conversion-on-discord-whatsapp-telegram/"><u>2024 Approved GIF to Sticker Guide Mastering Conversion on Discord, WhatsApp, Telegram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aac-to-wav-conversion-en-online-gratis-movavi/"><u>AAC to WAV Conversion en Online Gratis - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-your-dormant-laptop-screen/"><u>Bringing Back Your Dormant Laptop Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-to-light-solving-win11-shadow-issue-post-fall/"><u>Dark to Light: Solving Win11 Shadow Issue Post Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-stutter-on-windows-7/"><u>Eliminate Screen Stutter on Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminated-flickering-on-laptops-display-panels/"><u>Eliminated Flickering on Laptops' Display Panels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-distinctions-of-level-1-level-2-and-level-3-ev-chargers/"><u>Exploring the Distinctions of Level 1, Level 2 and Level 3 EV Chargers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A24 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-fixing-crashing-gpus-without-shutdown/"><u>Mastering the Art of Fixing Crashing GPUs without Shutdown</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-mov-format-and-how-to-edit-mov-video-creatively/"><u>New In 2024, What Is MOV Format and How To Edit MOV Video Creatively?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhaul-asus-display-stop-the-shimmer-effect/"><u>Overhaul ASUS Display: Stop the Shimmer Effect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamp-windows-10s-visual-performance-via-intel-driver-update/"><u>Revamp Windows 10'S Visual Performance via Intel Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-solved-lenovo-interactive-screens/"><u>Successfully Solved Lenovo Interactive Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-beginners-guide-to-editing-content-on-windows-11/"><u>The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-screen-sharing-issues-solving-discords-black-screen-problem/"><u>Troubleshooting Screen Sharing Issues: Solving Discord's Black Screen Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-vivid-visuals-on-twitch/"><u>Unlocking Vivid Visuals on Twitch</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevate-your-audio-skills-integrating-autotune-into-audacitys-toolkit-for-2024/"><u>Updated Elevate Your Audio Skills Integrating Autotune Into Audacitys Toolkit for 2024</u></a></li>
 </ul></div>
 

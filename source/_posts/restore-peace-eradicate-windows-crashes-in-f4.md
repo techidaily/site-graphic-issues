@@ -1,7 +1,7 @@
 ---
 title: "Restore Peace: Eradicate Windows Crashes in F4"
-date: 2024-09-09T02:15:19.401Z
-updated: 2024-09-10T02:15:19.401Z
+date: 2024-10-28T22:43:58.073Z
+updated: 2024-10-29T21:05:20.309Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Windows Recovery,Eradicate System Crashes,Resolve F4 Error,Stop Window
 thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf9789080e0cebdf0db85a2c18febb4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore Peace: Eradicate Windows Crashes in F4
 
 **Fallout 4 crashes on startup** and you don’t know what you’ve done to cause the problem? Don’t worry! There are solutions to fix the issue. This article introduces 5 easy ways to**fix the Fallout 4 crashing on startup** .
@@ -27,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 ## Why is Fallout 4 crashing on startup?
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to fix Fallout 4 crash on startup?
 
@@ -46,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
@@ -80,20 +75,15 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer and open your Fallout 4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **4\. Temporarily disable the antivirus program**
 
  As known, the antivirus program in your computer is possible incompatible with your Steam games, including Fallout 4\. So you can check your antivirus program. To do so, follow these steps:
@@ -106,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -117,23 +114,18 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Save the settings and restart your Fallout 4 to see if it works now.
 
  These the the 5 easy solutions to**fix Fallout 4 crash on startup** . If you have any questions, feel free to leave a comment below.
@@ -148,8 +140,6 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,8 +147,22 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free/"><u>[New] 2024 Approved Plunge Into the Magic 9 Premium Full-Length Christmas Movies for Free</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-shorts-description-everything-you-should-know/"><u>[New] In 2024, YouTube Shorts Description Everything You Should Know</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-6s-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 6s without App | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-meizu-21-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Meizu 21 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-flawless-viewing-with-simple-line-adjustments/"><u>Achieve Flawless Viewing with Simple Line Adjustments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/colorseeker-pro-discovering-lightroom-alternatives-for-2024/"><u>ColorSeeker Pro Discovering Lightroom Alternatives for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-performance-flaws-for-software-installation-needs/"><u>Fixing Performance Flaws for Software Installation Needs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-efficiency-with-apple-watch-expert-tips-on-using-the-dual-click-feature-for-enhanced-productivity/"><u>Harnessing Efficiency with Apple Watch: Expert Tips on Using the Dual-Click Feature for Enhanced Productivity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amds-tarkov-graphical-glitches/"><u>Overcoming AMD's Tarkov Graphical Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blackout-blues-on-your-asus-notebook/"><u>Overcoming Blackout Blues on Your Asus Notebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/solving-the-mystery-of-converted-usb-directories-removing-malicious-executable-errors/"><u>Solving the Mystery of Converted USB Directories – Removing Malicious Executable Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-amds-detection-driver-for-win10/"><u>Successful Fix: AMD's Detection Driver for Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-unresolved-display-setting-issue-fixed/"><u>Windows 11: Unresolved Display Setting Issue (Fixed)</u></a></li>
+</ul></div>
 

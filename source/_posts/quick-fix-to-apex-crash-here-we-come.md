@@ -1,7 +1,7 @@
 ---
 title: Quick Fix to Apex Crash, Here We Come
-date: 2024-09-09T02:16:22.027Z
-updated: 2024-09-10T02:16:22.027Z
+date: 2024-10-23T21:07:15.417Z
+updated: 2024-10-30T02:28:56.988Z
 tags:
   - win11
   - win10
@@ -14,36 +14,12 @@ keywords: Quick Fix Apex Bug,Solve Apex Crashes Efficiently,Immediate Solutions 
 thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1fac24bb52cc0d4742cbe1750.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Fix to Apex Crash, Here We Come
 
 ![Apex Legends crash](https://images.drivereasy.com/wp-content/uploads/2019/03/image-124.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Apex Legends players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -55,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -72,6 +42,13 @@ There’re two ways to update your Nvidia graphics driver:
 Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Update your Nvidia graphics driver automatically
 
@@ -90,17 +67,12 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
@@ -124,11 +96,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Now, it’s time to enjoy Apex Legends with your Nvidia graphics card!
@@ -179,18 +152,6 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
 #### Fix 5: Install the latest Apex Legends patch
@@ -209,6 +170,13 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-345-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if this fix works. If not, you may need to reinstall Apex Legends.
 
 #### Fix 6: Reinstall Apex Legends
@@ -222,11 +190,12 @@ You can follow the instructions below to install the latest game patch:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -241,8 +210,6 @@ You can follow the instructions below to install the latest game patch:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,8 +217,22 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-efficiently-tagging-dates-in-image-files-for-2024/"><u>[New] Efficiently Tagging Dates in Image Files for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-instagrams-question-marker-magic/"><u>[Updated] 2024 Approved Navigating Instagram’s Question Marker Magic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-production-of-fb-ad-videos-with-complimentary-kit/"><u>[Updated] Effortless Production of FB Ad Videos with Complimentary Kit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-simplicity-in-ipad-screen-saving-tactics-for-2024/"><u>[Updated] Unveiling Simplicity in iPad Screen Saving Tactics for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-recovery-display-issue-cleared-by-nvidia/"><u>Driver Recovery: Display Issue Cleared by Nvidia</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-full-featured-sierra-drives-files-and-more/"><u>In 2024, Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-webcam-usage-for-macbooks/"><u>In 2024, Ultimate Webcam Usage for MacBooks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-high-performance-hardware-by-toms-tech-experts/"><u>In-Depth Analysis of High-Performance Hardware by Tom's Tech Experts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-past-white-screen-in-sims-world/"><u>Push Past White Screen in Sims World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speed-up-your-system-with-latest-nvidia-driver/"><u>Speed Up Your System with Latest Nvidia Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-blue-screen-freeze-fix-windows-wdf-drivers/"><u>Stop Blue Screen Freeze: Fix Windows WDF Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-gpu-integration-on-new-win11-laptop/"><u>Successful GPU Integration on New Win11 Laptop</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-prime-listening-guide-to-youtube-standards/"><u>The Prime Listening Guide to YouTube Standards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmistakable-window-visibility/"><u>Unmistakable Window Visibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display!</u></a></li>
+</ul></div>
 

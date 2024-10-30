@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Lights Up: End of the Shadows"
-date: 2024-09-09T02:13:41.035Z
-updated: 2024-09-10T02:13:41.035Z
+date: 2024-10-28T20:25:00.231Z
+updated: 2024-10-29T21:15:00.849Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Lenovo Gaming Laptop,Premium Notebook Monitors with RGB Lighting,Advan
 thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f319881184a8db53e138fd0a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Lights Up: End of the Shadows
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
@@ -39,18 +33,6 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
@@ -97,22 +79,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -121,12 +91,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -137,16 +101,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -157,35 +122,31 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -201,16 +162,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
@@ -220,11 +189,12 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Follow the on-screen instructions to complete the system restore process.
 
  5) Restart your computer to see if the black screen issue has been fixed.
@@ -242,8 +212,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,8 +219,26 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-youtube-to-igtv-top-methods-unveiled/"><u>[New] 2024 Approved From YouTube to IGTV Top Methods Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-15-best-youtube-movies-channels-for-you-to-kill-time/"><u>[Updated] 2024 Approved 15 Best YouTube Movies Channels for You to Kill Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-dialogues-the-key-to-listener-retention/"><u>2024 Approved Innovative Dialogues The Key to Listener Retention</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoiding-common-greenscreen-errors-in-online-broadcasts/"><u>Avoiding Common Greenscreen Errors in Online Broadcasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-your-lenovo-laptops-screen/"><u>Brighten Up Your Lenovo Laptop's Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-drm-protected-m4v-files-to-mp4-6-easy-steps-for-mac-users/"><u>Convert DRM-Protected M4V Files to MP4: 6 Easy Steps for Mac Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/designers-dream-a-personal-computing-tower-that-brews-fresh-coffee-equipped-with-an-onboard-roaster-and-grinder/"><u>Designer's Dream: A Personal Computing Tower That Brews Fresh Coffee, Equipped With an Onboard Roaster and Grinder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-window-interface-on-expanded-windows-10-monitors/"><u>Enhancing Window Interface on Expanded Windows 10 Monitors</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfx-init-unsuccessful-attempt/"><u>GFX Init: Unsuccessful Attempt</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-effective-is-chatgpt-at-teaching-the-art-of-healthy-cuisine-creation/"><u>How Effective Is ChatGPT at Teaching the Art of Healthy Cuisine Creation?</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-motorola-moto-g14-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Motorola Moto G14 FRP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/managing-gpu-anomalies-without-causing-total-shutdown/"><u>Managing GPU Anomalies Without Causing Total Shutdown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/re-esturing-nvidia-display-commands/"><u>Re-Esturing NVIDIA Display Commands</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-screen-flicker-on-surface-pro-7/"><u>Remedying Screen Flicker on Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-halt-in-nvidia-installation/"><u>Resolved: Halt in NVIDIA Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-system-update-intel-3000-win11-driver/"><u>Streamline Your System: Update Intel 3000 Win11 Driver</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G Stylus (2023)</u></a></li>
+</ul></div>
 

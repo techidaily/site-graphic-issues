@@ -1,7 +1,7 @@
 ---
 title: Remedying Pixelated Fonts in Far Cry 6
-date: 2024-09-09T02:15:14.255Z
-updated: 2024-09-10T02:15:14.255Z
+date: 2024-10-28T01:46:37.157Z
+updated: 2024-10-30T03:11:38.087Z
 tags:
   - win11
   - win10
@@ -24,12 +24,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  The broken texture is a known bug and we can expect an official patch from Ubisoft, hopefully soon. As for now, there are some temporary workarounds you can try:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Meet the system requirements
 
  Far Cry 6 is a bit demanding if you want the best graphics quality, but it’s still playable for 1080P at 30 FPS.
@@ -56,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  If your PC supports higher configurations, check out the [2K and 4K specs](https://www.ubisoft.com/en-us/help/far-cry-6/gameplay/article/recommended-configurations-for-higher-resolutions-in-far-cry-6/000098976) here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disable/Uninstall the HD texture pack
 
  Many gamers find that the HD texture pack has triggered the blurry texture problem. Ubisoft also explicitly points out that the HD texture pack requires at least 11 GB VRAM, so you may encounter performance issues if you install and run HD texture pack with lower VRAM.
@@ -84,18 +72,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 [4: Clean the DirectX cache](#fix4)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Run as admin
 
  A quick fix you can try first is to run the game executable as administrator. It could provide the required administrator rights to Far Cry 6 and may help with the texture issue. Here’s how to do it:
@@ -105,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  It’s always best to keep your graphics driver up-to-date for gaming. An outdated or faulty graphics driver could trigger bugs and affect the game performance.
@@ -132,22 +102,24 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your PC for the new driver to take effect. If this doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Turn on high graphics performance setting for the game
 
  You can try to tweak the graphics performance preference setting to allow the game to fully utilize GPU. Thereby, your graphics will be running in the high-performance mode for Far Cry 6\. You can switch between different modes to see which one helps more with the game performance in general.
@@ -155,26 +127,22 @@ If this doesn’t help, try the next fix.
 1. In the search bar on the taskbar, type **graphics** then select **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-06.jpg)
 2. Click **Browse** and add FarCry6.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-05-23.jpg)
 3. Once the game executable is added, click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 If this doesn’t help, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Clean the DirectX cache
 
  According to a Reddit user, cleaning the DirectX cache may fix the blurry texture issue. If new cache is created, the broken texture issue may return, and you’ll have to clean the cache again. Although it may not work for you, or it’s just a temporary workaround, it’s still worth a try. Here’s how to do it:
@@ -183,30 +151,35 @@ If this doesn’t help, there’s one more fix you can try.
 2. Type in**cleanmgr** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-24.png)
 3. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-32.png)
 4. Tick the checkbox of**DirectX Shader Cache** (and other DirectX cache if it shows on your PC), then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-46-1.png)
 5. Click**Delete Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-22_17-09-54-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
  Hopefully this article helps! If you have any questions or suggestions, feel free to drop a comment down below!
@@ -220,8 +193,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,8 +200,26 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-crafty-escapades-discover-top-imaginative-venues-for-2024/"><u>[New] Crafty Escapades Discover Top Imaginative Venues for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-through-grids-in-google-meet-webinar/"><u>[New] Navigating Through Grids in Google Meet Webinar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>2024 Approved Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-critical-error-c1900101-on-new-os/"><u>Addressing Critical Error C1900101 on New OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-xs-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone XS Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-transformation-the-terminal-takes-priority/"><u>Command Center Transformation: The Terminal Takes Priority</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-mod-conflicts-with-civ-5-pc/"><u>Fixing Mod Conflicts with Civ 5 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-x7b-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor X7b for Free? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-array-of-unplugged-digital-pastimes-for-2024/"><u>Prime Array of Unplugged Digital Pastimes for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-at-a-glance-speedy-fixes-for-no-signal/"><u>Reconnect at a Glance: Speedy Fixes for No Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-without-struggle-displayport-fix-guide/"><u>Reconnect Without Struggle: DisplayPort Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-absent-display-in-win10/"><u>Resolving Absent Display in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818017200-switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-smart-routers-can-tp-links-archer-ax6000-outshine-the-mqknighthawk-ax12/"><u>The Ultimate Guide to Smart Routers: Can TP-Link's Archer AX6000 Outshine the MQKNightHawk AX12</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-werfaultexe-problems-swiftly-expert-tips-inside/"><u>Troubleshoot and Fix werFault.exe Problems Swiftly – Expert Tips Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-boots-with-5-key-fixes-to-security-errors/"><u>Unlock Windows Boots with 5 Key Fixes to Security Errors</u></a></li>
+</ul></div>
 

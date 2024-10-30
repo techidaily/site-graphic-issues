@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Stuck Display Scales: Solution for Win11 Users"
-date: 2024-09-09T02:16:19.530Z
-updated: 2024-09-10T02:16:19.530Z
+date: 2024-10-23T00:20:11.396Z
+updated: 2024-10-30T02:51:52.514Z
 tags:
   - win11
   - win10
@@ -14,28 +14,10 @@ keywords: Stuck Display Scales on Windows,Resolve Win11 Screen Issues,Fix Displa
 thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996ca5b9b75ea6d971b44c71c22.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Stuck Display Scales: Solution for Win11 Users
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996c
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -65,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
@@ -87,11 +77,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -107,11 +98,18 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3:**Turn on GPU Scaling**
 
  You can also enable GPU scaling to find out a screen resolution that fits your screen.
@@ -126,12 +124,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -161,8 +153,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,8 +160,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-lecture-transcription-at-zero-expense/"><u>[New] Lecture Transcription at Zero Expense</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-crafting-captivating-facebook-stories/"><u>[New] The Art of Crafting Captivating Facebook Stories</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-internal-cameras-fixed-and-running/"><u>ASUS Internal Cameras: Fixed and Running</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-narzo-n53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Narzo N53 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easily-minimize-game-lag/"><u>Easily Minimize Game Lag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-extended-window-interface-on-windows-10/"><u>Fixing Extended Window Interface on Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-guide-locating-the-heart-of-youtube-video-management/"><u>In 2024, The Ultimate Guide Locating the Heart of YouTube Video Management</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-acer-nitro-5-in-prime-condition-driver-update-instructions-for-best-performance/"><u>Keeping Your Acer Nitro 5 in Prime Condition - Driver Update Instructions for Best Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-x10-ad7200-router-exposed-revolutionizing-home-internet-with-high-speed-wireless/"><u>Netgear Nighthawk X10 AD7200 Router Exposed: Revolutionizing Home Internet with High-Speed Wireless</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blank-window-in-windows-10/"><u>Overcoming Blank Window in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-sims-white-screens-quickly/"><u>Resolve Sims' White Screens Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-launch-issues/"><u>Resolving Direct3D Launch Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-windows-10-screen-flashing-woes/"><u>Stop Windows 10 Screen Flashing Woes</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-leading-free-image-editors-10-essential-androidios-tools/"><u>The Leading Free Image Editors - 10 Essential Android/iOS Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-unrecognized-logitech-keyboards-on-windows-11/"><u>Troubleshooting Guide: Fixing Unrecognized Logitech Keyboards on Windows 11</u></a></li>
+</ul></div>
 

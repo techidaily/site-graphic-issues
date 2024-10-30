@@ -1,7 +1,7 @@
 ---
 title: DirectX12 Barrier Preventing New Halo Infinite Opening
-date: 2024-09-04T07:09:46.975Z
-updated: 2024-09-05T07:09:46.975Z
+date: 2024-10-26T18:35:33.766Z
+updated: 2024-10-30T02:19:15.898Z
 tags:
   - win11
   - win10
@@ -26,18 +26,19 @@ thumbnail: https://thmb.techidaily.com/c71ce8851536aefe75546ef7e7f6082e226191710
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  According to the error message from Halo Infinite, apparently, you need to update the graphics driver to the latest version to meet the requirements.
@@ -79,11 +80,12 @@ To do so, first visit the website of your GPU manufacturer:
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -113,28 +115,18 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -150,6 +142,13 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -162,22 +161,18 @@ If this fix doesn’t work, move to the next one.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -186,8 +181,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,8 +188,18 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-practices-for-youtube-thumbnail-dimensions/"><u>[Updated] Best Practices for YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-mix-fold-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Mix Fold 3 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-advice-establishing-daily-mantra-rituals/"><u>AI-Powered Advice: Establishing Daily Mantra Rituals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-flickering-screen-phenomena-in-acer-laptops/"><u>Combatting Flickering Screen Phenomena in Acer Laptops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725284758711-digiarty-dvd/"><u>Digiartyの公式ブログ - DVDコピーガイドとそのセキュリティ</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-your-visual-experience-updated-drivers-from-nvidia-210/"><u>Elevate Your Visual Experience: Updated Drivers From Nvidia 210</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-writing-skills-on-a-windows-machine/"><u>Elevate Your Writing Skills on a Windows Machine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-incompatibility-in-overwatch/"><u>Overcoming Graphics Incompatibility in Overwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-fullscreen-settings-for-windows-10/"><u>Perfecting Fullscreen Settings for Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-hot-40i-by-fonelab-android-recover-data/"><u>Recover lost data from Hot 40i</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-players-handbook-to-conquering-royal-match/"><u>The Ultimate Player's Handbook to Conquering Royal Match</u></a></li>
+</ul></div>
 

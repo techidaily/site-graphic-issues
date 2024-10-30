@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence"
-date: 2024-10-20T18:41:54.913Z
-updated: 2024-10-23T17:57:54.940Z
+date: 2024-10-28T01:53:22.672Z
+updated: 2024-10-29T22:52:06.463Z
 tags:
   - win11
   - win10
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -79,20 +66,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,10 +111,10 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
@@ -142,6 +122,13 @@ You need to check 2 elements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -157,6 +144,13 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -170,15 +164,15 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -199,24 +193,16 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-5-ways-to-record-webinar-for-free/"><u>[Updated] 5 Ways to Record Webinar for Free</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tailor-your-subscribe-bar-a-quick-filmora-method-for-youtube-authentics/"><u>[Updated] In 2024, Tailor Your Subscribe Bar A Quick Filmora Method for YouTube Authentics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-comprehensive-directory-extracting-yt-template-videos-online/"><u>2024 Approved Comprehensive Directory Extracting YT Template Videos Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-writers-guide-embedding-images-in-articles-without-spending/"><u>2024 Approved Writers' Guide Embedding Images in Articles Without Spending</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-crashes-without-total-pc-shutdown/"><u>Addressing Graphics Crashes Without Total PC Shutdown</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-persistent-fluctuating-light-on-asus-laptops/"><u>Banish Persistent Fluctuating Light on ASUS Laptops</u></a></li>
-<li><a href="https://fox-search.techidaily.com/discover-the-ultimate-list-of-2020s-top-7-music-visualization-tools-to-enhance-your-playlist-viewing/"><u>Discover the Ultimate List of 2020'S Top 7 Music Visualization Tools to Enhance Your Playlist Viewing!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-asus-lcd-glitches-today/"><u>Eliminate ASUS LCD Glitches Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-crash-episodes-in-fallout-4-on-pc/"><u>End Crash Episodes in Fallout 4 on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-the-light-in-a-dark-laptop-monitor/"><u>Finding the Light in a Dark Laptop Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flip-monitor-settings-for-optimal-view/"><u>Flip Monitor Settings for Optimal View</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c110-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nokia C110 Phone without Any Data Loss</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-cursor-chaos-win11s-troubleshooting-path/"><u>Navigating Cursor Chaos: Win11's Troubleshooting Path</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-comservice-disruption-on-windows-os/"><u>Overcoming COMService Disruption on Windows OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-connectivity-hurdles-getting-your-msi-mystic-light-running-on-windows-again/"><u>Overcoming Connectivity Hurdles - Getting Your MSI Mystic Light Running on Windows Again</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-non-selectable-text-within-windows-pdf-files/"><u>Rectify Non-Selectable Text Within Windows PDF Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-system-and-graphics-hurdle-on-win10geforce-7025/"><u>Resolving System & Graphics Hurdle on Win10/GeForce 7025</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-enhanced-nvidia-geforce-driver-release/"><u>Windows 10 Upgrade: Enhanced NVIDIA GeForce Driver Release</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-become-an-elite-joiner-tips-for-tiktok-lives/"><u>[New] Become an Elite Joiner Tips for TikTok Lives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-facebooks-copyright-enforcement-on-live-feeds/"><u>[Updated] 2024 Approved Navigating Facebook's Copyright Enforcement on Live Feeds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sounding-off-instagrams-copyright-rules/"><u>2024 Approved Sounding Off Instagram's Copyright Rules</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-smart-photo-editor-a-look-into-anthropics-latest-software/"><u>Comprehensive Review of the Smart Photo Editor: A Look Into Anthropics' Latest Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-sims-4-blackout-bug/"><u>Eliminate Sims 4 Blackout Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-flicker-the-key-to-a-smoother-windows-7-display/"><u>Fixing Flicker: The Key to a Smoother Windows 7 Display</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-update-or-repair-compromised-oculus-graphics-drivers/"><u>Fixing Issues: How to Update or Repair Compromised Oculus Graphics Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-play-7t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Play 7T</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-essential-guide-to-intel-gpu-driver-refreshment-in-windows/"><u>The Essential Guide to Intel GPU Driver Refreshment in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-no-signal-fast-fix-for-dp-connections/"><u>Troubleshoot No Signal: Fast Fix for DP Connections</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-essentials-fix-continuous-pc-gameplay-interruptions-in-horizon-forbidden-west-full-version/"><u>Troubleshooting Essentials: Fix Continuous PC Gameplay Interruptions in 'Horizon Forbidden West' Full Version</u></a></li>
 </ul></div>
 

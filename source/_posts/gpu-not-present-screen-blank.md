@@ -1,7 +1,7 @@
 ---
 title: GPU Not Present, Screen Blank
-date: 2024-09-04T07:08:45.978Z
-updated: 2024-09-05T07:08:45.978Z
+date: 2024-10-25T19:04:15.942Z
+updated: 2024-10-30T02:31:33.938Z
 tags:
   - win11
   - win10
@@ -49,17 +49,12 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -81,17 +76,12 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -99,17 +89,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
@@ -117,11 +102,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Delete the config.dat file of your game
 
  The Config.dat file is created by the game manufacturer that primarily stores settings that are chosen via the game’s settings menu. Generally speaking, the Config.dat file resides here: Documents\\My Games\\the name of your game (like Terraria).
@@ -130,22 +116,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
@@ -163,8 +137,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,8 +144,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-obs-adjustments-and-tweaks/"><u>[New] Affordable OBS Adjustments and Tweaks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-discover-secret-gems-the-ultimate-guide-to-tiktoks-best-and-mystery-emojis/"><u>[New] Discover Secret Gems The Ultimate Guide to TikTok's Best & Mystery Emojis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-top-10-melodies-tiktoks-enduring-tracks-for-the-year-2-folk-inspired/"><u>[Updated] In 2024, Top 10 Melodies TikTok's Enduring Tracks for the Year (2 Folk-Inspired)</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-keyboard-input-lag-on-windows-10-and-11/"><u>7 Ways to Fix Keyboard Input Lag on Windows 10 and 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-device-visual-stability-no-more-flickering-issues/"><u>Dell Device Visual Stability: No More Flickering Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-drivers-error-43-sorted/"><u>Device Drivers' Error #43 Sorted</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G04?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pc-compatibility-linking-the-playstation-vr-system-effectively/"><u>PC Compatibility: Linking the PlayStation VR System Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-authentication-failures/"><u>Remedying Windows Authentication Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-screen-stable-workflows/"><u>Steady Screen, Stable Workflows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stream-problems-solved-in-windows-10-update/"><u>Stream Problems Solved in Windows 10 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-issue-in-windows-successful-fix-applied/"><u>UI Graphics Issue in Windows: Successful Fix Applied</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-lowdown-on-vn-video-editor-for-pc-a-brief-but-informative-review/"><u>Updated In 2024, The Lowdown on VN Video Editor for PC A Brief but Informative Review</u></a></li>
+</ul></div>
 

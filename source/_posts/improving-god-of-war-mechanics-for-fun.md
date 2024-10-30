@@ -1,7 +1,7 @@
 ---
 title: Improving 'God of War' Mechanics for Fun
-date: 2024-09-09T02:16:07.446Z
-updated: 2024-09-10T02:16:07.446Z
+date: 2024-10-27T17:15:47.061Z
+updated: 2024-10-30T00:36:27.422Z
 tags:
   - win11
   - win10
@@ -14,28 +14,10 @@ keywords: Enhanced God of War Gameplay Experience,Improved PvP Mech Design in Go
 thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86398a63eb813197af80732b2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Improving 'God of War' Mechanics for Fun
 
  God of War – a famous action-adventure game developed by Santa Monica Studios and PlayStation Studios. It’s a great game though not perfect. The game has multiple issues and the performance issue is one of them. If you’re troubled by performance issue, this post is here to help.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Table of contents
 
 * [Fix 1: Check the system requirements](#f1)
@@ -56,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -69,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -91,35 +87,11 @@ Here’s how:
 2. Right-click **God of War** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t fix the problem, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Check for system updates
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
@@ -127,13 +99,14 @@ If this doesn’t fix the problem, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key and the I (i) key** to open the Windows Settings. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -155,14 +128,29 @@ If the latest updates don’t work for you, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -174,8 +162,6 @@ If the latest updates don’t work for you, try the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,8 +169,24 @@ If the latest updates don’t work for you, try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-expertly-curated-5-best-android-screen-capture-options-for-2024/"><u>[New] Expertly Curated 5 Best Android Screen Capture Options for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[New] In 2024, OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>[Updated] 2024 Approved Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y100-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y100 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unclear-windows-display/"><u>Fix: Unclear Windows Display</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-rx-6800-xt-driver-for-your-pc-on-windows-111087-step-by-step-downloads-and-setup/"><u>Get the Latest AMD RX ‌6800 XT Driver for Your PC on Windows 11/10/8/7 – Step-by-Step Downloads & Setup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/iqiyi-video-downloader-guide-step-by-step-instructions-for-easy-iqiyi-content-retrieval/"><u>IQIYI Video Downloader Guide: Step-by-Step Instructions for Easy iQIYI Content Retrieval</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-touchscreen-glitch-now-fixed/"><u>Lenovo Touchscreen Glitch Now Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats/"><u>New In 2024, DVD to Digital How to Convert DVD to Digital Video File Formats?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-troubles-civ-5-pc/"><u>Overcoming Graphics Troubles, Civ 5-PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-graphics-use-on-modern-windows-systems/"><u>Reactivating Graphics Use on Modern Windows Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/simplified-methods-for-google-meet-recordings/"><u>Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-shimmer-a-handy-guide-for-windows-7-users/"><u>Stop Screen Shimmer – A Handy Guide for Windows 7 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-c1900101-error-in-windows-upgrade/"><u>Troubleshooting C1900101 Error in Windows Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
+</ul></div>
 

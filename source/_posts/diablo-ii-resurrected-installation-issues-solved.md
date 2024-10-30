@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2024-10-16T17:39:26.720Z
-updated: 2024-10-24T03:28:36.046Z
+date: 2024-10-24T02:12:03.045Z
+updated: 2024-10-30T03:03:46.815Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/cable-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Ensure your computer is not on mute
 
  When you run into audio issues on your computer, another thing to do is to test the sound from ANY application. You can do this by opening local multimedia files, such as audio or video played in Windows Media Player, to see if you get sound from them. If you hear sound from other apps, skip to **[Method 1](https://tools.techidaily.com/drivereasy/download/)**  to fix your issue.
@@ -64,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the **Playback tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-226.png)
@@ -80,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the **OK** button.
@@ -115,6 +101,13 @@ If your issue persists after the reboot, then go ahead with the next fix.
  2) Type**inetcpl.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
@@ -161,16 +154,16 @@ If the sound isn’t coming back, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
+<span id="1982457">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -179,19 +172,19 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the sound issue isn’t resolved, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
 
@@ -203,15 +196,22 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/audio-issues.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Next**  and wait for the scans to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/run-audio-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to fix the Twitch audio issue.
@@ -239,24 +239,22 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-dissecting-vivas-multimedia-interface/"><u>[New] 2024 Approved Dissecting Viva's Multimedia Interface</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-top-10-invisible-peers-for-hidden-stories/"><u>[New] 2024 Approved Top 10 Invisible Peers for Hidden Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-undo-youtubes-timeline-with-our-4-key-methods/"><u>[New] Undo YouTube's Timeline with Our 4 Key Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-to-avoid-obs-framing-errors-for-2024/"><u>[Updated] Essential Tips to Avoid OBS Framing Errors for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-win11-elite-screen-recording-software-for-2024/"><u>[Updated] Win11 Elite Screen Recording Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-code-fixing-windows-11-emails-html-anomalies/"><u>Decoding the Code: Fixing Windows 11 Email's HTML Anomalies</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-windows-computers/"><u>Download and Install Atheros Network Adapter Drivers on Windows Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flipping-filmmaking-on-your-android-device-for-2024/"><u>Flipping Filmmaking on Your Android Device for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-resolve-youtube-playback-issues-when-videos-wont-start/"><u>How to Resolve YouTube Playback Issues When Videos Won't Start</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-video-tips-trim-to-size-with-precision-cutting/"><u>IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-top-10-best-free-manga-sites-to-read-online/"><u>New 2024 Approved Top 10 Best Free Manga Sites to Read Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-nvstreamuseraagentexe-errors-in-windows-a-comprehensive-guide/"><u>Resolving NvStreamUseraAgent.exe Errors in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-the-youtube-playback-issue-how-to-fix-videos-that-wont-load/"><u>Solving the YouTube Playback Issue: How to Fix Videos That Won't Load</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/story-1-the-misunderstanding-of-dupuytrens-contracture/"><u>Story 1: The Misunderstanding of Dupuytren's Contracture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/story-3-the-misdiagnosis-of-de-quervains-tenosynovitis/"><u>Story 3: The Misdiagnosis of De Quervain's Tenosynovitis</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-amd-gpu-detection-issues-in-windows-10-solutions-and-tips/"><u>Troubleshooting AMD GPU Detection Issues in Windows 10: Solutions & Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-playable-youtube-content-effective-solutions-for-common-problems/"><u>Troubleshooting Non-Playable YouTube Content: Effective Solutions for Common Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-tips-overcoming-the-windows-10-black-screen-dilemma-after-an-upgrade/"><u>Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncover-the-simple-trick-to-identifying-your-screens-pixel-dimensions-a-quick-guide/"><u>Uncover the Simple Trick to Identifying Your Screen's Pixel Dimensions: A Quick Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-10-critical-strategies-for-dynamic-cover-designs/"><u>[New] 10 Critical Strategies for Dynamic Cover Designs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tackling-dxgkrnlsys-win-error/"><u>[Tech] Tackling dxgkrnl.sys Win Error</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expert-picks-15-innovative-mounts-to-elevate-your-gopro/"><u>2024 Approved Expert Picks 15 Innovative Mounts to Elevate Your GoPro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95946814-9781925515664-confucius/"><u>Confucius | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvdmp4-xmedia-recode/"><u>DVDビデオからMP4への変換: XMedia Recode使い方ガイド</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guidelines-for-quelling-hp-monitor-flares/"><u>Guidelines for Quelling HP Monitor Flares</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hogwarts-legacy-top-strategies-to-eliminate-stuttering-problems-as-of-2024/"><u>Hogwarts Legacy: Top Strategies to Eliminate Stuttering Problems as of 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-the-c1900101-problem-in-win10-setup/"><u>How To Fix the C1900101 Problem in Win10 Setup</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dive-into-picsart-comprehensive-analysis-release/"><u>In 2024, Dive Into PicsArt - Comprehensive Analysis Release</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-narzo-n55-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme Narzo N55 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-clearance-how-to-discard-graphics-drivers-fast/"><u>Quick Clearance: How to Discard Graphics Drivers, Fast</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphic-device-errors/"><u>Resolved Graphic Device Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-5-book-video-promotions-ever-made-for-2024/"><u>The Best 5 Book Video Promotions Ever Made for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-civ-5-errors-pc/"><u>Troubleshooting Civ 5 Errors PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-potential-gameplay-improvements-in-god-of-war/"><u>Unlocking Potential: Gameplay Improvements in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-and-nvidia-geforce-7025-clash-resolved/"><u>Windows 11 & NVidia GeForce 7025 Clash - Resolved</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubes-payment-system-a-monthly-breakdown/"><u>YouTube’s Payment System A Monthly Breakdown</u></a></li>
 </ul></div>
 

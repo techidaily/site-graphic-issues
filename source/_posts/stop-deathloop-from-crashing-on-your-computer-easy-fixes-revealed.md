@@ -1,7 +1,7 @@
 ---
 title: Stop Deathloop From Crashing on Your Computer - Easy Fixes Revealed!
-date: 2024-10-22T00:03:49.062Z
-updated: 2024-10-23T20:20:42.782Z
+date: 2024-10-27T16:43:39.435Z
+updated: 2024-10-29T17:37:18.868Z
 tags:
   - win11
   - win10
@@ -31,16 +31,16 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -71,13 +71,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/My-game-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click your**Star Wars: Battlefront 2** .
 
  3) Select**Repair** .
@@ -100,16 +93,16 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -142,6 +135,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 4) Restart your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reset Battlefront 2
 
  If you fail to stop your Battlefront 2 from crashing, you can try to reset your Battlefront 2 settings. Sometimes your game crashing can be triggered by certain settings. Here’s how to do it:
@@ -153,13 +153,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 3) Play Battlefront 2 again to test the issue.
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Revert back to DX11
 
@@ -191,6 +184,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable antivirus software temporarily
 
  Since Battlefront 2 consumes a lot of memory and CPU usage when it’s running, many third-party antivirus applications may regard it as a potential threat and cause Battlefront 2 crashing issues.
@@ -211,10 +211,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 If the game keeps crashing, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
@@ -228,10 +228,10 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
@@ -243,10 +243,10 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
@@ -315,15 +315,19 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-inside-the-world-of-apeaksofts-screens-recorder-update-2023/"><u>[New] In 2024, Inside the World of Apeaksoft's Screens Recorder Update 2023</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advanced-windows-configured-correctly-on-10/"><u>Advanced Windows Configured Correctly on 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificinas-intelligentes-5-momentos-en-el-lado-del-ciberdelincuencia/"><u>Artificinas Intelligentes: 5 Momentos en El Lado Del Ciberdelincuencia</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-differences-between-asus-tuf-proart-and-prime-models/"><u>Dissecting Differences Between Asus, Tuf, ProArt & Prime Models</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-askew-screen-issues-a-step-by-step-approach-for-clear-computer-monitors/"><u>Fix Askew Screen Issues: A Step-by-Step Approach for Clear Computer Monitors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-displays-unresponsive-fix-found/"><u>Lenovo Displays Unresponsive - Fix Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-displaying-issue-in-windows-10-fullview/"><u>Screen Displaying Issue in Windows 10 Fullview</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-meets-geforce-peacefully-on-7025nforce-630a/"><u>Windows Meets GeForce Peacefully on 7025/nForce 630A</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-in-class-memetics-engine-for-2024/"><u>[New] Best-in-Class Memetics Engine for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-soothing-games-to-ease-anxiety-for-2024/"><u>[New] Top 10 Soothing Games to Ease Anxiety for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-12-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 12 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calming-the-currents-of-pro-7s-display/"><u>Calming the Currents of Pro 7'S Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-steps-to-transform-iphone-7-into-a-recorder-for-2024/"><u>Easy Steps to Transform iPhone 7 Into a Recorder for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-laptop-gpu-initialization/"><u>Resolved: Windows 11 Laptop GPU Initialization</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-fixing-critical-error-c1900101-in-windows-11/"><u>Step-by-Step Guide to Fixing Critical Error C1900101 in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-for-resolving-lenovo-screenspeed-anomalies/"><u>Techniques for Resolving Lenovo Screenspeed Anomalies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-vpn-providers-of-2024-comprehensive-reviews-and-comparisons-by-industry-experts-techradar/"><u>Top-Ranking VPN Providers of 2024: Comprehensive Reviews & Comparisons by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-with-pexels-finding-fabulous-images-for-2024/"><u>Unleashing Creativity with Pexels Finding Fabulous Images for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817924564-wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-wait-fixed-amd-and-tarkov-graphic-snags/"><u>Zero-Wait Fixed: AMD & Tarkov Graphic Snags</u></a></li>
 </ul></div>
 

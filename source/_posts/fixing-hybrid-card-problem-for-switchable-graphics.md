@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2024-10-22T04:20:55.662Z
-updated: 2024-10-24T03:19:20.769Z
+date: 2024-10-24T19:58:43.827Z
+updated: 2024-10-29T21:19:00.341Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -51,22 +44,15 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -81,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -105,11 +84,25 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
 
@@ -117,18 +110,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -137,6 +130,13 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -157,22 +157,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-enhancing-videos-with-professional-voiceovers/"><u>[New] Enhancing Videos with Professional Voiceovers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-z-flip-5-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/alert-over-opengl-driver-error-resolved-by-nvidias-effort/"><u>Alert Over: OpenGL Driver Error Resolved by Nvidia's Effort</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-a-step-by-step-tutorial-on-chatgpt-and-microsoft-word-synergy/"><u>Boost Your Productivity: A Step-by-Step Tutorial on ChatGPT and Microsoft Word Synergy</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817588692-flash-free-visual-experience-now/"><u>Flash-Free Visual Experience Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/from-fuzzy-to-sharp-the-guide-to-fixing-your-zoom-cam-today/"><u>From Fuzzy to Sharp: The Guide to Fixing Your Zoom Cam Today</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-video-revenue-battlefield-dm-versus-yo-analysis/"><u>In 2024, Video Revenue Battlefield Dm Versus Yo Analysis</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-inconsistent-flashing-issue-resolved-fixed/"><u>Laptop's Inconsistent Flashing: Issue Resolved [Fixed]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-displays-reactivated-fixed-issues/"><u>Lenovo Displays Reactivated, Fixed Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reaching-sonic-waters-the-incredible-speed-captured-in-a-canisters-stream/"><u>Reaching Sonic Waters: The Incredible Speed Captured in a Canister's Stream</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steady-screen-a-guide-for-pro-7-owners/"><u>Steady Screen: A Guide for Pro 7 Owners</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/transformation-video-avancee-convertir-votre-collection-de-dvd-en-fichiers-mp4-avi-facilement-utilisables-sur-iphone-ou-android-logiciel-video-winx-gratuit.16/"><u>Transformation Vidéo Avancée: Convertir Votre Collection De DVD en Fichiers MP4, AVI Facilement Utilisables Sur iPhone Ou Android - Logiciel Vidéo WinX Gratuit</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-personal-narratives-best-practices-for-video-praise-for-2024/"><u>Transforming Personal Narratives Best Practices for Video Praise for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-gpu-activity-in-win1011-systems/"><u>Troubleshooting Non-GPU Activity in Win10/11 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xilinx-driver-alerted-corrected-for-continued-use/"><u>XILINX Driver Alerted, Corrected for Continued Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-unrooted-audio-4-easy-steps-for-android-for-2024/"><u>[Updated] Capturing Unrooted Audio 4 Easy Steps for Android for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-luminous-lenses-the-ultimate-10-4k-smartphone-cameras-reviewed/"><u>[Updated] Luminous Lenses The Ultimate 10 4K Smartphone Cameras Reviewed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-xripadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone XR/iPad/iPod</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-com-interface-error-windows-update/"><u>Corrected COM Interface Error, Windows Update</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-compatible-drivers-for-hp-officejet-pro-69x8-series/"><u>Download Compatible Drivers for HP OfficeJet Pro 69X8 Series</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-error-overcome-display-ready/"><u>Driver Error Overcome - Display Ready</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-remove-unwanted-display-wobblyness/"><u>Easy Steps to Remove Unwanted Display Wobblyness</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-hd-video-capture-software-listings-for-2024/"><u>Elite HD Video Capture Software Listings for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-load-error-for-amd-on-win10-post-update/"><u>Fixed Load Error for AMD on Win10 Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-video-driver-problem-43/"><u>Overcoming Video Driver Problem #43</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/smooth-playback-eradicate-stuck-videos-on-vlc/"><u>Smooth Playback: Eradicate Stuck Videos on VLC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-windows-11-screen-view/"><u>Stable Windows 11 Screen View</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-clear-vision-crusade-fighting-off-flickers/"><u>The Clear Vision Crusade: Fighting Off Flickers</u></a></li>
+<li><a href="https://win-info.techidaily.com/titres-seo-syncnez-votre-base-de-donnees-utilisant-robocopy-guide-pratique-et-facile/"><u>Titres SEO : Syncnez Votre Base De Données Utilisant Robocopy - Guide Pratique Et Facile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/jpegpef-movavi/"><u>お使いワザ！JPEGファイルをPEFに自由変換 -Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Remedying Shadows on Smartphone Screens
-date: 2024-10-17T23:21:09.228Z
-updated: 2024-10-23T16:20:52.552Z
+date: 2024-10-26T21:43:05.566Z
+updated: 2024-10-30T03:16:53.246Z
 tags:
   - win11
   - win10
@@ -69,13 +69,34 @@ It is also possible that your laptop screen issue comes from your laptop memory 
 
 It has gone wrong and stops your laptop from completing the self test. You can try reinstalling your laptop memory and see if this can fix your screen issue. To do so:**1)** Turn off your laptop and disconnect the**power cable**and the**battery**from your device.**2)**Remove the**cover**on the**memory module compartment**on the back of your laptop. (You may need to check the manual or the official guides of your product for instructions on how to do this.)**3)** Remove the**memory**from your laptop.**4)**Rub the**golden contact**of your memory with an**eraser**. (This can clean the golden contact of your memory.)**5)** Install the**memory**back to your laptop.**6)**Place the**memory module compartment cover**back to your laptop.**7)**Turn on your laptop and see if your issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Have your laptop serviced
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Restore your system from a restore point
 
@@ -83,22 +104,21 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
@@ -109,36 +129,22 @@ And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Update your device driver
 
 You may get various hardware issues (not just this black screen one) if your device drivers on your computer are wrong or out of date. To keep your laptop healthy, you should make sure your drivers are updated. You can update your drivers manually, but the process can be very time- and energy-consuming. If you want it to be easier, you can use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b1606c48.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can download and install your drivers by using either Free or [**Pro** **version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes only**2** clicks (and you get**full support**and a**30-day money back guarantee**).
 
@@ -160,20 +166,24 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/1719817906327-solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-slumber-solutions-through-asmr-advisors-choice/"><u>[Updated] 2024 Approved Slumber Solutions Through ASMR Advisors' Choice</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enriched-video-presentation-implementing-lc-and-bb-on-social-platforms-for-2024/"><u>[Updated] Enriched Video Presentation Implementing LC and BB on Social Platforms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-illuminated-imagery-photographic-collages-that-shine/"><u>[Updated] Illuminated Imagery Photographic Collages That Shine</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-quickstep-into-viral-audio-youtubes-short-musical-journey/"><u>[Updated] In 2024, The Quickstep Into Viral Audio YouTube's Short Musical Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-is-integrating-itop-into-your-toolkit-advisable/"><u>[Updated] Is Integrating ITop Into Your Toolkit Advisable?</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>2024 Approved In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-rectified-in-monitor-driver/"><u>Error Rectified in Monitor Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halted-dx12-error-in-new-halo-infinites-release/"><u>Halted: DX12 Error in New Halo Infinite's Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hasten-installing-intel-gfx-3000-on-windows-10/"><u>Hasten Installing Intel GFX 3000 on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/streamlining-windows-sm-bus-controller-functionality/"><u>Streamlining Windows SM Bus Controller Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-for-clearing-smudge-filled-displays/"><u>Techniques for Clearing Smudge-Filled Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-update-no-more-video-glitches-or-buffering/"><u>Win10 Update: No More Video Glitches or Buffering</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-at-the-forefront-elite-vr-creators/"><u>[New] At The Forefront Elite VR Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-financial-gains-the-youtube-money-flow-from-1m-views/"><u>[New] Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-gopro-hero5-black-vs-garmin-virb-ultra-30-which-better-2022-upda/"><u>[New] In 2024, GoPro Hero5 Black VS Garmin VIRB Ultra 30 Which Better? [2022 Upda]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-truth-about-magix-video-pro-xs-performance/"><u>[New] The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-fixed-dxgkrnlsys-bsod-on-pc/"><u>[Tech] Fixed dxgkrnl.sys BSOD on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhanced-vision-with-8-excellent-5k-screens/"><u>[Updated] Enhanced Vision with #8 Excellent 5K Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-zero-5g-2023-turbo-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Zero 5G 2023 Turbo to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-glitch-overcome-now-gpus-perform-optimally/"><u>Direct3D Glitch Overcome: Now GPUs Perform Optimally</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixes-for-the-c1900101-setup-complication-during-win10-install/"><u>Fixes for the C1900101 Setup Complication During Win10 Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-failure-dark-monitor/"><u>GPU Failure: Dark Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphical-interface-not-loaded/"><u>Graphical Interface Not Loaded</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-12-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 12 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>In 2024, Step-by-Step Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-stable-fallout-4-gaming-on-pc/"><u>Quick Fixes for Stable Fallout 4 Gaming on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reignite-asus-cameras-that-arent-working/"><u>Reignite Asus Cameras That Aren't Working</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-zoom-cam-issues-step-by-step/"><u>Resolve Zoom Cam Issues - Step-by-Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-functionality-in-lenovo-finger-scanning-technology/"><u>Step-by-Step Fixes to Restore Functionality in Lenovo Finger Scanning Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackle-civ-5-errors-on-computer/"><u>Tackle Civ 5 Errors on Computer</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tu-clip-de-formato-mp4-en-un-divertido-gif-gratuito-manteniendo-la-nitidez-perfecta-online/"><u>Transforma Tu Clip De Formato MP4 en Un Divertido GIF Gratuito Manteniendo La Nitidez Perfecta Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Screen Glitches in Surface Pro 7
-date: 2024-09-09T02:13:48.665Z
-updated: 2024-09-10T02:13:48.665Z
+date: 2024-10-26T01:00:39.005Z
+updated: 2024-10-29T22:49:40.707Z
 tags:
   - win11
   - win10
@@ -34,18 +34,6 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 4. **[Change the refresh rate](#h4)**
 5. **[Run the System File Checker](#h5)**
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable adaptive brightness
 
  This is the first thing you should try because it’s simple and effective. Many users find turning off**Change brightness automatically when lighting changes** helps them solve the flickering issue.
@@ -65,11 +53,12 @@ Here’s how to do it:
  You’ll find the Surface Pro 7 screen flickering stops right away. But if not, don’t worry. You should be able to fix it by following these fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your display drivers
 
  Your Surface Pro 7 screen may flicker or blink frequently if you’re using the wrong or outdated device drivers, especially the display drivers. Therefore, you should update these drivers to see if it fixes your problem.
@@ -80,12 +69,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
 **Automatically (recommended) –** If you are not familiar with installing drivers, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -100,16 +83,17 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,12 +115,6 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -150,11 +128,12 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) On the side taskbar, click**Display** .
 
  4) Under**Multiple displays** , select**Advanced display settings** .
@@ -162,31 +141,27 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Click**Display adapter properties** .
 
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run the System File Checker
 
  Missing or damaged system files may lead to your Surface Pro 7 screen flickering. Some users find repairing the systems files helped them solve the issue.
@@ -203,11 +178,12 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -250,8 +226,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,8 +233,23 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-instagram-video-clipping-and-trimming-for-2024/"><u>[New] The Art of Instagram Video Clipping and Trimming for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-most-advanced-virtual-classrooms-not-udemys-offspring/"><u>[Updated] The Most Advanced Virtual Classrooms, Not Udemy's Offspring</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-best-free-photo-collage-apps-for-iphone/"><u>10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>2024 Approved A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-light-back-to-your-twitch-video/"><u>Bring Light Back to Your Twitch Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-inspiration-ultimate-iphone-skyline-and-landscapes-guide/"><u>Capturing Inspiration Ultimate iPhone Skyline and Landscapes Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-room-gfx-card-updation/"><u>Dark Room - GFX Card Updation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dial-back-excessive-windows-sizing/"><u>Dial Back Excessive Windows Sizing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-get-your-corsair-keyboard-up-and-running-on-windows/"><u>Easy Guide to Get Your Corsair Keyboard Up & Running on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/innovative-seo-strategies-the-impact-of-cookiebot-integration/"><u>Innovative SEO Strategies: The Impact of Cookiebot Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lightning-cure-fast-remedy-for-amd-and-tarkov-bug/"><u>Lightning Cure: Fast Remedy for AMD & Tarkov Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/straightening-computer-border-lines/"><u>Straightening Computer Border Lines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swifter-play-eliminate-amd-tarkov-glitches-now/"><u>Swifter Play: Eliminate AMD Tarkov Glitches Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/system-requirements-guide-for-the-latest-mac-os-release/"><u>System Requirements Guide for the Latest Mac OS Release</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-the-mysteries-of-googles-ai-gemini-its-research-focus/"><u>Unpacking the Mysteries of Google's AI Gemini: Its Research Focus</u></a></li>
+</ul></div>
 

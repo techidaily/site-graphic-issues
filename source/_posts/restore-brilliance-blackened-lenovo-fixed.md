@@ -1,7 +1,7 @@
 ---
 title: Restore Brilliance - Blackened Lenovo Fixed
-date: 2024-09-09T02:14:00.078Z
-updated: 2024-09-10T02:14:00.078Z
+date: 2024-10-25T00:03:51.402Z
+updated: 2024-10-29T20:56:07.180Z
 tags:
   - win11
   - win10
@@ -14,28 +14,10 @@ keywords: Restored Brilliance Lenovo,Remedying Blackening on Lenovo Laptops,Leno
 thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1ee9eb3884a315921c0899b5d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore Brilliance - Blackened Lenovo Fixed
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
@@ -54,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -97,22 +99,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -132,21 +122,23 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable fast startup
 
  Fast startup is a new feature in Windows 10 that enables your computer to boot up faster by saving the operating system state to a hibernation file. However, this does not always work perfectly and it sometimes can mess up with the startup process and cause the screen to go black.
@@ -157,18 +149,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
@@ -177,22 +157,17 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Restart your computer and check if your laptop screen displays properly.
 
  Still got a black screen? Please try**Fix 6** , below.
@@ -207,16 +182,23 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
@@ -242,8 +224,6 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,8 +231,24 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-android-movie-upturning/"><u>[Updated] 2024 Approved Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-best-android-animal-games/"><u>[Updated] 2024 Approved The Ultimate Guide to Best Android Animal Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-beats-an-fl-studio-approach/"><u>2024 Approved Fading Beats An FL Studio Approach</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-2023-hyperlinks-working-by-stellar-guide/"><u>Easy Steps to Make Excel 2023 Hyperlinks Working</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blackout-in-windows-11-after-fall-update/"><u>Ending Blackout in Windows 11 After Fall Update</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-smart-8-hd-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-enhancement-new-amd-hd-6950-update-on-windows-11-os/"><u>Graphics Enhancement - New AMD HD 6950 Update on Windows 11 OS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-vocal-vortex-validity-of-the-transmutation-app-questioned-explore-more-alternatives/"><u>In 2024, Vocal Vortex Validity of the Transmutation App Questioned - Explore More Alternatives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-troubleshoot-successful/"><u>Lenovo TapScreen Troubleshoot Successful</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-through-gpu-failures-operational-pc-is-a-must/"><u>Navigating Through GPU Failures: Operational PC Is a Must</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-fallout-4-performance-overcoming-lengthy-startup-intervals/"><u>Optimizing Fallout 4 Performance: Overcoming Lengthy Startup Intervals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-visibility-lenovos-brightening-guide/"><u>Restoring Visibility: Lenovo's Brightening Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-2023-tesla-models-ranked-a-comprehensive-review-of-model-s-3-x-and-y-zdnet-analysis/"><u>Top 2023 Tesla Models Ranked: A Comprehensive Review of Model S, 3, X, and Y | ZDNet Analysis</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-5-best-imovie-replacements-for-windows-10/"><u>Updated In 2024, Top 5 Best iMovie Replacements for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-compatibility-secured-for-dual-nvidiaintel-graphics/"><u>Windows 10 Compatibility Secured for Dual Nvidia/Intel Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-delivers-precise-visuals/"><u>Windows 11 Delivers Precise Visuals</u></a></li>
+</ul></div>
 

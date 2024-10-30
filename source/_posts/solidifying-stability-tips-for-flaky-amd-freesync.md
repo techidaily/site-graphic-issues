@@ -1,7 +1,7 @@
 ---
 title: "Solidifying Stability: Tips for Flaky AMD FreeSync"
-date: 2024-10-17T16:03:48.581Z
-updated: 2024-10-24T04:53:02.489Z
+date: 2024-10-22T18:48:33.150Z
+updated: 2024-10-30T03:30:07.099Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ For your reference, here’s what HDMI and DP ports look like:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/graphics-card-hdmi-dp-ports.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix.
@@ -83,6 +83,13 @@ If the problem persists, take a look at the next fix.
 
  If the latest drivers can’t solve your problem, simply check out the next method. (Or you can follow [this guide](https://tools.techidaily.com/drivereasy/download/) and do a clean reinstallation with DDU.)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Perform a clean boot**
 
  This issue could also indicate a compatibility issue, meaning that some other programs might be conflicting with each other. To rule out this possibility, you can do a clean boot.
@@ -92,14 +99,27 @@ If the problem persists, take a look at the next fix.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -107,12 +127,26 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
  If FreeSync works after a clean boot, you can root out the offending program by repeating these steps and disabling half of the services every time.
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows update
 
@@ -124,33 +158,20 @@ Here’s how:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  After installing all the system updates, restart and check if FreeSync is working.
 
 If the issue is still there, simply try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Fullscreen optimizations
 
@@ -166,13 +187,6 @@ Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Configure the default GPU
 
  If your PC has dual GPUs, say an integrated one comes with the CPU and a dedicated one, you might need to**specify the default GPU for your program** . Since FreeSync is currently only compatible with AMD GPUs, besides connecting the monitor to an AMD graphics card, you can also configure the default GPU for the program.
@@ -181,41 +195,21 @@ If this doesn’t help, you can continue to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the program/game launcher.  
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now launch the program/game and check if FreeSync is working.
 
@@ -240,20 +234,20 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-the-mechanics-of-mobile-video-capture-for-2024/"><u>[New] Mastering the Mechanics of Mobile Video Capture for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-choreographed-combat-selecting-superior-fighting-titles/"><u>2024 Approved Choreographed Combat Selecting Superior Fighting Titles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-integrate-insta-tweet-and-snap-a-comprehensive-guide/"><u>2024 Approved Integrate Insta, Tweet & Snap A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-post-with-a-podcast-highlight-moment/"><u>2024 Approved Post with a Podcast Highlight Moment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-sims-4-blackout-glitch/"><u>Clear Sims 4 Blackout Glitch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-methods-to-download-thrilling-horror-flicks/"><u>Effortless Methods to Download Thrilling Horror Flicks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-tackle-zooms-heavy-load-on-your-processor-6-fixes/"><u>How to Tackle Zoom's Heavy Load on Your Processor - 6 Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-trace-someone-explore-these-8-effective-people-search-services/"><u>How to Trace Someone? Explore These 8 Effective People Search Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-gopro-videos-the-ultimate-guide/"><u>In 2024, Mastering Gopro Videos The Ultimate Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a25-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A25 5G Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-performance-enhanced-in-windows-11/"><u>Laptop's Graphics Performance Enhanced in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pushing-pc-limitations-to-run-intel-driver-effectively/"><u>Pushing PC Limitations to Run Intel Driver Effectively</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-and-simple-fix-laptop-display-vertical-alignment/"><u>Quick & Simple Fix: Laptop Display Vertical Alignment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visualization-module-loading-error/"><u>Visualization Module Loading Error</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>[New] In 2024, Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-transcription-services-for-video-content/"><u>[New] Top Transcription Services for Video Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-zooming-into-perfection-a-compreenasional-tutorial-on-audio-recording/"><u>[New] Zooming Into Perfection A Compreenasional Tutorial on Audio Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-diving-into-inshot-the-video-editing-leader-claimed-in-2024/"><u>[Updated] Diving Into InShot The Video Editing Leader Claimed, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exploring-shared-videos-and-images-via-messenger/"><u>2024 Approved Exploring Shared Videos & Images via Messenger</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-the-obstacle-fixing-c1900101-during-win10-install/"><u>Bypassing the Obstacle: Fixing C1900101 During Win10 Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-dilemma-no-image/"><u>Display Dilemma: No Image</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-error-flagged-swift-resolution-by-nvidia/"><u>OpenGL Error Flagged — Swift Resolution by NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcame-installer-roadblock-for-nvidia/"><u>Overcame: Installer Roadblock for Nvidia</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-tutorial-on-saving-live-photos-as-moving-images-using-movavi/"><u>Quick Tutorial on Saving Live Photos as Moving Images Using Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-screen-settings-on-nvidia-device/"><u>Reactivating Screen Settings on Nvidia Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-windows-10-visual-discrepancies/"><u>Reconciling Windows 10 Visual Discrepancies</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-your-computers-binkw32dll-disappearance-problem/"><u>Ultimate Guide: Repairing Your Computer's binkw32.dll Disappearance Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-gaming-r9-drivers-for-w10-now-functioning/"><u>Uninterrupted Gaming: R9 Drivers for W10 Now Functioning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-vector-databases-ideal-for-ai/"><u>What Makes Vector Databases Ideal for AI?</u></a></li>
 </ul></div>
 

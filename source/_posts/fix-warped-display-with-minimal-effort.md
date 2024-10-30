@@ -1,7 +1,7 @@
 ---
 title: Fix Warped Display with Minimal Effort
-date: 2024-09-09T02:15:57.000Z
-updated: 2024-09-10T02:15:57.000Z
+date: 2024-10-28T00:23:32.849Z
+updated: 2024-10-30T03:40:35.446Z
 tags:
   - win11
   - win10
@@ -18,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 
  If you ever have horizontal lines on your laptop screen, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for horizontal lines on Windows 10, 8.1 and 7 issue
 
  Here are 3 fixes that have helped other users resolve the horizontal lines on laptop screen issue. You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -31,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 1. **[Update your graphics driver](#F1)**
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -46,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -63,11 +58,12 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the screen resolution
 
  Another trick you can try is to adjust your screen to the recommended resolution. Here’s how:
@@ -83,14 +79,22 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### I’m using Windows 8 or 7
 
@@ -98,24 +102,12 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Gently wipe the screen with cotton balls
 
  If the fixes above didn’t help with the problem, then it’s most likely a hardware problem. You can power off the computer and then gently wipe across the screen with cotton balls. Be sure to proceed with caution so as not to cause any further damage to your laptop.
@@ -137,8 +129,6 @@ Featured image by rawpixel.com from Pexels
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,8 +136,19 @@ Featured image by rawpixel.com from Pexels
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-sonys-best-full-review-of-fdr-x1000v-camera/"><u>[New] Unveiling Sony's Best - Full Review of FDR-X1000V Camera</u></a></li>
+<li><a href="https://solve-info.techidaily.com/4-effective-methods-to-eliminate-audio-from-your-iphone-recorded-videos/"><u>4 Effective Methods to Eliminate Audio From Your iPhone Recorded Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cheap-ssl-certs-balancing-cost-and-safety/"><u>Cheap SSL Certs: Balancing Cost & Safety</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y77t-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y77t</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dont-miss-out-a-closer-look-at-the-remarkable-features-of-oneplus-nord-n10-5g/"><u>Don't Miss Out: A Closer Look at the Remarkable Features of OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977508817-mastering-the-art-of-surface-book-driver-updates-a-hassle-free-approach/"><u>Mastering the Art of Surface Book Driver Updates: A Hassle-Free Approach!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-high-dpi-mode-limitations-on-win11/"><u>Overcoming High-DPI Mode Limitations on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivate-your-displayport-with-ease-and-speed/"><u>Reactivate Your DisplayPort with Ease and Speed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamlessly-transition-from-google-photos-to-protondrive-on-your-iphone-a-comparable-experience/"><u>Seamlessly Transition From Google Photos to ProtonDrive on Your iPhone: A Comparable Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-stability-achieved-post-fix-22/"><u>System Stability Achieved Post-Fix #22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818195170-the-display-settings-could-not-be-saved-solved/"><u>The Display Settings Could Not Be Saved [Solved]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-pre-purchase-considerations-a-list-of-5-crucial-elements-in-selecting-a-smartwatch/"><u>Understanding Pre-Purchase Considerations: A List of 5 Crucial Elements in Selecting a Smartwatch</u></a></li>
+</ul></div>
 

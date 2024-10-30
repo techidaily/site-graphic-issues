@@ -1,7 +1,7 @@
 ---
 title: Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!
-date: 2024-10-20T18:42:52.123Z
-updated: 2024-10-23T23:05:42.901Z
+date: 2024-10-22T21:35:58.827Z
+updated: 2024-10-30T00:02:47.509Z
 tags:
   - win11
   - win10
@@ -49,26 +49,38 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
 
@@ -78,18 +90,25 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
@@ -103,15 +122,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
@@ -119,14 +144,14 @@ OR
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Disable your extensions
 
@@ -152,31 +177,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -189,6 +200,19 @@ OR
 3. Restart Chrome to check the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Uninstall and reinstall Chrome
 
@@ -216,21 +240,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-getting-started-in-google-meet-on-computersphone-for-2024/"><u>[New] Getting Started in Google Meet on Computers/Phone for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-pinnacle-platforms-transforming-online-interaction/"><u>[Updated] Pinnacle Platforms Transforming Online Interaction</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-se-2020-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone SE (2020) Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-by-windows-10-troubleshooting-guide/"><u>AMD Graphics Card Unrecognized by Windows 10: Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beginners-guide-to-solving-helldivers-ii-launching-glitch-addressing-the-black-screen-problem/"><u>Beginner's Guide to Solving Helldivers II Launching Glitch: Addressing the Black Screen Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-frame-rate-mastery-discover-the-6-best-techniques/"><u>Boosting Frame Rate Mastery: Discover the 6 Best Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/code-43-issue-on-windows-11-comprehensive-fix-guide/"><u>Code 43 Issue on Windows 11 - Comprehensive Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discover-how-to-easily-determine-your-monitors-display-resolution-in-just-a-single-step/"><u>Discover How to Easily Determine Your Monitor's Display Resolution in Just a Single Step</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discover-your-displays-pixels-effortless-guide-to-determine-screen-resolution/"><u>Discover Your Display's Pixels: Effortless Guide to Determine Screen Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-guide-installation-of-amd-graphics-card-unrecognized-by-windows-11/"><u>Fix Guide: Installation of AMD Graphics Card Unrecognized by Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-the-application-error-for-nvstreamuseraagentexe-on-your-pc-easy-solutions-unveiled/"><u>Fixing the 'Application Error' For NvStreamUseraAgent.exe on Your PC - Easy Solutions Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ringsilent-switch-isnt-working-heres-how-to-still-mute-or-unmute-your-iphone/"><u>Ring/Silent Switch Isn’t Working? Here’s How to Still Mute or Unmute Your iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/simple-strategies-upside-down-video-rotation-via-vlc-for-2024/"><u>Simple Strategies Upside-Down Video Rotation via VLC for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/when-virtuality-overwhelms-the-real-world-exploring-the-impact-of-apples-arvr-devices-zdnet/"><u>When Virtuality Overwhelms the Real World: Exploring the Impact of Apple's AR/VR Devices | ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/xsplit-archive-assessing-video-game-splits/"><u>XSplit Archive Assessing Video Game Splits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-halt-social-media-sponsored-content/"><u>[New] 2024 Approved How to Halt Social Media Sponsored Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-available-avi-player-with-cross-platform-support/"><u>[New] Best Available Avi Player with Cross-Platform Support</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-bite-sized-delights-10-viral-eats-from-tiktok/"><u>[New] In 2024, Bite-Sized Delights 10 Viral Eats From TikTok</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-tier-mics-for-online-presenters/"><u>[Updated] 2024 Approved Top-Tier Mics for Online Presenters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamlining-your-video-workflow-in-windows-11/"><u>[Updated] Streamlining Your Video Workflow in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complementing-narratives-with-skillful-b-roll-usage/"><u>2024 Approved Complementing Narratives with Skillful B-Roll Usage</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-apcs-disregard-for-internal-video-cards/"><u>Fix: APC's Disregard for Internal Video Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-rendering-system-errored-on-start/"><u>Graphic Rendering System Errored On-Start</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-out-gameplay-glitches-fixing-stutter-in-v-on-windows-machines/"><u>Smooth Out Gameplay Glitches: Fixing Stutter in 'V' On Windows Machines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexplained-geforce-gtx-absence/"><u>Unexplained GeForce GTX Absence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-victory-displays-preserved-after-fix/"><u>Visual Victory: Displays Preserved After Fix</u></a></li>
 </ul></div>
 

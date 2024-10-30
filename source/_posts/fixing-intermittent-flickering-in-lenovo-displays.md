@@ -1,7 +1,7 @@
 ---
 title: Fixing Intermittent Flickering in Lenovo Displays
-date: 2024-09-04T07:08:42.388Z
-updated: 2024-09-05T07:08:42.388Z
+date: 2024-10-23T23:15:49.629Z
+updated: 2024-10-29T17:00:28.342Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -66,22 +73,37 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Troubleshoot hardware issues
 
  It is also possible that the problem with your Lenovo laptop screen results from interference from outside or a defective cable connection.
@@ -102,8 +124,6 @@ You can troubleshoot these hardware issues on your own:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,8 +131,22 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/advice-install-supported-drivers-for-amd-video-adapter/"><u>[ADVICE] Install Supported Drivers for AMD Video Adapter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigate-past-edgenuity-stealthy-study-strategies-for-2024/"><u>[New] Navigate Past Edgenuity Stealthy Study Strategies for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-asus-monitor-glitches-with-easy-fix-methods/"><u>End ASUS Monitor Glitches with Easy Fix Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-techniques-for-dell-pc-screen-saving-for-2024/"><u>Essential Techniques for Dell PC Screen Saving for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-budget-friendly-quality-of-caixuns-75-4k-smart-television-an-in-depth-review/"><u>Evaluating Budget-Friendly Quality of Caixun’s 75 4K Smart Television: An In-Depth Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-end-of-problems/"><u>GPU Error 43: End of Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29e-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29e If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-gameplay-reel-how-to-reviewed/"><u>In 2024, Gameplay Reel How-To Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quintessential-scores-in-8-distinct-movie-spheres-for-2024/"><u>Quintessential Scores in 8 Distinct Movie Spheres for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-win-graphics-capability/"><u>Restored Win Graphics Capability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-xbox-one-graphics-issue/"><u>Restored Xbox One Graphics Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tdr-alert-cleared-nvidia-driver-update-effective/"><u>TDR Alert Cleared: Nvidia Driver Update Effective</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-huggingchat-an-accessible-ai-for-conversation-enthusiasts/"><u>Understanding HuggingChat: An Accessible AI for Conversation Enthusiasts</u></a></li>
+</ul></div>
 

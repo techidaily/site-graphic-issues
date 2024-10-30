@@ -1,7 +1,7 @@
 ---
 title: No More Visual Disruptions! Code 22 Fixed
-date: 2024-09-09T02:16:12.562Z
-updated: 2024-09-10T02:16:12.562Z
+date: 2024-10-27T17:06:14.883Z
+updated: 2024-10-29T22:20:50.867Z
 tags:
   - win11
   - win10
@@ -14,47 +14,17 @@ keywords: Visual Disruption Fix,Code Improvement Update,No More Distractions in 
 thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e79326e6be564a7361db8bbb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## No More Visual Disruptions! Code 22 Fixed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -90,31 +60,34 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus tip
 
  Driver error code 22 can also occur if your graphics driver is faulty or outdated.
@@ -134,6 +107,13 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -146,8 +126,6 @@ Example – CMOS battery on a laptop
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,8 +133,16 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-views-with-captivating-intros-filmed-in-imovie/"><u>[New] 2024 Approved Boosting Views with Captivating Intros Filmed in iMovie</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oost-engagement-with-tailored-templates-for-video-info/"><u>[New] Boost Engagement with Tailored Templates for Video Info</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-comparing-apowersoft-to-alternatives/"><u>[New] In 2024, Comparing Apowersoft to Alternatives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mic-avenue-leading-educators-on-youtube-for-2024/"><u>Academic Avenue Leading Educators on YouTube for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comprehensive-email-performance-metrics-open-click-through-and-unsubscribes-analytics-per-region-and-sector-with-massmail-suite/"><u>Comprehensive Email Performance Metrics: Open, Click-Through, and Unsubscribes Analytics per Region & Sector with MassMail Suite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-not-responding-resolution-achieved/"><u>Lenovo TapScreen Not Responding, Resolution Achieved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-to-safety-windows-8s-safe-mode-and-graphics-card-uninstallation/"><u>Navigating to Safety: Windows 8'S Safe Mode & Graphics Card Uninstallation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-remedy-for-buffering-woes/"><u>Quick Remedy for Buffering Woes</u></a></li>
+</ul></div>
 
