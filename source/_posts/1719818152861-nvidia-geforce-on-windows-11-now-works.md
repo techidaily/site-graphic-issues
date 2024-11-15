@@ -1,7 +1,7 @@
 ---
 title: Nvidia GeForce on Windows 11 - Now Works
-date: 2024-11-12T17:53:48.247Z
-updated: 2024-11-13T20:37:56.232Z
+date: 2024-11-12T20:03:20.320Z
+updated: 2024-11-14T17:36:26.323Z
 tags:
   - win11
   - win10
@@ -35,16 +35,10 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 2) Expand**Display adapters**and find **LogMeIn Mirror Driver**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c85651576.png) 3) Right-click **LogMeIn Mirror Driver** and click **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c8b394548.png) 4) At the prompt window, tick the box for **Delete the driver software for this device**and **OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c8e56537f.png) If you have some other remote access software or some third party device showing up under Display adapters, uninstall them as well. 5) Reboot your computer. 6) Try Windows Update again to see if you can upgrade to Windows 10\. If you need, you could install the driver for your LogMeIn Mirror Driver back on again after you have upgraded to Windows 10\. ```` ```` ``
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ``  Method 2: Clean Re-install Display Driver
@@ -53,20 +47,20 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59daf96a24dba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Expand**Display adapters**. Right-click your display device driver and click**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d58e3edbb.png) 3) Tick the box for **Delete the driver software for this device** and click**OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d5f49d3d4.png) 4) Then go to the icon on the top and click the**Scan**button.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d64350fba.png) 5) Open the folder where you place the downloaded graphics card driver and copy its address. 6) Go back to **Device Manager**  and right-click your display device driver,  which may be listed under **Other devices,** and click **Update Driver Software…** ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dabe1fa4f.png) 7) Click **Browse my computer for driver software.** ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dacf00084.png) 8)**Paste**the location of the downloaded file to the input box here and click **Next**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dbeb0cb49.png)  Wait for the system to help you with the installation. 9) Reboot your computer for the change to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ```` ```` ``  Method 3: Update Display Driver
@@ -74,10 +68,10 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 If the above method doesn’t work for you, you need to update your display card driver. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0869bdce5d.png) 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0884f08079.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [NVIDIA](https://tools.techidaily.com/drivereasy/download/)
@@ -98,24 +92,17 @@ If the above method doesn’t work for you, you need to update your display card
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-boosting-content-appeal-by-including-youtube-music-in-recordings-for-2024/"><u>[New] Boosting Content Appeal by Including YouTube Music in Recordings for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-dynamic-imagery-made-simple-with-our-top-10-image-switchers/"><u>[New] In 2024, Dynamic Imagery Made Simple with Our Top 10 Image Switchers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-boosting-your-videos-chance-on-vimeo-staff-list/"><u>2024 Approved Boosting Your Video's Chance on Vimeo Staff List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-email-privacy-enabling-two-factor-authentication-in-gmail/"><u>Boosting Email Privacy: Enabling Two-Factor Authentication in Gmail</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-video-drivers-mishap-in-minecraft-world/"><u>Cure Video Drivers Mishap in Minecraft World</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/disconnect-printer-reconnect-windows-easily/"><u>Disconnect Printer, Reconnect Windows Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/identifying-null-pointer-to-nvidia-driver/"><u>Identifying Null-Pointer to Nvidia Driver</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-13-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 13 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-asus-ax6000-rt-ax88u-smart-wi-fi-6-router-packed-with-advanced-features/"><u>In-Depth Review: Asus AX6000 RT-AX88U Smart Wi-Fi 6 Router Packed With Advanced Features</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-x1-carbon-software-drivers-download-guide-for-windows-users-windows-71011/"><u>Lenovo X1 Carbon Software Drivers - Download Guide for Windows Users (Windows 7/10/11)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817589959-precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-lenovo-wi-fi-connection-issues-guide-to-installing-the-right-drivers/"><u>Resolving Lenovo Wi-Fi Connection Issues: Guide to Installing the Right Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revolutionary-clear-window-tech/"><u>Revolutionary Clear Window Tech</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-direct3d-loading-now/"><u>Successful Direct3D Loading Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-the-shadowy-screen-twitch-fixes/"><u>Tackling The Shadowy Screen: Twitch Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfx-driver-recovery-ensures-display-integrity/"><u>XFX Driver Recovery Ensures Display Integrity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios/"><u>[New] Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-z2-masterpiece-review-a-smart-tech-journey/"><u>[New] Z2 Masterpiece Review A Smart Tech Journey</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-unclear-font-in-fc6-gameplay/"><u>Correcting Unclear Font in FC6 Gameplay</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elite-6-software-solutions-for-flawless-signature-hiding-for-2024/"><u>Elite 6 Software Solutions for Flawless Signature Hiding for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-frozen-windows-monitor-issue/"><u>Fixing the Frozen Windows Monitor Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A56s 5G</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-free-and-paid-unveiling-the-top-10-essential-transcribing-tools-for-podcast-creators/"><u>New 2024 Approved Free & Paid Unveiling the Top 10 Essential Transcribing Tools for Podcast Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-best-gopro-editing-tools-replacing-gopro-studio-with-these-alternatives/"><u>New S Best GoPro Editing Tools Replacing GoPro Studio with These Alternatives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817447906-no-more-crashes-apexs-new-era-begins/"><u>No More Crashes: Apex's New Era Begins!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revealing-windows-10-screen-extras-unlocked/"><u>Revealing Windows 10 Screen Extras Unlocked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creme-de-la-meme-collection-10-for-2024/"><u>The Crème De La Meme Collection - #10 for 2024</u></a></li>
 </ul></div>
 
