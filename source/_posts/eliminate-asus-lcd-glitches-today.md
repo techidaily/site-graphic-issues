@@ -1,7 +1,7 @@
 ---
 title: Eliminate ASUS LCD Glitches Today
-date: 2024-09-18T09:35:45.178Z
-updated: 2024-09-20T06:30:16.520Z
+date: 2024-11-06T20:35:16.074Z
+updated: 2024-11-13T23:11:00.249Z
 tags:
   - win11
   - win10
@@ -40,8 +40,24 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -54,8 +70,23 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 2. Click**Advanced settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -68,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -95,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -143,5 +167,17 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dealing-with-copyright-infringement-notices-on-youtube/"><u>[Updated] 2024 Approved Dealing with Copyright Infringement Notices on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[Updated] Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-graphics-drivers-in-win1011-laptops/"><u>Enabling Graphics Drivers in Win10/11 Laptops</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhanced-personalization-with-our-cookiebot-driven-technology/"><u>Enhanced Personalization with Our Cookiebot-Driven Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enriching-context-menus-adding-a-diskspace-analyzer-feature/"><u>Enriching Context Menus: Adding a DiskSpace Analyzer Feature</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x7b-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X7b</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-screen-light-on-your-lenovo-device/"><u>Maximize Screen Light on Your Lenovo Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hybrid-card-problem-in-win11/"><u>Overcoming Hybrid Card Problem in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-dark-screen-with-active-cursor-in-win10/"><u>Solving Dark Screen with Active Cursor in Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-66-twitter-accounts-for-savvy-travelers-insider-tips-and-exciting-journeys/"><u>Top 66 Twitter Accounts for Savvy Travelers - Insider Tips and Exciting Journeys</u></a></li>
+</ul></div>
 

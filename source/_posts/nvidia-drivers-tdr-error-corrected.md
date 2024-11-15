@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA Drivers: TDR Error Corrected"
-date: 2024-09-13T16:53:14.398Z
-updated: 2024-09-14T23:43:16.209Z
+date: 2024-11-06T23:01:02.477Z
+updated: 2024-11-13T23:07:40.645Z
 tags:
   - win11
   - win10
@@ -57,16 +57,16 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -82,14 +82,14 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -108,24 +108,25 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -149,5 +150,24 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fix-directx12-setback-for-launch-of-halo-infinite/"><u>[FIX] DirectX12 Setback for Launch of Halo Infinite</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-guide-to-audio-recording-with-windows-11/"><u>[New] 2024 Approved Guide to Audio Recording with Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pioneering-promotion-in-the-metaverse-for-2024/"><u>[New] Pioneering Promotion in the Metaverse for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-deciphering-the-coded-language-of-concealed-youtube-movies/"><u>[Updated] In 2024, Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-gaming-and-workflow-with-updated-intelligent-graphic-drivers/"><u>Accelerate Gaming & Workflow with Updated Intelligent Graphic Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-amplification-adding-tracks-to-premiere-projects-with-ease/"><u>Audio Amplification Adding Tracks to Premiere Projects with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/avoiding-pitfalls-common-mistakes-in-instagram-filmmaking-for-2024/"><u>Avoiding Pitfalls Common Mistakes in Instagram Filmmaking for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-alone-in-windows-10/"><u>Cursor Alone in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-malfunction-no-detected-card/"><u>Display Malfunction: No Detected Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-video-performance-after-win11-update/"><u>Enhanced Video Performance After Win11 Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-enhanced-performance-discover-top-features-of-macos-15-on-your-apple-macbook-comprehensive-guide-by-zdnet/"><u>Experience Enhanced Performance: Discover Top Features of macOS 15 on Your Apple MacBook – Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-through-troubled-waters-instagram-videos-guide-for-2024/"><u>Navigating Through Troubled Waters Instagram Videos Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-vignette-apps-for-mobile-free-paid-and-everything-in-between/"><u>New The Ultimate List of Vignette Apps for Mobile Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-device-creation-mishap/"><u>Rectified Device Creation Mishap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-interruptions-in-win11s-live-streaming/"><u>Tackling Interruptions in Win11's Live Streaming</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100t Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

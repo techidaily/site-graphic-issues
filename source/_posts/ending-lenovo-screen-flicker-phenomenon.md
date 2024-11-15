@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2024-10-29T19:13:40.432Z
-updated: 2024-11-04T20:07:34.954Z
+date: 2024-11-12T22:36:18.392Z
+updated: 2024-11-13T23:37:05.155Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -69,13 +69,6 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
@@ -85,23 +78,30 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -133,24 +133,17 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-lifes-journey-videos-creating-authentic-online-experiences/"><u>[New] 2024 Approved Life's Journey Videos Creating Authentic Online Experiences</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[Updated] Can I View All Shared Videos And Photos on Messenger?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-deciphering-the-secrets-of-zd-soft-recorder/"><u>[Updated] In 2024, Deciphering the Secrets of ZD Soft Recorder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-optimize-facebook-seo-with-10-surefire-ways/"><u>[Updated] In 2024, How to Optimize Facebook SEO with 10 Surefire Ways</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-sales-crafting-engaging-youtube-channel-trailers/"><u>[Updated] Maximizing Sales Crafting Engaging YouTube Channel Trailers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>2024 Approved Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 7 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/copyright-free-game-audio-repositories-for-2024/"><u>Copyright-Free Game Audio Repositories for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-eradicate-fallout-4-crashes-on-computer/"><u>Easy Steps to Eradicate Fallout 4 Crashes on Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halted-game-startup-dx12-error-with-halo-infinite/"><u>Halted Game Startup: DX12 Error with Halo Infinite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-motion-blur-techniques-for-digital-artists/"><u>In 2024, Professional Motion Blur Techniques for Digital Artists</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-art-of-system-safety-with-safe-mode-on-windows-8/"><u>Mastering the Art of System Safety with Safe Mode on Windows 8</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-widescreen-layout-discrepancies-in-win10-devices/"><u>Rectifying Widescreen Layout Discrepancies in Win10 Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-output-denied-no-card-found/"><u>Visual Output Denied: No Card Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-realizing-your-audio-based-ppt-with-easy-s2t-tools/"><u>[New] 2024 Approved Realizing Your Audio-Based PPT with Easy S2T Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fight-or-flight-digital-duels-decoded/"><u>[New] Fight or Flight Digital Duels Decoded</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-making-your-mark-on-youtube-a-branding-blueprint/"><u>[New] Making Your Mark on YouTube – A Branding Blueprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>[Updated] A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-the-art-of-viral-videos-for-higher-youtube-popularity/"><u>[Updated] In 2024, Mastering The Art of Viral Videos for Higher YouTube Popularity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-strategies-downloading-audio-on-iphones/"><u>2024 Approved Step-by-Step Strategies Downloading Audio on iPhones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beyond-dxgkrnlsys-bluescreen-solutions/"><u>Beyond dxgkrnl.sys BlueScreen: Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-misalignment-in-laptop-viewing-area/"><u>Correct Misalignment in Laptop Viewing Area</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-error-corrected-improved-gpu-support-unlocked/"><u>Direct3D Error Corrected: Improved GPU Support Unlocked</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fcpx-plugin-not-responding-try-these-solutions-first-for-2024/"><u>FCPX Plugin Not Responding? Try These Solutions First for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/regaining-control-over-gpu-graphics-options/"><u>Regaining Control Over GPU Graphics Options</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-intel-graphics-in-windows/"><u>Streamlining Intel Graphics in Windows</u></a></li>
 </ul></div>
 

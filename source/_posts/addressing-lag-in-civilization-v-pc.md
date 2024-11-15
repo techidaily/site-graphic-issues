@@ -1,7 +1,7 @@
 ---
 title: Addressing Lag in Civilization V PC
-date: 2024-09-19T11:44:18.322Z
-updated: 2024-09-20T01:11:39.182Z
+date: 2024-11-08T16:38:42.845Z
+updated: 2024-11-13T18:40:00.121Z
 tags:
   - win11
   - win10
@@ -38,10 +38,25 @@ Here’s how to do it:
 2. Click**Library** , then locate and right-click on**Sid Meier’s Civilizatio** n in your list of games and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -57,16 +72,17 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -79,13 +95,6 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
@@ -93,6 +102,14 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
 ---
@@ -114,5 +131,18 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] In 2024, Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-youtube-keyword-research-made-easy/"><u>2024 Approved The Ultimate Guide YouTube Keyword Research Made Easy</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bad-drivers-triggered-minecraft-failures/"><u>Bad Drivers Triggered Minecraft Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drop-old-drivers-windows-techniques-to-uninstall/"><u>Drop Old Drivers: Windows Techniques to Uninstall</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-new-realms-of-digital-connections-on-fb/"><u>Exploring New Realms of Digital Connections on FB</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-gains-latest-nvidia-geforce-drivers-for-windows-os/"><u>Graphics Gains: Latest NVIDIA GeForce Drivers for Windows OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-free-quicktime-video-editors-for-beginners-and-pros-for-2024/"><u>New S Top Free QuickTime Video Editors for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-lines-equilibrium/"><u>Perfecting Visual Lines' Equilibrium</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/retrieve-lost-screen-configuration-saving-in-win-7-and-10-fixable/"><u>Retrieve Lost Screen Configuration Saving in WIN 7 & 10 [Fixable]</u></a></li>
+</ul></div>
 

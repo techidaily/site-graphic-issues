@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Apex Legends Crash | Quickly & Easily"
-date: 2024-09-10T16:51:31.666Z
-updated: 2024-09-14T17:38:25.131Z
+date: 2024-11-09T18:25:10.325Z
+updated: 2024-11-13T18:07:20.543Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your Nvidia graphics driver
 
  **Nvidia has release an update (419.35 WHQL) for its graphics drivers to fix the Apex Legends crashing issue.** After updating your Nvidia graphics driver, you should be able to resolve this issue**quickly & easily** !
@@ -55,19 +62,33 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
@@ -84,16 +105,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -175,13 +196,6 @@ You can follow the instructions below to install the latest game patch:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Download and reinstall Apex Legends. Launch the game to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
  Now, it’s time to enjoy Apex Legends. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -203,5 +217,26 @@ You can follow the instructions below to install the latest game patch:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-editing-edge-reduction-the-logic-behind-crop-sizes-in-imovie/"><u>[New] 2024 Approved Editing Edge Reduction The Logic Behind Crop Sizes in iMovie</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pajama-plots-revisited-critique-and-analysis-for-kids-slumber/"><u>[New] 2024 Approved Pajama Plots Revisited Critique and Analysis for Kids' Slumber</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-step-by-step-guide-to-advanced-morphvox-expertise/"><u>[New] 2024 Approved Step-by-Step Guide to Advanced MorphVOX Expertise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easily-capturing-iphone-screens-on-the-go/"><u>[Updated] Easily Capturing iPhone Screens on the Go</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors-for-2024/"><u>[Updated] Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-skies-in-4k-with-mi-drone/"><u>[Updated] In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-techniques-for-stunning-shadow-photography-on-your-iphone-for-2024/"><u>[Updated] Techniques for Stunning Shadow Photography on Your iPhone for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-device-setup-issue/"><u>Conquered Device Setup Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-laptop-snap-issues-stable-screen-now/"><u>Fixed Laptop Snap Issues - Stable Screen Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-adjustment-portable-computer-arm/"><u>Horizontal Adjustment - Portable Computer Arm</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-critical-error-c1900101-during-windows-11-installation/"><u>How to Fix Critical Error C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-nord-n30-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus Nord N30 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-drivers-return-to-normalcy-all-clear/"><u>Nvidia Drivers: Return to Normalcy, All Clear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-windows-graphics-hurdle/"><u>Overcome Windows Graphics Hurdle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-cell-combination-techniques-a-beginners-tutorial-on-string-concat-in-excel/"><u>Seamless Cell Combination Techniques: A Beginner's Tutorial on String Concat in Excel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-system-easy-driver-deletion-guide/"><u>Simplify System: Easy Driver Deletion Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-end-of-visual-shimmy-in-win11/"><u>The End of Visual Shimmy in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-smooth-gameplay-in-fallout-4-pc-edition/"><u>Unlock Smooth Gameplay in Fallout 4, PC Edition</u></a></li>
+</ul></div>
 

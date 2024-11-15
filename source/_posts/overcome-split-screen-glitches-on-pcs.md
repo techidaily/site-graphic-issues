@@ -1,7 +1,7 @@
 ---
 title: Overcome Split-Screen Glitches on PCs
-date: 2024-10-28T16:04:00.040Z
-updated: 2024-11-04T17:30:17.944Z
+date: 2024-11-08T22:51:43.461Z
+updated: 2024-11-13T21:34:44.435Z
 tags:
   - win11
   - win10
@@ -28,12 +28,26 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -53,6 +67,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -60,13 +81,6 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -78,13 +92,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -92,22 +99,15 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -139,18 +139,21 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-social-connectivity-with-downloader-tools/"><u>[Updated] Unlock Social Connectivity with Downloader Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-leverage-both-platforms-youtube-and-facebook-integration/"><u>2024 Approved Leverage Both Platforms YouTube and Facebook Integration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ceasing-the-chaos-stop-lenovo-screen-anomalies/"><u>Ceasing the Chaos: Stop Lenovo Screen Anomalies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fine-tuning-oversized-win11-screen/"><u>Fine-Tuning Oversized Win11 Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-hp-universal-printing-software-for-windows-systems/"><u>How to Install HP Universal Printing Software for Windows Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor X50 Phone without Google Account?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>In 2024, Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-full-spectrum-maximizing-story-linking/"><u>In 2024, Facebook's Full Spectrum Maximizing Story Linking</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-windows-10-capture-apps-ultimate-guide/"><u>In 2024, Top Windows 10 Capture Apps Ultimate Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-fallout-4-play-on-pc-systems/"><u>Stabilizing Fallout 4 Play on PC Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-clear-vision-flawless-screens/"><u>Win11 - Clear Vision, Flawless Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-activation-success/"><u>Windows 11 Laptop: GPU Activation Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-optimizing-unused-scenes-a-filmmakers-approach/"><u>[New] In 2024, Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-image-capture-try-these-top-5-pc-tools/"><u>[Updated] Efficient Image Capture? Try These Top 5 PC Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>[Updated] Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/"><u>[Updated] Revolutionizing Advertising on Facebook with the Best Video Tactics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-instagram-featured-posts-with-video/"><u>2024 Approved Instagram Featured Posts with Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagrams-latest-trends-for-successful-influencer-journeys/"><u>2024 Approved Instagram's Latest Trends for Successful Influencer Journeys</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-edges-achieve-clarity-and-comfort/"><u>Adjust Monitor Edges, Achieve Clarity & Comfort</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-cannot-find-propsysdll-expert-fixes-for-your-pc-woes/"><u>Eliminating 'Cannot Find PropSys.dll': Expert Fixes for Your PC Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-latest-driver-for-amd-hd-6950/"><u>Enhanced Performance with Latest Driver for AMD HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-adjustment-in-win11/"><u>Enhanced Screen Resolution Adjustment in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-amd-radeon-r9-drivers-on-win10-ensuring-smoothness/"><u>Fixed: AMD Radeon R9 Drivers on Win10 Ensuring Smoothness</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-note-30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Note 30 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-win8s-protective-measures-and-gpu-drivers-elimination/"><u>Masterful Guide to WIN8's Protective Measures and GPU Drivers Elimination</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-images-new-gpu/"><u>No Images - New GPU?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolvingscreenreversal-problems/"><u>ResolvingScreenReversal Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-fixing-ntldr-error-on-your-windows-pc/"><u>Troubleshooting Steps for Fixing NTLDR Error on Your Windows PC</u></a></li>
 </ul></div>
 

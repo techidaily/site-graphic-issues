@@ -1,7 +1,7 @@
 ---
 title: Rectify Image Warping Screens
-date: 2024-09-12T19:59:52.058Z
-updated: 2024-09-20T00:47:46.302Z
+date: 2024-11-11T22:29:14.555Z
+updated: 2024-11-13T19:02:59.195Z
 tags:
   - win11
   - win10
@@ -53,6 +53,20 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -62,10 +76,10 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
@@ -78,6 +92,13 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -88,13 +109,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For**AMD** graphics users
 
  Open Radeon Software, go to**Gaming > 3D Application Settings/Global Graphics** . Then set**Wait for vertical refresh** as**Always On** .
@@ -102,13 +116,6 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
@@ -129,5 +136,22 @@ There are two fixes you can try:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-compelling-content-on-reddit-a-stepwise-path/"><u>[New] 2024 Approved Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cyberlink-the-pinnacle-of-digital-recording/"><u>[New] Cyberlink The Pinnacle of Digital Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-navigating-iphones-automatic-replay-feature/"><u>2024 Approved Navigating iPhone's Automatic Replay Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aerial-vehicles-deciphered-how-they-fly-and-communicate/"><u>Aerial Vehicles Deciphered How They Fly & Communicate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-crisp-visuals-with-picart-background-sweep-for-2024/"><u>Craft Crisp Visuals with PicArt Background Sweep for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-window-panel-size-in-win-10/"><u>Decrease Window Panel Size in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-trouble-full-screen-windows-not-shown-in-win11/"><u>Display Trouble: Full Screen Windows Not Shown in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-saving-hiccup-for-display-configurations/"><u>Fixed Saving Hiccup for Display Configurations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-zte-nubia-flip-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to ZTE Nubia Flip 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-correct-win10-screen-size/"><u>Restoring Correct Win10 Screen Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-displayport-with-minimal-hassle/"><u>Reviving DisplayPort with Minimal Hassle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-windows-driver-update-intel-3000-edition/"><u>Simplify Windows Driver Update: Intel 3000 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-tactics-for-overcoming-the-c1900101-error/"><u>Success Tactics for Overcoming the C1900101 Error</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/syma-x5c-rc-quadcopter-review-an-affordable-entry-model/"><u>SYMA X5C RC Quadcopter Review: An Affordable Entry Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-reward-program-overhaul-four-imperative-changes-needed/"><u>Xbox Reward Program Overhaul: Four Imperative Changes Needed</u></a></li>
+</ul></div>
 

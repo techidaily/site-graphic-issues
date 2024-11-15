@@ -1,7 +1,7 @@
 ---
 title: Non-Fullscreen Windows on Monitor in Win10
-date: 2024-09-11T03:42:03.715Z
-updated: 2024-09-15T01:25:03.159Z
+date: 2024-11-11T18:58:55.075Z
+updated: 2024-11-13T22:52:38.636Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
@@ -65,6 +72,13 @@ Here’s what you need to do:
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
@@ -104,6 +118,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -127,30 +148,43 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -159,10 +193,10 @@ Still no luck? Okay, there is one more thing to try.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
@@ -191,5 +225,19 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-step-by-step-from-viral-tiktok-to-custom-phone-ringtones/"><u>[New] In 2024, Step-by-Step From Viral TikTok to Custom Phone Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-master-videoleap-to-capture-up-close-footage/"><u>[New] Master Videoleap to Capture Up-Close Footage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-obs-studio-showdown-with-bandicam-the-ultimate-test-for-2024/"><u>[New] OBS Studio Showdown with Bandicam The Ultimate Test for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-ultimate-guide-solutions-for-overcoming-non-launch-issues-in-critical-businesses/"><u>2024 Ultimate Guide: Solutions for Overcoming Non-Launch Issues in Critical Businesses</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-text-sharpness-in-far-cry-adventures/"><u>Enhancing Text Sharpness in Far Cry Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-gaming-like-never-before-with-apple-sports-the-free-iphone-application-every-enthusiast-dreams-of-spotlighted/"><u>Experience Gaming Like Never Before with Apple Sports: The Free iPhone Application Every Enthusiast Dreams Of | Spotlighted</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-key-windows-movie-maker-alternatives-for-2024/"><u>Identifying Key Windows Movie Maker Alternatives for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-windows-drivers-ms-basic-render/"><u>Perfecting Windows Drivers, MS Basic Render</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-graphics-card-response/"><u>Silent Graphics Card Response</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-mix-fold-3-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Mix Fold 3 FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-resets-fix-for-resolution-settings-lockup/"><u>Win11 Resets - Fix for Resolution Settings Lockup</u></a></li>
+</ul></div>
 

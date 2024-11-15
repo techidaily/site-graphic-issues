@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Savable Displays: Tips for Win 7/10 Users' Success [Done]"
-date: 2024-09-11T20:30:00.123Z
-updated: 2024-09-15T03:10:10.268Z
+date: 2024-11-12T16:55:48.761Z
+updated: 2024-11-13T19:45:54.282Z
 tags:
   - win11
   - win10
@@ -40,10 +40,32 @@ To do so:
 1. Right-click on**any empty space** on your desktop and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -59,6 +81,14 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and see if the problem is solved.
 
 ---
@@ -80,12 +110,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-digital-dominion-for-techno-gamers-for-2024/"><u>[Updated] Digital Dominion for Techno Gamers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-self-created-soundtracks-for-your-instagram-alerts/"><u>[Updated] Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-short-form-video-content-top-strategies-revealed/"><u>[Updated] Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dampening-displays-fixing-pro-7-flashes/"><u>Dampening Displays: Fixing Pro 7 Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dialing-down-flickering-in-your-acer-device/"><u>Dialing Down Flickering in Your Acer Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-spark-20-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Spark 20 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-15-online-photo-editors-2023free/"><u>In 2024, Best 15 Online Photo Editors 2023[Free]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-reducing-recording-ambiance-free-methods-and-pros/"><u>In 2024, Reducing Recording Ambiance Free Methods and Pros</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastery-over-lenovo-display-glitches/"><u>Mastery Over Lenovo Display Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-on-win11-blackout-issue/"><u>Mouse on Win11 Blackout Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/override-sims-game-freeze/"><u>Override Sims Game Freeze</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pictorial-insight-mastery-of-vsco-tools/"><u>Pictorial Insight Mastery of VSCO Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/recuperation-des-images-supprimees-sur-reddit-guide-detaille-pour-les-utilisateurs/"><u>Récupération Des Images Supprimées Sur Reddit : Guide Détaillé Pour Les Utilisateurs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-full-screen-display-on-monitors-win10/"><u>Resolve Full Screen Display On Monitors Win10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleashing-funimate-joy-comprehensive-tutorials-for-2024/"><u>Unleashing Funimate Joy - Comprehensive Tutorials for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fixed-incorrect-display-settings/"><u>Win10: Fixed Incorrect Display Settings</u></a></li>
+</ul></div>
 

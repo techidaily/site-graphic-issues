@@ -1,7 +1,7 @@
 ---
 title: Restore Failed Display Saving in Win 7 & 10 Systems [Solution Found]
-date: 2024-09-15T04:54:00.560Z
-updated: 2024-09-20T02:04:31.967Z
+date: 2024-11-08T18:58:15.288Z
+updated: 2024-11-13T22:21:02.367Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -40,10 +47,32 @@ To do so:
 1. Right-click on**any empty space** on your desktop and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -80,12 +109,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb/"><u>[New] Decoding Inverse Image Retrieval for Social Networks, Focusing on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-10-useful-screen-recorder-for-teachers/"><u>[Updated] 10 Useful Screen Recorder for Teachers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-iphone-lengthy-exposure-secrets/"><u>[Updated] The Ultimate iPhone Lengthy Exposure Secrets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-repair-gpu-detection-failure/"><u>Diagnose & Repair: GPU Detection Failure</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/galaxy-of-play-ultimate-list-of-the-cheapest-rpgs-online-for-2024/"><u>Galaxy of Play Ultimate List of the Cheapest RPGs Online for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glide-over-and-adjust-vertical-lines-on-monitors/"><u>Glide Over and Adjust Vertical Lines on Monitors</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/gratis-mp4-videos-in-asf-konverteren-met-de-vervangbare-online-oplossing-van-movavi/"><u>Gratis MP4-Video's in ASF Konverteren Met De Vervangbare Online Oplossing Van Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-14-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi 14 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-kodi-freeze-in-new-win11-release/"><u>Overcoming Kodi Freeze in New Win11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-blurry-ui-elements-in-far-cry/"><u>Remedying Blurry UI Elements in Far Cry</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-screen-woes/"><u>Resolving Reflective Screen Woes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mers-selection-most-popular-livestream-software-and-devices-for-2024/"><u>Streamer's Selection Most Popular Livestream Software and Devices for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackle-frozen-screen-in-social-settings/"><u>Tackle Frozen Screen in Social Settings</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transforming-troubles-to-triumph-effective-strategies-for-when-your-hp-laptop-powers-on-yet-remains-black-on-screen-windows-1011/"><u>Transforming Troubles to Triumph: Effective Strategies for When Your HP Laptop Powers On, Yet Remains Black on Screen (Windows 10/11)</u></a></li>
+</ul></div>
 

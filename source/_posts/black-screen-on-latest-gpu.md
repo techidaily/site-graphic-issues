@@ -1,7 +1,7 @@
 ---
 title: Black Screen on Latest GPU
-date: 2024-09-13T04:24:47.835Z
-updated: 2024-09-15T01:00:55.607Z
+date: 2024-11-09T21:16:41.602Z
+updated: 2024-11-13T23:14:24.791Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## 2\. See if an additional power supply is required
@@ -53,10 +60,10 @@ If this is not the problem, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Ditch any converter
@@ -66,6 +73,13 @@ If this is not the problem, please move on.
  If your new graphics card can’t connect to your monitor without a converter, please buy a new cable instead.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Boot with the integrated display card
 
@@ -80,16 +94,10 @@ If this is not the problem, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
@@ -97,10 +105,16 @@ If this is not the problem, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
@@ -120,6 +134,13 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Make sure your computer can recognize your GPU
 
  If the above doesn’t help to fix the new graphics card black screen issue for you, please make sure that your computer can recognize your new GPU at this stage.
@@ -129,13 +150,6 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -173,10 +187,10 @@ Here are the things you should pay extra attention to:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
@@ -206,5 +220,21 @@ Here are the things you should pay extra attention to:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-shooting-phenomenal-igtv-with-dslrsmartphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Shooting Phenomenal IGTV with DSLR/Smartphone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-best-cheap-action-cameras-to-purchase-for-under-100-for-2024/"><u>[Updated] The Best Cheap Action Cameras to Purchase for Under $100 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-essential-mac-live-streaming-apps/"><u>2024 Approved Top 5 Essential Mac Live Streaming Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-display-edges-vertically/"><u>Adjusting Display Edges Vertically</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-dilemma-resolved-settings-saved/"><u>Display Dilemma Resolved, Settings Saved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-set-up-not-functioning-properly/"><u>Graphic Set Up: Not Functioning Properly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-a14-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy A14 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unlocking-the-secrets-of-captivating-auditory-and-visual-sensations-in-asmr-videos/"><u>In 2024, Unlocking the Secrets of Captivating Auditory & Visual Sensations in ASMR Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-issue-no-hardware-drivers-detected-on-windows-7-a-comprehensive-fix-guide/"><u>Installation Issue: No Hardware Drivers Detected on Windows 7 – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-misbehaving-cant-show-full-screen-11-windows/"><u>Monitor Misbehaving: Can't Show Full Screen 11 Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-boundaries-new-drivers-elevate-amds-hd-6950/"><u>Push Boundaries - New Drivers Elevate AMD's HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-size-control-achieved-in-new-version-of-windows-11/"><u>Screen Size Control Achieved in New Version of Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Tremor in Windows 11
-date: 2024-09-17T22:01:34.017Z
-updated: 2024-09-20T09:12:33.129Z
+date: 2024-11-08T20:42:52.267Z
+updated: 2024-11-13T18:48:35.912Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/a0697447c3ea6b08edc7929364d24aaff9babf439
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -43,6 +50,14 @@ Here is how to change the monitor refresh rate:
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -62,6 +77,13 @@ Here is how to change the monitor refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -86,37 +108,24 @@ To do so:
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -141,6 +150,13 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -154,6 +170,13 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
 
@@ -186,5 +209,26 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pushing-boundaries-spotlight-on-top-6-digital-innovators/"><u>[New] 2024 Approved Pushing Boundaries Spotlight on Top 6 Digital Innovators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-cams-duel-black-hero5-against-sj7/"><u>[Updated] Action Cams Duel Black Hero5 Against SJ7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mobile-cinematography-gear-for-adventurers/"><u>[Updated] Mobile Cinematography Gear for Adventurers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-science-of-writing-gripping-documentaries/"><u>[Updated] The Science of Writing Gripping Documentaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-your-iphones-creative-capabilities/"><u>2024 Approved Maximizing Your iPhone's Creative Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-blinky-behavior-from-acer-equipment/"><u>Banishing Blinky Behavior From Acer Equipment</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comment-configurer-le-streaming-sur-un-nas-synology-ou-qnap-avec-des-dvd/"><u>Comment Configurer Le Streaming Sur Un NAS Synology Ou QNAP Avec Des DVD</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-dark-screen-win11/"><u>Cursor's Comeback in Dark Screen Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-on-windows-10-with-nvidia-210-drivers/"><u>Enhanced Graphics on Windows 10 with NVIDIA 210 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-something-happened-and-your-pin-isnt-available-on-windows-11/"><u>How to Fix Something Happened, And Your PIN Isn't Available on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c300-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nokia C300 Phone without Any Data Loss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mystery-solved-win11-screen-glitch/"><u>Mystery Solved: Win11 Screen Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-solution-for-flaky-displayport-signals/"><u>Quick Solution for Flaky DisplayPort Signals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-transition-seamless-intel-drivers-on-win7-platforms/"><u>Smooth Transition: Seamless Intel Drivers on Win7 Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-screen-view-post-fix-on-laptop-completed/"><u>Stable Screen View Post-Fix on Laptop [Completed]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-color-grading-with-lut-techniques-in-ae/"><u>Streamlining Color Grading with LUT Techniques in AE</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-6-best-webcams-for-zoom-for-2024/"><u>Top 6 Best Webcams for Zoom for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-full-resolution-customization-on-window-11/"><u>Unlocking Full-Resolution Customization on Window 11</u></a></li>
+</ul></div>
 

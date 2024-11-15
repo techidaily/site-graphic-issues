@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-11-02T16:19:29.852Z
-updated: 2024-11-04T18:05:51.478Z
+date: 2024-11-09T16:06:08.369Z
+updated: 2024-11-13T21:59:58.736Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -63,10 +56,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -82,10 +75,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
@@ -108,19 +101,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 #### **I’m using Windows 7 or 8.1:**
@@ -128,6 +108,19 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
@@ -145,6 +138,19 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -172,18 +178,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-prime-audio-festivals-online/"><u>[New] Prime Audio Festivals Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dispel-darkness-of-dazzling-displays/"><u>Dispel Darkness of Dazzling Displays</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/driver-fixes-installed-addressing-compatibility-for-xbox-controllers-in-windows-os-versions-10-8-and-7/"><u>Driver Fixes Installed! Addressing Compatibility for Xbox Controllers in Windows OS Versions 10, 8 & 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-system-response-fixed-comfailure-windows-based/"><u>Enhanced System Response: Fixed COMFailure Windows-Based</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/essential-guide-to-taming-lenovo-screen-flicker/"><u>Essential Guide to Taming Lenovo Screen Flicker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/frei-verfugbar-top-dvd-entschlusselungssoftware-fur-alle-dvd-formate-kostenlos-herunterladen/"><u>Frei Verfügbar: Top DVD-Entschlüsselungssoftware Für Alle DVD-Formate, Kostenlos Herunterladen</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-stream-and-enjoy-dvd-content-on-ios-devices/"><u>How To Stream and Enjoy DVD Content on iOS Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-grab-free-video-profile-backgrounds/"><u>In 2024, Grab Free Video Profile Backgrounds</u></a></li>
-<li><a href="https://techtrends.techidaily.com/konverteer-itunes-mp3-naar-aiff-vrijwillig-luchtballon-movavi/"><u>Konverteer iTunes Mp3 Naar AIFF Vrijwillig Luchtballon Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-unavailable-screen-options-barrier/"><u>Overcoming Unavailable Screen Options Barrier</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/quietude-quotient-windowsmac-music-control-for-2024/"><u>Quietude Quotient Windows/Mac Music Control for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tp-link-archer-a9-analysis-proven-durability-and-fast-speed-in-a-cost-effective-networking-device-under-100/"><u>TP-Link Archer A9 Analysis - Proven Durability and Fast Speed in a Cost-Effective Networking Device Under $100</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-stabilize-your-vision/"><u>Win11: Stabilize Your Vision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-asmr-videos-a-complete-guide/"><u>[New] 2024 Approved How to Make ASMR Videos A Complete Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oost-your-channels-traffic-and-value-with-innovative-hashtags-for-2024/"><u>[New] Boost Your Channels' Traffic & Value with Innovative Hashtags for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-techniques-for-stunning-android-time-lapse-captures/"><u>[New] Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-start-zooming-into-success-with-win11-for-2024/"><u>[Updated] Quick Start Zooming Into Success with Win11 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/achieving-perfect-picture-quality-on-zoom-for-2024/"><u>Achieving Perfect Picture Quality on Zoom for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flash-on-win11-display/"><u>Banish Flash on Win11 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/detecting-issue-gpu-missing/"><u>Detecting Issue: GPU Missing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-tv-screens-with-automatic-loops-of-youtube-for-2024/"><u>Enhance TV Screens With Automatic Loops of YouTube for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-2600-download-updated-drivers-for-windows-7-8-and-10-users/"><u>HP DeskJet 2600: Download Updated Drivers for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-90-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Honor 90 Pro FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maintain-perfect-line-horizontality-in-screens/"><u>Maintain Perfect Line Horizontality in Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-winblueerror-correct-windows-wdf-api-problems/"><u>Overcome WinBlueError: Correct Windows WDF API Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-new-drivers-for-windows-10-users/"><u>Radeon HD 6950: New Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-nvidia-and-windows-11-discrepancy/"><u>Resolving NVIDIA & Windows 11 Discrepancy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/slash-size-of-windows-screen-in-win-10/"><u>Slash Size of Windows Screen in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-application-of-displays-settings-save/"><u>Successful Application of Displays Settings Save</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-review-of-lgs-high-definition-monitoring-experience/"><u>The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-netgear-nighthawk-x10-ad7200-experience-unmatched-wireless-speed/"><u>Ultimate Guide to the Netgear Nighthawk X10 (AD7200) - Experience Unmatched Wireless Speed</u></a></li>
 </ul></div>
 

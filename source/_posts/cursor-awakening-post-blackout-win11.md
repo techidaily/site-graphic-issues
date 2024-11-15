@@ -1,7 +1,7 @@
 ---
 title: Cursor Awakening Post-Blackout Win11
-date: 2024-11-01T16:30:09.499Z
-updated: 2024-11-04T20:28:59.991Z
+date: 2024-11-07T17:46:04.526Z
+updated: 2024-11-13T17:05:45.897Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
@@ -91,13 +91,6 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -113,23 +106,9 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -146,14 +125,21 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -187,6 +173,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -208,15 +201,22 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -234,17 +234,23 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **Recovery** .  
 
@@ -256,10 +262,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -281,22 +287,24 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-audio-aesthetics-high-quality-dj-template-videos-downloaded-for-2024/"><u>[New] Audio Aesthetics High-Quality DJ Template Videos Downloaded for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-transform-viewing-habits-the-top-6-choices-for-cost-free-and-online-short-film-downloads/"><u>[Updated] 2024 Approved Transform Viewing Habits The Top 6 Choices for Cost-Free & Online Short Film Downloads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ai-powered-text-conversion-for-effective-presentations-for-2024/"><u>AI-Powered Text Conversion for Effective Presentations for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-persistent-fluctuating-light-on-asus-laptops/"><u>Banish Persistent Fluctuating Light on ASUS Laptops</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-6-essential-techniques-for-advancing-in-your-professional-search/"><u>ChatGPT Mastery: 6 Essential Techniques for Advancing in Your Professional Search</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-crash-episodes-in-fallout-4-on-pc/"><u>End Crash Episodes in Fallout 4 on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-file-sharing-capabilities-in-geforce/"><u>Enhancing File-Sharing Capabilities in GeForce</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-performance-with-updated-intel-drivers/"><u>Enhancing PC Performance with Updated Intel Drivers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/enhancing-vimeo-playback-velocity-guide-for-2024/"><u>Enhancing Vimeo Playback Velocity Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-the-light-in-a-dark-laptop-monitor/"><u>Finding the Light in a Dark Laptop Monitor</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-connectivity-fresh-download-of-broadcom-wireless-networking-drivers-now-available/"><u>Improve Connectivity - Fresh Download of Broadcom Wireless Networking Drivers Now Available</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-infinix-hot-30-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Infinix Hot 30 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-comservice-disruption-on-windows-os/"><u>Overcoming COMService Disruption on Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-with-high-end-nvidia-card/"><u>Prevent Crashes with High-End NVIDIA Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-system-and-graphics-hurdle-on-win10geforce-7025/"><u>Resolving System & Graphics Hurdle on Win10/GeForce 7025</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/securing-smooth-video-playback-on-updated-os/"><u>Securing Smooth Video Playback on Updated OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-dealing-with-missing-fftd2xxdll-file-problems/"><u>Troubleshooting Tips for Dealing with Missing fFtd2xx.dll File Problems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-craft-visionary-videos-from-start-to-finish-using-youtube-studio-editor/"><u>[Updated] 2024 Approved Craft Visionary Videos From Start to Finish Using YouTube Studio Editor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-techniques-for-screen-recording-games-on-win10/"><u>[Updated] 2024 Approved Ultimate Techniques for Screen Recording Games on Win10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>[Updated] In 2024, Screen Streaming Showdown Choose Between OBS & ShadowGL</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-hitchhikers-guide-to-youtube-playlists/"><u>[Updated] In 2024, The Ultimate Hitchhiker's Guide to YouTube Playlists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-creative-use-of-supplementary-footage-b-roll-for-2024/"><u>A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-optimal-screen-usage-in-windows-10/"><u>Adjusting Aspect Ratios for Optimal Screen Usage in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-s23plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel S23+ Safely | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-green-screen-blunders-in-video-production/"><u>Mastering Green Screen Blunders in Video Production</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-screen-recovery-for-asus-laptops/"><u>Mastering Screen Recovery for Asus Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quenching-flickery-lights-on-acer-computers/"><u>Quenching Flickery Lights on Acer Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/save-windows-710-display-settings-flawlessly-heres-how-solved/"><u>Save Windows 7/10 Display Settings Flawlessly - Here's How [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-elgato-driver-downloads-and-installs-made-simple/"><u>Speedy Elgato Driver Downloads & Installs Made Simple</u></a></li>
+<li><a href="https://fox-links.techidaily.com/text-temporal-tinkering-tools-for-2024/"><u>Text Temporal Tinkering Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>Updated In 2024, The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
 </ul></div>
 

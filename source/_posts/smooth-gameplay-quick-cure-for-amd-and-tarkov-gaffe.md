@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe"
-date: 2024-10-30T18:49:36.369Z
-updated: 2024-11-04T17:55:12.836Z
+date: 2024-11-12T20:48:02.444Z
+updated: 2024-11-13T22:35:42.265Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Verify integrity of game files
 
  A variety of issues, including graphics glitches, can be caused by corrupted or missing game files. Therefore, you’ll need to perform an integrity check to resolve your problem. Follow the steps below to do so.
@@ -45,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 2. Locate your profile. Then click on the drop-down and select**Integrity check** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/integrity-check-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This may take some minutes to redownload and reinstall any missing or corrupted game files.
 
@@ -61,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 
  Then relaunch your game. If your problem persists, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Clean your temp folder
 
  Apart from clearing the game cache, you may want to clean the temp folder which stores temporary game files. This won’t cause any issues and instead, you’ll receive a performance boost.
@@ -71,24 +84,24 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-temp-folder.png)
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
 
@@ -104,16 +117,22 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After updating drivers, restart your PC and test the gameplay.
 
@@ -130,13 +149,6 @@ If your game is still unplayable, move on to the next fix.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
@@ -159,18 +171,22 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-video-summary-aesthetics-neons-included/"><u>[New] Elevate Your Video Summary Aesthetics - Neons Included</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-your-guide-to-favorite-tiktok-backgrounds/"><u>2024 Approved Your Guide to Favorite TikTok Backgrounds</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-overlapping-window-issues-in-windows-10/"><u>Addressing Overlapping Window Issues in Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817910025-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-zero-response/"><u>GPU Error: Zero Response</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-puzzles-crafted-spark-joy-and-inspiration/"><u>In 2024, Photo Puzzles Crafted Spark Joy and Inspiration</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oints-to-remember-a-comprehensive-look-at-youtube-tv-for-2024/"><u>Key Points to Remember A Comprehensive Look at YouTube TV for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-xbox-series-graphics-bug/"><u>Rectified Xbox Series Graphics Bug</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsungs-cutting-edge-smartphone-lineup-debuts-in-spectacular-showcase/"><u>Samsung's Cutting-Edge Smartphone Lineup Debuts in Spectacular Showcase</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-error-0x803f8001-in-minecraft-for-windows-users/"><u>Solution Guide: Overcoming Error 0X803f8001 in Minecraft for Windows Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-blacked-out-desktop-window/"><u>Taming the Blacked-Out Desktop Window</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/deal-tools-for-saving-your-online-video-presence-for-2024/"><u>[New] Ideal Tools for Saving Your Online Video Presence for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-realms-intersecting-delving-into-vr-augmented-and-mixed-immersion/"><u>[Updated] 2024 Approved Realms Intersecting Delving Into VR, Augmented & Mixed Immersion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chortlecraft-funny-visuals-for-social-engagement/"><u>2024 Approved ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-perfectly-crafted-windows-simulators-for-ps3-games/"><u>2024 Approved Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ducers-roadmap-pioneering-high-quality-asmr-content-for-2024/"><u>A Producer's Roadmap Pioneering High-Quality ASMR Content for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-incompatibility-eliminated-for-accelerated-gaming/"><u>Direct3D Incompatibility Eliminated for Accelerated Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/downsize-window-space-in-win-10/"><u>Downsize Window Space in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-shutdown-black-screen/"><u>GPU Shutdown: Black Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-c33-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme C33 2023 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-your-understanding-of-copyright-on-instagram/"><u>In 2024, Unlocking Your Understanding of Copyright on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/masterclass-in-tech-expert-analysis-of-next-gen-computer-systems/"><u>Masterclass in Tech: Expert Analysis of Next-Gen Computer Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/merging-forces-win10s-success-with-nvidia-graphics/"><u>Merging Forces - Win10's Success with Nvidia Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-driver-error-22/"><u>Resolved Graphics Driver Error 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-serenity-eradicate-flickering-mishaps/"><u>Screen Serenity: Eradicate Flickering Mishaps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharp-focus-quick-cure-for-amd-and-tarkov-bug/"><u>Sharp Focus: Quick Cure for AMD & Tarkov Bug</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-lenovo-thinkphone-by-drfone-android/"><u>Top 10 Password Cracking Tools For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-windows-8s-safety-sequence-how-to-remove-graphics-drivers/"><u>Understanding Windows 8'S Safety Sequence: How to Remove Graphics Drivers</u></a></li>
 </ul></div>
 

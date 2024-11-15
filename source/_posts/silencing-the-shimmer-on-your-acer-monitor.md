@@ -1,7 +1,7 @@
 ---
 title: Silencing the Shimmer on Your Acer Monitor
-date: 2024-09-16T11:41:06.958Z
-updated: 2024-09-19T22:47:09.225Z
+date: 2024-11-09T18:18:07.958Z
+updated: 2024-11-13T21:28:26.441Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
@@ -66,6 +73,13 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -73,6 +87,13 @@ Here is how to change the screen refresh rate:
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -84,13 +105,6 @@ Here is how to change the screen refresh rate:
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the **Acer laptop screen flickering** issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -106,16 +120,16 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -145,5 +159,24 @@ Here is how to change the screen refresh rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-make-video-thumbnails-for-youtube-for-2024/"><u>[Updated] How to Make Video Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-luminous-levels-in-android-videography/"><u>[Updated] In 2024, Luminous Levels in Android Videography</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-step-by-step-guide-to-opposite-list-orders-on-yt/"><u>[Updated] In 2024, Step by Step Guide to Opposite List Orders on YT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterful-visuals-in-motion-an-insiders-guide-to-creating-impressive-thumbnails-for-2024/"><u>[Updated] Masterful Visuals in Motion An Insider's Guide to Creating Impressive Thumbnails for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-detect-missing-graphics-chips/"><u>Guide to Detect Missing Graphics Chips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-pc-games-screenshots-top-6-methods/"><u>In 2024, Mastering PC Games Screenshots Top 6 Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-c22-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia C22 Android SIM Unlock APK</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/keeping-rtx-3080-gaming-smooth/"><u>Keeping RTX 3080 Gaming Smooth</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-pc-connected-fresh-microsoft-windows-bluetooth-driver-downloads-for-win-11-10-8-and-7/"><u>Keeping Your PC Connected: Fresh Microsoft Windows Bluetooth Driver Downloads for Win 11, 10, 8 & 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-display-in-win10/"><u>Monitor Not Recognizing Fullscreen Display in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-normal-functionality-to-wins-ui-graphics/"><u>Restored Normal Functionality to Win's UI Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-realignment-achieved-in-tablet-mode/"><u>Screen Realignment Achieved in Tablet Mode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-performance-install-new-geforce-gtx-1060-drivers/"><u>Secure Performance: Install New GeForce GTX 1060 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tdr-alert-deactivated-with-nvidias-immediate-action/"><u>TDR Alert Deactivated with Nvidia's Immediate Action</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-your-potential-with-mondlys-unmatched-app/"><u>Unlock Your Potential with Mondly's Unmatched App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now!</u></a></li>
+</ul></div>
 

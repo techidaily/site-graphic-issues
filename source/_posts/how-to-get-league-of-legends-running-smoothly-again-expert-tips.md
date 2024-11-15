@@ -1,7 +1,7 @@
 ---
 title: How to Get League of Legends Running Smoothly Again – Expert Tips
-date: 2024-11-01T18:51:29.664Z
-updated: 2024-11-04T18:23:07.935Z
+date: 2024-11-09T21:23:12.223Z
+updated: 2024-11-13T16:33:08.022Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -82,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -93,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -117,19 +131,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -140,22 +141,15 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
@@ -163,6 +157,19 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -179,13 +186,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -209,18 +209,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-essentials-of-professional-level-audio-crossfade/"><u>[New] 2024 Approved The Essentials of Professional-Level Audio Crossfade</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-winning-ways-top-8-video-capture-applications-for-windows/"><u>[Updated] In 2024, Winning Ways Top 8 Video Capture Applications for Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-flat-text-into-sculptable-3d-characters/"><u>2024 Approved Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amds-graphics-evolution-upgraded-hd-6950-windows-10-driver/"><u>AMD's Graphics Evolution: Upgraded HD 6950 Windows 10 Driver</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722995358933-breaking-down-yakuza-like-a-dragons-pc-launch-successfully/"><u>Breaking Down Yakuza: Like a Dragon's PC Launch Successfully!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-worn-out-text-appearance-in-fc6/"><u>Eradicating Worn-Out Text Appearance in FC6</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-review-unveiling-the-secrets-behind-amds-radeon-xt-series-rx-7800-7700/"><u>Expert Review: Unveiling the Secrets Behind AMD's Radeon XT Series (RX 7800, 7700)</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-smart-8-hd-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Smart 8 HD Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y78plus-t1-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y78+ (T1) Edition to iPad | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-mx150-not-showing-up-resolved/"><u>Nvidia MX150 Not Showing Up [Resolved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reinstating-default-display-settings-on-gpu/"><u>Reinstating Default Display Settings on GPU</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamlining-your-youtube-vids-for-igtv-adoption/"><u>[New] In 2024, Streamlining Your YouTube Vids for IGTV Adoption</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>[New] The Lannister Line-Up Top List of Websites for Game Ringtones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-path-to-professional-looking-colors-in-gopro-editing/"><u>[New] The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-superior-gaming-recordings/"><u>[Updated] 2024 Approved Unveiling the Secrets to Superior Gaming Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726228091913-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-sideways-screens-in-windows-10-fix/"><u>Address Sideways Screens in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cease-window-11-screen-flashing/"><u>Cease Window 11 Screen Flashing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-phantom-v-fold-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Phantom V Fold to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-image-to-video-conversion-made-easy-top-10-online-tools/"><u>In 2024, Image to Video Conversion Made Easy Top 10 Online Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-viewport-tilt-resolved/"><u>Laptop Viewport Tilt Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-game-lag/"><u>Quick Fix for Game Lag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-display-skew-issues/"><u>Rectifying Display Skew Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-clarity-quickly-troubleshoot-no-signal-errors/"><u>Restore Clarity Quickly: Troubleshoot No Signal Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-power-to-silent-displayport-connection/"><u>Restore Power to Silent DisplayPort Connection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilized-visual-output-on-dell-workstation-pcs/"><u>Stabilized Visual Output on Dell Workstation PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-mpeg-streamer-issues-on-latest-win11/"><u>Tackling MPEG Streamer Issues on Latest Win11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-steps-fix-constant-system-failures-of-the-luna-desktop/"><u>Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-levels-of-autonomy-with-these-groovy-tips-using-chatgpt-for-work-from-home-success/"><u>Unlock New Levels of Autonomy with These Groovy Tips Using ChatGPT for Work-From-Home Success</u></a></li>
 </ul></div>
 

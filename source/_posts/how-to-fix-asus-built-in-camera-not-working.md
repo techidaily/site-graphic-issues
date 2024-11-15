@@ -1,7 +1,7 @@
 ---
 title: How to Fix Asus Built-In Camera Not Working
-date: 2024-09-12T20:00:36.250Z
-updated: 2024-09-14T20:20:54.287Z
+date: 2024-11-11T22:03:08.119Z
+updated: 2024-11-13T18:42:51.636Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update the webcam driver
 
@@ -68,20 +82,13 @@ thumbnail: https://thmb.techidaily.com/ea46c2c3bcce8249fe3c90a83e87a709d2898868b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -95,6 +102,13 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
  On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run command.
@@ -102,19 +116,6 @@ After updating your drivers, restart your PC and test the camera.
  1) Type **devmgmt.msc** in the field and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
@@ -147,5 +148,20 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtubers-edge-the-ultimate-guide-to-apps-for-short-form-edits/"><u>[Updated] 2024 Approved Youtubers' Edge The Ultimate Guide to Apps for Short Form Edits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-avoiding-poverty-earning-in-beauty-media-for-2024/"><u>[Updated] Avoiding Poverty Earning in Beauty Media for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructing-a-unique-avatar-for-social-media/"><u>Constructing a Unique Avatar for Social Media</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-screen-upside-down-error-windows-11/"><u>Correcting Screen Upside-Down Error: Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-clash-win10-and-geforce-7025-in-unity/"><u>Fixed Clash - Win10 & GeForce 7025 in Unity</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-mismatch-in-overwatch/"><u>Overcoming Graphics Mismatch in Overwatch</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ness-set-to-sound-10-hilarious-hits-for-2024/"><u>Silliness Set to Sound 10 Hilarious Hits for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/smaller-is-better-top-drone-brands-reviewed-for-2024/"><u>Smaller Is Better Top Drone Brands Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-insights/"><u>Unveiling the Latest in Computer Hardware with Tom's Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-enhanced-graphics-for-overwatch-players/"><u>Update: Enhanced Graphics for Overwatch Players</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-achieving-perfect-switchable-gpu-harmony/"><u>Windows 10: Achieving Perfect Switchable GPU Harmony</u></a></li>
+</ul></div>
 

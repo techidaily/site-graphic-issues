@@ -1,7 +1,7 @@
 ---
 title: Win10 Monitor Settlement Completed
-date: 2024-09-07T18:46:52.619Z
-updated: 2024-09-15T00:32:55.846Z
+date: 2024-11-07T17:35:42.510Z
+updated: 2024-11-13T19:19:34.890Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -66,6 +73,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
@@ -75,13 +89,6 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -97,22 +104,35 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -140,5 +160,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-telescope-truth-expose/"><u>[New] In 2024, Telescope Truth Exposé</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-racing-thrills-quintet-of-choice-for-2024/"><u>[New] Prime Racing Thrills Quintet of Choice for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movieformatwebmmp3-movavi/"><u>線上免費MOVIE_FORMAT.WEBM改MP3 - 使用 Movavi 媒體轉換器進行無縫配合</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-guide-to-streamlining-tasks-with-ios-shortcuts-top-18-techniques/"><u>Expert Guide to Streamlining Tasks with iOS Shortcuts - Top 18 Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-12-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 12 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-multiframe-view-microsoft-edges-pip/"><u>Mastering Multiframe View Microsoft Edge's PIP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818259363-opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-wnddevice-creation-issue/"><u>Overcome WndDevice Creation Issue</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211252856-9798868994609-padroneggiare-la-saggezza/"><u>Padroneggiare la saggezza | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-handling-gpu-errors-without-pause-in-use/"><u>Strategies for Handling GPU Errors without Pause in Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/superior-performance-on-the-rise-upgraded-drivers-for-amd-hd-6950/"><u>Superior Performance on the Rise: Upgraded Drivers for AMD HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-smooth-zoom-recording-tech-fixes-of-today/"><u>Unveiling Smooth Zoom Recording: Tech Fixes of Today</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726027361142-windows-10mp4/"><u>Windows 10上でMP4ビデオから固定画像を抽出する詳細ガイド</u></a></li>
+</ul></div>
 

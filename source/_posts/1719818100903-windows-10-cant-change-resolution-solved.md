@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Can't Change Resolution [SOLVED]
-date: 2024-09-19T07:21:38.200Z
-updated: 2024-09-19T16:15:08.188Z
+date: 2024-11-07T22:28:11.134Z
+updated: 2024-11-13T19:42:02.881Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -70,6 +77,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -90,13 +104,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -104,15 +111,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -140,5 +154,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-accolades-across-platforms-for-video-creators-for-2024/"><u>[New] Accolades Across Platforms for Video Creators for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-compatibility-with-minimal-hardware/"><u>Achieving Compatibility with Minimal Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adaptive-ai-pivotal-additions-in-gpt-5s-scope/"><u>Adaptive AI: Pivotal Additions in GPT-5's Scope</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-se-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone SE Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/contract-window-sizing-in-win-10/"><u>Contract Window Sizing in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-window-flip-windows-11s-display-issue/"><u>Correct Window Flip: Windows 11'S Display Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-monitor-intermittent-screenshots/"><u>Fixing Laptop Monitor Intermittent Screenshots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-experience-not-working-solved/"><u>GeForce Experience Not Working [SOLVED]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-immersive-world-of-lg-27ud68/"><u>In 2024, Discovering the Immersive World of LG 27UD68</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-metaverse-unraveled-a-cosmic-collision/"><u>The Metaverse Unraveled: A Cosmic Collision</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-potential-intel-graphics-on-underpowered-devices/"><u>Unlock Potential: Intel Graphics on Underpowered Devices</u></a></li>
+<li><a href="https://techidaily.com/1723808215753-unlock-the-secrets-of-your-digital-footprint-find-your-ip-for-free-now/"><u>Unlock the Secrets of Your Digital Footprint: Find Your IP for Free Now!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-at-the-let-loose-event-the-new-m4-ipad-pro-and-13-inch-ipad-air-revealed-with-upgraded-apple-pencil-full-recap-on-zdnet/"><u>Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap on ZDNet</u></a></li>
+</ul></div>
 

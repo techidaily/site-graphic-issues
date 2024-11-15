@@ -1,7 +1,7 @@
 ---
 title: Stabilizing Fallout 4 Play on PC Systems
-date: 2024-09-16T09:36:05.955Z
-updated: 2024-09-19T18:16:33.075Z
+date: 2024-11-07T23:24:06.969Z
+updated: 2024-11-13T21:51:30.518Z
 tags:
   - win11
   - win10
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/2b11c9a35e9bf42b72b792cdfd30fad6b2d3f68c7
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/2b11c9a35e9bf42b72b792cdfd30fad6b2d3f68c7
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/2b11c9a35e9bf42b72b792cdfd30fad6b2d3f68c7
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -107,10 +107,10 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
@@ -118,6 +118,13 @@ If the issue persists, try the following method.
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -140,5 +147,17 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-strategy-for-selecting-a-premium-stream-service/"><u>[New] The Ultimate Strategy for Selecting a Premium Stream Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-hidden-features-funimate-guide/"><u>[New] Unleashing Hidden Features - Funimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>2024 Approved GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-cinematic-reels-embracing-the-power-of-pause/"><u>Crafting Cinematic Reels Embracing the Power of Pause</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flat-screen-fix-for-asymmetrical-use/"><u>Flat-Screen Fix for Asymmetrical Use</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-glitch-to-glory-how-to-reset-final-cut-pro-x-and-resolve-issues/"><u>New From Glitch to Glory How to Reset Final Cut Pro X and Resolve Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pc-peace-of-mind-with-fixed-fallout-4-issues/"><u>PC Peace of Mind with Fixed Fallout 4 Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pixels-perfection-achieved-display-settings-saved/"><u>Pixels Perfection Achieved: Display Settings Saved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/regulating-window-size-for-win11/"><u>Regulating Window Size for Win11</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco F5 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
 

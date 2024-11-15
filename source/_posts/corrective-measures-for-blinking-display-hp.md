@@ -1,7 +1,7 @@
 ---
 title: Corrective Measures for Blinking Display (HP)
-date: 2024-09-18T23:46:55.083Z
-updated: 2024-09-20T05:38:03.192Z
+date: 2024-11-06T16:24:43.815Z
+updated: 2024-11-13T17:12:44.187Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -66,6 +73,13 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -84,10 +98,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -95,10 +109,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
@@ -126,13 +140,6 @@ Here is how to do it:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once finished with the repair, check if the error has been resolved.
@@ -157,5 +164,20 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snappy-solutions-maintaining-a-vigorous-snapstreak/"><u>[New] Snappy Solutions Maintaining a Vigorous Snapstreak</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-video-converters-for-high-quality-webm-for-2024/"><u>[Updated] Best YouTube Video Converters for High-Quality WebM for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-use-social-blade-for-youtube-analytics-stats-and-how-to-use-them-for-2024/"><u>[Updated] Use Social Blade for YouTube Analytics - Stats & How to Use Them for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-nighttime-narratives-in-pixels/"><u>2024 Approved Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ider-tips-to-make-money-quickly-on-youtube-shorts-for-2024/"><u>7 Insider Tips to Make Money Quickly on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conclusion-completing-nvidia-installer-procedure/"><u>Conclusion: Completing NVIDIA Installer Procedure</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-your-flv-videos-on-mac-with-the-powerful-and-easy-to-use-macx-free-video-converter/"><u>Convert Your FLV Videos on Mac with the Powerful & Easy-to-Use MacX Free Video Converter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-your-connection-with-asus-rt-ac88u-gaming-router-an-expert-review/"><u>Mastering Your Connection with Asus RT-AC88U Gaming Router - An Expert Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-windows-10-r9-driver-problems/"><u>No More Glitches: Solved Windows 10 R9 Driver Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-reversed-displays-in-windows-11/"><u>Rectifying Reversed Displays in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-gpu-capability-to-desktop-pcs-win1011/"><u>Restoring GPU Capability to Desktop PCs Win10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-your-silent-laptops-visual-interface/"><u>Saving Your Silent Laptop's Visual Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-update-superior-display-settings-available/"><u>Windows 11 Update: Superior Display Settings Available</u></a></li>
+</ul></div>
 

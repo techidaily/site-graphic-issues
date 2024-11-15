@@ -1,7 +1,7 @@
 ---
 title: Banish Persistent Fluctuating Light on ASUS Laptops
-date: 2024-09-17T02:42:16.685Z
-updated: 2024-09-19T17:03:04.767Z
+date: 2024-11-10T17:17:09.616Z
+updated: 2024-11-13T19:47:21.039Z
 tags:
   - win11
   - win10
@@ -40,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/ade52c66f0e56fc9f46bf8a90a52f0a6d57269829
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
@@ -59,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ade52c66f0e56fc9f46bf8a90a52f0a6d57269829
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update or delete incompatible apps
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** .
@@ -68,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/ade52c66f0e56fc9f46bf8a90a52f0a6d57269829
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -90,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/ade52c66f0e56fc9f46bf8a90a52f0a6d57269829
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -99,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/ade52c66f0e56fc9f46bf8a90a52f0a6d57269829
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -112,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/ade52c66f0e56fc9f46bf8a90a52f0a6d57269829
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -143,5 +165,19 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-transforming-views-into-revenue/"><u>[New] The Ultimate Guide to Transforming Views Into Revenue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>[Updated] 2024 Approved Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-making-magic-with-mac-techniques-for-exceptional-tiktok-videos/"><u>[Updated] In 2024, Making Magic with Mac Techniques for Exceptional TikTok Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerated-repair-resolve-apex-crash/"><u>Accelerated Repair: Resolve Apex Crash</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-infused-search-microsoft-bing-redefined/"><u>AI-Infused Search: Microsoft Bing Redefined</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoiding-common-errors-during-intel-update-in-win7/"><u>Avoiding Common Errors During Intel Update in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-windows-10-screen-flicker-issue/"><u>Conquering Windows 10 Screen Flicker Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevating-gameplay-the-god-of-war-journey/"><u>Elevating Gameplay: The 'God of War' Journey</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-tool-convert-your-images-from-jpg-to-png-with-ease/"><u>Free Online Tool: Convert Your Images From JPG to PNG with Ease!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-drivers-recovered-from-malfunction/"><u>Graphics Drivers Recovered From Malfunction</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-14-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 14 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-asus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Asus Phone Network-Ready</u></a></li>
+</ul></div>
 

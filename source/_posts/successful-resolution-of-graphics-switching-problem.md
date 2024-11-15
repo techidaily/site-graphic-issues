@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2024-10-29T17:20:21.055Z
-updated: 2024-11-04T18:51:13.998Z
+date: 2024-11-09T17:16:58.516Z
+updated: 2024-11-13T19:34:59.315Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -38,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -53,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -91,6 +97,13 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -98,10 +111,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -116,13 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
@@ -132,10 +138,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -157,18 +163,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-footage-top-10-action-cams-with-stabilization/"><u>[New] Best Footage Top 10 Action Cams With Stabilization</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-best-screenshot-apps-for-idevices/"><u>[New] In 2024, Exploring the Best Screenshot Apps for iDevices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-stealthy-strategies-for-eliminating-hashtags/"><u>[New] Stealthy Strategies for Eliminating Hashtags</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-zooming-into-excellence-a-complete-guide-for-professionals-of-podcast-production-for-2024/"><u>[Updated] Zooming Into Excellence A Complete Guide for Professionals of Podcast Production for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>2024 Approved Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-music-library-mp3s-direct-to-youtube-playlist/"><u>2024 Approved Streamline Your Music Library MP3s Direct to YouTube Playlist</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminated-visual-glitches-in-dell-ultrabook/"><u>Eliminated Visual Glitches in Dell Ultrabook</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-driver-not-detecting-device/"><u>Graphics Driver Not Detecting Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-sources-for-free-public-domain-video-downloads/"><u>New Top Sources for Free Public Domain Video Downloads</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-bug-spikes-on-civilization-v/"><u>Solving Bug Spikes on Civilization V</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stopping-volatile-visuals-in-lenovo-devices/"><u>Stopping Volatile Visuals in Lenovo Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-effortless-zooming-on-snapchat-for-2024/"><u>The Ultimate Guide to Effortless Zooming on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-going-against-gravity-reversing-your-vids/"><u>[New] In 2024, Going Against Gravity Reversing Your Vids</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-twitch-black-screen-issues/"><u>[SOLVED] Twitch Black Screen Issues</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-climbing-the-popularity-ladder-with-staff-chosen-videos-at-vimeo/"><u>[Updated] Climbing the Popularity Ladder with Staff-Chosen Videos at Vimeo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-and-solving-critical-error-c1900101-in-windows-setup/"><u>Addressing and Solving Critical Error C1900101 in Windows Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alleviate-visual-synchronization-gaps/"><u>Alleviate Visual Synchronization Gaps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-tips-and-reviews-from-toms-tech-zone/"><u>Dive Into Digital: Tips and Reviews From Tom's Tech Zone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guidelines-to-resolve-c1900101-error-on-pcs/"><u>Guidelines to Resolve C1900101 Error on PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-the-world-of-haul-video-production/"><u>In 2024, Inside the World of Haul Video Production</u></a></li>
+<li><a href="https://facebook.techidaily.com/indias-it-decree-faces-stiff-legal-defense-by-whatsapp/"><u>India's IT Decree Faces Stiff Legal Defense by WhatsApp</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-window-11-display-settings-solved-issues/"><u>Mastering Window 11 Display Settings: Solved Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/salvaging-silenced-chatgpt-tracks/"><u>Salvaging Silenced ChatGPT Tracks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-the-twitch-screen-blankness-woes/"><u>Solve the Twitch Screen Blankness Woes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-to-gain-blue-tick-verification-on-previous-version-of-twitter/"><u>The Ultimate Checklist to Gain Blue Tick Verification on Previous Version of Twitter</u></a></li>
 </ul></div>
 

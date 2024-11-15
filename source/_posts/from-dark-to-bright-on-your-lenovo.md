@@ -1,7 +1,7 @@
 ---
 title: From Dark to Bright on Your Lenovo
-date: 2024-09-19T04:29:44.987Z
-updated: 2024-09-19T19:56:10.122Z
+date: 2024-11-09T18:07:07.238Z
+updated: 2024-11-13T16:02:42.133Z
 tags:
   - win11
   - win10
@@ -79,16 +79,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -97,6 +97,13 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -107,6 +114,13 @@ Here is how to do it:
  2) Locate**Windows Explorer** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
@@ -130,35 +144,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
  Still got a black screen? Please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a system restore
 
@@ -169,10 +170,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **System Protection** tab, click **System Restore…** .
@@ -180,10 +181,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
@@ -218,5 +219,23 @@ So you can try disabling fast startup to see if it does the trick:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-guardian-of-gifs-saving-memorable-moments-from-twitter/"><u>[New] 2024 Approved The Guardian of GIFs Saving Memorable Moments From Twitter</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[Updated] Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-f25-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-win10-teamwork-detection-driver-now-functional/"><u>AMD & Win10 Teamwork: Detection Driver Now Functional</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-update-success-code-22/"><u>Driver Update Success - Code 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-nvidiaintel-switchable-card-issue/"><u>Fixing Windows 10'S Nvidia/Intel Switchable Card Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-smoothness-on-latest-rtx-graphics/"><u>Game Smoothness on Latest RTX Graphics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a18-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A18 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-meizu-21-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Meizu 21 Pro Phone?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>In 2024, Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-graphic-support-resolve-fast/"><u>Missing Graphic Support, Resolve Fast</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-canon-video-editor-a-beginners-guide-to-editing-your-camcorder-footage/"><u>New In 2024, Canon Video Editor A Beginners Guide to Editing Your Camcorder Footage</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-10-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/page-missing-how-to-fix-a-404-error-quickly/"><u>Page Missing: How to Fix a 404 Error Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steadying-stuttering-screens-acer-fixes-guide/"><u>Steadying Stuttering Screens: Acer Fixes Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wwdc-2024-spotlight-explore-the-new-and-improved-features-of-apple-carplay-whats-hot-in-your-dashboard-now-cnet/"><u>WWDC 2024 Spotlight: Explore the New and Improved Features of Apple CarPlay - What's Hot in Your Dashboard Now | CNET</u></a></li>
+</ul></div>
 

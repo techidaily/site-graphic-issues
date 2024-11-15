@@ -1,7 +1,7 @@
 ---
 title: Wipe Clean Sims 4 Colorless Startup
-date: 2024-09-13T07:59:33.879Z
-updated: 2024-09-20T03:00:09.169Z
+date: 2024-11-08T18:01:11.147Z
+updated: 2024-11-13T16:33:24.679Z
 tags:
   - win11
   - win10
@@ -43,9 +43,29 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -64,6 +84,13 @@ Here is how to do it:
 2) Click **My Game Library** , then right-click on **The Sims 4** and click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
 
@@ -92,10 +119,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
@@ -112,28 +139,15 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
@@ -147,10 +161,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
@@ -219,5 +233,24 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-screen-record-on-dell-laptop/"><u>[New] 2024 Approved How to Screen Record on Dell Laptop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-jokeframe-creations-punpicture-studio/"><u>[New] 2024 Approved JokeFrame Creations PunPicture Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-50-exclusive-youtube-banner-free-gifts/"><u>[New] Unlock 50 Exclusive YouTube Banner Free Gifts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-engagement-crafting-instagram-highlights-in-3-steps-for-2024/"><u>[Updated] Elevate Engagement Crafting Instagram Highlights in 3 Steps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-video-reach-optimize-tags-for-600esplus-growth/"><u>[Updated] In 2024, Elevate Video Reach Optimize Tags for $6,00Es+ Growth</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activating-disabled-freesync-on-amd-gpus/"><u>Activating Disabled FreeSync on AMD GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-enhance-vr-experience-update-intel-3000-on-windows-11/"><u>Efficiently Enhance VR Experience - Update Intel 3000 on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-lines-on-laptop-straighten-horizontal-borders/"><u>Fix Lines on Laptop - Straighten Horizontal Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-disabled-gpu-settings-on-windows-devices-win1011/"><u>Fixing Disabled GPU Settings on Windows Devices (Win10/11)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/heal-displays-with-smooth-transitions/"><u>Heal Displays with Smooth Transitions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-uavs-the-basics-of-drone-operations/"><u>In 2024, Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-jokes-and-gag-collection-for-2024/"><u>IPhone Jokes & Gag Collection for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-drivers-tdr-error-corrected/"><u>NVIDIA Drivers: TDR Error Corrected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-tempestuous-screens-in-vista-or-win7/"><u>Taming the Tempestuous Screens in Vista or Win7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-dvd-copying-software-winx-dvd-ripper-platinum-for-windows-10-users/"><u>Ultimate DVD Copying Software – WinX DVD Ripper Platinum for Windows 10 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-the-power-of-discretion-with-the-slim-and-versatile-acer-aspire-c27-all-in-one-pc/"><u>Unleash the Power of Discretion with the Slim & Versatile Acer Aspire C27 All-in-One PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blue-screen-issue-fixed/"><u>Windows 10 Blue Screen Issue Fixed</u></a></li>
+</ul></div>
 

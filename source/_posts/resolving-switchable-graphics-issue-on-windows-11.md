@@ -1,7 +1,7 @@
 ---
 title: Resolving Switchable Graphics Issue on Windows 11
-date: 2024-09-14T07:24:27.198Z
-updated: 2024-09-19T20:13:44.283Z
+date: 2024-11-06T20:15:29.828Z
+updated: 2024-11-13T17:01:21.368Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -84,6 +84,13 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -97,10 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -109,15 +116,28 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
@@ -127,13 +147,6 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,5 +161,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-e-learning-platforms-beyond-udemy-explored/"><u>[Updated] 2024 Approved Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-live-to-recorded-using-obs-for-games/"><u>[Updated] 2024 Approved From Live to Recorded Using OBS for Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-secrets-to-crafting-enthralling-edu-videos-for-the-digital-age/"><u>[Updated] Secrets to Crafting Enthralling Edu-Videos for the Digital Age</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818172681-amds-graphics-evolution-upgraded-hd-6950-windows-10-driver/"><u>AMD's Graphics Evolution: Upgraded HD 6950 Windows 10 Driver!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-windows-display-in-win-10-system/"><u>Decrease Windows Display in WIN 10 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-to-optimize-and-reduce-glare-achieve-a-dimmer-display-for-your-android-smartphone-or-tablet/"><u>Discover How to Optimize and Reduce Glare: Achieve a Dimmer Display for Your Android Smartphone or Tablet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-7025-no-more-win11-issues/"><u>GeForce 7025, No More Win11 Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-processor-error-overcome-system-safe/"><u>Graphics Processor Error Overcome, System Safe</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-uninstall-ebooks-from-your-ibooks-collection-the-three-superior-strategies/"><u>How to Effortlessly Uninstall eBooks From Your iBooks Collection: The Three Superior Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-f25-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo F25 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-securing-success-in-win11-conferences-via-zoom/"><u>In 2024, Securing Success in Win11 Conferences via Zoom</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-the-tcl-32s325-the-ultimate-review-of-the-stylish-and-clever-smart-led-tv-from-2019/"><u>Inside the TCL 32S325: The Ultimate Review of the Stylish and Clever Smart LED TV From 2019</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximizing-media-iphoneipad-download-youtube-videos-step-by-step/"><u>Maximizing Media IPhone/iPad - Download Youtube Videos Step-by-Step</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-installation-obstacle-for-nvidia-driver/"><u>Overcome Installation Obstacle for Nvidia Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gpu-fan-stillness-issues/"><u>Resolving GPU Fan Stillness Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversing-high-dpi-lockup-windows-11s-fix/"><u>Reversing High-DPI Lockup: Windows 11'S Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-graphics-switching-problem/"><u>Successful Resolution of Graphics Switching Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/what-is-4k-resolution/"><u>What Is 4K Resolution</u></a></li>
+</ul></div>
 

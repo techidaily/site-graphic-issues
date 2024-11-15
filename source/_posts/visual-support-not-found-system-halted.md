@@ -1,7 +1,7 @@
 ---
 title: Visual Support Not Found, System Halted
-date: 2024-09-12T20:11:04.035Z
-updated: 2024-09-15T06:12:33.076Z
+date: 2024-11-07T21:35:59.925Z
+updated: 2024-11-13T22:33:24.300Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 2. [Update graphics card driver](#Solution2)
 3. [Delete the config.dat file of your game](#Solution3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Graphics Card and why this problem happens
 
  A Graphics card is referred to**video card** ,**video adapter** , and**display adapter** as well. It **connects to the motherboard of a computer system and generates output images** to display. If you want to watch movies or play games on your computer, a dedicated graphics card can greatly improve the quality of the graphics.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
@@ -81,6 +88,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating driver, restart your PC, and open your game to see if it works.
 
  Note: You can also try to restore drivers to previous status to solve the problem. First of all, you need to backup drivers in your PC ([**Pro version**](https://tools.techidaily.com/drivereasy/download/) required), and then click [**Driver Restore**](https://tools.techidaily.com/drivereasy/download/) in**Tools** section.
@@ -88,10 +102,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -101,13 +115,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Go to**Documents**  \>**My Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Click the file named after your game (like Terraria)
 
@@ -137,5 +144,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-turn-your-iphone-vids-clockwise/"><u>[New] In 2024, Turn Your iPhone Vids Clockwise</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-natural-landscapes-essential-templates-to-improve-your-film-craft/"><u>[New] Natural Landscapes Essential Templates to Improve Your Film Craft</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-screen-definition-and-precision/"><u>Boosting Screen Definition and Precision</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-hyperz-compatibility-fault/"><u>Cured HyperZ Compatibility Fault</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166628-9781837822386-dreams-of-awakening-revised-edition/"><u>Dreams of Awakening (Revised Edition) | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elgato-drivers-download-easily-and-quickly/"><u>Elgato Drivers Download Easily & Quickly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-screen-flicker-on-windows-7/"><u>Eradicating Screen Flicker on Windows 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-update-your-discord-profile-image-easily/"><u>How To Update Your Discord Profile Image Easily</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-g22-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia G22 Devices | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nix-amds-graphics-issue-in-tarkov-fastly/"><u>Nix AMD's Graphics Issue in Tarkov Fastly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhaul-black-screen-in-win11-after-update-fall/"><u>Overhaul Black Screen in Win11 After Update Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-window-11-media-quality-post-upgrade/"><u>Rectifying Window 11 Media Quality Post-Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-civ-5-pc-glitches/"><u>Resolve CIV 5 PC Glitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplifying-your-pc-login-the-ultimate-guide-to-erasing-your-pin-in-windows-10/"><u>Simplifying Your PC Login: The Ultimate Guide to Erasing Your PIN in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-salvage-display-settings-on-windows-versions-7-and-10-fix/"><u>Steps to Salvage Display Settings on Windows Versions 7 & 10 [Fix]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Remedying Intermittent Displays in HP
-date: 2024-09-15T10:27:14.337Z
-updated: 2024-09-20T06:03:14.935Z
+date: 2024-11-07T18:52:01.098Z
+updated: 2024-11-13T23:21:46.555Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -66,6 +73,13 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -83,16 +97,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -108,13 +122,6 @@ Here is how to do it:
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -127,10 +134,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -157,5 +164,21 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-maximizing-mobility-with-top-10-payload-drones/"><u>[New] 2024 Approved Maximizing Mobility with Top 10 Payload Drones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12/"><u>[New] Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-memelores-premier-10-templates-for-2024/"><u>[New] Memelore's Premier 10 Templates for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-5-best-snipping-tools-for-pc/"><u>[Updated] 2024 Approved 5 Best Snipping Tools for Pc</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-gaming-experience-new-hd-6950-drivers-w11/"><u>Boost Your Gaming Experience - New HD 6950 Drivers W11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-overwatch-graphics-support/"><u>Enhanced Overwatch Graphics Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-sports-entertainment-how-to-stream-espn-plus-on-your-lg-display/"><u>Enjoy Sports Entertainment: How to Stream ESPN Plus on Your LG Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-it-fast-nvidia-cards-without-monitors/"><u>Fix It Fast: NVIDIA Cards Without Monitors</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixingflippedmonitor-views/"><u>FixingFlippedMonitor Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-framework-not-initializing/"><u>Graphics Framework Not Initializing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-huawei-nova-y71-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Huawei Nova Y71 Through Google Earth?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shattering-screen-stutter-mysteries-win7-style/"><u>Shattering Screen Stutter Mysteries, Win7 Style</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-character-creation-with-ai-11-chatbot-prompts-for-authors/"><u>Ultimate Guide: Character Creation with AI - 11 Chatbot Prompts for Authors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Missing Graphic Support, Resolve Fast!
-date: 2024-09-07T16:04:50.183Z
-updated: 2024-09-14T16:26:26.337Z
+date: 2024-11-12T20:20:25.766Z
+updated: 2024-11-13T20:25:38.374Z
 tags:
   - win11
   - win10
@@ -36,9 +36,25 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
  On your keyboard, press the **Windows logo**  key and**R** at the same time to open the Run dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the**Scan button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
 4. **Check if your graphics card shows up under Display adapters.**  
@@ -66,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 ### Fix 3: Uninstall recent Windows updates
@@ -84,15 +107,36 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**View installed updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Right-click a recent update, and then click**Uninstall** .
 
  Repeat this process to uninstall other updates. Check if your problem is resolved every time you finish uninstalling a update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-42.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your problem persists, check the fix below.
 
@@ -107,16 +151,16 @@ If your problem persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-514.png)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Open your computer case.
@@ -125,31 +169,11 @@ If your problem persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-504.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here is where a graphics card is usually located.
 
 **4)** Plug the power cord back into the power outlet, and then turn on your computer.
 
  Check if this worked for you. If your problem still exists, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -166,13 +190,6 @@ Here is where a graphics card is usually located.
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-495.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Go to the manufacturer’s support website and search for the latest update for your BIOS.
 
@@ -200,5 +217,22 @@ Here is where a graphics card is usually located.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/uick-youtube-revenue-assessments-available-for-2024/"><u>[New] Quick YouTube Revenue Assessments Available for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ten-best-practices-for-meme-creation-for-2024/"><u>[New] Ten Best Practices for Meme Creation for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-achieving-profit-through-youtube-sourav-joshis-guide/"><u>2024 Approved Achieving Profit Through YouTube Sourav Joshi’s Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-fix-guide-repair-and-enhance-your-iphoneipadmacs-airdrop/"><u>2024 Approved Quick-Fix Guide Repair and Enhance Your iPhone/iPad/Mac's AirDrop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/containing-the-chromatic-charge-of-an-acer-monitor/"><u>Containing the Chromatic Charge of an Acer Monitor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-correcting-steam-deck-glide-anomalies/"><u>Effective Solutions for Correcting Steam Deck Glide Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-trouble-signaled-by-tdr-smoothed-out-by-nvidia/"><u>GPU Trouble Signaled By TDR — Smoothed Out By NVIDIA</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peer-reviews-unpacking-vllo-experience/"><u>In 2024, Peer Reviews Unpacking VLLO Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>In 2024, Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-window-11-glitchy-screens/"><u>Mend: Window 11 Glitchy Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-miracle-hasty-solution-to-loss-of-signal/"><u>Monitor Miracle: Hasty Solution to Loss of Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-steams-disk-write-error/"><u>Quick Solutions for Resolving Steam's Disk Write Error</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-stabilizing-aerial-cameras-choosing-a-drone-gimbal/"><u>The Art of Stabilizing Aerial Cameras Choosing a Drone Gimbal</u></a></li>
+</ul></div>
 

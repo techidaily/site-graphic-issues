@@ -1,7 +1,7 @@
 ---
 title: Dial Down ASUS Laptop Display Flash Quickly
-date: 2024-10-30T17:39:44.991Z
-updated: 2024-11-04T18:14:57.446Z
+date: 2024-11-13T00:00:36.113Z
+updated: 2024-11-13T19:21:29.602Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **I’m using Windows 7:**
@@ -73,23 +66,16 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
@@ -101,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -120,18 +113,18 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -143,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -171,18 +171,15 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-the-ultimate-guide-to-borders-on-insta-pics/"><u>[New] In 2024, Step-By-Step The Ultimate Guide to Borders on Insta Pics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[Updated] 2024 Approved From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-discover-the-top-10-historically-rich-youtube-tutorials-for-2024/"><u>[Updated] Discover the Top 10 Historically Rich YouTube Tutorials for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-sound-systems-under-100-for-immersive-gameplay/"><u>[Updated] Optimal Sound Systems Under $100 for Immersive Gameplay</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-video-editing-the-essentials-of-cropping-and-exporting-to-instagram/"><u>2024 Approved Navigating Video Editing The Essentials of Cropping and Exporting to Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central-for-2024/"><u>A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/altering-windows-10-display-mode/"><u>Altering Windows 10 Display Mode</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-find-x7-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Find X7 FRP Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-calibration-in-win10-successful/"><u>Screen Calibration in Win10 Successful</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-compress-your-videos-down-to-a-manageable-18mb/"><u>Simple Steps to Compress Your Videos Down to a Manageable 1ˈ8MB</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-drivers-from-triggering-minecraft-collapse/"><u>Stop Drivers From Triggering Minecraft Collapse</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-hidden-glitch-dispelled-legions-direct-x-solution-found/"><u>The Hidden Glitch Dispelled: Legion's Direct X Solution Found</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fixing-obs-screen-blackout-problems/"><u>[New] In 2024, Fixing OBS Screen Blackout Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elite-psd-bevel-and-emboss-styles/"><u>[Updated] In 2024, Elite PSD Bevel & Emboss Styles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-crafting-the-perfect-end-screen-youtube-template-guidebook/"><u>2024 Approved Crafting the Perfect End Screen - YouTube Template Guidebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-7-with-latest-intel-gfx-drivers/"><u>Boosting Windows 7 with Latest Intel Gfx Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-up-the-darkness-on-lenovo-devices/"><u>Clear Up the Darkness on Lenovo Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-google-pixel-8-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Google Pixel 8?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>In 2024, Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-8-free-software-solutions-revolutionizing-corporate-video-meetings/"><u>In 2024, Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-frozen-calls-quick-camera-repairs-for-clear-zooming/"><u>No More Frozen Calls: Quick Camera Repairs for Clear Zooming</u></a></li>
 </ul></div>
 

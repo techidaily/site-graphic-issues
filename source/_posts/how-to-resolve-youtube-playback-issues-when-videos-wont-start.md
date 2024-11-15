@@ -1,7 +1,7 @@
 ---
 title: How to Resolve YouTube Playback Issues When Videos Won't Start
-date: 2024-11-02T17:30:22.198Z
-updated: 2024-11-04T18:00:36.833Z
+date: 2024-11-08T21:55:53.386Z
+updated: 2024-11-13T16:55:21.287Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Fix 3: Update your graphics driver
 
  Another common cause of the**YouTube video not showing** issue is an outdated or corrupt graphics driver on your system. So you should update the graphics driver to see if it fixes the problem.
@@ -76,23 +69,23 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play a video in YouTube to see if it works properly now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 4: Change the hardware acceleration
 
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
 
@@ -123,10 +123,17 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
@@ -137,22 +144,8 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -168,19 +161,33 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76707531fa7.jpg)
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Cut-paste**ALL** contents to a safe location in case something wrong comes up. Then delete**EVERYTHING** in this location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76717eb9673.jpg)
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -194,13 +201,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -230,24 +230,19 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-without-amd-driver-installation/"><u>[FIXED] Windows Without AMD Driver Installation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[New] In 2024, Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1-video-transfer-mastery-with-myspass-downloader-seamless-conversion-from-myspass-to-popular-video-formats/"><u>1. 'Video Transfer Mastery with Myspass Downloader: Seamless Conversion From Myspass to Popular Video Formats'</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-cutting-edge-splitcams-rated-or-not/"><u>2024 Approved Cutting-Edge SplitCams Rated or Not?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/alienwares-new-lineup-of-gaming-laptops-ready-to-debut-at-ces-202-section-1-theme-question/"><u>Alienware's New Lineup of Gaming Laptops Ready to Debut at CES 202 # Section 1: Theme Question</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hing-dark-pixels-from-youtube-views-for-2024/"><u>Banishing Dark Pixels From YouTube Views for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818361079-easy-to-fix-you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu/"><u>Easy To Fix You Are Not Currently Using a Display Attached to an NVIDIA GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-intermittent-displays/"><u>Fix: Windows 10 Intermittent Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-invisible-displays-on-personal-computers/"><u>Fixing Invisible Displays on Personal Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-microsoft-copilot-transforms-modern-software-creation/"><u>How Microsoft Copilot Transforms Modern Software Creation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-unresponsive-logitech-settings-on-your-pc-running-windows/"><u>How to Repair Unresponsive Logitech Settings on Your PC Running Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igniting-the-dormant-gpu-fan-force/"><u>Igniting the Dormant GPU Fan Force</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/latest-tricks-for-ios-screenshots-and-recording/"><u>Latest Tricks for iOS Screenshots & Recording</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidias-display-armada-back-online/"><u>Nvidia's Display Armada Back Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-distorted-monitors-in-win10/"><u>Overcoming Distorted Monitors in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-erratic-screen-behavior-of-pro-7/"><u>Rectifying Erratic Screen Behavior of Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shadowed-screen-post-driver-update/"><u>Shadowed Screen Post-Driver Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-alternative-for-your-apple-watch-ultra-is-restocked-discover-the-secret-in-our-latest-zdnet-report/"><u>The Top Alternative for Your Apple Watch Ultra Is Restocked! Discover the Secret in Our Latest ZDNET Report.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-computer-potential-through-toms-hardware-wisdom/"><u>Unleash Your Computer Potential Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ropel-views-up-top-hashtag-combinations-for-youtube-profit/"><u>[New] Propel Views Up Top Hashtag Combinations for YouTube Profit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimize-your-chrome-vocal-experience-select-the-best-text-to-speech-apps-online/"><u>[Updated] Optimize Your Chrome Vocal Experience Select the Best Text-to-Speech Apps Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-monetary-value-of-each-youtube-brand-partnership-in-2024/"><u>[Updated] The Monetary Value of Each YouTube Brand Partnership, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-inclusive-tutorial-setting-up-your-latest-ipad-device-based-expert-advice/"><u>All-Inclusive Tutorial: Setting Up Your Latest iPad Device Based Expert Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flipyourscreenbackwards-solution/"><u>FlipYourScreenBackwards Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-driver-not-detecting-device/"><u>Graphics Driver Not Detecting Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-elevate-youtube-navigating-tweets-in-1080p-clarity/"><u>In 2024, Elevate YouTube Navigating Tweets in 1080P Clarity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-download-of-lenovo-ideapad-x230-drivers-get-them-now/"><u>Quick and Easy Download of Lenovo Ideapad X230 Drivers - Get Them Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-tips-eliminate-hazy-laptop-screen-lines/"><u>Quick Tips: Eliminate Hazy Laptop Screen Lines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-stabilize-hp-screen-flashes/"><u>Solutions to Stabilize HP Screen Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-display-ended-laptop-screen-flickering-resolved/"><u>Stable Display: Ended Laptop Screen Flickering [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-volatile-visuals-in-lenovo-devices/"><u>Stopping Volatile Visuals in Lenovo Devices</u></a></li>
 </ul></div>
 

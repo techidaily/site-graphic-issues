@@ -1,7 +1,7 @@
 ---
 title: ScreenOrientationFix Guide
-date: 2024-11-01T20:06:39.843Z
-updated: 2024-11-04T19:25:11.832Z
+date: 2024-11-09T20:03:23.997Z
+updated: 2024-11-13T21:35:32.851Z
 tags:
   - win11
   - win10
@@ -48,32 +48,26 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then try the keyboard shortcut combinations again to rotate your computer/laptop screen.
 
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure Display Settings
@@ -96,22 +90,15 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
@@ -119,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
  1) Click the**Start** button at the bottom left corner, and select**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select**View by category** , and click**Adjust screen resolution** .
 
@@ -128,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912cecb794.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll need to try each one to flip your computer screen to a proper orientation.
 
  If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
@@ -142,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
 
  Still no luck? Don’t be upset. There’s one more thing to try…
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -194,24 +188,16 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-12-pro-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 12 Pro IMEI Checker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-barrier-preventing-new-halo-infinite-opening/"><u>DirectX12 Barrier Preventing New Halo Infinite Opening</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gebrauchsfertige-winxdvd-anwendung-dvd-ausschneiden-videokonversion-and-qualitatsverbesserung-authentische-software/"><u>Gebrauchsfertige WinXDVD Anwendung: DVD Ausschneiden, Videokonversion & Qualitätsverbesserung – Authentische Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-word-2023-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a Word 2023 Document</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini Without Passcode?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/intuitive-steps-for-photo-integration-in-instagram-for-2024/"><u>Intuitive Steps for Photo Integration in Instagram for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pinpointed-and-rectified-screen-flicker-on-laptops/"><u>Pinpointed and Rectified Screen Flicker on Laptops</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/pursuing-perfection-on-track-compiling-top-5-simulators-for-2024/"><u>Pursuing Perfection on Track Compiling Top 5 Simulators for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-bring-back-signal-on-dp-port/"><u>Quick-Fix Guide: Bring Back Signal on DP Port</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedied-geforce-shader-compatibility/"><u>Remedied GeForce Shader Compatibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-guide-resolving-non-detecting-graphics-cards/"><u>Remedy Guide: Resolving Non-Detecting Graphics Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/setting-savorability-secured-post-update/"><u>Setting Savorability Secured Post-Update</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-infinix-zero-5g-2023-turbo-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Infinix Zero 5G 2023 Turbo to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-moire-pattern-on-pcs/"><u>Stop Moiré Pattern on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-spec-challenges-for-intel-gpu-installation/"><u>Tackling Spec Challenges for Intel GPU Installation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-minnesota-twin-study-this-research-compared-twins-raised-apart-to-those-raised-together-and-found-significant-differences-in-iq-between-the-two-groups-s4/"><u>The Minnesota Twin Study: This Research Compared Twins Raised Apart to Those Raised Together and Found Significant Differences in IQ Between the Two Groups, Suggesting Environmental Factors Play a Role Alongside Genetic Ones.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-tutorial-on-dividing-audio-files-in-audacity-easy-steps-inside/"><u>The Ultimate Tutorial on Dividing Audio Files in Audacity – Easy Steps Inside!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/venturing-beyond-standard-definition-a-look-at-4k-tvs/"><u>Venturing Beyond Standard Definition: A Look at 4K TVs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-analyzing-the-roi-of-sns-hdr-pro-vs-other-hdr-tools/"><u>[New] 2024 Approved Analyzing the ROI of SNS HDR Pro Vs. Other HDR Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stepwise-strategy-for-transforming-your-youtube-videos-with-imovie/"><u>[New] 2024 Approved Stepwise Strategy for Transforming Your YouTube Videos with iMovie</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-captivating-call-to-action-designing-a-dynamic-subscribe-buttons-with-filmora-for-2024/"><u>[Updated] Captivating Call-to-Action Designing a Dynamic Subscribe Buttons with Filmora for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-choosing-the-pinnacle-in-hdr-cameras/"><u>[Updated] Masterclass Choosing the Pinnacle in HDR Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-effortlessly-gain-premium-quality-pictures-online/"><u>2024 Approved How to Effortlessly Gain Premium Quality Pictures Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blur-effective-strategies-for-screen-stability/"><u>Banish Blur: Effective Strategies for Screen Stability</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-complet-pour-transferer-du-contenu-dun-hdd-a-un-ssd-en-utilisant-le-logiciel-aomei-backupper/"><u>Guide Complet Pour Transférer Du Contenu D'un HDD À Un SSD en Utilisant Le Logiciel AOMEI Backupper.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-g-sync-not-detected/"><u>Nvidia's G-Sync Not Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-dimming-screen-issue-in-lenovo-pcs/"><u>Solutions for Dimming Screen Issue in Lenovo PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-tablet-visuals-on-pro-7/"><u>Stabilizing Tablet Visuals on Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-no-more-issues/"><u>Windows 11: Perfect Display, No More Issues</u></a></li>
 </ul></div>
 

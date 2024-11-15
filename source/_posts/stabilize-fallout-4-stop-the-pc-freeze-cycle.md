@@ -1,7 +1,7 @@
 ---
 title: "Stabilize Fallout 4: Stop the PC Freeze Cycle"
-date: 2024-09-15T11:13:58.991Z
-updated: 2024-09-19T21:57:29.807Z
+date: 2024-11-12T16:15:30.907Z
+updated: 2024-11-13T19:16:57.669Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 5. [**Configure settings in your Fallout 4**](#Way4)
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. Install the latest patch**
 
@@ -62,27 +69,20 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
-4) Restart your computer and open your Fallout 4.
-
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Restart your computer and open your Fallout 4.
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -107,10 +107,10 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
@@ -118,6 +118,13 @@ If the issue persists, try the following method.
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -140,5 +147,24 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-capturing-the-future-an-overview-of-iphone-xs-camera-innovations/"><u>[New] 2024 Approved Capturing the Future An Overview of iPhone X's Camera Innovations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-settle-down-with-our-best-10-chill-titles/"><u>[New] In 2024, Settle Down with Our Best 10 Chill Titles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-successful-nvidia-setup-process/"><u>Achieved: Successful NVIDIA Setup Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinking-bring-brightness/"><u>Banish Blinking, Bring Brightness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-windows-11-recovery-success/"><u>Cursory Windows 11 Recovery Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-black-screen-woes-here-are-quick-troubleshooting-steps/"><u>Fallout #4 Black Screen Woes? Here Are Quick Troubleshooting Steps!</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-engaging-stories-expanding-audiences-top-three-methods/"><u>In 2024, Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>In 2024, How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pureimage-the-backdrop-cutter/"><u>In 2024, PureImage The Backdrop Cutter</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-mastery-correct-vertical-edges-instantly/"><u>Monitor Mastery: Correct Vertical Edges Instantly</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-premiere-pros-full-potential-system-requirements-and-setup-tips/"><u>New Unlock Premiere Pros Full Potential System Requirements and Setup Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnecting-missing-gpu-devices-in-computers/"><u>Reconnecting Missing GPU Devices in Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-overcoming-nvidia-setup-error/"><u>Success: Overcoming NVIDIA Setup Error</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/timecode-calculator-showdown-the-top-8-tools/"><u>Timecode Calculator Showdown The Top 8 Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-color-locked-in-asus-devices-with-ease/"><u>Unlock Color Locked in Asus Devices with Ease</u></a></li>
+</ul></div>
 

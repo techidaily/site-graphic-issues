@@ -1,7 +1,7 @@
 ---
 title: "Graphics Problem: No Cards Detected"
-date: 2024-10-30T19:17:14.799Z
-updated: 2024-11-04T18:40:50.391Z
+date: 2024-11-07T18:03:58.491Z
+updated: 2024-11-13T19:52:04.145Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 4. **[Reinstall your graphics card](#d)**
 5. **[Update your BIOS](#e)** [](#e)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Refresh Device Manager
 
  One quick fix that works for many Windows users is refreshing Device Manager. Follow the instructions below to see how to do it:  
@@ -44,9 +37,24 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the**Scan button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
 4. **Check if your graphics card shows up under Display adapters.**  
@@ -69,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -85,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall recent Windows updates
@@ -107,6 +108,19 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**View installed updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-38.jpg)
@@ -117,14 +131,14 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your problem persists, check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your graphics card
 
@@ -137,16 +151,10 @@ If your problem persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-514.png)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Open your computer case.
@@ -155,25 +163,11 @@ If your problem persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-504.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here is where a graphics card is usually located.
 
 **4)** Plug the power cord back into the power outlet, and then turn on your computer.
 
  Check if this worked for you. If your problem still exists, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -190,6 +184,13 @@ Here is where a graphics card is usually located.
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-495.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to the manufacturer’s support website and search for the latest update for your BIOS.
 
@@ -219,16 +220,21 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-first-row-fun-without-football-baseball-or-basketball/"><u>[New] 2024 Approved First Row Fun Without Football, Baseball, or Basketball</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-quality-virtual-console-imitation-software-for-pc-for-2024/"><u>[Updated] High-Quality Virtual Console Imitation Software for PC for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-integrate-youtube-playlists-into-your-site/"><u>[Updated] How to Integrate YouTube Playlists Into Your Site</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-stuck-on-black-window-fixed/"><u>Cursor Stuck on Black Window [FIXED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-monochrome-mishaps-resolved/"><u>Lenovo Monochrome Mishaps Resolved</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/than-clicks-what-determines-youtubes-view-numbers-for-2024/"><u>More than Clicks What Determines YouTube's View Numbers for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/places-to-find-background-music-for-videos-for-2024/"><u>Places to Find Background Music for Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818332029-realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-teamwork-steps-to-get-your-voice-chat-working-in-call-of-duty-black-ops-cold-war/"><u>Reviving the Teamwork: Steps to Get Your Voice Chat Working in Call of Duty - Black Ops Cold War</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-intelligent-graphics-update-for-windows-11/"><u>Seamless Intelligent Graphics Update for Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seo-tactics-to-increase-youtube-traffic-and-views-for-2024/"><u>SEO Tactics to Increase YouTube Traffic and Views for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-from-mobile-how-to-upload-videos-on-twit/"><u>[New] Direct From Mobile How to Upload Videos on Twit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlined-approach-to-iphone-screen-recording-for-2024/"><u>[New] Streamlined Approach to iPhone Screen Recording for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1724313529513-nsdabbyy/"><u>市場のリーダー、株式会社NSD及びABBYY 日本合同銀行が認定パートナー契約を成立:関係者コメントと展望</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-freeze-identify-incorrect-video-drivers/"><u>Game Freeze? Identify Incorrect Video Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-memory-shortage-issues-in-windows-11-easily/"><u>How to Resolve Memory Shortage Issues in Windows 11 Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/managing-oversized-windows-11-resolution/"><u>Managing Oversized Windows 11 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-sims-screen-blankness/"><u>Overcome Sims Screen Blankness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reoriented-notebook-display-for-comfort/"><u>Reoriented Notebook Display for Comfort</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-soundbar-enhancement-a-users-guide-to-adding-subwoofers-for-richer-bass/"><u>Samsung Soundbar Enhancement: A User's Guide to Adding Subwoofers for Richer Bass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-steps-to-resolve-6-predicaments-in-gpt-communication/"><u>Swift Steps to Resolve 6 Predicaments in GPT Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-modern-warfares-voice-chat-issues/"><u>Troubleshooting Guide: Fixing Modern Warfare's Voice Chat Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators-for-2024/"><u>Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators for 2024</u></a></li>
 </ul></div>
 

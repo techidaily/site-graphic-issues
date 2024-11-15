@@ -1,7 +1,7 @@
 ---
 title: Fixing Bugs Affecting PC Experience, Civilization V
-date: 2024-09-15T08:11:00.280Z
-updated: 2024-09-19T19:25:31.143Z
+date: 2024-11-10T21:57:07.129Z
+updated: 2024-11-13T17:42:40.678Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game integrity
 
  Sometimes**CIV 5 crashes** because there’re broken or missing files on your system. So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the**CIV 5 crashing**  issue.
@@ -38,6 +45,14 @@ Here’s how to do it:
 2. Click**Library** , then locate and right-click on**Sid Meier’s Civilizatio** n in your list of games and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
@@ -55,18 +70,19 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -79,6 +95,13 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **To update the DirectX to the latest version on your computer:**
 
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
@@ -86,13 +109,6 @@ Here’s how to do it:
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -115,5 +131,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>[New] 2024 Approved High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-frontier-of-film-virtual-realities-in-theaters/"><u>[New] Frontier of Film Virtual Realities in Theaters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/attain-elite-status-a-step-by-step-strategy-to-gaining-a-blue-checkmark-on-x-the-platform-previously-known-as-twitter/"><u>Attain Elite Status: A Step-by-Step Strategy to Gaining a Blue Checkmark on X (The Platform Previously Known as Twitter)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authentic-ai-revealed-crackdown-on-vpns/"><u>Authentic AI Revealed - Crackdown on VPNs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-fix-resumed-normal-operations/"><u>Display Driver Fix: Resumed Normal Operations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-crashing-minecraft-on-pc-with-bad-cards/"><u>Fix Crashing Minecraft on PC with Bad Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-a79-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo A79 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-moto-g04-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola Moto G04 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-oscillating-on-screen-oracles/"><u>Overcoming Oscillating On-Screen Oracles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-simple-fix-laptop-display-vertical-alignment/"><u>Quick & Simple Fix: Laptop Display Vertical Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817944373-transform-your-computer-display-install-intel-graphics-drivers-now-windows-10/"><u>Transform Your Computer Display: Install Intel Graphics Drivers Now, Windows 10!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-an-ai-text-generator/"><u>Updated In 2024, What Is an AI Text Generator?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11s-amd-radeon-r9-fix-guide-completed/"><u>Win11's AMD Radeon R9 Fix Guide [Completed]</u></a></li>
+</ul></div>
 

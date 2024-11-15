@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2024-11-02T20:33:35.379Z
-updated: 2024-11-04T18:14:43.912Z
+date: 2024-11-07T18:32:18.838Z
+updated: 2024-11-13T20:58:23.041Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
@@ -63,39 +70,32 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -111,6 +111,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -120,13 +127,6 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -156,22 +156,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-uniting-voices-and-visions-the-top-mics-for-educational-gaming-and-lifestyle-yt-screens/"><u>[Updated] 2024 Approved Uniting Voices & Visions The Top Mics For Educational, Gaming, and Lifestyle YT Screens</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-expert-choices-for-terraria-for-2024/"><u>[Updated] Top 10 Expert Choices for Terraria for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-instant-file-accessibility-syncing-from-pc-to-iphone/"><u>2024 Approved Instant File Accessibility Syncing From PC to iPhone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blur-tackling-monitor-flickering-troubles/"><u>Banishing Blur: Tackling Monitor Flickering Troubles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-top-30-catchy-disco-handles-for-quick-attention/"><u>In 2024, Top 30 Catchy Disco Handles for Quick Attention</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-media-mobility-in-apples-ecosystem/"><u>Mastering Media Mobility in Apple's Ecosystem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-and-solving-black-screen-anomalies-on-twitch/"><u>Navigating and Solving Black Screen Anomalies on Twitch</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-list-of-online-repositories-featuring-cat-vocalizations-in-mp3-for-2024/"><u>New List of Online Repositories Featuring Cat Vocalizations in MP3 for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-blank-screens-rapid-resolution-of-monitor-issues/"><u>No More Blank Screens: Rapid Resolution of Monitor Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-non-functional-hdmi-ports-on-devices/"><u>Rectifying Non-Functional HDMI Ports on Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reduce-lag-with-easy-tweaks/"><u>Reduce Lag with Easy Tweaks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-file-format-issues-in-civ-5/"><u>Resolving File Format Issues in CIV 5</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-steps-setting-up-your-ps-vr-with-your-personal-computer/"><u>Seamless Steps: Setting Up Your PS VR with Your Personal Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stay-updated-latest-windows-10-drivers-for-amd-6950/"><u>Stay Updated: Latest Windows 10 Drivers for AMD 6950</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-update-laptop-gpu-now-compatible-and-active/"><u>Windows Update - Laptop GPU Now Compatible & Active</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-10-youtube-tips-for-teachers/"><u>[New] In 2024, 10 YouTube Tips for Teachers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716040964837-updated-the-7-best-fps-games-for-2024/"><u>[Updated] The 7 Best FPS Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-ars-capabilities-and-limits/"><u>[Updated] Understanding AR's Capabilities and Limits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-mix-fold-3-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Mix Fold 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-correct-windowsminecraft-driver/"><u>Prevent Crashes: Correct Windows/Minecraft Driver</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-harvesting-fb-status-video-archives/"><u>Strategies for Harvesting FB Status Video Archives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-blank-tv-screen-with-hdmi-issue/"><u>Troubleshoot Blank TV Screen with HDMI Issue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/uncover-the-best-practices-for-video-seo-on-facebook/"><u>Uncover the Best Practices for Video SEO on Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-unveils-crystal-clear-displays/"><u>Win11 Unveils Crystal Clear Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-xp-and-vista-cure-graphics-driver-crashes/"><u>Windows XP & Vista: Cure Graphics Driver Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winerror-dxgkrnlsys-crash-troubleshoot/"><u>WinError: dxgkrnl.sys Crash Troubleshoot</u></a></li>
 </ul></div>
 

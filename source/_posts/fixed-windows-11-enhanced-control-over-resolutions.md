@@ -1,7 +1,7 @@
 ---
 title: Fixed Windows 11 - Enhanced Control Over Resolutions
-date: 2024-09-17T02:33:00.675Z
-updated: 2024-09-20T06:55:45.369Z
+date: 2024-11-12T21:38:11.791Z
+updated: 2024-11-13T19:47:02.355Z
 tags:
   - win11
   - win10
@@ -62,26 +62,46 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -108,10 +128,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
@@ -140,5 +160,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-elevated-cinematography-mastering-drone-use/"><u>[New] Elevated Cinematography Mastering Drone Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-prime-camera-tech-the-top-10-camcorders/"><u>[Updated] Prime Camera Tech The Top 10 Camcorders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dawn-for-dark-lenovo-displays/"><u>Dawn for Dark Lenovo Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disable-fullscreen-monitors-dont-show-in-win10/"><u>Disable Fullscreen? Monitors Don't Show in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-in-win11/"><u>Eliminating Graphic Swap Errors in Win11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-much-money-do-youtubers-make-per-view/"><u>In 2024, How Much Money Do YouTubers Make Per View</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastered-setup-overcoming-nvidia-errors/"><u>Mastered Setup: Overcoming Nvidia Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-failures-display-settings-now-safe/"><u>No More Failures - Display Settings Now Safe</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prepping-for-progress-a-technological-lifesaver-for-2024/"><u>Prepping for Progress A Technological Lifesaver for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reawaken-your-dormant-asus-video-device/"><u>Reawaken Your Dormant ASUS Video Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-video-management-with-easy-to-follow-time-stamp-tutorials/"><u>Streamline Video Management with Easy-to-Follow Time Stamp Tutorials</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-wnddevice-init-succeeded/"><u>Success: WndDevice Init Succeeded</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices-for-2024/"><u>Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y02t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y02T Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

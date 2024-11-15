@@ -1,7 +1,7 @@
 ---
 title: Cured Flickering Screens on Dell Portable Device
-date: 2024-11-03T18:10:02.347Z
-updated: 2024-11-04T17:13:59.153Z
+date: 2024-11-06T18:28:35.011Z
+updated: 2024-11-13T19:31:15.753Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Change the power plan and restore default settings
 
  Changing your power plan to high performance and restore it to default settings is a proven effective way to get rid of this**screen flashing on Dell laptop** issue. To do so:
@@ -47,22 +40,8 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the**High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a803558e52.jpg)
 3. Click **Restore default settings for this plan** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b740b5511476.jpg)  
 
@@ -98,7 +77,21 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)  
  Still no joy? Please move on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -114,22 +107,15 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -150,14 +136,21 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
 3. Double-click on **Desktop Window Manager Session Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b9fbc86c.jpg)
 4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
@@ -165,13 +158,20 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
 5. Restart your computer and hopefully your laptop screen displays normally again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update or delete incompatible apps
@@ -206,14 +206,22 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-selecting-the-ideal-m1-equipped-laptop-for-you/"><u>[New] 2024 Approved Selecting the Ideal M1-Equipped Laptop for You</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-upside-down-screen-problems-in-windows-10/"><u>End Upside-Down Screen Problems in Windows 10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-undercover-approach-to-instagram-stories-on-modern-tech/"><u>In 2024, Undercover Approach to Instagram Stories on Modern Tech</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mp4-converter-f4m-software-convert-audio-and-video-formats/"><u>MP4 Converter F4M Software - Convert Audio & Video Formats</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-call-of-duty-vanguard-game-crashes/"><u>Ultimate Guide to Resolving 'Call of Duty: Vanguard' Game Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unmasking-the-invisible-dx-hiccup-in-legion-of-lol/"><u>Unmasking the Invisible DX Hiccup in Legion of LoL</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warzone-and-windows-10-unlocking-full-gpu-potential-during-gameplay/"><u>Warzone and Windows 10 - Unlocking Full GPU Potential During Gameplay</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-proven-methods-for-assessing-youtube-channel-profitability/"><u>[New] 2024 Approved Proven Methods for Assessing YouTube Channel Profitability</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-treasures-the-undisclosed-window-11-tricks-youve-overlooked/"><u>2024 Approved Hidden Treasures The Undisclosed WINDOW 11 Tricks You've Overlooked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-youtube-game-effective-strategies-for-scriptwriting-using-chatgpt-technology/"><u>Elevate Your YouTube Game: Effective Strategies for Scriptwriting Using ChatGPT Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-old-drivers-windows-streamlined-steps/"><u>Eliminate Old Drivers: Windows' Streamlined Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptops-absence-of-signal-for-tv-display/"><u>Fixing Laptop's Absence of Signal for TV Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guaranteeing-display-stability-in-lenovo-computers/"><u>Guaranteeing Display Stability in Lenovo Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-tcl-32s325-a-roku-smart-led-tv-revolution-from-201-groovy-features-and-sleek-design/"><u>In-Depth Analysis of TCL 32S325 - A Roku Smart LED TV Revolution From 201 Groovy Features and Sleek Design</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production-for-2024/"><u>New The Real Deal with DAWs Separating Fact From Fiction in Audio Production for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-windows-10-flash-disparities/"><u>Reconciling Windows 10 Flash Disparities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rehabilitating-non-functional-asus-cameras/"><u>Rehabilitating Non-Functional Asus Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screen-fix-for-windows/"><u>Smooth Screen Fix for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-surfing-banish-stutter-effects/"><u>Smooth Surfing: Banish Stutter Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-honored-treasures-free-of-restrictions-for-2024/"><u>Time-Honored Treasures, Free of Restrictions for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-high-definitions-next-step-4k-uhd/"><u>Understanding High-Definition's Next Step: 4K UHD</u></a></li>
 </ul></div>
 

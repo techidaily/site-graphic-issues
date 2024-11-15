@@ -1,7 +1,7 @@
 ---
 title: "Addressing LCD Issues: HP Laptop Fix"
-date: 2024-09-11T03:29:41.898Z
-updated: 2024-09-15T04:13:21.322Z
+date: 2024-11-07T16:22:09.255Z
+updated: 2024-11-13T20:07:36.393Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your display driver
 
  This problem may occur if you are using the wrong display driver or it’s out of date. So you should update your display driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -54,6 +61,13 @@ Here is how to do it:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -87,13 +101,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 #### **I’m using Windows 7 or 8.1:**
@@ -102,18 +109,31 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -125,13 +145,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -157,5 +170,21 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-expert-5-virtual-screenshots-tech/"><u>[New] Expert 5 Virtual Screenshots Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magic-in-managing-photos-with-magix/"><u>[New] Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-missing-displays-in-windows-10/"><u>[SOLUTION]: Missing Displays in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2e42-pc-upgrades-solving-the-challenges-of-fps-dips-and-inconsistent-frame-drops/"><u>Battlefield 2E42 PC Upgrades: Solving the Challenges of FPS Dips and Inconsistent Frame Drops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-black-screen-on-tv-via-hdmi-connection/"><u>Fixing Black Screen on TV via HDMI Connection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-spellbreak-crashing-problems-on-your-computer/"><u>How to Resolve Spellbreak Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-examining-the-unique-features-of-youtubes-and-dailymentions/"><u>In 2024, Examining the Unique Features of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-m6-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco M6 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-the-erasure-technique-using-stellar-eraser-for-your-macos-on-any-device/"><u>Learn the Erasure Technique: Using Stellar Eraser for Your macOS on Any Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-y55s-5g-2023-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Y55s 5G (2023) has been deleted.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-issue-only-partial-window-on-monitor/"><u>Screen Issue: Only Partial Window on Monitor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs-for-2024/"><u>Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs) for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
-date: 2024-11-01T20:05:51.801Z
-updated: 2024-11-04T17:05:46.254Z
+date: 2024-11-08T18:12:07.631Z
+updated: 2024-11-13T23:21:56.808Z
 categories:
   - BestProducts
 description: This Article Describes Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
@@ -41,13 +41,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jonno Hill
 
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
@@ -76,20 +69,13 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
@@ -114,32 +100,13 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance** :**Great components for gaming and productivity**
@@ -164,6 +131,13 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
@@ -171,6 +145,19 @@ Lifewire / Jonno Hill
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -181,6 +168,13 @@ Lifewire / Jonno Hill
  The lighting is executed fairly well on the HP OMEN Obelisk. There are only two lighting zones: one for the interior of the case, and one for the logo on the front exterior. Through the OMEN Command Center, you can set and customize lighting profiles for each zone. You can choose a static color, but also may choose from animation profiles that cycle between preset or user-defined colors. Luckily you can also choose the brightness, if you want to tone down the lighting a bit, and choose a separate profile for when the desktop is asleep.
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Highly competitive**
 
@@ -238,24 +232,19 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-play-anywhere-anytime-the-ultimate-collection-of-the-best-gb-advance-emulators-on-pcs/"><u>[New] In 2024, Play Anywhere, Anytime The Ultimate Collection of the Best GB Advance Emulators on PCs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-solo-podcast-landscape-successfully/"><u>[Updated] Navigating the Solo Podcast Landscape Successfully</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accelerated-armor-fixed-amd-in-tarkov-quickly/"><u>Accelerated Armor: Fixed AMD in Tarkov Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/calming-the-currents-of-pro-7s-display/"><u>Calming the Currents of Pro 7'S Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-lenovos-display-visibility-quickly/"><u>Enhance Lenovo's Display Visibility Quickly</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>In 2024, The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone SE (2022)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-onlineavim4a/"><u>Movavi Online無料で優れた品質のAVIとM4Aフォーマット変換サービス</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/must-see-mac-video-frames-selection-limited-to-156-characters-for-2024/"><u>Must-See Mac Video Frames Selection (Limited to 156 Characters) for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10plus-best-free-online-video-editors-for-video-editing-online/"><u>New In 2024, Top 10+ Best Free Online Video Editors for Video Editing Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-no-display-issue/"><u>NVIDIA No Display Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-laptop-gpu-initialization/"><u>Resolved: Windows 11 Laptop GPU Initialization</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-accidentally-deleted-photos-on-your-ipod-touch-effective-strategies-and-tools/"><u>Retrieving Accidentally Deleted Photos on Your iPod Touch – Effective Strategies and Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-fixing-critical-error-c1900101-in-windows-11/"><u>Step-by-Step Guide to Fixing Critical Error C1900101 in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-for-resolving-lenovo-screenspeed-anomalies/"><u>Techniques for Resolving Lenovo Screenspeed Anomalies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-duckduckgo-can-you-trust-its-security-features/"><u>Understanding DuckDuckGo: Can You Trust Its Security Features?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817924564-wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-wait-fixed-amd-and-tarkov-graphic-snags/"><u>Zero-Wait Fixed: AMD & Tarkov Graphic Snags</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>[New] How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>[New] In 2024, Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hot-takes-dailys-most-popular-video-tracks/"><u>[Updated] 2024 Approved Hot Takes Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-safedrive-backup-specialists-take/"><u>[Updated] 2024 Approved SafeDrive Backup Specialists' Take</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-low-end-spec-puzzle-intel-graphic-setup/"><u>Address Low-End Spec Puzzle: Intel Graphic Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-graphic-functionality-on-win-71011/"><u>Enhancing Graphic Functionality on WIN 7/10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P55 5G Phone without PIN</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphics-cards-detected-help-needed/"><u>No Graphics Cards Detected, Help Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-access-denied-on-nvidia-panel/"><u>No More 'Access Denied' On NVIDIA Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rebooted-pixel-shader-failure/"><u>Rebooted Pixel Shader Failure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-perfectly-inserting-songs-on-instagram-stories/"><u>Step-by-Step Perfectly Inserting Songs on Instagram Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpts-potential-for-android-applications-a-comprehensive-guide/"><u>Unlocking ChatGPT's Potential for Android Applications – A Comprehensive Guide</u></a></li>
 </ul></div>
 

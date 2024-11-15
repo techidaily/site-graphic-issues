@@ -1,7 +1,7 @@
 ---
 title: Quelling Quick Flash on Your Acer Screen
-date: 2024-09-10T04:02:58.715Z
-updated: 2024-09-15T00:23:47.435Z
+date: 2024-11-06T21:23:34.613Z
+updated: 2024-11-13T20:29:36.351Z
 tags:
   - win11
   - win10
@@ -66,13 +66,40 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -99,28 +126,21 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
+<span id="1328679">
 					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -151,5 +171,23 @@ Here is how to change the screen refresh rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-virtual-reality-filming-tips-and-tricks-for-gamers/"><u>[New] In 2024, Virtual Reality Filming Tips and Tricks for Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[Updated] 2024 Approved Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-instantaneous-darkness-creation/"><u>[Updated] Instantaneous Darkness Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blurry-lines-from-your-laptop-screens/"><u>Banish Blurry Lines From Your Laptop Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/creators-update-win10-blackouts-ended/"><u>Creators Update: Win10 Blackouts Ended</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-driver-error-43-repaired/"><u>Display Driver Error 43 Repaired</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/download-latest-supporting-software-for-geforce-1060/"><u>Download Latest Supporting Software for GeForce 1060</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/efficient-tricks-to-scramble-youtube-playlists-pcphonetv/"><u>Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-bypassing-apexs-previous-issues/"><u>Efficiently Bypassing Apex's Previous Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-steps-to-engage-with-youtubes-comment-section/"><u>Essential Steps to Engage with YouTube's Comment Section</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2019-crashes-top-troubleshooting-techniques-for-a-smooth-experience/"><u>Football Manager 2019 Crashes - Top Troubleshooting Techniques for a Smooth Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-amd-freesync-not-workingnot-supported/"><u>How to Fix AMD FreeSync Not Working/Not Supported</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-diagonal-discrepancies/"><u>Removing Diagonal Discrepancies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-amd-radeon-r9-driver-fails-in-win11/"><u>Resolving AMD Radeon R9 Driver Fails in Win11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-funniest-meme-creator-apps-for-android-and-ios-updated-2023-for-2024/"><u>The Funniest Meme Creator Apps for Android and iOS (Updated 2023) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-audacitys-audio-features/"><u>Unlocking the Potential of Audacity's Audio Features</u></a></li>
+</ul></div>
 

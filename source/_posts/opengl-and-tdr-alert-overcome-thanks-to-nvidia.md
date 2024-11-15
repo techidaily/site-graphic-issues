@@ -1,7 +1,7 @@
 ---
 title: OpenGL & TDR Alert Overcome - Thanks to NVIDIA!
-date: 2024-10-31T16:12:45.601Z
-updated: 2024-11-04T20:13:04.651Z
+date: 2024-11-12T23:32:41.155Z
+updated: 2024-11-13T21:00:11.856Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -36,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -65,22 +71,15 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -98,6 +97,19 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -110,6 +122,13 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
@@ -120,13 +139,6 @@ See how to do it:
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -152,24 +164,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-video-cutting-edge-m1s-efficiency-takes-the-lead/"><u>[New] 2024 Approved Video Cutting-Edge M1's Efficiency Takes the Lead</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ynamic-viewership-statistics-platforms/"><u>[New] Dynamic Viewership Statistics Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-through-8-prime-free-srt-translation-options/"><u>[Updated] 2024 Approved Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exceptional-hd-video-documentation-gear/"><u>[Updated] Exceptional HD Video Documentation Gear</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-secrets-for-capturing-powerpoint-perfection-on-camera-for-2024/"><u>[Updated] Secrets for Capturing PowerPoint Perfection on Camera for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-transitioning-photos-from-physical-to-digital-storage/"><u>[Updated] Transitioning Photos From Physical to Digital Storage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-mirrored-displays-windows-11-flaw/"><u>Correcting Mirrored Displays: Windows 11 Flaw</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/decouvrez-les-deux-facons-de-gerer-le-programme-dinstallation-et-laccueil-sous-windows-11/"><u>Découvrez Les Deux Façons De Gérer Le Programme D'Installation Et L'Accueil Sous Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficiently-update-intel-hd-graphics-on-a-microsoft-os/"><u>Efficiently Update Intel HD Graphics on a Microsoft OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/falls-aftermath-windows-10-screens-glow/"><u>Fall's Aftermath: Windows 10 Screens Glow</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-the-faulty-saving-feature-for-views/"><u>Fixing the Faulty Saving Feature for Views</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-k11x-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo K11x online without jailbreak</u></a></li>
-<li><a href="https://games-able.techidaily.com/in-depth-look-at-sonys-latest-marvel-playstation-5-pro-key-specifications-cost-analysis-and-launch-timeline-covered/"><u>In-Depth Look at Sony's Latest Marvel: PlayStation 5 Pro - Key Specifications, Cost Analysis & Launch Timeline Covered</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/key-steps-to-preserve-and-broadcast-live-sports-successfully-for-2024/"><u>Key Steps to Preserve & Broadcast Live Sports Successfully for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-display-sync-on-underpowered-amds/"><u>Mastering Display Sync on Underpowered AMDs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-fall-update-blackout-no-more-in-win10/"><u>Post-Fall Update Blackout No More in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-device-driver-43-hurdle/"><u>Resolving Device Driver #43 Hurdle</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/triumph-over-graphics-gap-win10-plus-nvidia-concordance/"><u>Triumph Over Graphics Gap - Win10 + NVIDIA Concordance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-new-level-of-display-customization-released/"><u>Windows 11: New Level of Display Customization Released</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>[New] 2024 Approved Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-sound-pivot-for-podcast-masters/"><u>[New] In 2024, Premier Sound Pivot for Podcast Masters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-for-adjusting-music-tempo-on-spotify-app/"><u>[Updated] Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-directx-12-frame-timing-error/"><u>Cured DirectX 12 Frame Timing Error</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-professionalism-with-zooms-snappy-functionality/"><u>Enhancing Professionalism with Zoom’s Snappy Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-asus-camera-operating-again/"><u>How to Get Asus Camera Operating Again</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-iphone-from-the-latest-mercenary-backed-spyware-attacks-insights-and-advice-from-apple/"><u>Protecting Your iPhone From the Latest Mercenary-Backed Spyware Attacks: Insights and Advice From Apple</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-forcing-closure-of-unresponsive-apps-in-windows-11-using-the-command-line/"><u>Quick Guide: Forcing Closure of Unresponsive Apps in Windows 11 Using the Command Line</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/released-camera-error-43-resolution/"><u>Released: Camera Error 43 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-amd-radeon-r9-display-problems-on-win10/"><u>Resolved AMD Radeon R9 Display Problems on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-options-fix-in-win-7-and-10-solved/"><u>Saving Display Options: Fix in Win 7 & 10 [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
 </ul></div>
 

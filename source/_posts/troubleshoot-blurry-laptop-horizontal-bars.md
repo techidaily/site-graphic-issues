@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Blurry Laptop Horizontal Bars
-date: 2024-11-01T18:52:31.605Z
-updated: 2024-11-04T18:55:46.161Z
+date: 2024-11-09T21:19:25.983Z
+updated: 2024-11-13T17:51:28.587Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 3. **[Gently wipe the screen with cotton balls](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -51,18 +51,18 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -82,18 +82,18 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### I’m using Windows 8 or 7
 
  1) Right-click on the empty area of your desktop screen and click Screen resolution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
@@ -102,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
@@ -138,20 +144,16 @@ Featured image by rawpixel.com from Pexels
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-efficient-scratching-tool-for-chromeos-for-2024/"><u>[New] Efficient Scratching Tool for ChromeOS for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-revenue-breakdown-how-much-money-stem-from-each-watcher/"><u>[Updated] Revenue Breakdown How Much Money Stem From Each Watcher</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1-safe-and-speedy-guide-creating-a-bootable-sandisk-flash-drive/"><u>1. Safe & Speedy Guide: Creating a Bootable SanDisk Flash Drive</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-lag-in-civilization-v-pc/"><u>Addressing Lag in Civilization V PC</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-reviews-the-5-highest-ranked-tools-to-convert-your-dvds-into-iriver-compatible-formats-on-pc-and-mac/"><u>Expert Reviews: The 5 Highest-Ranked Tools to Convert Your DVDs Into iRiver Compatible Formats on PC and Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-camon-20-premier-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Camon 20 Premier 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/inverted-screen-position-fixed-in-windows-10/"><u>Inverted Screen Position Fixed in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-windows-media-player/"><u>Mastering the Art of Starting Windows Media Player</u></a></li>
-<li><a href="https://win-community.techidaily.com/mp4srt5/"><u>MP4とSRTを組み合わせるための優れた無料ツールベスト5 - 評価ランキング</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-interface-malfunctions-in-windows-systems/"><u>Resolving Interface Malfunctions in Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-for-non-working-asus-cam/"><u>Solutions for Non-Working ASUS Cam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-experiencing-the-matrix-films-correctly/"><u>Step-by-Step: Experiencing The Matrix Films Correctly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-amd-remedy-for-tarkov-bug-spotlight/"><u>Swift AMD Remedy for Tarkov Bug Spotlight</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-quick-fixing-youtube-chroma-key-flaws/"><u>Swift Solutions for Quick-Fixing YouTube Chroma Key Flaws</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-criteria-for-picking-premium-film-professionals/"><u>2024 Approved Criteria for Picking Premium Film Professionals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-zte-nubia-z60-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from ZTE Nubia Z60 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bestappcom-names-mondly-the-best-language-learning-app-of-2022back-buttonfilter-button/"><u>BestApp.com Names Mondly The Best Language Learning App Of 2022Back ButtonFilter Button</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-common-c1900101-issue-for-windows-11-users/"><u>Fixing Common C1900101 Issue for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/series-9-and-ultra-apple-watch-sales-back-on-track-following-judicial-stay-order-insights-from-zdnet/"><u>Series 9 & Ultra: Apple Watch Sales Back on Track Following Judicial Stay Order - Insights From ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-black-screens-restore-your-laptops-life/"><u>Solve Black Screens, Restore Your Laptop's Life</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/swipe-up-for-a-dose-of-self-reflection-curated-instagramcaptions-for-2024/"><u>Swipe up for a Dose of Self-Reflection - Curated #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sync-your-display-flicker-free-surface-pro-7/"><u>Sync Your Display: Flicker-Free Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-hp-screen-glitches-and-flickers/"><u>Taming HP Screen Glitches and Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-vanished-visuals-on-electronic-screens/"><u>Unveiling Vanished Visuals on Electronic Screens</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-timecode-made-easy-10-top-calculators-for-online-mobile-and-desktop/"><u>Updated In 2024, Timecode Made Easy 10 Top Calculators for Online, Mobile, and Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolved BlackScreen in Win11
-date: 2024-10-28T18:09:47.791Z
-updated: 2024-11-04T17:29:37.065Z
+date: 2024-11-10T23:47:21.657Z
+updated: 2024-11-13T16:13:41.137Z
 tags:
   - win11
   - win10
@@ -64,16 +64,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
@@ -102,23 +96,17 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Change settings that are currently unavailable** .
 
@@ -126,10 +114,10 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
@@ -137,19 +125,20 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
 
@@ -159,28 +148,15 @@ If you’re on a laptop:
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
@@ -191,13 +167,6 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -225,13 +194,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
@@ -256,11 +218,31 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -305,24 +287,20 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fix-halo-ones-dx12-failure-at-launching/"><u>[FIX] Halo One's DX12 Failure at Launching</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-prime-mc-house-designs-for-communities/"><u>[New] In 2024, Prime MC House Designs for Communities</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smartphones-and-beyond-the-leading-vr-headsets/"><u>[New] Smartphones and Beyond The Leading VR Headsets</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-picks-best-free-cross-platform-video-communication-tools-for-2024/"><u>[New] Top Picks Best Free Cross-Platform Video Communication Tools for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE Without iTunes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discard-bad-drivers-to-prevent-game-breakdown/"><u>Discard Bad Drivers to Prevent Game Breakdown</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-pop-8-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Pop 8 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-specs-for-optimal-intell-driver-use/"><u>Enhancing PC Specs for Optimal Intell Driver Use</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-opinions-assessing-google-voice-for-everyday-use/"><u>Expert Opinions: Assessing Google Voice for Everyday Use</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-volta-driver/"><u>Finding the Hidden Volta Driver</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-clone-your-system-with-a-secondary-hdd-or-ssd-in-windows-1011-a-comprehensive-guide/"><u>How to Clone Your System with a Secondary HDD or SSD in Windows 10/11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-aspect-ratio-for-video-content-on-social-platforms/"><u>In 2024, Aspect Ratio for Video Content on Social Platforms</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/initialization-of-visual-framework-stalled/"><u>Initialization of Visual Framework Stalled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-clarity-the-world-of-4k/"><u>Mastering the Art of Clarity: The World of 4K</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premiere-10-optics-enhancing-visuals-for-2024/"><u>Premiere 10 Optics Enhancing Visuals for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-brightness-to-twitch-video-playback/"><u>Restoring Brightness to Twitch Video Playback</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trim-down-amd-graphics-problems-tarkov/"><u>Trim Down AMD Graphics Problems - Tarkov</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-issue-missing-advanced-controls/"><u>Windows 10 Display Issue: Missing Advanced Controls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stretched-screen-issues-for-windows-11/"><u>[Solved] Stretched Screen Issues for Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-chuckling-challenge-brainstroming-7-humorous-youtube-videos/"><u>[Updated] 2024 Approved Chuckling Challenge Brainstroming 7 Humorous YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-evolutionary-path-of-roguelike-games/"><u>[Updated] In 2024, The Evolutionary Path of Roguelike Games</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-content-from-digitaltrends-top-video-selection/"><u>Download Content From DigitalTrends - Top Video Selection</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effortless-steps-for-performing-incremental-backups-on-your-qnap-nas-device/"><u>Effortless Steps for Performing Incremental Backups on Your QNAP NAS Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-driver-pack-for-msis-x470-gaming-motherboards-free-to-download/"><u>Essential Driver Pack for MSI's X470 Gaming Motherboards, Free to Download</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-failure-alerted/"><u>Graphic Device Failure Alerted</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reining-in-flickering-monitors-hp-guide/"><u>Reining In Flickering Monitors: HP Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shatter-sims-monochrome-mistake/"><u>Shatter Sims’ Monochrome Mistake</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-rendering-unsuccessful-initially/"><u>Visual Rendering Unsuccessful Initially</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-upgrade-laptops-graphics-output-improved/"><u>Win11 Upgrade: Laptop's Graphics Output Improved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winfix-dxgkrnlsys-system-freeze-explained/"><u>Winfix: dxgkrnl.sys System Freeze Explained</u></a></li>
 </ul></div>
 

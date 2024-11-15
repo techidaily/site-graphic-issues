@@ -1,7 +1,7 @@
 ---
 title: Enhance Play by Reducing Latency
-date: 2024-10-31T20:25:59.744Z
-updated: 2024-11-04T16:45:16.104Z
+date: 2024-11-09T19:44:45.756Z
+updated: 2024-11-13T17:44:49.542Z
 tags:
   - win11
   - win10
@@ -68,10 +68,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
@@ -104,42 +104,42 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Tick**the box** for**Number of processors** and choose**the maximum number of processors** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -155,13 +155,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
@@ -169,13 +162,6 @@ So you can follow the steps below to disable CPU core parking:
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
@@ -198,10 +184,10 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -224,9 +210,23 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -253,24 +253,18 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/2024-approved-originality-awaits-create-unique-business-logos-with-template-editing/"><u>2024 Approved Originality Awaits Create Unique Business Logos with Template Editing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-precision-in-capturing-movie-moments/"><u>2024 Approved Precision in Capturing Movie Moments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatibility-issue-on-windows-10-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 10 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halo-infinite-delayed-directx12-error-identified/"><u>Halo Infinite Delayed - DirectX12 Error Identified</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-computer-freezing/"><u>How To Fix Computer Freezing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-recover-display-savings-error-on-win-710-resolved/"><u>How to Recover Display Savings Error on WIN 7/10 [Resolved]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-through-youtubes-challenging-green-screen/"><u>Navigating Through YouTube's Challenging Green Screen</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/revitalize-your-outdated-laptops-with-damn-small-linux-a-step-by-step-guide/"><u>Revitalize Your Outdated Laptops with Damn Small Linux: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-minecraft-recording-guide-for-mac-enthusiasts-for-2024/"><u>Step by Step Minecraft Recording Guide for Mac Enthusiasts for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-identifying-undetected-video-cards/"><u>Strategies for Identifying Undetected Video Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-setup-windows-graphics-device/"><u>Successful Setup: Windows Graphics Device</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/icks-for-vloggers-8-mirrorless-cameras-leading-the-pack/"><u>Top Picks for Vloggers 8 Mirrorless Cameras Leading the Pack</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-gaming-experience-on-win10-with-amd-hd-6950-update/"><u>Transform Your Gaming Experience on Win10 with AMD HD 6950 Update!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/update-your-logitech-g403-with-the-new-drivers-on-windows-pcs/"><u>Update Your Logitech G403 with the New Drivers on Windows PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-low-fps-is-not-a-gamers-bane-on-consoles/"><u>Why Low FPS Is Not a Gamer's Bane on Consoles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wipe-clean-sims-4-colorless-startup/"><u>Wipe Clean Sims 4 Colorless Startup</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-shorts-monetization-how-to-make-money-on-youtube-shorts-for-2024/"><u>YouTube Shorts Monetization How to Make Money on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-inalterable-action-plan-to-expunge-youtube-shorts/"><u>[New] 2024 Approved Inalterable Action Plan to Expunge YouTube Shorts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-swiftly-addressing-storied-setbacks-in-facebooks-user-interface/"><u>[Updated] 2024 Approved Swiftly Addressing Storied Setbacks in Facebook's User Interface</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ten-titles-that-triumph-top-8-apps-to-gain-facebook-likeability/"><u>[Updated] 2024 Approved Ten Titles That Triumph Top 8 Apps to Gain Facebook Likeability</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-hurdle-free-humor-your-guide-to-the-ifunny-app-world/"><u>2024 Approved Hurdle-Free Humor Your Guide to the iFunny App World</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-between-ipad-pro-mini-m4-and-new-macbook-air-m1-a-comprehensive-guide/"><u>Decoding the Differences Between iPad Pro Mini (M4) and New MacBook Air M1 – A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-8t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 8T Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-y55s-5g-2023-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y55s 5G (2023) Lock Screen Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-and-solving-black-screen-anomalies-on-twitch/"><u>Navigating and Solving Black Screen Anomalies on Twitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-blank-screens-rapid-resolution-of-monitor-issues/"><u>No More Blank Screens: Rapid Resolution of Monitor Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-non-functional-hdmi-ports-on-devices/"><u>Rectifying Non-Functional HDMI Ports on Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-file-format-issues-in-civ-5/"><u>Resolving File Format Issues in CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stay-updated-latest-windows-10-drivers-for-amd-6950/"><u>Stay Updated: Latest Windows 10 Drivers for AMD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-update-laptop-gpu-now-compatible-and-active/"><u>Windows Update - Laptop GPU Now Compatible & Active</u></a></li>
 </ul></div>
 

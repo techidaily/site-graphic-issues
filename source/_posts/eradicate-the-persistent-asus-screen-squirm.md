@@ -1,7 +1,7 @@
 ---
 title: Eradicate the Persistent ASUS Screen Squirm
-date: 2024-09-09T20:06:56.488Z
-updated: 2024-09-15T03:10:23.173Z
+date: 2024-11-08T18:53:58.829Z
+updated: 2024-11-13T20:28:17.336Z
 tags:
   - win11
   - win10
@@ -44,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 3. Click**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
@@ -52,8 +60,24 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
@@ -70,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -90,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -106,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -143,5 +167,19 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/resolved-entry-to-control-panel-achieved/"><u>[Resolved] Entry to Control Panel Achieved</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unleashing-creative-potential-in-gopro-4k-edits/"><u>[Updated] In 2024, Unleashing Creative Potential in GoPro 4K Edits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baixar-gravador-de-audio-online-gratuito-para-mp3-movavi/"><u>Baixar Gravador De Áudio Online Gratuito Para Mp3 - Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-brother-l2540dw-windows-driver-setup-free-download-and-instructions/"><u>Complete Brother L2540DW Windows Driver Setup - FREE Download & Instructions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/de-strijken-om-de-meest-niet-afgehaalden-fotos-van-jouw-televisie-tablet-en-smartphone-na-herstel/"><u>De Strijken Om De Meest Niet-Afgehaalden Foto's Van Jouw Televisie, Tablet En Smartphone Na Herstel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-malfunction-thwarts-new-halo-infinite-play/"><u>DirectX12 Malfunction Thwarts New Halo Infinite Play</u></a></li>
+<li><a href="https://fox-info.techidaily.com/flash-dramatization-structure-for-2024/"><u>Flash Dramatization Structure for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/free-logo-blueprint-tailor-and-share-your-brand-identity-for-2024/"><u>Free Logo Blueprint Tailor and Share Your Brand Identity for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-no-sight/"><u>New Graphics Card No Sight</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-flickering-phenomenon-on-pro-7/"><u>Resolving Flickering Phenomenon on Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revive-dead-asus-integrated-camera/"><u>Revive Dead Asus Integrated Camera</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-success-the-tactics-for-increasing-youtube-audiences-for-2024/"><u>Scaling Success The Tactics for Increasing YouTube Audiences for 2024</u></a></li>
+</ul></div>
 

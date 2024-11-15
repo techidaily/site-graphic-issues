@@ -1,7 +1,7 @@
 ---
 title: Resolving Physics Problems, Civilization V PC
-date: 2024-09-11T02:59:37.607Z
-updated: 2024-09-14T21:39:02.074Z
+date: 2024-11-08T18:06:51.427Z
+updated: 2024-11-13T20:13:19.550Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -55,6 +62,14 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
@@ -62,10 +77,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
@@ -78,13 +93,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
  **To update the DirectX to the latest version on your computer:**
@@ -92,6 +100,14 @@ Here’s how to do it:
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -115,5 +131,17 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-dj-pros-recommend-our-easy-to-use-free-tempo-detection-tools/"><u>[Updated] In 2024, DJ Pros Recommend Our Easy-to-Use Free Tempo Detection Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-music-law-guide-for-instagram-users/"><u>2024 Approved The Music Law Guide for Instagram Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-latest-svelte-laptops-are-transforming-the-work-from-home-experience-find-out-why-theyre-a-hit-with-tech-insiders-zdnet/"><u>How the Latest Svelte Laptops Are Transforming the Work From Home Experience - Find Out Why They're a Hit with Tech Insiders | ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-15-exceptional-homes-from-the-virtual-world-of-minecraft/"><u>In 2024, 15 Exceptional Homes From the Virtual World of Minecraft</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-deciphering-digital-domination-a-deep-dive-into-directors-videos/"><u>In 2024, Deciphering Digital Domination A Deep Dive Into Directors' Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refining-win-os-render-performance-via-upgrades/"><u>Refining Win OS Render Performance via Upgrades</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-asus-video-output-capabilities/"><u>Restore ASUS Video Output Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-into-the-future-of-gaming-updated-amd-hd-6950-drivers-for-win10/"><u>Step Into the Future of Gaming: Updated AMD HD 6950 Drivers for Win10</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-choice-m2-nvme-ssd-cloning-software-discover-how-aomei-backupper-outperforms/"><u>Top Choice M.2 NVMe SSD Cloning Software: Discover How AOMEI Backupper Outperforms</u></a></li>
+</ul></div>
 

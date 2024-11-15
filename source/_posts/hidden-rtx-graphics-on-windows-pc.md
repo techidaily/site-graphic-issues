@@ -1,7 +1,7 @@
 ---
 title: Hidden RTX Graphics on Windows PC
-date: 2024-09-09T00:37:17.909Z
-updated: 2024-09-15T03:24:27.852Z
+date: 2024-11-12T23:09:00.791Z
+updated: 2024-11-13T18:17:59.930Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
  This method is especially useful for fixing the problem caused by leftover drivers after replacing a video card . Follow these steps:
@@ -36,11 +43,25 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
@@ -78,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -112,5 +126,23 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dive-deep-into-youtube-shorts-essentials/"><u>[Updated] 2024 Approved Dive Deep Into YouTube Shorts Essentials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-teachers-guide-to-enhancing-learning-through-youtube-videos-for-2024/"><u>[Updated] A Teacher's Guide to Enhancing Learning Through YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boost-your-phones-health-and-fix-issues-by-simply-turning-it-offon/"><u>Boost Your Phone's Health and Fix Issues by Simply Turning It Off/On</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discover-hidden-ui-in-win10s-advanced-settings/"><u>Discover Hidden UI in Win10's Advanced Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-glitch-be-gone-monster-hunter-world-fixed/"><u>Graphic Glitch Be Gone: Monster Hunter World Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-comms-on-os-windows-error-rectified/"><u>Harmonizing Comms on OS Windows, Error Rectified</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-a70-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel A70 Devices | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-instagram-ringtone-making-solo/"><u>Mastering Instagram Ringtone Making Solo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steams-failed-vac-check-error/"><u>Resolving Steam's Failed VAC Check Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-error-display-settings-now-safe/"><u>Reverse Error - Display Settings Now Safe</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-malfunction-addressed-driver-now-functional/"><u>Screen Malfunction Addressed: Driver Now Functional</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-poco-c55-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Poco C55 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-glare-not-glory-win7-tips/"><u>Stop Glare, Not Glory: Win7 Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-lenovo-lcds-light-flashing-issue/"><u>Stop Lenovo LCD's Light Flashing Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limitations-of-artificial-intelligence-in-identifying-duplicate-contents/"><u>The Limitations of Artificial Intelligence in Identifying Duplicate Contents</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-photos-removing-backdrops-with-ease/"><u>Transform Your Photos Removing Backdrops with Ease</u></a></li>
+</ul></div>
 

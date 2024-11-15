@@ -1,7 +1,7 @@
 ---
 title: How To Fix Computer Freezing
-date: 2024-09-13T09:31:59.077Z
-updated: 2024-09-20T09:51:06.354Z
+date: 2024-11-07T19:13:25.770Z
+updated: 2024-11-13T21:28:02.669Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Adjust power plan settings for your hard disk
 
  If you have an HDD, then it’s recommended to turn it on always according to user feedback. Here’s how:
@@ -79,6 +86,13 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf544153c9c9.jpg)
 3. Hope this solves your**computer freezing** issue. If it doesn’t work, then move on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Repair system files
 
  The computer freezing issue could be caused by missing, corrupt or damaged system files on your computer. There are two ways you can repair possible issues with your system files:
@@ -99,6 +113,13 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 5. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The full version of Fortect comes with a 60-day money-back guarantee and full customer support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [Fortect support team](https://www.fortect.com/support/) .
 
  Check your computer to see if the**freezing issue** has been fixed.  
@@ -112,19 +133,27 @@ Here’s how to use Fortect to run a Windows repair:
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check your computer to see if the**screen freezing** has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 5** , below.  
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Adjust your virtual memory
 
@@ -138,19 +167,27 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf545f9d7b67.jpg)
 4. Make sure the**Automatically manage paging file size for all drives** checkbox is**un-ticked** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf54672efc63.jpg)
 5. Select**your windows drive** (the hard drive or partition that has Windows installed on it – usually **C:**), then click**Custom size** and enter an**Initial size** and**Maximum size** for your virtual memory:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.  
    * **Maximum size** – Don’t set this value too high. It should be about 1.5 times the size of your physical RAM. e.g. A PC with 16 GB (16384 MB) of RAM should have no more than about 16384 MB virtual memory (16384 MB x 1.5).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf54940b3eb7.jpg)  Once you’ve entered your virtual memory values, click **Set** , then click **OK**  to continue.
 6. Check to see if your computer freezing problem has been fixed. If not, then move on to**Fix 6** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -165,21 +202,14 @@ Here’s how to use Fortect to run a Windows repair:
 2. Make sure **you’ve saved and closed all the work**  on your computer and click   **Restart now and check for problems (recommended)**  if you want Windows to do a diagnostic test **NOW**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf668df89794.jpg)
 3. By default,  Windows will boot into**the Standard test mode \***  . Wait the whole process to finish while Windows runs the diagnostic test.  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **\*** : There are three test modes in**Windows Memory Diagnostic** :**Basic** ,**Standard** and**extended** . You can press**F1** to check exactly what tests each test module includes, press**the arrow keys** to navigate among the test modes and press**F10** to start the memory test you select.
 4. Once Windows reboots, check if you get an error report in the notification area:  
@@ -204,19 +234,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7809818906.jpg)
 4. Follow the on-screen instruction to run the system restore.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Once your computer restarts, check if your computer freezing problem has been solved.
 
 ---
@@ -238,5 +255,20 @@ Here’s how to use Fortect to run a Windows repair:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/levating-your-youtube-presence-with-customized-subtitles-for-2024/"><u>[New] Elevating Your YouTube Presence with Customized Subtitles for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-guide-merging-igtv-with-instagram-stories/"><u>[New] In 2024, Quick Guide Merging IGTV with Instagram Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-5-hidden-gems-to-watch-insta-stories/"><u>[Updated] Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerated-armor-fixed-amd-in-tarkov-quickly/"><u>Accelerated Armor: Fixed AMD in Tarkov Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-lenovos-display-visibility-quickly/"><u>Enhance Lenovo's Display Visibility Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-unsyncing-icloud-photos-7-tips-for-iphone-users/"><u>Fix Unsyncing iCloud Photos: 7 Tips for iPhone Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-pop-7-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Pop 7 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-internet-access-via-ethernet-from-usb-hub/"><u>Instant Internet Access via Ethernet From USB Hub</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-offline-with-newcard/"><u>Monitor Offline with NewCard</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-no-display-issue/"><u>NVIDIA No Display Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-fixing-critical-error-c1900101-in-windows-11/"><u>Step-by-Step Guide to Fixing Critical Error C1900101 in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-for-resolving-lenovo-screenspeed-anomalies/"><u>Techniques for Resolving Lenovo Screenspeed Anomalies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-smart-home-management-with-chatgpt/"><u>Unlocking Smart Home Management with ChatGPT</u></a></li>
+</ul></div>
 

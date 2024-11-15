@@ -1,7 +1,7 @@
 ---
 title: Escape From Tarkov Graphics Bug for AMD Users [Quick Fix]
-date: 2024-09-09T23:47:36.854Z
-updated: 2024-09-15T00:05:56.909Z
+date: 2024-11-07T23:48:38.262Z
+updated: 2024-11-13T19:08:08.922Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  A variety of issues, including graphics glitches, can be caused by corrupted or missing game files. Therefore, you’ll need to perform an integrity check to resolve your problem. Follow the steps below to do so.
@@ -43,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
  When the process is finished, relaunch your game and test the gameplay. If it’s still unplayable when it’s raining, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Delete the game cache
 
  Another great way to troubleshoot your issue is by clearing the cache. Temporary files and data are often stored. But over time, this cached data might become corrupted, which can lead to issues with connectivity, game freezes, slow or unsuccessful game loads, and other performance issues. In this situation, you’ll need to clear the cache from the EST launcher. To do this, follow the steps below.
@@ -52,14 +72,14 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clear-cache.png)
 
- Then relaunch your game. If your problem persists, proceed to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then relaunch your game. If your problem persists, proceed to the next fix.
 
 ## 3\. Clean your temp folder
 
@@ -71,26 +91,19 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-temp-folder.png)
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
 
- When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When it’s done, relaunch your game. If your problem persists, proceed to the next fix.
 
 ## 4\. Update your graphics driver
 
@@ -124,6 +137,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
 ---
@@ -143,5 +163,26 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-live-choreo-streaming-on-shouqi-media/"><u>[New] In 2024, Live Choreo Streaming on Shouqi Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-guide-for-capturing-fb-streams/"><u>[New] In 2024, Step-by-Step Guide for Capturing FB Streams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-hidden-methods-for-dodging-digital-study-vids/"><u>[Updated] In 2024, Hidden Methods for Dodging Digital Study Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/budget-friendly-1-decade-of-excellent-desktop-recorders/"><u>Budget-Friendly #1 Decade of Excellent Desktop Recorders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-fixed-r9-drivers-in-w10/"><u>Enhanced Performance with Fixed R9 Drivers in W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-track-to-flawless-apex-playtime/"><u>Fast Track to Flawless Apex Playtime</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-overwatchs-unsupported-graphics-issue/"><u>Fixing Overwatch's Unsupported Graphics Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-c1900101-error-in-win10-setup/"><u>How to Eliminate C1900101 Error in Win10 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818120826-how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-13c-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi 13C 5G Location | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-vision-quest-steps-to-secure-your-dream-4k-screen/"><u>In 2024, Vision Quest Steps to Secure Your Dream 4K Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-women-rule-the-top-10-youtube-stars-amongst-genders/"><u>In 2024, Women Rule The Top 10 YouTube Stars Amongst Genders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818152861-nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-magic-5-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-streaming-lag-in-newest-win11-version/"><u>Remedying Streaming Lag in Newest Win11 Version</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-blackscreen-in-win11/"><u>Resolved BlackScreen in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-windows-10-bypassing-c1900101-error/"><u>Unlocking Windows 10: Bypassing C1900101 Error</u></a></li>
+</ul></div>
 

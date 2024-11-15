@@ -1,7 +1,7 @@
 ---
 title: Uncovering Brightness From Black on Lenovo
-date: 2024-10-28T19:05:17.968Z
-updated: 2024-11-04T18:54:41.754Z
+date: 2024-11-12T16:53:08.764Z
+updated: 2024-11-13T22:22:03.851Z
 tags:
   - win11
   - win10
@@ -33,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -70,6 +70,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -86,16 +93,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -104,6 +111,13 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -130,10 +144,10 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Choose what the power buttons do** .
@@ -147,13 +161,6 @@ So you can try disabling fast startup to see if it does the trick:
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -169,6 +176,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
@@ -177,29 +191,9 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -227,20 +221,22 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-decoding-the-hidden-cause-for-non-existent-fb-video-picks-for-2024/"><u>[New] Decoding the Hidden Cause for Non-Existent FB Video Picks for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-spellbinding-tones-validity-of-the-vocal-transformation-app-questioned-check-out-more/"><u>[New] In 2024, Spellbinding Tones Validity of the Vocal Transformation App Questioned - Check Out More</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-laptop-not-using-gpu-windows-1111/"><u>[SOLVED] Laptop Not Using GPU Windows 11/11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-instant-access-to-top-notch-hd-footage-on-fb/"><u>[Updated] In 2024, Instant Access to Top-Notch HD Footage on FB</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advantages-in-god-of-war-a-closer-look/"><u>Advantages in 'God of War': A Closer Look</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-cursor-visibility-win10-and-11-techniques/"><u>Clearing Up Cursor Visibility: Win10 & 11 Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/comprehensively-addressing-r9-driver-issues-on-w10/"><u>Comprehensively Addressing R9 Driver Issues on W10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortlessly-upgrade-intel-graphics-plus-windows-11-drivers/"><u>Effortlessly Upgrade: Intel Graphics + Windows 11 Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c67-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C67 4G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-repair-completed-successfully/"><u>Lenovo SmartTouch Repair Completed Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-pc-malfunction-in-elite-dangerous-tips-for-smooth-gaming-experience/"><u>Overcoming the PC Malfunction in Elite Dangerous - Tips for Smooth Gaming Experience</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/standard-version-of-macs-top-rated-stellar-erase-set-your-own-deletion-timetable/"><u>Standard Version of Mac's Top-Rated Stellar Erase: Set Your Own Deletion Timetable!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-driver-installation-for-amd-in-windows-10/"><u>Successful Driver Installation for AMD in Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-break-new-ground-in-social-sagas-free-extended-versions-await/"><u>[New] Break New Ground in Social Sagas – Free, Extended Versions Await</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-vimeo-content-step-by-step-free-and-licensed-tools-guide/"><u>[New] In 2024, Unlocking Vimeo Content Step-by-Step Free & Licensed Tools Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-mobile-movie-brilliance-with-these-four-methods/"><u>[New] Maximize Mobile Movie Brilliance with These Four Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoiding-common-greenscreen-errors-in-online-broadcasts/"><u>Avoiding Common Greenscreen Errors in Online Broadcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-narzo-60-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Narzo 60 5G.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctupsidedownmonitor-views/"><u>CorrectUpsidedownMonitor Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-speed-issue-resolved-no-gpu-acceleration/"><u>Direct3D Speed Issue Resolved: No GPU Acceleration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-white-screen-woes-fix-it-now/"><u>Ease White Screen Woes, Fix It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-error-on-windows-no-more-blank-screens/"><u>Fixing Steam Error on Windows: No More Blank Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/endings-that-wow-ranked-for-you-top-6-for-2024/"><u>Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-periscopes-world-free-access-and-user-registration/"><u>In 2024, Exploring Periscope's World Free Access & User Registration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-free-ways-to-download-mobile-phone-green-screen-videos-and-pictures-no-copyright/"><u>New Free Ways to Download Mobile Phone Green Screen Videos and Pictures No Copyright</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dxgkrnlsys-blue-screen-in-windows/"><u>Overcoming dxgkrnl.sys Blue Screen in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-window-images-restored/"><u>Precise Window Images Restored</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-halt-in-nvidia-installation/"><u>Resolved: Halt in NVIDIA Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-a-crystal-cleared-twitch-stream/"><u>Unlock a Crystal-Cleared Twitch Stream</u></a></li>
 </ul></div>
 

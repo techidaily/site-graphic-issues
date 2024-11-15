@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-10-28T20:35:04.620Z
-updated: 2024-11-04T17:48:31.348Z
+date: 2024-11-12T18:08:27.566Z
+updated: 2024-11-13T22:21:10.234Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Modify Registry
@@ -85,26 +85,26 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -127,22 +127,21 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/utoplay-youtube-on-mobile-no-distractions-for-2024/"><u>[New] AutoPlay YouTube on Mobile, No Distractions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-language-of-asmr-videos-for-2024/"><u>[New] Decoding the Language of ASMR Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-peeking-behind-the-screen-instagram-audience-explorer/"><u>[Updated] In 2024, Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4-dvd2024/"><u>「MP4への変換! DVD再生用最強無料ソフト2024年版紹介」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/accelerate-your-windows-7-launch-top-techniques-to-address-sluggish-boot-performance/"><u>Accelerate Your Windows 7 Launch: Top Techniques to Address Sluggish Boot Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjustment-for-compact-win-10-interface/"><u>Adjustment for Compact WIN 10 Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/declutter-your-view-fix-flicker-in-vista-or-win7/"><u>Declutter Your View – Fix Flicker in Vista or Win7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-windows-7s-intel-gfx-performance-with-new-drivers/"><u>Elevate Windows 7’S Intel Gfx Performance with New Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/go-all-out-top-7-exhilarating-sports-titles-for-iphone-and-android/"><u>Go All Out! Top 7 Exhilarating Sports Titles for iPhone & Android</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-overcome-device-resumes-operation/"><u>IGFX Malfunction Overcome, Device Resumes Operation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-complete-audio-solution-for-incomplete-youtube-and-fb-sounds/"><u>In 2024, Complete Audio Solution for Incomplete YouTube and FB Sounds</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-k11x-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo K11x?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-win10s-fullview-windows/"><u>Monitor Not Showing Win10's Fullview Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-enhances-geforce-210-on-win11/"><u>NVIDIA Enhances GeForce 210 on Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-win11-displays-glitchy/"><u>Overcome: Win11 Displays Glitchy</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-screen-stability-achieved/"><u>Win11: Screen Stability Achieved</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-effortlessly-integrating-obs-into-your-mac-step-by-step-guide/"><u>[New] Effortlessly Integrating OBS Into Your Mac Step by Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-dxgkrnlsys-blue-screen-troubleshooting-win/"><u>[System] dxgkrnl.sys Blue Screen: Troubleshooting Win</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kids-and-newbies-rejoice-our-10-easiest-to-fly-drones/"><u>2024 Approved Kids & Newbies Rejoice! Our 10 Easiest-to-Fly Drones</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-x-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone X Waze | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brightening-up-decorative-elements-in-fc6/"><u>Brightening Up Decorative Elements in FC6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-slant-screen-position-on-device/"><u>Corrected Slant Screen Position on Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discovering-the-veiled-dx-misstep-lols-resolved-mishap/"><u>Discovering the Veiled DX Misstep - LoL's Resolved Mishap</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-high-quality-dvd-player-programs-compatible-with-windows-10-and-mac-osx/"><u>Free, High-Quality DVD Player Programs - Compatible with Windows 10 and Mac OSX</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-exploring-youtubes-earnings-mechanism-through-cpm-analysis/"><u>In 2024, Exploring YouTube's Earnings Mechanism Through CPM Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-macx-mediatrans-mac/"><u>IOSデータ管理・バックアップのプロフェッショナル ソリューション：MacX MediaTrans 推奨 Macユーザー向け</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sideways-monitor-conversion-complete/"><u>Sideways Monitor Conversion Complete</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-blueprint-for-capturing-your-ps4-adventures/"><u>The Complete Blueprint for Capturing Your PS4 Adventures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-amplify-lenovo-tv-screen-brightness/"><u>Tips to Amplify Lenovo TV Screen Brightness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tripped-nvidia-installation-barrier-tackled/"><u>Tripped: NVIDIA Installation Barrier Tackled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-5-superior-no-cost-apps-to-connect-across-borders-with-ease/"><u>Unveiling 5 Superior No-Cost Apps to Connect Across Borders with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-v27e-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo V27e? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

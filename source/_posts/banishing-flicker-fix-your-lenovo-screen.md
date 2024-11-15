@@ -1,7 +1,7 @@
 ---
 title: "Banishing Flicker: Fix Your Lenovo Screen"
-date: 2024-09-10T06:48:30.573Z
-updated: 2024-09-15T01:47:03.931Z
+date: 2024-11-09T18:18:16.861Z
+updated: 2024-11-13T16:59:22.317Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -62,6 +69,19 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
@@ -74,7 +94,21 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -103,12 +137,24 @@ You can troubleshoot these hardware issues on your own:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-camstudio-screen-capturing-a-comprehensive-analysis-users/"><u>[New] CamStudio Screen Capturing A Comprehensive Analysis Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handheld-gyro-stabilization-upgrade/"><u>[New] Handheld Gyro Stabilization Upgrade</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-create-a-youtube-channel-trailer-to-increase-revenue-for-2024/"><u>[New] How to Create a YouTube Channel Trailer to Increase Revenue for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/triumph-mhw-error-12-dispatched-graphics-restored/"><u>[Triumph] MHW Error 12 Dispatched, Graphics Restored</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ultimate-download-manager-best-youtube-downloader-apps/"><u>[Updated] Ultimate Download Manager Best YouTube Downloader Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-t2-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo T2 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-guide-unveiling-the-secrets-of-mts-files-and-what-they-contain/"><u>Comprehensive Guide: Unveiling the Secrets of MTS Files & What They Contain</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-not-showing-problem-with-monitor-and-win11/"><u>Fullscreen Not Showing, Problem with Monitor & Win11?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gif-naar-png-verzamelen-vrije-online-instant-converter-movavi/"><u>GIF Naar PNG Verzamelen: Vrije Online Instant Converter - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-dead-pixels-rapidly-restore-monitor-signal/"><u>No More Dead Pixels: Rapidly Restore Monitor Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-panel-access-no-more-denied/"><u>NVIDIA Panel Access No More Denied</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-graphics-issue-fixed/"><u>Overwatch Graphics Issue Fixed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-method-to-resolve-directx-compatibility-issues-in-cod-modern-warfare-2/"><u>Step-by-Step Method to Resolve DirectX Compatibility Issues in CoD Modern Warfare 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-schedule-your-apple-store-genius-bar-consultation/"><u>Steps to Schedule Your Apple Store Genius Bar Consultation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-cryptic-direct-x-malfunction-in-lol/"><u>Unveiling the Cryptic Direct X Malfunction in LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wdf-drivers-crisis-averted-stop-bsod-in-windows-os/"><u>WDF Drivers Crisis Averted: Stop BSOD in Windows OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Screen Not Fully Displaying Window"
-date: 2024-09-14T21:49:12.474Z
-updated: 2024-09-20T01:02:43.167Z
+date: 2024-11-12T21:27:05.951Z
+updated: 2024-11-13T17:42:58.411Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -50,9 +57,23 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
@@ -61,6 +82,13 @@ Here’s what you need to do:
  Or you can switch to different resolutions and see if it resolves your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
@@ -73,6 +101,13 @@ Here’s what you need to do:
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
@@ -116,19 +151,6 @@ Here’s what you need to do:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run your application in Compatibility mode
 
  If only one application or some of the applications in your computer have the full-screen issue, you can modify the software settings and set the software to run in the Compatibility mode.
@@ -139,13 +161,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
@@ -155,15 +170,22 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -197,5 +219,21 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-effectively-share-youtube-links-on-instagrams-story-feature-for-2024/"><u>[New] How to Effectively Share YouTube Links on Instagram's Story Feature for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-professional-screen-snapshot-tool-windows-10/"><u>2024 Approved Professional Screen Snapshot Tool, Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day/"><u>2024 Approved Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-laptop-fix-straighten-screen-edges/"><u>Effortless Laptop Fix - Straighten Screen Edges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windowsminecraft-driver-glitch/"><u>Fix Windows/Minecraft Driver Glitch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-create-compelling-content-for-facebook-reels/"><u>In 2024, How to Create Compelling Content for Facebook Reels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premier-gif-application-selection-for-iphone-users/"><u>In 2024, Premier GIF Application Selection for iPhone Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-hue-refiner-app-for-2024/"><u>Optimal Hue Refiner App for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenate-your-pc-with-a-swift-graphic-driver-upgrade-for-win10/"><u>Rejuvenate Your PC with a Swift Graphic Driver Upgrade for Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-issues-with-amds-freesync-latency/"><u>Resolving Issues with AMD's FreeSync Latency</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-playback-overcome-jittery-streams/"><u>Seamless Playback: Overcome Jittery Streams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-magic-6-lite-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Magic 6 Lite ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-with-latest-windows-11-driver-for-radeon-hd-6950/"><u>Unleash Potential with Latest Windows 11 Driver for Radeon HD 6950</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ws-2902a-ambient-weather-station-by-osprey-comprehensive-review-high-performance-at-affordable-price/"><u>WS-2902A Ambient Weather Station by Osprey: Comprehensive Review - High Performance at Affordable Price</u></a></li>
+</ul></div>
 

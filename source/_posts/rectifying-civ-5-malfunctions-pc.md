@@ -1,7 +1,7 @@
 ---
 title: Rectifying Civ 5 Malfunctions PC
-date: 2024-11-02T18:48:13.041Z
-updated: 2024-11-04T17:41:05.202Z
+date: 2024-11-11T23:47:37.440Z
+updated: 2024-11-13T23:03:31.005Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game integrity
 
  Sometimes**CIV 5 crashes** because there’re broken or missing files on your system. So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the**CIV 5 crashing**  issue.
@@ -40,16 +47,23 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -64,19 +78,19 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -88,21 +102,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -136,21 +136,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[New] 2024 Approved Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oost-your-youtube-success-with-free-high-quality-audio/"><u>[New] Boost Your YouTube Success with Free, High-Quality Audio</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-choosing-between-bandicam-and-camtasia/"><u>2024 Approved Choosing Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-optimal-screen-usage-in-windows-10/"><u>Adjusting Aspect Ratios for Optimal Screen Usage in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-script-visionaries-corner/"><u>In 2024, Innovative Script Visionaries Corner</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-updated-drivers-on-hp-elitebook-x360-series-model-1g2/"><u>Install Updated Drivers on HP EliteBook X360 Series - Model 1#G2</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quenching-flickery-lights-on-acer-computers/"><u>Quenching Flickery Lights on Acer Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1216500-9781583948200-the-return-of-the-mother/"><u>The Return of the Mother | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unintended-self-appearance-fixes-for-video-calls-and-chats-for-2024/"><u>Unintended Self-Appearance Fixes for Video Calls and Chats for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-bringing-your-videos-to-life-in-vr-the-ultimate-converter-guide/"><u>Updated In 2024, Bringing Your Videos to Life in VR The Ultimate Converter Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-struggle-screen-edge-adjustment-on-computers/"><u>Zero Struggle! Screen Edge Adjustment on Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/incompatible-installing-amd-driver-on-classic-windows-versions/"><u>[INCOMPATIBLE] Installing AMD Driver on Classic Windows Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-performance-lg-bp350-screen-review/"><u>[New] Examining Performance LG BP350 Screen Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-trailblazers-designing-marvels-digital-playground/"><u>[Updated] 2024 Approved Trailblazers Designing Marvel's Digital Playground</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sive-catalogue-free-to-use-stock-media-sites-for-2024/"><u>Exclusive Catalogue Free-to-Use Stock Media Sites for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fix-your-broken-dji-footage-top-5-strategies-for-repairing-phantom-drone-videos/"><u>Fix Your Broken DJI Footage - Top 5 Strategies for Repairing Phantom Drone Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-11-excellent-choices-for-high-quality-audio-logging/"><u>In 2024, 11 Excellent Choices for High-Quality Audio Logging</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-105-classic-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on 105 Classic</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-reviving-your-asus-internal-cam/"><u>Troubleshooting: Reviving Your ASUS Internal Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upsidedownscreenremedy-guide/"><u>UpsideDownScreenRemedy Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-fullscreen-problem-non-displayed-monitor/"><u>Windows 10 Fullscreen Problem: Non-Displayed Monitor</u></a></li>
 </ul></div>
 

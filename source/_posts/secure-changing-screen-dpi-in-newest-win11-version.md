@@ -1,7 +1,7 @@
 ---
 title: Secure Changing Screen DPI in Newest Win11 Version
-date: 2024-09-15T02:37:38.728Z
-updated: 2024-09-19T22:14:17.944Z
+date: 2024-11-07T17:12:14.826Z
+updated: 2024-11-13T18:09:03.788Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -69,6 +76,19 @@ Here is how to do it:
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -90,28 +110,40 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
@@ -140,5 +172,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-extra-features-in-windows-11-display-missing/"><u>[Fixed] Extra Features in Windows 11 Display Missing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-live-stream-champions-clash-pick-your-preferred-software/"><u>[Updated] Live Stream Champions Clash – Pick Your Preferred Software?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-video-text-overlay-techniques-for-2024/"><u>[Updated] Mastering YouTube Video Text Overlay Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sonic-canvas-painting-sounds-on-a-mac-for-2024/"><u>[Updated] Sonic Canvas Painting Sounds on a Mac for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>2024 Approved From Lurk to Leader A Guide to Impactful Reddit Interaction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calibrating-win11-screen-scale/"><u>Calibrating Win11 Screen Scale</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-enhanced-excel-streamlining-complex-tasks-and-processes/"><u>ChatGPT-Enhanced Excel: Streamlining Complex Tasks and Processes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-unresponsive-windows-interface/"><u>Correcting Unresponsive Windows Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-updates-boost-intels-graphics-win11-compatible/"><u>Efficient Updates: Boost Intels Graphics, Win11 Compatible</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-performance-new-graphics-driver-for-gtx-1060/"><u>Elevate Performance: New Graphics Driver for GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-lcd-wobbling-issues-computers/"><u>Fix LCD Wobbling Issues (Computers)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y28-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y28 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-itel-a70-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Itel A70 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-gt-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-windows-7-with-advanced-intel-graphics-driver-updates/"><u>Optimize Windows 7 with Advanced Intel Graphics Driver Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-how-to-turn-on-and-use-bluetooth-on-your-pc-windows-1110/"><u>Step-by-Step Tutorial: How to Turn On and Use Bluetooth on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
+</ul></div>
 

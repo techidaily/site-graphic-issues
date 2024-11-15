@@ -1,7 +1,7 @@
 ---
 title: My Computer Screen Upside Down - How to Fix It
-date: 2024-09-17T03:38:50.452Z
-updated: 2024-09-19T22:19:08.910Z
+date: 2024-11-09T23:48:00.508Z
+updated: 2024-11-13T17:48:32.522Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
@@ -72,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down and locate the**Display orientation** menu. Change the orientation to:**Landscape,** **Portrait** ,**Landscape** **(flipped)** , or **Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
@@ -85,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  1) Click the**Start** button at the bottom left corner, and select**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select**View by category** , and click**Adjust screen resolution** .
 
@@ -103,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Still no luck? Don’t be upset. There’s one more thing to try…
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -129,18 +150,18 @@ There are two options to update drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
@@ -165,5 +186,20 @@ There are two options to update drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-free-editing-software-rankings/"><u>[New] 2024 Approved Essential Free Editing Software Rankings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-clearer-images-in-videoleap-videos/"><u>[New] In 2024, Unlocking Clearer Images in Videoleap Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>[Updated] Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-investigators-unite-explore-4-online-whodunit-adventures/"><u>AI Investigators Unite: Explore 4 Online Whodunit Adventures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-the-glare-not-your-patience-fix-monitor-flicker/"><u>Cut the Glare, Not Your Patience: Fix Monitor Flicker</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-power-of-health-tracking-with-the-new-garmin-vivosmart-4-review/"><u>Discovering the Power of Health Tracking with the New Garmin Vivosmart 4 Review</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/free-excellent-programs-to-recover-and-repair-your-damaged-outlook-pst-data/"><u>Free Excellent Programs to Recover and Repair Your Damaged Outlook PST Data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-r9-display-problems-on-windows-10/"><u>Overcoming R9 Display Problems on Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-spectrum-balancer-for-2024/"><u>Perfect Spectrum Balancer for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-flashing-windows-10-problems/"><u>Solving the Flashing Windows 10 Problems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-igtv-potential-converting-and-curating-horizontal-videos-for-2024/"><u>Unlocking IGTV Potential Converting and Curating Horizontal Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-cursor-sight-resolution/"><u>Win11 Cursor Sight - Resolution</u></a></li>
+</ul></div>
 

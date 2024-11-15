@@ -1,7 +1,7 @@
 ---
 title: Activating the Slumbering GPU Fan
-date: 2024-11-02T18:03:24.242Z
-updated: 2024-11-04T20:20:16.783Z
+date: 2024-11-07T18:13:30.467Z
+updated: 2024-11-13T21:27:52.373Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure all cables are plugged in
@@ -54,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the GPU fans
 
@@ -71,9 +71,23 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -95,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Configure GPU RPM (fan speed)
 
  RPM stands for revolutions per minute, which is what we usually call fan speed. To see if it’s a wrong configuration, you can use hardware monitor programs like [**MSI Afterburner**](https://www.msi.com/Landing/afterburner/graphics-cards) to adjust the fan speed manually. This is a safer approach compared to stress tests.
@@ -112,20 +119,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
@@ -143,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -180,22 +180,20 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-first-timers-map-to-earning-wealth-with-periscope/"><u>[New] 2024 Approved First-Timer's Map to Earning Wealth with Periscope</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-fixed-dxgkrnlsys-bsod-on-pc/"><u>[Tech] Fixed dxgkrnl.sys BSOD on PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximizing-your-story-potential-with-instagram-highlights/"><u>[Updated] In 2024, Maximizing Your Story Potential with Instagram Highlights</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-the-blank-pages-from-your-epson-printer/"><u>Addressing the Blank Pages From Your Epson Printer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-performance-geforce-210-update-for-w11/"><u>Boost Performance: GeForce 210 Update for W11</u></a></li>
-<li><a href="https://win-online.techidaily.com/comprehensive-strategy-session-on-leveraging-email-and-social-media-in-your-campaigns-massmail-suite/"><u>Comprehensive Strategy Session on Leveraging Email & Social Media in Your Campaigns (MassMail Suite)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-glitch-overcome-now-gpus-perform-optimally/"><u>Direct3D Glitch Overcome: Now GPUs Perform Optimally</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-failure-dark-monitor/"><u>GPU Failure: Dark Monitor</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-z-fold-5-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy Z Fold 5 PC | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 8</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles/"><u>In 2024, The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-stable-fallout-4-gaming-on-pc/"><u>Quick Fixes for Stable Fallout 4 Gaming on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reignite-asus-cameras-that-arent-working/"><u>Reignite Asus Cameras That Aren't Working</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-civ-5-errors-on-computer/"><u>Tackle Civ 5 Errors on Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unexpected-darkness-your-laptops-non-responsive-screen/"><u>Unexpected Darkness: Your Laptop's Non-Responsive Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicated-error-12-hunt-masters-graphics-wofixed/"><u>[Eradicated] Error 12 - Hunt Master's Graphics WoFixed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-no-money-solution-easy-editing-basics/"><u>[New] In 2024, Vimeo's No-Money Solution Easy Editing Basics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-top-viewers-playlist-on-youtube-history-for-2024/"><u>[New] Ultimate Top Viewers' Playlist on YouTube History for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-excellence-reimagined-five-innovative-uses-of-ai-for-student-success/"><u>Academic Excellence Reimagined: Five Innovative Uses of AI for Student Success</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-master-these-techniques-to-fix-windows-10s-bugcodeusb-driver-woes/"><u>Blue Screen Blues? Master These Techniques to Fix Windows 10'S BUGCODE_USB Driver Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-boot-up-fails/"><u>Graphics Boot-Up Fails</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/master-class-selecting-the-top-10-4k-shoulder-rigs-for-2024/"><u>Master Class Selecting the Top 10 4K Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-11-installation-error-code-c1900101/"><u>Overcoming Windows 11 Installation Error Code C1900101</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-primary-printer-failed-error-0x00000709-fixed/"><u>Setting Primary Printer Failed: Error 0X00000709 Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-visual-experience-post-dell-display-fixes/"><u>Smooth Visual Experience Post-Dell Display Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-warped-display-lines-in-devices/"><u>Swift Solutions for Warped Display Lines in Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-selecting-the-perfect-phone-case/"><u>The Ultimate Guide to Selecting the Perfect Phone Case</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-excess-space-on-win-10-display/"><u>Trim Excess Space on WIN 10 Display</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-on-transforming-diverse-media-formats-videos-and-audios-simplified/"><u>Ultimate Tutorial on Transforming Diverse Media Formats - Videos & Audios Simplified</u></a></li>
 </ul></div>
 

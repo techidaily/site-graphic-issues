@@ -1,7 +1,7 @@
 ---
 title: "BlueScreen Fix: Correcting Windows WDF Issues"
-date: 2024-11-03T19:27:36.500Z
-updated: 2024-11-04T17:54:35.389Z
+date: 2024-11-08T19:24:21.539Z
+updated: 2024-11-13T16:33:31.539Z
 tags:
   - win11
   - win10
@@ -75,31 +75,17 @@ When prompted to provide administrator permission, click **Yes** .
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910350abaafc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Choose**Automatically select all drivers installed on this computer** . Then click the**Finish** button to start the verification.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59103553b4fa3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the detect process finishes, just follow the instructions to get rid of the WDF\_VIOLATION blue screen error fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3: Run a Windows repair
 
@@ -137,18 +123,38 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -169,14 +175,18 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-crashes-without-total-pc-shutdown/"><u>Addressing Graphics Crashes Without Total PC Shutdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/charting-new-frontiers-in-ai-an-overview-of-the-top-6-cutting-edge-language-model-technologies/"><u>Charting New Frontiers in AI: An Overview of the Top 6 Cutting-Edge Language Model Technologies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-asus-lcd-glitches-today/"><u>Eliminate ASUS LCD Glitches Today</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/flexispot-theodore-standing-desk-review-classy-and-modern-office-furniture/"><u>Flexispot Theodore Standing Desk Review: Classy and Modern Office Furniture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flip-monitor-settings-for-optimal-view/"><u>Flip Monitor Settings for Optimal View</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-complete-visualization-with-giroptic-cam/"><u>In 2024, Complete Visualization with Giroptic Cam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-your-desktop-experience-tips-for-enhancing-your-macos-sonomas-menu-bar/"><u>Streamlining Your Desktop Experience: Tips for Enhancing Your MacOS Sonoma's Menu Bar</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-your-zip-archive-into-an-srt-subtitle-file-for-2024/"><u>Transforming Your Zip Archive Into an Srt Subtitle File for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-enhanced-nvidia-geforce-driver-release/"><u>Windows 10 Upgrade: Enhanced NVIDIA GeForce Driver Release</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screenflow-masterclass-taking-your-mac-projects-to-the-next-level/"><u>[New] 2024 Approved ScreenFlow Masterclass Taking Your Mac Projects to the Next Level</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximizing-visibility-key-elements-in-youtube-thumbnail-design/"><u>[Updated] In 2024, Maximizing Visibility Key Elements in YouTube Thumbnail Design</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>2024 Approved The Crescendo Camera Making Music Videos on Mobile Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advanced-settings-recovery-windows-10-displays-mismatch/"><u>Advanced Settings Recovery: Windows 10 Displays Mismatch</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-step-by-step-tutorial-on-transferring-your-hotmail-address-book-to-gmail/"><u>Complete Step-by-Step Tutorial on Transferring Your Hotmail Address Book to Gmail</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/delving-into-4k-resolution-a-visual-leap/"><u>Delving Into 4K Resolution: A Visual Leap</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-realme-12plus-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Realme 12+ 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-asio-driver-downloads-for-windows-11-fast-and-easy-setup-tutorial/"><u>Realtek Asio Driver Downloads for Windows 11 | Fast & Easy Setup Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revising-stream-settings-for-better-windows-11-views/"><u>Revising Stream Settings for Better Windows 11 Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818136892-seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-new-look-problem-free-streaming/"><u>Win10's New Look: Problem-Free Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-struggle-screen-edge-adjustment-on-computers/"><u>Zero Struggle! Screen Edge Adjustment on Computers</u></a></li>
 </ul></div>
 

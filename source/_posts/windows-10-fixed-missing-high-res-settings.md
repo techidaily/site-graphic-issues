@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Fixed: Missing High-Res Settings"
-date: 2024-09-13T09:20:38.499Z
-updated: 2024-09-19T18:03:55.181Z
+date: 2024-11-07T20:09:52.822Z
+updated: 2024-11-13T19:28:26.430Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
  If the advanced display settings still is missing, don’t worry. Try to find it via Display Adapter Properties.
@@ -71,13 +78,34 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -100,12 +128,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-10-best-text-effects-for-your-video/"><u>[New] 2024 Approved Top 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-step-by-step-manual-swiftly-produce-captions-for-facebook-videos/"><u>[New] A Step-by-Step Manual Swiftly Produce Captions for Facebook Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-evaluated-and-ranked-the-best-iphone-photo-watermarkers/"><u>[Updated] 2024 Approved Evaluated and Ranked The Best iPhone Photo Watermarkers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-impressive-grids-the-top-apps/"><u>[Updated] Crafting Impressive Grids - The Top Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-services-uniting-your-musical-lists/"><u>2024 Approved Harmonizing Services Uniting Your Musical Lists</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-v30-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo V30 Lite 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breathe-life-into-your-dark-asus-device/"><u>Breathe Life Into Your Dark Asus Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-flv-file-to-m4a-format-free-online-converter-by-movavi/"><u>Convert FLV File to M4A Format - Free Online Converter by Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-unclear-font-in-fc6-gameplay/"><u>Correcting Unclear Font in FC6 Gameplay</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-content-creation-mastering-how-to-trim-videos-in-real-time-on-vimeo/"><u>Cutting-Edge Content Creation Mastering How to Trim Videos in Real Time on Vimeo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-frozen-windows-monitor-issue/"><u>Fixing the Frozen Windows Monitor Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-malfunction-averted-system-stable-now/"><u>Graphics Malfunction Averted; System Stable Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817447906-no-more-crashes-apexs-new-era-begins/"><u>No More Crashes: Apex's New Era Begins!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revealing-windows-10-screen-extras-unlocked/"><u>Revealing Windows 10 Screen Extras Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screenscape-for-win11-users/"><u>Smooth Screenscape for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-laptop-gpu-confirmation-successful/"><u>Win11 Laptop GPU Confirmation Successful</u></a></li>
+</ul></div>
 

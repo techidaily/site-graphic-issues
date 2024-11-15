@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2024-10-28T18:57:19.593Z
-updated: 2024-11-04T17:14:58.384Z
+date: 2024-11-12T21:23:39.220Z
+updated: 2024-11-13T17:30:47.133Z
 tags:
   - win11
   - win10
@@ -37,47 +37,21 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -93,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -116,6 +97,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -123,10 +111,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -139,16 +127,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -169,18 +157,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-pc-sound-recording-with-x-recorder-tool/"><u>[New] Exclusive PC Sound Recording with X-Recorder Tool</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-virtual-horizons-assessing-current-landscapes-and-trials/"><u>[Updated] In 2024, Virtual Horizons Assessing Current Landscapes & Trials</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-new-voice-mastering-prompt-and-command-interactions/"><u>ChatGPT's New Voice: Mastering Prompt and Command Interactions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-gadgets-visit-toms-hardware-hub/"><u>Expert Guidance on Gadgets - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-freeze-identify-incorrect-video-drivers/"><u>Game Freeze? Identify Incorrect Video Drivers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-save-and-watch-nbc-newscasts-offline-convert-episodes-into-multiple-formats/"><u>How to Save & Watch NBC Newscasts Offline: Convert Episodes Into Multiple Formats</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-crafting-characters-and-settings/"><u>In 2024, Crafting Characters and Settings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>Mastering Your iPhone Lens Essential Techniques for Nature Pics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-now-fully-supports-latest-gpus/"><u>Overwatch Now Fully Supports Latest GPUs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] 2024 Approved Graphical Forecast The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-edit-videos-with-vimeo-create/"><u>[Updated] How to Edit Videos with Vimeo Create?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-essential-economic-education-top-15-youtube-picks/"><u>2024 Approved Essential Economic Education Top 15 YouTube Picks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/colorful-consequences-fix-for-lenovo-screen/"><u>Colorful Consequences - Fix for Lenovo Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457748139-iphone-cant-backup-to-icloud-discover-these-effective-fixes/"><u>IPhone Can’t Backup to iCloud? Discover These Effective Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/minecraft-woes-fix-bad-driver-issues/"><u>Minecraft Woes: Fix Bad Driver Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-google-pixel-8-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Google Pixel 8 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-direct3d-setback-achieved-gpu-power-up/"><u>Resolved Direct3D Setback, Achieved GPU Power-Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/surface-pro-7s-flicker-fixation-manual/"><u>Surface Pro 7'S Flicker Fixation Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-melhores-aplicativos-e-websites-para-fotografia-de-formato-3x4-comparativo/"><u>Top Melhores Aplicativos E Websites Para Fotografia De Formato 3X4 - Comparativo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-days-gone-for-your-pc-easy-solutions-to-common-errors/"><u>Unlocking 'Days Gone' For Your PC – Easy Solutions To Common Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vertical-panel-setup-fixed-in-netbook/"><u>Vertical Panel Setup Fixed in Netbook</u></a></li>
 </ul></div>
 

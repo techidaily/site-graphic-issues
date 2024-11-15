@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restore Windows 11 Taskbar Functionality
-date: 2024-11-02T18:07:27.586Z
-updated: 2024-11-04T18:27:10.434Z
+date: 2024-11-09T16:45:13.091Z
+updated: 2024-11-13T17:23:57.037Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -57,10 +64,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
@@ -78,15 +85,28 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -120,28 +140,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -161,16 +161,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -183,22 +189,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -223,21 +229,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-waves-to-words-navigating-the-world-of-audio-editing-in-garageband/"><u>2024 Approved From Waves to Words Navigating the World of Audio Editing in GarageBand</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusted-screen-angle-laptop-problem-solved/"><u>Adjusted Screen Angle - Laptop Problem Solved</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-netgear-nighthawk-x6-wi-fi-range-extender-a-deep-dive/"><u>Comprehensive Analysis of Netgear Nighthawk X6 Wi-Fi Range Extender: A Deep Dive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-correcting-0x800f0831-on-pcs/"><u>Comprehensive Guide to Correcting 0X800F0831 on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquering-disparity-in-amd-freesync-outputs/"><u>Conquering Disparity in AMD FreeSync Outputs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cross-platform-solution-for-win10s-stream-issues/"><u>Cross-Platform Solution for Win10's Stream Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-asus-lcd-squirm-for-clear-vision/"><u>Cure ASUS LCD Squirm for Clear Vision</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/disable-fullscreen-monitors-dont-work-properly-with-win10/"><u>Disable Fullscreen? Monitors Don't Work Properly with Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-screen-flicker-successful-resolution-on-dell/"><u>Fixing Screen Flicker: Successful Resolution on Dell</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c33-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C33 2023 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-gpu-display-stalled-2020-fix/"><u>Missing GPU, Display Stalled [2020 Fix]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/speaking-directly-to-text-mastering-the-art-of-voice-to-text-ms-word-for-2024/"><u>Speaking Directly to Text Mastering the Art of Voice-to-Text (MS Word) for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-addressing-frequent-halo-infinite-shutdowns-on-windows-machines/"><u>Step-by-Step Solution: Addressing Frequent Halo Infinite Shutdowns on Windows Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-install-new-drivers-for-asus-ac68-pce-network-card/"><u>Update or Install New Drivers for ASUS AC68 PCE Network Card</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-top5-topdvdavimp4/"><u>ベストの無料 DVD 動画変換ソフトを選ぶ：TOP5 TOPアプリックしてDVD形式からAVI、MP4他へ簡単に変更！</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-by-step-modify-username-in-google-meet/"><u>[New] 2024 Approved Step-by-Step Modify Username in Google Meet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-movie-capture-pc-mac-and-mobile-techniques/"><u>[New] In 2024, Mastering Movie Capture PC, Mac & Mobile Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-inverting-media-flow-apple-device-technique/"><u>[New] Inverting Media Flow Apple Device Technique</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-playscreen-media-app-review-for-2024/"><u>[New] PlayScreen Media App Review for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/catalyzing-stalled-gpu-fans-back-into-motion/"><u>Catalyzing Stalled GPU Fans Back Into Motion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easing-big-windows-11-resolution-issue/"><u>Easing Big Windows 11 Resolution Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nokia-150-2023-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nokia 150 (2023) to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-camera-to-computer-editing-sony-camcorder-videos-with-ease/"><u>New From Camera to Computer Editing Sony Camcorder Videos with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-challenges-while-ensuring-computer-survival/"><u>Overcoming GPU Challenges While Ensuring Computer Survival</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-no-more-flicker-in-win11/"><u>Stabilize: No More Flicker in Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-strategies-to-integrate-chatgpt-in-your-3d-printing-workflow/"><u>Step-by-Step Strategies to Integrate ChatGPT in Your 3D Printing Workflow</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-nvidiaintel-hybrid-card-problems-in-windows/"><u>Tackling NVIDIA/Intel Hybrid Card Problems in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-screen-stillness-manifesto-banish-flickering/"><u>The Screen Stillness Manifesto: Banish Flickering</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-resolved-gpu-issues-in-latest-laptop-model/"><u>Win11 Resolved GPU Issues in Latest Laptop Model</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Retrieve Lost Screen Configuration Saving in WIN 7 & 10 [Fixable]
-date: 2024-09-09T19:03:58.719Z
-updated: 2024-09-15T06:21:27.470Z
+date: 2024-11-09T23:35:52.984Z
+updated: 2024-11-13T19:03:49.506Z
 tags:
   - win11
   - win10
@@ -43,7 +43,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -57,8 +71,30 @@ To do so:
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and see if the problem is solved.
 
 ---
@@ -80,12 +116,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-learn-to-record-mac-display-like-a-pro-in-2024/"><u>[New] Learn to Record MAC Display Like a Pro, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-physical-security-measures/"><u>[Updated] Physical Security Measures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>[Updated] Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/a-beginners-guide-to-incorporating-ichimoku-cloud-analysis-for-currency-pairs-in-mt4-trading/"><u>A Beginner's Guide to Incorporating Ichimoku Cloud Analysis for Currency Pairs in MT4 Trading</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/access-updated-nvidia-gtx-1060-drivers-online/"><u>Access Updated Nvidia GTX 1060 Drivers Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/identifying-null-pointer-to-nvidia-driver/"><u>Identifying Null-Pointer to Nvidia Driver</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-itel-p55t-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Itel P55T? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-dual-gpu-operation-on-windows-10-with-nvidiaintel/"><u>Optimized Dual-GPU Operation on Windows 10 with Nvidia/Intel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817589959-precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/regain-control-of-your-email-a-modern-approach-to-gmail-passwords-and-verification-codes/"><u>Regain Control of Your Email: A Modern Approach to Gmail Passwords and Verification Codes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revolutionary-clear-window-tech/"><u>Revolutionary Clear Window Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
+</ul></div>
 

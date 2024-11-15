@@ -1,7 +1,7 @@
 ---
 title: No Graphics Available During Startup
-date: 2024-10-28T17:45:31.571Z
-updated: 2024-11-04T19:08:09.273Z
+date: 2024-11-11T22:33:05.980Z
+updated: 2024-11-13T19:35:47.289Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
 
 4) Restart your computer for the changes to take effect.
@@ -71,19 +64,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
  If the method doesn’t work, you can open Device Manager again, right-click your graphics driver and**Disable** it, and then restart your computer. Easy as the method may seem, it has proved very useful for many users.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Run the game in compatibility mode
 
@@ -95,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 4. Check the box under**Compatibility mode** and select what you want the game to be compatible with. Tick the box next to**Disable fullscreen optimizations** and**Run this program as administrator** . Click**Apply** \>**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -124,17 +91,37 @@ To change system screen resolution on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-23.png)
 2. Scroll down to the **Display resolution** section, then select a lower resolution value from the drop-down list to apply the change.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the problem remains, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update Windows
@@ -150,10 +137,10 @@ If the problem remains, please move on.
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -161,6 +148,13 @@ If the problem remains, please move on.
  Then try your game again to see if the Unable to Initialize Graphics System problem persists. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Repair corrupted system files
 
@@ -173,17 +167,17 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -211,19 +205,22 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-earning-insights-average-adsense-earning-for-every-1000-youtube-views/"><u>[New] 2024 Approved Earning Insights Average AdSense Earning for Every 1,000 YouTube Views</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-do-youtubers-get-paid-monthly/"><u>[Updated] 2024 Approved Do YouTubers Get Paid Monthly?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-much-video-can-64gb128gb-holds-for-2024/"><u>[Updated] How Much Video Can 64GB/128GB Holds for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-photo-watermarking-software-you-should-try/"><u>2024 Approved Top 10 Best Photo Watermarking Software You Should Try</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/apowersoft-vs-competitors-screen-capture/"><u>Apowersoft Vs. Competitor's Screen Capture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cutting-edge-nvidia-driver-for-gtx-1060/"><u>Cutting-Edge Nvidia Driver for GTX 1060</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-imovie-music-tips-and-tricks-guide/"><u>Essential iMovie Music Tips & Tricks Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fast-forward-to-functionality-monitor-link-reactivation/"><u>Fast Forward to Functionality: Monitor Link Reactivation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-inverted-display-standard-alignment-in-windows-10/"><u>Fix Inverted Display: Standard Alignment in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-google-stadia-lag-post-win11-update/"><u>Fixing Google Stadia Lag Post-Win11 Update</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-90-lite-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor 90 Lite Through Google Earth?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-ultimate-strategies-for-instagram-stories-mastery/"><u>In 2024, Ultimate Strategies for Instagram Stories Mastery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resurrecting-silent-displayport-with-simple-steps/"><u>Resurrecting Silent DisplayPort with Simple Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-integration-new-drivers-bring-amd-hd-6950-to-life-on-w11/"><u>Seamless Integration - New Drivers Bring AMD HD 6950 to Life on W11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-rectify-silent-streams-with-obs-for-2024/"><u>[New] How to Rectify Silent Streams with OBS for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-tackling-the-mystery-of-missing-shorts-video-images/"><u>[Updated] In 2024, Tackling the Mystery of Missing Shorts Video Images</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinding-flashes-windows-7s-secret-weapon/"><u>Banish Blinding Flashes: Windows 7'S Secret Weapon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/card-not-detected-error-alerted/"><u>Card Not Detected, Error Alerted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-clearing-past-issues/"><u>Direct3D Startup: Clearing Past Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-y27-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Y27 5G.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-advanced-display-settings-on-nvidia-graphics/"><u>Enabling Advanced Display Settings on NVIDIA Graphics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-enhancement-no-more-crashes-in-apex/"><u>Game Enhancement - No More Crashes in Apex</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-vega-graphics-card-drivers-quick-and-effortless-updates-for-gamers/"><u>Get the Latest AMD Vega Graphics Card Drivers: Quick & Effortless Updates for Gamers!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-bypass-epub-drm-protection-with-a-python-automation-script/"><u>How to Bypass EPUB DRM Protection with a Python Automation Script</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-guide-to-vimeo-video-host-and-share-site/"><u>In 2024, A Guide to Vimeo Video Host & Share Site</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-inaccessible-monitor-configurations-in-nvidia/"><u>Tackling Inaccessible Monitor Configurations in Nvidia</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-youtube-broadcast-handbook/"><u>The Ultimate YouTube Broadcast Handbook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turbocharge-your-pc-update-intel-gfx-on-win11-now/"><u>Turbocharge Your PC - Update Intel GFX on Win11 Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267950434-uncover-how-to-salvage-images-in-windows-using-the-powerful-stellar-fixer-app/"><u>Uncover How to Salvage Images in Windows Using the Powerful Stellar Fixer App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-down-time-fix-stutter-today/"><u>Zero Down Time: Fix Stutter Today</u></a></li>
 </ul></div>
 

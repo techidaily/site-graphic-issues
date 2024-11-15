@@ -1,7 +1,7 @@
 ---
 title: "Banish Blinky: A Step-by-Step Guide to Screen Stability"
-date: 2024-10-31T17:43:04.919Z
-updated: 2024-11-04T19:08:31.763Z
+date: 2024-11-10T16:26:17.528Z
+updated: 2024-11-13T20:15:47.190Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -48,19 +55,25 @@ OR
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -74,6 +87,13 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -84,13 +104,6 @@ To troubleshoot these hardware issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -107,15 +120,15 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
@@ -125,13 +138,6 @@ To troubleshoot these hardware issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -172,20 +178,21 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-game-changing-homes-in-blocktown-for-2024/"><u>[New] Game Changing Homes in Blocktown for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-navigating-tiktok-lives-as-a-virtual-attendee/"><u>[New] In 2024, Navigating TikTok Lives as a Virtual Attendee</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>[Updated] Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-fix-overcoming-tarkovs-graphics-hitch/"><u>Efficient Fix: Overcoming Tarkov's Graphics Hitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-gpu-non-detection-problems/"><u>Fix: GPU Non-Detection Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-behavior-of-hp-monitors/"><u>Fixing Erratic Behavior of HP Monitors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-mixing-pro-tools-prowess-tips-and-tricks/"><u>In 2024, Mastery in Mixing Pro Tools Prowess Tips and Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ai-imagery-in-chatgpt-4-via-dall-e/"><u>Mastering AI Imagery in ChatGPT-4 via DALL-E</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stopping-the-spotlight-swings-on-acer-displays/"><u>Stopping the Spotlight Swings on Acer Displays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-enhancing-everyday-life-with-chatgpt-insights/"><u>The Ultimate Guide: Enhancing Everyday Life with ChatGPT Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-sale-metas-latest-512gb-quest-3-offers-top-value-on-prime-day-insights-from-zdnet/"><u>Unbeatable October Sale: Meta's Latest 512GB Quest 3 Offers Top Value on Prime Day - Insights From ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-combat-flickering-display/"><u>Unveiling Secrets to Combat Flickering Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-output-stabilized-post-update/"><u>Visual Output Stabilized Post-Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-8-download-for-fb-movies/"><u>[New] Expert 8 Download for FB Movies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ransform-your-youtube-channel-url-in-minutes/"><u>[New] Transform Your YouTube Channel URL in Minutes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-enter-nvidia-control-unlocked/"><u>[Solution] Enter Nvidia Control Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effective-strategies-to-plan-zoom-sessions-for-2024/"><u>[Updated] Effective Strategies to Plan Zoom Sessions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-premiere-pro-know-how-optimizing-youtube-video-uploads/"><u>[Updated] In 2024, Premiere Pro Know-How Optimizing YouTube Video Uploads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>[Updated] Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-s24-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy S24 Ultra Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-panoramic-portals-cutting-edge-filmscapes/"><u>2024 Approved Panoramic Portals Cutting-Edge Filmscapes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-effortless/"><u>Clear Windows Image, Effortless</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-room-gfx-card-updation/"><u>Dark Room - GFX Card Updation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-home-decor-nixplays-x15d-digital-frames-unveiled/"><u>Elevating Home Decor: Nixplay's X15D Digital Frames Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-gaming-amd-radeon-hd-6950-on-windows-11-update/"><u>Optimized Gaming: AMD Radeon HD 6950 on Windows 11 Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swiftly-enhance-win10-with-intel-graphics-drivers/"><u>Swiftly Enhance Win10 with Intel Graphics Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-error-monitor-refuses-fullscreen-view/"><u>Win11 Error: Monitor Refuses Fullscreen View</u></a></li>
 </ul></div>
 

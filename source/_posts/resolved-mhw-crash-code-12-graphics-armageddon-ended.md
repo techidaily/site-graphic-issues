@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-11-03T18:01:11.916Z
-updated: 2024-11-04T20:43:13.334Z
+date: 2024-11-07T16:51:41.516Z
+updated: 2024-11-13T16:58:49.733Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Roll back your graphics driver
 
  Some users also report the latest graphics driver to be the culprit of the err 12: graphics card crashed problem. If you’ve recently updated your graphics driver and the problem occurs subsequently, then it’s probable that the up-to-date driver is to blame. So you can roll it back to see if it fixes the issue.
@@ -75,21 +68,22 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
@@ -134,18 +128,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -177,15 +171,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-simplified-guide-to-structuring-ad-copy-on-social-media-for-2024/"><u>[New] Simplified Guide to Structuring Ad Copy on Social Media for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-undersea-video-7-easy-to-follow-techniques/"><u>[Updated] Mastering Undersea Video 7 Easy-to-Follow Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-window-calls-top-8-standout-titles/"><u>[Updated] Premium Window Calls Top 8 Standout Titles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-white-screen-in-create-a-family/"><u>Clear White Screen in Create-A-Family</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/harmonizing-display-line-proportions/"><u>Harmonizing Display Line Proportions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/harnessing-external-light-for-cozy-interior-spaces-for-2024/"><u>Harnessing External Light for Cozy Interior Spaces for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-order-visual-savings-secured/"><u>Restored Order: Visual Savings Secured</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-image-hunting-on-pexelscom/"><u>The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-chosen-speeds-modifying-tools-pc-phone/"><u>[New] Expert-Chosen Speeds Modifying Tools (PC, Phone)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-goggles-ranking-best-5-for-drone-flyers/"><u>[New] Pinnacle Goggles Ranking Best 5 for Drone Flyers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-7-simple-methods-for-capturing-youtube-content/"><u>[Updated] 2024 Approved 7 Simple Methods for Capturing YouTube Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-analyzing-the-impact-of-reduced-photo-jiggles-in-adobe/"><u>2024 Approved Analyzing the Impact of Reduced Photo Jiggles in Adobe</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-artisans-realm-inside-youtubes-studio-space/"><u>2024 Approved The Artisan’s Realm Inside YouTube's Studio Space</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-asus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Asus Phone</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-facebooks-revised-page-tagging-system/"><u>Breaking Down Facebook's Revised Page Tagging System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/controlling-win11-display-extensiveness/"><u>Controlling Win11 Display Extensiveness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-display-driver-nvlddmkm-stopped-responding-and-has-successfully-recovered/"><u>Fix: Display Driver Nvlddmkm Stopped Responding and Has Successfully Recovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-the-solution-found/"><u>GPU Error 43 - The Solution Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-fail-device-unrecognized/"><u>Graphics Fail: Device Unrecognized</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-boost-your-lenovo-screens-light/"><u>How To Boost Your Lenovo Screens' Light</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instas-friendship-breakdown-detect-it-fast-for-2024/"><u>Insta's Friendship Breakdown Detect It Fast for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/introducing-new-amd-hd-6950-drivers-for-w11-os/"><u>Introducing New AMD HD 6950 Drivers for W11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hardware-hurdles-with-intel-drivers/"><u>Overcoming Hardware Hurdles with Intel Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-gpu-crashes-while-preserving-computer-uptime/"><u>Preventing GPU Crashes While Preserving Computer Uptime</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Updated In 2024, Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windowing-fine-tuning-win11-display/"><u>Windowing: Fine-Tuning Win11 Display</u></a></li>
 </ul></div>
 

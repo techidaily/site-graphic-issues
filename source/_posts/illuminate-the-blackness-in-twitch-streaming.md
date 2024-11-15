@@ -1,7 +1,7 @@
 ---
 title: Illuminate the Blackness in Twitch Streaming
-date: 2024-10-29T16:19:59.348Z
-updated: 2024-11-04T16:48:57.685Z
+date: 2024-11-10T20:31:23.360Z
+updated: 2024-11-13T18:01:07.845Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715b
 * [Fix 6: Switch in or out of hardware acceleration](#h-fix-6-switch-in-or-out-of-hardware-acceleration)
 * [Fix 7: Is it a server issue?](#h-fix-7-is-it-a-server-issue)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your network devices
 
  Twitch may go black if it loses its connection. Chances are you have a weak internet connection that doesn’t provide enough bandwidth for Twitch to stream properly. So the first thing we should look into is your network devices, which could become overflooded with cache if you have kept them on for too long a while.
@@ -50,13 +43,6 @@ Here’s how you go about it:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
@@ -79,15 +65,16 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
@@ -104,16 +91,23 @@ Here’s how you go about it:
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -128,19 +122,6 @@ Here’s how you go about it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -162,6 +143,13 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
 **Clear cache and cookies in** **Firefox:**
@@ -174,13 +162,6 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 
@@ -188,6 +169,19 @@ Here’s how you go about it:
 6. Restart Firefox.
 
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
 
@@ -215,10 +209,10 @@ Here’s how you go about it:
 5. Exit Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
@@ -234,13 +228,20 @@ Here’s how you go about it:
 4. Exit Firefox.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
 
@@ -268,22 +269,20 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-lightning-fast-windowed-gallery-viewer-alert/"><u>[New] In 2024, Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-best-top-xbox-hdds-your-ultimate-list/"><u>[Updated] Best Top Xbox HDDs Your Ultimate List</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-soundtrack-of-successful-snapchat-stories/"><u>[Updated] In 2024, The Soundtrack of Successful Snapchat Stories</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-green-mistakes-on-video-platforms/"><u>Clearing Up Green Mistakes on Video Platforms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-god-of-war-mechanics-for-fun/"><u>Improving 'God of War' Mechanics for Fun</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-savings-on-a-game-changing-automated-cat-litter-read-how-it-transformed-the-pet-care-routine/"><u>Labor Day Savings on a Game-Changing Automated Cat Litter! Read How It Transformed the Pet Care Routine</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/outsmart-sims-monochrome-maze/"><u>Outsmart Sims' Monochrome Maze</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolve-your-dell-sound-issues-with-these-simple-steps/"><u>Quick Fixes: Resolve Your Dell Sound Issues with These Simple Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaired-amd-directx-error/"><u>Repaired AMD DirectX Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-unusual-display-configuration/"><u>Resolved Unusual Display Configuration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/save-fix-enhance-discover-the-finest-video-repair-solutions-compatible-with-both-windows-and-mac/"><u>Save, Fix, Enhance: Discover the Finest Video Repair Solutions Compatible With Both Windows & Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/sovrascrivi-il-tuo-lavoro-multimediali-con-un-tagliamp4-su-windows-1011-compatibile/"><u>Sovrascrivi Il Tuo Lavoro Multimediali Con Un TagliaMP4 Su Windows - 10/11 Compatibile</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/surrender-to-serenity-top-10-game-guides/"><u>Surrender to Serenity Top 10 Game Guides</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-clear-zoom-video-2024s-camera-repair-guide/"><u>Unlock Clear Zoom Video - 2024'S Camera Repair Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-your-stagnant-windows-update-proven-techniques-for-instant-success-no-more-waiting/"><u>Unstick Your Stagnant Windows Update: Proven Techniques for Instant Success (No More Waiting)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrade-instructions-intel-3000-plus-windows-11-drivers/"><u>Upgrade Instructions: Intel 3000 + Windows 11 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-dark-screen-fix-mouse-appears/"><u>Win11 Dark Screen Fix: Mouse Appears</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevating-your-tiktok-presence-harness-the-power-of-siri-speech/"><u>[New] In 2024, Elevating Your TikTok Presence Harness the Power of Siri Speech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-free-professional-youtuber-backgrounds/"><u>[Updated] 2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-the-action-overwatch-video-recordings-for-2024/"><u>[Updated] Capturing the Action Overwatch Video Recordings for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-gpu-shutdown-in-windows-1011-pcs/"><u>Addressing GPU Shutdown in Windows 10/11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-urgently-no-gpu-detected/"><u>Fix Urgently: No GPU Detected</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a58-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A58 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-settings-for-live-broadcasts/"><u>In 2024, Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-troubleshooting-fast-fixes-for-no-signal/"><u>Monitor Troubleshooting: Fast Fixes for No Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/newcard-screen-blackout-problem/"><u>NewCard Screen Blackout Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapid-responsiveness-in-anthem-play/"><u>Rapid Responsiveness in Anthem Play</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dilemma-of-aligning-artificial-intelligence/"><u>The Dilemma of Aligning Artificial Intelligence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-true-windows-res-display/"><u>Unlocking True Window's Res Display</u></a></li>
 </ul></div>
 

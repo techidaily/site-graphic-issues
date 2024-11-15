@@ -1,7 +1,7 @@
 ---
 title: Mending Disconnected Laptop and TV via HDMI
-date: 2024-10-31T17:27:07.620Z
-updated: 2024-11-04T18:57:03.883Z
+date: 2024-11-09T17:26:36.471Z
+updated: 2024-11-13T17:16:37.538Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 3. [Update available drivers](#F3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart and reconnect your devices
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure your Display Settings
@@ -70,6 +70,19 @@ The difference between each mode is as follows:
 * **Extend** — Using both monitors to display an extended desktop.
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
@@ -93,22 +106,15 @@ The difference between each mode is as follows:
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -132,19 +138,18 @@ The difference between each mode is as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-integrating-visuals-smoothly-mastering-snap-camera-in-microsoft-teams/"><u>[Updated] 2024 Approved Integrating Visuals Smoothly Mastering Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-film-edits-that-enhance-visual-storytelling/"><u>[Updated] Proven Film Edits That Enhance Visual Storytelling</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-guide-to-changing-speed-up-in-videos-on-snapchat/"><u>2024 Approved Beginner’s Guide to Changing Speed Up in Videos on Snapchat</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-microsofts-basic-winos-driver-performance/"><u>Adjusting Microsoft's Basic WINOS Driver Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-lag-ultimate-fixes-for-high-ping-in-warzone-version-20/"><u>Beat the Lag: Ultimate Fixes for High-Ping in Warzone Version 2.0</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-screen-rotation/"><u>Correcting Windows 10 Screen Rotation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-eradicated-displays-now-save-friendly/"><u>Error Eradicated - Displays Now Save-Friendly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-sites-for-3d-type-artistry-for-2024/"><u>Leading Sites for 3D Type Artistry for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-incorporating-sound-effects-into-presentations-with-powerpoint-strategies-for-both-windows-and-apple-systems/"><u>New Incorporating Sound Effects Into Presentations with PowerPoint Strategies for Both Windows and Apple Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-cure-for-darkened-asus-screens/"><u>Quick Cure for Darkened Asus Screens</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamlining-your-technique-for-better-home-recordings-for-2024/"><u>Streamlining Your Technique for Better Home Recordings for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-xr21-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia XR21 Phone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/videorenewal-assistant-reviving-files/"><u>VideoRenewal Assistant: Reviving Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-mastery-troubleshooting-your-video-equipment/"><u>Zoom Mastery: Troubleshooting Your Video Equipment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-capturing-essence-photos-meet-music-videos/"><u>[New] 2024 Approved Capturing Essence Photos Meet Music Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-windows-11-cinema-download-and-activate-movie-maker-app/"><u>[Updated] 2024 Approved Windows 11 Cinema Download and Activate Movie Maker App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/connectivity-crusade-easily-fix-screen-disconnect/"><u>Connectivity Crusade: Easily Fix Screen Disconnect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-repair-processes-screen-absent/"><u>Effortless Repair Processes, Screen Absent</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-narzo-n53-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Narzo N53 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817576948-gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-displays-settings-saving-woes-windows-7-10-tips-tackled/"><u>Mend Displays Settings Saving Woes: Windows 7-10 Tips [Tackled]</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use-for-2024/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-obsolescence-six-ways-to-shine-in-an-ai-world/"><u>Overcoming Obsolescence: Six Ways to Shine in an AI World</u></a></li>
+<li><a href="https://win-trending.techidaily.com/sicherstellen-sie-den-abgesicherten-modus-von-lenovo-auf-windows-11-einfache-schritte-zur-gewahrleistung-der-systemstabilitat/"><u>Sicherstellen Sie Den Abgesicherten Modus Von Lenovo Auf Windows 11: Einfache Schritte Zur Gewährleistung Der Systemstabilität</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-techniques-for-making-a-standout-slowed-motion-video-on-instas-trendy-reels/"><u>Step by Step Techniques for Making a Standout Slowed-Motion Video on Insta's Trendy Reels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upend-pc-monitor-for-win7/"><u>Upend PC Monitor for Win7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-10-mastery-guide-for-latest-features/"><u>Windows 10 Mastery Guide for Latest Features</u></a></li>
 </ul></div>
 

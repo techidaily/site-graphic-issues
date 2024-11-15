@@ -1,7 +1,7 @@
 ---
 title: Dialing Down Flickering in Your Acer Device
-date: 2024-10-31T19:50:15.420Z
-updated: 2024-11-04T21:00:22.285Z
+date: 2024-11-08T17:46:52.650Z
+updated: 2024-11-13T23:16:00.863Z
 tags:
   - win11
   - win10
@@ -26,19 +26,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change the screen refresh rate**
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**Acer laptop screen flickering** problem.
@@ -56,26 +43,26 @@ Here is how to change the screen refresh rate:
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
@@ -94,10 +81,10 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
@@ -107,6 +94,13 @@ Here is how to change the screen refresh rate:
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -167,21 +161,22 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-transform-fb-video-tunes-to-mp3/"><u>[New] Transform Fb Video Tunes to MP3</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas/"><u>[Updated] Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[Updated] In 2024, Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-ios-and-nintendos-historic-alliance/"><u>Game On! IOS and Nintendo's Historic Alliance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-change-or-remove-screen-time-lock-code-on-apple-products/"><u>How To Change or Remove Screen Time Lock Code on Apple Products</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instantly-boost-your-pc-with-intel-3000-update/"><u>Instantly Boost Your PC with Intel 3000 Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-typing-to-textual-excellence-in-word/"><u>Master the Art of Typing to Textual Excellence in Word</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-creation-hub-synopsis-studio-assessment-2023-for-2024/"><u>Pinnacle Creation Hub Synopsis, Studio Assessment 2023 for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-fire-stick-device-with-any-projector/"><u>Step-by-Step Guide: Linking Your Fire Stick Device with Any Projector</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-social-media-tags-leading-tools-reviewed-fbtwitterinsta/"><u>[Updated] 2024 Approved Mastering Social Media Tags Leading Tools Reviewed (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discovering-2024s-premier-cameras-for-professional-use/"><u>Discovering 2024'S Premier Cameras for Professional Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-hot-30-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Hot 30 5G? Try These Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-creating-captivating-iphone-lengthened-photos/"><u>In 2024, Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy F15 5G Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-nvlddmkm-driver-operational/"><u>Kernel Issue Overcome: Nvlddmkm Driver Operational</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-not-responding-resolution-achieved/"><u>Lenovo TapScreen Not Responding, Resolution Achieved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-ai-communication-unveiling-the-top-5-generators-of-ai-prompts-for-efficient-tools-integration/"><u>Masterful AI Communication: Unveiling the Top 5 Generators of AI Prompts for Efficient Tools Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-to-safety-windows-8s-safe-mode-and-graphics-card-uninstallation/"><u>Navigating to Safety: Windows 8'S Safe Mode & Graphics Card Uninstallation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-remedy-for-buffering-woes/"><u>Quick Remedy for Buffering Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-flaky-asus-webcam-features/"><u>Reactivating Flaky ASUS Webcam Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-steam-friends-network-unavailable-error/"><u>Troubleshooting Guide: Fixing 'Steam Friends Network Unavailable' Error</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-pro-secrets-6-time-saving-tips-for-better-video-edits/"><u>Updated Adobe Premiere Pro Secrets 6 Time-Saving Tips for Better Video Edits</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-magic-6-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Magic 6 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-emerges/"><u>Win11 Shadowed, Cursor Emerges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Non-Fullscreen Displays on Monitor with Win10
-date: 2024-10-31T16:52:25.140Z
-updated: 2024-11-04T20:44:21.598Z
+date: 2024-11-06T17:53:27.593Z
+updated: 2024-11-13T16:14:43.970Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -50,6 +57,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
@@ -58,22 +72,22 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can switch to different resolutions and see if it resolves your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
@@ -84,10 +98,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
@@ -103,13 +117,6 @@ Here’s what you need to do:
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -131,30 +138,31 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -166,28 +174,15 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab.
@@ -197,13 +192,6 @@ To do so, follow these steps:
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -239,18 +227,20 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastery-of-podcast-rss-feeds-a-step-by-step-tutorial/"><u>[New] In 2024, Mastery of Podcast RSS Feeds A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-guide-to-converting-youtube-to-avi-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Converting YouTube to AVI Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-push-past-filmora-discover-the-best-tablets-for-visual-excellence-for-2024/"><u>[Updated] Push Past Filmora - Discover the Best Tablets for Visual Excellence for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>[Updated] Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cpp-unlocked-successfully/"><u>CPP Unlocked Successfully!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-beyond-tubes-the-ultimate-video-share-sites/"><u>In 2024, Beyond Tubes The Ultimate Video Share Sites</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-masters-choice-10-preeminent-online-tools-for-vimeo-files/"><u>In 2024, Master's Choice 10 Preeminent Online Tools for Vimeo Files</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-6-lite-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 6 Lite Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-fix-monitor-hides-full-screen-windows-11/"><u>Screen Fix: Monitor Hides Full-Screen Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secured-win-devices-creation/"><u>Secured Win Devices Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-video-editing-on-windows-11-for-professionals-for-2024/"><u>Unlocking Video Editing on Windows 11 for Professionals for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vision-disabled-graphic-device-missing/"><u>Vision Disabled: Graphic Device Missing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-video-ranking-breakdown-how-it-works/"><u>YouTube Video Ranking Breakdown How It Works</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-clearing-up-your-video-quality-issues-for-2024/"><u>[New] Clearing Up Your Video Quality Issues for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-chat-to-tune-downloader-for-fb/"><u>[Updated] Chat to Tune Downloader for FB</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-every-creators-guide-to-youtube-revenue/"><u>2024 Approved Every Creator's Guide to YouTube Revenue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-win11-monitor-size-issue/"><u>Adjusting Win11 Monitor Size Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bridge-the-gap-running-intel-driver-in-low-end-pcs/"><u>Bridge the Gap: Running Intel Driver in Low-End PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-recurring-monitor-blanks-now-stable/"><u>Conquered Recurring Monitor Blanks, Now Stable</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creating-convincing-news-final-buzzes/"><u>Creating Convincing News Final Buzzes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-overworked-cpus-with-wmi/"><u>Eliminate Overworked CPUs with WMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-anomalous-refresh/"><u>Ending Window's 10 Anomalous Refresh</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-shadowstack-chipset/"><u>Finding the Hidden Shadowstack Chipset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975766520-get-the-latest-asrock-ab350-pro4-drivers-for-windows-no-cost/"><u>Get the Latest ASRock AB350 Pro4 Drivers for Windows - No Cost!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/omnicharge-omni-20-user-manual-unlock-the-potential-of-universal-wireless-charging-in-a-compact-package/"><u>Omnicharge Omni 20 User Manual: Unlock the Potential of Universal, Wireless Charging in a Compact Package</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/portable-computing-orientation-set-right/"><u>Portable Computing - Orientation Set Right</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-curbing-virtual-disk-service-malfunction/"><u>Strategies: Curbing Virtual Disk Service Malfunction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-run-intel-graphics-in-low-end-systems/"><u>Tips to Run Intel Graphics in Low-End Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Tackle GPU Failures Without System Freeze
-date: 2024-09-09T04:46:46.517Z
-updated: 2024-09-15T02:43:43.504Z
+date: 2024-11-08T23:31:04.498Z
+updated: 2024-11-13T21:24:14.007Z
 tags:
   - win11
   - win10
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/41ecffa399c4641eb478bbc9a56d686246cf56f42
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clean install the GPU driver
 
  GPU crashes while the PC stays on can also be caused by incompatible graphics drivers. This is usually because an incompatible or faulty driver will stop the graphics card from working normally, and therefore with display problems like crashing and freezing.
@@ -59,10 +72,25 @@ thumbnail: https://thmb.techidaily.com/41ecffa399c4641eb478bbc9a56d686246cf56f42
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -85,23 +113,30 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  See if the GPU crashes but the PC stays on problem is fixed with an updated graphics card driver. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair corrupted system files
 
@@ -116,13 +151,6 @@ To use Fortect:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -143,16 +171,24 @@ To use Fortect:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select **Performance** (the second icon).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
 5. If you have a second GPU, do the same to check its temperture as well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Even though the GPU temperatures differ for differet manufacturers and models, your GPU tempertures should be in the range from**65 to 85°C** (149° to 185°F) under normal usage.
@@ -163,13 +199,6 @@ To use Fortect:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Test your GPU on another computer
 
  At this point, you should try your GPU on a different computer to see if the problem is with the graphics card itself: if no crashing problem is seen on the second computer, then the GPU is problem-free, and you should then move on to the next test.
@@ -179,13 +208,6 @@ To use Fortect:
  If you don’t have a second computer, you can also try to stress test your GPU with a third-party tool like [AIDA64 Extreme](https://www.aida64.com/downloads) ,[3DMark](https://www.3dmark.com/) or [FurMark](https://geeks3d.com/furmark/downloads/) to make sure that your GPU is still working fine. This is the stress GPU feature in AIDA64 Extreme if you’re interested:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-22.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t have the time or the energy to run such tests yourself, we also recommend that you seek help from a hardware technician instead, as such tests also require certain knowledge of computer hardware.
 
@@ -224,5 +246,24 @@ To use Fortect:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-pros-and-cons-delving-into-the-world-of-video-downloading-methods/"><u>[New] 2024 Approved Pros and Cons Delving Into the World of Video Downloading Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-techniques-to-extract-sound-from-vimeo-videos/"><u>[New] In 2024, Techniques to Extract Sound From Vimeo Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unveiling-tiktoks-hidden-secrets-top-7-emoji-exploration-guide/"><u>[Updated] 2024 Approved Unveiling TikTok's Hidden Secrets Top 7 Emoji Exploration Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>[Updated] The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>[Updated] Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>2024 Approved Stay Incognito How to Stream Unnoticed on Instagram</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-c55-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beyond-full-hd-understanding-4ks-wonders/"><u>Beyond Full HD: Understanding 4K's Wonders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-gpu-back-on-track-nvidia/"><u>Graphics Glitch Fixed, GPU Back on Track (NVIDIA)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-resolve-windows-11-c1900101-installation-error/"><u>Guide to Resolve Windows 11 C1900101 Installation Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-stop-asus-laptop-screen-flickering-fix-guide/"><u>How To Stop ASUS Laptop Screen Flickering Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817511063-lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lighting-the-way-after-fall-update-woes/"><u>Lighting the Way After Fall Update Woes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/live-photos-for-beginners-an-iphone-guide/"><u>Live Photos for Beginners An iPhone Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/proven-remedies-to-enhance-your-instagram-videography-for-2024/"><u>Proven Remedies to Enhance Your Instagram Videography for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tidy-up-your-screens-distorted-edges-now/"><u>Tidy Up Your Screen's Distorted Edges Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-new-nvidia-geforce-210-driver-for-windows-pcs/"><u>Unleash Potential: New NVIDIA GeForce 210 Driver for Windows PCs</u></a></li>
+</ul></div>
 

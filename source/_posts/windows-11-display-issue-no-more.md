@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Display Issue No More
-date: 2024-09-18T08:09:35.350Z
-updated: 2024-09-20T02:54:13.099Z
+date: 2024-11-07T18:26:11.718Z
+updated: 2024-11-13T21:12:33.839Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -41,8 +48,24 @@ Here is how to change the monitor refresh rate:
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -67,6 +90,13 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -74,13 +104,6 @@ Here is how to change the monitor refresh rate:
 5) Keep track on your PC to see if the screen flashing or flickering problem has been resolved. If yes, then congrats! If the issue persists, however, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
@@ -92,17 +115,17 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -111,13 +134,6 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -162,6 +178,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -187,5 +210,26 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-free-vfx-resources-online/"><u>[New] Explore the Best FREE VFX Resources Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-frame-rate-mastery-discover-the-6-best-techniques/"><u>Boosting Frame Rate Mastery: Discover the 6 Best Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/code-43-issue-on-windows-11-comprehensive-fix-guide/"><u>Code 43 Issue on Windows 11 - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/connecting-through-ig-a-guide-for-hyperlink-posts/"><u>Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discover-how-to-easily-determine-your-monitors-display-resolution-in-just-a-single-step/"><u>Discover How to Easily Determine Your Monitor's Display Resolution in Just a Single Step</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discover-your-displays-pixels-effortless-guide-to-determine-screen-resolution/"><u>Discover Your Display's Pixels: Effortless Guide to Determine Screen Resolution</u></a></li>
+<li><a href="https://article-files.techidaily.com/dive-deep-into-hdr-creation-the-ultimate-photoshop-playbook/"><u>Dive Deep Into HDR Creation The Ultimate Photoshop Playbook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-guide-installation-of-amd-graphics-card-unrecognized-by-windows-11/"><u>Fix Guide: Installation of AMD Graphics Card Unrecognized by Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-application-error-for-nvstreamuseraagentexe-on-your-pc-easy-solutions-unveiled/"><u>Fixing the 'Application Error' For NvStreamUseraAgent.exe on Your PC - Easy Solutions Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-common-nvstreamuseraagentexe-crash-issue-on-your-windows-pc-successfully/"><u>Fixing the Common NvStreamUseraAgent.exe Crash Issue on Your Windows PC Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fps-boost-top-6-tips/"><u>FPS Boost [Top 6 Tips]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gtx-950-code-43-error-on-windows-10-solved/"><u>GTX 950 Code 43 Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensible-guide-to-azure-voice-to-text/"><u>In 2024, Comprehensible Guide to Azure Voice to Text</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/mitigating-workplace-stress-through-automated-solutions-research-overview/"><u>Mitigating Workplace Stress Through Automated Solutions - Research Overview</u></a></li>
+<li><a href="https://fox-search.techidaily.com/pc-freundliche-kontaktubertragung-aus-dem-smartphone-erfahre-5-bewahrte-methoden-zum-wechseln-und-sichern-ihrer-adressen/"><u>PC-Freundliche Kontaktübertragung Aus Dem Smartphone: Erfahre 5 Bewährte Methoden Zum Wechseln Und Sichern Ihrer Adressen.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pixels-of-peaceful-bedtime-narratives-for-2024/"><u>Pixels of Peaceful Bedtime Narratives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-checking-your-webcams-functionality-in-windows/"><u>Step-by-Step Guide: Checking Your Webcam's Functionality in Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728504180041-windows-server-2022/"><u>Windows Server 2022のセットアップにおける最新ガイド: ダウンロードからインストールまで</u></a></li>
+</ul></div>
 

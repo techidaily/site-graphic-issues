@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Stable Fallout 4 Gaming on PC
-date: 2024-09-18T23:31:07.183Z
-updated: 2024-09-20T06:15:50.428Z
+date: 2024-11-10T20:15:52.963Z
+updated: 2024-11-13T23:42:04.290Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -62,20 +76,27 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer and open your Fallout 4.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -89,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -111,13 +119,6 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
@@ -146,5 +147,21 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-augmented-realms-cinemas-evolution/"><u>[New] In 2024, Augmented Realms Cinema's Evolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-the-flashing-window-troubleshoot/"><u>[SOLVED] The Flashing Window Troubleshoot</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-securely-accessing-social-memories-fb-status-videos-guide/"><u>[Updated] 2024 Approved Securely Accessing Social Memories FB Status Videos Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-secrets-to-successful-video-marketing-uncovered/"><u>[Updated] YouTube's Secrets to Successful Video Marketing Uncovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-not-included-in-winxp-setup/"><u>AMD Graphics Not Included in WinXP Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-realme-gt-neo-5-se-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Realme GT Neo 5 SE to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-premium-sound-option-max-airpods-reviewed/"><u>Apple's Premium Sound Option: Max AirPods Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enlightening-the-path-to-uhd-tv-4k-insights/"><u>Enlightening the Path to UHD TV: 4K Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-galaxy-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Galaxy A05s</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y55s-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y55s 5G (2023) Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/jest-and-jibe-constructing-parody-videos/"><u>Jest and Jibe Constructing Parody Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaited-nvidia-gpu-firmware-problem/"><u>Repaited Nvidia GPU Firmware Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-amd-radeon-r9-functionality-for-enhanced-win10-gaming/"><u>Restored AMD Radeon R9 Functionality for Enhanced Win10 Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-guide-to-intel-hd-graphics-driver-update/"><u>Simple Guide to Intel HD Graphics Driver Update</u></a></li>
+</ul></div>
 

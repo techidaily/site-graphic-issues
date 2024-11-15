@@ -1,7 +1,7 @@
 ---
 title: "Graphics Glitch: Fixed Error 22"
-date: 2024-09-14T21:58:21.960Z
-updated: 2024-09-20T04:43:17.677Z
+date: 2024-11-10T22:14:25.742Z
+updated: 2024-11-13T16:40:15.906Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -64,20 +71,29 @@ Example – CMOS battery on a laptop
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -99,13 +115,6 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -125,5 +134,24 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-glide-3-duel-illusionist-4-emerges-for-2024/"><u>[New] Glide 3 Duel Illusionist 4 Emerges for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-guide-to-smooth-browsing-select-the-top-7-android-adblockers-for-2024/"><u>[New] Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-grasping-the-functionality-of-airborne-robotics/"><u>[Updated] Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-directface-vidcutter-utility/"><u>2024 Approved DirectFace VidCutter Utility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advance-your-skillset-god-of-war-challenge/"><u>Advance Your Skillset: 'God of War' Challenge</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-hardware-unsupported-in-older-windows-oses/"><u>AMD Graphics Hardware Unsupported in Older Windows OSes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dance-no-more-fixing-win11s-screen-issue/"><u>Dance No More: Fixing Win11's Screen Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-problem-halts-anticipated-start-of-halo-infinite/"><u>DX12 Problem Halts Anticipated Start of Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-of-the-line-no-more-direct3d-rendering-setbacks/"><u>End of the Line: No More Direct3D Rendering Setbacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-a18-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo A18</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminate-issues-lenovo-bs-woes/"><u>Illuminate Issues - Lenovo BS Woes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-screen-fix-responsive-again/"><u>Lenovo Screen Fix: Responsive Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reenergize-your-gpus-spinning-partners/"><u>Reenergize Your GPU's Spinning Partners</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sharing-stories/"><u>Sharing Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722171151494-unveiling-the-advancements-in-googles-bard-ai-via-palm-2-explore-7-features/"><u>Unveiling the Advancements in Google's Bard AI via PaLM 2 - Explore 7 Features</u></a></li>
+</ul></div>
 

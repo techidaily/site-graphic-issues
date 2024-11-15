@@ -1,7 +1,7 @@
 ---
 title: Solving Dark Screen with Active Cursor in Win10
-date: 2024-09-18T17:17:34.181Z
-updated: 2024-09-20T00:04:32.222Z
+date: 2024-11-09T20:37:19.139Z
+updated: 2024-11-13T22:01:23.313Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -71,14 +78,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### **Fix 3: Disable fast startup**
 
@@ -98,10 +105,26 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
@@ -115,13 +138,6 @@ If you’re on a laptop:
  1) [**Restart your computer in Safe Mode**](https://tools.techidaily.com/drivereasy/download/) .
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
@@ -166,16 +182,16 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -189,13 +205,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -207,10 +216,10 @@ If you’re on a laptop:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
@@ -231,9 +240,24 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -252,5 +276,22 @@ If you’re on a laptop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-enrich-your-images-best-10-screenshot-enhancing-apps-for-smartphones-for-2024/"><u>[New] Enrich Your Images Best 10 Screenshot-Enhancing Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-tips-for-recording-fan-favorite-sports-games/"><u>[New] In 2024, Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>[Updated] Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-4k-gaming-setup-top-10-laptop-guide/"><u>[Updated] In 2024, Ultimate 4K Gaming Setup - Top 10 Laptop Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screenshot-mastery-using-ezvid-video-makers-pro-tips-and-tricks/"><u>[Updated] Screenshot Mastery Using Ezvid Video Maker's Pro Tips and Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-securecam-covers-top-10-picks-for-peace-of-mind/"><u>2024 Approved SecureCam Covers Top 10 Picks for Peace of Mind</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-aspect-ratio-anomalies/"><u>Correcting Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drive-performance-to-new-heights-geforce-210-wins11-update/"><u>Drive Performance to New Heights: GeForce 210 Wins11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glitch-spotted-and-rectified-nvidia-drivers-to-the-rescue/"><u>Glitch Spotted & Rectified - Nvidia Drivers to the Rescue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-dvd-burning-on-windows-1011-a-comprehensive-guide-with-simple-steps-for-windows-xp-to-winxdvd-users/"><u>Mastering DVD Burning on Windows 10/11: A Comprehensive Guide with Simple Steps for Windows XP to WinXDVD Users</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ssdhp-envy-x360/"><u>SSDのメンテナンス：HP Envy X360で安全にデータ保持しながら交換方法</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-process-of-reviving-your-intellgraphics-in-win7/"><u>Unveiling the Process of Reviving Your IntellGraphics in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-and-nvidia-reconciled-issue-resolved/"><u>Win11 & NVIDIA Reconciled Issue Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-in-on-clear-windows/"><u>Zoom in on Clear Windows</u></a></li>
+</ul></div>
 

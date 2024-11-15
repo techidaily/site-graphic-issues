@@ -1,7 +1,7 @@
 ---
 title: Dismiss Sims' Startup Anomaly
-date: 2024-09-13T06:23:10.109Z
-updated: 2024-09-15T00:04:56.870Z
+date: 2024-11-09T20:03:10.375Z
+updated: 2024-11-13T17:02:37.651Z
 tags:
   - win11
   - win10
@@ -85,6 +85,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -92,10 +99,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
@@ -108,27 +115,27 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -144,13 +151,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -162,6 +162,13 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -181,6 +188,13 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -213,5 +227,23 @@ Here is how to check if your computer spec has met the requirements:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-four-pioneering-methods-to-record-teaching-sessions-on-apple-devices/"><u>[Updated] 2024 Approved Four Pioneering Methods to Record Teaching Sessions on Apple Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-11-screen-orientation-glitch/"><u>Addressing Windows 11 Screen Orientation Glitch</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/budget-management-strategies-during-the-2009-financial-downturn-key-insights-and-massmail-solutions/"><u>Budget Management Strategies During the 2009 Financial Downturn: Key Insights & MassMail Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-functional-usb-mouse-with-easy-steps-for-your-computer/"><u>How to Fix a Non-Functional USB Mouse with Easy Steps for Your Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-13-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 13 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-how-to-for-your-youtube-music-collection/"><u>In 2024, The Ultimate How-To for Your YouTube Music Collection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-directx12-barriers-for-halo-infinite-launch/"><u>Overcoming DirectX12 Barriers for Halo Infinite Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quell-winblueerror-addressing-wdf-api-concerns/"><u>Quell WinBlueError: Addressing WDF API Concerns</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-yuva-2-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Yuva 2 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gfxui-errors-in-windows-environment-successfully/"><u>Resolving GFXUI Errors in Windows Environment Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-gpu-integration-on-new-win11-laptop/"><u>Successful GPU Integration on New Win11 Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-to-recover-from-gpu-faults-with-system-uptime/"><u>Techniques to Recover From GPU Faults with System Uptime</u></a></li>
+<li><a href="https://games-able.techidaily.com/warriors-choice-the-creme-de-la-creme-of-online-fps-games/"><u>Warrior's Choice: The Crème De La Créme of Online FPS Games</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728482656935-windows-11/"><u>Windows 11 搶修妥協：儲存工具已回復正常 - 解決方案發布</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wins-against-blackout-fixes-for-post-fall-update-win11/"><u>Wins Against Blackout: Fixes for Post-Fall Update Win11</u></a></li>
+</ul></div>
 

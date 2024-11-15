@@ -1,7 +1,7 @@
 ---
 title: Taming the Flickering on Windows 11
-date: 2024-09-19T05:44:24.371Z
-updated: 2024-09-20T04:55:25.948Z
+date: 2024-11-06T23:14:44.369Z
+updated: 2024-11-13T21:33:34.584Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ There are mainly two ways to update your display driver:
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change the refresh rate
 
  The refresh rate of a display is the number of times per second that your monitor draws a new image. If your display refresh rate is not set properly, you may encounter screen flickering issues in Windows 11\. To fix it, you can change the refresh rate. Here’s how:
@@ -73,13 +80,6 @@ If the issue remains, check out the next fix.
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
 
@@ -94,6 +94,14 @@ If the issue remains, check out the next fix.
 1. Click**Start** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-start-settings.jpg)
 2. In the left panel, select**Apps** , then click**Installed apps** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-installed.jpg)
 3. Scroll down the list and find the app you want to uninstall. Then click the**three dots icon** and select**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/win-11-apps-uninstalled.jpg)
@@ -102,10 +110,10 @@ If the issue remains, check out the next fix.
  After uninstalling the first app, restart your computer and check if the flickering issue is resolved or not. If it’s not, uninstall each app one by one until the screen flickering issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change Accent color and Background
@@ -122,14 +130,14 @@ If the issue remains, check out the next fix.
 5. For**Accent color** , select**Manual** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-colors-accent-color-manual.jpg)
 
- Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once done, check if the screen flickering issue is resolved or not. If not, try the next fix below.
 
 ### Fix 6: Disable animation effects
 
@@ -144,6 +152,13 @@ If the issue remains, check out the next fix.
 Check if you’re still facing a flickering screen.
 
 If this fix doesn’t do the trick, try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable hardware acceleration
 
@@ -173,13 +188,6 @@ If this fix doesn’t do the trick, try the next one below.
 3. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to**OFF** (grey switch). Then click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/chrome-disable-hardware-acceleration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now check if the screen flickers again. If the issue persists, check out the last fix below.
 
 ### Fix 8: Repair your system files
@@ -194,14 +202,15 @@ If this fix doesn’t do the trick, try the next one below.
 2. Open Fortect and scan your PC. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**START REPAIR** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2: Use the System File Checker tool to repair system files
 
@@ -210,12 +219,27 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl** +**Shift** +**Enter** to run Command Prompt as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
 3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
 4. After the process is complete,**type the following command** , and then press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
@@ -242,5 +266,21 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-harmonious-guidelines-instagram-and-intellectual-property/"><u>[Updated] In 2024, Harmonious Guidelines Instagram & Intellectual Property</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-sketchsphere-complete-evaluation-24-edition/"><u>[Updated] In 2024, SketchSphere Complete Evaluation '24 Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-premium-flying-tech-available-right-now-for-2024/"><u>[Updated] Premium Flying Tech Available Right Now for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alert-over-opengl-driver-error-resolved-by-nvidias-effort/"><u>Alert Over: OpenGL Driver Error Resolved by Nvidia's Effort</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-these-10-popular-netflix-substitutes-for-free-viewing/"><u>Discover These 10 Popular Netflix Substitutes for Free Viewing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-blackout-mystery/"><u>Display Blackout Mystery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellence-in-hd-conversion-elevate-your-views/"><u>Excellence in HD Conversion Elevate Your Views</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-rate-the-new-microsoft-surface-laptop-go-value-combined-with-mobility-in-an-ultralight-package/"><u>Experts Rate the New Microsoft Surface Laptop Go: Value Combined with Mobility in an Ultralight Package</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-evolution-of-drone-remote-control-systems-syma-x8c/"><u>In 2024, The Evolution of Drone Remote Control Systems – Syma X8C</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-moto-g84-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Moto G84 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-inconsistent-flashing-issue-resolved-fixed/"><u>Laptop's Inconsistent Flashing: Issue Resolved [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-screen-a-guide-for-pro-7-owners/"><u>Steady Screen: A Guide for Pro 7 Owners</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackle-loading-lags-head-on/"><u>Tackle Loading Lags Head-On</u></a></li>
+</ul></div>
 

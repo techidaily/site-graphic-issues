@@ -1,7 +1,7 @@
 ---
 title: "Incorrect Display: 11 Windows Should Be Full-Screen"
-date: 2024-09-10T21:58:36.559Z
-updated: 2024-09-14T17:37:24.592Z
+date: 2024-11-07T20:40:32.555Z
+updated: 2024-11-13T17:52:29.148Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -50,6 +57,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
@@ -57,6 +71,13 @@ Here’s what you need to do:
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or you can switch to different resolutions and see if it resolves your problem.
 
@@ -78,11 +99,25 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Now restart your computer and see if your monitor displays the full screen.
 
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -104,6 +139,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -111,10 +153,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
@@ -122,13 +164,6 @@ Here’s what you need to do:
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -151,13 +186,6 @@ To do so, follow these steps:
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -191,5 +219,24 @@ Still no luck? Okay, there is one more thing to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premium-zero-cost-live-capture-program/"><u>[New] 2024 Approved Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-practices-the-8-truly-effective-promotion-techniques/"><u>[New] In 2024, Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-imagecraft-tools/"><u>[New] In 2024, ImageCraft Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-monetization-a-deep-dive/"><u>[New] YouTube's Monetization A Deep Dive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-new-dimensions-a-guide-to-iphone-xs-advanced-cameras/"><u>Discovering New Dimensions A Guide to iPhone X's Advanced Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispel-darkness-twitch-streaming-troubleshooting/"><u>Dispel Darkness: Twitch Streaming Troubleshooting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-voice-interpretation-without-charges/"><u>Effortless Voice Interpretation Without Charges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-visual-fidelity-with-latest-nvidia-drivers/"><u>Enhance Visual Fidelity with Latest Nvidia Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-sony-xperia-1-v-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Sony Xperia 1 V Phone Now with These Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-graphics-overheating-crises-keeping-systems-running/"><u>Preventing Graphics Overheating Crises, Keeping Systems Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-screen-dark-issue/"><u>Radeon Screen Dark Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-silent-gpu-fans-to-life/"><u>Reviving Silent GPU Fans to Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-black-screen-issue-after-win11-fall-update/"><u>Solving Black Screen Issue After Win11 Fall Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-windows-driver-power-management-errors/"><u>Step-by-Step Tutorial: Correcting Windows Driver Power Management Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-oversized-display-settings-in-win-10/"><u>Trim Oversized Display Settings in WIN 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia 150 (2023) | Dr.fone</u></a></li>
+</ul></div>
 

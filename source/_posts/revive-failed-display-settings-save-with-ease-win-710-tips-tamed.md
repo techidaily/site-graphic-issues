@@ -1,7 +1,7 @@
 ---
 title: Revive Failed Display Settings Save with Ease - Win 7/10 Tips [Tamed]
-date: 2024-11-02T20:33:16.225Z
-updated: 2024-11-04T19:10:52.078Z
+date: 2024-11-08T22:31:30.092Z
+updated: 2024-11-13T16:50:54.091Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Change your screen resolution
 
  There’s a good chance your graphics hardwares have been fighting among each other on which resolution to output, hence the**Unable to save display settings** error. If this is the case, you should make sure your screen resolution is set to**the lowest one** .
@@ -48,29 +41,30 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -90,10 +84,10 @@ To do so:
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
@@ -119,20 +113,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-fix-facebook-story-not-uploading-problem/"><u>[New] Fix Facebook Story Not Uploading Problem</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[Updated] 2024 Approved The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/5yws5bypioodhplusocuoocouodqplusodhuocoplusoduplusocveodleodioocpuocpplusocouekvuobruocqoodsplusodieodpuodvooctuodqeocpoocuplusodsplusocuewlkee0hoabucatioip57/"><u>公式 デジアルティ・ソフトウェア社のエンドユーザライセンス契約書 - 詳細情報</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-low-end-spec-puzzle-intel-graphic-setup/"><u>Address Low-End Spec Puzzle: Intel Graphic Setup</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-insight-on-asus-rog-gt-ac5300-a-comprehensive-guide-for-gamers-and-tech-lovers/"><u>Expert Insight on Asus ROG GT-AC5300: A Comprehensive Guide for Gamers & Tech Lovers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fists-fighting-fames-flame/"><u>In 2024, Fists Fighting Fame's Flame</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-graphics-cards-detected-help-needed/"><u>No Graphics Cards Detected, Help Needed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-severe-development-errors-in-activisions-popular-fps-titles-a-guide-to-fixing-critical-bugs/"><u>Overcoming Severe Development Errors in Activision's Popular FPS Titles: A Guide to Fixing Critical Bugs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rebooted-pixel-shader-failure/"><u>Rebooted Pixel Shader Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solution-wake-up-your-silent-dp-connection/"><u>Swift Solution: Wake up Your Silent DP Connection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp3-aif-convert-movavi/"><u>무료 MP3 변환 AIF 파일을 쉽게 Convert하는 Movavi - 인터넷 속에서</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>[New] 2024 Approved Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-assessing-shooters-choices-hero-5-black-or-km-170/"><u>[New] In 2024, Assessing Shooters' Choices Hero 5 Black or KM-170</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photographers-ultimate-cloud-companion-infinite-free-and-paid-sky-sanctuaries/"><u>[New] Photographer’s Ultimate Cloud Companion Infinite, Free & Paid Sky Sanctuaries</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-image-rotation-in-win7-setup/"><u>Correct Image Rotation in Win7 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisis-averted-overcoming-os-wdf-violations-bsod/"><u>Crisis Averted: Overcoming OS WDF Violations BSOD</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-intermittent-laptop-monitor-glitches/"><u>Fixed Intermittent Laptop Monitor Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-illumination-in-acer-devices/"><u>Fixing Erratic Illumination in Acer Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-past-moments-with-your-iphone/"><u>In 2024, Unveiling Past Moments with Your iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-apc-backup-surge-protector-be600m1-the-added-benefit-of-an-integrated-usb-charging-port/"><u>Reviewing the APC Backup Surge Protector BE600M1 - The Added Benefit of an Integrated USB Charging Port</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-getting-the-right-driver-for-your-epson-xp-830-printer/"><u>Step by Step Tutorial: Getting the Right Driver for Your Epson XP-830 Printer</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s23-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S23 Ultra Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

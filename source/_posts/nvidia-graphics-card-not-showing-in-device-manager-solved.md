@@ -1,7 +1,7 @@
 ---
 title: NVIDIA Graphics Card Not Showing in Device Manager [Solved]
-date: 2024-09-14T00:42:09.493Z
-updated: 2024-09-19T17:03:53.614Z
+date: 2024-11-12T16:42:17.643Z
+updated: 2024-11-13T23:01:19.761Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
  This method is especially useful for fixing the problem caused by leftover drivers after replacing a video card . Follow these steps:
@@ -36,15 +43,36 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
 
@@ -77,23 +105,9 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
  (Note: This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day trial period with access to premium features like high-speed downloads and one-click installations. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -112,5 +126,21 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-master-your-mac-the-top-gif-recorder-choices/"><u>2024 Approved Master Your Mac The Top GIF Recorder Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-virtual-lecture-title-craftsman/"><u>2024 Approved Prime Virtual Lecture Title Craftsman</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-picture-repair-with-movavi-photo-fixer-a-user-friendly-guide/"><u>Effortless Picture Repair with Movavi Photo Fixer - A User-Friendly Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-distortion-on-win11/"><u>Eliminate Screen Distortion on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818076989-gpu-not-recognized-resolve-immediately/"><u>GPU Not Recognized, Resolve Immediately!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-asus-pa32u-in-detail-excellence-in-color-and-contrast/"><u>In 2024, Asus PA32U in Detail Excellence in Color and Contrast</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-c300-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia C300 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-love-and-light-nine-essential-filmora-elements/"><u>In 2024, Love and Light Nine Essential Filmora Elements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-screen-line-perpendniess/"><u>Optimizing Screen Line Perpendniess</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflicts-in-win11/"><u>Overcoming Dual GPU Conflicts in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-glare-on-lenovo-monitors/"><u>Restoring Lost Glare on Lenovo Monitors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tips-for-clearer-audio-in-home-based-podcasts-for-2024/"><u>Tips for Clearer Audio in Home-Based Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-fbs-topest-latest-perks-for-2024/"><u>Unveiling FB's Topest Latest Perks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-resolution/"><u>Windows 11: Perfect Display Resolution</u></a></li>
+</ul></div>
 

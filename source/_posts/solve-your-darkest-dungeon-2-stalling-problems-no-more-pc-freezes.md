@@ -1,7 +1,7 @@
 ---
 title: Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!
-date: 2024-10-31T18:08:13.822Z
-updated: 2024-11-04T20:01:57.369Z
+date: 2024-11-07T16:56:28.741Z
+updated: 2024-11-13T21:23:48.735Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
@@ -49,10 +56,10 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
@@ -62,13 +69,6 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
 
@@ -81,22 +81,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
@@ -115,6 +101,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
@@ -135,10 +128,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset Chrome settings to default
@@ -150,16 +143,10 @@ OR
 2. At the bottom, click**Advanced** .  
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
@@ -169,10 +156,10 @@ OR
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -186,21 +173,22 @@ OR
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Restart Chrome to check the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Uninstall and reinstall Chrome
 
@@ -228,20 +216,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-desktop-capture-obs-vs-shadowplay-for-2024/"><u>[Updated] Desktop Capture OBS Vs. ShadowPlay for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-lut-filters-for-obs-mastery/"><u>[Updated] Navigating the World of LUT Filters for OBS Mastery</u></a></li>
-<li><a href="https://driver-error.techidaily.com/alleviate-cable-transmission-bug/"><u>Alleviate Cable Transmission Bug</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-monitor-rotation-for-win7/"><u>Correct Monitor Rotation for Win7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/custom-view-mastery-how-to-lock-in-and-retrieve-your-favorite-excel-spreadsheet-configurations/"><u>Custom View Mastery: How to Lock In and Retrieve Your Favorite Excel Spreadsheet Configurations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-hitman-3-connection-lost-issue-easy-solutions/"><u>Fixing the Hitman 3 'Connection Lost' Issue: Easy Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-capitalize-on-your-tracks-through-facebooks-shared-earnings/"><u>How to Capitalize on Your Tracks Through Facebook's Shared Earnings</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/integrate-intel-graphics-direct-windows-11-update-guide/"><u>Integrate Intel Graphics: Direct Windows 11 Update Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-nvidia-and-intel-graphics-on-win10-syncing-flawlessly/"><u>No More Glitches! NVIDIA & Intel Graphics on Win10 Syncing Flawlessly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-video-glitches-on-upgraded-windows-10/"><u>No More Video Glitches on Upgraded Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-update-process-for-enhanced-visual-experience-on-win10/"><u>Swift Update Process for Enhanced Visual Experience on Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-windows-screenshot-feature-to-suit-your-preferences/"><u>Tailor Windows Screenshot Feature to Suit Your Preferences</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-identified-correctly/"><u>Windows 11 Laptop GPU Identified Correctly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-choosing-the-best-cameras-and-lenses-for-vloggers/"><u>[New] 2024 Approved Choosing the Best Cameras & Lenses for Vloggers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-snap-google-meet-sessions-on-ios-and-android-devices/"><u>[New] 2024 Approved Snap Google Meet Sessions on iOS & Android Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clear-screening-for-focused-online-participation/"><u>[New] In 2024, Clear Screening for Focused Online Participation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-correcting-obs-darkness-during-live-streams/"><u>[New] In 2024, Correcting OBS Darkness During Live Streams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-eco-cinema-tech-usage-and-mastery/"><u>[Updated] In 2024, Premier Eco-Cinema Tech Usage and Mastery</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cleared-windows-distortion-for-improved-views/"><u>Cleared Windows Distortion for Improved Views</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lost-your-ipad-passcode-heres-how-to-regain-entry-easily/"><u>Lost Your iPad Passcode? Here's How to Regain Entry Easily!</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-reignites-trumps-fb-and-insta-access/"><u>Meta Reignites Trump’s FB & Insta Access</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/originality-awaits-create-unique-business-logos-with-template-editing-for-2024/"><u>Originality Awaits Create Unique Business Logos with Template Editing for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/proven-strategies-for-windows-8s-secure-boot-graphics-card-drivers-erasure/"><u>Proven Strategies for Windows 8'S Secure Boot - Graphics Card Drivers Erasure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-consistency-secured/"><u>Windows 10 Screen Consistency Secured</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-stream-fixes-revealed/"><u>Windows 10 Upgrade - Stream Fixes Revealed</u></a></li>
 </ul></div>
 

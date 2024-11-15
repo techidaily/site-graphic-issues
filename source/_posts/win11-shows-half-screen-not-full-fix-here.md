@@ -1,7 +1,7 @@
 ---
 title: Win11 Shows Half-Screen, Not Full - Fix Here
-date: 2024-10-30T20:28:16.607Z
-updated: 2024-11-04T19:59:05.807Z
+date: 2024-11-09T16:18:13.289Z
+updated: 2024-11-13T17:31:23.949Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -57,16 +50,16 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
@@ -76,15 +69,22 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
@@ -95,23 +95,9 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Now restart your computer and see if your monitor displays the full screen.
 
@@ -139,6 +125,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -162,10 +155,10 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
@@ -173,10 +166,10 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab.
@@ -192,6 +185,13 @@ To do so, follow these steps:
 Still no luck? Okay, there is one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
 
@@ -221,19 +221,18 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-academic-journey-across-time-top-10-history-youtubers/"><u>[New] In 2024, Academic Journey Across Time Top 10 History YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-the-course-establishing-a-powerful-gaming-channel/"><u>[Updated] 2024 Approved Charting the Course Establishing a Powerful Gaming Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-staking-rituals-player-views/"><u>2024 Approved HIGH-STAKING RITUALS Player Views</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-sony-blu-ray-player-s6500-fresh-perspective/"><u>2024 Approved Sony Blu-Ray Player S6500 Fresh Perspective</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-display-stability-on-pro-7-tablet/"><u>Enhancing Display Stability on Pro 7 Tablet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-nvidia-display-settings-are-not-available-step-by-step/"><u>Fix NVIDIA Display Settings Are Not Available [Step by Step]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-not-registered-in-device-hub/"><u>NVIDIA RTX Not Registered in Device Hub</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/real-time-streaming-enhancement-utilizing-manycam-as-your-digital-webcam-alternative-for-content-creators/"><u>Real-Time Streaming Enhancement: Utilizing ManyCam as Your Digital Webcam Alternative for Content Creators</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-options-with-precision/"><u>Restoring Lost Display Options with Precision</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revamped-resolution-and-performance-tweaks-for-windows-11/"><u>Revamped: Resolution & Performance Tweaks for Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/stabilize-your-mobile-videos-with-the-best-iphone-handheld-gyroscopes-and-editors/"><u>Stabilize Your Mobile Videos with the Best iPhone Handheld Gyroscopes and Editors</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-ea-play-game-guide-for-ps5/"><u>The Ultimate EA Play Game Guide for PS5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-eradicated-screen-warping/"><u>Windows 11: Eradicated Screen Warping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-quickly-flipping-video-sequence-android-style/"><u>[New] Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-6-networks-maximizing-biz-potential/"><u>[New] Premium 6 Networks Maximizing Biz Potential</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-hidden-windows-10-advanced-options/"><u>[RECOVERED]: Hidden Windows 10 Advanced Options</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-harness-natural-light-for-iphone-photography/"><u>[Updated] 2024 Approved Harness Natural Light for iPhone Photography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-quick-guide-to-the-best-youtube-business-channel-creation-hacks/"><u>[Updated] In 2024, Your Quick Guide to the Best YouTube Business Channel Creation Hacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-discover-the-ultimate-5-gaming-webcam-winners-for-streaming/"><u>2024 Approved Discover the Ultimate 5 Gaming Webcam Winners for Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-graphic-device-not-found/"><u>Fixed Graphic Device Not Found</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-how-to-correctly-address-the-advapi32dll-not-detected-mistake/"><u>Guide: How To Correctly Address The Advapi32.dll Not Detected Mistake</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reducing-glare-on-games-text-interface/"><u>Reducing Glare on Game's Text Interface</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-reviving-your-unresponsive-pc-or-laptop/"><u>Step-by-Step Guide: Reviving Your Unresponsive PC or Laptop</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-note-30i-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Note 30i Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-crash-faulty-minecraft-cards/"><u>Windows Crash: Faulty Minecraft Cards</u></a></li>
 </ul></div>
 

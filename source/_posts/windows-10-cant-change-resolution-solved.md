@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Can’t Change Resolution [SOLVED]
-date: 2024-09-12T19:25:35.043Z
-updated: 2024-09-19T21:58:04.864Z
+date: 2024-11-08T20:44:45.321Z
+updated: 2024-11-13T21:03:12.684Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -62,9 +69,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -75,6 +96,19 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -90,25 +124,11 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -140,5 +160,20 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/amds-successful-windows-10-driver-fix-for-r9-users/"><u>AMD's Successful Windows 10 Driver Fix for R9 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-solutions-for-non-dispoured-gpus/"><u>Direct Solutions for Non-Dispoured GPUs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-solve-delayed-or-failed-video-sending-in-facebooks-mobile-messaging-service-for-2024/"><u>How to Solve Delayed or Failed Video Sending in Facebook's Mobile Messaging Service for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-touchpad-from-interfering-with-the-mouse-in-windows-11-settings/"><u>How to Stop Your Touchpad From Interfering with the Mouse in Windows 11 Settings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-access-to-exclusive-snapshots/"><u>In 2024, Mastering Access to Exclusive Snapshots</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-toolkit-for-drum-removal-a-step-by-step-online-resource/"><u>New 2024 Approved The Ultimate Toolkit for Drum Removal A Step-by-Step Online Resource</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-must-have-3d-video-editing-software-for-creators-for-2024/"><u>New Must-Have 3D Video Editing Software for Creators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-pro-vs-express-uncovering-the-key-differences-in-final-cut-for-2024/"><u>New Pro vs Express Uncovering the Key Differences in Final Cut for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-image-rotation-adjustment-method/"><u>Win7 Image Rotation Adjustment Method</u></a></li>
+</ul></div>
 

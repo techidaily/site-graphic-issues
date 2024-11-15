@@ -1,7 +1,7 @@
 ---
 title: Correcting Lenovo Screen Brightness Fluctuations
-date: 2024-09-11T22:52:44.221Z
-updated: 2024-09-15T00:40:13.239Z
+date: 2024-11-07T20:28:53.121Z
+updated: 2024-11-13T19:56:13.170Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -66,9 +73,23 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
@@ -77,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -97,18 +125,26 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-unlocking-full-potential/"><u>'God of War': Unlocking Full Potential</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cease-automatic-footage-collection-qt/"><u>[New] In 2024, Cease Automatic Footage Collection QT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rapidly-create-a-compelling-facebook-photo-group/"><u>[Updated] Rapidly Create a Compelling Facebook Photo Group</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-for-posting-photos-online/"><u>2024 Approved The Complete Guide for Posting Photos Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-prompt-development-industry-standing-and-career-stability/"><u>AI-Driven Prompt Development: Industry Standing & Career Stability?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-enhancement-reached-after-acceleration-fix/"><u>Direct3D Enhancement Reached After Acceleration Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-guide-to-clearing-laptop-display-skew/"><u>Easy Guide to Clearing Laptop Display Skew</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-horizontal-screen-deformities-fast/"><u>Fix Horizontal Screen Deformities Fast</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-debugged-43-fix/"><u>Graphic Device Debugged #43 Fix</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-reimagining-gender-portrayal-in-social-media-images/"><u>In 2024, Reimagining Gender Portrayal in Social Media Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-online-presence-through-cookiebots-advanced-analytics-solutions/"><u>Maximize Online Presence Through Cookiebot's Advanced Analytics Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-geforce-210-for-windows-11-release/"><u>Streamlined GeForce 210 for Windows 11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-security-enhanced-step-wise-deletion-of-graphics-drivers-on-win8/"><u>System Security Enhanced: Step-Wise Deletion of Graphics Drivers on WIN8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/topo-5-estrategias-para-transferir-filmes-de-dvd-para-o-pc-com-facilidade-em-2023-windows-e-mac/"><u>Topo 5 Estratégias Para Transferir Filmes De DVD Para O PC Com Facilidade Em 2023: Windows E Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turnrightview-on-computer/"><u>TurnRightView on Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-finest-15-notebooks-thoroughly-tested-and-evaluated-gizmotech/"><u>Ultimate Guide to the Finest 15 Notebooks - Thoroughly Tested and Evaluated | GizmoTech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unidentified-fingerprint-attempts/"><u>Unidentified Fingerprint Attempts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-online-video-reversal-services/"><u>Updated Top-Rated Online Video Reversal Services</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wingraphicsdevicecreationfix-resolved-issue/"><u>WinGraphicsDeviceCreationFix - Resolved Issue</u></a></li>
+</ul></div>
 

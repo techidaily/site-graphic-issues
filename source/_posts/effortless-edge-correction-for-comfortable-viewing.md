@@ -1,7 +1,7 @@
 ---
 title: Effortless Edge Correction for Comfortable Viewing
-date: 2024-09-07T18:10:19.766Z
-updated: 2024-09-15T04:01:48.648Z
+date: 2024-11-11T23:20:18.081Z
+updated: 2024-11-13T21:54:31.689Z
 tags:
   - win11
   - win10
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 1. [**Update your graphics driver**](#F1)
 2. [**Adjust the screen resolution**](#F2)
 3. [**Gently wipe the screen with cotton balls**](#F3)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -63,29 +76,39 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 1. Right-click on **the empty area**   of your desktop and click **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 2. In**Resolution** , click the drop-down menu and make sure**the recommended resolution** is selected. Then see if the vertical lines disappear.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **I’m using Windows 8 or 7:**
 
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Adjust the screen resolution and see if the vertical lines disappear.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -114,5 +137,22 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-clipcraft-designer/"><u>[New] In 2024, ClipCraft Designer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>[New] In 2024, Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-price-scale-for-shooting-tunes-in-visual-narratives/"><u>[New] Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stabilizing-your-display-on-windows-11/"><u>[SOLVED]: Stabilizing Your Display on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-performance-flaws-for-software-installation-needs/"><u>Fixing Performance Flaws for Software Installation Needs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Itel Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>In 2024, The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-footage-select-best-gimbals-and-handhelds-guide-for-2024/"><u>Mastering Footage Select Best Gimbals & Handhelds Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amds-tarkov-graphical-glitches/"><u>Overcoming AMD's Tarkov Graphical Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blackout-blues-on-your-asus-notebook/"><u>Overcoming Blackout Blues on Your Asus Notebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-amds-detection-driver-for-win10/"><u>Successful Fix: AMD's Detection Driver for Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-unresolved-display-setting-issue-fixed/"><u>Windows 11: Unresolved Display Setting Issue (Fixed)</u></a></li>
+<li><a href="https://win11.techidaily.com/yearly-best-offer-buy-now-at-612-for-eternal-win10-life/"><u>Yearly Best Offer: Buy Now at $6.12 for Eternal Win10 Life</u></a></li>
+</ul></div>
 

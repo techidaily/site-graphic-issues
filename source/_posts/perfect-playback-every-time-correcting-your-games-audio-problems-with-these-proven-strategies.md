@@ -1,7 +1,7 @@
 ---
 title: "Perfect Playback Every Time: Correcting Your Game's Audio Problems with These Proven Strategies"
-date: 2024-11-02T16:29:09.995Z
-updated: 2024-11-04T16:00:13.285Z
+date: 2024-11-08T19:55:31.628Z
+updated: 2024-11-13T22:10:29.104Z
 tags:
   - win11
   - win10
@@ -31,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Sign out Fortnite, then sign back in
@@ -85,6 +91,19 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
 ### Fix 4: Make sure your microphone is on for Fortnite
@@ -101,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -111,22 +137,15 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iii. Exit Fortnite.
@@ -140,26 +159,32 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -175,22 +200,15 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Restart your PC.
@@ -222,22 +240,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/tvand/"><u>「インハイTV番組ダウンロード&セーブガイド」</u></a></li>
-<li><a href="https://games-able.techidaily.com/experience-free-gaming-excellence-with-six-titles/"><u>Experience Free Gaming Excellence with Six Titles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-issue-fluctuating-display-on-dell-notebook/"><u>Fixed Issue: Fluctuating Display on Dell Notebook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-with-your-hp-printer-on-windows-11-driver-download-tips/"><u>Getting Started with Your HP Printer on Windows 11 – Driver Download Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-update-resolved-display-adapter-fixed/"><u>GPU Update Resolved: Display Adapter Fixed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-mic-on-your-astro-a50-headphones/"><u>How to Repair a Non-Functional Mic on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nubia-red-magic-8s-proplus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nubia Red Magic 8S Pro+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-find-n3-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Find N3 FRP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-hdmi-success-uncovering-connectivity-troubles/"><u>Laptop to TV HDMI Success: Uncovering Connectivity Troubles</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-make-your-own-cartoons-top-10-online-and-pc-tools-for-beginners/"><u>New Make Your Own Cartoons Top 10 Online and PC Tools for Beginners</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-7025-win11-sync-successful/"><u>NVIDIA GeForce 7025, Win11 Sync Successful</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnecting-missing-gpu-devices-in-computers/"><u>Reconnecting Missing GPU Devices in Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-to-amd-radeon-r9-on-windows-11-glitches/"><u>Solutions to AMD Radeon R9 on Windows 11 Glitches</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-functional-amd-freesync/"><u>Troubleshooting Non-Functional AMD FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-screens-a-flicker-free-future/"><u>Win11 Screens: A Flicker-Free Future</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-affordable-4k-lens-and-recorders/"><u>[New] Affordable 4K Lens & Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-lens-leaderships-top-ten-camera-lens-selections-for-photographers-for-2024/"><u>[New] Lens Leaderships Top Ten Camera Lens Selections for Photographers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-playchoice-pondering-over-dacast/"><u>[New] PlayChoice Pondering Over DaCast</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premier-online-streaming-options-for-faith-communities/"><u>[New] Premier Online Streaming Options for Faith Communities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat-for-2024/"><u>[Updated] Achieve Crystal Clear Shots Expert Guide to Zooming on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-visionary-vistas-accessible-designs-for-youtube-artists/"><u>[Updated] In 2024, Visionary Vistas Accessible Designs for YouTube Artists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-peak-summit-in-virtual-landscapes-for-2024/"><u>[Updated] Peak Summit in Virtual Landscapes for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-on-lenovo-pcs/"><u>Bring Back the Colors on Lenovo PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-syncing-your-icloud-photos-across-ios-pcs-and-android/"><u>Easy Steps: Syncing Your iCloud Photos Across iOS, PCs & Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-monitor-not-shown-as-full-screen-in-win11/"><u>Fix: Monitor Not Shown as Full Screen in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-light-win11-black-screen-resolved-post-fall/"><u>From Dark to Light: Win11 Black Screen Resolved Post-Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-frame-rates-fixes-for-flaky-amd-freesync/"><u>Harmonizing Frame Rates: Fixes for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-msi-steam-deck-a-serious-contender-in-the-portable-console-arena-insights-and-predictions-tech-trends/"><u>Is the MSI Steam Deck a Serious Contender in the Portable Console Arena? Insights & Predictions | Tech Trends</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818022153-optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-visual-output-from-gpu/"><u>Recovered Visual Output From GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-glare-and-glitches-pro-7-edition/"><u>Repairing Glare and Glitches: Pro 7 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-windows-system-hiccups-with-fixed-drivers/"><u>Resolving Windows System Hiccups with Fixed Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmare-post-fall-dark-display-solved/"><u>Win11 Nightmare: Post Fall Dark Display Solved</u></a></li>
 </ul></div>
 

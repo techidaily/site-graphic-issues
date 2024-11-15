@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] The Flickering Windows 11 Enigma"
-date: 2024-09-14T16:47:14.473Z
-updated: 2024-09-20T11:45:48.606Z
+date: 2024-11-11T19:08:32.408Z
+updated: 2024-11-13T18:52:44.375Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 7. **[Disable hardware acceleration](#Fix7)**
 8. **[Repair your system files](#Fix8)**
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your cables
 
  A loose or damaged monitor cable can cause your screen to flicker. Before you begin to troubleshoot the screen flickering issues, you should first check if your monitor cables are plugged in securely.
@@ -41,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * If your monitor cable is damaged,**replace it with a new one** .
 
  Once you’ve confirmed that your cables are not the problem, move on to troubleshoot the driver issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -58,6 +78,19 @@ There are mainly two ways to update your display driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/NVIDIA-GeForce-RTX-3090-Ti-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your display driver, restart your device and check if the screen flickering issue is resolved or not.
@@ -72,31 +105,10 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-display-settings.jpg)
 2. In the pop-up window, scroll down the page and select**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-advanced-display.jpg)
 3. For**Choose a refresh rate** , select a different refresh rate.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-choose-a-refresh-rate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing the refresh rate doesn’t solve your problem, you may consider updating or uninstalling incompatible apps.
 
@@ -140,11 +152,26 @@ If the issue remains, check out the next fix.
 2. In the left panel, select**Accessibility** , then click**Visual effects** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-accessibility-visual-effects.jpg)
 3. **Turn off** Animation effects.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-turn-off-animation-effects.jpg)
 
 Check if you’re still facing a flickering screen.
 
 If this fix doesn’t do the trick, try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable hardware acceleration
 
@@ -163,10 +190,10 @@ If this fix doesn’t do the trick, try the next one below.
  Then rename the file as**DisableHWAcceleration** .**Double-click** on the file and change the**Value Data** from 0 to**1** . Click**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-disablehwacceleration-1.jpg)
@@ -205,15 +232,16 @@ If this fix doesn’t do the trick, try the next one below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl** +**Shift** +**Enter** to run Command Prompt as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** to continue.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
-3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-user-account-control.jpg)
+3. At the command prompt,**type the following command** , and then press**Enter** . It may take several minutes for the Deployment Image Servicing and Management (DISM) tool to scan and restore corrupted system images.  
 
 `**DISM.exe /Online /Cleanup-image /Restorehealth**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-cmd-cleanup-image-1.jpg)
@@ -222,6 +250,19 @@ If this fix doesn’t do the trick, try the next one below.
 `**sfc /scannow**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/win11-sfc-scannow.jpg)
 5. Wait a few minutes for the System File Checker tool to scan and repair damaged system files.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, check if your problem has been resolved.
 
@@ -244,5 +285,26 @@ Once done, check if your problem has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-composing-prime-canon-temporal-videos/"><u>[Updated] 2024 Approved Composing Prime Canon Temporal Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-filmora-vs-democreator-a-guide-to-the-best-video-editor-for-2024/"><u>[Updated] Filmora Vs. Democreator A Guide to the Best Video Editor for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-immediate-window-image-on-pc-win/"><u>2024 Approved Immediate Window Image on PC (Win)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-curated-selection-of-11-amazing-sites-for-free-movie-downloads-no-payments-required/"><u>A Curated Selection of 11 Amazing Sites for Free Movie Downloads – No Payments Required</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmr-and-wellness-what-are-its-promising-side-effects-for-2024/"><u>ASMR & Wellness What Are Its Promising Side-Effects for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dampen-win11-screen-anomalies/"><u>Dampen Win11 Screen Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-and-stabilize-no-more-pc-freezes-for-f4/"><u>Fix and Stabilize: No More PC Freezes for F4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-hiccup-mended-recovery-complete-for-nvidia/"><u>Graphics Hiccup Mended: Recovery Complete for Nvidia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-ls-0013-initialization-failure-in-fortnite/"><u>How to Fix the LS-0013 Initialization Failure in Fortnite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-imaging-swift-solution-to-no-signal-dilemma/"><u>Immediate Imaging: Swift Solution to No Signal Dilemma</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-motorola-moto-g23-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Moto G23 Unlock Without Password</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-pc-hurdles-mastering-death-strandings-stability-challenges/"><u>Overcome PC Hurdles: Mastering Death Stranding's Stability Challenges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-on-10-pcs/"><u>Overcoming Streaming Hiccups on 10 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-hdmi-connection-between-notebook-and-television-screen/"><u>Reviving HDMI Connection Between Notebook and Television Screen</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728467514748-sd/"><u>SDメモリーカードから重要データの安全な完全消去手順</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-setting-up-and-using-whatsapp-on-macos/"><u>Step-by-Step Tutorial: Setting Up and Using WhatsApp on macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-blunders-in-systems-pc/"><u>Stop Screen Blunders in Systems (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-your-display-from-blinking-tips-and-tricks/"><u>Stop Your Display From Blinking: Tips & Tricks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-high-definition-the-essence-of-4k/"><u>Unveiling High Definition: The Essence of 4K</u></a></li>
+</ul></div>
 

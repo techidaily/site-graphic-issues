@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2024-10-28T17:14:33.818Z
-updated: 2024-11-04T16:08:57.516Z
+date: 2024-11-07T22:52:47.984Z
+updated: 2024-11-13T19:33:40.241Z
 tags:
   - win11
   - win10
@@ -26,18 +26,18 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -76,10 +76,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -124,13 +124,26 @@ You need to check 2 elements:
  Also, you can check your VRAM on the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -143,13 +156,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 **Note** : The game takes some time to load up, just wait for a few minutes when you see a black screen and 3 dots at the top left.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -165,10 +171,10 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -193,20 +199,24 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-7-free-video-editing-programs-that-work-flawlessly/"><u>[New] 2024 Approved 7 Free Video Editing Programs That Work Flawlessly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-visual-virtuosity-the-best-sites-and-apps-for-frames-on-photos/"><u>[New] 2024 Approved Visual Virtuosity The Best Sites & Apps for Frames on Photos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>[New] Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accelerate-intel-graphic-update-in-windows-10/"><u>Accelerate Intel Graphic Update in WIndows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-down-the-displays-eliminate-win7s-erratic-behaviors/"><u>Dial Down the Displays: Eliminate Win7's Erratic Behaviors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-energize-your-gpu-fans-suddenly/"><u>How to Energize Your GPU Fans Suddenly</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/leverage-enhanced-user-experience-websites-boosted-using-the-powerful-cookiebot-platform/"><u>Leverage Enhanced User Experience: Websites Boosted Using the Powerful Cookiebot Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-pro-mastering-with-manycam-and-virtual-camera-features/"><u>Live Streaming Pro: Mastering with ManyCam and Virtual Camera Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pot-player-review-for-2024/"><u>POT Player Review for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-c1900101-error-in-windows-10-setup/"><u>Resolving C1900101 Error in Windows 10 Setup</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/software-patches-versus-full-scale-software-revamps/"><u>Software Patches, Versus Full-Scale Software Revamps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/stop-the-pops-and-cracks-effective-remedies-to-silence-headphone-distortion/"><u>Stop the Pops and Cracks: Effective Remedies to Silence Headphone Distortion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-fixed-switchable-graphics-dilemma/"><u>Win11: Fixed Switchable Graphics Dilemma</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-video-perfection-repairing-cameras-of-today-and-tomorrow/"><u>Zoom Video Perfection: Repairing Cameras of Today & Tomorrow</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-iobit-screen-recorder-review/"><u>[New] 2024 Approved IObit Screen Recorder Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enhance-productivity-with-these-20-proven-cost-free-storage-services/"><u>[New] Enhance Productivity With These 20 Proven, Cost-Free Storage Services</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-11-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 11 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing/"><u>2024 Approved Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-the-c1900101-hiccup-when-installing-win10/"><u>Addressing the C1900101 Hiccup When Installing Win10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-strategies-for-removing-background-in-figma-for-2024/"><u>Advanced Strategies for Removing Background in Figma for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-step-by-step-guide/"><u>Download and Update AMD SMBus Drivers Fast: Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps/"><u>In 2024, Auditory Alteration on the Go The Top 7 Mobile Voice Modification Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-xcover-6-pro-tactical-edition-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy XCover 6 Pro Tactical Edition Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-win11-radeon-r9-display-problems-fixed/"><u>Overcoming Win11 Radeon R9 Display Problems [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-your-asus-notebook-with-simple-steps/"><u>Reviving Your Asus Notebook with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-no-to-screens-that-dance-fix-win7-flickers/"><u>Say No to Screens that Dance – Fix Win7 Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-solutions-no-display-on-graphics-boards/"><u>Smooth Solutions: No Display on Graphics Boards</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/streamlining-document-processes-the-success-of-the-turkish-ministry-with-abbyy-solutions/"><u>Streamlining Document Processes: The Success of the Turkish Ministry with ABBYY Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817565346-transform-your-gaming-experience-on-win10-with-amd-hd-6950-update/"><u>Transform Your Gaming Experience on Win10 with AMD HD 6950 Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tweak-windows-711-graphics-drivers-quickly/"><u>Tweak Windows 7/11 Graphics Drivers Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-nvidia-monitor-configurations/"><u>Unlocking NVIDIA Monitor Configurations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-post-fall-update-dark-screens-solved/"><u>Windows 10: Post-Fall Update, Dark Screens - Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-amd-radeon-hd-6950-updated-driver-now-available/"><u>Windows 11: AMD Radeon HD 6950 Updated Driver Now Available</u></a></li>
 </ul></div>
 

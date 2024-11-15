@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-10-31T16:03:30.826Z
-updated: 2024-11-04T20:24:15.585Z
+date: 2024-11-10T19:40:45.159Z
+updated: 2024-11-13T16:23:33.820Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 3. **[Turn on GPU Scaling](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -60,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -79,6 +86,13 @@ Here is how to do it:
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -104,31 +118,11 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -162,21 +156,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/treamlined-process-adding-youtube-videos-into-slate-decks-for-2024/"><u>[New] Streamlined Process Adding YouTube Videos Into Slate Decks for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-affordable-pc-display-recorder-apps/"><u>[Updated] Affordable PC Display Recorder Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-delete-video-posts-android-and-windows-devices-for-2024/"><u>[Updated] How to Delete Video Posts Android & Windows Devices for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photomod-editor-skills-review/"><u>[Updated] PhotoMod Editor Skills Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-amd-freesync-connectivity-errors/"><u>Fixing AMD FreeSync Connectivity Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-blackout-solutions-for-cyberpunk-2077s-dark-screens/"><u>Fixing the Blackout: Solutions for Cyberpunk 2077'S Dark Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphical-interface-resumed-after-interruption/"><u>Graphical Interface Resumed After Interruption</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hidden-rtx-graphics-on-windows-pc/"><u>Hidden RTX Graphics on Windows PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/introduction-to-instagram-what-you-need-to-know/"><u>Introduction to Instagram - What You Need to Know</u></a></li>
-<li><a href="https://media-tips.techidaily.com/old-device-compatibility-ending-how-netflixs-recent-changes-affect-your-streaming/"><u>Old Device Compatibility Ending: How Netflix's Recent Changes Affect Your Streaming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-low-end-amd-graphics-limitations/"><u>Overcoming Low-End AMD Graphics Limitations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-large-display-on-win11-pc/"><u>Resolving Large Display on Win11 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-magic-of-4k-unraveling-enhanced-pixels/"><u>The Magic of 4K: Unraveling Enhanced Pixels</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-shield-against-monitor-flashes/"><u>Unveiling the Shield Against Monitor Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advice-install-supported-drivers-for-amd-video-adapter/"><u>[ADVICE] Install Supported Drivers for AMD Video Adapter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-favorites-list-top-mac-software-for-video-recording/"><u>[New] 2024 Approved Favorites List Top Mac Software for Video Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-your-video-cover-image-with-easy-steps/"><u>[New] 2024 Approved Transform Your Video Cover Image with Easy Steps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-11-pro-max-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 11 Pro Max Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-rotated-window-interface-in-windows-10/"><u>Correcting Rotated Window Interface in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easily-transform-dvd-movies-into-portable-mp4-files-a-step-by-step-guide-for-windows-1011-and-macos-systems/"><u>Easily Transform DVD Movies Into Portable MP4 Files - A Step-by-Step Guide for Windows 10/11 and macOS Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-asus-monitor-glitches-with-easy-fix-methods/"><u>End ASUS Monitor Glitches with Easy Fix Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-end-of-problems/"><u>GPU Error 43: End of Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iconic-lecture-labels-maker-pro/"><u>Iconic Lecture Labels Maker Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-logic-pro-x-guide-to-cohesive-track-transitions/"><u>In 2024, Logic Pro X Guide to Cohesive Track Transitions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-screen-sanctuary-your-haven-of-a-thousand-games/"><u>In 2024, Screen Sanctuary Your Haven of a Thousand Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-social-snagging-5-chrome-hdl-vids-for-2024/"><u>Mastering Social Snagging 5 Chrome HDL Vids for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-win-graphics-capability/"><u>Restored Win Graphics Capability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-xbox-one-graphics-issue/"><u>Restored Xbox One Graphics Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-graphics-for-windows-11-with-nvidia-geforce-210/"><u>Streamlined Graphics for Windows 11 with NVIDIA GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tdr-alert-cleared-nvidia-driver-update-effective/"><u>TDR Alert Cleared: Nvidia Driver Update Effective</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-technical-problems-encountered-by-users-during-software-installation-processes-updates-or-feature-usage-using-your-expertise-in-navigating-thro621/"><u>Troubleshoot Technical Problems Encountered by Users During Software Installation Processes, Updates, or Feature Usage, Using Your Expertise in Navigating Through Complex Systems with Ease.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-fixes-for-stuck-airpods-enabling-automatic-device-transition/"><u>Ultimate Fixes for Stuck AirPods: Enabling Automatic Device Transition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Graphics Unsupported: Card Missing"
-date: 2024-09-12T17:03:44.468Z
-updated: 2024-09-19T17:51:25.008Z
+date: 2024-11-10T19:32:56.671Z
+updated: 2024-11-13T19:15:04.069Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
@@ -89,10 +82,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f4198d08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating driver, restart your PC, and open your game to see if it works.
@@ -109,6 +102,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84801ddcd1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
@@ -116,6 +116,13 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e874fa45c10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your PC and open your game again.
 
@@ -137,5 +144,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-erase-your-online-presence-post-facebook-stories/"><u>[New] Erase Your Online Presence Post-Facebook Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>[New] Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-auto-play-youtube-iphoneandroid-no-notification-for-2024/"><u>[Updated] Auto-Play YouTube IPhone/Android, No Notification for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers/"><u>[Updated] In 2024, Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ios-guide-to-stunning-time-lapse-cinematography/"><u>2024 Approved IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-gt-neo-5-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme GT Neo 5 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-your-unresponsive-iphone-screen-here-are-7-potential-causes/"><u>Baffled by Your Unresponsive iPhone Screen? Here Are 7 Potential Causes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-3-tactics-converting-pins-to-audio-clips/"><u>In 2024, Top 3 Tactics Converting Pins to Audio Clips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/neutering-night-shade-nuisances-acer-devices/"><u>Neutering Night-Shade Nuisances: Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-flicker-phenomenon-on-win11/"><u>Solving the Flicker Phenomenon on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trimming-the-green-techniques-for-flawless-backgrounds/"><u>Trimming the Green: Techniques for Flawless Backgrounds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-driver-upgrade-intel-hd-graphics/"><u>Win Driver Upgrade: Intel HD Graphics</u></a></li>
+</ul></div>
 

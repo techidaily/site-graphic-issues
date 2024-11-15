@@ -1,7 +1,7 @@
 ---
 title: GPU Driver Update Successful - Error 22
-date: 2024-09-13T11:18:19.407Z
-updated: 2024-09-19T19:01:28.376Z
+date: 2024-11-06T23:17:55.956Z
+updated: 2024-11-13T17:02:38.273Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -59,11 +66,26 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
@@ -85,21 +107,14 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -120,5 +135,22 @@ Example – CMOS battery on a laptop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>[New] A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>[New] Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-clearer-eliminate-backgrounds-effectively-for-2024/"><u>[New] Ultimate Clearer Eliminate Backgrounds Effectively for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-file-logistics-unlocked-five-streamlined-techniques-for-computer-upload-for-2024/"><u>[Updated] File Logistics Unlocked Five Streamlined Techniques for Computer Upload for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/above-and-beyond-selecting-premium-software-for-drone-filmmaking/"><u>Above & Beyond Selecting Premium Software for Drone Filmmaking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-reimagined-for-speed-and-solved-issues/"><u>Apex Legends, Reimagined for Speed and Solved Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-monitor-sizes-for-win11/"><u>Balancing Monitor Sizes for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-visual-fidelity-latest-update-for-radeon-hd-6950-graphics-card/"><u>Enhanced Visual Fidelity: Latest Update for Radeon HD 6950 Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-7-screen-flares/"><u>Eradicate Windows 7 Screen Flares</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-apples-innovative-m4-silicon-chips-a-leap-toward-smart-technology-in-every-mac-model-anticipated-launch-dates-decoded/"><u>Exploring the Future with Apple's Innovative M4 Silicon Chips: A Leap Toward Smart Technology in Every Mac Model – Anticipated Launch Dates Decoded</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-static-screen-flashes-in-devices-laptop/"><u>Fixing Static Screen Flashes in Devices [Laptop]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mapmyride-app-breakdown-an-essential-review-for-cyclists-and-runners/"><u>MapMyRide App Breakdown: An Essential Review for Cyclists & Runners</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-fixing-protocols-for-gpus-only/"><u>Simple Fixing Protocols for GPUs Only</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210731287-9781662472800-the-psychedelic-diaries/"><u>The Psychedelic Diaries | Free Book</u></a></li>
+</ul></div>
 

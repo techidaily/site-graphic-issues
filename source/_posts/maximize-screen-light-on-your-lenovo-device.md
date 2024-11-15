@@ -1,7 +1,7 @@
 ---
 title: Maximize Screen Light on Your Lenovo Device
-date: 2024-09-12T22:28:17.063Z
-updated: 2024-09-20T11:45:28.311Z
+date: 2024-11-12T19:29:08.960Z
+updated: 2024-11-13T21:12:35.604Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2) Press the brightness-up key when starting up
 
  This is another fast and easy yet effective option to fix your dim Lenovo laptop screen.
@@ -66,9 +73,23 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
@@ -77,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -97,18 +125,26 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-free-video-credits-expertise-top-6-maker-guide/"><u>[New] Free Video Credits Expertise - Top 6 Maker Guide!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-video-focus-videoleap-guide/"><u>[Updated] Perfecting Video Focus Videoleap Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-tarkov-fix-visual-evasion-guide/"><u>AMD & Tarkov Fix: Visual Evasion Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-6s-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 6s Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-no-cost-sms-tools-for-iphone-and-ipod-touch-users/"><u>Best No-Cost SMS Tools for iPhone and iPod Touch Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-sims-4-blackout-bug/"><u>Eliminate Sims 4 Blackout Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-flicker-the-key-to-a-smoother-windows-7-display/"><u>Fixing Flicker: The Key to a Smoother Windows 7 Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-acquiring-high-clarity-imagery-without-limitations/"><u>In 2024, Acquiring High-Clarity Imagery without Limitations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-creations-from-canvas-to-blockchain-with-top-7-apps/"><u>In 2024, Elevate Your Creations From Canvas to Blockchain with Top 7 Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 8 Plus?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-gt-5-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme GT 5 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lag-fixing-made-simple-for-anthem/"><u>Lag Fixing Made Simple for Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-in-win10-os/"><u>Monitor Not Recognizing Fullscreen in Win10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-screen-flicker-in-hp-machines/"><u>Preventing Screen Flicker in HP Machines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-for-nvidiaintel-graphic-swap/"><u>Successful Fix for NVIDIA/Intel Graphic Swap</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-blueprint-to-cost-efficiency-a-step-by-steps-approach-to-estimating-3d-print-project-investments/"><u>The Blueprint to Cost Efficiency: A Step-by-Steps Approach to Estimating 3D Print Project Investments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-no-signal-fast-fix-for-dp-connections/"><u>Troubleshoot No Signal: Fast Fix for DP Connections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-non-reactive-screen/"><u>Troubleshooting Lenovo Non-Reactive Screen</u></a></li>
+</ul></div>
 

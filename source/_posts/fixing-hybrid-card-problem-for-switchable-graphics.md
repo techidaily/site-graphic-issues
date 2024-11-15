@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2024-11-02T16:13:22.316Z
-updated: 2024-11-04T20:52:18.244Z
+date: 2024-11-11T16:36:18.265Z
+updated: 2024-11-13T18:28:11.879Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -43,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -91,10 +98,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -103,28 +110,28 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
@@ -134,13 +141,6 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,17 +157,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/op-video-shooting-equipment-a-comprehensive-review/"><u>[New] Top Video Shooting Equipment A Comprehensive Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-from-stillness-to-stirring-tips-for-bouncing-text/"><u>[Updated] From Stillness to Stirring Tips for Bouncing Text</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-melodic-beginnings-curbside-sound-sources/"><u>[Updated] Melodic Beginnings Curbside Sound Sources</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/best-artificial-intelligence-tools-for-efficient-data-restoration/"><u>Best Artificial Intelligence Tools for Efficient Data Restoration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-mirrored-display-glitch-in-windows-11/"><u>Correcting Mirrored Display Glitch in Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enrich-your-presentations-include-youtube-videos-in-slate-for-2024/"><u>Enrich Your Presentations - Include YouTube Videos in Slate for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-no-more-issues/"><u>GPU Error 43: No More Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-failed-display-saving-in-win-7-and-10-systems-solution-found/"><u>Restore Failed Display Saving in Win 7 & 10 Systems [Solution Found]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screenreversalcorrection-tips/"><u>ScreenReversalCorrection Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-powerful-ai-tools-to-transform-how-you-conduct-web-searches/"><u>Unleash Powerful AI Tools to Transform How You Conduct Web Searches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-top-rated-netgear-orbi-masterclass-in-home-wifi-coverage/"><u>Unveiling the Top-Rated Netgear Orbi: Masterclass in Home WiFi Coverage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-clarity-achieved/"><u>Windows Clarity Achieved</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-cinematography-on-youtube/"><u>[Updated] The Ultimate Guide to Cinematography on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers-for-2024/"><u>[Updated] Transform Your Live Broadcasting Skills Using DSLR on Personal Computers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-digital-destinations-for-text-overlays/"><u>2024 Approved Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/fy-impact-strategies-for-growing-youtube-fans/"><u>Amplify Impact Strategies for Growing YouTube Fans</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nokia-c210-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nokia C210.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-through-the-dark-screen-on-twitch/"><u>Cut Through the Dark Screen on Twitch</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-connect-and-converse-advanced-techniques-for-facebook-live-screens/"><u>In 2024, Connect and Converse Advanced Techniques for Facebook Live Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-win10-resolution-configurations/"><u>Master Win10 Resolution Configurations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028177620-ogg/"><u>Ogg音楽ファイルのプレイバック手順とトラブルシューティング</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-graphics-now-supported-on-any-system/"><u>Overwatch Graphics Now Supported on Any System</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-techniques-for-fixing-gpus-only/"><u>Simple Techniques for Fixing GPUs Only</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unclog-and-use-asus-built-in-cam-again/"><u>Unclog and Use ASUS Built-In Cam Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-hidden-causes-of-white-screen/"><u>Uncover Hidden Causes of White Screen</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/vanuit-ongelukkig-gegaan-hoe-uw-reconstructieverzoek-naar-voorraad-is-aangeklapt/"><u>Vanuit Ongelukkig Gegaan... Hoe Uw Reconstructieverzoek Naar Voorraad Is Aangeklapt!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wdf-blue-screen-troubleshooting-for-winos/"><u>WDF Blue Screen Troubleshooting for WinOS</u></a></li>
 </ul></div>
 

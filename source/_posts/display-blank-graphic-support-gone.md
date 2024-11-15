@@ -1,7 +1,7 @@
 ---
 title: Display Blank, Graphic Support Gone
-date: 2024-09-11T19:13:58.378Z
-updated: 2024-09-14T18:17:48.743Z
+date: 2024-11-09T20:35:48.249Z
+updated: 2024-11-13T22:41:11.714Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 
 **Note** : All the screen shots below are shown on Windows 10, but the fixes also apply to Windows 7 & 8.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  This problem may occur due to the missing or outdated drivers of your graphics card. So updating the drivers can probably fix this problem.
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ef267bcf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update button**  next to the driver name to download the correct driver (you can do that with the**FREE** version).
@@ -88,17 +95,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84f7982f97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete the config.dat file of your game
@@ -112,6 +112,13 @@ Or click **Update All**  to automatically download and install the correct versi
 2) Click the file named after your game (like Terraria)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ba650fb2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right click the**config.dat** file, click**delete** , and click**Yes** . (Please don’t worry. This will not affect your game. And it will download the Config.dat file again when you play it.)
 
@@ -137,5 +144,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-clip-description-creator-for-2024/"><u>[New] Clip Description Creator for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveil-the-potential-of-zoom-filters-for-excellence/"><u>[New] In 2024, Unveil the Potential of Zoom Filters for Excellence</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-efficient-use-of-obs-studio-for-android-devices/"><u>[Updated] In 2024, Efficient Use of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-top-7-aplicativos-de-gravacao-de-tela-mais-eficientes-para-sistemas-windows-7-gratuitos/"><u>1. Top 7 Aplicativos De Gravação De Tela Mais Eficientes Para Sistemas Windows 7 - Gratuitos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/becoming-grammar-savvy-in-english-top-9-techniques-by-a-passionate-esl-professional/"><u>Becoming Grammar-Savvy in English: Top 9 Techniques by a Passionate ESL Professional</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-htc-u23-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on HTC U23 Pro.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-direct-x-flaw-now-patched-in-lol/"><u>Hidden Direct X Flaw Now Patched in LoL</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-imovie-to-hollywood-mastering-movie-making-on-mac-for-2024/"><u>New From iMovie to Hollywood Mastering Movie Making on Mac for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-gen-gaming-new-radeon-hd-6950-on-win10/"><u>Next-Gen Gaming: New Radeon HD 6950 on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-longer-a-graphic-compatibility-issue-in-overwatch/"><u>No Longer a Graphic Compatibility Issue in Overwatch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-adding-subtitles-to-your-videos-on-facebook/"><u>Step-by-Step Guide: Adding Subtitles to Your Videos on Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xfinity-display-driver-error-corrected-and-operational/"><u>XFINITY Display Driver Error Corrected and Operational</u></a></li>
+</ul></div>
 

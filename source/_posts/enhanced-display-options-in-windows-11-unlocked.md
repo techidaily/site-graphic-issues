@@ -1,7 +1,7 @@
 ---
 title: Enhanced Display Options in Windows 11 Unlocked
-date: 2024-09-09T01:06:52.780Z
-updated: 2024-09-14T19:54:56.553Z
+date: 2024-11-11T21:49:06.311Z
+updated: 2024-11-13T23:04:23.469Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -67,9 +81,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
@@ -100,12 +128,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/correct-image-rotation-windows-7-guide/"><u>Correct Image Rotation: Windows 7 Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-windows-image-resolution/"><u>Crisp Windows Image Resolution</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/dataguardian-raid-redemption-tool/"><u>DataGuardian: RAID Redemption Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drive-upgrade-nvidias-new-geforce-210-version/"><u>Drive Upgrade: NVIDIA's New GeForce 210 Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-the-canon-mf4500-printer-driver-no-hassle-full-compatibility/"><u>Easy Steps to Download the Canon MF4500 Printer Driver - No Hassle, Full Compatibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-cut-off-new-gpu/"><u>Graphics Cut-Off - New GPU?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pc-with-the-latest-microsoft-sound-card-drivers-for-windows-systems/"><u>How to Update Your PC with the Latest Microsoft Sound Card Drivers for Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a05s-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A05s Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-turns-dark-with-new-driver/"><u>Monitor Turns Dark with New Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-screen-initialization-error/"><u>Rectified Screen Initialization Error</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/things-that-you-should-know-about-youtube-keyword-research-for-2024/"><u>Things That You Should Know About YouTube Keyword Research for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-samsung-galaxy-s25-ultra-revealing-rumored-specifications-launch-timeline-and-estimated-costs/"><u>Upcoming Samsung Galaxy S25 Ultra - Revealing Rumored Specifications, Launch Timeline & Estimated Costs</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728467690334-usb/"><u>USBメモリをフォーマットしたら、どんな影響があるのでしょうか？</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-adjust-display-dimensions/"><u>Win11: Adjust Display Dimensions</u></a></li>
+</ul></div>
 

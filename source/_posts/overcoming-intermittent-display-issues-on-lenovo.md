@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2024-11-02T17:49:13.345Z
-updated: 2024-11-04T16:10:14.407Z
+date: 2024-11-07T17:06:13.560Z
+updated: 2024-11-13T19:02:42.639Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your laptop manages the communication between your laptop hardware and the operating system. It may make your screen flicker or blink when it is out of date. You can try updating your BIOS and see if this resolves your problem.
@@ -70,45 +63,52 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -139,20 +139,14 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-professional-edge-in-instagram-videos-with-green-screen-tech/"><u>[New] 2024 Approved Professional Edge in Instagram Videos with Green Screen Tech</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-instagram-video-streams-speedily/"><u>[New] In 2024, Enhance Instagram Video Streams Speedily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-electric-vehicle-chargers-comparing-level-1-2-and-3-systems/"><u>A Comprehensive Guide to Electric Vehicle Chargers: Comparing Level 1, 2 & 3 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bridging-the-gap-hardware-upgrades-and-intell-drivers/"><u>Bridging the Gap: Hardware Upgrades & Intell Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23-fe-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23 FE to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-valorant-gaming-experience-with-the-latest-fixes-for-fps-issues-best-advice-2e4-edition/"><u>Improve Valorant Gaming Experience with the Latest Fixes for FPS Issues (Best Advice, 2E4 Edition)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-tv-for-virtual-concerts/"><u>In 2024, Ultimate TV for Virtual Concerts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keeping-rtx-3080-gaming-smooth/"><u>Keeping RTX 3080 Gaming Smooth</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-silent-monitors/"><u>Master the Art of Silent Monitors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-display-in-win10/"><u>Monitor Not Recognizing Fullscreen Display in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-stalling-direct3d-works-with-full-gpu-acceleration/"><u>No More Stalling - Direct3D Works with Full GPU Acceleration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-performance-install-new-geforce-gtx-1060-drivers/"><u>Secure Performance: Install New GeForce GTX 1060 Drivers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-five-protocols-for-documenting-youtube-live-broadcasts/"><u>Top Five Protocols for Documenting YouTube LIVE Broadcasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-views-to-valuables-the-ultimate-video-income-play/"><u>[Updated] 2024 Approved From Views to Valuables The Ultimate Video Income Play</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-picture-smoothing-techniques-for-better-photo-clarity/"><u>[Updated] In-Picture Smoothing Techniques for Better Photo Clarity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-top-10-flawless-web-based-vimeo-video-extractors-for-2024/"><u>[Updated] Top 10 Flawless Web-Based Vimeo Video Extractors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-reviving-a-darkened-asus-machine/"><u>Brighten Up: Reviving a Darkened Asus Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-sideways-screens-standard-view-on-windows-10/"><u>Fix Sideways Screens: Standard View on Windows 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-no-cost-video-magic-the-best-online-editors-ranked/"><u>New No-Cost Video Magic The Best Online Editors Ranked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818312388-uninterrupted-streaming-now-post-win10s-revamp/"><u>Uninterrupted Streaming Now, Post Win10's Revamp!</u></a></li>
 </ul></div>
 

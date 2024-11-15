@@ -1,7 +1,7 @@
 ---
 title: "Fallout 4 Stability Achieved: No More Computer Issues"
-date: 2024-09-12T18:24:41.022Z
-updated: 2024-09-20T07:12:57.846Z
+date: 2024-11-10T22:29:25.552Z
+updated: 2024-11-13T22:30:11.891Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  All the screenshots shown below are from Windows 10, but the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Install the latest patch**
 
  The bugs in the game can cause the crashing issue, and that’s why the developers keep releasing the latest updates for the game. The updates  contain important changes to improve the performance, stability and security of the applications that run on your computer. Installing them ensures that your **software**  continues to run safely and efficiently.
@@ -40,25 +47,11 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
 
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer and open your Fallout 4.
 
@@ -106,6 +106,13 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
@@ -113,16 +120,10 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
@@ -146,5 +147,26 @@ Save the settings and restart your Fallout 4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-virtual-reality-jargon/"><u>[New] Breaking Down Virtual Reality Jargon</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[Updated] 2024 Approved Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-embrace-these-hits-top-10-viral-tiktok-challenges/"><u>[Updated] Embrace These Hits Top 10 Viral TikTok Challenges</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-effortless-laptop-viewing-with-top-ranked-apps/"><u>[Updated] In 2024, Effortless Laptop Viewing with Top-Ranked Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-personalizing-your-online-presence-for-optimal-engagement-and-conversion-rates/"><u>Cookiebot: Personalizing Your Online Presence for Optimal Engagement and Conversion Rates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/design-gif-for-sharing/"><u>Design Gif for Sharing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-upside-down-screen-problems-in-windows-10/"><u>End Upside-Down Screen Problems in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-system-compatibility-for-intel-graphics-support/"><u>Fixing System Compatibility for Intel Graphics Support</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-13c-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi 13C to Another | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a59-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A59 5G Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-screen-blankness/"><u>Overcoming Windows 10 Screen Blankness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refinement-of-visual-settings-in-latest-win11-update/"><u>Refinement of Visual Settings in Latest Win11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmasking-the-invisible-dx-hiccup-in-legion-of-lol/"><u>Unmasking the Invisible DX Hiccup in Legion of LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-expert-picks-top-speech-transcription-tools-for-android-and-ios-users/"><u>Updated 2024 Approved Expert Picks Top Speech Transcription Tools for Android and iOS Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade"
-date: 2024-11-02T19:49:00.074Z
-updated: 2024-11-04T16:07:17.376Z
+date: 2024-11-07T21:45:58.911Z
+updated: 2024-11-13T20:03:49.828Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 5. [**Log in using a different user account**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Fix 1: Try a Windows key sequence to wake the screen
 
 A quick fix to your black screen problem would be:
@@ -40,13 +47,6 @@ A quick fix to your black screen problem would be:
  If Windows is responsive, a short beep will sound and the screen will blink or dim while Windows attempts to refresh the screen.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Fix 2: Unplug unnecessary USB equipment
 
@@ -82,10 +82,10 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -115,6 +115,13 @@ If this produces no results, you can move on to Fix 3.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Fix 5: Log in using a different user account
 
  Black screens might also be caused by**corrupted Windows user profile** . To check for it, you can try restarting your PC in Safe Mode, then logging into Windows with a different user account, say, your working user account. If you can log in, it means your previous user account was causing the problem, then you can replace the folder of the problem user account with that of your working user account. Here’s what you need to do:
@@ -134,21 +141,14 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Accounts** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
@@ -161,20 +161,27 @@ If this produces no results, you can move on to Fix 3.
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,39 +194,32 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Update & security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -244,22 +244,19 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>[New] Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-thriving-despite-youtubes-rigorous-copyright-strike-system/"><u>[Updated] 2024 Approved Thriving Despite YouTube's Rigorous Copyright Strike System</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-quick-guide-to-free-online-facebook-video-to-mp4-converter-hd-tutorial/"><u>[Updated] Quick Guide to Free Online Facebook Video to MP4 Converter (HD) Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-complete-breakdown-lg-bp350-monitors-specifications-and-reviews-for-2024/"><u>A Complete Breakdown LG BP350 Monitor's Specifications and Reviews for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-pc-search-mastering-everywhereapp/"><u>Accelerate PC Search: Mastering EverywhereApp</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ceasing-operation-solutions-for-laptop-screens-not-working/"><u>Ceasing Operation: Solutions for Laptop Screens Not Working</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discord-safety-a-step-by-step-tutorial-for-enabling-parental-controls/"><u>Discord Safety: A Step-by-Step Tutorial for Enabling Parental Controls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-gfx-on-windows-os-user-interface-up-and-running/"><u>Fixed GFX on Windows OS - User Interface Up & Running</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-video-issues-post-update/"><u>Fixing Windows 10 Video Issues Post-Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fresh-nvidia-gpu-software-installation/"><u>Fresh Nvidia GPU Software Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/healed-radeon-stream-error/"><u>Healed Radeon Stream Error</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/invaluable-slide-show-tools-for-business-executives-for-2024/"><u>Invaluable Slide Show Tools for Business Executives for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-rapid-flash-problems-in-acer-devices/"><u>Rectifying Rapid-Flash Problems in Acer Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-intel-and-nvidia-hybrid-card-error-on-windows/"><u>Resolved Intel & NVIDIA Hybrid Card Error on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-zero-5g-2023-turbo-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Zero 5G 2023 Turbo Phones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-flawless-image-quality/"><u>Windows 11: Flawless Image Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-smooth-strategies-for-uncluttered-google-meet-sessions/"><u>[New] 2024 Approved Smooth Strategies for Uncluttered Google Meet Sessions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-steps-to-permanently-delete-your-instagram-profile-the-complete-guide/"><u>2024 Approved Steps to Permanently Delete Your Instagram Profile The Complete Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-screenshake-phenomenon-in-lenovo/"><u>Addressing Screenshake Phenomenon in Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-blank-screen-a-twitch-guide/"><u>Eliminate Blank Screen: A Twitch Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/endeavour-halo-infinite-stalls-over-directx12/"><u>Endeavour: Halo Infinite Stalls Over DirectX12</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-on-windows-with-latest-nvidia-geforce-drivers/"><u>Enhanced Rendering on Windows with Latest Nvidia GeForce Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-j5-pro-a-miniaturized-indestructible-night-vision-tool-reviewed-for-ultimate-brightness-and-portability/"><u>Exploring the J5 Pro: A Miniaturized, Indestructible Night Vision Tool Reviewed for Ultimate Brightness & Portability</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-phantom-cursor-on-windows-11-a-step-by-step-solution-for-users/"><u>Fixing the Phantom Cursor on Windows 11: A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/luminosity-without-the-dance-preventing-screen-flickers/"><u>Luminosity without the Dance: Preventing Screen Flickers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snap-it-like-a-pro-a-beginners-guide-to-capturing-screens-on-hp-systems/"><u>Snap It Like a Pro: A Beginner's Guide to Capturing Screens on HP Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-switchable-graphics-issue-in-windows-11/"><u>Solving Switchable Graphics Issue in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installation-how-to-update-your-dell-wd19-device/"><u>Step-by-Step Installation: How to Update Your Dell WD19 Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-subscriber-lists-a-youtube-guide/"><u>Unveiling Subscriber Lists A YouTube Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/zooming-into-facebook-live-with-ease-using-zoom-for-2024/"><u>Zooming Into Facebook Live with Ease Using Zoom for 2024</u></a></li>
 </ul></div>
 

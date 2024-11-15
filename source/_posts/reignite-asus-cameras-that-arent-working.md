@@ -1,7 +1,7 @@
 ---
 title: Reignite Asus Cameras That Aren't Working
-date: 2024-09-13T11:44:32.705Z
-updated: 2024-09-20T01:35:08.325Z
+date: 2024-11-07T17:47:08.188Z
+updated: 2024-11-13T17:13:51.963Z
 tags:
   - win11
   - win10
@@ -45,13 +45,34 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update the webcam driver
 
@@ -67,6 +88,14 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -74,25 +103,11 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 After updating your drivers, restart your PC and test the camera.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4\. Reinstall the camera driver
 
  Under some circumstances, your camera may still act up after the related driver is up to date. To fix the issue quickly, you can launch Driver Easy, and click**Uninstall driver** next to your webcam driver, and restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
@@ -101,13 +116,6 @@ After updating your drivers, restart your PC and test the camera.
  1) Type **devmgmt.msc** in the field and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
@@ -140,5 +148,23 @@ After updating your drivers, restart your PC and test the camera.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/healed-graphic-driver-error-and-display-fixed/"><u>[Healed] Graphic Driver Error and Display Fixed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-ten-cost-free-virtual-chat-solutions-for-teams-for-2024/"><u>[New] Top Ten Cost-Free Virtual Chat Solutions for Teams for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quicksnap-hd-pro-logging-kit-for-2024/"><u>[Updated] QuickSnap HD Pro Logging Kit for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/essential-fixes-for-youtubes-green-screen-errors/"><u>Essential Fixes for YouTube's Green Screen Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-dark-monitor/"><u>Graphics Glitch: Dark Monitor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-realme-c53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Realme C53</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-f54-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy F54 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-drive-fix-amd-detection-driver-for-windows-10/"><u>Successful Drive Fix: AMD Detection Driver for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/surgical-fixes-for-apexs-flaws/"><u>Surgical Fixes for Apex's Flaws</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-not-initializing-correctly/"><u>System Graphics Not Initializing Correctly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-displays-erratic-behavior-on-lenovo/"><u>Tackling Displays' Erratic Behavior on Lenovo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-motorola-moto-g84-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Motorola Moto G84 5G Phones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unseen-rtx-on-windows-system-diagnosed/"><u>Unseen RTX on Windows System Diagnosed</u></a></li>
+</ul></div>
 

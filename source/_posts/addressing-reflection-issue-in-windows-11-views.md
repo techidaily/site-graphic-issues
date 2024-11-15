@@ -1,7 +1,7 @@
 ---
 title: Addressing Reflection Issue in Windows 11 Views
-date: 2024-09-12T17:48:30.377Z
-updated: 2024-09-19T23:58:08.496Z
+date: 2024-11-11T23:36:46.380Z
+updated: 2024-11-13T19:50:56.886Z
 tags:
   - win11
   - win10
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
@@ -54,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Method 2: Fix screen upside down via Display settings
 
  You can also modify the Display settings in Windows 10 to fix the**screen upside down issue** . To do so:
@@ -62,11 +82,25 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
  Still no luck? Don’t be upset. There’s one more thing to try…
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method 3: Fix screen upside down by updating graphics card driver
 
@@ -88,31 +122,11 @@ There are two options to update drivers in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgraded when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
@@ -138,5 +152,23 @@ There are two options to update drivers in Windows 10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-detailed-breakdown-of-fbm-transcription-techniques/"><u>[New] 2024 Approved The Detailed Breakdown of FBM Transcription Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-streaming-masterpieces-best-movie-directories-on-yt/"><u>[New] In 2024, Streaming Masterpieces Best Movie Directories on YT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-executing-the-last-goodbye-to-your-instagram-account/"><u>[Updated] 2024 Approved Executing the Last Goodbye to Your Instagram Account</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfecting-obs-broadcasts-for-facebook-audience-for-2024/"><u>[Updated] Perfecting OBS Broadcasts for Facebook Audience for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cpp-unlocked-successfully/"><u>CPP Unlocked Successfully!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-inverted-display-standard-alignment-in-windows-10/"><u>Fix Inverted Display: Standard Alignment in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-google-stadia-lag-post-win11-update/"><u>Fixing Google Stadia Lag Post-Win11 Update</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-essential-steps-to-record-impeccable-ios-travel-and-dialogue-podcasts/"><u>In 2024, Essential Steps to Record Impeccable iOS Travel & Dialogue Podcasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resurrecting-silent-displayport-with-simple-steps/"><u>Resurrecting Silent DisplayPort with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-monitor-hides-full-screen-windows-11/"><u>Screen Fix: Monitor Hides Full-Screen Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-win-devices-creation/"><u>Secured Win Devices Creation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stylish-and-sleek-ride-comprehensive-review-of-the-swagtron-swagger-electric-scooter/"><u>Stylish and Sleek Ride: Comprehensive Review of the Swagtron Swagger Electric Scooter</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-g2-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo G2 Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-savings-essential-discounts-on-samsung-tech-this-prime-day/"><u>Ultimate Savings: Essential Discounts on Samsung Tech This Prime Day</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vision-disabled-graphic-device-missing/"><u>Vision Disabled: Graphic Device Missing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209911996-9780228818298-you-dont-have-to-eat-the-eyeballs/"><u>You Don't Have to Eat the Eyeballs | Free Book</u></a></li>
+</ul></div>
 

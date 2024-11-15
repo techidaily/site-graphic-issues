@@ -1,7 +1,7 @@
 ---
 title: Tracing the MSI Graphics Card Omission
-date: 2024-09-17T22:12:32.419Z
-updated: 2024-09-19T23:46:50.870Z
+date: 2024-11-08T19:13:46.599Z
+updated: 2024-11-13T16:00:18.286Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
  To uninstall the device, right-click on the device name and select**Uninstall** from the context menu. The following screenshot is for your reference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
@@ -71,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -78,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -112,5 +126,20 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[New] 2024 Approved Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-the-joy-of-customized-messaging-downloading-and-tailoring-whatsapp-ringtones-on-mobile/"><u>[New] Discover the Joy of Customized Messaging Downloading & Tailoring WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-on-the-go-video-making-essentials/"><u>[New] On-The-Go Video Making Essentials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-disrupt-unbidden-youtube-content-feeds/"><u>[Updated] 2024 Approved Disrupt Unbidden YouTube Content Feeds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-gpu-nostalgia-update-for-2024/"><u>[Updated] GPU Nostalgia Update for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hybrid-card-problem-for-switchable-graphics/"><u>Fixing Hybrid Card Problem for Switchable Graphics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-customizing-video-assets-for-instagram-mastery/"><u>In 2024, Customizing Video Assets for Instagram Mastery</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-12r-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus 12R Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-displays-on-monitor-with-win10/"><u>Non-Fullscreen Displays on Monitor with Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solidifying-stability-tips-for-flaky-amd-freesync/"><u>Solidifying Stability: Tips for Flaky AMD FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-recovery-for-visual-display/"><u>Successful Recovery for Visual Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-blurry-laptop-horizontal-bars/"><u>Troubleshoot Blurry Laptop Horizontal Bars</u></a></li>
+</ul></div>
 
