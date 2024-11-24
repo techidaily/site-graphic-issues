@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-11-11T20:03:39.959Z
-updated: 2024-11-14T22:25:55.384Z
+date: 2024-11-16T20:14:42.850Z
+updated: 2024-11-23T22:37:58.344Z
 tags:
   - win11
   - win10
@@ -47,16 +47,11 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -70,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Modify Registry
@@ -87,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
@@ -102,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
@@ -133,17 +119,18 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-preventing-sudden-deletion-of-personal-videos-from-fb-for-2024/"><u>[New] Preventing Sudden Deletion of Personal Videos From FB for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-crafting-the-ultimate-giant-heads-on-tiktok/"><u>[Updated] Crafting the Ultimate Giant Heads on TikTok</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-handbook-for-periscope-video-logging/"><u>2024 Approved The Essential Handbook for Periscope Video Logging</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/critical-card-detection-failure/"><u>Critical: Card Detection Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-detection-driver-issue-with-amd-and-windows-10/"><u>Fixed Detection Driver Issue with AMD & Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-lenovo-non-touchpad-failures/"><u>Fixing Lenovo Non-Touchpad Failures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-benchmark-analysis-djis-drone-phantom-3/"><u>In 2024, Benchmark Analysis DJI's Drone Phantom 3</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-tags-a-guide-to-identifying-top-picks/"><u>Mastering YouTube Tags A Guide to Identifying Top Picks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-hardware-restrictions-with-overwatchs-new-release/"><u>No More Hardware Restrictions with Overwatch's New Release</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-90-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor 90</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009461689-solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-young-directors-handbook-teach-kids-to-make-their-own-movies-for-2024/"><u>The Young Directors Handbook Teach Kids to Make Their Own Movies for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-prime-selection-of-action-screen-replayers/"><u>[Updated] 2024 Approved Prime Selection of Action Screen Replayers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-up-end-flashing-in-win11/"><u>Ease Up: End Flashing in Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211218270-9781789048612-fairy/"><u>Fairy | Free Book</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-fixing-driver-conflicts-for-your-arduino-uno-on-windows/"><u>Guide: Fixing Driver Conflicts for Your Arduino Uno on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-vivo-by-fonelab-android-recover-music/"><u>How to recover old music from your Vivo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>In 2024, Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-win-graphics-failure/"><u>No More Win Graphics Failure!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-upside-down-screens-on-windows/"><u>Rectify Upside-Down Screens on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-slate-easy-driver-removal-procedures/"><u>Simple Slate: Easy Driver Removal Procedures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices/"><u>The Ultimate Guide to Recording Hulu Episodes on Multiple Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winstability-enhanced-solve-blue-screen-with-wdf-errors/"><u>WinStability Enhanced: Solve Blue Screen with WDF Errors</u></a></li>
 </ul></div>
 

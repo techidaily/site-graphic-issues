@@ -1,7 +1,7 @@
 ---
 title: What Is My Screen Resolution? One Step to Find Out!
-date: 2024-11-08T01:11:07.990Z
-updated: 2024-11-14T18:38:27.972Z
+date: 2024-11-20T18:42:01.591Z
+updated: 2024-11-24T01:09:17.633Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Check out this post and you’ll know in a heartbeat! 🙂
 1. [**What is my screen resolution and how to change the screen resolution**](https://tools.techidaily.com/drivereasy/download/)
 2. [**How can I prevent my PC from having display issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. What is my screen resolution and how to change screen resolution
 
 [**I’m using Windows 10:**](https://tools.techidaily.com/drivereasy/download/) 
@@ -36,6 +40,10 @@ Check out this post and you’ll know in a heartbeat! 🙂
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87aa3650e32.jpg)
 2. Scroll down to**Resolution** and voila! Now you can select from the drop-down menu to change the screen resolution the way you’d like it to.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ac0c1fb10.jpg)
 
  **I’m using Windows 8/7:** 
@@ -44,30 +52,13 @@ Check out this post and you’ll know in a heartbeat! 🙂
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ab630af7b.jpg)
 2. Check your screen resolution in**Resolution** ! Now you can select from the drop-down menu to change the screen resolution the way you’d like it to.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ad6d7e8a9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. How can I prevent my PC from having display issues
 
@@ -88,16 +79,11 @@ Check out this post and you’ll know in a heartbeat! 🙂
 3. You can upgrade to [**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -123,18 +109,15 @@ Check out this post and you’ll know in a heartbeat! 🙂
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[New] In 2024, Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-mute-people-on-google-meet-video-call/"><u>[Updated] How to Mute People on Google Meet Video Call</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-dvd-converter-software-convert-your-dvds-from-mac-os-sierra-to-mp4-flawlessly/"><u>Best DVD Converter Software: Convert Your DVDs From Mac OS Sierra to MP4 Flawlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967868837-complete-guide-to-updating-logitech-k400-plus-driver-begin-download-here/"><u>Complete Guide to Updating Logitech K400 Plus Driver - Begin Download Here!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-by-drfone-ios/"><u>Disabled iPhone 8 How to Unlock a Disabled iPhone 8?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-blackout-in-windows-11-after-fall-update/"><u>Ending Blackout in Windows 11 After Fall Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-enhancement-new-amd-hd-6950-update-on-windows-11-os/"><u>Graphics Enhancement - New AMD HD 6950 Update on Windows 11 OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-unresponsive-minecraft-gameplay-in-windows-environments/"><u>How to Resolve Unresponsive Minecraft Gameplay in Windows Environments</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-direct-link-method-transferring-images-and-videos-on-ios/"><u>In 2024, Direct Link Method Transferring Images & Videos on IOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-supreme-comedic-picture-maker/"><u>In 2024, Supreme Comedic Picture Maker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-troubleshoot-successful/"><u>Lenovo TapScreen Troubleshoot Successful</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-through-gpu-failures-operational-pc-is-a-must/"><u>Navigating Through GPU Failures: Operational PC Is a Must</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>[New] In 2024, M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixel-humorist-tools-kapwings-meme-mastery/"><u>[New] Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-set-the-mood-music-for-whatsapp-status/"><u>[Updated] Set the Mood Music for WhatsApp Status</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>2024 Approved Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/basic-screen-capture-windows-10-version-for-2024/"><u>Basic Screen Capture, Windows 10 Version for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-screen-orientation-in-windows-10-solved/"><u>Fixing Screen Orientation in Windows 10 [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/grasping-the-visionary-shift-to-4k-resolution/"><u>Grasping the Visionary Shift to 4K Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-10-fixed/"><u>Screen Upside Down in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-playtime-with-windows-11-driver-update-for-hd-6950/"><u>Supercharge Your Playtime with Windows 11 Driver Update for HD 6950</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-seamlessly-changing-keyboard-layouts-in-win-11/"><u>Transition Seamlessly: Changing Keyboard Layouts in Win 11</u></a></li>
 </ul></div>
 

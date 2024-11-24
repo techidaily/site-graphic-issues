@@ -1,7 +1,7 @@
 ---
 title: AMD Card Unsupported on Classic Windows Versions
-date: 2024-10-19T00:39:01.365Z
-updated: 2024-10-24T07:02:21.069Z
+date: 2024-11-19T22:32:14.147Z
+updated: 2024-11-23T22:23:36.233Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
  Solution 2:**[Uninstall the AMD driver in safe mode](#s2)**
  Solution 3: **[Install Microsoft Visual C++ 2005 SP1 redistributable patch](#s3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Fix this driver issue with Driver Easy
 
  If the AMD graphics driver is not installed properly on your computer, you can run into error “**No AMD Graphics driver is installed** .” You can fix this driver issue easily with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-scan-now-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged amd driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -51,10 +59,11 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Uninstall AMD Driver in Safe Mode**
@@ -74,10 +83,7 @@ To do so:
  5) After rebooting, if you still get this error, try to perform a clean install of AMD drivers again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Install Microsoft Visual C++ 2005 SP1 redistributable patch
@@ -111,22 +117,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-individual-to-institutional-growth-in-youtube-space/"><u>[New] From Individual to Institutional Growth in YouTube Space</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-change-name-in-google-meet-on-laptop-and-mobile-devices/"><u>[New] How to Change Name in Google Meet on Laptop and Mobile Devices?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-next-gen-stabilizing-tools-for-youtube-videographers/"><u>[New] Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-android-photography-alterations/"><u>[Updated] 2024 Approved Premium Android Photography Alterations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-v30t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme V30T</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-tarkovs-amd-graphic-snags-instantly/"><u>Bypassing Tarkov's AMD Graphic Snags, Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-misconited-ideas-6-mac-limitations-in-gaming-world/"><u>Dissecting Misconited Ideas: 6 Mac Limitations in Gaming World</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-overcome-the-obscure-c1900101-error-on-new-windows-installation/"><u>How to Overcome the Obscure C1900101 Error on New Windows Installation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked ZTE Nubia Flip 5G Phone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-monitor-glitches-stabilize-screens/"><u>Lenovo Monitor Glitches: Stabilize Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-performance-in-god-of-war/"><u>Optimizing Performance in 'God of War'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-twitchs-covert-issue/"><u>Shedding Light on Twitch's Covert Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-lcds-on-hp-notebooks/"><u>Stabilizing LCDs on HP Notebooks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/understanding-dxgkrnlsys-bsod-issue/"><u>Understanding dxgkrnl.sys BSoD Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-infinix-note-30-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Note 30 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-eliminated-distorted-displays/"><u>Windows 11: Eliminated Distorted Displays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>[Updated] Storytelling on Screen Crafting Compelling Narratives for InstaReels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-strategies-for-clearer-facebook-live-footage-viewing/"><u>2024 Approved Strategies for Clearer Facebook Live Footage Viewing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-started-easy-video-intros-available-for-2024/"><u>Getting Started Easy Video Intros Available for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/off-facebook-insights-what-they-reveal-and-when-to-turn-them-off-for-2024/"><u>Off-Facebook Insights What They Reveal & When to Turn Them Off for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-spark-20-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Spark 20 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-unbeatable-prime-day-sales-for-your-roku-streaming-box/"><u>Top Picks: Unbeatable Prime Day Sales for Your Roku Streaming Box!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncomplicating-docx-to-pdf-challenges-with-easy-steps-on-win-11-os/"><u>Uncomplicating Docx to PDF Challenges with Easy Steps on Win 11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
 </ul></div>
 

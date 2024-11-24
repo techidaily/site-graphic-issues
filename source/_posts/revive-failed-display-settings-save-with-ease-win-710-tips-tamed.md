@@ -1,7 +1,7 @@
 ---
 title: Revive Failed Display Settings Save with Ease - Win 7/10 Tips [Tamed]
-date: 2024-11-09T16:53:51.339Z
-updated: 2024-11-14T18:30:41.873Z
+date: 2024-11-19T21:06:27.089Z
+updated: 2024-11-24T12:18:42.609Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
  If you keep getting the**Unable to save display settings** error when trying to connect your PC to more than one display, you’re not alone. The good news is, it’s usually not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Unable to save display settings
 
  All the screenshots below are from**Windows 7** , but the fixes also work in**Windows 10** .
@@ -30,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change your screen resolution
@@ -51,20 +52,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -80,20 +71,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
@@ -119,18 +105,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-frolicsome-videoland-assessor/"><u>[New] 2024 Approved Frolicsome Videoland Assessor</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[Updated] In 2024, Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decrease-window-panel-size-in-win-10/"><u>Decrease Window Panel Size in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-trouble-full-screen-windows-not-shown-in-win11/"><u>Display Trouble: Full Screen Windows Not Shown in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-saving-hiccup-for-display-configurations/"><u>Fixed Saving Hiccup for Display Configurations</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-lava-yuva-3-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Lava Yuva 3</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-15-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-editing-hacks-for-visual-storytelling/"><u>In 2024, Mobile Editing Hacks for Visual Storytelling</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-close-ups-quick-minecraft-enhancements-for-2024/"><u>Mastering Close-Ups Quick Minecraft Enhancements for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-correct-win10-screen-size/"><u>Restoring Correct Win10 Screen Size</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-downloading-netflix-films-onto-your-pc-or-mac/"><u>Step-by-Step Guide: Downloading Netflix Films Onto Your PC or Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-notorious-laptop-blackwhite-display-glitch/"><u>Troubleshooting and Repairing the Notorious Laptop Black/White Display Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-directx12-stumbling-block-for-halo-infinite-startup/"><u>[FIX] DirectX12 Stumbling Block for Halo Infinite Startup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screencast-o-matic-review-everything-you-need-to-know/"><u>[New] 2024 Approved Screencast-O-Matic Review Everything You Need To Know</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-journey-logging-top-6-methods-for-minecraft-recordings-for-2024/"><u>[New] Virtual Journey Logging Top 6 Methods for Minecraft Recordings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-use-igtv-hashtags-to-get-more-followers/"><u>[Updated] 2024 Approved How to Use IGTV Hashtags to Get More Followers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streaming-success-starts-here-your-channel-gear-guide-for-2024/"><u>[Updated] Streaming Success Starts Here Your Channel Gear Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-moto-g04-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola Moto G04 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-mastered-on-quality-hub-hd/"><u>Audio Mastered on Quality Hub (HD)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-laptop-device-drivers-step-by-step-guide/"><u>Download & Update HP Laptop Device Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-hp-color-laserjet-pro-m477-drivers-for-smooth-printing-performance/"><u>Get the Official HP Color LaserJet Pro M477 Drivers for Smooth Printing Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-dead-pixels-on-displays/"><u>Overcome Dead-Pixels on Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-opaque-outcomes-in-os-devices/"><u>Overcoming Opaque Outcomes in OS Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-screen-settings-save-issue-windows-edition-vs710-fixed/"><u>Resolve Screen Settings Save Issue, Windows Edition - Vs7/10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-ms-drivers-for-winos-graphics-rendering/"><u>Solving MS Drivers for WINOS Graphics Rendering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-precision-achieved/"><u>Win11 Screen Precision Achieved</u></a></li>
 </ul></div>
 

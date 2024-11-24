@@ -1,7 +1,7 @@
 ---
 title: Angled Monitor Repair for Sideways Viewing
-date: 2024-11-08T17:33:08.778Z
-updated: 2024-11-15T02:04:22.755Z
+date: 2024-11-21T11:08:01.153Z
+updated: 2024-11-23T22:24:09.529Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -43,10 +36,7 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -58,16 +48,17 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -82,14 +73,15 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -113,19 +105,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fix-directx12-stumbling-block-for-halo-infinite-startup/"><u>[FIX] DirectX12 Stumbling Block for Halo Infinite Startup</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>[New] 10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-professional-methodology-enabling-countdown-functionality-in-obs-for-2024/"><u>[Updated] Professional Methodology Enabling Countdown Functionality in OBS for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-roadmap-to-accessing-costless-frame-videos/"><u>2024 Approved The Roadmap to Accessing Costless Frame Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-online-converter-flac-in-m4r-format-transformeren/"><u>Gratis Online Converter - Flac in M4r Format Transformeren</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-pair-your-airpods-with-a-nintendo-switch/"><u>How To Pair Your AirPods With A Nintendo Switch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-cleared-tdr-sighted-and-solved/"><u>NVIDIA Error Cleared: TDR Sighted & Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-opaque-outcomes-in-os-devices/"><u>Overcoming Opaque Outcomes in OS Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rebuilt-display-integrity-on-win11-os/"><u>Rebuilt Display Integrity on Win11 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-screen-settings-save-issue-windows-edition-vs710-fixed/"><u>Resolve Screen Settings Save Issue, Windows Edition - Vs7/10 [Fixed]</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-file-error-resolved-complete-restoration-of-missing-game-content/"><u>Steam File Error Resolved: Complete Restoration of Missing Game Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-experience/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Experience</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>Updated 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-screen-precision-achieved/"><u>Win11 Screen Precision Achieved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-issue-prevents-halo-infinite-launch/"><u>[FIXED] DX12 Issue Prevents Halo Infinite Launch</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-15-sites-offering-premium-free-vectr-and-illustration-tools-and-services-for-2024/"><u>[New] 15 Sites Offering Premium-Free Vectr and Illustration Tools & Services for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-companion-to-choosing-youtube-cameras/"><u>[New] 2024 Approved Beginner’s Companion to Choosing YouTube Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerated-armor-fixed-amd-in-tarkov-quickly/"><u>Accelerated Armor: Fixed AMD in Tarkov Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-transformar-tu-espacio-de-trabajo-instrucciones-claras-para-grabar-escritorio-con-movavi/"><u>Cómo Transformar Tu Espacio De Trabajo: Instrucciones Claras Para Grabar Escritorio Con Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/comprehensive-guide-to-cleaning-up-green-screen-footage/"><u>Comprehensive Guide to Cleaning Up Green Screen Footage</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-lenovos-display-visibility-quickly/"><u>Enhance Lenovo's Display Visibility Quickly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/harmonize-your-content-a-guide-to-musical-instagrams-for-2024/"><u>Harmonize Your Content A Guide to Musical Instagrams for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-offline-with-newcard/"><u>Monitor Offline with NewCard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nier-automata-on-pc-keep-freezing-heres-how-to-get-smooth-gameplay/"><u>Nier Automata on PC Keep Freezing? Here's How to Get Smooth Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-no-display-issue/"><u>NVIDIA No Display Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-and-fixing-crashes-in-robocop-the-future-noir-for-pc-players/"><u>Optimizing Performance and Fixing Crashes in 'RoboCop: The Future Noir' For PC Players</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-for-resolving-lenovo-screenspeed-anomalies/"><u>Techniques for Resolving Lenovo Screenspeed Anomalies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-new-looks-downloading-and-using-icons-on-ios-devices/"><u>Unlock New Looks: Downloading and Using Icons on iOS Devices</u></a></li>
 </ul></div>
 

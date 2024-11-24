@@ -1,7 +1,7 @@
 ---
 title: Mastery Over Lenovo Display Glitches
-date: 2024-11-08T21:32:13.333Z
-updated: 2024-11-13T17:45:43.295Z
+date: 2024-11-22T10:05:19.127Z
+updated: 2024-11-23T18:01:18.040Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
@@ -49,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -70,10 +75,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -84,31 +86,15 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -139,24 +125,17 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-battle-of-worthies-black-gopros-challenger-is-sony-x1000v/"><u>[New] In 2024, Battle of Worthies Black GoPro's Challenger Is Sony X1000V</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-why-testimonial-videos-boost-brand-credibility-for-2024/"><u>[New] Why Testimonial Videos Boost Brand Credibility for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tune-in-to-success-mastering-the-art-of-vocal-change-on-insta/"><u>[Updated] 2024 Approved Tune in to Success Mastering the Art of Vocal Change on Insta</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dx12-difficulty-blocking-halo-infinites-first-playable-moment/"><u>DX12 Difficulty Blocking Halo Infinite's First Playable Moment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-fixed-r9-drivers-in-w10/"><u>Enhanced Performance with Fixed R9 Drivers in W10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/enhancing-visuals-5-simple-steps-to-zoom-in-minecraft-for-2024/"><u>Enhancing Visuals 5 Simple Steps to Zoom in Minecraft for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/excessive-use-of-touch-buttons-is-problematic-a-call-for-innovative-company-approaches/"><u>Excessive Use of Touch Buttons Is Problematic - A Call for Innovative Company Approaches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expedite-your-pcs-performance-windows-11-cleansing-tips/"><u>Expedite Your PC's Performance: Windows 11 Cleansing Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fast-track-to-flawless-apex-playtime/"><u>Fast Track to Flawless Apex Playtime</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-c1900101-error-in-win10-setup/"><u>How to Eliminate C1900101 Error in Win10 Setup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-roller-champions-multiplayer-mayhem-a-step-by-step-strategy-guide-for-pc-gamers/"><u>Mastering Roller Champions Multiplayer Mayhem: A Step-by-Step Strategy Guide for PC Gamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818152861-nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-civ-5-malfunctions-pc/"><u>Rectifying Civ 5 Malfunctions PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedying-streaming-lag-in-newest-win11-version/"><u>Remedying Streaming Lag in Newest Win11 Version</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-blackscreen-in-win11/"><u>Resolved BlackScreen in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-wrangler-guide-which-is-best-for-screen-capture/"><u>The Window's Wrangler Guide: Which Is Best for Screen Capture?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformation-gratuite-de-fichiers-pgm-en-format-jpeg-en-ligne-solution-facile-avec-movavi/"><u>Transformation Gratuite De Fichiers PGM en Format JPEG en Ligne : Solution Facile Avec Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-detected-gpu/"><u>Troubleshooting Non-Detected GPU</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comparing-streams-vimeo-versus-youtube-for-2024/"><u>[Updated] Comparing Streams Vimeo Versus YouTube for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>2024 Approved Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-screens-ahead-no-more-black-windows/"><u>Clear Screens Ahead: No More Black Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-alternatives-to-cortana-in-windows-10/"><u>Exploring Alternatives to Cortana in Windows 10</u></a></li>
+<li><a href="https://win-premium.techidaily.com/fast-techniques-for-reinstating-missing-directories-on-windows-11/"><u>Fast Techniques for Reinstating Missing Directories on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-bright-on-your-lenovo/"><u>From Dark to Bright on Your Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down - How to Fix It</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-top-free-vob-video-editors-for-2024/"><u>New Unleash Your Creativity Top Free VOB Video Editors for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/size-doesnt-limit-excellence-a-comprehensive-review-of-the-iphone-12-mini-by-apple/"><u>Size Doesn't Limit Excellence: A Comprehensive Review of the iPhone 12 Mini by Apple</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-tremor-in-windows-11/"><u>Stop Screen Tremor in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-imitation-crafting-parody-videos-for-2024/"><u>The Art of Imitation Crafting Parody Videos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-leading-movie-trailer-creation-tools-for-mac-and-windows-for-2024/"><u>Updated S Leading Movie Trailer Creation Tools for Mac and Windows for 2024</u></a></li>
 </ul></div>
 

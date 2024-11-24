@@ -1,7 +1,7 @@
 ---
 title: Correcting Aspect Ratio Errors for Larger Display Screens
-date: 2024-11-11T18:18:31.749Z
-updated: 2024-11-14T16:50:36.467Z
+date: 2024-11-16T16:16:12.253Z
+updated: 2024-11-24T10:01:44.912Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ We’ve included two possible solution:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: check display settings**
 
  The stretched screen issue can be caused by faulty display settings. Follow the steps below to check the display settings.
@@ -37,6 +41,10 @@ We’ve included two possible solution:
 
 ![resolution advanced display settings](https://images.drivereasy.com/wp-content/uploads/2016/08/resolution-advanced-display-settings-600x564.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Be sure the resolution is set at the recommended level. If not, change it to the recommended solution.
 
 ![recommended resolution windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/recommended-resolution-windows-10-1-600x561.jpg)
@@ -48,10 +56,7 @@ If the problem persists, you can try to update the graphics card driver.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -71,10 +76,7 @@ If the problem persists, you can try to update the graphics card driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-498.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the graphics card driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -84,10 +86,7 @@ If the problem persists, you can try to update the graphics card driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hope the solutions above help you fix the stretched screen issue in Windows 10\. If you have any questions, please comment below. We’d love to hear of any suggestions. 🙂
@@ -109,18 +108,17 @@ If the problem persists, you can try to update the graphics card driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[New] Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-ensuring-smooth-transition-livestreaming-old-videos-on-fb/"><u>[Updated] Ensuring Smooth Transition Livestreaming Old Videos on FB</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-effortless-background-management-for-cohesive-remote-collaborations/"><u>[Updated] In 2024, Effortless Background Management for Cohesive Remote Collaborations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-photo-customization-exclusive-list-of-stickers-for-ios-and-android-devices/"><u>2024 Approved Top Photo Customization Exclusive List of Stickers for iOS & Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-the-apple-iphone-release-join-us-for-a-sneak-peek-at-innovation/"><u>All About the Apple iPhone Release – Join Us for a Sneak Peek at Innovation!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-stories-expanding-audiences-top-three-methods-for-2024/"><u>Engaging Stories, Expanding Audiences Top Three Methods for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-v29-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo V29 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-post-update-black-screen-issue-on-windows-10/"><u>Resolve Post-Update Black Screen Issue on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-amd-gpu-missing-in-windows-11-setup/"><u>Resolved: AMD GPU Missing in Windows 11 Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-gtx-43-code-issue-on-nvidia-geforce-950-under-windows-10-operating-system/"><u>Resolving the 'GTX 43 Code' Issue on NVIDIA GeForce 950 Under Windows 10 Operating System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-gtx/"><u>Resolving the GTX</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/windows-11-stepping-out-of-the-clip-as-photos/"><u>Windows 11 Stepping Out of the Clip as Photos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-prime-10-list-of-incredible-mac-friendly-monitors/"><u>[Updated] In 2024, The Prime 10 List of Incredible Mac-Friendly Monitors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-the-glare-not-your-patience-fix-monitor-flicker/"><u>Cut the Glare, Not Your Patience: Fix Monitor Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4s-windows-woes-simplified/"><u>Fixing Fallout 4'S Windows Woes Simplified</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-malfunction-resolved-screen-responding/"><u>GPU Malfunction Resolved: Screen Responding</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nokia-c12-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nokia C12</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/keep-the-sparkle-alive-sustaining-your-snapchat-streak/"><u>Keep the Sparkle Alive Sustaining Your Snapchat Streak</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-windows-11-starting-up-in-safe-mode-using-four-unique-techniques-illustrated-with-images/"><u>Mastering Windows 11: Starting Up in Safe Mode Using Four Unique Techniques Illustrated with Images</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/roller-champions-multiplayer-mastery-the-comprehensive-guide-to-cross-platform-gaming-pc/"><u>Roller Champions Multiplayer Mastery: The Comprehensive Guide to Cross-Platform Gaming (PC)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/schritt-fur-schritt-anleitung-zum-kopieren-von-dvd-inhalten-auf-pcs-unter-windows-10-bzw-mac-os-maximale-effizienz-sicherstellen/"><u>Schritt-Für-Schritt-Anleitung Zum Kopieren Von DVD-Inhalten Auf PCs Unter Windows 10 Bzw. Mac OS: Maximale Effizienz Sicherstellen!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-flashing-windows-10-problems/"><u>Solving the Flashing Windows 10 Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-android-with-voice-command-ai-installing-the-powerful-voicegpt-app/"><u>Transform Your Android with Voice Command AI: Installing the Powerful VoiceGPT App</u></a></li>
 </ul></div>
 

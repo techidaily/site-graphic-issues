@@ -1,7 +1,7 @@
 ---
 title: Overcoming Flicker Issues in Windows 7
-date: 2024-11-12T01:24:49.223Z
-updated: 2024-11-15T02:37:14.463Z
+date: 2024-11-22T17:04:10.146Z
+updated: 2024-11-24T00:16:22.560Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 ## Overcoming Flicker Issues in Windows 7
 
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,23 +49,17 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Check for hardware issues
 
@@ -89,6 +87,10 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -100,25 +102,15 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
@@ -131,19 +123,6 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -178,17 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-convert-instagram-videos-into-audio-clips-mp3/"><u>[New] Convert Instagram Videos Into Audio Clips (MP3)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-laptop-not-using-gpu-windows-1011/"><u>[SOLVED] Laptop Not Using GPU Windows 10/11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>[Updated] Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-uninterrupted-snapstreaks-achievable-or-impossible-for-2024/"><u>[Updated] Uninterrupted Snapstreaks Achievable or Impossible for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-your-photos-with-iphones-hdr-capabilities/"><u>2024 Approved Illuminating Your Photos with iPhone’s HDR Capabilities</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-maximizing-viewing-experience-in-android/"><u>2024 Approved Maximizing Viewing Experience in Android</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-c67-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme C67 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-maps-to-mastery-terrarias-quintessential-gold-hunt/"><u>In 2024, Maps to Mastery Terraria's Quintessential Gold Hunt</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-natural-display-ratios-for-widescreen-pcs-running-win10/"><u>Restoring Natural Display Ratios for Widescreen PCs Running Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-essential-fixes-for-youtubes-chroma-key-troubles/"><u>The Essential Fixes for YouTube's Chroma Key Troubles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tracing-sentimental-codes-in-artificayer-emotion-interaction/"><u>Tracing Sentimental Codes in Artificayer-Emotion Interaction</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-plus-nvidia-card-conflict-overcome/"><u>Win11 + NVidia Card: Conflict Overcome</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-free-srt-excellence-our-top-8-picks/"><u>[New] Discovering Free SRT Excellence Our Top 8 Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-growth-odyssey-of-ajey-nagar-on-youtube-for-2024/"><u>[Updated] The Growth Odyssey of Ajey Nagar on YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-taken-for-a-20mb-video-playback/"><u>2024 Approved Time Taken for a 20MB Video Playback</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-installer-hurdle-for-nvidia/"><u>Conquered Installer Hurdle for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-glitchy-views-end-monitor-flicker-annoyances/"><u>Conquering Glitchy Views: End Monitor Flicker Annoyances</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-effective-powerhouse-gaming-computers-of-the-year-expert-picks-for-2n4-guided-by-zdnet/"><u>Cost-Effective Powerhouse Gaming Computers of the Year: Expert Picks for 2N4 | Guided by ZDNET</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-error-uncovered-direct-x-fixed-in-lol/"><u>Hidden Error Uncovered - Direct X Fixed in LoL</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-right-sound-for-movie-previews/"><u>In 2024, Finding the Right Sound for Movie Previews</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/leveraging-text-messaging-tools-for-enhanced-business-communication-a-guide-with-massmail-2009/"><u>Leveraging Text Messaging Tools for Enhanced Business Communication: A Guide with MassMail (2009)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hurdles-for-smooth-graphics-on-win10nvidia/"><u>Overcoming Hurdles for Smooth Graphics on Win10/Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quickly-discard-outdated-graphics-drivers-windows-style/"><u>Quickly Discard Outdated Graphics Drivers, Windows-Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-initialization-for-direct3d/"><u>Resolved Initialization for Direct3D</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-xbox-series-s-big-performance-in-a-small-box-is-it-worth-it/"><u>Review of Xbox Series S: Big Performance in a Small Box – Is It Worth It?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-extended-display-in-win10-environments/"><u>Stabilizing Extended Display in Win10 Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/systems-graphics-adapter-fixed/"><u>System's Graphics Adapter Fixed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95639095-9780750981316-the-borley-rectory-companion/"><u>The Borley Rectory Companion | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-atandt-mobile-plans-and-offers-exclusive-savings-in-may-2024/"><u>Top AT&T Mobile Plans & Offers: Exclusive Savings in May 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-gfxui-reset-completed-and-working/"><u>Windows GfxUI Reset Completed and Working</u></a></li>
 </ul></div>
 

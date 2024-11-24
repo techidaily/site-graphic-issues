@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence"
-date: 2024-11-07T19:09:10.876Z
-updated: 2024-11-14T20:00:30.661Z
+date: 2024-11-20T06:10:24.842Z
+updated: 2024-11-24T04:15:05.419Z
 tags:
   - win11
   - win10
@@ -33,10 +33,7 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
@@ -75,10 +72,18 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -111,10 +116,7 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
@@ -122,13 +124,6 @@ You need to check 2 elements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -157,24 +152,14 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -193,20 +178,19 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-30-metaverse-phenomena-making-your-mark-with-memes/"><u>[New] 30 Metaverse Phenomena Making Your Mark with Memes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-mhw-crash-code-12-graphics-armageddon-ended/"><u>[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-archive-guide-10-top-methods-to-capture-online-music/"><u>Comprehensive Archive Guide 10 Top Methods to Capture Online Music</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-unknown-speaker-setup-challenges-on-windows-11-systems/"><u>Easy Fixes for Unknown Speaker Setup Challenges on Windows 11 Systems</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/embarking-on-a-digital-persona-makeover-tiktok-username-transformation-techniques/"><u>Embarking on a Digital Persona Makeover TikTok Username Transformation Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-dim-issue/"><u>How to Fix Lenovo Laptop Screen Dim Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-clear-screen-view-on-dell-notebook-pcs/"><u>Restored Clear Screen View on Dell Notebook PCs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-to-adding-fusion-extension-in-kodi-versions-19-and-18/"><u>Step-by-Step Guide to Adding Fusion Extension in Kodi Versions 19 and 18</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-to-overcome-youtubes-bluish-background-blues/"><u>Strategies to Overcome YouTube's Bluish Background Blues</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-mkv-to-mp4-format-change-on-pcs/"><u>Streamline: MKV to MP4 Format Change on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-installed-nvidia-drivers-again/"><u>Successfully Installed NVIDIA Drivers Again</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-jabra-voice-rapid-charges-enduring-talks/"><u>Unboxing Jabra Voice: Rapid Charges, Enduring Talks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/undetected-graphics-card-problem/"><u>Undetected Graphics Card Problem</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-itel-p40-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Itel P40 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-9a-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 9A Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-knowledge-for-saving-app-activity/"><u>[New] In 2024, Essential Knowledge for Saving App Activity</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-art-of-high-quality-sound-recording-via-audacity-for-2024/"><u>[New] The Art of High-Quality Sound Recording via Audacity for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-dx12-crash-in-halos-launch-sequence/"><u>[RESOLVED] DX12 Crash in Halo's Launch Sequence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/"><u>[Updated] 2024 Approved Tips for Posting Wide Angle Photos to Facebook From Smartphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>2024 Approved Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/compatibility-between-win11-and-nvidia-secured/"><u>Compatibility Between Win11 & NVIDIA Secured</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-controller-issue-addressed-and-fixed/"><u>Display Controller Issue Addressed and Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-hybrid-gpu-errors-in-windows-11/"><u>Eliminating Hybrid GPU Errors in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guarantee-savable-screen-preferences-win-710-fix-guide-resolved/"><u>Guarantee Savable Screen Preferences: Win 7/10 Fix Guide [Resolved]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selective-focus-topiphoto-blurrers-revealed/"><u>In 2024, Selective Focus Topiphoto Blurrers Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kostenloze-mp4-to-wmv-conversie-ophefstoeltijd-professionele-oplossingen/"><u>Kostenloze MP4-to-WMV Conversie Ophefstoeltijd - Professionele Oplossingen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-2-local-setup-instructions-for-beginners-and-pros-alike/"><u>Llama 2 Local Setup Instructions for Beginners and Pros Alike</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-minimum-requirements-barrier-with-intel-graphics/"><u>Overcome Minimum Requirements Barrier with Intel Graphics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pioneering-apps-for-diverse-game-file-logging-needs-for-2024/"><u>Pioneering Apps for Diverse Game File Logging Needs for 2024</u></a></li>
 </ul></div>
 
