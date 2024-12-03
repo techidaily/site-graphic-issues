@@ -1,7 +1,7 @@
 ---
 title: Win11 Shadowed, Cursor Emerges
-date: 2024-10-15T19:56:46.515Z
-updated: 2024-10-18T08:16:39.251Z
+date: 2024-12-01T02:39:11.134Z
+updated: 2024-12-03T04:38:53.443Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
 
  There are six possible solutions for this problem. You may not have to try them all – just work your way down the list until you find the fix that works for you.
@@ -32,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
@@ -53,13 +54,6 @@ If you’re on a laptop:
  If this doesn’t work (or you’re on a desktop PC), try Fix 2 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your graphics drivers**
 
@@ -86,20 +80,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
 
@@ -118,10 +102,7 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
@@ -141,10 +122,7 @@ If you’re on a laptop:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
@@ -160,27 +138,21 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -228,6 +200,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -257,6 +233,11 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
@@ -280,22 +261,18 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ideal-steadicams-for-uav-aerial-cinematography/"><u>[New] In 2024, Ideal Steadicams for UAV Aerial Cinematography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>[Updated] In 2024, Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/add-flair-with-gifs-on-snapchat-a-comprehensive-walkthrough-for-2024/"><u>Add Flair with GIFs on Snapchat – A Comprehensive Walkthrough for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crystal-clear-windows-anytime/"><u>Crystal Clear Windows Anytime</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-load-screens-in-civ-5/"><u>Fixing Load Screens in CIV 5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flawless-driver-update-for-win11-and-intels-graphic/"><u>Flawless Driver Update for Win11 and Intels Graphic</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-the-potential-ps4-recording-techniques-in-obs/"><u>In 2024, Unlocking the Potential PS4 Recording Techniques in OBS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intel-gpu-update-steps-for-windows-users/"><u>Intel GPU Update Steps for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-live-view-a-comprehensive-guide-to-navigating-with-google-maps/"><u>Mastering Live View: A Comprehensive Guide to Navigating with Google Maps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-screen-glitches-in-surface-pro-7/"><u>Overcoming Screen Glitches in Surface Pro 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-brilliance-blackened-lenovo-fixed/"><u>Restore Brilliance - Blackened Lenovo Fixed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-latest-hid-keyboard-driver-with-ease/"><u>Step-by-Step Guide: Installing the Latest HID Keyboard Driver with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-meme-magic-kinemaster-edition-for-2024/"><u>Unlocking Meme Magic KineMaster Edition for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-if-you-want-to-download-some-free-pc-and-android-games-here-is-a-list-of-10-best-free-websites-to-providing-free-games-available-for-download-for-20/"><u>Updated If You Want to Download some Free PC and Android Games, Here Is a List of 10 Best Free Websites to Providing Free Games Available for Download for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upturnmonitorimage-advice/"><u>UpturnMonitorImage Advice</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-not-showing-full-screen-fix/"><u>Windows 11 Not Showing Full Screen, Fix?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-film-cameras-buyers-guide-for-all-skills/"><u>[New] In 2024, The Ultimate Film Cameras Buyers Guide for All Skills</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4/"><u>[New] In 2024, Unlocking Content Easy Downloads of Vimeo HD Videos (MP4)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-value-of-a-million-viewing-spree-on-youtube/"><u>[New] The Value of a Million-Viewing Spree on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-beat-the-norm-with-mac-audio-guide/"><u>2024 Approved Beat the Norm with Mac Audio Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-a-quick-guide-for-asus-laptops/"><u>Banishing Black Screens: A Quick Guide for Asus Laptops</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-free-webcam-background-replacers-top-7-picks/"><u>Best Free Webcam Background Replacers: Top 7 Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-easy-installation-of-the-latest-apple-magic-mouse-drivers-on-pcs-windows/"><u>Download & Easy Installation of the Latest Apple Magic Mouse Drivers on PCs (Windows)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-controls-in-win11/"><u>Enhanced Screen Resolution Controls in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jumpstart-your-gaming-with-latest-hd-6950-w11-drivers/"><u>Jumpstart Your Gaming with Latest HD 6950 W11 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigating-performance-drops-civ-5-computer/"><u>Mitigating Performance Drops, CIV 5 Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-os-drivers-blues-stop-winblue-screen/"><u>Overcoming OS Drivers Blues: Stop WinBlue Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/reconstructing-the-windows-icon-database/"><u>Reconstructing the Windows Icon Database</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplifying-intel-graphics-driver-upgrade-on-windows-7/"><u>Simplifying Intel Graphics Driver Upgrade on Windows 7</u></a></li>
 </ul></div>
 

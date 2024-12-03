@@ -1,7 +1,7 @@
 ---
 title: Monitor Displays Windows Largely, Not Wholely on Win11
-date: 2024-11-17T08:52:22.402Z
-updated: 2024-11-24T11:25:22.930Z
+date: 2024-11-27T04:41:32.518Z
+updated: 2024-12-02T17:39:44.025Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the settings your application
 
  If full screen is not displaying when you’re running applications like video play software or video games, that’s quite normal, since many applications like video players or game programs have relevant full screen settings. So be sure to**turn ON full screen for that application** . The steps to enable full screen mode varies from applications, so we won’t cover it here. If you have difficulty finding the full screen settings, please head to the software developers.
@@ -51,12 +55,16 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
@@ -66,6 +74,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-484.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Under the**Scale and layout** section, **Change the size of text, apps, and other items 100% (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
@@ -74,17 +86,9 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
 
@@ -95,6 +99,10 @@ Here’s what you need to do:
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -116,29 +124,17 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -150,6 +146,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
@@ -158,13 +158,13 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
@@ -200,22 +200,22 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-the-best-equipment-for-precise-zoom-recording-for-2024/"><u>[New] The Best Equipment for Precise Zoom Recording for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-ranked-switch-console-simulations-online/"><u>[New] Top-Ranked Switch Console Simulations Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brilliant-displays-how-to-stop-screen-flickering/"><u>Brilliant Displays: How to Stop Screen Flickering</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/exploring-the-top-7-voice-customization-applications-for-2024/"><u>Exploring the Top 7 Voice Customization Applications for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-amd-driver-on-win10-after-initial-loading-error/"><u>Fixed AMD Driver on Win10 After Initial Loading Error</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-2020-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-spark-10-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Spark 10 Pro Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leverage-your-voice-five-strategies-to-manage-chatgpt/"><u>Leverage Your Voice: Five Strategies to Manage ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-chrome-to-windows-11-a-step-by-step/"><u>Navigating Chrome to Windows 11: A Step-by-Step</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-direct3d-lag-enhanced-rendering-unlocked/"><u>No More Direct3D Lag: Enhanced Rendering Unlocked</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-and-intel-synchro-on-win10-end-of-switchable-graphics-woes/"><u>NVIDIA & Intel Synchro on Win10: End of Switchable Graphics Woes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimal-video-saver-best-chromebook-recorder/"><u>Optimal Video Saver Best Chromebook Recorder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rapid-reinstatement-of-apexs-perfection/"><u>Rapid Reinstatement of Apex's Perfection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refreshdisplayinvertedcorrection/"><u>RefreshDisplayInvertedCorrection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-switchable-graphics-issue-on-windows-11/"><u>Resolving Switchable Graphics Issue on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tracing-the-msi-graphics-card-omission/"><u>Tracing the MSI Graphics Card Omission</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-clockwatchdogtimeout-errors-and-bsod-crashes-in-windows-10/"><u>Troubleshooting CLOCK_WATCHDOG_TIMEOUT Errors & BSOD Crashes in Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-audio-first-video-second-comparing-podcast-vs-youtube-for-2024/"><u>[New] Audio First, Video Second? Comparing Podcast vs YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-igtv-impact-effective-tips-for-vertical-video-conversion-for-2024/"><u>[New] Maximizing IGTV Impact Effective Tips for Vertical Video Conversion for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tips-for-creating-stunning-slow-motion-content-on-instagram/"><u>[New] Tips for Creating Stunning Slow Motion Content on Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-usb-c-revolution-with-lgs-ultra-hd-tv-the-27ud88/"><u>[Updated] 2024 Approved USB-C Revolution with LG's Ultra HD TV, the 27UD88</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fighting-on-the-go-nintendos-best-switch-fighters/"><u>[Updated] Fighting on the Go Nintendo's Best Switch Fighters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>[Updated] Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-peak-performance-high-end-webcams-for-quality-live-streams-on-twitch/"><u>[Updated] In 2024, Capture Peak Performance High-End Webcams for Quality Live Streams on Twitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/"><u>Eliminating Blurry Displays with Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-pixel-gap-phenomena-computer-screens/"><u>Fix Pixel Gap Phenomena (Computer Screens)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-update-2024-discover-the-latest-features-in-rainbow-six-siege/"><u>Free Update 2024: Discover the Latest Features in Rainbow Six Siege</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-maintaining-clear-views-in-win7/"><u>Master the Art of Maintaining Clear Views in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-flaky-asus-webcam-features/"><u>Reactivating Flaky ASUS Webcam Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-upside-down-in-windows-11-screens/"><u>Rectify Upside Down in Windows 11 Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-integration-issues-of-nvidia-and-intel-graphic-cards-on-win10/"><u>Resolved Integration Issues of Nvidia & Intel Graphic Cards on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-direct3d-deployment-achieved/"><u>Seamless Direct3D Deployment Achieved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-game-proposals-with-ease-in-win11/"><u>Stop Game Proposals with Ease in Win11</u></a></li>
 </ul></div>
 

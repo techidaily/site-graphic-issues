@@ -1,7 +1,7 @@
 ---
 title: Rectify Upside-Down Screens on Windows
-date: 2024-10-15T17:31:24.271Z
-updated: 2024-10-18T14:01:12.310Z
+date: 2024-11-29T18:05:18.452Z
+updated: 2024-12-03T03:00:00.182Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
 Your screen was**turned upside down**? Don’t worry … Although this is annoying, you’re definitely not the only one to experience the problem. Lots of**Windows 7**users have reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 The following is a list of fixes that have resolved this problem for other Windows 7 users. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,22 +34,13 @@ The following is a list of fixes that have resolved this problem for other Windo
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restore your screen rotation with a keyboard shortcut
 
 This is the simplest way to fix your screen issue: Hold down the**Ctrl**and**Alt**keys on your keyboard, then press the**up arrow key**. This should change your screen orientation back to the normal one. If this didn’t work for you, you may need to try changing your screen rotation in your display settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your screen rotation in your display settings
 
@@ -57,14 +52,12 @@ To change your screen rotation in your system display settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd030adee89c.jpg)
 3. Click**OK** .
-This should restore your screen orientation. If not, or if you want to prevent this issue from happening again, you may need to try the method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+This should restore your screen orientation. If not, or if you want to prevent this issue from happening again, you may need to try the method below.
 
 ### Fix 3: Update your graphics driver
 
@@ -76,20 +69,14 @@ You may have a screen upside down issue even if you didn’t do anything wrong. 
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -113,16 +100,22 @@ You may have a screen upside down issue even if you didn’t do anything wrong. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-elevate-note-taking-experience-mematic/"><u>[New] In 2024, Elevate Note-Taking - Experience Mematic</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exclusive-access-top-8-platforms-for-free-green-screen-scenery-files/"><u>[New] In 2024, Exclusive Access Top 8 Platforms for Free Green Screen Scenery Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breaking-news-enhanced-graphics-on-windows-11-amd-hd-6950/"><u>Breaking News: Enhanced Graphics on Windows 11, AMD HD 6950</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-compatibility-fixed-seamless-operation-restored/"><u>Direct3D Compatibility Fixed - Seamless Operation Restored</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-amd-radeon-r9-driver-crashes-in-win11-resolved/"><u>Fixing AMD Radeon R9 Driver Crashes in Win11 [Resolved]</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-bypass-an-iphones-forgotten-passcode-a-step-by-step-guide-techexpert-tips/"><u>How to Bypass an iPhone's Forgotten Passcode: A Step-by-Step Guide | TechExpert Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-simplified-srt-transformation-from-ttml-xml-and-ssa/"><u>In 2024, Simplified SRT Transformation From TTML, XML & SSA</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-rtx-2080-super-graphics-driver-download-for-windows-10-and-11/"><u>Latest NVIDIA GeForce RTX 2080 Super Graphics Driver Download for Windows 10 & 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-ripple-in-monitors/"><u>Stop Screen Ripple in Monitors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment/"><u>[New] 2024 Approved Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unmasked-photos-simple-blur-solutions-with-piscart/"><u>[New] 2024 Approved Unmasked Photos Simple Blur Solutions with PiscArt</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-8-best-open-source-video-conferencing-software-for-enterprise/"><u>[New] 8 Best Open Source Video Conferencing Software for Enterprise</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevating-video-revenue-youtubes-path/"><u>[Updated] In 2024, Elevating Video Revenue YouTube's Path</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-embed-youtube-in-your-gslides-presentation/"><u>2024 Approved How to Embed YouTube in Your GSlides Presentation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-winbluescreen-tackle-wdf-api-crashes-on-windows/"><u>Banish WinBlueScreen: Tackle WDF API Crashes on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max/"><u>Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-solution-amds-tarkov-glitch-fix/"><u>Immediate Solution: AMD's Tarkov Glitch Fix</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-90-lite-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor 90 Lite to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-integrating-azure-transcription-in-your-apps/"><u>In 2024, Integrating Azure Transcription in Your Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mystery-direct-x-issue-culprit-identified-in-leagues-realm/"><u>Mystery Direct X Issue: Culprit Identified in League's Realm</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-amd-in-tarkov-quick-graphics-cure/"><u>Resolve AMD in Tarkov: Quick Graphics Cure</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-12-pro-max-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 12 Pro Max Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-screen-stabilize-horizontal-edges/"><u>Transform Your Screen - Stabilize Horizontal Edges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-win10-expert-guide-to-flawless-streaming/"><u>Upgraded Win10 - Expert Guide to Flawless Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-issues-end-with-windows-10-update/"><u>Video Issues End with Windows 10 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-forgotten-ui-elements-now-showing-up/"><u>Win10's Forgotten UI Elements: Now Showing Up</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: OpenGL & TDR Alert Overcome - Thanks to NVIDIA!
-date: 2024-11-21T17:14:01.598Z
-updated: 2024-11-23T18:15:36.530Z
+date: 2024-11-26T02:10:24.164Z
+updated: 2024-12-02T17:58:13.382Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
@@ -57,13 +57,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
@@ -83,11 +83,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -98,7 +98,7 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
@@ -110,15 +110,15 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,18 +144,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-a-primer-on-selecting-superior-free-srt-translator-platforms-for-2024/"><u>[New] A Primer on Selecting Superior Free SRT Translator Platforms for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-time-efficient-methods-for-recording-vimeo-videos/"><u>[Updated] 2024 Approved Time-Efficient Methods for Recording Vimeo Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-how-to-change-video-speed-on-instagram-stories/"><u>2024 Approved How to Change Video Speed on Instagram Stories?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/download-nvidias-new-gtx-1060-drivers/"><u>Download Nvidia's New GTX 1060 Drivers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-titans-of-social-networking-a-look-at-facebook-twitter-instagram-and-youtube-strategies/"><u>Exploring the Titans of Social Networking: A Look at Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-note-30-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix Note 30 Pro Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-3-ways-to-record-itunes-videos/"><u>In 2024, 3 Ways to Record iTunes Videos</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-beginners-guide-to-audio-editing-in-final-cut-pro/"><u>In 2024, A Beginners Guide to Audio Editing in Final Cut Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-fluctuating-light-asus-display-repair-tips/"><u>No More Fluctuating Light: ASUS Display Repair Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-low-brightness-lenovo-screens/"><u>Rectifying Low-Brightness Lenovo Screens</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-pop-7-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Pop 7 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-non-functioning-scroll-buttons-in-synaptics-mouse-pad-for-windows-10-users/"><u>Solving Non-Functioning Scroll Buttons in Synaptics Mouse Pad for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-fix-for-blinky-beasts/"><u>The Ultimate Fix for Blinky Beasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-and-clever-sharing-gifs-on-snapchat-made-simple/"><u>[New] Quick & Clever Sharing GIFs on Snapchat Made Simple</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-10-premium-yoga-channels-for-ultimate-fitness-journey/"><u>[Updated] In 2024, 10 Premium Yoga Channels for Ultimate Fitness Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybernetic-sleuths-quest-unveil-secrets-in-4-digital-realms/"><u>Cybernetic Sleuths' Quest: Unveil Secrets in 4 Digital Realms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-setback-eliminated-full-gaming-power-unlocked/"><u>Direct3D Setback Eliminated: Full GAMING Power Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-no-more-error-12-in-mhw-solved/"><u>Graphics Glitch No More: Error 12 in MHW Solved</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-z-fold-5-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy Z Fold 5 is off? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-connoisseur-of-funimate-games/"><u>In 2024, From Novice to Connoisseur of Funimate Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-11x-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme 11X 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2022-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2022) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-fuzz-winview-revised/"><u>No More Fuzz: WinView Revised</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rescuing-deleted-sms-universal-phone-methods-revealed/"><u>Rescuing Deleted SMS: Universal Phone Methods Revealed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-flexible-monitor-resolution-now-solved/"><u>Restoring Flexible Monitor Resolution - Now Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turn-upside-down-displays-right-again-in-windows-10/"><u>Turn Upside Down Displays Right Again in Windows 10</u></a></li>
 </ul></div>
 

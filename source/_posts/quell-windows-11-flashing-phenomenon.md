@@ -1,7 +1,7 @@
 ---
 title: Quell Windows 11 Flashing Phenomenon
-date: 2024-10-13T13:59:53.473Z
-updated: 2024-10-18T10:08:04.886Z
+date: 2024-11-30T04:29:17.705Z
+updated: 2024-12-02T18:21:04.061Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -40,23 +44,29 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -84,6 +94,10 @@ Here is how to change the monitor refresh rate:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -94,32 +108,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -128,6 +121,10 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -166,25 +163,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -213,24 +196,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques/"><u>[New] In 2024, Cementing Your Place in YouTube by Mastering Creative Studio Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>[Updated] In 2024, Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-mic-recommendations-for-professional-4k-recording/"><u>2024 Approved Essential Mic Recommendations for Professional 4K Recording</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10-flash-dilemma/"><u>Addressing Windows 10 Flash Dilemma</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/card-not-detected-error-alerted/"><u>Card Not Detected, Error Alerted</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-clearing-past-issues/"><u>Direct3D Startup: Clearing Past Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-secrets-of-enjoying-netflix-at-zero-price-heres-how/"><u>Discover the Secrets of Enjoying Netflix at Zero Price - Here's How!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-the-vivid-world-with-curved-images/"><u>Exploring the Vivid World with Curved Images</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-hidden-advanced-options-in-win10-display/"><u>Fixing Hidden Advanced Options in Win10 Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818300815-how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-rumors-of-the-new-google-pixel-model-forecast-pricing-arrival-dates-and-technical-specifications/"><u>Inside Rumors of the New Google Pixel Model: Forecast Pricing, Arrival Dates & Technical Specifications</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-malfunction-rectified-driver-running/"><u>Monitor Malfunction Rectified: Driver Running</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-10plus-best-video-editing-apps-for-kids/"><u>New 2024 Approved 10+ Best Video Editing Apps for Kids</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-inaccessible-monitor-configurations-in-nvidia/"><u>Tackling Inaccessible Monitor Configurations in Nvidia</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-oculus-quest-2-elite-enhanced-strap-additional-charger-and-secure-carrying-bag-reviewed/"><u>The Ultimate Guide to the Oculus Quest 2 Elite: Enhanced Strap, Additional Charger and Secure Carrying Bag Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turbocharge-your-pc-update-intel-gfx-on-win11-now/"><u>Turbocharge Your PC - Update Intel GFX on Win11 Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-13c-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi 13C 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817906327-solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-fix-chromium-and-youtube-streams-for-2024/"><u>[Updated] Fix Chromium and YouTube Streams for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-rectified-in-monitor-driver/"><u>Error Rectified in Monitor Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-code-vein-screen-flickering-a-step-by-step-guide/"><u>Fixing Code Vein Screen Flickering: A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-dx12-error-in-new-halo-infinites-release/"><u>Halted: DX12 Error in New Halo Infinite's Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hasten-installing-intel-gfx-3000-on-windows-10/"><u>Hasten Installing Intel GFX 3000 on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-n3-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-google-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Google Android SIM Unlock APK</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-to-reach-windows-10s-advanced-boot-options-easily/"><u>Simplified Steps to Reach Windows 10'S Advanced Boot Options Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-resource-protection-unable-to-begin-fixing-files-error/"><u>Solution Steps for 'Windows Resource Protection' Unable To Begin Fixing Files Error</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-gionee-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Gionee FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

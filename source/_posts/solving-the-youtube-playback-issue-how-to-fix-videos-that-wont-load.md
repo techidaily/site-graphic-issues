@@ -1,7 +1,7 @@
 ---
 title: "Solving the YouTube Playback Issue: How to Fix Videos That Won't Load"
-date: 2024-11-20T22:40:53.733Z
-updated: 2024-11-24T09:38:27.822Z
+date: 2024-11-25T19:00:08.639Z
+updated: 2024-12-03T04:24:44.849Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  If you’re greeted with a BLACK green when trying to stream some video on YouTube, don’t panic. Here’re 6 fixes that have helped other users resolve this problem. So read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for YouTube Video Not Showing
 
  All the screenshots below are from **Windows 10** , but the fixes also work in **Windows 8.1**   and **7** .
@@ -32,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 5. [**Delete the app data**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Update your browser**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 1: Check your Internet connection
 
  Sometimes poor Internet connection is behind this YouTube video black screen problem. So make sure your computer is well connected to a working Internet connection. Then re-launch your browser to see if this fixes the video not showing on YouTube issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 2: Stream videos without signing in YouTube or try the incognito mode
 
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 2. Open a video in YouTube and see if it displays without fail.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics driver
 
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer, play a video in YouTube to see if it works properly now.
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 4: Change the hardware acceleration
@@ -106,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
@@ -126,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 5: Delete the app data
 
@@ -146,13 +150,13 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 1. On your keyboard, press**the**    **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R** at the same time. Then copy & paste**%appdata%** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766fc6d2ecc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**AppData** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76707531fa7.jpg)
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 6: Update your browser
 
@@ -206,22 +206,24 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-of-video-studios-xreview-analysis/"><u>[New] Behind the Scenes of Video Studios XReview Analysis</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-speed-shots-and-stills-quicktime-techniques-for-samsung-users-for-2024/"><u>[New] Speed Shots & Stills Quicktime Techniques for Samsung Users for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-ranked-video-recorders-face-camera-for-2024/"><u>[Updated] Top-Ranked Video Recorders Face Camera for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-winning-strategies-the-complete-vegas-pro-21-review/"><u>[Updated] Winning Strategies The Complete Vegas Pro '21 Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-flash-on-win11-display/"><u>Banish Flash on Win11 Display</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-to-overcome-connection-problems-with-skype-discover-our-top-10-fixes/"><u>Expert Tips to Overcome Connection Problems with Skype - Discover Our Top 10 Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-far-cry-6-blurry-texture-issue/"><u>How to Fix Far Cry 6 Blurry Texture Issue</u></a></li>
-<li><a href="https://extra-support.techidaily.com/layering-and-shifting-photo-letters-for-2024/"><u>Layering & Shifting Photo Letters for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-winblueerror-correct-windows-wdf-api-problems/"><u>Overcome WinBlueError: Correct Windows WDF API Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/power-play-essential-10-motivational-films/"><u>Power Play Essential 10 Motivational Films</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-new-drivers-for-windows-10-users/"><u>Radeon HD 6950: New Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-ensuring-continuous-functionality-for-windows-updates/"><u>Resolved! Ensuring Continuous Functionality for Windows Updates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-nvidia-and-windows-11-discrepancy/"><u>Resolving NVIDIA & Windows 11 Discrepancy</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/slash-size-of-windows-screen-in-win-10/"><u>Slash Size of Windows Screen in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-application-of-displays-settings-save/"><u>Successful Application of Displays Settings Save</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-and-tricks-for-enhancing-frames-per-second-fps-in-tainted-grail-conquest-gameplay/"><u>Tips and Tricks for Enhancing Frames Per Second (FPS) in Tainted Grail: Conquest Gameplay</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-a-crystal-cleared-twitch-stream/"><u>Unlock a Crystal-Cleared Twitch Stream</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhancing-mac-use-top-5-recommended-sniping-apps/"><u>[Updated] In 2024, Enhancing Mac Use Top 5 Recommended Sniping Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aging-gracefully-with-multilingual-skills/"><u>Aging Gracefully With Multilingual Skills</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-pro-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 Pro activation lock without previous owner</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-compelling-compositions-with-magix-fruity-loops-for-2024/"><u>Crafting Compelling Compositions with Magix Fruity Loops for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/devices-to-device-guide-for-google-meet-participation-for-2024/"><u>Devices to Device Guide for Google Meet Participation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1724766577504-digiarty-18/"><u>Digiarty: 祝開業18週年スペシャルコレクション</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-detect-missing-graphics-chips/"><u>Guide to Detect Missing Graphics Chips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-quickly-and-easily-share-a-youtube-playlist-for-2024/"><u>How to Quickly And Easily Share A YouTube Playlist for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-13-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 13 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/keeping-rtx-3080-gaming-smooth/"><u>Keeping RTX 3080 Gaming Smooth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-noise-to-notes-dawnenas-daw-with-chatgpt/"><u>Navigating Noise to Notes: Dawn'enas DAW with ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-visual-output-new-gpu/"><u>No Visual Output - New GPU?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-normal-functionality-to-wins-ui-graphics/"><u>Restored Normal Functionality to Win's UI Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-realignment-achieved-in-tablet-mode/"><u>Screen Realignment Achieved in Tablet Mode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-performance-install-new-geforce-gtx-1060-drivers/"><u>Secure Performance: Install New GeForce GTX 1060 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-display-recovered-from-graphics-hiccup/"><u>System Display Recovered From Graphics Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tdr-alert-deactivated-with-nvidias-immediate-action/"><u>TDR Alert Deactivated with Nvidia's Immediate Action</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now!</u></a></li>
 </ul></div>
 

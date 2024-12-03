@@ -1,7 +1,7 @@
 ---
 title: Win11 Shows Half-Screen, Not Full - Fix Here
-date: 2024-11-17T00:59:16.442Z
-updated: 2024-11-23T19:14:25.070Z
+date: 2024-11-26T19:19:58.388Z
+updated: 2024-12-02T18:55:06.651Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Adjust the display settings in your computer settings
 
  If the display settings aren’t appropriate in Windows 10, you’ll also have the monitor not displaying full screen issue. To resolve it, you should adjust the Windows 10 display settings in your computer.
@@ -50,13 +54,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
@@ -70,12 +74,16 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
@@ -83,7 +91,7 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-487.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Ensure to switch**ON** next to**Let Windows try to fix apps so they’re not blurry** .
@@ -95,6 +103,10 @@ Here’s what you need to do:
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -128,10 +140,6 @@ Here’s what you need to do:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run your application in Compatibility mode
 
  If only one application or some of the applications in your computer have the full-screen issue, you can modify the software settings and set the software to run in the Compatibility mode.
@@ -146,31 +154,23 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-494.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Re-launch the application and try full-screen to see if it works.
 
 Still no luck? Okay, there is one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
 
@@ -200,18 +200,18 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fine-tune-video-playback-pace-in-instagram-stories/"><u>[New] Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-integrating-websites-into-your-instagram-presence/"><u>[Updated] Integrating Websites Into Your Instagram Presence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mouthwatering-movies-how-to-make-your-food-videography-shine/"><u>2024 Approved Mouthwatering Movies How to Make Your Food Videography Shine</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-persistent-fluctuating-light-on-asus-laptops/"><u>Banish Persistent Fluctuating Light on ASUS Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-crash-episodes-in-fallout-4-on-pc/"><u>End Crash Episodes in Fallout 4 on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-the-light-in-a-dark-laptop-monitor/"><u>Finding the Light in a Dark Laptop Monitor</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-crashes-with-high-end-nvidia-card/"><u>Prevent Crashes with High-End NVIDIA Card</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-amds-etv-bugs/"><u>Quick FIX: AMD's ETV Bugs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cience-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-edits-bottom-line-pro-guide-to-tiktok-creativity/"><u>Top Edits, Bottom Line Pro Guide to TikTok Creativity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-hidden-events-a-step-by-step-fix-for-apple-calendar-glitches/"><u>Uncover Hidden Events: A Step by Step Fix for Apple Calendar Glitches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfect-your-gameplay-tips-for-professional-minecraft-sessions-on-mac/"><u>[New] Perfect Your Gameplay Tips for Professional Minecraft Sessions on Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-video-visibility-on-youtube-through-lighting/"><u>[Updated] Maximizing Video Visibility on YouTube Through Lighting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/4-seamless-steps-to-posting-and-uploading-gifs-on-instagram/"><u>4 Seamless Steps to Posting & Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-alone-in-windows-10/"><u>Cursor Alone in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-malfunction-no-detected-card/"><u>Display Malfunction: No Detected Card</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722960656147-download-the-essential-qualcomm-atheros-ar3011-bluetooth-30-driver-software-here/"><u>Download the Essential Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Software Here</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-bsod-on-win-a-success-story/"><u>dxgkrnl.sys BSOD on Win - A Success Story</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-moto-g23-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Moto G23</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-device-creation-mishap/"><u>Rectified Device Creation Mishap</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphones-on-hold-alert-when-you-try-to-charge-a-guide-with-8-fixes/"><u>Solving iPhones’ On-Hold Alert When You Try To Charge: A Guide With 8 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-interruptions-in-win11s-live-streaming/"><u>Tackling Interruptions in Win11's Live Streaming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-capture-lifes-moments-best-time-lapse-apps-for-ios-and-android/"><u>Updated Capture Lifes Moments Best Time-Lapse Apps for iOS and Android</u></a></li>
 </ul></div>
 

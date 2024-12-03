@@ -1,7 +1,7 @@
 ---
 title: Cure for NVIDIA/Intel Graphic Swap in Win11
-date: 2024-11-19T22:56:10.826Z
-updated: 2024-11-24T06:10:01.594Z
+date: 2024-11-27T00:09:22.296Z
+updated: 2024-12-02T19:33:51.207Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
@@ -85,29 +89,21 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -122,6 +118,10 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,21 +142,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-direct-youtube-file-access-tips/"><u>[New] 2024 Approved Direct YouTube File Access Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-sonic-wonders-on-iphone/"><u>[Updated] Exploring Sonic Wonders on iPhone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-premier-chromebook-monitoring-app-for-2024/"><u>[Updated] Premier Chromebook Monitoring App for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-8-linux-friendly-video-cutters/"><u>[Updated] Top 8 Linux-Friendly Video Cutters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-stream-mastery-top-rated-tech-and-devices-guide-for-creators/"><u>2024 Approved YouTube Stream Mastery Top-Rated Tech & Devices Guide for Creators</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advance-your-skillset-god-of-war-challenge/"><u>Advance Your Skillset: 'God of War' Challenge</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dance-no-more-fixing-win11s-screen-issue/"><u>Dance No More: Fixing Win11's Screen Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dx12-problem-halts-anticipated-start-of-halo-infinite/"><u>DX12 Problem Halts Anticipated Start of Halo Infinite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-of-the-line-no-more-direct3d-rendering-setbacks/"><u>End of the Line: No More Direct3D Rendering Setbacks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminate-issues-lenovo-bs-woes/"><u>Illuminate Issues - Lenovo BS Woes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/maximizing-impact-with-googles-podcast-platform-for-2024/"><u>Maximizing Impact with Google’s Podcast Platform for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-compatibility-achieved-with-win11/"><u>Nvidia Compatibility Achieved with Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reenergize-your-gpus-spinning-partners/"><u>Reenergize Your GPU's Spinning Partners</u></a></li>
-<li><a href="https://solve-info.techidaily.com/resolvez-le-probleme-de-votre-camera-gopro-qui-ne-saffichera-pas-sur-ordinateur-sauvegarde-et-restauration-des-donnees/"><u>Résolvez Le Problème De Votre Caméra GoPro Qui Ne S'affichera Pas Sur Ordinateur : Sauvegarde Et Restauration Des Données</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ai-revolution-understanding-chatgpt/"><u>Unveiling the AI Revolution: Understanding ChatGPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[New] In 2024, Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-experience-gaming-excellence-with-kinemaster-on-android/"><u>[New] In 2024, Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-dismantling-error-0x80070570-healing-files-in-windows-11/"><u>Deciphering and Dismantling Error 0X80070570: Healing Files in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-11-display-glitches/"><u>Eradicate Windows 11 Display Glitches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invisible-screen-post-firmware/"><u>Invisible Screen Post-Firmware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-conflict-addressed-error-22/"><u>Kernel Conflict Addressed: Error 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-graphic-power-step-by-step-tutorial-on-gpu-overclocking-for-novices/"><u>Unleashing Graphic Power: Step-by-Step Tutorial on GPU Overclocking for Novices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997290916-utorrent-not-working-heres-how-to-repair-your-torrent-downloads-and-peer-connections/"><u>UTorrent Not Working? Here’s How to Repair Your Torrent Downloads & Peer Connections!</u></a></li>
 </ul></div>
 

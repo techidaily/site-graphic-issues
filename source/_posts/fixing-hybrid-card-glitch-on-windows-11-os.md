@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Glitch on Windows 11 OS
-date: 2024-11-21T23:58:30.745Z
-updated: 2024-11-24T04:02:39.892Z
+date: 2024-12-01T23:56:12.236Z
+updated: 2024-12-03T01:32:16.852Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -97,10 +101,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -112,20 +112,20 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,24 +142,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers/"><u>[New] Optimize Your Windows 11 Photo Viewing Include Audio Files and Artistic Layers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transform-your-communication-device-with-new-tunes-for-2024/"><u>[Updated] Transform Your Communication Device with New Tunes for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-creativity-free-animation-techniques-for-2024/"><u>[Updated] Unlocking Creativity Free Animation Techniques for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinking-displays-on-windows-7/"><u>Banishing Blinking Displays on Windows 7</u></a></li>
-<li><a href="https://win-dash.techidaily.com/brother-hl-2270dw-driver-download-and-update-in-windows/"><u>Brother HL-2270DW Driver Download & Update in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-distortion-on-win11/"><u>Eliminate Screen Distortion on Win11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-mental-health-through-iphone-monitoring-techniques/"><u>Enhancing Mental Health Through iPhone Monitoring Techniques</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/erweiterte-texterfassungsfunktionen-in-echtzeit-von-abbyy-ein-leistungsfahigeres-kundenerlebnis-im-digitalen-raum/"><u>Erweiterte Texterfassungsfunktionen in Echtzeit Von ABBYY: Ein Leistungsfähigeres Kundenerlebnis Im Digitalen Raum</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-lenovo-laptop-blackout-on-full-display/"><u>Fixed: Lenovo Laptop Blackout on Full Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-wiring-your-laptop-to-project-on-your-television-screen-with-an-hdmi-cable/"><u>Guide: Wiring Your Laptop to Project on Your Television Screen with an HDMI Cable</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-stop-unwanted-blank-page-issues-on-epson/"><u>How to Stop Unwanted Blank Page Issues on Epson</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-screen-line-perpendniess/"><u>Optimizing Screen Line Perpendniess</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflicts-in-win11/"><u>Overcoming Dual GPU Conflicts in Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-non-functional-steam-remote-play-on-pc/"><u>Resolving Non-Functional Steam Remote Play on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-glare-on-lenovo-monitors/"><u>Restoring Lost Glare on Lenovo Monitors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-aspect-ratio-glitches-in-windows-10/"><u>Tackling Aspect Ratio Glitches in Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveiling-the-best-screen-capture-videographers-of-2023-for-2024/"><u>Unveiling the Best Screen Capture Videographers of 2023 for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-perfect-display-resolution/"><u>Windows 11: Perfect Display Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-bsod-resolving-dxgkrnlsys-crash/"><u>Windows BSOD: Resolving dxgkrnl.sys Crash</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unboxing-high-fidelity-gaming-recorders/"><u>[New] 2024 Approved Unboxing High-Fidelity Gaming Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revamping-your-videos-top-5-mac-editors-at-hand/"><u>[New] Revamping Your Videos? Top 5 Mac Editors at Hand</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-video-vroom-guide-rotating-images-to-gain-insta-momentum/"><u>[Updated] In 2024, The Video Vroom Guide Rotating Images to Gain Insta Momentum</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-patching-for-gpus-not-displayed/"><u>Easy Patching for GPUs Not Displayed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-displays-on-monitor-with-win10/"><u>Non-Fullscreen Displays on Monitor with Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinventing-home-management-using-gpt-capabilities/"><u>Reinventing Home Management Using GPT Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-persistent-glaring-asus-fix-guide/"><u>Say Goodbye to Persistent Glaring: ASUS Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-visual-experience-with-updated-nvidia-210-drivers/"><u>Streamline Your Visual Experience with Updated Nvidia 210 Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-blurry-laptop-horizontal-bars/"><u>Troubleshoot Blurry Laptop Horizontal Bars</u></a></li>
 </ul></div>
 

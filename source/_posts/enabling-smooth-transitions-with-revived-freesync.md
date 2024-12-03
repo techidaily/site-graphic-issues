@@ -1,7 +1,7 @@
 ---
 title: Enabling Smooth Transitions with Revived FreeSync
-date: 2024-11-20T22:48:34.064Z
-updated: 2024-11-24T02:52:40.549Z
+date: 2024-11-29T22:04:42.571Z
+updated: 2024-12-02T22:47:04.874Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
  Before you start troubleshooting, first**make sure your monitor is AMD FreeSync compatible** . You can find out by checking the product page on the official website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the charm.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 7. **[Configure the default GPU](#fix7)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Try different ports
@@ -52,10 +48,14 @@ For your reference, here’s what HDMI and DP ports look like:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/graphics-card-hdmi-dp-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the problem persists, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check the monitor settings
@@ -82,15 +82,15 @@ If the problem persists, take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all the drivers, restart your PC and check if FreeSync is working.
 
  If the latest drivers can’t solve your problem, simply check out the next method. (Or you can follow [this guide](https://tools.techidaily.com/drivereasy/download/) and do a clean reinstallation with DDU.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4:**Perform a clean boot**
 
@@ -101,7 +101,7 @@ If the problem persists, take a look at the next fix.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
@@ -110,12 +110,12 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -137,7 +137,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -156,13 +156,13 @@ If the issue is still there, simply try the next fix.
 2. Navigate to the **Compatibility**  tab. Under the **Settings**  section, check the box next to **Disable fullscreen optimizations** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now restart the program and check if FreeSync is working.
 
 If this doesn’t help, you can continue to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Configure the default GPU
 
@@ -204,24 +204,22 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-quintessential-vr-cinematic-treasures/"><u>[Updated] Quintessential VR Cinematic Treasures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726223424719-movavi/"><u>即时学习：利用Movavi视频编辑器轻松添加影片标题</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-texture-ambiguity-in-far-cry-6/"><u>Addressing Texture Ambiguity in Far Cry 6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-the-cloud-of-dark-screens-on-twitch/"><u>Clearing the Cloud of Dark Screens on Twitch</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719152295566-connect-more-effortlessly-transferring-posts-and-notes-among-major-sites/"><u>Connect More, Effortlessly: Transferring Posts & Notes Among Major Sites</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-monitor-horizontal-distortion/"><u>Correcting Monitor Horizontal Distortion</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decisive-criteria-for-your-next-headset-investment-in-vr-technology/"><u>Decisive Criteria for Your Next Headset Investment in VR Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-direct3d-hurdle-gain-full-acceleration-access/"><u>End Direct3D Hurdle - Gain Full Acceleration Access</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2000 Found a Problem with One or more Formula</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 5 V</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-v27-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo V27 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maxing-out-on-tech-review-of-costly-apple-headphones/"><u>Maxing Out on Tech? Review of Costly Apple Headphones</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-convert-and-download-4k-videos-in-mp4-format-a-beginners-guide-for-2024/"><u>New Convert and Download 4K Videos in MP4 Format A Beginners Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-troubleshooting-lacking-video-output/"><u>Quick Troubleshooting, Lacking Video Output</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refreshing-intels-windows-7-graphics-driver/"><u>Refreshing Intel's Windows 7 Graphics Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-installation-error-code-1900101-in-win10/"><u>Tackling Installation Error Code 1900101 in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-curtail-anthems-hesitation/"><u>Tips to Curtail Anthem's Hesitation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-unbeatable-savings-thrifty-beginners-4k-resin-3d-printer-now-at-44-off-on-black-friday/"><u>Unlock Unbeatable Savings: 'Thrifty Beginner's 4K Resin 3D Printer Now at 44% Off on Black Friday</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unresponsive-windows-10-monitor/"><u>Unresponsive Windows 10 Monitor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[New] In 2024, Capturing Clarity in Close-Ups The Filmmaker’s Kinemaster Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approach-for-rotating-and-interlacing-multiple-videographies-android/"><u>2024 Approved Innovative Approach for Rotating & Interlacing Multiple Videographies (Android)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-download-vimeo-to-mp4-files/"><u>2024 Approved Step-by-Step Download Vimeo to MP4 Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-unplayable-file-challenge/"><u>Addressing Windows' Unplayable File Challenge</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctupsidedownscreens/"><u>CorrectUpsideDownScreens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2s-exciting-new-update-a-fresh-perspective-on-broccoli-combat/"><u>Destiny 2'S Exciting New Update: A Fresh Perspective on Broccoli Combat</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-laptops-warped-display-lines-painlessly/"><u>Ease Laptop's Warped Display Lines Painlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-vision-clarity/"><u>Enhancing Lenovo Laptop Vision Clarity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizons-in-focus-easy-monitor-alignment-techniques/"><u>Horizons in Focus: Easy Monitor Alignment Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-novice-to-pro-creating-snapchat-boomers/"><u>In 2024, From Novice to Pro Creating Snapchat Boomers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/render-engine-failed-to-initialize/"><u>Render Engine Failed to Initialize</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-non-displaying-full-screen-in-windows-11-pcs/"><u>Resolve: Non-Displaying Full Screen in Windows 11 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-troubleshoot-for-dead-displayport/"><u>Simple Troubleshoot for Dead DisplayPort</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-fundamentals-of-crafting-youtube-videos-from-scratch-for-2024/"><u>The Fundamentals of Crafting YouTube Videos From Scratch for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors-for-2024/"><u>The Seeker's Manual A Comprehensive Approach to Purchasing High-Definition Monitors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-11-streaming-problems-fixed/"><u>Troubleshooting Windows 11 Streaming Problems Fixed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-spark-go-2024-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Spark Go (2024)? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-11-21T08:52:17.151Z
-updated: 2024-11-23T22:58:55.482Z
+date: 2024-12-02T02:59:43.600Z
+updated: 2024-12-03T01:54:27.831Z
 tags:
   - win11
   - win10
@@ -40,19 +40,11 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -70,17 +62,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -103,7 +99,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
@@ -113,12 +109,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,18 +148,22 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-comprehensive-guide-for-digital-video-photo-effects-application/"><u>[New] 2024 Approved Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-flamboyant-snaps-techniques-for-lasting-snapstreaks/"><u>[New] 2024 Approved Flamboyant Snaps Techniques for Lasting Snapstreaks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-static-to-vivid-moments-with-the-new-polaroid-xs-100i/"><u>[New] 2024 Approved From Static to Vivid Moments with the New Polaroid XS 100I</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-stepwise-process-for-high-quality-screen-captures-from-dell/"><u>[New] 2024 Approved Stepwise Process for High-Quality Screen Captures From Dell</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-hasten-recovering-deleted-snaps/"><u>[New] In 2024, Hasten Recovering Deleted Snaps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-learn-how-to-rewind-video-ordering-on-android/"><u>[New] In 2024, Learn How to Rewind Video Ordering on Android</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-windows-11-playback-glitches-solved/"><u>Addressing Windows 11 Playback Glitches [Solved]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/combating-global-warming-top-5-tech-innovations-poised-to-make-a-difference-zdnet/"><u>Combating Global Warming: Top 5 Tech Innovations Poised to Make a Difference | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-with-ease-top-five-smartphone-apps-for-making-lifelong-friendships/"><u>Connect with Ease: Top Five Smartphone Apps for Making Lifelong Friendships</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-keep-your-pcs-intel-hardware-at-its-peak-performance/"><u>How to Keep Your PC's Intel Hardware at Its Peak Performance</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/speed-up-your-system-with-latest-nvidia-driver/"><u>Speed Up Your System with Latest Nvidia Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unmistakable-window-visibility/"><u>Unmistakable Window Visibility</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-10-best-text-plugins-for-ae-users/"><u>[New] In 2024, Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>[New] Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726223424719-movavi/"><u>即时学习：利用Movavi视频编辑器轻松添加影片标题</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-edges-achieve-clarity-and-comfort/"><u>Adjust Monitor Edges, Achieve Clarity & Comfort</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-corsair-mouse-gameplay-with-new-firmware-download/"><u>Enhance Your Corsair Mouse Gameplay with New Firmware Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-failed-cloud-sync-and-access-in-windows-11/"><u>How to Reset Failed Cloud Sync & Access in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythmic-resonance-incor-written-by-assistant/"><u>In 2024, Rhythmic Resonance Incor Written by Assistant</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-20-thumbnail-fonts-for-impressive-video-credits/"><u>In 2024, Top 20 Thumbnail Fonts for Impressive Video Credits</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/innovative-fixes-for-streamlining-your-youtube-background-effects/"><u>Innovative Fixes for Streamlining Your YouTube Background Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-dpi-settings-with-latest-windows-11-release/"><u>Mastering DPI Settings with Latest Windows 11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-images-new-gpu/"><u>No Images - New GPU?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-switchable-graphics-error/"><u>Successful Resolution of Switchable Graphics Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tactics-for-eradicating-blinking-screens-hp/"><u>Tactics for Eradicating Blinking Screens (HP)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-device/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-unavailable-display-modes/"><u>Troubleshooting Unavailable Display Modes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2024-11-16T21:21:57.176Z
-updated: 2024-11-24T11:36:49.622Z
+date: 2024-11-30T17:28:01.012Z
+updated: 2024-12-03T02:03:44.593Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -37,22 +41,22 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -91,19 +95,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -115,10 +115,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
@@ -126,6 +122,10 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,22 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exploring-dynamic-visuals-timelapses-with-ipad/"><u>[Updated] In 2024, Exploring Dynamic Visuals Timelapses with iPad</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>[Updated] In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-monetization-maze-on-youtube/"><u>[Updated] Navigating the Monetization Maze on Youtube</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726029676883-2024pc/"><u>「次世代リモート学習：2024最新PCによるウェブセミナー録画法」</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-striking-podcast-brand-identity-a-visual-guide/"><u>2024 Approved Crafting Striking Podcast Brand Identity A Visual Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dawn-for-dark-lenovo-displays/"><u>Dawn for Dark Lenovo Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/disable-fullscreen-monitors-dont-show-in-win10/"><u>Disable Fullscreen? Monitors Don't Show in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-in-win11/"><u>Eliminating Graphic Swap Errors in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-smoothness-on-latest-rtx-graphics/"><u>Game Smoothness on Latest RTX Graphics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-a38-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo A38 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastered-setup-overcoming-nvidia-errors/"><u>Mastered Setup: Overcoming Nvidia Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-graphic-support-resolve-fast/"><u>Missing Graphic Support, Resolve Fast</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pairing-powerhouses-easy-steps-to-join-obs-zoom/"><u>Pairing Powerhouses Easy Steps to Join OBS, Zoom</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steadying-stuttering-screens-acer-fixes-guide/"><u>Steadying Stuttering Screens: Acer Fixes Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/success-wnddevice-init-succeeded/"><u>Success: WndDevice Init Succeeded</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-starter-selection-affordable-site-purchases-for-beginners/"><u>[New] In 2024, Starter Selection Affordable Site Purchases for Beginners</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-step-by-step-periscope-utilization-complete-manual-for-2024/"><u>[New] Step-by-Step Periscope Utilization Complete Manual for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-zero-cost-zest-the-ultimate-guide-to-free-game-film/"><u>[Updated] 2024 Approved Zero Cost Zest The Ultimate Guide to Free Game Film</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-next-gen-recording-greener-choices/"><u>[Updated] In 2024, Next-Gen Recording Greener Choices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317168-9781781807781-caves-of-power/"><u>Caves of Power | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/connectivity-crusade-easily-fix-screen-disconnect/"><u>Connectivity Crusade: Easily Fix Screen Disconnect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-cominterface-issue-with-precision/"><u>Fixing Windows COMInterface Issue with Precision</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-8-most-effective-authentic-promotion-techniques/"><u>In 2024, The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-visibility-after-driver-update/"><u>No Visibility After Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-blackout-mystery/"><u>NVIDIA Blackout Mystery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-d3d-initialization-setbacks/"><u>Overcoming D3D Initialization Setbacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-windows-connectivity-issue-fixing-error-code-0x800704cf/"><u>Resolve the Windows Connectivity Issue: Fixing Error Code 0X800704CF</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgraded-realtek-wireless-network-driver-for-enhanced-connectivity-on-windows-11-and-7-devices/"><u>Upgraded Realtek Wireless Network Driver for Enhanced Connectivity on Windows 11 and 7 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-nvidia-driver-issue-settled/"><u>Windows 11, NVidia Driver Issue Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wnddevice-creation-now-smooth/"><u>WndDevice Creation Now Smooth</u></a></li>
 </ul></div>
 

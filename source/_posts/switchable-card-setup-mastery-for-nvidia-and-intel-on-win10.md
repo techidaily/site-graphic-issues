@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2024-11-19T04:42:02.775Z
-updated: 2024-11-23T18:41:05.149Z
+date: 2024-11-26T21:41:17.604Z
+updated: 2024-12-02T23:01:32.955Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -41,19 +37,23 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -85,21 +85,25 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -108,16 +112,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -142,17 +142,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-the-art-of-youtube-brand-creation-best-names-for-vloggers-and-filmmakers-limit-to-156-characters/"><u>[New] 2024 Approved Mastering the Art of YouTube Brand Creation Best Names for Vloggers & Filmmakers (Limit to 156 Characters)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-visualize-pixels-introduce-inner-soft-radial-blur-in-cs/"><u>[New] Visualize Pixels Introduce Inner Soft Radial Blur in CS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-legal-framework-the-fine-print-for-facebook-video-postings/"><u>2024 Approved Legal Framework The Fine Print for Facebook Video Postings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-master-screen-grabber-list-1-8/"><u>2024 Approved Master Screen Grabber List #1-8</u></a></li>
-<li><a href="https://article-files.techidaily.com/an-in-depth-guide-to-every-element-of-srt/"><u>An In-Depth Guide to Every Element of SRT</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/building-a-strong-visual-narrative-in-youtube-videos-for-2024/"><u>Building a Strong Visual Narrative in YouTube Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-and-optimize-win10-touchscreen/"><u>Install & Optimize Win10 Touchscreen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/inverted-screen-position-fixed-in-windows-10/"><u>Inverted Screen Position Fixed in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-interface-malfunctions-in-windows-systems/"><u>Resolving Interface Malfunctions in Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-for-non-working-asus-cam/"><u>Solutions for Non-Working ASUS Cam</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/stepwise-approach-to-update-meet-username-laptopmobile/"><u>Stepwise Approach to Update Meet Username (Laptop/Mobile)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-navigating-through-an-absent-obs-camera-input/"><u>[New] 2024 Approved Navigating Through an Absent OBS Camera Input</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/arrowing-down-the-video-platform-wars-youtube-shorts-against-tiktok/"><u>[New] Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-30-pro-tiktok-edits-techniques/"><u>2024 Approved Top 30 Pro TikTok Edits Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-12-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 12 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-asus-camera-operating-again/"><u>How to Get Asus Camera Operating Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/released-camera-error-43-resolution/"><u>Released: Camera Error 43 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-amd-radeon-r9-display-problems-on-win10/"><u>Resolved AMD Radeon R9 Display Problems on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-options-fix-in-win-7-and-10-solved/"><u>Saving Display Options: Fix in Win 7 & 10 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cut-outs-on-logitech-wireless-headphones-g930-model/"><u>Troubleshooting Cut Outs on Logitech Wireless Headphones (G930 Model)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
 </ul></div>
 

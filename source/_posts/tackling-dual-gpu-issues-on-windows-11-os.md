@@ -1,7 +1,7 @@
 ---
 title: Tackling Dual-GPU Issues on Windows 11 OS
-date: 2024-10-15T16:39:39.206Z
-updated: 2024-10-18T14:01:23.563Z
+date: 2024-11-30T00:32:34.677Z
+updated: 2024-12-02T19:35:41.801Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -68,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -97,6 +83,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -104,16 +94,11 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -121,6 +106,10 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -131,28 +120,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,22 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streamline-your-playback-secrets-of-gameye/"><u>2024 Approved Streamline Your Playback Secrets of GamEye</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-drivers-optimization-in-windows-10-system/"><u>Audio Drivers Optimization in Windows 10 System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/beyond-hdtv-boundaries-embracing-4k-resolution/"><u>Beyond HDTV Boundaries: Embracing 4K Resolution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-api-demystified-for-developers/"><u>ChatGPT API Demystified for Developers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elite-selection-of-portable-gaming-computers-reviewed-and-ranked/"><u>Elite Selection of Portable Gaming Computers Reviewed and Ranked</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-v30-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo V30 Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-11-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M34 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-no-cost-voice-shaping-secrets-revealed-comprehensive-guide-to-professional-video-voice-edits-using-filmora/"><u>New In 2024, No-Cost Voice Shaping Secrets Revealed Comprehensive Guide to Professional Video Voice Edits Using Filmora</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pinpointed-and-rectified-screen-flicker-on-laptops/"><u>Pinpointed and Rectified Screen Flicker on Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stability-in-screens-preventing-monitor-flickers/"><u>Stability in Screens: Preventing Monitor Flickers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-moire-pattern-on-pcs/"><u>Stop Moiré Pattern on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-acer-display-stop-flicker/"><u>Troubleshooting Acer Display: Stop Flicker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-recording-success-tips-for-fixing-your-cam/"><u>Zoom Recording Success: Tips for Fixing Your Cam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-video-lifeline-immediate-troubleshooting-tips/"><u>Zoom Video Lifeline - Immediate Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-transforming-tones-techniques-in-free-fire/"><u>[New] Transforming Tones Techniques in Free Fire</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-igniting-online-frenzy-essential-trending-hashes/"><u>2024 Approved Igniting Online Frenzy Essential Trending Hashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-peeking-behind-the-screen-instagram-audience-explorer/"><u>2024 Approved Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>2024 Approved Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-digital-experience-with-cookiebot-technology/"><u>Enhanced Digital Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixcomputerscreensideup-issue/"><u>FixComputerScreensideUp Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-black-screen-problems-when-presenting-your-screen-in-discord-chats/"><u>How to Overcome Black Screen Problems When Presenting Your Screen in Discord Chats</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-share-twitch-stream-on-facebook-for-2024/"><u>How to Share Twitch Stream on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-the-mechanics-of-subscriber-tracking/"><u>In 2024, Decoding the Mechanics of Subscriber Tracking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pc-peace-stop-the-fallout-4-crash-cases/"><u>PC Peace: Stop the Fallout 4 Crash Cases</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-geforce-shader-overheat/"><u>Resolved GeForce Shader Overheat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/serene-gaming-selection-quietest-phone-apps-for-2024/"><u>Serene Gaming Selection Quietest Phone Apps for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-gaming-on-rtx-graphics/"><u>Uninterrupted Gaming on RTX Graphics</u></a></li>
 </ul></div>
 

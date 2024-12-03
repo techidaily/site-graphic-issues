@@ -1,7 +1,7 @@
 ---
 title: Techniques to Recover From GPU Faults with System Uptime
-date: 2024-11-22T10:03:59.968Z
-updated: 2024-11-24T04:21:40.880Z
+date: 2024-11-28T18:47:14.476Z
+updated: 2024-12-02T18:41:13.343Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Stop overclocking your GPU
 
  One of the first things to do is to stop overclocking your GPU if you’re doing it, even though overclocking the GPU can enhance your PC performance when you’re playing games.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  If you’re not overclocking your GPU, but it still crashes and the PC stays on, please move on to other fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Clean install the GPU driver
 
@@ -65,19 +65,15 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -91,6 +87,10 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -100,14 +100,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -129,6 +129,10 @@ To use Fortect:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -153,16 +157,8 @@ To use Fortect:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
 5. If you have a second GPU, do the same to check its temperture as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even though the GPU temperatures differ for differet manufacturers and models, your GPU tempertures should be in the range from**65 to 85°C** (149° to 185°F) under normal usage.
 
@@ -171,6 +167,10 @@ To use Fortect:
  If your GPU is working in the normal temperature range, but it still crashes while leave your PC running, please move further to check the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Test your GPU on another computer
 
@@ -181,6 +181,10 @@ To use Fortect:
  If you don’t have a second computer, you can also try to stress test your GPU with a third-party tool like [AIDA64 Extreme](https://www.aida64.com/downloads) ,[3DMark](https://www.3dmark.com/) or [FurMark](https://geeks3d.com/furmark/downloads/) to make sure that your GPU is still working fine. This is the stress GPU feature in AIDA64 Extreme if you’re interested:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t have the time or the energy to run such tests yourself, we also recommend that you seek help from a hardware technician instead, as such tests also require certain knowledge of computer hardware.
 
@@ -193,10 +197,6 @@ To use Fortect:
  To check if insufficient or faulty power supply unit is the culprit to the GPU crashes but PC stays on problem on your computer, you can use [AIDA64 Extreme](https://www.aida64.com/downloads) mentioned above. If you need more detailed instructions, here’s a post for you reference: **[How to use AIDA64 Extreme to monitor PSU](https://forums.aida64.com/topic/5874-how-to-use-aida64-extreme-to-monitor-psu-newly-built-system-has-stopped-working-suddenly-twice-now/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Try a new GPU
 
@@ -225,15 +225,16 @@ To use Fortect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/1719817870454-solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-affordable-youtube-intro-designs-and-templates/"><u>[Updated] In 2024, Affordable YouTube Intro Designs and Templates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-problems-with-clownfish-microphone-modifications-a-step-by-step-guide-to-audio-restoration/"><u>Diagnosing Problems with Clownfish Microphone Modifications: A Step-by-Step Guide to Audio Restoration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-blank-graphic-support-gone/"><u>Display Blank, Graphic Support Gone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-the-persistent-asus-screen-squirm/"><u>Eradicate the Persistent ASUS Screen Squirm</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-8s-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-fun-learning-9-fabulous-places-to-find-free-games-for-tots/"><u>Unlock Fun Learning: 9 Fabulous Places to Find FREE Games for Tots</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-post-upgrade-stream-success-tips/"><u>Win10: Post-Upgrade Stream Success Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726227430937-wmv/"><u>WMV파일을 오토바이오그래피 형식으로 무료로 전환하는 방법 - 모브바이비</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses/"><u>[New] Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-5-chill-out-scenes-to-add-zest-to-your-snowy-videos-for-2024/"><u>[New] Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-convertir-un-fichier-ogm-en-format-mp4-gratuitement-tutorial-movavi/"><u>Comment Convertir Un Fichier OGM en Format MP4 Gratuitement - Tutorial Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-screen-upside-down-error-windows-11/"><u>Correcting Screen Upside-Down Error: Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-time-on-mass-file-naming-with-powertools/"><u>Cut Down Time on Mass File Naming with PowerTools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-issue-code-43-now-fixed/"><u>Drivers' Issue Code 43 Now Fixed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-new-horizon-of-affordability-with-microsofts-surface-laptop-go-reviewed-here/"><u>Exploring the New Horizon of Affordability with Microsoft's Surface Laptop Go Reviewed Here!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>In 2024, Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-virtual-workshop-essential-facts-at-your-fingertips-for-2024/"><u>Updated Virtual Workshop Essential Facts at Your Fingertips for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-achieving-perfect-switchable-gpu-harmony/"><u>Windows 10: Achieving Perfect Switchable GPU Harmony</u></a></li>
 </ul></div>
 

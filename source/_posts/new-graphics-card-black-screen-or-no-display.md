@@ -1,7 +1,7 @@
 ---
 title: New Graphics Card Black Screen or No Display
-date: 2024-10-12T00:09:25.243Z
-updated: 2024-10-18T04:27:54.102Z
+date: 2024-11-28T18:12:12.611Z
+updated: 2024-12-02T16:12:31.969Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -41,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. See if an additional power supply is required
 
@@ -59,6 +56,10 @@ If this is not the problem, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ditch any converter
 
  If you’re using any display converter (like HDMI to DP, VGA to HDMI, etc.) for the new GPU and your monitor, please stop using them, as the new GPU no display problem could also relate to the converter.
@@ -66,6 +67,10 @@ If this is not the problem, please move on.
  If your new graphics card can’t connect to your monitor without a converter, please buy a new cable instead.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Boot with the integrated display card
 
@@ -79,23 +84,9 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -109,10 +100,7 @@ If this is not the problem, please move on.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -122,13 +110,6 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -152,6 +133,10 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -165,25 +150,13 @@ Here are the things you should pay extra attention to:
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -225,18 +198,24 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-innovative-strategies-for-engaging-your-audience-with-puzzles-on-instagram-for-2024/"><u>[New] Innovative Strategies for Engaging Your Audience with Puzzles on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-artisans-shaping-virtual-marvel-universes/"><u>[Updated] In 2024, Artisans Shaping Virtual Marvel Universes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-secure-online-methods-convert-youtube-audio-to-mp3-effortlessly-and-safely/"><u>[Updated] Secure Online Methods Convert YouTube Audio to MP3 Effortlessly & Safely</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-snapchat-spotlight-feature/"><u>2024 Approved Navigating Snapchat Spotlight Feature</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquer-blackout-in-sims-4-life-events/"><u>Conquer Blackout in Sims 4 Life Events</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fixing-mac-dvd-player-issues-a-comprehensive-guide-to-resolution/"><u>Fixing Mac DVD Player Issues: A Comprehensive Guide to Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-screen-flicker-issue-solution-found/"><u>Laptop Screen Flicker Issue - Solution Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proactive-steps-for-gpu-faults-no-pc-lockdown/"><u>Proactive Steps for GPU Faults, No PC Lockdown</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-playstation-to-pc-compatibility-mastering-yakuza-6-performance-fixes/"><u>Resolving PlayStation to PC Compatibility: Mastering Yakuza 6 Performance Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-taming-the-turbulent-display/"><u>The Ultimate Guide to Taming the Turbulent Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unity-achieved-harmonious-operation-of-nvidia-nforce-630a/"><u>Unity Achieved: Harmonious Operation of Nvidia, nForce 630A</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/viewing-apples-stunning-3d-spatial-content-with-meta-quest-tips-and-tricks/"><u>Viewing Apple's Stunning 3D Spatial Content with Meta Quest - Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-blueprint-producing-purposeful-life-exploration-broadcasts/"><u>[New] Blueprint Producing Purposeful Life Exploration Broadcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premier-editing-software-for-mobile-app-creation/"><u>[New] Premier Editing Software for Mobile App Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-hd-webcams-essential-purchasing-tips-for-2024/"><u>[Updated] Top 10 HD Webcams Essential Purchasing Tips for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-optimal-instagram-posting-times-a-comprehensive-overview/"><u>2024 Approved Optimal Instagram Posting Times A Comprehensive Overview</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-screenscape-disturbances-in-pro-7/"><u>Banishing Screenscape Disturbances in Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blinking-void-after-graphic-patch/"><u>Blinking Void After Graphic Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-clarity-back-repairing-zoom-cam-for-crystal-clear-calls/"><u>Bring Clarity Back: Repairing Zoom Cam for Crystal-Clear Calls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-asus-built-in-cam-issues/"><u>Bypassing ASUS Built-In Cam Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-new-heights-increasing-window-11-icon-size/"><u>Explore New Heights: Increasing Window 11 Icon Size</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-inception-to-innovation-unpacking-the-history-and-development-of-ios-versions-10-180/"><u>From Inception to Innovation: Unpacking the History and Development of iOS Versions 1.0-18.0</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-increase-screen-brightness-on-lenovo-laptops/"><u>How to Increase Screen Brightness on Lenovo Laptops</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-blade-a73-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Blade A73 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-skyrocket-your-video-discovery-with-these-essential-youtube-seo-insights/"><u>In 2024, Skyrocket Your Video Discovery with These Essential YouTube SEO Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-experience-fix-for-intel-and-nvidia-switchable-graphics/"><u>Seamless Windows 10 Experience: Fix for Intel & NVIDIA Switchable Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/soothing-screen-symptoms-pro-7-fixes/"><u>Soothing Screen Symptoms: Pro 7 Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808324928-success-story-navigating-past-windows-11-install-problems-and-winning/"><u>Success Story: Navigating Past Windows 11 Install Problems and Winning</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-stop-asus-laptop-screen-flashes/"><u>Troubleshooting: Stop ASUS Laptop Screen Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stabilization-achieved/"><u>Windows 10 Display Stabilization Achieved</u></a></li>
 </ul></div>
 

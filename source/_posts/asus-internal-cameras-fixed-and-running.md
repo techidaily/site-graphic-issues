@@ -1,7 +1,7 @@
 ---
 title: "ASUS Internal Cameras: Fixed and Running"
-date: 2024-11-20T06:07:07.112Z
-updated: 2024-11-23T17:03:09.973Z
+date: 2024-12-02T00:33:24.170Z
+updated: 2024-12-03T00:03:19.599Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Asus_Laptop-1200x718.jpg)
 
  The Asus camera is not working? Whether you’re using a built-in webcam or the USB ASUS webcam, in this post, we’ve put together all possible fixes to this webcam issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,21 +45,17 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update the webcam driver
 
@@ -79,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -87,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 After updating your drivers, restart your PC and test the camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Reinstall the camera driver
@@ -104,6 +101,10 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
  3) Right-click **Integrated Camera** and select **Uninstall device** .
@@ -111,7 +112,7 @@ After updating your drivers, restart your PC and test the camera.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
@@ -141,24 +142,24 @@ After updating your drivers, restart your PC and test the camera.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-cross-platform-chumming-discord-friend-guide/"><u>[New] Cross-Platform Chumming Discord Friend Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-inclusive-panel-of-easeus-reviewers/"><u>[Updated] Inclusive Panel of EaseUS Reviewers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-elite-iphone-call-alerts/"><u>[Updated] Ultimate Selection Elite iPhone Call Alerts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/a-step-by-step-guide-to-microsoft-teams-snap-photos/"><u>A Step-by-Step Guide to Microsoft Teams Snap Photos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-15-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 15 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-bugs-affecting-pc-experience-civilization-v/"><u>Fixing Bugs Affecting PC Experience, Civilization V</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722989255210-fixing-league-of-legends-crashing-issues-like-a-pro-effortlessly/"><u>Fixing League of Legends Crashing Issues Like a Pro, Effortlessly!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halo-infinite-delayed-directx12-error-identified/"><u>Halo Infinite Delayed - DirectX12 Error Identified</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-computer-freezing/"><u>How To Fix Computer Freezing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-recover-display-savings-error-on-win-710-resolved/"><u>How to Recover Display Savings Error on WIN 7/10 [Resolved]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-strategies-for-hiring-superior-cinematographers/"><u>In 2024, Strategies for Hiring Superior Cinematographers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leap-into-a-new-era-of-web-exploration-bing-on-mobile-platforms/"><u>Leap Into a New Era of Web Exploration: Bing on Mobile Platforms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-through-youtubes-challenging-green-screen/"><u>Navigating Through YouTube's Challenging Green Screen</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-reaction-videos-boil-down-to-expressing-your-attitude-about-the-topic-you-feel-strongly-about-and-here-are-5-reaction-video-makers-you-sho/"><u>New 2024 Approved Reaction Videos Boil Down to Expressing Your Attitude About the Topic You Feel Strongly About, and Here Are 5 Reaction Video Makers You Should Try</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-identifying-undetected-video-cards/"><u>Strategies for Identifying Undetected Video Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-setup-windows-graphics-device/"><u>Successful Setup: Windows Graphics Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-gaming-experience-on-win10-with-amd-hd-6950-update/"><u>Transform Your Gaming Experience on Win10 with AMD HD 6950 Update!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-hot-30i-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Hot 30i FRP Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wipe-clean-sims-4-colorless-startup/"><u>Wipe Clean Sims 4 Colorless Startup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-necessary-drivers-for-amd-video-card-on-pcs/"><u>[MISSING] Necessary Drivers for AMD Video Card on PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-boosting-your-fb-pages-advanced-ranking-strategies-for-2024/"><u>[New] Boosting Your FB Pages Advanced Ranking Strategies for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-recordings-doing-without-a-microphone/"><u>[Updated] Elevate Your Recordings Doing Without a Microphone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-the-leading-youtube-to-webm-converter-tools/"><u>[Updated] In 2024, Discover the Leading YouTube-to-WebM Converter Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-maximizing-b-roll-creative-uses-and-integration/"><u>[Updated] Maximizing B-Roll Creative Uses and Integration</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boost-your-income-with-effective-snapchat-ads/"><u>2024 Approved Boost Your Income with Effective Snapchat Ads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-monitor-phenomenon/"><u>Banish Blinky Monitor Phenomenon</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-apple-fixing-distorted-and-silent-sounds-on-iphones/"><u>Beat the Apple: Fixing Distorted and Silent Sounds on iPhones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/colorful-consequences-fix-for-lenovo-screen/"><u>Colorful Consequences - Fix for Lenovo Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-in-pursuit-of-dreamscapes-vr-travel-unleashed/"><u>In 2024, In Pursuit of Dreamscapes VR Travel Unleashed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/minecraft-woes-fix-bad-driver-issues/"><u>Minecraft Woes: Fix Bad Driver Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-direct3d-setback-achieved-gpu-power-up/"><u>Resolved Direct3D Setback, Achieved GPU Power-Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamp-your-visual-experience-update-intel-gfx-driver-on-windows-10/"><u>Revamp Your Visual Experience - Update Intel GFX Driver on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlining-the-demo-process-in-adobe-captivate/"><u>Streamlining the Demo Process in Adobe Captivate</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/surface-pro-7s-flicker-fixation-manual/"><u>Surface Pro 7'S Flicker Fixation Manual</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vertical-panel-setup-fixed-in-netbook/"><u>Vertical Panel Setup Fixed in Netbook</u></a></li>
 </ul></div>
 

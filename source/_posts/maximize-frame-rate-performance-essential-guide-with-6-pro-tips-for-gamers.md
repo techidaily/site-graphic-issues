@@ -1,7 +1,7 @@
 ---
 title: "Maximize Frame Rate Performance: Essential Guide with 6 Pro Tips for Gamers"
-date: 2024-11-22T12:35:07.712Z
-updated: 2024-11-24T00:05:54.139Z
+date: 2024-11-27T03:58:10.491Z
+updated: 2024-12-02T21:59:49.310Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ###  Tip 2: Adjust your PC for best performance
@@ -53,12 +49,16 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. In **Advanced** , click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98b285ef51d.jpg)
 3. Click **Adjust for best performance** \> **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
@@ -80,18 +80,14 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ###  Tip 4: Do a disk clean-up 
 
@@ -103,17 +99,21 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
 3. Technically, you can tick all **the boxes** . You might also need to check out **Recycle Bin** and see if there’s anything to be restored first. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
 4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -126,22 +126,22 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
 3. Click **Optimize**   if Windows tell you to optimize the drive. Usually the recommended percentage is 5% or higher.
 4. Wait until the Windows defragments the drive successfully and **restart**   your computer.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Tip 6: Install the latest patch
 
@@ -171,19 +171,14 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-unlocking-full-potential/"><u>'God of War': Unlocking Full Potential</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-guide-7-prime-free-video-tag-extractors/"><u>[Updated] 2024 Approved Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-with-android-camera-apps/"><u>[Updated] Unlocking Potential with Android Camera Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-enhancement-reached-after-acceleration-fix/"><u>Direct3D Enhancement Reached After Acceleration Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-guide-to-clearing-laptop-display-skew/"><u>Easy Guide to Clearing Laptop Display Skew</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-horizontal-screen-deformities-fast/"><u>Fix Horizontal Screen Deformities Fast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-7-essential-secrets-for-delectable-cooking-clips/"><u>In 2024, 7 Essential Secrets for Delectable Cooking Clips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-honor-x50-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor X50 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a18-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A18 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-motorola-edgeplus-2023-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Motorola Edge+ (2023)? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-for-persistent-gpu-failures-with-operational-pcs/"><u>Solutions for Persistent GPU Failures with Operational PCs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/subscriber-supremacy-youtubes-front-runners-for-2024/"><u>Subscriber Supremacy YouTube's Front-Runners for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-security-enhanced-step-wise-deletion-of-graphics-drivers-on-win8/"><u>System Security Enhanced: Step-Wise Deletion of Graphics Drivers on WIN8</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-f15-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy F15 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovation-meets-art-mastering-these-top-7-graders-methods/"><u>[New] Innovation Meets Art Mastering These Top 7 Graders' Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-picks-best-free-cross-platform-video-communication-tools-for-2024/"><u>[Updated] Top Picks Best Free Cross-Platform Video Communication Tools for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-90-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor 90 without App | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-windows-10-screen-res/"><u>Adjusting Windows 10 Screen Res</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-windows-8s-safe-boot-plus-graphics-driver-uninstallation/"><u>Masterful Guide to Windows 8'S Safe Boot + Graphics Driver Uninstallation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-techno-tranquility-a-curated-selection-of-websites-for-a-peaceful-mental-escape/"><u>New Techno Tranquility A Curated Selection of Websites for a Peaceful Mental Escape</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-sos-rapid-response-for-no-connection-woes/"><u>Screen SOS: Rapid Response for No Connection Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-flickering-in-lenovo-lcd-monitors/"><u>Stop Flickering in Lenovo LCD Monitors</u></a></li>
+<li><a href="https://techidaily.com/will-p60-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will P60 play AVCHD mts files?</u></a></li>
 </ul></div>
 

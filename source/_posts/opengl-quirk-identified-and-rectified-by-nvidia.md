@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-11-21T18:17:48.774Z
-updated: 2024-11-23T22:53:31.720Z
+date: 2024-11-30T02:11:12.887Z
+updated: 2024-12-03T01:27:32.424Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your NVIDIA graphics driver](#m1)**
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -57,21 +57,21 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -87,10 +87,6 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -101,18 +97,22 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
@@ -144,21 +144,16 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[New] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlocking-the-palette-of-possibilities-with-downloadable-spark-ar-luts-for-2024/"><u>[New] Unlocking the Palette of Possibilities with Downloadable Spark AR LUTs for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-covert-concepts-in-composing-captivating-images/"><u>[Updated] Covert Concepts in Composing Captivating Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[Updated] In 2024, Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-gameplay-reel-how-to-reviewed/"><u>[Updated] In 2024, Gameplay Reel How-To Reviewed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-influencing-up-a-comprehensive-instagram-growth-strategy/"><u>[Updated] In 2024, Influencing Up A Comprehensive Instagram Growth Strategy</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-thrill-hero5-black-against-hero4-silver/"><u>2024 Approved Capturing the Thrill Hero5 Black Against Hero4 Silver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/a-beginners-guide-to-vulkan-runtime-libraries-definition-usage-and-common-issues/"><u>A Beginner's Guide to Vulkan Runtime Libraries: Definition, Usage, and Common Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/affordable-style-meets-functionality-in-the-moto-g-stylus-a-comprehensive-review/"><u>Affordable Style Meets Functionality in the Moto G Stylus - A Comprehensive Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-insights-on-asus-rt-ac68u-revolutionizing-home-networking-with-lightning-fast-and-robust-5g-wireless/"><u>Expert Insights on Asus RT-AC68U: Revolutionizing Home Networking with Lightning Fast and Robust 5G Wireless</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-smart-8-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Smart 8 Device SIM</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/in-depth-assessment-the-pros-and-cons-of-googles-latest-smartphone-pixel/"><u>In-Depth Assessment: The Pros and Cons of Google's Latest Smartphone - Pixel 지점</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1724467299672-resolving-nvstreamuseraagentexe-errors-in-windows-a-comprehensive-guide/"><u>Resolving NvStreamUseraAgent.exe Errors in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-review-of-cubefit-terramat-unlocking-active-living-from-anywhere-with-just-a-stand/"><u>The Ultimate Review of CubeFit TerraMat: Unlocking Active Living From Anywhere with Just a Stand</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unleash-adventure-with-the-top-race-rc-rock-crawler-all-terrain-beast/"><u>Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-zoom-optimization-techniques-for-windows-11-users/"><u>[New] 2024 Approved Zoom Optimization Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-total-zen-closing-virtual-horizons-for-2024/"><u>[New] Total Zen Closing Virtual Horizons for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-making-sense-of-typical-podcaster-profits/"><u>[Updated] 2024 Approved Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/comerror-detected-in-winos-resolved-issue/"><u>COMError Detected in WinOS - Resolved Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a79-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A79 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-sony-xperia-10-v-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Sony Xperia 10 V Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-tales-leading-academies-for-aspiring-narrators-for-2024/"><u>Mastering Tales Leading Academies for Aspiring Narrators for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818160725-opengl-glitch-spotted-nvidia-gpu-fixed-up/"><u>OpenGL Glitch Spotted - Nvidia GPU Fixed Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnecting-displayport-without-fuss-or-risk/"><u>Reconnecting DisplayPort Without Fuss or Risk</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-to-use-gpu-on-win1011-laptops/"><u>Resetting Display to Use GPU on Win10/11 Laptops</u></a></li>
 </ul></div>
 

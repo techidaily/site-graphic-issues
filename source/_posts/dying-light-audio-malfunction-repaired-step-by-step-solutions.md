@@ -1,7 +1,7 @@
 ---
 title: "Dying Light Audio Malfunction Repaired: Step-by-Step Solutions"
-date: 2024-11-22T23:15:23.184Z
-updated: 2024-11-24T11:58:57.454Z
+date: 2024-12-01T19:03:30.042Z
+updated: 2024-12-02T16:08:12.553Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -115,11 +115,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -127,12 +127,12 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -142,10 +142,6 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
@@ -159,12 +155,12 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -182,7 +178,7 @@ Here are the system requirements for Control:
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
@@ -195,6 +191,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -205,10 +205,6 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -226,10 +222,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -239,6 +231,10 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -252,6 +248,10 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -279,19 +279,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-2023-linking-tweets-to-facebook-videos-effortlessly/"><u>[New] In 2024, 2023 Linking Tweets to Facebook Videos Effortlessly</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-art-of-editing-reimagined-by-vidas-innovations/"><u>[New] In 2024, The Art of Editing Reimagined by Vida's Innovations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-entry-level-mic-tips-for-youtube-voice-talents-for-2024/"><u>[Updated] Entry-Level Mic Tips for YouTube Voice Talents for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-your-life-your-legacy-youtube-videos-that-matter/"><u>[Updated] In 2024, Your Life, Your Legacy YouTube Videos That Matter.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-misleading-ais-by-implementing-our-proven-6-step-prompt-optimization-guide/"><u>Avoid Misleading AIs by Implementing Our Proven 6-Step Prompt Optimization Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-constant-pc-startup-in-bios-mode/"><u>Circumventing Constant PC Startup in BIOS Mode</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comment-et-pourquoi-transformez-vous-rapidement-un-fichier-ts-en-mp4-sans-perdre-la-qualite/"><u>Comment Et Pourquoi Transformez-Vous Rapidement Un Fichier TS en MP4 Sans Perdre La Qualité ?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cut-down-on-game-delay-instances/"><u>Cut Down On Game Delay Instances</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cinemas-best-shoot-techniques-the-ultimate-guide-for-24/"><u>In 2024, Cinema's Best Shoot Techniques The Ultimate Guide for '24</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-plotting-your-way-through-successful-instagram-video-marketing/"><u>In 2024, Plotting Your Way Through Successful Instagram Video Marketing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-c1900101-during-windows-11-os-setup/"><u>Prevent and Resolve C1900101 During Windows 11 OS Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realigning-distorted-displays-within-windows-10-systems/"><u>Realigning Distorted Displays Within Windows 10 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silencing-screenscape-shenanigans-in-pro-7/"><u>Silencing Screenscape Shenanigans in Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-unite-without-problems/"><u>Windows & NVidia Unite Without Problems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-creating-professional-edits-using-youtube-studio-editor/"><u>[New] In 2024, Creating Professional Edits Using YouTube Studio Editor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-guide-finding-perfect-music-for-unpack-videos/"><u>[Updated] Guide Finding Perfect Music For Unpack Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-zoom-meeting-organization-tips-for-professionals/"><u>[Updated] In 2024, Zoom Meeting Organization Tips for Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>[Updated] Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-optimizing-youtube-presentations-with-precise-times/"><u>2024 Approved Optimizing YouTube Presentations with Precise Times</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ban-blinking-behemoth-easy-guide/"><u>Ban Blinking Behemoth: Easy Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-errors-with-directinputdll-in-the-microsoft-framework/"><u>Fixing Errors with DirectInput.dll in the Microsoft Framework</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-7-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 7 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-position-solved-for-devices/"><u>Optimal Lateral Position Solved for Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-civ-5-hardware-failures/"><u>Overcoming Civ 5 Hardware Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-outdated-intel-gfx-on-win10-pcs/"><u>Quick Fix for Outdated Intel GFX on Win10 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-incompatible-hdmi-between-devices/"><u>Solved Incompatible HDMI Between Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-nvidia-rtx-crashes-in-games/"><u>Stop NVIDIA RTX Crashes in Games</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-big-wave-of-enterprise-5g-celonas-landmark-60-million-series-c-investment-explained-by-zdnet/"><u>The 'Big Wave' Of Enterprise 5G: Celona's Landmark $60 Million Series C Investment Explained by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-70-lite-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor 70 Lite 5G.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlisted-titan-rtx-on-system-console/"><u>Unlisted Titan RTX on System Console</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiled-direct-x-issue-now-fixed-in-legion/"><u>Unveiled Direct X Issue, Now Fixed in Legion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stability-achieved/"><u>Windows 10 Display Stability Achieved</u></a></li>
 </ul></div>
 

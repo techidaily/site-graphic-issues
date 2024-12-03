@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2024-11-23T08:34:14.258Z
-updated: 2024-11-24T04:41:58.533Z
+date: 2024-11-30T23:04:52.035Z
+updated: 2024-12-03T02:03:46.748Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -74,10 +78,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -85,10 +85,6 @@ Here is how to do it:
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -115,6 +111,10 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,20 +148,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-speech-recording-top-apps-for-your-ipad/"><u>[New] 2024 Approved Mastering Speech Recording Top Apps for Your iPad</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/wift-technique-coding-images-for-youtube-channel-thumbnails-for-2024/"><u>[New] Swift Technique Coding Images for YouTube Channel Thumbnails for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evolving-scripts-in-cinema-today/"><u>[Updated] Evolving Scripts in Cinema Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-split-pixel-errors-pc/"><u>Address Split Pixel Errors (PC)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-size-to-perfection/"><u>Adjusting Screen Size to Perfection</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/city-building-crash-lands-onto-mars-to-create-whirlwinds-of-good-fun/"><u>City-Building Crash Lands Onto Mars to Create Whirlwinds of Good Fun</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/customizing-screen-size-for-win11/"><u>Customizing Screen Size for Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-adapter-recovering-from-glitch-state/"><u>Display Adapter Recovering From Glitch State</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eye-shadow-and-lips-tutorials-for-2024/"><u>Eye Shadow & Lips Tutorials for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-gionee-f3-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Gionee F3 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138592197-9781452547558-mastering-the-power-of-life/"><u>Mastering the Power of Life | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maxed-out-visual-settings-for-windows-11/"><u>Maxed Out Visual Settings for Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unblock-your-asus-webcam/"><u>Unblock Your ASUS Webcam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-710-screen-settings-preservation-how-to-fix-fixing-done/"><u>Windows 7/10 Screen Settings Preservation - How to Fix [Fixing Done]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-online-tv-downloading-a-complete-recording-blueprint/"><u>[New] Online TV Downloading A Complete Recording Blueprint</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-11r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 11R without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722198827889-can-you-count-on-chatgpt-for-reliable-text-summaries-think-again/"><u>Can You Count on ChatGPT for Reliable Text Summaries? Think Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-anthem-loading-times/"><u>Improve Anthem Loading Times</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-signal-new-graphics-card/"><u>No Signal - New Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-visual-fluidity-through-supported-freesync/"><u>Optimizing Visual Fluidity Through Supported FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-find-x6-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find X6 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-android-3d-viewer-experience/"><u>Top Android 3D Viewer Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-iphone-glitches-3-effective-ways-to-restore-your-contact-list/"><u>Unstuck From iPhone Glitches: 3 Effective Ways to Restore Your Contact List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/verified-vids-the-reality-of-instas-self-validation/"><u>Verified Vids The Reality of Insta’s Self-Validation</u></a></li>
 </ul></div>
 

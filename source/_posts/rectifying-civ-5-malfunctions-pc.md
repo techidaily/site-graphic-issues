@@ -1,7 +1,7 @@
 ---
 title: Rectifying Civ 5 Malfunctions PC
-date: 2024-11-23T08:41:28.552Z
-updated: 2024-11-24T05:43:54.352Z
+date: 2024-11-30T16:48:10.674Z
+updated: 2024-12-03T03:09:07.106Z
 tags:
   - win11
   - win10
@@ -40,17 +40,13 @@ Here’s how to do it:
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -69,7 +65,7 @@ Here’s how to do it:
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
@@ -77,7 +73,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
@@ -90,11 +86,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
 
@@ -104,6 +100,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -128,22 +128,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-art-of-youtube-posts-via-instagram-stories/"><u>[New] In 2024, Mastering the Art of YouTube Posts via Instagram Stories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unseen-pathways-to-friend-finder-excellence/"><u>[New] Unseen Pathways to Friend Finder Excellence</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[Updated] 2024 Approved Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-advanced-techniques-to-record-and-save-stories/"><u>[Updated] In 2024, Advanced Techniques to Record and Save Stories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-spreading-beauty-wisdom-setting-up-your-vloggers-virtual-space/"><u>[Updated] In 2024, Spreading Beauty Wisdom Setting Up Your Vlogger's Virtual Space</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-stability-resolved-amd-r9-driver-issues-w10/"><u>Achieving Stability: Resolved AMD R9 Driver Issues W10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/battled-and-solved-the-erratic-screen-blanks-on-laptops/"><u>Battled and Solved the Erratic Screen Blanks on Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bright-distraction-free-windows/"><u>Bright, Distraction-Free Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comprehensive-step-by-step-manual-on-restoring-your-maxtor-hard-disk-drives/"><u>Comprehensive Step-by-Step Manual on Restoring Your Maxtor Hard Disk Drives</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-12-rectified-monster-hunter-world-resumes/"><u>Error 12 Rectified: Monster Hunter World Resumes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nokia-150-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nokia 150 (2023) to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-play-8t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Play 8T to Another | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-failure-a-guide-for-repair/"><u>Laptop Display Failure – A Guide for Repair</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-gpu-blackout-problem/"><u>Latest GPU - Blackout Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-resolves-graphics-incompatibility/"><u>Overwatch Resolves Graphics Incompatibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-blackout-updated-gpu/"><u>Silent Blackout, Updated GPU</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-were-my-imessages-undelivered-today-uncover-the-reasons-with-zdnet-exclusive/"><u>Why Were My iMessages Undelivered Today? Uncover the Reasons with ZDNet Exclusive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fuel-ambition-with-these-10-movie-masterpieces/"><u>2024 Approved Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amend-graphic-distortions-in-laptops/"><u>Amend Graphic Distortions in Laptops</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutsche-wochentage-einfache-lerneinheit/"><u>Deutsche Wochentage: Einfache Lerneinheit</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhancing-heads-in-tiktok-videos-3-efficient-techniques-for-2024/"><u>Enhancing Heads in TikTok Videos 3 Efficient Techniques for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-note-13-pro-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi Note 13 Pro 5G FRP?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-detail-on-far-crys-rendering/"><u>Improving Detail on Far Cry's Rendering</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-chromecasts-new-google-tv-feature-a-threat-to-amazons-dominance-in-the-stream/"><u>Is Chromecast's New Google TV Feature a Threat to Amazon's Dominance in the Stream?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-offline-issue-solutions-for-win1011/"><u>Laptop's GPU Offline Issue: Solutions for Win10/11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transforming-your-tech-retreat-effortless-steps-for-fitting-a-new-hdd-on-windows-11-systems/"><u>Transforming Your Tech Retreat: Effortless Steps for Fitting a New HDD on Windows 11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-rejoices-with-fixed-nvidiaintel-graphics-card-pairing/"><u>Windows 10 Rejoices with Fixed Nvidia/Intel Graphics Card Pairing</u></a></li>
 </ul></div>
 

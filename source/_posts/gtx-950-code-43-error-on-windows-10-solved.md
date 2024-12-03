@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 10 [Solved]
-date: 2024-11-20T07:01:21.559Z
-updated: 2024-11-23T22:55:08.530Z
+date: 2024-11-30T20:03:26.533Z
+updated: 2024-12-02T22:13:56.349Z
 tags:
   - win11
   - win10
@@ -47,33 +47,25 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -98,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -107,9 +99,17 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
@@ -155,22 +155,18 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-video-quality-at-its-best-webcams-for-superior-podcasting-for-2024/"><u>[New] Video Quality at Its Best Webcams for Superior Podcasting for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solution-missing-displays-in-windows-10/"><u>[SOLUTION]: Missing Displays in Windows 10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-quicker-periscope-livestreams/"><u>[Updated] 2024 Approved Tips for Quicker Periscope Livestreams</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009038739-ashen-crash-fixed-swift-and-simple-solutions/"><u>Ashen Crash Fixed: Swift and Simple Solutions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-sites-enhance-your-traffic-with-smart-analytics/"><u>Cookiebot-Enabled Sites: Enhance Your Traffic with Smart Analytics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-black-screen-on-tv-via-hdmi-connection/"><u>Fixing Black Screen on TV via HDMI Connection</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-12plus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 12+ 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-suggestions-best-iphone-audio-innovators-for-2024/"><u>Leading Suggestions Best iPhone Audio Innovators for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-xbox-one-games-hand-free/"><u>Navigating Xbox One Games Hand-Free</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-win-781011-graphic-driver-flaws/"><u>Rectifying WIN 7/8/10/11 Graphic Driver Flaws</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolution-tuning-mastered-stable-with-new-window-11-release/"><u>Resolution Tuning Mastered - Stable with New Window 11 Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-issue-only-partial-window-on-monitor/"><u>Screen Issue: Only Partial Window on Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-address-gpu-crashes-and-maintain-computer-functionality/"><u>Steps to Address GPU Crashes and Maintain Computer Functionality</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>Updated In 2024, Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-easily-connect-to-the-cloud-and-post-from-your-camera-roll-for-2024/"><u>[New] Easily Connect to the Cloud and Post From Your Camera Roll for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-intermittent-video-playback-fix-and-resolve-issues/"><u>[New] Intermittent Video Playback - Fix & Resolve Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-aesir-clash-dawn-of-the-gods/"><u>2024 Approved Aesir Clash Dawn of the Gods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-screenshake-phenomenon-in-lenovo/"><u>Addressing Screenshake Phenomenon in Lenovo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decoding-instagrams-maximum-video-duration-length-limit-for-2024/"><u>Decoding Instagram’s Maximum Video Duration Length Limit for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-repairs-no-screen-on-your-nvidia-card/"><u>Effortless Repairs: No Screen on Your NVIDIA Card?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-any-laptop-to-dual-4k-brilliance-even-without-native-support-a-revolutionary-display-accessory-techradar/"><u>Enhance Any Laptop to Dual 4K Brilliance, Even Without Native Support: A Revolutionary Display Accessory | TechRadar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-make-your-asus-screen-sparkle-again/"><u>How to Make Your Asus Screen Sparkle Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/luminosity-without-the-dance-preventing-screen-flickers/"><u>Luminosity without the Dance: Preventing Screen Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screens-strategies-for-reducing-flickers/"><u>Smooth Screens: Strategies for Reducing Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-switchable-graphics-issue-in-windows-11/"><u>Solving Switchable Graphics Issue in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-spot-fake-bingpt-coins-immediately/"><u>Steps to Spot Fake BinGPT Coins Immediately</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-livestreams-with-manycam-the-premier-choice-for-professional-virtual-webcams-and-video-editing-software/"><u>Transform Your Livestreams with ManyCam - The Premier Choice for Professional Virtual Webcams and Video Editing Software</u></a></li>
 </ul></div>
 

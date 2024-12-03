@@ -1,7 +1,7 @@
 ---
 title: Dial Down ASUS Laptop Display Flash Quickly
-date: 2024-11-18T05:11:24.016Z
-updated: 2024-11-23T23:26:47.137Z
+date: 2024-11-28T03:07:48.866Z
+updated: 2024-12-02T23:58:45.802Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
  Here are 4 fixes that have helped other users resolve the screen flickering on ASUS laptop issue. Just work your way down the list until you find the one that works for you.
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
@@ -61,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -71,12 +67,12 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
@@ -156,16 +156,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/blink-blank-how-to-stop-it/"><u>Blink Blank: How to Stop It</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/control-excessive-win-10-display-size/"><u>Control Excessive WIN 10 Display Size</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-reappears-post-win11-blackout/"><u>Cursor Reappears Post-Win11 Blackout</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-m54-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy M54 5G FRP Without Computer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-top-5-hand-to-hand-combat-games/"><u>Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-tv-like-screen-darkening/"><u>Overcoming Lenovo TV-Like Screen Darkening</u></a></li>
-<li><a href="https://facebook.techidaily.com/revolutionary-access-how-facebooks-decision-impacts-oculus-go-users/"><u>Revolutionary Access: How Facebook's Decision Impacts Oculus Go Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplifying-display-images-with-screencapture-techniques/"><u>Simplifying Display Images with ScreenCapture Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-sensations-navigating-facebook-twitter-instagram-and-youtubes-popularity/"><u>Social Sensations: Navigating Facebook, Twitter, Instagram and YouTube's Popularity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solution-steps-fixing-nonfunctional-alarms-on-your-ios-device/"><u>Solution Steps: Fixing Nonfunctional Alarms on Your iOS Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/squash-nvidia-driver-disruption/"><u>Squash Nvidia Driver Disruption</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-best-html5-video-player-landscape/"><u>[New] Navigating the Best HTML5 Video Player Landscape</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-on-or-off-comments-on-youtube/"><u>[Updated] In 2024, How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-top-10-video-editing-apps-for-instagram-magic/"><u>[Updated] Unveiling the Top 10 Video Editing Apps for Instagram Magic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/free-youtube-video-editing-apps-for-iphone-and-ipad/"><u>Best Free YouTube Video Editing Apps for iPhone & iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-spacebar-malfunction-problems/"><u>Diagnosing and Solving Windows 10 Spacebar Malfunction Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-adapter-issue-resolved/"><u>Display Adapter Issue Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818350627-geforce-1060-get-new-nvidia-drivers-now/"><u>GeForce 1060: Get New Nvidia Drivers Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/obscured-display-post-driver/"><u>Obscured Display Post-Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-your-dead-asus-webcam/"><u>Reactivating Your Dead ASUS Webcam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-dead-laptop-monitor-issue/"><u>Resolving the Dead Laptop Monitor Issue</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/revolutionize-your-virtual-engagements-with-advanced-google-meet-customization/"><u>Revolutionize Your Virtual Engagements with Advanced Google Meet Customization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shrinking-excessive-windows-11-size/"><u>Shrinking Excessive Windows 11 Size</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-when-your-surface-pro-wont-connect-to-the-internet/"><u>Step-by-Step Fixes When Your Surface Pro Won't Connect to the Internet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/streamline-your-media-top-6-techniques-for-shrinking-video-length-and-size/"><u>Streamline Your Media: Top 6 Techniques for Shrinking Video Length and Size</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-nyt-crossword-clues-solutions-and-strategies-for-july-29th-puzzle-414/"><u>Unlocking the NYT Crossword Clues: Solutions & Strategies for July 29Th Puzzle #414</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-stops-device-resolved-nvidia-error-43/"><u>Windows Stops Device - Resolved: NVIDIA Error #43</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xfinity-driver-correction-smooth-operation-restored/"><u>XFINITY Driver Correction: Smooth Operation Restored</u></a></li>
 </ul></div>
 

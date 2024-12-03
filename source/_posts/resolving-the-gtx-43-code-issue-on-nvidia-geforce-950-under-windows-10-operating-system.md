@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'GTX 43 Code' Issue on NVIDIA GeForce 950 Under Windows 10 Operating System
-date: 2024-11-20T10:55:07.706Z
-updated: 2024-11-24T07:05:30.023Z
+date: 2024-11-27T21:37:13.505Z
+updated: 2024-12-02T22:29:34.150Z
 tags:
   - win11
   - win10
@@ -47,25 +47,33 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -94,11 +98,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -107,13 +107,13 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -155,24 +155,22 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/roadview-networks-navigating-mcn-choices/"><u>[New] Broadview Networks Navigating MCN Choices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-revolutionizing-fields-with-virtual-reality/"><u>[New] Revolutionizing Fields with Virtual Reality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-trailer-creation-with-filmora/"><u>2024 Approved Mastering YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-secure-boot-state-unsupported-error-in-windows/"><u>5 Ways to Fix the Secure Boot State Unsupported Error in Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ion-methods-for-youtubes-backlogged-video-collection-for-2024/"><u>Deletion Methods for YouTube's Backlogged Video Collection for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms-for-2024/"><u>From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-on-recent-win11-laptop/"><u>GPU Status Normalized on Recent Win11 Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hidden-direct-x-flaw-now-patched-in-lol/"><u>Hidden Direct X Flaw Now Patched in LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-zte-axon-40-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your ZTE Axon 40 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jolt-for-lethargic-gpu-fans/"><u>Jolt for Lethargic GPU Fans</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/masterful-removal-techniques-for-graphics-drivers/"><u>Masterful Removal Techniques for Graphics Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/next-gen-gaming-new-radeon-hd-6950-on-win10/"><u>Next-Gen Gaming: New Radeon HD 6950 on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-longer-a-graphic-compatibility-issue-in-overwatch/"><u>No Longer a Graphic Compatibility Issue in Overwatch</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-honor-x9b-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X9b? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/undetected-video-card-alert/"><u>Undetected Video Card Alert</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-expertise-en-acceleration-video-et-audio-avec-vitesse-adaptable-grace-au-gpu/"><u>WinxVideo AI - Expertise en Accélération Vidéo Et Audio Avec Vitesse Adaptable Grâce Au GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfinity-display-driver-error-corrected-and-operational/"><u>XFINITY Display Driver Error Corrected and Operational</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wi-fi-gif-movavi/"><u>오늘날 원탁할 수 있는 무료 Wi-Fi용 GIF 텍스트 바이네틱화 - Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-sounds-policy-explained/"><u>[Updated] Instagram Sounds Policy Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-cam-repair-guide-essentials/"><u>ASUS Cam Repair Guide Essentials</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
+<li><a href="https://games-able.techidaily.com/decades-worth-of-improvement-with-my-oled-screen/"><u>Decade's Worth of Improvement with My OLED Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixes-prime-handheld-issue-x-ally-unveiled/"><u>Fixes Prime Handheld Issue, X Ally Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-cpu-override-in-win1011s-display-settings/"><u>Fixing CPU Override in Win10/11's Display Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-software-compatible-with-hp-all-in-one-deskjet-5-printers-windows-11-8-7/"><u>Get the Latest Software Compatible with HP All-in-One DeskJet 지자세 5 Printers (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-startup-dx12-error-with-halo-infinite/"><u>Halted Game Startup: DX12 Error with Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-xs-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone XS Max With 7 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-behance-portfolio-image-constraints/"><u>In 2024, Behance Portfolio Image Constraints</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nubia-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nubia Lock Screen Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fixing-nvidia-installer-issue/"><u>Resolved: Fixing NVIDIA Installer Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-overcoming-black-screen-in-persona-5-strikers-gameplay/"><u>Troubleshooting Steps for Overcoming Black Screen in Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-denied-no-card-found/"><u>Visual Output Denied: No Card Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
 </ul></div>
 

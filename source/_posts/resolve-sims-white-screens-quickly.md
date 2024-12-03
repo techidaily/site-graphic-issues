@@ -1,7 +1,7 @@
 ---
 title: Resolve Sims' White Screens Quickly
-date: 2024-11-17T05:27:55.487Z
-updated: 2024-11-24T07:37:18.334Z
+date: 2024-12-01T16:00:56.206Z
+updated: 2024-12-02T16:59:27.863Z
 tags:
   - win11
   - win10
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -70,7 +74,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
@@ -94,7 +98,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
@@ -113,13 +117,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -139,10 +143,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Locate **The Sims 4** and uninstall it too.
 
  5) Restart your computer.
@@ -154,10 +154,6 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -181,6 +177,10 @@ Here is how to check if your computer spec has met the requirements:
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -211,18 +211,20 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-peak-performance-god-of-war-tips/"><u>Achieving Peak Performance: 'God of War' Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/demystifying-ultra-high-definition-what-is-4k/"><u>Demystifying Ultra-High-Definition: What Is 4K?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-control-over-screen-dpi-in-windows-11-fix/"><u>Enhanced Control Over Screen DPI in Windows 11 Fix</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-itel-a60s-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Itel A60s</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-v2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic V2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-electronics-a-closer-look-by-tom/"><u>Navigating the Latest in Electronics - A Closer Look by Tom</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-lenovo-x1-carbon-driver-downloads-compatible-with-windows-10-and-7/"><u>Quick and Easy Lenovo X1 Carbon Driver Downloads: Compatible with Windows 10 & 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revived-vega-rendering-glitch/"><u>Revived Vega Rendering Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smoothened-laptop-monitor-glitches-effectively/"><u>Smoothened Laptop Monitor Glitches Effectively</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-fun-girl-games-for-kids-for-2024/"><u>Top Fun Girl Games for Kids for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlock-the-secrets-to-effective-podcast-scriptwriting-and-practical-examples/"><u>Unlock the Secrets to Effective Podcast Scriptwriting & Practical Examples</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-graphics-on-windows-1011-laptops/"><u>Unlocking Graphics on Windows 10/11 Laptops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-total-physical-action-scrutiny/"><u>[New] Total Physical Action Scrutiny</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-the-power-of-high-quality-webcam-videos/"><u>[Updated] 2024 Approved Unlock the Power of High-Quality Webcam Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-liminal-film-narrative-plan/"><u>2024 Approved Liminal Film Narrative Plan</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-tips-to-eliminate-frame-rate-drops-and-stutters-for-optimal-pc-gaming-performance/"><u>Battlefield 2042 - Tips to Eliminate Frame Rate Drops & Stutters for Optimal PC Gaming Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-difficulty-blocking-halo-infinites-first-playable-moment/"><u>DX12 Difficulty Blocking Halo Infinite's First Playable Moment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-fixed-r9-drivers-in-w10/"><u>Enhanced Performance with Fixed R9 Drivers in W10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-c1900101-error-in-win10-setup/"><u>How to Eliminate C1900101 Error in Win10 Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 6 Plus | Stellar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818152861-nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tips-for-iphone-burst-photo-sequences-for-2024/"><u>Pro Tips for iPhone Burst Photo Sequences for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-civ-5-malfunctions-pc/"><u>Rectifying Civ 5 Malfunctions PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-blackscreen-in-win11/"><u>Resolved BlackScreen in Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/676326-9781846947612-you-are-light/"><u>You are Light | Free Book</u></a></li>
 </ul></div>
 

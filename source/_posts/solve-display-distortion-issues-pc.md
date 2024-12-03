@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2024-11-22T11:21:39.090Z
-updated: 2024-11-23T17:36:17.671Z
+date: 2024-12-02T01:41:41.672Z
+updated: 2024-12-03T03:58:31.617Z
 tags:
   - win11
   - win10
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does my screen tear?
 
  One common cause is that your computer outputs more video frames than your monitor can take. For example, if your monitor is using a fixed refresh rate of**60 Hz** (refreshes every 1/60 second), the video output with frame rates higher than that can be**out of sync** with your monitor. Then you have multiple frames displayed at once on your scree, which is the screen tearing issue.
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix my tearing screen?
 
@@ -36,7 +44,7 @@ There are two fixes you can try:
 2. [**Turn on V-Sync**](#b)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
@@ -53,17 +61,9 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
 
@@ -72,6 +72,10 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -83,10 +87,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
@@ -97,6 +97,10 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For**AMD** graphics users
 
  Open Radeon Software, go to**Gaming > 3D Application Settings/Global Graphics** . Then set**Wait for vertical refresh** as**Always On** .
@@ -104,10 +108,6 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
@@ -131,24 +131,21 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-basics-of-evolving-media-and-graphics/"><u>[New] Basics of Evolving Media and Graphics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-customize-your-view-with-this-diy-guide-for-google-vr-gear-for-2024/"><u>[New] Customize Your View with This DIY Guide for Google VR Gear for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-audio-adjustment-on-youtube-devices/"><u>[New] In 2024, Mastering Audio Adjustment on YouTube Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve-for-2024/"><u>[New] Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovered-nvidia-display-issue-settled/"><u>[Recovered] Nvidia Display Issue Settled</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>[Updated] In 2024, Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10s-c1900101-error-quickly/"><u>Addressing Windows 10'S C1900101 Error Quickly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhancing-ai-efficiency-discovering-tsmcs-innovative-128-tbps-silicon-photonic-interconnect-technology/"><u>Enhancing AI Efficiency: Discovering TSMC's Innovative 12.8 Tbps Silicon Photonic Interconnect Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-asus-monitor-flicker-with-ease/"><u>Fixing ASUS Monitor Flicker with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/identify-faulty-drivers-stop-crashes/"><u>Identify Faulty Drivers, Stop Crashes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-addressing-fake-profile-imagery-in-fb-conversation/"><u>In 2024, Addressing Fake Profile Imagery in FB Conversation</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-huawei-nova-y91-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Huawei Nova Y91 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-11-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 11 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-your-asus-display-quell-screen-flashes/"><u>Master Your ASUS Display: Quell Screen Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quelling-flickering-on-microsoft-surface-pro-7/"><u>Quelling Flickering on Microsoft Surface Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-graphical-glitch-nvidia-leads-the-way/"><u>Rectified Graphical Glitch - NVIDIA Leads the Way</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818203752-saving-screen-setup-finally-successful/"><u>Saving Screen Setup Finally Successful</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-blue-screen-crisis-tackle-wdf-complaints/"><u>Windows Blue Screen Crisis: Tackle WDF Complaints</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-perfect-pages-with-premieres-fade-techniques-for-2024/"><u>[Updated] Perfect Pages with Premiere's Fade Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-effective-strategies-for-solving-audio-glitches-on-your-windows-10-machine/"><u>5 Effective Strategies for Solving Audio Glitches on Your Windows 10 Machine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-display-stability-on-pro-7-tablet/"><u>Enhancing Display Stability on Pro 7 Tablet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/excellent-ending-for-displays-save-saga/"><u>Excellent Ending for Displays' Save-Saga</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/hands-on-strategies-to-keep-vimeo-videos-for-2024/"><u>Hands-On Strategies to Keep Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highest-rated-20-public-domain-pubg-combos/"><u>Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience-for-2024/"><u>How LG's 27UHD68 Enhances Gaming Experience for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-not-registered-in-device-hub/"><u>NVIDIA RTX Not Registered in Device Hub</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blurriness-in-far-cry-6-display/"><u>Overcoming Blurriness in Far Cry 6 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pinpoint-problematic-video-card-in-crashes/"><u>Pinpoint Problematic Video Card in Crashes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/rapid-training-image-transformation-for-dynamic-youtube-desktop-thumbnails/"><u>Rapid Training Image Transformation for Dynamic YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-options-with-precision/"><u>Restoring Lost Display Options with Precision</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-eradicated-screen-warping/"><u>Windows 11: Eradicated Screen Warping</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windowspc/"><u>WindowsPCで選択した箇所だけ音声ファイルを分離する手順</u></a></li>
+<li><a href="https://win-latest.techidaily.com/aep/"><u>アフターエフェクト：未保存されたAEPデータを取り戻す方法とヒント</u></a></li>
 </ul></div>
 

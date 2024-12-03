@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe"
-date: 2024-11-22T10:56:25.272Z
-updated: 2024-11-24T04:02:50.622Z
+date: 2024-12-01T20:02:14.505Z
+updated: 2024-12-02T17:40:16.763Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 
  These days, AMD graphics card users are pretty bummed when playing Escape from Tarkov. The game becomes unplayable when it’s raining. Everything is covered with shadows and black. If you’re on the same boat, don’t worry. In our article, we’ll show you effective methods to fix this graphics issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that does the trick.
@@ -33,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 5. **[Repair your PC](#fix5)**
 
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Verify integrity of game files
 
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 
  Then relaunch your game. If your problem persists, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Clean your temp folder
 
  Apart from clearing the game cache, you may want to clean the temp folder which stores temporary game files. This won’t cause any issues and instead, you’ll receive a performance boost.
@@ -69,15 +73,11 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 3. Scroll down to the**Tem directory** section. Then click**Clean Temp folder** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clean-temp-folder.png)
 4. Select**Yes** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/confirm-to-clear-temp-folder.png)
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
@@ -109,6 +109,10 @@ After updating drivers, restart your PC and test the gameplay.
 
 If your game is still unplayable, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair your PC
 
  If none of the methods listed above help fix your issue, it’s time you check if you have corrupted system files, which significantly reduce PC performance. In this case, you can try running a scan of your PC. And for that job, we recommend you use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a **100% legitimate** program that specializes in Windows repair. When you run Fortect, it’ll automatically find, and fix system software issues without losing your data.
@@ -118,10 +122,6 @@ If your game is still unplayable, move on to the next fix.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
@@ -144,24 +144,19 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/irtual-artisans-haven-retreat-for-2024/"><u>[New] Virtual Artisans' Haven Retreat for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817906327-solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vr-shopping-interface-prototyping/"><u>[Updated] 2024 Approved VR Shopping Interface Prototyping</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-engaging-effectively-in-online-google-meet-talks/"><u>[Updated] Engaging Effectively in Online Google Meet Talks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-and-compete-a-step-by-step-guide-to-playing-games-on-ps5-with-others/"><u>Connect and Compete: A Step-by-Step Guide to Playing Games on PS5 With Others</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-twitch-downtime-is-it-affected-globally-or-just-for-you/"><u>Deciphering Twitch Downtime: Is It Affected Globally or Just For You?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-apcs-disregard-for-internal-video-cards/"><u>Fix: APC's Disregard for Internal Video Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-rendering-system-errored-on-start/"><u>Graphic Rendering System Errored On-Start</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hasten-installing-intel-gfx-3000-on-windows-10/"><u>Hasten Installing Intel GFX 3000 on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Plus After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/invertingscreenview-solution/"><u>InvertingScreenView Solution</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mediacollector-for-fb-groups/"><u>MediaCollector for Fb Groups</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mjolnirs-legacy-new-era-dawned/"><u>Mjolnir's Legacy New Era Dawned</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-for-clearing-smudge-filled-displays/"><u>Techniques for Clearing Smudge-Filled Displays</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-path-to-a-perfect-life-integrating-chatgpt-techniques/"><u>The Path to a Perfect Life: Integrating ChatGPT Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-victory-displays-preserved-after-fix/"><u>Visual Victory: Displays Preserved After Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-update-no-more-video-glitches-or-buffering/"><u>Win10 Update: No More Video Glitches or Buffering</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-maximize-screen-size-for-youtube-videos/"><u>[New] Maximize Screen Size for YouTube Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-video-metrics-incorporating-tags-wisely/"><u>[Updated] 2024 Approved Unlocking Video Metrics Incorporating Tags Wisely</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rapidly-rendering-fortnite-cover-images/"><u>[Updated] In 2024, Rapidly Rendering Fortnite Cover Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-clearview-recorder-xtreme-win10/"><u>2024 Approved ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-urgently-no-gpu-detected/"><u>Fix Urgently: No GPU Detected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-microsoft-teams-microphone-in-windows-1011/"><u>How to Enable and Repair Microsoft Teams Microphone in Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-graphics-driver-in-windows-7/"><u>How to Update Intel Graphics Driver in Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-troubleshooting-fast-fixes-for-no-signal/"><u>Monitor Troubleshooting: Fast Fixes for No Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/newcard-screen-blackout-problem/"><u>NewCard Screen Blackout Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapid-responsiveness-in-anthem-play/"><u>Rapid Responsiveness in Anthem Play</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-true-windows-res-display/"><u>Unlocking True Window's Res Display</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-worlds-unleashed-predicted-best-psvr-gaming-experiences-for-2024/"><u>Virtual Worlds Unleashed Predicted Best PSVR Gaming Experiences for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-is-the-longest-word-in-the-world/"><u>What Is the Longest Word in the World?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win10: Fixed Incorrect Display Settings"
-date: 2024-11-21T01:03:26.447Z
-updated: 2024-11-24T08:04:51.756Z
+date: 2024-12-01T16:09:45.513Z
+updated: 2024-12-02T23:44:22.359Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 3. **[Turn on GPU Scaling](#F3)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -70,6 +74,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
@@ -78,10 +86,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -89,7 +93,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
@@ -105,10 +109,6 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
@@ -148,17 +148,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-microsoft-basic-render-driver-issues-in-windows-111087/"><u>[FIXED] Microsoft Basic Render Driver Issues in Windows 11/10/8/7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-tricks-for-smooth-auditory-paths/"><u>[Updated] 2024 Approved Top Tricks for Smooth Auditory Paths</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-expertly-convert-your-content-to-stellar-hd-with-top-tools-for-2024/"><u>[Updated] Expertly Convert Your Content to Stellar HD with Top Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-becoming-a-lut-connoisseur/"><u>[Updated] The Path to Becoming a LUT Connoisseur</u></a></li>
-<li><a href="https://win11.techidaily.com/cant-use-your-microphone-on-google-meet-for-windows-heres-why/"><u>Can’t Use Your Microphone on Google Meet for Windows? Here's Why</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-seamless-video-output-via-amd-freesync/"><u>Enabling Seamless Video Output via AMD FreeSync</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-mini-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 mini Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-uhd-graphics-driver-download-and-update-windows-1011/"><u>Intel UHD Graphics Driver Download & Update - Windows 10/11</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/navigating-the-tech-universe-with-toms-hardware-experts/"><u>Navigating the Tech Universe with Tom's Hardware Experts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-rotated-interface-issue-on-windows-10/"><u>Overcoming Rotated Interface Issue on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refining-gameplay-dynamics-in-god-of-war/"><u>Refining Gameplay Dynamics in 'God of War'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversing-rear-screen-renders-in-tablets/"><u>Reversing Rear Screen Renders in Tablets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-supercharge-your-screens-with-video-enhancer-v22/"><u>[New] Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-hidden-gems-top-tips-for-savvy-users/"><u>[Updated] 2024 Approved Instagram Hidden Gems Top Tips for Savvy Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-vision-experience-these-7-grading-styles/"><u>[Updated] Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-hidden-powerhouses-in-your-instagram-toolkit/"><u>[Updated] In 2024, The Hidden Powerhouses in Your Instagram Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-study-of-toolwizs-photography-tools/"><u>2024 Approved Comparative Study of Toolwiz's Photography Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-youtube-playback-on-newly-upgraded-windows-11/"><u>Enhancing YouTube Playback on Newly Upgraded Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-display-perfection-after-fix/"><u>Ensuring Display Perfection After Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-rectify-unrecognized-video-cards/"><u>How to Rectify Unrecognized Video Cards</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-best-among-us-discord-bots/"><u>In 2024, Best Among Us Discord Bots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-x9a-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor X9a Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intel-driver-install-on-underpowered-pcs/"><u>Intel Driver Install on Underpowered PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pixelpilot-expert-tips-for-screen-snagging-for-2024/"><u>PixelPilot Expert Tips for Screen Snagging for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-flickering-lcd-issues-on-computers/"><u>Repairing Flickering LCD Issues on Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/setting-save-successful-after-glitch-fix/"><u>Setting Save Successful After Glitch Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadows-lifted-direct-x-error-exposed-and-eliminated-from-lol/"><u>Shadows Lifted: Direct X Error Exposed & Eliminated From LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gameplay-quick-cure-for-amd-and-tarkov-gaffe/"><u>Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-launch-of-immortals-fenyx-rising-the-godly-quest-begins/"><u>Successful Launch of Immortals Fenyx Rising: The Godly Quest Begins</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g14-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G14 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

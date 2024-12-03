@@ -1,7 +1,7 @@
 ---
 title: "Banish Blinky: A Step-by-Step Guide to Screen Stability"
-date: 2024-11-22T09:41:59.398Z
-updated: 2024-11-23T17:25:03.442Z
+date: 2024-11-26T01:49:56.506Z
+updated: 2024-12-03T04:20:36.758Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -45,15 +49,11 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -68,10 +68,6 @@ To troubleshoot these hardware issues:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
  Applications like**Adobe Flash** and**Java** are also known to cause the computer screen to flicker. If you have these apps on your Windows 7 computer, uninstalling them may help fix your problem.
@@ -82,6 +78,10 @@ To troubleshoot these hardware issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -98,25 +98,25 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -157,16 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-multiplatform-recorder-for-pcs/"><u>[Updated] 2024 Approved Elite Multiplatform Recorder for PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blackout-alert-gpu-firmware/"><u>Blackout Alert: GPU Firmware</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-your-favorite-6-premier-youtube-short-downloaders-for-2024/"><u>Discover Your Favorite 6 Premier YouTube Short Downloaders for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-driver-crisis-resolved/"><u>Graphics Driver Crisis Resolved</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/honoring-ten-years-at-mondlys-milestone/"><u>Honoring Ten Years at Mondly's Milestone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-11-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 11 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/mastering-video-editing-with-winxvideo-ai-user-guide-and-step-by-step-tutorial-for-optimization-and-conversion/"><u>Mastering Video Editing with Winxvideo AI : User Guide & Step-by-Step Tutorial for Optimization and Conversion</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-resolve-non-launch-problem-in-farming-simulator-2022-game/"><u>Steps to Resolve Non-Launch Problem in Farming Simulator 2022 Game</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-tackle-non-functioning-asus-cam/"><u>Steps to Tackle Non-Functioning Asus Cam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-to-restore-vivid-colors-in-displays/"><u>Strategies to Restore Vivid Colors in Displays</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-advanced-ai-search-solutions-for-internet-exploration/"><u>The Ultimate List of Advanced AI Search Solutions for Internet Exploration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-instant-display-image-any-window-os/"><u>[New] 2024 Approved Instant Display Image, Any Window OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-quick-guide-uploading-tiktoks-directly-to-facebook/"><u>[New] 2024 Approved Quick Guide Uploading TikToks Directly to Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-projecting-yourself-to-the-world-with-insta-captions-for-2024/"><u>[Updated] Projecting Yourself to the World with Insta Captions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-strategy-to-dominate-youtube-via-creator-hub/"><u>[Updated] The Ultimate Strategy to Dominate YouTube Via Creator Hub</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y200e-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y200e 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/steam-cloud/"><u>無料でシンプル！Steam Cloudデータバックアップと復元の効果的な手順を学ぶ</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-flickering-screen-phenomena-in-acer-laptops/"><u>Combatting Flickering Screen Phenomena in Acer Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-text-sharpness-in-far-cry-adventures/"><u>Enhancing Text Sharpness in Far Cry Adventures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-immersed-visor-xr-headset-a-game-changer-in-tackling-major-concerns-with-vision-pro-zdnet-insights/"><u>Introducing the Immersed Visor XR Headset - A Game-Changer in Tackling Major Concerns with Vision Pro | ZDNET Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-blackout-issue-diagnosing-and-rectifying/"><u>Laptop's Blackout Issue - Diagnosing and Rectifying</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-video-quality-with-ease-and-speed/"><u>Master Video Quality with Ease & Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-error-403-in-roblox/"><u>Navigating Windows Error 403 in Roblox</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-incompatibility-in-overwatch/"><u>Overcoming Graphics Incompatibility in Overwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-windows-drivers-ms-basic-render/"><u>Perfecting Windows Drivers, MS Basic Render</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-plus-windows-compatibility/"><u>Resolved: NVidia + Windows Compatibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-graphics-card-response/"><u>Silent Graphics Card Response</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/time-efficient-tutorial-for-japanese-numerals/"><u>Time-Efficient Tutorial for Japanese Numerals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-sites-for-free-preschool-learning-fun/"><u>Top 9 Fantastic Sites for Free Preschool Learning Fun</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-resets-fix-for-resolution-settings-lockup/"><u>Win11 Resets - Fix for Resolution Settings Lockup</u></a></li>
 </ul></div>
 

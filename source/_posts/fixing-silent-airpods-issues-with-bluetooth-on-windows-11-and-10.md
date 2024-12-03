@@ -1,7 +1,7 @@
 ---
 title: Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10
-date: 2024-11-20T07:09:53.198Z
-updated: 2024-11-24T08:29:39.133Z
+date: 2024-11-25T20:07:41.518Z
+updated: 2024-12-02T17:12:53.675Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -41,25 +37,17 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -69,10 +57,6 @@ Read on and follow the easy-doing images below!
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -84,7 +68,7 @@ Read on and follow the easy-doing images below!
  If your computer sound still keeps cutting out, please move on to the next option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
@@ -95,13 +79,25 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -119,13 +115,17 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -151,20 +151,17 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-spectral-imagery-phantasmal-camera-analysis-for-2024/"><u>[Updated] Spectral Imagery Phantasmal Camera Analysis for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instantaneous-windows-image-player/"><u>2024 Approved Instantaneous Windows Image Player</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-quantum-hdr-essentials/"><u>2024 Approved Unveiling Quantum HDR Essentials</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advanced-graphics-tweaking-for-optimal-display-performance/"><u>Advanced Graphics Tweaking for Optimal Display Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-the-perfect-college-laptop-top-4-factors-and-10-recommended-models-insights/"><u>Choosing the Perfect College Laptop: Top 4 Factors & 10 Recommended Models - Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-poco-x5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Poco X5 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-note-50-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme Note 50 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29e Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/most-effective-methods-for-converting-asf-files-into-wav-format/"><u>Most Effective Methods for Converting ASF Files Into WAV Format</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-gpu-malfunctions-without-system-breaks/"><u>Navigating GPU Malfunctions Without System Breaks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refining-win-os-render-performance-via-upgrades/"><u>Refining Win OS Render Performance via Upgrades</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-asus-video-output-capabilities/"><u>Restore ASUS Video Output Capabilities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ringtone-transcription-iphone-year-2024-edition/"><u>Ringtone Transcription IPhone, Year 2024 Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-into-the-future-of-gaming-updated-amd-hd-6950-drivers-for-win10/"><u>Step Into the Future of Gaming: Updated AMD HD 6950 Drivers for Win10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rolling-back-macos-sierra-to-el-capitan-version/"><u>[New] Rolling Back MacOS Sierra to El Capitan Version</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-your-ultimate-guide-to-essential-game-worlds/"><u>[Updated] 2024 Approved Your Ultimate Guide to Essential Game Worlds</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-content-creation-mastering-live-recording-tools/"><u>Cutting-Edge Content Creation Mastering Live Recording Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-microsofts-azure-transcription-service-in-code/"><u>Integrating Microsoft's Azure Transcription Service in Code</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jumpstart-gaming-on-win10-new-release-of-radeon-hd-6950-drivers/"><u>Jumpstart Gaming on Win10: New Release of Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-overcoming-setup-obstacle/"><u>Mended: Overcoming Setup Obstacle</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-the-leading-edge-of-audio-production-does-magix-samplitude-hold-sway-for-2024/"><u>New Exploring the Leading Edge of Audio Production Does MAGIX Samplitude Hold Sway for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-steps-to-record-movies-on-your-tech-devices/"><u>Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-gpu-overheats-preserving-system-availability/"><u>Solutions to GPU Overheats: Preserving System Availability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshoot-and-fresh-install-mbox-2-windows-drivers-problem-solutions-included/"><u>Troubleshoot and Fresh-Install MBox 2 Windows Drivers – Problem Solutions Included</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-modernize-intel-graphics-support/"><u>Windows 7: Modernize Intel Graphics Support</u></a></li>
 </ul></div>
 

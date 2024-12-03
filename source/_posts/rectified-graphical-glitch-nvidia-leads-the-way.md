@@ -1,7 +1,7 @@
 ---
 title: Rectified Graphical Glitch - NVIDIA Leads the Way
-date: 2024-11-18T05:48:53.807Z
-updated: 2024-11-23T20:02:37.983Z
+date: 2024-12-01T23:25:13.234Z
+updated: 2024-12-02T20:27:13.203Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ed0ba5a4e.jpg)
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
@@ -58,20 +62,20 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -86,10 +90,6 @@ See how to do it:
 3) Type**regedit.exe** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
@@ -112,13 +112,13 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,24 +144,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-origami-like-folded-havens-in-mc/"><u>[New] In 2024, Origami-Like Folded Havens in MC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ncover-the-best-12-flipscreen-vlogging-cameras-on-a-budget-for-2024/"><u>[New] Uncover the Best 12 Flipscreen Vlogging Cameras on a Budget for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>[Updated] 2024 Approved Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-save-gifs-from-fb-on-different-devices/"><u>[Updated] In 2024, Step-by-Step Save GIFs From FB on Different Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-unleashed-top-10-no-cost-mac-painting-tools/"><u>2024 Approved Mastery Unleashed Top 10 No-Cost Mac Painting Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/a18-video-recovery-recover-deleted-videos-from-a18-by-fonelab-android-recover-video/"><u>A18 Video Recovery - Recover Deleted Videos from A18</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-in-twitch-streams/"><u>Bring Back the Colors in Twitch Streams</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-fixes-for-fallout-4-on-your-computer/"><u>Efficient Fixes for Fallout 4 on Your Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-reversed-screens-in-windows-11/"><u>Fixing Reversed Screens in Windows 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-graphics-not-functional-on-windows-1011/"><u>Laptop Graphics Not Functional on Windows 10/11?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-your-zoom-call-troubleshooting-tech/"><u>Master Your Zoom Call: Troubleshooting Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719319278608-microsoft-woes-solutions-to-ease-your-way/"><u>Microsoft Woes? Solutions to Ease Your Way</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-warped-graphics-in-win11/"><u>No More Warped Graphics in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-back-online-after-hiccup/"><u>Nvidia Driver: Back Online After Hiccup</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/safedrive-backup-specialists-take-for-2024/"><u>SafeDrive Backup Specialists' Take for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-void-after-graphic-installation/"><u>Silent Void After Graphic Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-laptops-misaligned-vertical-lines/"><u>Swift Fix for Laptop's Misaligned Vertical Lines</u></a></li>
-<li><a href="https://techtrends.techidaily.com/video-compression-tips-for-sending-via-email-a-guide-for-mac-and-pc-users/"><u>Video Compression Tips for Sending via Email: A Guide for Mac and PC Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-nvidia-display-issue-settled/"><u>[Recovered] Nvidia Display Issue Settled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-techniques-for-gauging-yt-popularity-and-monetization/"><u>[Updated] Comprehensive Techniques for Gauging YT Popularity & Monetization</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-user-preferences-with-instagrams-real-time-feedback-for-2024/"><u>[Updated] Unlocking User Preferences with Instagram's Real-Time Feedback for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10s-c1900101-error-quickly/"><u>Addressing Windows 10'S C1900101 Error Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-2042-troubleshooting-guide-overcoming-pc-compatibility-problems/"><u>Battlefield 2042 Troubleshooting Guide – Overcoming PC Compatibility Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-flv-in-mjpeg-online-e-gratuita-con-movavi-il-tuo-passaporto-per-la-fluidita-videografica/"><u>Conversione FLV in MJPEG Online E Gratuita Con Movavi: Il Tuo Passaporto per La Fluidità Videografica!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-asus-monitor-flicker-with-ease/"><u>Fixing ASUS Monitor Flicker with Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-6-straightforward-abodes-blueprints-in-mc-world/"><u>In 2024, Top 6 Straightforward Abodes Blueprints in MC World</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-240w-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 (240W) Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-video-tips-trim-to-size-with-precision-cutting/"><u>IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-your-asus-display-quell-screen-flashes/"><u>Master Your ASUS Display: Quell Screen Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-flickering-on-microsoft-surface-pro-7/"><u>Quelling Flickering on Microsoft Surface Pro 7</u></a></li>
 </ul></div>
 

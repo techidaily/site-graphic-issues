@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2024-11-21T23:27:34.807Z
-updated: 2024-11-24T03:42:38.870Z
+date: 2024-11-30T18:39:30.855Z
+updated: 2024-12-03T02:47:14.952Z
 tags:
   - win11
   - win10
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -86,7 +86,7 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -96,7 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -106,7 +106,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -142,20 +142,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone/"><u>[Updated] 2024 Approved Essential YouTube Strategies Compiling 10 Basic Yet Engaging Ideas for Everyone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-mastery-of-ipad-video-recording-for-2024/"><u>Easy Mastery of iPad Video Recording for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-vr-experience-with-functional-freesync/"><u>Enhancing VR Experience with Functional FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-tips-for-stopping-squirm-in-asus-lcds/"><u>Expert Tips for Stopping Squirm in ASUS LCDs</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-huion-pen-in-minutes-with-these-effective-strategies/"><u>Fix a Non-Responsive Huion Pen in Minutes with These Effective Strategies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ghostly-quadro-displayed-now-listed/"><u>Ghostly Quadro Displayed, Now Listed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 12? | Stellar</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2470717-9781495142109-joyfully-shattered/"><u>Joyfully Shattered | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-amd-video-driver-found-in-windows-systems/"><u>No AMD Video Driver Found in Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-god-of-war-difficulty-levels/"><u>Optimizing 'God of War' Difficulty Levels</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-latency-for-uninterrupted-videos/"><u>Overcome Latency for Uninterrupted Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-addressed-and-resolved-comexception-issue/"><u>Successfully Addressed and Resolved COMException Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-how-to-deal-with-persistent-504-gateway-timeouts/"><u>The Ultimate Fix: How to Deal with Persistent 504 Gateway Timeouts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/wi-fi-woes-heres-how-to-make-unseen-networks-visible-again/"><u>Wi-Fi Woes? Here's How to Make Unseen Networks Visible Again</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-graphic-design-career-pathways-unveiled/"><u>[New] 2024 Approved Mastering Graphic Design Career Pathways Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-expert-tips-for-twitter-video-interactions-for-2024/"><u>[New] Expert Tips for Twitter Video Interactions for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-laughlab-design-suite-for-2024/"><u>[New] LaughLab Design Suite for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-transformation-innovative-approaches-to-instagram-video-editing/"><u>[Updated] The Art of Transformation Innovative Approaches to Instagram Video Editing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-iphone-shoots-essential-8-tips-for-professional-results/"><u>Elevate Your iPhone Shoots Essential 8 Tips for Professional Results</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-boot-up-fails/"><u>Graphics Boot-Up Fails</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-visual-experience-post-dell-display-fixes/"><u>Smooth Visual Experience Post-Dell Display Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-warped-display-lines-in-devices/"><u>Swift Solutions for Warped Display Lines in Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/time-lapse-magic-capturing-moments-with-an-ipad-for-2024/"><u>Time-Lapse Magic Capturing Moments with an iPad for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-excess-space-on-win-10-display/"><u>Trim Excess Space on WIN 10 Display</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vintage-video-magic-a-step-by-step-guide-to-vhs-effects-in-final-cut-pro/"><u>Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro</u></a></li>
 </ul></div>
 

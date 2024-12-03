@@ -1,7 +1,7 @@
 ---
 title: Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!
-date: 2024-11-21T11:22:41.244Z
-updated: 2024-11-24T09:20:26.972Z
+date: 2024-12-02T04:20:20.851Z
+updated: 2024-12-02T20:18:50.982Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd48d0de70.jpg)
 
  If Google Chrome has been freezing your computer since Windows 10 updates, you’ve come to the right place! This article gives practical solutions to your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,7 +49,7 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
@@ -76,11 +72,15 @@ OR
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
@@ -94,10 +94,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
 
@@ -105,15 +101,11 @@ OR
 4. Click**Clear data** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -128,14 +120,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset Chrome settings to default
@@ -149,10 +137,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -192,18 +192,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-streamlit-success-top-5-tools-for-stellar-visuals/"><u>[New] Streamlit Success Top 5 Tools for Stellar Visuals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-graphics-support-post-driver-failure/"><u>[Restored] Graphics Support Post-Driver Failure</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-conquer-common-issues-essential-windows-10-fixes/"><u>[Updated] In 2024, Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/anthems-speed-up-guide/"><u>Anthem's Speed Up Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-driver-issue-43-resolved/"><u>Display Driver Issue #43 Resolved</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-corsair-keyboard-software-for-windows-get-your-latest-version-free/"><u>Download Corsair Keyboard Software for Windows - Get Your Latest Version FREE</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-change-background-in-google-meet-on-laptop-and-mobile-devices/"><u>How to Change Background in Google Meet on Laptop and Mobile Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-nord-3-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus Nord 3 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-hurdles-for-peak-graphics-efficiency/"><u>Overcoming Direct3D Hurdles for Peak Graphics Efficiency</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-rtx-game-performance-drops/"><u>Overcoming RTX Game Performance Drops</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-dvd-ripping-software-for-windows-11-best-alternatives-to-dvd-decrypter/"><u>Top DVD Ripping Software for Windows 11: Best Alternatives to DVD Decrypter</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-honor-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-unleash-full-screen-capabilities/"><u>Windows 11: Unleash Full Screen Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-pretending-playfulness-making-mocks-and-laughs/"><u>[New] 2024 Approved Pretending Playfulness Making Mocks and Laughs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphics-eyecatchermemes/"><u>[New] GiggleGraphics EyeCatcherMemes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pioneering-6-networks-supporting-business-development/"><u>[Updated] In 2024, Pioneering 6 Networks Supporting Business Development</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-igtvs-potential-secrets-to-attract-more-subscribers/"><u>2024 Approved Unlocking IGTV's Potential Secrets to Attract More Subscribers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818243959-d3d-init-bug-eliminated-happy-hour/"><u>D3D Init Bug Eliminated, Happy Hour!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earning-equations-decoding-the-mathematics-behind-youtube-income-monitoring/"><u>Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-master-become-proficient-in-german-via-netflix/"><u>From Novice to Master: Become Proficient in German Via Netflix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-innovation-vr-controllers-reviewed-for-2024/"><u>Leading Innovation VR Controllers Reviewed for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-adobe-premiere-rush-not-meeting-your-needs-explore-these-top-4-alternatives/"><u>New In 2024, Adobe Premiere Rush Not Meeting Your Needs? Explore These Top 4 Alternatives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-graphics-cards-detected-help-needed/"><u>No Graphics Cards Detected, Help Needed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-time-travel-visualization-for-2024/"><u>Strategies for Time Travel Visualization for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solution-wake-up-your-silent-dp-connection/"><u>Swift Solution: Wake up Your Silent DP Connection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix GPU Fans Not Spinning
-date: 2024-10-13T05:41:11.830Z
-updated: 2024-10-17T23:05:06.586Z
+date: 2024-11-26T18:57:31.338Z
+updated: 2024-12-03T00:34:28.987Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the fixes. Simply work your way down until you find the one that does the trick.
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
@@ -60,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -79,22 +80,8 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -111,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
@@ -132,22 +112,21 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
@@ -155,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -179,19 +162,24 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-cool-whatsapp-tricks-and-hidden-features-you-should-know-for-2024/"><u>[New] Cool Whatsapp Tricks and Hidden Features You Should Know for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-invisible-vibes-dimming-music-on-computers-for-2024/"><u>[New] Invisible Vibes Dimming Music on Computers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crossing-the-black-screen-barrier-in-win11/"><u>Crossing the Black Screen Barrier in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-issue-sorted-now-with-graphics-boost/"><u>Direct3D Issue Sorted: Now With Graphics Boost</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/displayreversalsolution-guide/"><u>DisplayReversalSolution Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/easily-share-your-camera-roll-in-a-snap-tips-and-tricks-for-2024/"><u>Easily Share Your Camera Roll in a Snap - Tips & Tricks for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y27-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y27 4G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-bright-ideas-effective-lighting-in-vlogging/"><u>In 2024, Bright Ideas Effective Lighting in Vlogging</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimizing-video-compression-maintain-quality-while-shrinking-file-size-on-your-mac/"><u>Optimizing Video Compression: Maintain Quality While Shrinking File Size on Your Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-issue-monitor-not-showing-full-screen-win11/"><u>Screen Issue: Monitor Not Showing Full Screen Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-geforce-frame-pacing/"><u>Solved GeForce Frame Pacing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-veracity-of-ffmpegs-audio-extraction-techniques-for-2024/"><u>The Veracity of FFmpeg’s Audio Extraction Techniques for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unravel-sims-graphical-hiccup/"><u>Unravel Sims Graphical Hiccup</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-gamers-tools-premium-gear-lists-on-youtube/"><u>2024 Approved Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y100i-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nubia-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nubia Unlock Without Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-connectivity-hubs-for-ps5-users/"><u>Advanced Connectivity Hubs for PS5 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-peace-to-your-win11-display/"><u>Bringing Peace to Your Win11 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/counteracting-screen-shimmer-on-surface-pro-7/"><u>Counteracting Screen Shimmer on Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nubia-red-magic-8s-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nubia Red Magic 8S Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy M14 5G FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-poco-c51-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Poco C51 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/methods-for-a-no-ads-experience-on-social-platforms-for-2024/"><u>Methods for a No-Ads Experience on Social Platforms for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-cleared-tdr-sighted-and-solved/"><u>NVIDIA Error Cleared: TDR Sighted & Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-opaque-outcomes-in-os-devices/"><u>Overcoming Opaque Outcomes in OS Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rebuilt-display-integrity-on-win11-os/"><u>Rebuilt Display Integrity on Win11 OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-your-osu-beatmaps-with-a-pc/"><u>Step-by-Step Guide: Capturing Your Osu! Beatmaps with a PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-gpu-errors-in-minecraft-on-pc/"><u>Stop GPU Errors in Minecraft on PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/turning-tides-in-the-social-stream-boosting-post-performance-for-2024/"><u>Turning Tides in the Social Stream Boosting Post Performance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-precision-achieved/"><u>Win11 Screen Precision Achieved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-gpu-ready-status-achieved/"><u>Windows 11 GPU Ready Status Achieved</u></a></li>
 </ul></div>
 

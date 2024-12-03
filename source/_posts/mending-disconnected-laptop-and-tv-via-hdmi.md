@@ -1,7 +1,7 @@
 ---
 title: Mending Disconnected Laptop and TV via HDMI
-date: 2024-11-21T10:11:30.540Z
-updated: 2024-11-23T20:59:07.249Z
+date: 2024-11-28T18:37:31.921Z
+updated: 2024-12-02T18:28:12.497Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
  Why is HDMI from laptop to TV not working? Usually, it’s the hardware faulty, so make sure your hardware devices are working properly. Another possible reason is that your TV is not recognized by your laptop. And you can try these solutions to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix HDMI laptop to TV not working
 
  Here are the fixes you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -31,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 3. [Update available drivers](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart and reconnect your devices
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
 Now check and see if your laptop to TV by HDMI works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -65,14 +65,10 @@ The difference between each mode is as follows:
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -95,12 +91,16 @@ The difference between each mode is as follows:
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -124,18 +124,15 @@ The difference between each mode is as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-screen-time-delight-with-these-top-offline-games/"><u>[New] In 2024, Exclusive Screen Time Delight with These Top Offline Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>[Updated] In 2024, Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamlined-sharing-the-best-shortened-link-apps-for-youtubers-for-2024/"><u>[Updated] Streamlined Sharing The Best Shortened Link Apps for Youtubers for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>[Updated] Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/facing-the-falls-top-action-cameras-2023/"><u>Facing the Falls Top Action Cameras 2023</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-unresponsive-trash-feature-error-36/"><u>Fix Unresponsive Trash Feature, Error 36</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-silent-airpods-issues-with-bluetooth-on-windows-11-and-10/"><u>Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-get-league-of-legends-running-smoothly-again-expert-tips/"><u>How to Get League of Legends Running Smoothly Again – Expert Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-no-rush-realms-top-12-serene-titles/"><u>In 2024, No-Rush Realms Top 12 Serene Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quitting-linkedin-how-to-close-your-account-properly-for-2024/"><u>Quitting LinkedIn How To Close Your Account Properly for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-your-darkest-dungeon-2-stalling-problems-no-more-pc-freezes/"><u>Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-resolve-windows-10-system-crashes-or-freezes/"><u>Steps to Resolve Windows 10 System Crashes or Freezes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ultimate-fixes-for-a-seamless-halo-infinite-gaming-session/"><u>Ultimate Fixes for a Seamless Halo Infinite Gaming Session</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/broadcast-without-delay-immediate-monitor-signal-restoration/"><u>Broadcast Without Delay: Immediate Monitor Signal Restoration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experts-choice-ultimate-guide-to-the-best-airtag-wallets-of-2024-on-zdnet-compare-and-buy-smart/"><u>Experts' Choice: Ultimate Guide to the Best AirTag Wallets of 2024 on ZDNET | Compare and Buy Smart!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-sighting-blacked-out-windows-11-fix/"><u>Mouse Sighting: Blacked Out Windows 11 Fix</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/1714938256611-new-2024-approved-how-to-make-your-voice-deeper-with-filmora/"><u>New 2024 Approved How to Make Your Voice Deeper With Filmora</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reclaiming-default-display-settings-on-windows-710-success-achieved/"><u>Reclaiming Default Display Settings on Windows 7/10 - Success [Achieved]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-connection-direct-links-to-downloading-your-thrustmaster-t150-gamepad-drivers/"><u>Speedy Connection - Direct Links to Downloading Your Thrustmaster T150 Gamepad Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/surprising-tech-find-by-cleaners-rare-1974-intellec-q1-computer-with-revolutionary-intel-8008-processor-uncovered-in-boxes-containing-16-kb-of-ram/"><u>Surprising Tech Find by Cleaners: Rare 1974 Intellec Q1 Computer with Revolutionary Intel #8008 Processor Uncovered in Boxes, Containing 16 KB of RAM</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-an-alarm-clock-spotlight-on-philips-somneo/"><u>The Ultimate Guide to Choosing an Alarm Clock: Spotlight on Philips Somneo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-output-stabilized-22-resolved/"><u>Video Output Stabilized: #22 Resolved</u></a></li>
 </ul></div>
 

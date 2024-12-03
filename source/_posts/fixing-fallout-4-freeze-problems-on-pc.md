@@ -1,7 +1,7 @@
 ---
 title: Fixing Fallout 4 Freeze Problems on PC
-date: 2024-10-11T12:07:55.517Z
-updated: 2024-10-17T22:39:48.454Z
+date: 2024-11-28T01:17:26.562Z
+updated: 2024-12-02T16:58:22.704Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
@@ -70,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
@@ -85,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 4) Restart your computer and open your Fallout 4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
@@ -102,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  3) If your Fallout 4 restarts to works, it should be an issue with your antivirus program, and you should**add Fallout 4 into the exception in your antivirus program** .
 
 If the issue persists, try the following method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. Configure settings in your Fallout 4**
 
@@ -118,13 +117,6 @@ If the issue persists, try the following method.
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -149,17 +141,24 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-capture-save-and-share-mastering-playstation-4-recordings/"><u>[New] In 2024, Capture, Save & Share Mastering PlayStation 4 Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>[New] Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-grasping-the-metaverse-a-look-at-6-in-depth-illustrations/"><u>[Updated] Grasping the Metaverse A Look at 6 In-Depth Illustrations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rhythm-reconstructor-bundle/"><u>[Updated] Rhythm Reconstructor Bundle</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/avoiding-poverty-earning-in-beauty-media-for-2024/"><u>Avoiding Poverty Earning in Beauty Media for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blackscreen-woes-end-mouse-on-win11/"><u>BlackScreen Woes End - Mouse on Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fast-track-navigation-how-to-implement-teleport-in-your-minecraft-world/"><u>Fast Track Navigation: How to Implement Teleport in Your Minecraft World</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-persistent-display-flashes/"><u>Prevent Persistent Display Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-blanking-on-window-11-display/"><u>Resolve Blanking on Window 11 Display</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-instructions-for-seamlessly-downloading-full-hd-youtube-videos-at-the-touch-of-a-button/"><u>Step-by-Step Instructions for Seamlessly Downloading Full HD YouTube Videos at the Touch of a Button!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-asymmetric-screen-lines-on-laptops/"><u>Swift Fix for Asymmetric Screen Lines on Laptops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/triple-monitor-setup-the-ultimate-guide-to-linking-three-displays/"><u>Triple Monitor Setup: The Ultimate Guide to Linking Three Displays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-background-extraction-in-picsart-editing-for-2024/"><u>[New] Seamless Background Extraction in Picsart Editing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-macs-as-music-makers-a-look-inside/"><u>[Updated] 2024 Approved Macs as Music Makers A Look Inside</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[Updated] Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-premium-vimeo-file-extractors-for-2024/"><u>[Updated] Premium Vimeo File Extractors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-installer-hurdle-for-nvidia/"><u>Conquered Installer Hurdle for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquering-glitchy-views-end-monitor-flicker-annoyances/"><u>Conquering Glitchy Views: End Monitor Flicker Annoyances</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817588692-flash-free-visual-experience-now/"><u>Flash-Free Visual Experience Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-fuzzy-to-sharp-the-guide-to-fixing-your-zoom-cam-today/"><u>From Fuzzy to Sharp: The Guide to Fixing Your Zoom Cam Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-adjust-display-settings-when-encountered-with-non-standard-input-delays/"><u>How to Adjust Display Settings When Encountered With Non-Standard Input Delays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-laptop-black-screen-issue/"><u>How to Fix Laptop Black Screen Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-s23-ultra-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy S23 Ultra Through Google Earth?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-s24plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy S24+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>In 2024, Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-when-your-windows-encounters-driver-errors/"><u>Quick Fixes When Your Windows Encounters Driver Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quickly-discard-outdated-graphics-drivers-windows-style/"><u>Quickly Discard Outdated Graphics Drivers, Windows-Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-initialization-for-direct3d/"><u>Resolved Initialization for Direct3D</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-extended-display-in-win10-environments/"><u>Stabilizing Extended Display in Win10 Environments</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>Twitter's Videography Policy Including Aspect Ratios Is Crucial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-gfxui-reset-completed-and-working/"><u>Windows GfxUI Reset Completed and Working</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: OpenGL Glitch Spotted - Nvidia GPU Fixed Up!
-date: 2024-10-20T06:12:31.683Z
-updated: 2024-10-24T07:36:04.985Z
+date: 2024-11-28T03:48:42.770Z
+updated: 2024-12-02T23:18:27.152Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ed0ba5a4e.jpg)
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,27 +57,17 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -88,6 +82,10 @@ See how to do it:
 3) Type**regedit.exe** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
@@ -108,24 +106,18 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
@@ -152,19 +144,16 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-guide-to-beauty-on-youtube-gear-makeup-tutorials-and-more/"><u>[New] 2024 Approved Ultimate Guide to Beauty on YouTube - Gear, Makeup Tutorials, and More</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-best-discord-emoji-makers-online-and-mobile-for-2024/"><u>[New] Best Discord Emoji Makers - Online & Mobile for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlining-movie-capture-with-multiple-technology-systems/"><u>[New] In 2024, Streamlining Movie Capture with Multiple Technology Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterpieces-in-3d-graphics-and-golden-displaytexts-online/"><u>[New] Masterpieces in 3D Graphics and Golden DisplayTexts Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-securing-your-digital-footprint-a-step-by-step-guide-to-erasing-tracks-from-safari-on-macos-zdnet/"><u>1. Securing Your Digital Footprint: A Step-by-Step Guide to Erasing Tracks From Safari on macOS - ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-secure-your-conversations-on-the-go-with-top-10-mobile-chat-apps/"><u>2024 Approved Secure Your Conversations on the Go with Top 10 Mobile Chat Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discovering-superior-image-quality-a-guide-to-4k/"><u>Discovering Superior Image Quality: A Guide to 4K</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-entertainment-setup-your-guide-to-watching-hulu-on-an-lg-smart-screen/"><u>Effortless Entertainment Setup: Your Guide to Watching Hulu on an LG Smart Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flawless-adventures-await-in-updated-apex/"><u>Flawless Adventures Await in Updated Apex</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-amd-graphics-drivers-for-windows-pc/"><u>Install Latest AMD Graphics Drivers for Windows PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-fix-for-windows-11-supported/"><u>Nvidia Fix for Windows 11 Supported</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realigning-monitor-edge-display/"><u>Realigning Monitor Edge Display</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-no-signal-problem-a-step-by-step-guide-for-your-xbox-one/"><u>Solving the 'No Signal' Problem: A Step-by-Step Guide for Your Xbox One</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-inactive-gpu-fan-beast/"><u>Taming the Inactive GPU Fan Beast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-uploading-with-google/"><u>2024 Approved The Insider’s Guide to Uploading with Google</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-on-windows-10-how-to-fix/"><u>AMD Graphics Card Unrecognized on Windows 10 - How to Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-fps-game-top-6-expert-strategies/"><u>Boost Your FPS Game: Top 6 Expert Strategies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/create-and-showcase-innovative-discord-flags-for-profile-spotlight/"><u>Create and Showcase Innovative Discord Flags for Profile Spotlight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-the-port-reset-failed-error-on-windows-11s-usb-devices-tips-and-tricks/"><u>Dealing with the Port Reset Failed Error on Windows 11'S USB Devices – Tips & Tricks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/guidelines-for-legally-reposting-on-insta-for-2024/"><u>Guidelines for Legally Reposting on Insta for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-moto-g13-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Moto G13 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-successful-srt-shipping-out-of-premiere-for-2024/"><u>Unlocking Successful SRT Shipping Out of Premiere for 2024</u></a></li>
 </ul></div>
 

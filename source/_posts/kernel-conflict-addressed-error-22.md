@@ -1,7 +1,7 @@
 ---
 title: "Kernel Conflict Addressed: Error 22"
-date: 2024-11-22T06:38:00.173Z
-updated: 2024-11-23T23:42:06.502Z
+date: 2024-12-01T03:49:39.898Z
+updated: 2024-12-03T02:29:55.332Z
 tags:
   - win11
   - win10
@@ -20,14 +20,14 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -57,10 +61,6 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
@@ -68,7 +68,7 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -81,11 +81,11 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -129,24 +129,21 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>[New] 2024 Approved Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-instant-impact-applying-motion-blur-to-ai-artwork-for-2024/"><u>[New] Instant Impact Applying Motion Blur to AI Artwork for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comparing-youtube-policies-with-creative-commons/"><u>[Updated] 2024 Approved Comparing YouTube Policies with Creative Commons</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-photobooth-lags-steadying-the-playback-journey-for-2024/"><u>[Updated] Photobooth Lags Steadying the Playback Journey for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-desktop-version-is-coming-soon-want-a-great-free-alternative/"><u>ChatGPT's Desktop Version Is Coming Soon, Want a Great Free Alternative?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-orbis-tri-band-wi-fi-6-mesh-networking-solution-for-enhanced-speed-and-coverage-at-home/"><u>Comprehensive Review of Orbi's Tri-Band Wi-Fi 6 Mesh Networking Solution for Enhanced Speed and Coverage at Home</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-patching-for-gpus-not-displayed/"><u>Easy Patching for GPUs Not Displayed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-logitech-device-software-download/"><u>Effortless Logitech Device Software Download</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-bing-how-it-compares-to-google-and-what-sets-it-apart/"><u>Exploring Bing - How It Compares to Google & What Sets It Apart</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-blaze-2-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Blaze 2 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-displays-on-monitor-with-win10/"><u>Non-Fullscreen Displays on Monitor with Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-win-10-screen-size-excess/"><u>Resolve: WIN 10 Screen Size Excess</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-persistent-glaring-asus-fix-guide/"><u>Say Goodbye to Persistent Glaring: ASUS Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-system-recovery-in-windows-8-graphics-driver-removal-techniques/"><u>Secure System Recovery in Windows 8: Graphics Driver Removal Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-your-visual-experience-with-updated-nvidia-210-drivers/"><u>Streamline Your Visual Experience with Updated Nvidia 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-recovery-for-visual-display/"><u>Successful Recovery for Visual Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-16-technology-presents-available-at-walmart-insights-from-zdnet/"><u>Top 16 Technology Presents Available at Walmart - Insights From ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-blurry-laptop-horizontal-bars/"><u>Troubleshoot Blurry Laptop Horizontal Bars</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgraded-intel-gfx-a-seamless-process-on-win10-systems/"><u>Upgraded Intel GFX: A Seamless Process on Win10 Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-9-pinnacle-in-live-game-broadcasting/"><u>[New] In 2024, 9 Pinnacle in Live Game Broadcasting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-display-optimization-missing/"><u>[Resolved] Windows 11 Display Optimization Missing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-bridging-the-time-gap-in-social-storytelling-on-fb-pcmobile/"><u>[Updated] 2024 Approved Bridging the Time Gap in Social Storytelling on FB, PC/Mobile</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-surface-pro-7s-erratic-screen-behavior/"><u>Addressing Surface Pro 7'S Erratic Screen Behavior</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-driver-issue-resolved-workflow-enhanced-in-win10/"><u>AMD Driver Issue Resolved - Workflow Enhanced in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-bugs-halting-halo-infinite-startup/"><u>DirectX12 Bugs Halting Halo Infinite Startup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-the-c1900101-error-during-win10-installation/"><u>How To Get Past the C1900101 Error During Win10 Installation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-rendering-issues-tackling-errgfxd3dinit-in-grand-theft-auto-v/"><u>How to Overcome Graphics Rendering Issues: Tackling ERR_GFX_D3D_INIT in Grand Theft Auto V</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-how-razer-portal-is-changing-gamers-wireless-experience/"><u>In-Depth Look: How Razer Portal Is Changing Gamers' Wireless Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-savings-grab-the-8tb-samsung-t5-ssd-now-with-36-discount-post-prime-day-on-amazon-featured/"><u>Massive Savings: Grab the 8TB Samsung T5 SSD Now with 36% Discount Post-Prime Day on Amazon, Featured</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-magic-quick-cure-for-loss-of-connection/"><u>Monitor Magic: Quick Cure for Loss of Connection</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-avidemux-crop-video-a-beginners-guide-to-trimming-and-resizing/"><u>New In 2024, Avidemux Crop Video A Beginners Guide to Trimming and Resizing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-fixes-opengl-driver-snafu/"><u>NVIDIA GPU Fixes OpenGL Driver Snafu</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-legally-capturing-iphone-calls-and-understanding-state-regulations/"><u>The Complete Guide to Legally Capturing iPhone Calls & Understanding State Regulations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-x6s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco X6s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

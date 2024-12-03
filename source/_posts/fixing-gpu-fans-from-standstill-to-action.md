@@ -1,7 +1,7 @@
 ---
 title: "Fixing GPU Fans: From Standstill to Action"
-date: 2024-11-18T10:16:20.997Z
-updated: 2024-11-24T07:19:37.527Z
+date: 2024-11-28T02:09:52.985Z
+updated: 2024-12-02T20:04:42.740Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all the fixes. Simply work your way down until you find the one that does the trick.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 5. [**Repair your system**](#fix5)
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure all cables are plugged in
 
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
@@ -56,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
@@ -74,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
  If you’re sure it’s not a hardware issue, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -106,10 +98,14 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
@@ -127,17 +123,21 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
 
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -162,19 +162,18 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-highlight-heroes-iosandroid-covers-that-shine-bright/"><u>[Updated] 2024 Approved Highlight Heroes IOS/Android Covers That Shine Bright</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-shielding-identity-video-blur-and-privacy-preservation/"><u>[Updated] 2024 Approved Shielding Identity Video Blur and Privacy Preservation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-rhythmreview-music-and-dialogue-analysis/"><u>[Updated] In 2024, RhythmReview Music and Dialogue Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-picks-superior-iphone-tone-creators/"><u>[Updated] In 2024, Top Picks Superior iPhone Tone Creators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-transforming-chat-frustrations-into-effective-google-meet-conversations/"><u>2024 Approved Transforming Chat Frustrations Into Effective Google Meet Conversations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enable-gpu-use-in-display-settings-windows-fixes/"><u>Enable GPU Use in Display Settings: Windows Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-hiccup-mended-recovery-complete-for-nvidia/"><u>Graphics Hiccup Mended: Recovery Complete for Nvidia</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-much-wealth-awaits-one-million-youtube-followers/"><u>How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-the-game-of-valorant/"><u>How to Restore Voice Chat Functionality in the Game of Valorant</u></a></li>
-<li><a href="https://win-docs.techidaily.com/leading-free-and-open-source-options-top-5-alternatives-to-vmware/"><u>Leading Free and Open-Source Options: Top 5 Alternatives to VMware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/neutralizing-visual-instability-surface-pro-7-guide/"><u>Neutralizing Visual Instability: Surface Pro 7 Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-on-10-pcs/"><u>Overcoming Streaming Hiccups on 10 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-windows-10-visual-vexations/"><u>Rectifying Windows 10 Visual Vexations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sharpening-your-screen-avoid-flickering-issues/"><u>Sharpening Your Screen: Avoid Flickering Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-curated-list-of-top-20-prison-jail-memes-boosting-morale-on-social-platforms/"><u>[Updated] Curated List of Top 20 Prison Jail Memes, Boosting Morale on Social Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs-for-2024/"><u>[Updated] From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-make-every-discord-livestree-a-timeless-treasure/"><u>[Updated] In 2024, How to Make Every Discord Livestree a Timeless Treasure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asymmetric-screen-aligned-on-notebooks/"><u>Asymmetric Screen Aligned on Notebooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flickering-screen-follow-this-quick-asus-guide-to-solve-it/"><u>Flickering Screen? Follow This Quick ASUS Guide to Solve It</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-common-anydesk-errors-on-windows/"><u>How to Troubleshoot Common AnyDesk Errors on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-become-a-veterinarian-on-android-12-great-simulators/"><u>In 2024, Become a Veterinarian on Android 12 Great Simulators</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-restoration-busting-displayport-silence/"><u>Instant Restoration: Busting DisplayPort Silence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instruction-manual-for-launching-safe-mode-in-windows-8-graphics-driver-expulsion/"><u>Instruction Manual for Launching Safe Mode in Windows 8, Graphics Driver Expulsion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-obscured-views-in-twitch-video/"><u>Overcoming Obscured Views in Twitch Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-graphics-cards-with-nvidia-gpu/"><u>Quick-Fix Guide: Graphics Cards with NVIDIA GPU</u></a></li>
 </ul></div>
 

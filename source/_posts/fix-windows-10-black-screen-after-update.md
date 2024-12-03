@@ -1,7 +1,7 @@
 ---
 title: "[Fix] Windows 10 Black Screen After Update"
-date: 2024-11-16T21:22:42.774Z
-updated: 2024-11-23T21:51:42.043Z
+date: 2024-11-27T03:36:43.880Z
+updated: 2024-12-03T03:14:27.844Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 5. [**Log in using a different user account**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Reset your PC**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 1: Try a Windows key sequence to wake the screen
 
 A quick fix to your black screen problem would be:
@@ -35,11 +39,19 @@ A quick fix to your black screen problem would be:
 * If you have a keyboard connected, press the   **Windows logo![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
 **key+Ctrl+Shift + B**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
 
  If Windows is responsive, a short beep will sound and the screen will blink or dim while Windows attempts to refresh the screen.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 2: Unplug unnecessary USB equipment
 
@@ -51,10 +63,6 @@ A quick fix to your black screen problem would be:
 If this produces no results, you can move on to Fix 3.  
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics card driver
 
@@ -74,10 +82,6 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
@@ -95,12 +99,12 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2297bbde3.jpg)
 3. Click the**File** tab, then**Run new task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
@@ -108,22 +112,10 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
 7. **Restart** your PC to check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 5: Log in using a different user account
 
@@ -150,6 +142,10 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### How to activate the original Windows administrator account
 
 1. Type**cmd** in the Windows search box, right click**Command Prompt** , then select**Run as administrator** .  
@@ -162,7 +158,7 @@ If this produces no results, you can move on to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 6: Reset your PC
@@ -174,17 +170,21 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Update & security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -208,18 +208,20 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-leading-the-field-in-remotely-recorded-content-creation/"><u>[New] Leading the Field in Remotely Recorded Content Creation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-comic-corner-best-funny-content-on-the-planet-web/"><u>[Updated] 2024 Approved Comic Corner Best Funny Content on the Planet Web</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-marketing-mastery-crafting-robust-backlinks-for-growth/"><u>[Updated] YouTube Marketing Mastery Crafting Robust Backlinks for Growth</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-directorvid-evaluation-all-you-need-to-know/"><u>2024 Approved DirectorVid Evaluation – All You Need to Know</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dx12-disruption-halts-halo-infinite-game-startup/"><u>DX12 Disruption Halts Halo Infinite Game Startup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-nvidiawin11-compatibility-concerns/"><u>Fixing NVidia/Win11 Compatibility Concerns</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/"><u>In 2024, Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-free-audio-recording-software-in-depth-reviews/"><u>New The Best Free Audio Recording Software In-Depth Reviews</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-residual-reductions-in-visual-outputs/"><u>Rectifying Residual Reductions in Visual Outputs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-non-gpu-use-on-notebook-windows-1011/"><u>Resolve Non-GPU Use on Notebook Windows 10/11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-your-ipad-wont-pair-with-wi-fi-at-home-or-work/"><u>The Ultimate Fix for When Your iPad Won't Pair with Wi-Fi at Home or Work</u></a></li>
-<li><a href="https://win11.techidaily.com/vintage-games-journey-from-backups-to-windows-11-pics/"><u>Vintage Games Journey: From Backups to Windows 11 Pics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-setup-unsuccessful/"><u>Visual Setup Unsuccessful</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-lightning-fast-windowed-photo-reader-for-win11/"><u>[Updated] 2024 Approved Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-youtube-lives-image-language/"><u>[Updated] 2024 Approved Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>2024 Approved Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-microsofts-basic-winos-driver-performance/"><u>Adjusting Microsoft's Basic WINOS Driver Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-civi-3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Civi 3?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-screen-rotation/"><u>Correcting Windows 10 Screen Rotation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crown-jewels-of-community-engagement-on-reddit-top-10-for-2024/"><u>Crown Jewels of Community Engagement on Reddit - Top 10 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-overwatch-graphics-support/"><u>Enhanced Overwatch Graphics Support</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-critique-of-vivas-video-capabilities/"><u>In 2024, A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-visual-upgrade-with-a-simple-step-to-update-intel-3000-driver/"><u>Instant Visual Upgrade with a Simple Step to Update Intel 3000 Driver</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/remove-default-podcast-listings-from-spotify-playlists/"><u>Remove Default Podcast Listings From Spotify Playlists</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speedy-intel-gfx-driver-refresh-for-windows-os/"><u>Speedy Intel GFX Driver Refresh for Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003001283-step-up-your-gameplay-supercharge-horizon-zero-dawns-frame-rate-for-optimal-play/"><u>Step Up Your Gameplay: Supercharge Horizon Zero Dawn's Frame Rate for Optimal Play.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/videorenewal-assistant-reviving-files/"><u>VideoRenewal Assistant: Reviving Files</u></a></li>
 </ul></div>
 

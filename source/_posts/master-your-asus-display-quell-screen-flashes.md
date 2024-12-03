@@ -1,7 +1,7 @@
 ---
 title: "Master Your ASUS Display: Quell Screen Flashes"
-date: 2024-11-21T11:57:45.969Z
-updated: 2024-11-24T06:02:48.496Z
+date: 2024-11-28T20:28:08.476Z
+updated: 2024-12-02T18:09:08.281Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
 
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -105,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -156,24 +156,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-knowledge-nexus-best-ed-sources-on-youtube/"><u>[New] Knowledge Nexus Best Ed Sources on YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-control-panel-access-denied/"><u>[Solved] NVIDIA Control Panel Access Denied</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tumblr-id-visualization-guide-size-format-duration/"><u>[Updated] In 2024, Tumblr ID Visualization Guide Size, Format, Duration</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/5-tips-for-influencer-program-on-instagram-with-examples/"><u>5 Tips for Influencer Program on Instagram with Examples</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/s-youtube-channel-names-for-vloggers-100-new-for-2024/"><u>50+ Youtube Channel Names for Vloggers [100% New] for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ceasing-the-chaos-stop-lenovo-screen-anomalies/"><u>Ceasing the Chaos: Stop Lenovo Screen Anomalies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/lving-details-techniques-to-anonymize-youtube-media/"><u>Dissolving Details Techniques to Anonymize YouTube Media</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfx-failure-system-rejects-startup/"><u>GFX Failure: System Rejects Startup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-lg-launching-a-new-xr-device-debating-between-meta-quest-3-pro-and-original/"><u>Is LG Launching a New XR Device? Debating Between Meta Quest 3 Pro and Original</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-upgraded-windows-10-streaming/"><u>Mending Upgraded Windows 10 Streaming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preventing-phantom-panels-post-power-cycle/"><u>Preventing Phantom Panels Post-Power Cycle</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-mastering-abbyy-marketplace-tools/"><u>Step-by-Step Guide: Mastering Abbyy Marketplace Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-flickering-on-windows-11/"><u>Taming the Flickering on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-reno-8t-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Reno 8T 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unexpected-laptop-screen-shutdown-what-to-do/"><u>Unexpected Laptop Screen Shutdown - What to Do?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-clear-vision-flawless-screens/"><u>Win11 - Clear Vision, Flawless Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-bandicam-screen-recorder-review-for-2024/"><u>[New] Bandicam Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ifunny-meme-seamless-download-and-enjoyment-for-2024/"><u>[New] IFunny Meme Seamless Download and Enjoyment for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-high-end-streaming-gear-for-professionals/"><u>[New] In 2024, High-End Streaming Gear for Professionals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-trust-the-right-sources-for-safe-and-effective-view-count-increase/"><u>[New] Trust the Right Sources for Safe and Effective View Count Increase</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-access-your-flipbuilder-ebooks-anywhere-compatible-with-ios-ipados-and-android-devices/"><u>1. Access Your FlipBuilder eBooks Anywhere: Compatible with iOS, iPadOS & Android Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-card-unsupported-on-classic-windows-versions/"><u>AMD Card Unsupported on Classic Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-frozen-windows-10-monitor/"><u>Bypassing Frozen Windows 10 Monitor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-6-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic 6 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-for-nvidiaintel-graphic-swap-in-win11/"><u>Cure for NVIDIA/Intel Graphic Swap in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-performance-with-updated-amd-hd-6950-for-windows-10/"><u>Enhanced Rendering Performance with Updated AMD HD 6950 for Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-galaxy-a34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Galaxy A34 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-crafting-compelling-proposals-a-famebit-guide-to-channel-ads/"><u>In 2024, Crafting Compelling Proposals A FameBit Guide to Channel Ads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-through-faulty-asus-camera-glitches/"><u>Push Through Faulty ASUS Camera Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-display-on-graphics-card/"><u>Silent Display on Graphics Card</u></a></li>
 </ul></div>
 

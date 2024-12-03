@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-11-20T23:40:40.038Z
-updated: 2024-11-24T08:54:58.139Z
+date: 2024-11-30T03:52:14.346Z
+updated: 2024-12-03T01:02:06.675Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for HP laptop flickering or blinking
 
  Here are 3 fixes that have helped other users resolve the screen flickering or blinking on HP laptop issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -59,13 +59,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -91,13 +91,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -107,10 +107,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
@@ -118,7 +114,7 @@ Here is how to do it:
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -131,6 +127,10 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -158,17 +158,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-google-meet-enrollment/"><u>[New] In 2024, Navigating Google Meet Enrollment</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-youtubes-ecosystem-for-financial-gain/"><u>[New] Leveraging YouTube's Ecosystem for Financial Gain</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-and-win10-teamwork-detection-driver-now-functional/"><u>AMD & Win10 Teamwork: Detection Driver Now Functional</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/call-of-duty-enthusiast-guide-to-overcoming-the-notorious-bug-27711-in-bocw/"><u>Call of Duty Enthusiast Guide to Overcoming the Notorious Bug #27711 in BOCW</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-update-success-code-22/"><u>Driver Update Success - Code 22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-nvidiaintel-switchable-card-issue/"><u>Fixing Windows 10'S Nvidia/Intel Switchable Card Issue</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-drone-selections-to-enhance-gopro-videos/"><u>In 2024, Prime Drone Selections to Enhance GoPro Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/light-your-world-best-softbox-brands-of-2024/"><u>Light Your World: Best Softbox Brands of 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-10-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-rated-manycam-app-professional-live-streaming-and-virtual-cam-solutions/"><u>Top-Rated ManyCam App: Professional Live Streaming and Virtual Cam Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-jumpstart-your-career-with-a-killer-youtube-gaming-channel/"><u>2024 Approved Jumpstart Your Career with a Killer YouTube Gaming Channel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-sims-4-live-action-gaming-capture-essentials/"><u>2024 Approved Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>2024 Approved Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-integrity-beyond-auto-generated-texts/"><u>Academic Integrity Beyond Auto-Generated Texts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-r9-errors-the-final-step-for-win11/"><u>Fixing R9 Errors: The Final Step for Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/initial-graphical-system-unresponsive/"><u>Initial Graphical System Unresponsive</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-game-recording-made-easy-3-options-for-every-gamer/"><u>New 2024 Approved Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-blur-windows-display-enhanced/"><u>No Blur: Windows Display Enhanced</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-malfunction-cured-display-resolved/"><u>Nvidia Malfunction Cured - Display Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pcie-lone-gpu-in-system-logs-cleared/"><u>PCIe Lone GPU in System Logs Cleared</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-7-flicker-a-quick-guide/"><u>Solving Windows 7 Flicker: A Quick Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-handbook-for-professional-gopro-videographers-for-2024/"><u>The Filmmaker's Handbook for Professional Gopro Videographers for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v29e-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V29e Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-anthem-delays/"><u>Troubleshoot Anthem Delays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-making-your-usb-drive-detectable-again/"><u>Troubleshooting Guide: Making Your USB Drive Detectable Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-rtx-graphics-cards-unlocking-the-secrets-behind-nvidias-latest-tech/"><u>What Are RTX Graphics Cards? Unlocking the Secrets Behind NVIDIA's Latest Tech</u></a></li>
 </ul></div>
 

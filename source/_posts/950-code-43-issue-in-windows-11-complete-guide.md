@@ -1,7 +1,7 @@
 ---
 title: 950 'Code 43' Issue in Windows 11 - Complete Guide
-date: 2024-11-18T02:59:14.336Z
-updated: 2024-11-23T18:53:23.459Z
+date: 2024-11-27T20:57:56.848Z
+updated: 2024-12-02T18:07:17.880Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -47,22 +51,22 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -91,15 +91,19 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,18 +155,22 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>[New] In 2024, Tutorial Posting Restricted YouTube to Gmail Accounts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pros-and-cons-free2webcam-software-analysis-for-2024/"><u>[New] Pros & Cons Free2WebCam Software Analysis for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-switching-of-graphics-cards-on-win10-via-nvidia-and-intel/"><u>Effortless Switching of Graphics Cards on Win10 via NVIDIA & Intel</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-link-between-twitter-and-tumblr-videos/"><u>In 2024, Direct Link Between Twitter and Tumblr Videos</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-fix-clear-video-playback/"><u>Precision Fix: Clear Video Playback</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolution-fixing-nvidia-install-issue/"><u>Resolution: Fixing NVIDIA Install Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-graphics-card-response/"><u>Silent Graphics Card Response</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/simple-steps-mastering-the-art-of-capturing-team-fortress-2-gaming-sessions/"><u>Simple Steps: Mastering the Art of Capturing Team Fortress 2 Gaming Sessions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/smart-social-media-strategies-from-youtube-to-facebook/"><u>Smart Social Media Strategies From YouTube To Facebook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ming-made-easy-google-meet-to-youtube-guide-for-2024/"><u>Streaming Made Easy Google Meet to YouTube Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlined-gaming-with-r9-driver-updates-in-windows-10/"><u>Streamlined Gaming with R9 Driver Updates in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-revamped-unblemished-displays/"><u>Win11: Revamped, Unblemished Displays</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-engineer-your-fofacebook-experience/"><u>[New] Engineer Your FOFacebook Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-the-necessary-youtube-viewer-threshold/"><u>[New] In 2024, Navigating the Necessary Youtube Viewer Threshold</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-obs-streamers-toolkit-for-captivating-sessions-for-2024/"><u>[New] OBS Streamer’s Toolkit for Captivating Sessions for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>[Updated] Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-earning-on-reddit-no-skills-required/"><u>[Updated] Step-by-Step Guide to Earning on Reddit - No Skills Required</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fix-insufficient-specifications/"><u>Boosting Performance: Fix Insufficient Specifications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-at-last/"><u>Clear Windows Image at Last</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dodging-chroma-key-disasters-for-enhanced-videos-on-youtube/"><u>Dodging Chroma Key Disasters for Enhanced Videos on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-microsoft-window-os-render-capabilities/"><u>Enhancing Microsoft Window OS Render Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-framebug/"><u>Fixing AMD Framebug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-displays-restored-in-windows-10/"><u>Hidden Displays Restored in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-red-magic-9-proplus-by-fonelab-android-recover-data/"><u>How to recover lost data from Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung to Protect Your Individual Information</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-display-on-windows-11-updated/"><u>Optimized Display on Windows 11 Updated</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-purchasing-apples-latest-macbook-pro-and-mac-mini-without-waiting-in-line-insights-from-zdnet/"><u>Step-by-Step Guide: Purchasing Apple's Latest MacBook Pro & Mac Mini Without Waiting in Line - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-lava-storm-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Lava Storm 5G.</u></a></li>
 </ul></div>
 

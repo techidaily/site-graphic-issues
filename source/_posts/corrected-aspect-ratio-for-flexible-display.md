@@ -1,7 +1,7 @@
 ---
 title: Corrected Aspect Ratio for Flexible Display
-date: 2024-11-19T00:55:25.774Z
-updated: 2024-11-23T18:13:33.957Z
+date: 2024-11-25T20:36:36.375Z
+updated: 2024-12-02T19:28:12.168Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -43,10 +43,6 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -55,17 +51,21 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -105,20 +105,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-brief-video-explanations-all-inclusive/"><u>[New] 2024 Approved Brief Video Explanations, All-Inclusive</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/note-windows-devices-need-amd-video-drivers/"><u>[NOTE] Windows Devices Need AMD Video Drivers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-meme-list-social-media-giants-clash/"><u>[Updated] 2024 Approved The Ultimate Meme List Social Media Giants Clash</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-no-more-interrupted-instagram-videos-heres-how-for-2024/"><u>[Updated] No More Interrupted Instagram Videos - Here's How for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide-for-2024/"><u>[Updated] OBS Studio for Gamers PS4 Screenshots & Recordings Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-frontier-fighters-pinpointing-the-7-best-rts-battles/"><u>2024 Approved Frontier Fighters Pinpointing the 7 Best RTS Battles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-display-fluctuations-from-lenovo/"><u>Eliminating Display Fluctuations From Lenovo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expand-your-communication-skills-16-free-asl-learning-tools-and-resources/"><u>Expand Your Communication Skills: 16 Free ASL Learning Tools & Resources</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-unidentified-graphics-device/"><u>Fix: Unidentified Graphics Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-windows-fast-methods-for-removing-drivers/"><u>Mastering Windows: Fast Methods for Removing Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ukrainian-voices-elevated-through-mondlys-free-language-program/"><u>Ukrainian Voices Elevated Through Mondly’s Free Language Program</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbelievable-surprise-from-delta-airlines-new-customer-experience-breakthrough/"><u>Unbelievable Surprise From Delta Airlines - New Customer Experience Breakthrough</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-turn-youtube-videos-into-soundtracks/"><u>[Updated] In 2024, Turn YouTube Videos Into Soundtracks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-inaccessible-display-features-in-nvidia/"><u>Addressing Inaccessible Display Features in Nvidia</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-all-things-vector-images-overview-types-and-software-choices/"><u>Beginner’s Guide to All Things Vector Images- Overview, Types, and Software Choices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-graphics-game-on-windows-with-new-nvidia-drivers/"><u>Boost Your Graphics Game on Windows with New NVIDIA Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-avoidance-found-enhanced-performance-achieved/"><u>Direct3D Avoidance Found - Enhanced Performance Achieved</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-solar-charger-rankings-on-zdnet-the-top-picks/"><u>Discover the Ultimate Solar Charger Rankings on ZDNET: The Top Picks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-ace-3-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Ace 3 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-identifying-the-most-fitting-vimeo-membership-level/"><u>In 2024, Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>New 2024 Approved DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-hdr-camera-match-up/"><u>The Ultimate HDR Camera Match-Up</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-accessories-for-beneath-water-shooting/"><u>Top 5 Accessories for Beneath Water Shooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-amd-detection-error-now-fixed/"><u>Windows 10 AMD: Detection Error, Now Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-xp-vista-no-drivers-for-amd-card-required/"><u>Windows XP, Vista - No Drivers for AMD Card Required</u></a></li>
 </ul></div>
 

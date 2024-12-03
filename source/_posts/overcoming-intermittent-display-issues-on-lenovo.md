@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2024-11-22T22:10:55.802Z
-updated: 2024-11-24T07:45:57.886Z
+date: 2024-11-27T23:38:23.020Z
+updated: 2024-12-02T22:02:00.020Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -43,18 +47,18 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -70,16 +74,12 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -93,7 +93,7 @@ To update the BIOS of your Lenovo laptop:
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -125,24 +125,20 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-inside-the-world-class-editor-a-complete-guide-to-vivacuts-offerings/"><u>[Updated] 2024 Approved Inside the World-Class Editor A Complete Guide to VivaCut's Offerings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-studio-ultimate-professional-record-for-2024/"><u>[Updated] Capture Studio Ultimate Professional Record for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-restored-full-screen-in-obs-for-2024/"><u>[Updated] Restored Full Screen in OBS for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-captivating-chats-with-animated-content-an-in-depth-guide-to-snapchats-gif-feature/"><u>2024 Approved Captivating Chats with Animated Content An In-Depth Guide to Snapchat's GIF Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-iphonedesktops-top-8-video-transformation-tools/"><u>2024 Approved IPhone/Desktop's Top 8 Video Transformation Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-by-windows-10-troubleshooting-guide/"><u>AMD Graphics Card Unrecognized by Windows 10: Troubleshooting Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-frame-rate-mastery-discover-the-6-best-techniques/"><u>Boosting Frame Rate Mastery: Discover the 6 Best Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-down-advertising-budgets-on-youtube/"><u>Breaking Down Advertising Budgets on YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/code-43-issue-on-windows-11-comprehensive-fix-guide/"><u>Code 43 Issue on Windows 11 - Comprehensive Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discover-how-to-easily-determine-your-monitors-display-resolution-in-just-a-single-step/"><u>Discover How to Easily Determine Your Monitor's Display Resolution in Just a Single Step</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discover-your-displays-pixels-effortless-guide-to-determine-screen-resolution/"><u>Discover Your Display's Pixels: Effortless Guide to Determine Screen Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-guide-installation-of-amd-graphics-card-unrecognized-by-windows-11/"><u>Fix Guide: Installation of AMD Graphics Card Unrecognized by Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-fallout-4-performance-slumps-expert-tips-and-tricks/"><u>Fixing Fallout 4 Performance Slumps - Expert Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-the-application-error-for-nvstreamuseraagentexe-on-your-pc-easy-solutions-unveiled/"><u>Fixing the 'Application Error' For NvStreamUseraAgent.exe on Your PC - Easy Solutions Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-the-common-nvstreamuseraagentexe-crash-issue-on-your-windows-pc-successfully/"><u>Fixing the Common NvStreamUseraAgent.exe Crash Issue on Your Windows PC Successfully</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fps-boost-top-6-tips/"><u>FPS Boost [Top 6 Tips]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/keep-your-information-safe-how-to-unsubscribe-from-chatgpt-services/"><u>Keep Your Information Safe: How to Unsubscribe From ChatGPT Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamline-your-file-management-with-these-windows-11-explorer-hacks/"><u>Streamline Your File Management with These Windows 11 Explorer Hacks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nvestment-icons-top-15-youtube-stock-gurus/"><u>[New] Investment Icons Top 15 YouTube Stock Gurus</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/avoid-losing-memories-how-to-securely-recover-files-from-an-iphones-factory-reset/"><u>Avoid Losing Memories: How to Securely Recover Files From an iPhones Factory Reset</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-mastered/"><u>Direct3D Initialization Mastered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-wow-microphone-voice-chat-malfunctions-easily/"><u>Expert Advice: Resolving WoW Microphone Voice Chat Malfunctions Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-qualcomms-snapdragon-x-stacks-up-against-apples-mighty-silicon-in-the-tech-arena/"><u>How Qualcomm's Snapdragon X Stacks Up Against Apple's Mighty Silicon in the Tech Arena</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6s-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6s Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/increase-your-fb-popularity-top-ten-seo-best-practices/"><u>Increase Your FB Popularity Top Ten SEO Best Practices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invert-display-window-7-solution/"><u>Invert Display Window 7 Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigated-resolving-nvidia-installation-failure/"><u>Navigated: Resolving NVIDIA Installation Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-210-driver-enhancement-for-windows-10/"><u>Nvidia RTX 210 Driver Enhancement for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-battery-drained-laptop-screens/"><u>Overcoming Battery-Drained Laptop Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/personalize-your-experience-with-chatgpt-the-ultimate-digital-helper-tailored-to-you/"><u>Personalize Your Experience with ChatGPT – The Ultimate Digital Helper Tailored to You!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revive-crashed-game-windowsminecraft-fix/"><u>Revive Crashed Game: Windows/Minecraft Fix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-instructions-how-to-migrate-movies-and-more-from-dvds-to-your-computers-hard-drive-across-various-platforms/"><u>Step-by-Step Instructions: How to Migrate Movies & More From DVDs to Your Computer's Hard Drive Across Various Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-shiver-in-windows-11/"><u>Stop Screen Shiver in Windows 11</u></a></li>
 </ul></div>
 

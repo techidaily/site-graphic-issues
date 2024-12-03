@@ -1,7 +1,7 @@
 ---
 title: "HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10"
-date: 2024-11-18T22:41:11.108Z
-updated: 2024-11-24T02:12:05.761Z
+date: 2024-11-27T19:18:55.468Z
+updated: 2024-12-02T18:40:22.088Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -98,7 +98,11 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -107,21 +111,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,22 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maintaining-continuous-connections-on-snapchat-tips-and-tricks/"><u>[New] 2024 Approved Maintaining Continuous Connections on Snapchat Tips & Tricks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-exploring-video-realm-mirrorless-challenges-to-dslrs-for-2024/"><u>[Updated] Exploring Video Realm Mirrorless Challenges to DSLRs for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplifying-age-confirmation-on-tiktok/"><u>2024 Approved Simplifying Age Confirmation on TikTok</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinky-behavior-from-acer-equipment/"><u>Banishing Blinky Behavior From Acer Equipment</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diablo-2-resurrected-solutions-for-recurring-crashes-and-shutdowns/"><u>Diablo 2: Resurrected - Solutions for Recurring Crashes and Shutdowns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-crashes-in-civ-5-pc/"><u>Eliminating Crashes in Civ 5-PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-screen-anomalies-on-pcs/"><u>Eradicate Screen Anomalies on PCs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-high-quality-capture-on-mac-a-review-of-top-10-software/"><u>In 2024, High-Quality Capture on Mac A Review of Top 10 Software</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/laughter-from-logic-can-artificial-intelligence-amuse-us/"><u>Laughter From Logic: Can Artificial Intelligence Amuse Us?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/lightning-fast-lights-out-youtube-videos-shattering-100mm-fastest-for-2024/"><u>Lightning-Fast Lights Out – YouTube Videos Shattering 100MM Fastest for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-full-length-youtube-watching-mode-for-2024/"><u>Master Full-Length YouTube Watching Mode for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-compatibility-found-amd-cards-and-windows-xp/"><u>No Compatibility Found: AMD Cards & Windows XP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/normalizing-screen-extensions-in-windows-10-systems/"><u>Normalizing Screen Extensions in Windows 10 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-solution-for-flaky-displayport-signals/"><u>Quick Solution for Flaky DisplayPort Signals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-to-resolve-gpu-problems-keeping-pc-online/"><u>Techniques to Resolve GPU Problems, Keeping PC Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] 2024 Approved Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed/"><u>[New] In 2024, Inside The World of Adobe Cloud Storing Strategies and Alternative Spaces Reviewed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-tiktok-potential-desktop-video-guide-for-2024/"><u>[Updated] Unlocking TikTok Potential Desktop Video Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-vlog-with-verve-following-in-the-footsteps-of-video-experts/"><u>[Updated] Vlog with Verve Following in the Footsteps of Video Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved The Ultimate VSCO Photo Workflow Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817987525-enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-gionee-f3-pro-by-drfone-android/"><u>Full Guide to Unlock Your Gionee F3 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-misses-full-screen-settings-in-win11/"><u>Monitor Misses Full Screen Settings in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-void-after-driver-addition/"><u>Silent Void After Driver Addition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-list-of-no-cost-4k-video-viewer-apps-compatible-with-windows-11-mac-osx-and-more/"><u>The Ultimate List of No-Cost 4K Video Viewer Apps Compatible with Windows 11, Mac OSX, and More!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-video-mov-in-mp4-online-e-gratis-con-handbrake/"><u>Trasforma I Tuoi Video MOV in MP4 Online E Gratis Con HandBrake</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-customization-of-gpu-display-settings/"><u>Unlocking Customization of GPU Display Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
 </ul></div>
 

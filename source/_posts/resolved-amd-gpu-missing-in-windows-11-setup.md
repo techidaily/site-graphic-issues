@@ -1,7 +1,7 @@
 ---
 title: "Resolved: AMD GPU Missing in Windows 11 Setup"
-date: 2024-11-19T18:59:28.311Z
-updated: 2024-11-24T07:26:15.053Z
+date: 2024-11-29T19:56:17.459Z
+updated: 2024-12-03T01:02:13.908Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -41,19 +41,19 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,22 +104,22 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-10-global-youtube-personalities-peak-of-viewership/"><u>[New] 2024 Approved Top 10 Global YouTube Personalities Peak of Viewership</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-detailed-procedures-for-elevating-youtube-clips-through-wm-maker-for-2024/"><u>[Updated] Detailed Procedures for Elevating YouTube Clips Through WM Maker for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-panoramic-filmmaking-made-easy-9-key-techniques/"><u>2024 Approved Panoramic Filmmaking Made Easy 9 Key Techniques</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/choosing-your-digital-aide-alexa-or-google-assistant-the-ultimate-showdown/"><u>Choosing Your Digital Aide: Alexa or Google Assistant - The Ultimate Showdown</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fine-tuning-screen-adjustments-for-expanded-interface-in-win10/"><u>Fine-Tuning Screen Adjustments for Expanded Interface in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-graphics-driver-in-windows-7/"><u>How to Update Intel Graphics Driver in Windows 7</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-premium-gadgets-to-save-livestreamed-vids-on-youtube/"><u>In 2024, Premium Gadgets to Save Livestreamed Vids on YouTube</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-interactive-screens-armadaed/"><u>Lenovo Interactive Screens Armadaed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-troubleshooting-fast-fixes-for-no-signal/"><u>Monitor Troubleshooting: Fast Fixes for No Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mouse-momentum-after-win11-darkout/"><u>Mouse Momentum After Win11 Darkout</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/newcard-screen-blackout-problem/"><u>NewCard Screen Blackout Problem</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211372440-9781921295508-numerology/"><u>Numerology | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precise-process-efficient-graphics-driver-removal/"><u>Precise Process: Efficient Graphics Driver Removal</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-narzo-n55-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Narzo N55 Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-to-quickly-identify-your-steam-user-identifier/"><u>Tips to Quickly Identify Your Steam User Identifier</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-upside-down-in-windows-11/"><u>Troubleshooting Upside Down in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-augmented-reality-stickers-beyond-google/"><u>[New] Comparing Augmented Reality Stickers Beyond Google</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-frame-by-frame-screen-capturer/"><u>[New] In 2024, Frame-by-Frame Screen Capturer</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-aid-no-display-just-gpu-functionality/"><u>Direct Aid: No Display, Just GPU Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-acceleration-not-available-solved/"><u>Direct3D Acceleration Not Available [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-eradicate-fallout-4-crashes-on-computer/"><u>Easy Steps to Eradicate Fallout 4 Crashes on Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-165hz-screen-selection-guide/"><u>High-Speed 165Hz Screen Selection Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-8-pro-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Smart 8 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-widescreen-layout-discrepancies-in-win10-devices/"><u>Rectifying Widescreen Layout Discrepancies in Win10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-window-mistake-in-windows-11/"><u>Resolving Reflective Window Mistake in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-color-in-twitch-blackouts/"><u>Reveal Color in Twitch Blackouts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insiders-approach-leveraging-luts-in-adobe-premiere-projects-for-2024/"><u>The Insider's Approach Leveraging LUTs in Adobe Premiere Projects for 2024</u></a></li>
 </ul></div>
 

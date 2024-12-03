@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-11-16T22:55:02.771Z
-updated: 2024-11-23T18:52:13.184Z
+date: 2024-11-26T03:05:08.521Z
+updated: 2024-12-02T17:00:28.314Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
  Here are 4 fixes that have helped other users resolve the screen flickering on ASUS laptop issue. Just work your way down the list until you find the one that works for you.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
 
@@ -52,11 +44,15 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -71,14 +67,18 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -114,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -156,19 +156,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-watchability-with-full-screen-on-fb-videos-for-2024/"><u>[Updated] Enhance Watchability with Full-Screen on FB Videos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-strategies-for-flawless-transfer-of-mmc-productions-to-vimeo/"><u>2024 Approved Strategies for Flawless Transfer of MMC Productions to Vimeo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-fix-correcting-windows-wdf-issues/"><u>BlueScreen Fix: Correcting Windows WDF Issues</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/breaking-news-the-federal-communications-commission-prohibits-secretive-additional-costs-for-consumers/"><u>Breaking News: The Federal Communications Commission Prohibits Secretive Additional Costs for Consumers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-latest-driver-download-for-your-hp-ink-advantage-deskjet-3755-compatible-with-windows-os/"><u>Easy Install: Latest Driver Download for Your HP Ink Advantage DeskJet 3755 - Compatible with Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-drivers-issue-22-resolved/"><u>GPU Drivers: Issue #22 Resolved</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-effectively-install-your-computers-chipset-drivers-step-by-step/"><u>How to Effectively Install Your Computer's Chipset Drivers - Step by Step</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfect-your-technique-how-to-on-overwatch-audio-recordings/"><u>Perfect Your Technique How-To on Overwatch Audio Recordings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199752514-prevent-and-repair-blue-screen-issues-stemming-from-system-pte-failures/"><u>Prevent and Repair Blue Screen Issues Stemming From System PTE Failures.</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-screen-angle-for-win7/"><u>Reverse Screen Angle for Win7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rtx-3080-game-stability-tips/"><u>RTX 3080 Game Stability Tips</u></a></li>
-<li><a href="https://win-docs.techidaily.com/seamless-transfer-of-sms-and-mms-between-ios-devices-no-itunes-required/"><u>Seamless Transfer of SMS and MMS Between iOS Devices - No iTunes Required</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-cloaked-direct-x-error-lols-solution-revealed/"><u>The Cloaked Direct X Error: LoL's Solution Revealed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817977189-unified-graphics-experience-achieved-nvidiaintel-for-win10/"><u>Unified Graphics Experience Achieved - Nvidia/Intel for Win10!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smart-tips-for-gif-lovers-iphone-edition/"><u>[New] Smart Tips for GIF Lovers IPhone Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleash-creativity-a-comprehensive-guide-to-instagram-video-upload-via-desktop-for-2024/"><u>[New] Unleash Creativity A Comprehensive Guide to Instagram Video Upload via Desktop for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-origami-inspired-miniature-asian-abodes-in-mc/"><u>[Updated] In 2024, Origami-Inspired, Miniature Asian Abodes in MC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unveiling-the-best-practices-in-downloading-vimeo-videos/"><u>[Updated] Unveiling the Best Practices in Downloading Vimeo Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-vote-players-best-political-game-reviews/"><u>2024 Approved Ultimate Vote-Players Best Political Game Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/compress-win-10-screen-size/"><u>Compress WIN 10 Screen Size</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mical-mic-options-for-youtube-vloggers/"><u>Economical Mic Options for YouTube Vloggers</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/enable-automatic-playback-in-your-custom-flipbooks-with-flipbuilder-a-comprehensive-guide/"><u>Enable Automatic Playback in Your Custom Flipbooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-text-animations-unleashed-try-these-14-dynamic-showcases/"><u>In 2024, Text Animations Unleashed Try These 14 Dynamic Showcases</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconciling-windows-10-flash-disparities/"><u>Reconciling Windows 10 Flash Disparities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rehabilitating-non-functional-asus-cameras/"><u>Rehabilitating Non-Functional Asus Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-the-setup-issue-of-c1900101-for-win10-success/"><u>Remedy the Setup Issue of C1900101 for Win10 Success</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 </ul></div>
 

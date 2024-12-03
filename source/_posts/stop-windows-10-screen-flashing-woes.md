@@ -1,7 +1,7 @@
 ---
 title: Stop Windows 10 Screen Flashing Woes
-date: 2024-11-18T20:16:37.963Z
-updated: 2024-11-23T23:14:13.808Z
+date: 2024-11-26T18:20:46.189Z
+updated: 2024-12-03T04:17:04.547Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -47,17 +43,13 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -77,6 +69,10 @@ Here is how to change the monitor refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -101,18 +97,18 @@ To do so:
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -145,6 +141,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -160,7 +160,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -196,17 +196,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience-for-2024/"><u>[New] Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-art-of-capturing-imagination-best-shot-tips/"><u>[Updated] The Art of Capturing Imagination Best Shot Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-lcd-issues-hp-laptop-fix/"><u>Addressing LCD Issues: HP Laptop Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060</u></a></li>
-<li><a href="https://win-webster.techidaily.com/como-restaurar-una-copia-de-seguridad-del-sistema-en-un-nuevo-hardware/"><u>Cómo Restaurar Una Copia De Seguridad Del Sistema en Un Nuevo Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818312100-efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-8-plus-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 8 Plus That Wont Turn on | Stellar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-3-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 3 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-drive-shedding-guide-for-graphics-removal/"><u>Instant Drive Shedding - Guide for Graphics Removal</u></a></li>
-<li><a href="https://win-studio.techidaily.com/make-your-own-bootable-system-images-windows-7-8-and-10-with-3-easy-usb-methods/"><u>Make Your Own Bootable System Images: Windows 7, 8 & 10 with 3 Easy USB Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-gpu-malfunction-alert-nvidia/"><u>Resolved: GPU Malfunction Alert (NVIDIA)</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ultimate-guide-retrieving-permanently-lost-data-even-in-the-absence-of-backups/"><u>Ultimate Guide: Retrieving Permanently Lost Data Even in the Absence of Backups</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy-for-2024/"><u>[Updated] Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-iphones-video-reduction-and-adjustment-tools/"><u>[Updated] Mastering iPhone's Video Reduction and Adjustment Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-openplayclip-your-free-pass-to-perfect-gamers-recordings/"><u>2024 Approved OpenPlayClip Your Free Pass to Perfect Gamers' Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>2024 Approved Optimal Vlog Filming Ideal Handheld Stabilizers Compared</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-window-visuals-no-more-blur/"><u>Enhanced Window Visuals, No More Blur</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-system-patched-screen-responsive/"><u>Graphic System Patched: Screen Responsive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-11-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-and-correcting-comexception-discrepancies/"><u>Interpreting and Correcting COMException Discrepancies</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/konvertieren-von-mov-zu-mp4-mit-handbrake-einfache-anweisungen-and-losungen-fur-haufige-probleme/"><u>Konvertieren Von MOV Zu MP4 Mit HandBrake – Einfache Anweisungen & Lösungen Für Häufige Probleme</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenorientationfix-guide/"><u>ScreenOrientationFix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-system-upgraded-graphics-drivers-in-windows/"><u>Streamline Your System: Upgraded Graphics Drivers in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unifying-windows-and-nvidia-graphics-for-seamless-performance/"><u>Unifying Windows & NVIDIA Graphics for Seamless Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmask-your-pcs-non-detecting-card-issue/"><u>Unmask Your PC's Non-Detecting Card Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unseen-gpu-dilemnas-and-how-to-fix-them/"><u>Unseen GPU Dilemnas and How to Fix Them</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/win11s-1-5-pick-for-budget-friendly-screen-capture-apps/"><u>Win11's #1-5 Pick for Budget-Friendly Screen Capture Apps</u></a></li>
 </ul></div>
 

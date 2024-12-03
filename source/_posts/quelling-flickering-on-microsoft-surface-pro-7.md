@@ -1,7 +1,7 @@
 ---
 title: Quelling Flickering on Microsoft Surface Pro 7
-date: 2024-11-20T01:13:47.294Z
-updated: 2024-11-23T18:15:24.461Z
+date: 2024-12-01T00:27:59.707Z
+updated: 2024-12-02T16:32:42.573Z
 tags:
   - win11
   - win10
@@ -18,15 +18,15 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
  Many Surface laptop users are reporting that they get Surface Pro 7 flickering screens quite often. This might become a recurring problem. If you’re experiencing the same issue, don’t worry. In this post, you’ll learn every possible way to keep your Surface Pro working again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About the screen flickering
 
  According to [Windows Support](https://support.microsoft.com/en-us/windows/fix-screen-flickering-in-windows-10-f96b545d-a34c-40da-9115-378f78fbbbbf) and [their official troubleshooting guide](https://support.microsoft.com/en-us/windows/troubleshoot-screen-flickering-in-windows-10-47d5b0a7-89ea-1321-ec47-dc262675fc7b) , screen flickering in Windows 10 is usually caused by a display driver issue or an incompatible app.
 
  But there’s more to that. Your Surface Pro 7 screen flickering can also be caused by corrupt system files, out-of-date BIOS, or hardware faults.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -67,7 +67,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
@@ -84,13 +84,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -122,7 +122,7 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Within settings, select**System** .
@@ -135,10 +135,6 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Display adapter properties** .
 
  6) Go to the**Monitor** tab, and select**60 Hertz** in Screen refresh rate. Then click**Apply** \>**OK** .
@@ -146,10 +142,6 @@ Here’s how you can update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -165,6 +157,10 @@ Here’s how you can update your drivers with Driver Easy:
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -185,6 +181,10 @@ Now check your screen to see if the flickering issue is resolved by now.
  1) On your keyboard, press the**Windows Logo** Key and**R** at the same time to open the Run dialog box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission to make changes to your device, click**Yes** .
 
@@ -217,19 +217,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-tunes-with-mac-studios/"><u>[Updated] Mastering Tunes with Mac Studios</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleashing-your-inner-instagram-reel-mastermind/"><u>2024 Approved Unleashing Your Inner Instagram Reel Mastermind</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-graphics-on-windows-11-intel-3000-driver-update/"><u>Boost Graphics on Windows 11 - Intel 3000 Driver Update</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fast-and-easy-way-to-save-your-flipboard-settings-as-a-custom-theme/"><u>Fast & Easy Way to Save Your FlipBoard Settings As a Custom Theme</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-crowd-with-apple-vision-pro-starting-pre-orders-january-19-in-store-arrival-feb-2-latest-info-via-zdnet/"><u>Get Ahead of the Crowd with Apple Vision Pro Starting Pre-Orders January 19, In-Store Arrival Feb 2 | Latest Info via ZDNet</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/incorrect-display-11-windows-should-be-full-screen/"><u>Incorrect Display: 11 Windows Should Be Full-Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-microsofts-xbox-network-experiencing-an-outage-or-is-your-console-at-fault/"><u>Is Microsoft's Xbox Network Experiencing an Outage? Or Is Your Console at Fault?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-apple-vision-pro-enhancing-your-airline-travel-experience-especially-in-economy-insights/"><u>Is the Apple Vision Pro Enhancing Your Airline Travel Experience, Especially in Economy? - Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-apex-play-post-update/"><u>Mastering the Art of Apex Play Post-Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-stability-to-dell-notebook-visual-output/"><u>Restored Stability to Dell Notebook Visual Output</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/selecting-the-optimal-household-weather-tracker-for-early-2024/"><u>Selecting the Optimal Household Weather Tracker for Early 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-fix-amd-and-tarkov-rendering-bug/"><u>Swift Fix: AMD and Tarkov Rendering Bug</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-initiating-engagement-start-your-live-on-instagram-for-2024/"><u>[New] Initiating Engagement Start Your Live on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-videos-reach-top-8-youtube-ranks-unveiled/"><u>[Updated] 2024 Approved Elevating Your Video's Reach - Top 8 YouTube Ranks Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-2023-strategy-for-twitter-snaps-via-snapchat-uploads/"><u>[Updated] In 2024, 2023 Strategy for Twitter Snaps via Snapchat Uploads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-closer-look-at-immersive-virtual-reality-tech/"><u>2024 Approved A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-restorative-action-by-nvidia/"><u>Display Driver Restorative Action by Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-gpu-fans-from-standstill-to-action/"><u>Fixing GPU Fans: From Standstill to Action</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fused-systems-geforce-and-nforcewindows-blend-together/"><u>Fused Systems: GeForce & nForce/Windows Blend Together</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-8t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 8T Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-guide-to-superior-free-lut-options/"><u>In 2024, The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-faulty-display-resolved-solution/"><u>Lenovo Faulty Display, Resolved Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-civi-3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Civi 3 Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-displays-windows-largely-not-wholely-on-win11/"><u>Monitor Displays Windows Largely, Not Wholely on Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-reno-8t-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Reno 8T 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refocusmonitorimage-upsidedown/"><u>RefocusMonitorImage UpsideDown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revive-laptop-display-on-tv-with-hdmi-fix/"><u>Revive Laptop Display on TV with HDMI Fix</u></a></li>
 </ul></div>
 

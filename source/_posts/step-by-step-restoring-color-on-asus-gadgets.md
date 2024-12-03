@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-11-17T12:34:49.198Z
-updated: 2024-11-23T16:09:01.513Z
+date: 2024-12-01T01:36:22.186Z
+updated: 2024-12-03T01:29:43.777Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
  Running into a black screen on your Asus laptop? This can be very frustrating. But don’t worry – it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Asus Laptop Black Screen in Windows
@@ -34,17 +34,21 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Asus laptop
 
@@ -85,15 +89,15 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Check to see if the black screen on your Asus laptop issue has been resolved. If yes, then great! If the black screen persists, please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Restart the explorer.exe process
 
@@ -103,10 +107,6 @@ Here is how to do it:
 2. Locate**Windows Explorer** and click**End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -120,10 +120,6 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
@@ -131,7 +127,7 @@ So you can try disabling fast startup to see if it does the trick:
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
@@ -141,10 +137,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Perform a system restore
 
  If this black screen issue occurs only recently when you have made some changes to your computer, such as installing a new program or running a Windows update, chances are these changes are not very compatible with the operating system and trigger the black screen problem. So you should perform a system restore to revert your laptop to a previous state before these changes.
@@ -152,6 +144,10 @@ So you can try disabling fast startup to see if it does the trick:
 1. On your keyboard, press the **Windows logo key** and type **system restore** , then click on **Create a restore point** once it shows up as a matching result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
@@ -163,6 +159,10 @@ So you can try disabling fast startup to see if it does the trick:
 5. Follow the on-screen instructions to complete the system restore process.
 
 6. Restart your computer to see if the black screen issue has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
 
@@ -201,20 +201,24 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlocking-viral-potential-with-ai-driven-video-titles/"><u>[New] 2024 Approved Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-techniques-for-logitech-webcam-videos-for-2024/"><u>[Updated] Essential Techniques for Logitech Webcam Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-lead-the-pack-with-these-top-7-android-tools-against-ads-for-2024/"><u>[Updated] Lead the Pack with These Top 7 Android Tools Against Ads for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-2023s-premier-storytelling-channels-on-youtube/"><u>2024 Approved 2023'S Premier Storytelling Channels on YouTube</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-and-versatile-asus-chromebook-flip-c3-ca-an-in-depth-product-assessment/"><u>Affordable & Versatile Asus Chromebook Flip C3# CA - An In-Depth Product Assessment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-lenovo-screen-pulsation-problems/"><u>Ending Lenovo Screen Pulsation Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/maximizar-la-cooperacion-remota-reuniendonos-eficazmente-por-medio-de-zoom/"><u>Maximizar La Cooperación Remota: Reuniéndonos Eficazmente Por Medio De Zoom</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-failures-display-settings-now-safe/"><u>No More Failures - Display Settings Now Safe</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-shortcomings-for-unmatched-gaming-performance/"><u>Overcoming Direct3D Shortcomings for Unmatched Gaming Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-flipped-displays-windows-11-fix/"><u>Overcoming Flipped Displays: Windows 11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reawaken-your-dormant-asus-video-device/"><u>Reawaken Your Dormant ASUS Video Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-c1900101-error-during-windows-11-setup/"><u>Resolving C1900101 Error During Windows 11 Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-repair-your-ps4-microphone-issues-quickly/"><u>Ultimate Guide: How to Repair Your PS4 Microphone Issues Quickly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-analytics-audience-insight-crusade/"><u>[New] 2024 Approved Mastering Instagram Analytics Audience Insight Crusade</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-9-uncharted-upscales-for-vivid-visuals/"><u>[Updated] In 2024, 9 Uncharted Upscales for Vivid Visuals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-ahead-an-in-depth-look-at-panasonics-hx-a1-wearable-camera/"><u>[Updated] Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-swift-tips-for-easy-ipad-screen-recordings/"><u>[Updated] Swift Tips for Easy iPad Screen Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-keeping-track-saving-insta-visuals-on-iphone/"><u>2024 Approved Keeping Track Saving Insta Visuals on iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy S23+?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-of-use-solve-fallout-4s-pc-freezing-problems/"><u>Ease of Use: Solve Fallout 4'S PC Freezing Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-the-problem-of-farming-simulator-22-failure-to-load/"><u>Effective Solutions for the Problem of Farming Simulator 22 Failure to Load</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-repair-processes-screen-absent/"><u>Effortless Repair Processes, Screen Absent</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fully-functional-laptop-gpu-in-windows-11/"><u>Fully Functional: Laptop GPU in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817576948-gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-touchpad-from-interfering-with-the-mouse-in-windows-11-settings/"><u>How to Stop Your Touchpad From Interfering with the Mouse in Windows 11 Settings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone XS Max</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-displays-settings-saving-woes-windows-7-10-tips-tackled/"><u>Mend Displays Settings Saving Woes: Windows 7-10 Tips [Tackled]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-laptop-view-achieved/"><u>Optimal Lateral Laptop View Achieved</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-flipbuilder-share-button-a-comprehensive-guide/"><u>Understanding the FlipBuilder Share Button: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-secure-operations-methodology-for-safe-mode-access-gpu-cleanup-on-win8/"><u>Unlock Secure Operations: Methodology for Safe Mode Access, GPU Cleanup on WIN8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upend-pc-monitor-for-win7/"><u>Upend PC Monitor for Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 11 Screen Orientation Glitch
-date: 2024-11-19T18:19:18.522Z
-updated: 2024-11-24T02:43:38.391Z
+date: 2024-11-26T01:08:15.849Z
+updated: 2024-12-02T16:23:16.652Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Method 2: Fix screen upside down via Display settings
 
  You can also modify the Display settings in Windows 10 to fix the**screen upside down issue** . To do so:
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
@@ -75,14 +75,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Method 3: Fix screen upside down by updating graphics card driver
 
@@ -105,7 +101,7 @@ There are two options to update drivers in Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
@@ -113,6 +109,10 @@ There are two options to update drivers in Windows 10:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgraded when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
@@ -140,19 +140,19 @@ There are two options to update drivers in Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/uality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos-for-2024/"><u>[New] Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>[Updated] In 2024, From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-new-youtube-earning-rules-unveiled/"><u>2024 Approved New YouTube Earning Rules Unveiled</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-oppo-a79-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo A79 5G Unlock Without Password</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatibility-issue-on-windows-10-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 10 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-driver-rested-no-more-issues-found/"><u>Display Driver Rested, No More Issues Found</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-google-pixel-fold-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Google Pixel Fold Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-new-ways-to-record-presentations/"><u>In 2024, Unveiling New Ways to Record Presentations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realign-video-components-on-pcs/"><u>Realign Video Components on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-bsod-due-to-drivers-in-windows-os/"><u>Resolved: BSOD Due to Drivers in Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resurrecting-silent-displayport-easily/"><u>Resurrecting Silent DisplayPort Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlined-gpu-solutions-no-external-monitors/"><u>Streamlined GPU Solutions, No External Monitors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-mp4-devices/"><u>The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cinematic-clarity-premium-handheld-stabilizers-selection-for-2024/"><u>[New] Cinematic Clarity Premium Handheld Stabilizers Selection for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-low-light-photos-on-ios-11-for-2024/"><u>[Updated] Mastering Low-Light Photos on iOS 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-minecraft-branding-resources-for-youtubers/"><u>[Updated] Minecraft Branding Resources for YouTubers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-storyboard-sovereignty-ranking-the-premier-schools-1-8/"><u>2024 Approved Storyboard Sovereignty Ranking the Premier Schools (#1-#8)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-whats-new-on-facebook-an-updated-look/"><u>2024 Approved What's New on Facebook - An Updated Look</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-desktop-not-out-yet-seize-these-excellent-open-source-ai-alternatives-right-now/"><u>ChatGPT Desktop Not Out Yet? Seize These Excellent Open Source AI Alternatives Right Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/compatibility-quelled-windows-and-nvidia-7025nforce-630a/"><u>Compatibility Quelled: Windows & NVIDIA 7025/nForce 630A</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-visuals-the-win7-guide-to-revitalizing-intelldrivers/"><u>Enhance Visuals: The Win7 Guide to Revitalizing IntellDrivers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-itel-p55-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Itel P55 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-horizontal-displacement-errors/"><u>Rectifying Horizontal Displacement Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-play-on-rtx-3080-games/"><u>Steady Play on RTX 3080 Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unified-graphics-experience-achieved-nvidiaintel-for-win10/"><u>Unified Graphics Experience Achieved - Nvidia/Intel for Win10</u></a></li>
 </ul></div>
 

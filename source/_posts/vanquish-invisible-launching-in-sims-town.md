@@ -1,7 +1,7 @@
 ---
 title: Vanquish Invisible Launching in Sims Town
-date: 2024-11-20T00:18:45.238Z
-updated: 2024-11-24T05:38:00.833Z
+date: 2024-12-01T16:42:25.212Z
+updated: 2024-12-02T16:03:36.977Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Repair The Sims 4 in Origin
 
  The Sims 4 white loading screen may occur if the files are corrupt. So you can repair it in Origin to see if it fixes the issue.
@@ -74,7 +66,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
@@ -84,6 +76,10 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -97,19 +93,11 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -125,13 +113,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -143,9 +131,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -186,6 +182,10 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -211,22 +211,24 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bridge-issue-video-not-playing-tweet-in-chrome/"><u>[New] 2024 Approved Bridge Issue Video Not Playing Tweet in Chrome</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-disable-auto-record-with-one-click-on-quicktime/"><u>[New] 2024 Approved Disable Auto-Record with One Click on QuickTime</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-fixed-dxgkrnlsys-bsod-on-pc/"><u>[Tech] Fixed dxgkrnl.sys BSOD on PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-stop-motion-cinema-top-15-picks/"><u>[Updated] Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>[Updated] Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-correcting-accidental-youself-reappearances-on-social-media/"><u>2024 Approved Correcting Accidental 'Youself' Reappearances on Social Media</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enriched-minecraft-experience-via-ram-expansion/"><u>2024 Approved Enriched Minecraft Experience via RAM Expansion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/demystifying-ai-imagery-understanding-that-not-all-visuals-come-from-ai-technology/"><u>Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-glitch-overcome-now-gpus-perform-optimally/"><u>Direct3D Glitch Overcome: Now GPUs Perform Optimally</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/diy-dvd-digitization-easy-methods-for-transforming-discs-into-digital-media-for-pc-apple-and-smartphones/"><u>DIY DVD Digitization: Easy Methods for Transforming Discs Into Digital Media for PC, Apple and Smartphones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-failure-dark-monitor/"><u>GPU Failure: Dark Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphical-interface-not-loaded/"><u>Graphical Interface Not Loaded</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-stable-fallout-4-gaming-on-pc/"><u>Quick Fixes for Stable Fallout 4 Gaming on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reignite-asus-cameras-that-arent-working/"><u>Reignite Asus Cameras That Aren't Working</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-zoom-cam-issues-step-by-step/"><u>Resolve Zoom Cam Issues - Step-by-Step</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-civ-5-errors-on-computer/"><u>Tackle Civ 5 Errors on Computer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2023s-blueprint-for-winning-tiktok-with-desktops-for-2024/"><u>[New] 2023'S Blueprint for Winning TikTok with Desktops for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-comprehensive-tutorial-for-transforming-vids-into-dollars/"><u>[New] In 2024, A Comprehensive Tutorial for Transforming Vids Into Dollars</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-secrets-to-dynamic-and-effective-igtv-covers/"><u>2024 Approved Secrets to Dynamic & Effective IGTV Covers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-10t-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme 10T 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosted-graphics-latest-w11-geforce-210-drivers-rollout/"><u>Boosted Graphics: Latest W11 GeForce 210 Drivers Rollout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-available-screen-options-with-nvidia/"><u>Bringing Back Available Screen Options with NVidia</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-pc-overcoming-sovled-necromunda-crash-issues-for-a-smooth-gaming-experience/"><u>Fix Your PC! Overcoming [SOVLED] Necromunda Crash Issues for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-spark-10-4g-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Spark 10 4G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/geforce-rtx-3070-ti-driver-download-support-for-win-11-8-and-7-available-now/"><u>GeForce RTX 3070 Ti Driver Download - Support for Win 11, 8 & 7 Available Now</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-130-music-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia 130 Music Phones with/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-video-gear-pick-your-favorite-15-cams/"><u>In 2024, Premium Video Gear Pick Your Favorite #15 Cams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-gpu-activation-a-success-story-in-win11/"><u>Laptop GPU Activation: A Success Story in Win11</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quickgig-efficient-windows-1011-klon-naar-usb-sticks-beheerbare-software/"><u>QuickGig - Efficiënt Windows 10/11 Klon Naar USB-Sticks Beheerbare Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-unresponsive-touchscreen/"><u>Resolving Lenovo Unresponsive Touchscreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shatter-sims-monochrome-mistake/"><u>Shatter Sims’ Monochrome Mistake</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-resolution-strategies-gpus-alone/"><u>Simplified Resolution Strategies: GPUs Alone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-upgrade-laptops-graphics-output-improved/"><u>Win11 Upgrade: Laptop's Graphics Output Improved</u></a></li>
 </ul></div>
 

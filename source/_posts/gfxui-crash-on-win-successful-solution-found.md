@@ -1,7 +1,7 @@
 ---
 title: GFXUI Crash on Win - Successful Solution Found
-date: 2024-10-18T21:26:36.026Z
-updated: 2024-10-24T05:04:16.806Z
+date: 2024-11-29T01:47:28.464Z
+updated: 2024-12-03T01:33:38.868Z
 tags:
   - win11
   - win10
@@ -34,19 +34,24 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76e62b5aa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart your computer. See if the problem is resolved.
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update Intel Graphics Card Driver (Recommended)
@@ -68,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/de-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged Intel video card to automatically download and install the correct version of its driver (you can do this with the FREE version).
@@ -79,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Clean Reinstall Intel Graphics Card Driver
 
@@ -95,16 +90,13 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the option that restart automatically after the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Windows will search for and update the latest version of the display driver it can find for your PC.
 
@@ -130,18 +122,17 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-disrupted-beats-best-mobile-music-distortors/"><u>[New] 2024 Approved Disrupted Beats Best Mobile Music Distortors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-optimizing-film-length-for-instagram-on-mac/"><u>[Updated] Optimizing Film Length for Instagram on Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>[Updated] Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-red-eye-remover-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>[Updated] Red Eye Remover| How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-line-effects-from-laptop-displays-quickly/"><u>Eliminate Ghost Line Effects From Laptop Displays Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-radeon-g-sync-failure/"><u>Fix: Radeon G-Sync Failure</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/masterclass-top-10-recorder-options-on-spotify/"><u>Masterclass Top 10 Recorder Options on Spotify</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-refreshing-anomalies/"><u>Overcoming Windows 10 Refreshing Anomalies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pc-compatible-sony-ps3-mimicry-tools-top-picks-for-2024/"><u>PC-Compatible Sony PS3 Mimicry Tools Top Picks for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-policy-update-ai-games-reimagined-for-players/"><u>Steam's Policy Update: AI Games Reimagined for Players</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/streamlining-instagram-video-load-times-mobile-for-2024/"><u>Streamlining Instagram Video Load Times (Mobile) for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10s-new-look-problem-free-streaming/"><u>Win10's New Look: Problem-Free Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-crafting-gentle-sound-declines-with-logic-pro/"><u>[New] In 2024, Crafting Gentle Sound Declines with Logic Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-key-strategies-for-recruiting-superior-video-artists/"><u>[New] Key Strategies for Recruiting Superior Video Artists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-embrace-tranquility-top-10-stress-free-games/"><u>[Updated] 2024 Approved Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>2024 Approved Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-unverified-to-verified-amplifying-your-instagram-profile-with-proven-strategies/"><u>From Unverified to Verified Amplifying Your Instagram Profile with Proven Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-block-web-trackers-on-both-your-windows-11-computer-and-android-smartphone/"><u>How to Block Web Trackers on Both Your Windows 11 Computer and Android Smartphone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/id-lost-naming-intel-icd-with-opengl-support/"><u>ID Lost: Naming Intel ICD with OpenGL Support</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-130-music-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia 130 Music? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/slow-mobile-internet-woes-discover-10-ways-to-boost-your-data-speed/"><u>Slow Mobile Internet Woes: Discover 10 Ways to Boost Your Data Speed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-erasing-your-files-forever-with-these-7-techniques/"><u>The Ultimate Guide to Erasing Your Files Forever with These 7 Techniques</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
 </ul></div>
 

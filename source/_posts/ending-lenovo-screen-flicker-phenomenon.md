@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2024-11-17T17:41:31.354Z
-updated: 2024-11-24T11:30:33.761Z
+date: 2024-11-28T20:54:20.960Z
+updated: 2024-12-02T22:15:00.850Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -43,18 +47,18 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -71,28 +75,24 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
@@ -125,17 +125,22 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-instant-upload-share-pics-directly-from-your-camera-roll/"><u>[New] In 2024, Instant Upload Share Pics Directly From Your Camera Roll</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-cloudapp-studio-top-10-lightroom-alternatives/"><u>[Updated] 2024 Approved CloudApp Studio Top 10 Lightroom Alternatives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-mobile-photography-tools-reviewed-iphone-and-android-comparisons/"><u>Best Mobile Photography Tools Reviewed IPhone & Android Comparisons</u></a></li>
-<li><a href="https://games-able.techidaily.com/captivate-audiences-showcasing-xbox-playthroughs-on-discord/"><u>Captivate Audiences: Showcasing Xbox Playthroughs on Discord</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-laptops-erratic-screenshots-flashing/"><u>Conquered Laptop's Erratic Screenshots Flashing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-a2plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi A2+?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/making-black-screens-green-asus-fix-guide/"><u>Making Black Screens Green: Asus Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-windows-11-compatible-geforce-210-drivers/"><u>New Windows 11-Compatible GeForce 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcame-graphics-failure-issue/"><u>Overcame Graphics Failure Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgraded-advanced-graphics-tweaks-for-win11/"><u>Upgraded: Advanced Graphics Tweaks for Win11</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728478240463-404-url/"><u>ディレクトリ '404エラー': URLを追う途中で消えた情報源へのアプローチ方法</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-creators-guide-15-unrestricted-music-archives/"><u>[New] 2024 Approved YouTube Creators' Guide 15 Unrestricted Music Archives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-maximizing-social-reach-with-tiktok-to-facebook-integration/"><u>[New] In 2024, Maximizing Social Reach with TikTok to Facebook Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016680340-solved-headphones-crackling-issues-quickly-and-easily/"><u>[SOLVED] Headphones Crackling Issues. Quickly & Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctupsidedownmonitor-views/"><u>CorrectUpsidedownMonitor Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-speed-issue-resolved-no-gpu-acceleration/"><u>Direct3D Speed Issue Resolved: No GPU Acceleration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-white-screen-woes-fix-it-now/"><u>Ease White Screen Woes, Fix It Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-and-secure-recovery-stellars-software-revolution/"><u>Effortless and Secure Recovery: Stellar’s Software Revolution</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-13t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 13T to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c12-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C12 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-contemporary-guide-to-achieving-perfect-audio-gradual-decline-for-2024/"><u>New The Contemporary Guide to Achieving Perfect Audio Gradual Decline for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dxgkrnlsys-blue-screen-in-windows/"><u>Overcoming dxgkrnl.sys Blue Screen in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-window-images-restored/"><u>Precise Window Images Restored</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-nvidia-and-windows-11-discrepancy/"><u>Resolving NVIDIA & Windows 11 Discrepancy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printing-on-windows-find-and-install-your-canon-pixma-mg3420-drivers-here-windows-1087/"><u>Seamless Printing on Windows: Find and Install Your Canon Pixma MG3420 Drivers Here (Windows 10/8/7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-application-of-displays-settings-save/"><u>Successful Application of Displays Settings Save</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-a-crystal-cleared-twitch-stream/"><u>Unlock a Crystal-Cleared Twitch Stream</u></a></li>
 </ul></div>
 

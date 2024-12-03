@@ -1,7 +1,7 @@
 ---
 title: Sprint Through Apex with Ease!
-date: 2024-11-20T04:37:12.351Z
-updated: 2024-11-23T18:52:44.426Z
+date: 2024-12-02T00:01:13.691Z
+updated: 2024-12-03T04:18:53.655Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 ![Apex Legends crash](https://images.drivereasy.com/wp-content/uploads/2019/03/image-124.png)
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,10 +47,6 @@ Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -64,16 +64,12 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
 
@@ -89,12 +85,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
@@ -143,13 +143,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -204,20 +204,20 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expand-your-horizon-the-top-15-youtube-science-hubs-2-written-by-user-for-2024/"><u>[New] Expand Your Horizon The Top 15 YouTube Science Hubs (2 Written By User for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-achromatic-no-more-blades-leap-to-ultra-hd-clarity/"><u>[Updated] 2024 Approved Achromatic No More Blade's Leap to Ultra-HD Clarity</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-key-elements-of-attractive-fb-video-commercials/"><u>[Updated] In 2024, Key Elements of Attractive FB Video Commercials</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/calming-the-currents-of-pro-7s-display/"><u>Calming the Currents of Pro 7'S Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-asus-laptop-screen-flash-with-simple-steps/"><u>Fix ASUS Laptop Screen Flash with Simple Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-win11-black-out-following-fall-upgrade/"><u>Fixing Win11 Black Out Following Fall Upgrade</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-14-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 14 Pro Max/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a78-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo A78 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-image-failure-error-0x80780119/"><u>Overcoming Windows' Image Failure: Error 0X80780119</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-laptop-gpu-initialization/"><u>Resolved: Windows 11 Laptop GPU Initialization</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-fixing-critical-error-c1900101-in-windows-11/"><u>Step-by-Step Guide to Fixing Critical Error C1900101 in Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-pros-and-cons-of-using-a-seatech-external-usb-burner-for-blu-ray-disc-authoring-a-review/"><u>The Pros and Cons of Using a SeaTech External USB Burner for Blu-Ray Disc Authoring: A Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817924564-wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-wait-fixed-amd-and-tarkov-graphic-snags/"><u>Zero-Wait Fixed: AMD & Tarkov Graphic Snags</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-11-missing/"><u>[Fixed] Advanced Display Settings Windows 11 Missing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-quick-tips-for-posting-videos-on-instagram/"><u>[Updated] 2024 Approved Quick Tips for Posting Videos on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streamlined-audio-processing-in-windows-media-player/"><u>2024 Approved Streamlined Audio Processing in Windows Media Player</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-drone-video-editing-guide-for-experts-and-novices/"><u>2024 Approved Ultimate Drone Video Editing Guide for Experts and Novices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285501644-ai/"><u>AI老照片重生：八项功能领先的免费图片修复软件</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g-5g-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G 5G (2023) Fingerprint Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-compatibility-now-secured-gpu-acceleration-available/"><u>Direct3D Compatibility Now Secured - GPU Acceleration Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-system-freeze-bluescreen-solution/"><u>dxgkrnl.sys System Freeze - BlueScreen Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-directx-12-renderer-bug/"><u>Fixed DirectX 12 Renderer Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-missing-displays-via-nvidia-control-panel/"><u>Fixing Missing Displays via NVIDIA Control Panel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/march-tech-release-anticipated-apple-events-featuring-upcoming-macbook-air-ipad-pro-and-ipad-air-zdnet-insights/"><u>March Tech Release: Anticipated Apple Events Featuring Upcoming MacBook Air, iPad Pro, and iPad Air | ZDNET Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-win7-performance-integrating-latest-intel-drivers/"><u>Streamline Win7 Performance: Integrating Latest Intel Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-faster-boot-times-windows-11-guide/"><u>Unleashing Faster Boot Times: Windows 11 Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-distortion-window-not-fullscreen/"><u>Win10 Screen Distortion: Window Not Fullscreen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/x3daudiodll-mistakenly-absent-discover-how-to-correct-it/"><u>X3DAudio.dll Mistakenly Absent? Discover How to Correct It</u></a></li>
 </ul></div>
 

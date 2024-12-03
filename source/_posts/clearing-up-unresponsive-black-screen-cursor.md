@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Unresponsive Black Screen, Cursor
-date: 2024-10-16T09:15:44.749Z
-updated: 2024-10-18T05:19:37.252Z
+date: 2024-11-29T16:17:20.865Z
+updated: 2024-12-02T23:01:05.828Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
 
  There are six possible solutions for this problem. You may not have to try them all – just work your way down the list until you find the fix that works for you.
@@ -32,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
@@ -53,6 +54,10 @@ If you’re on a laptop:
  If this doesn’t work (or you’re on a desktop PC), try Fix 2 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your graphics drivers**
 
@@ -78,20 +83,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
@@ -115,10 +110,7 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Change settings that are currently unavailable** .
@@ -139,26 +131,16 @@ If you’re on a laptop:
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -200,6 +182,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Follow the on-screen instructions to create a new user account.
 
 6) Log in to this account and check to see if the black screen problem persists.
@@ -216,18 +202,15 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -248,16 +231,13 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -278,18 +258,19 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-a-chromebook-key-techniques/"><u>[Updated] Mastering Zoom on a Chromebook Key Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-value-capture-budget-cam-essentials-for-2024/"><u>[Updated] Value Capture Budget Cam Essentials for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-effortless-sharing-of-musical-selections/"><u>2024 Approved Tips for Effortless Sharing of Musical Selections</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728475335558-windows-11/"><u>元に戻せ！Windows 11で右クリックメニューの初期設定へ</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-sideways-screens-in-windows-10-fix/"><u>Address Sideways Screens in Windows 10 [Fix]</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos/"><u>Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cease-window-11-screen-flashing/"><u>Cease Window 11 Screen Flashing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-spark-go-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Spark Go (2023)Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-viewport-tilt-resolved/"><u>Laptop Viewport Tilt Resolved</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-best-free-security-camera-software/"><u>New 2024 Approved 10 Best Free Security Camera Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-smart-8-hd-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Smart 8 HD? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-game-lag/"><u>Quick Fix for Game Lag</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-lens-magic-perfecting-close-up-and-macro-shots/"><u>2024 Approved IPhone Lens Magic Perfecting Close-Up and Macro Shots</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-uncovering-the-practical-benefits-of-photo-stability-features/"><u>2024 Approved Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-steps-to-solve-your-amazon-prime-video-connection-woes/"><u>Easy Steps to Solve Your Amazon Prime Video Connection Woes</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-minecraft-launcher-error-0x803f8001-on-windows-devices/"><u>Fixing Minecraft Launcher Error 0X803F8001 on Windows Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-solution-tidy-up-screen-ghosting/"><u>Immediate Solution: Tidy Up Screen Ghosting</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>In 2024, How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-horizon-radeon-hd-6950-updates-for-windows-10-users/"><u>New Graphics Horizon: Radeon HD 6950 Updates for Windows 10 Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/radiance-and-refine-essential-editing-secrets-revealed-for-2024/"><u>Radiance and Refine Essential Editing Secrets Revealed for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-non-responding-touch-interface/"><u>Resolving Lenovo Non-Responding Touch Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/righted-portable-computer-orientation/"><u>Righted Portable Computer Orientation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-vanished-gddr6x-issue/"><u>Solving the Vanished GDDR6x Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-restore-access-to-steam-content/"><u>Techniques to Restore Access to Steam Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tiff-en-png-verander-gratis-met-de-hele-kracht-van-movavi-konvertor/"><u>Tiff en PNG: Verander Gratis Met De Hele Kracht Van Movavi Konvertor!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-x7b-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor X7b Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting C1900101 Error in Windows Upgrade
-date: 2024-10-12T04:32:31.611Z
-updated: 2024-10-18T00:54:53.831Z
+date: 2024-11-29T21:34:49.559Z
+updated: 2024-12-03T03:06:09.346Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ Here are 6 of the most effective solutions for you to try. You may not have to t
 In many case, the error codes could be different in different combinations of computers, but all of them have some general solutions. Here are some of the most commonly seen codes: **0xC1900101 – 0x20004** **0xC1900101 – 0x2000c** **0xC1900101 – 0x20017** **0xC1900101 – 0x30018** **0xC1900101 – 0x3000D** **0xC1900101 – 0x4000D** **0xC1900101 – 0x40017**If you’re bugged by one of the codes above, feel free to try the methods below, one at a time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update device drivers, esp. the display card driver
@@ -59,13 +56,6 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
@@ -76,54 +66,43 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Do a clean boot
 
 Clean boot requires only the very basic and built-in drivers and programs to run your computer. Therefore, it usually tells if the installed software is conflicting with others when you update, install or run it. If you’re having the 0xC1900101 error code, we recommend that you do a clean boot and see if you’re able to upgrade to or update your Windows 10 from there. **IMPORTANT**: You must log in as**administrator**to do the clean boot. 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**msconfig**in and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f881deef9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Click the programs you don’t want to start your PC with, and click**Disable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41fd5bee675.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
@@ -134,19 +113,14 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -155,10 +129,7 @@ Press the **Enter**key on your keyboard.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
@@ -192,22 +163,19 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-pinnacle-recorders-of-academic-dialogues/"><u>[New] 2024 Approved Pinnacle Recorders of Academic Dialogues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-seamless-transfer-your-path-to-storing-instagram-videos-on-pc/"><u>[New] 2024 Approved Seamless Transfer Your Path to Storing Instagram Videos on PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aximizing-youtube-gaming-income/"><u>[New] Maximizing YouTube Gaming Income</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-analyzing-why-youtube-features-specific-comments/"><u>[Updated] 2024 Approved Analyzing Why YouTube Features Specific Comments</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-fb-video-upload-pc-and-android-guide/"><u>[Updated] In 2024, Mastering FB Video Upload PC & Android Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-barrier-preventing-new-halo-infinite-opening/"><u>DirectX12 Barrier Preventing New Halo Infinite Opening</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/from-hdtv-to-uhd-tv-the-spectacumph-of-4k/"><u>From HDTV to UHD TV: The Spectacumph of 4K</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/microsoft-embraces-iot-moves-away-from-traditional-market-as-google-retreats/"><u>Microsoft Embraces IoT, Moves Away From Traditional Market as Google Retreats</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-bring-back-signal-on-dp-port/"><u>Quick-Fix Guide: Bring Back Signal on DP Port</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedied-geforce-shader-compatibility/"><u>Remedied GeForce Shader Compatibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-guide-resolving-non-detecting-graphics-cards/"><u>Remedy Guide: Resolving Non-Detecting Graphics Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/setting-savorability-secured-post-update/"><u>Setting Savorability Secured Post-Update</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola FRP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-spec-challenges-for-intel-gpu-installation/"><u>Tackling Spec Challenges for Intel GPU Installation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-best-free-open-source-software-for-crafting-ai-images/"><u>Unveiling the Best Free, Open Source Software for Crafting AI Images</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/venturing-beyond-standard-definition-a-look-at-4k-tvs/"><u>Venturing Beyond Standard Definition: A Look at 4K TVs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harting-creators-fortune-revenue-generated-from-youtube-advertisements/"><u>[New] Charting Creator's Fortune Revenue Generated From Youtube Advertisements?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-live-show-recordings-the-modern-way/"><u>[Updated] 2024 Approved Mastering Live Show Recordings The Modern Way</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-changing-esd-into-an-iso-for-windows-pcs/"><u>A Beginner's Guide to Changing ESD Into an ISO for Windows PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-the-glare-not-your-patience-fix-monitor-flicker/"><u>Cut the Glare, Not Your Patience: Fix Monitor Flicker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-green-screen-strategies-for-professional-streamers/"><u>Cutting-Edge Green Screen Strategies for Professional Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4s-windows-woes-simplified/"><u>Fixing Fallout 4'S Windows Woes Simplified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-wireless-audio-a-detailed-comparison-of-apples-new-airpods-offerings-explained/"><u>Future of Wireless Audio: A Detailed Comparison of Apple's New AirPods Offerings Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-malfunction-resolved-screen-responding/"><u>GPU Malfunction Resolved: Screen Responding</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-flashing-windows-10-problems/"><u>Solving the Flashing Windows 10 Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-review-of-the-arlo-video-doorbell-advanced-entry-alert-system-with-visuals/"><u>Top Review of the Arlo Video Doorbell - Advanced Entry Alert System with Visuals</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-resolving-battlenet-launch-issues/"><u>Ultimate Troubleshooting Steps for Resolving Battle.net Launch Issues</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-cursor-sight-resolution/"><u>Win11 Cursor Sight - Resolution</u></a></li>
 </ul></div>
 

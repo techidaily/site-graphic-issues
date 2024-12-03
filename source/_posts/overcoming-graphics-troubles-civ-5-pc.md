@@ -1,7 +1,7 @@
 ---
 title: Overcoming Graphics Troubles, Civ 5-PC
-date: 2024-10-23T01:15:46.802Z
-updated: 2024-10-24T01:44:33.511Z
+date: 2024-11-26T17:42:19.078Z
+updated: 2024-12-02T20:49:02.804Z
 tags:
   - win11
   - win10
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 3. [**Install the latest DirectX**](#F3)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
@@ -46,17 +43,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -72,14 +66,15 @@ Here’s how to do it:
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
@@ -107,10 +102,7 @@ Here’s how to do it:
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
@@ -136,24 +128,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-discover-these-27-purely-free-youtube-audio-ripper-tools/"><u>[New] In 2024, Discover These 27 Purely Free YouTube Audio Ripper Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elite-interactive-web-summit-title/"><u>[Updated] Elite Interactive Web Summit Title</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-building-powerful-relationships-through-strategic-social-media-engagement/"><u>[Updated] In 2024, Building Powerful Relationships Through Strategic Social Media Engagement</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-thriving-in-thumbnails-creating-impressive-youtube-on-macos/"><u>[Updated] In 2024, Thriving in Thumbnails Creating Impressive Youtube on macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-key-practices-for-integrating-ai-into-editorial-workflows/"><u>7 Key Practices for Integrating AI Into Editorial Workflows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/balancing-display-edges-harmony/"><u>Balancing Display Edges Harmony</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/coordinating-devices-in-power-save-windows-states/"><u>Coordinating Devices in Power-Save Windows States</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cut-through-the-dark-screen-on-twitch/"><u>Cut Through the Dark Screen on Twitch</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fbs-leading-charts-10-hot-music-videos-for-2024/"><u>FB's Leading Charts 10 Hot Music Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-your-mac-a-complete-guide-to-leveraging-preview-features/"><u>In 2024, Mastering Your Mac A Complete Guide to Leveraging Preview Features</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-90-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor 90 Pro Phones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-win10-resolution-configurations/"><u>Master Win10 Resolution Configurations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-graphics-now-supported-on-any-system/"><u>Overwatch Graphics Now Supported on Any System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-zero-signal-displayport-issue/"><u>Quick-Fix for Zero Signal DisplayPort Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-techniques-for-fixing-gpus-only/"><u>Simple Techniques for Fixing GPUs Only</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unclog-and-use-asus-built-in-cam-again/"><u>Unclog and Use ASUS Built-In Cam Again</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncover-hidden-causes-of-white-screen/"><u>Uncover Hidden Causes of White Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/valorant-load-screen-woes-solutions-to-tackle-the-never-ending-boot-problems-solved/"><u>Valorant Load Screen Woes? Solutions to Tackle the Never-Ending Boot Problems [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wdf-blue-screen-troubleshooting-for-winos/"><u>WDF Blue Screen Troubleshooting for WinOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-black-screen-after-update/"><u>[Fix] Windows 10 Black Screen After Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-record-breaking-reddit-threads-ranked-1-10/"><u>[Updated] 2024 Approved Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dailymotion-vs-youtube-monetization-which-is-more-profitable-for-2024/"><u>[Updated] Dailymotion vs YouTube Monetization Which Is More Profitable for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sustaining-a-dynamic-facebook-experience/"><u>[Updated] Sustaining a Dynamic Facebook Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decoding-vulkan-runtime-libraries-functions-and-best-practices-explained/"><u>Decoding Vulkan Runtime Libraries: Functions & Best Practices Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-nvidia-gtx-950-error-43-problems-on-your-windows-11-pc-step-by-step-solutions/"><u>Fixing NVIDIA GTX 950 'Error 43' Problems on Your Windows 11 PC: Step-by-Step Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-resolve-youtube-playback-issues-when-videos-wont-start/"><u>How to Resolve YouTube Playback Issues When Videos Won't Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winvpn-error-connection-lost-explained-and-fixed/"><u>WinVPN Error: Connection Lost Explained and Fixed</u></a></li>
 </ul></div>
 

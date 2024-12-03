@@ -1,7 +1,7 @@
 ---
 title: Activating the Slumbering GPU Fan
-date: 2024-11-22T09:35:24.497Z
-updated: 2024-11-24T02:38:42.587Z
+date: 2024-12-01T22:36:52.822Z
+updated: 2024-12-03T02:55:27.586Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  Before you start, first check if your GPU has a**thermal control** (e.g. Fan Stop by GIGABYTE) that allows fans to spin only at certain temperatures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it normal?
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the GPU fans
 
  Next you need to take a look at the GPU fans. When**powered off** , you can try to spin the fans with your finger to see if they’re stuck. If it’s an old computer, you can pull the card out and**cotton-swab it** a bit. To revive an old GPU, you can also try**greasing the bearings** with machine oil or lubricant grease.
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  If you’re sure it’s not a hardware issue, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -89,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Configure GPU RPM (fan speed)
 
  RPM stands for revolutions per minute, which is what we usually call fan speed. To see if it’s a wrong configuration, you can use hardware monitor programs like [**MSI Afterburner**](https://www.msi.com/Landing/afterburner/graphics-cards) to adjust the fan speed manually. This is a safer approach compared to stress tests.
@@ -99,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Scan and repair your system
 
@@ -121,16 +125,12 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
@@ -162,22 +162,20 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>[Updated] 2024 Approved Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-complete-process-of-adding-soundtracks-to-ig/"><u>[Updated] In 2024, The Complete Process of Adding Soundtracks to IG</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-ideal-video-maker-apps-for-novice-iphone-and-android-users/"><u>2024 Approved Ideal Video Maker Apps for Novice iPhone and Android Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209058550-aoc-monitors-not-showing-up-get-them-working-on-windows-11-with-these-fixes/"><u>AOC Monitors Not Showing Up? Get Them Working on Windows 11 with These Fixes!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/combat-incorrect-video-cards-crashing-game/"><u>Combat Incorrect Video Cards Crashing Game</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-fitbit-versa-2-the-ultimate-tracker-for-health-and-smart-features/"><u>Comprehensive Review of the Fitbit Versa 2: The Ultimate Tracker for Health & Smart Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-issue-card-absence-notified/"><u>Display Issue: Card Absence Notified</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-device-failure-alerted/"><u>Graphic Device Failure Alerted</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-enter-safe-mode-and-uninstall-graphics-card-driver-in-window-8/"><u>How to Enter Safe Mode and Uninstall Graphics Card Driver in Window 8?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intelnvidia-hybrid-graphics-resolved-in-windows-10/"><u>Intel/Nvidia Hybrid Graphics Resolved in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-43-problem-solved-windows-ceases-device-functionality/"><u>NVIDIA #43 Problem Solved: Windows Ceases Device Functionality</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reactivate-your-displayport-in-seconds/"><u>Reactivate Your DisplayPort in Seconds</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revving-up-a-comprehensive-listing-of-best-car-code-books-and-articles-released-so-far-in-new-york-city-book-four-of-fourth-series-rev/"><u>Revving Up: A Comprehensive Listing Of Best Car Code Books And Articles Released So Far In New York City, Book Four of Fourth Series (Rev.)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/securing-direct3d-integration-end-of-gpu-rendering-issues/"><u>Securing Direct3D Integration: End of GPU Rendering Issues</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/voice-your-thoughts-quick-recording-in-windows-10/"><u>Voice Your Thoughts Quick Recording in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/window-warriors-fixed-wobbling-arrows-await/"><u>Window Warriors, Fixed Wobbling Arrows Await</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-guide-to-utilizing-mobizen-screen-recorder-for-2024/"><u>[New] Seamless Guide to Utilizing Mobizen Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/isionaries-of-marvellous-marvel-realities-for-2024/"><u>[New] Visionaries of Marvellous Marvel Realities for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tailoring-your-videography-with-personalized-instagram-captions/"><u>[Updated] 2024 Approved Tailoring Your Videography with Personalized Instagram Captions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-freezing-your-window-windows-screenshoting-guide/"><u>[Updated] In 2024, Freezing Your Window Windows Screenshoting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2-the-showdown-between-apple-pencils-pro-and-2nd-generation-which-reigns-supreme-for-artists/"><u>2. The Showdown Between Apple Pencils: Pro and 2Nd Generation Which Reigns Supreme for Artists?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10-flash-dilemma/"><u>Addressing Windows 10 Flash Dilemma</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-razer-device-drivers-on-various-windows-os/"><u>Download & Update Razer Device Drivers on Various Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-times-for-chatgpt-essential-features-in-latest-release/"><u>Exciting Times for ChatGPT: Essential Features in Latest Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hidden-advanced-options-in-win10-display/"><u>Fixing Hidden Advanced Options in Win10 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-activation-win11-laptop-operational/"><u>GPU Activation: Win11 Laptop Operational</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818300815-how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-malfunction-rectified-driver-running/"><u>Monitor Malfunction Rectified: Driver Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782383-9781591437727-speaking-with-nature/"><u>Speaking with Nature | Free Book</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/hddsandisk-ssd/"><u>クラウニング技術で安心してHDDからSanDisk SSDにシームレス切り替え法</u></a></li>
 </ul></div>
 

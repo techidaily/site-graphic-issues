@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting Guide: Deciphering Double Impact Incidents"
-date: 2024-11-20T06:25:06.943Z
-updated: 2024-11-24T12:20:21.695Z
+date: 2024-12-01T23:40:25.676Z
+updated: 2024-12-02T19:57:44.753Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -53,13 +53,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -74,20 +74,20 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -121,6 +121,10 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -145,13 +149,13 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
@@ -167,15 +171,15 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -188,10 +192,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -212,24 +212,24 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-harmonizing-hashtags-instagram-tiktok-collaborative-guide/"><u>[New] 2024 Approved Harmonizing Hashtags Instagram-TikTok Collaborative Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-optimal-steadicams-matched-with-dslr-cameras/"><u>[Updated] 2024 Approved Optimal Steadicams Matched with DSLR Cameras</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-stream-like-a-champion-youtubes-ultimate-techniques/"><u>[Updated] 2024 Approved Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-ff-downloader-suite-for-social-video-grabs/"><u>[Updated] In 2024, Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-imagery-stories-a-deep-dive/"><u>2024 Approved Iconic Imagery Stories A Deep Dive</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieve-maximum-direct3d-potential-with-gpu-acceleration-fixes/"><u>Achieve Maximum Direct3D Potential with GPU Acceleration Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-com-exceptions-on-windows-platform/"><u>Addressing COM Exceptions on Windows Platform</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-windows-7-with-latest-intel-gfx-drivers/"><u>Boosting Windows 7 with Latest Intel Gfx Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/double-drop-in-frames-per-second-fps-for-pc-players-corrected-successfully/"><u>Double Drop in Frames Per Second (FPS) for PC Players Corrected Successfully</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enable-gpu-functionality-in-windows-1110-devices/"><u>Enable GPU Functionality in Windows 11/10 Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-selected-ultimate-mac-applications-listing-cnet/"><u>Expertly Selected Ultimate Mac Applications Listing | CNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-100-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-frozen-calls-quick-camera-repairs-for-clear-zooming/"><u>No More Frozen Calls: Quick Camera Repairs for Clear Zooming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pro-vlc-top-10-hidden-player-powers-for-2024/"><u>Pro-VLC Top 10 Hidden Player Powers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-not-found-issue/"><u>Resolve: Graphics Not Found Issue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[New] 2024 Approved Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-unlock-full-potential-with-iphone-hdr-for-2024/"><u>[New] How to Unlock Full Potential with iPhone HDR for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-practices-in-digital-media-capturing/"><u>[Updated] Best Practices in Digital Media Capturing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-history-best-theme-songs-in-anime/"><u>[Updated] Harmonizing History Best Theme Songs in Anime</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-revitalized-interview-questions-for-listener-involvement/"><u>[Updated] In 2024, Revitalized Interview Questions for Listener Involvement</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-adapter-fix-code-22/"><u>Display Adapter Fix: Code 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-hdtv-to-uhd-tv-the-spectacumph-of-4k/"><u>From HDTV to UHD TV: The Spectacumph of 4K</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-issue-overcome-with-nvidia-driver-fix/"><u>OpenGL Issue Overcome with NVIDIA Driver Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-bring-back-signal-on-dp-port/"><u>Quick-Fix Guide: Bring Back Signal on DP Port</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedied-geforce-shader-compatibility/"><u>Remedied GeForce Shader Compatibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-guide-resolving-non-detecting-graphics-cards/"><u>Remedy Guide: Resolving Non-Detecting Graphics Cards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-corsairs-tc500-luxe-stylish-and-comfortable-but-some-issues-persist/"><u>Review of Corsair's TC500 Luxe - Stylish & Comfortable, But Some Issues Persist</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-gameplay-instant-cure-for-amd-and-tarkov-hiccup/"><u>Seamless Gameplay: Instant Cure for AMD & Tarkov Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-for-safeguarding-system-stability-in-windows-8-gpus-off/"><u>The Ultimate Guide for Safeguarding System Stability in Windows 8, GPUs Off</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/venturing-beyond-standard-definition-a-look-at-4k-tvs/"><u>Venturing Beyond Standard Definition: A Look at 4K TVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/waterproof-capabilities-of-the-latest-iphone-15-pro-max-revealed/"><u>Waterproof Capabilities of the Latest iPhone 15 Pro Max Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/which-ios-video-editor-excels-more-cameo-or-filmorago/"><u>Which iOS Video Editor Excels More Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224065964-rmvb-avi-movavi/"><u>원격 인증이 지연된 아티클 RMVB에서 AVI로의 침출 자리 바꾸기: Movavi 제공 - 무세</u></a></li>
 </ul></div>
 

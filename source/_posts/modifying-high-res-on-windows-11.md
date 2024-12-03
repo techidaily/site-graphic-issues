@@ -1,7 +1,7 @@
 ---
 title: Modifying High Res on Windows 11
-date: 2024-10-11T19:43:07.869Z
-updated: 2024-10-18T06:23:52.011Z
+date: 2024-11-26T04:38:56.698Z
+updated: 2024-12-03T01:59:31.194Z
 tags:
   - win11
   - win10
@@ -18,12 +18,20 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 **Windows 10 display too big** ? Don’t worry – it’s quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Fixes for Windows 10 Display Too Big
 
  Here are two easy fixes that have helped other users get normal display on their screen again. Check them out…
 
 1. **[Change your screen resolution](#F1)**
 2. [**Update your display driver**](#F2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Change your screen resolution**
 
@@ -33,34 +41,25 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e21ce4cd4.jpg)
 2. Under**Resolution** , click**the drop-down menu** and make sure you’ve chosen the**Recommended** screen resolution.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e27ee9b46.jpg)
 3. Click**Keep changes** to confirm.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e308683d2.jpg)
 4. Check your screen and see if the **Windows 10 display too big** problem is solved. If yes, then congrats! But if it’s no joy, please move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your display driver**
 
@@ -75,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee46484b2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -113,21 +105,22 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[New] Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-capture-clarity-high-end-gyroscopic-tripod-gear-for-2024/"><u>[Updated] Capture Clarity High-End Gyroscopic Tripod Gear for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-accelerating-videos-in-tiktok-quick-tips/"><u>2024 Approved Accelerating Videos in TikTok Quick Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>2024 Approved The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-hidden-potential-of-instagrams-question-marker/"><u>2024 Approved Unlocking Hidden Potential of Instagram’s Question Marker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adapting-to-insufficient-specifications-installation-guide/"><u>Adapting to Insufficient Specifications: Installation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-start-screen-links-in-win11s-options/"><u>Adjusting Start Screen Links in Win11's Options</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-mac-video-capturing-software-post-bandicam-revolution-for-2024/"><u>Best Mac Video Capturing Software Post-Bandicam Revolution for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-up-solutions-for-fading-lenovo-screen/"><u>Brighten Up: Solutions for Fading Lenovo Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-win10-monitor-settings/"><u>Corrected Win10 Monitor Settings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-detection-none-detected/"><u>GPU Detection: None Detected</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-driver-update-intellion-graphics-in-windows-11-compatibility-boost/"><u>Swift Driver Update - IntellIon Graphics in Windows 11 Compatibility Boost</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-gt-neo-5-se-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme GT Neo 5 SE Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-upgrading-intel-gpu-software/"><u>Windows 7: Upgrading Intel GPU Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unbeatable-tag-analyzers-for-facebook-twitter-and-instagram-sites/"><u>[New] In 2024, Unbeatable Tag Analyzers for Facebook, Twitter & Instagram Sites</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>[New] Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-drone-for-sale-best-drones-to-buy-for-2024/"><u>[Updated] Drone for Sale - Best Drones to Buy for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-deciphering-genuine-connections-in-social-networks/"><u>[Updated] In 2024, Deciphering Genuine Connections in Social Networks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-inspirational-movies-that-will-bring-you-hope-and-power-for-2024/"><u>10 Best Inspirational Movies That Will Bring You Hope and Power for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-flaw-affecting-halo-infinite-release/"><u>DirectX12 Flaw Affecting Halo Infinite Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-backlight-on-your-lenovo-tvmonitor/"><u>Enhancing Backlight On Your Lenovo TV/Monitor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-for-overcoming-chatgpt-logout-issues/"><u>Essential Tips for Overcoming ChatGPT Logout Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-8-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel 8 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-zte-nubia-flip-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from ZTE Nubia Flip 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-laptops-from-dark-to-daylight/"><u>Lenovo Laptops: From Dark to Daylight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightning-fast-windowed-image-viewer/"><u>Lightning-Fast Windowed Image Viewer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flickering-on-hp-laptops/"><u>Overcoming Flickering on HP Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-smooth-streaming-post-upgrade-win11/"><u>Unlocking Smooth Streaming Post-Upgrade Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-system-safety-access-to-safe-mode-and-gpu-driver-removal-guide/"><u>Unlocking System Safety: Access to Safe Mode & GPU Driver Removal Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-full-screen-display-failure-detected/"><u>Win10 Full Screen Display Failure Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked!</u></a></li>
 </ul></div>
 

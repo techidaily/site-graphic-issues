@@ -1,7 +1,7 @@
 ---
 title: System Graphics Normalization Achieved
-date: 2024-10-16T13:58:36.091Z
-updated: 2024-10-18T10:26:14.868Z
+date: 2024-11-28T21:46:07.842Z
+updated: 2024-12-02T23:34:45.319Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -60,10 +68,7 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -76,10 +81,7 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -99,27 +101,11 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -143,24 +129,20 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-engaging-viewers-with-ease-the-art-of-confidently-filming-for-2024/"><u>[Updated] Engaging Viewers with Ease The Art of Confidently Filming for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-best-book-trailers-a-curated-list-of-5/"><u>2024 Approved Best Book Trailers A Curated List of 5</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/6-innovative-mc-house-concepts-for-community-living-for-2024/"><u>6 Innovative MC House Concepts for Community Living for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-low-end-spec-puzzle-intel-graphic-setup/"><u>Address Low-End Spec Puzzle: Intel Graphic Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011061454-battlefield-5-pc-stability-guide-solve-your-game-crash-problems/"><u>Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bridging-hdtv-to-uhdtv-understanding-the-intricacies-of-4k/"><u>Bridging HDTV to UHDTV: Understanding the Intricacies of 4K</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/crafting-the-impeccable-circle-and-sphere-forms-in-mc-world/"><u>Crafting the Impeccable Circle & Sphere Forms in MC World</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-graphic-functionality-on-win-71011/"><u>Enhancing Graphic Functionality on WIN 7/10/11</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/hot-pursuit-of-snaps-tactics-for-uninterrupted-streaks/"><u>Hot Pursuit of Snaps - Tactics for Uninterrupted Streaks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus 12 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>In 2024, Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-up-end-of-the-shadows/"><u>Lenovo Lights Up: End of the Shadows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-access-denied-on-nvidia-panel/"><u>No More 'Access Denied' On NVIDIA Panel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-performance-refresh-intel-gpu-on-windows/"><u>Optimize Performance: Refresh Intel GPU on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-pc-instability-issues-with-updated-lunaclient-crashes-no-more/"><u>Overcoming PC Instability Issues with Updated LunaClient - Crashes No More</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-common-winx-update-error-0x80246007/"><u>Quick Fixes for Common WinX Update Error: 0X80246007</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rebooted-pixel-shader-failure/"><u>Rebooted Pixel Shader Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-adventure-say-goodbye-to-apex-crashes/"><u>Seamless Adventure: Say Goodbye to Apex Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-silencing-screen-flickers/"><u>The Ultimate Guide to Silencing Screen Flickers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-eluding-digital-footprints-while-enjoying-instagram-stories-online/"><u>[New] 2024 Approved Eluding Digital Footprints While Enjoying Instagram Stories Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-customize-screenshot-storing-on-mac-for-2024/"><u>[New] Customize Screenshot Storing on Mac for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-techniques-to-share-your-screen-on-google-meet/"><u>[New] Seamless Techniques to Share Your Screen on Google Meet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/note-windows-devices-need-amd-video-drivers/"><u>[NOTE] Windows Devices Need AMD Video Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-techniques-for-eradicating-youtubes-green-screen-hiccups/"><u>Efficient Techniques for Eradicating YouTube's Green Screen Hiccups</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-your-call-quality-with-these-zoom-tech-fixes-for-today/"><u>Enhance Your Call Quality with These Zoom Tech Fixes for Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unidentified-graphics-device/"><u>Fix: Unidentified Graphics Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-continuous-crash-issues-in-stardew-valley-for-a-smoother-gaming-experience/"><u>Fixing Continuous Crash Issues in Stardew Valley for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-making-youtube-based-twitter-videos-hearable/"><u>In 2024, Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-greenscreen-effects-on-video-platforms-like-youtube/"><u>Perfecting Greenscreen Effects on Video Platforms Like YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-65-gaming-laptops-under-700-for-the-festive-season-featuring-exclusive-deals/"><u>Top 65 Gaming Laptops Under $700 For The Festive Season - Featuring Exclusive Deals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turbocharge-video-playback-speed/"><u>Turbocharge Video Playback Speed</u></a></li>
 </ul></div>
 

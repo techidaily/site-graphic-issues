@@ -1,7 +1,7 @@
 ---
 title: Tackling Intel/Nvidia Graphic Swapping Issue
-date: 2024-11-19T18:58:05.339Z
-updated: 2024-11-24T10:29:11.550Z
+date: 2024-11-27T22:47:52.967Z
+updated: 2024-12-02T22:16:33.122Z
 tags:
   - win11
   - win10
@@ -37,15 +37,27 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -60,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -88,7 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -103,17 +111,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -124,7 +124,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -142,14 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-5-cost-effective-pc-recording-applications/"><u>[New] 2024 Approved Top 5 Cost-Effective PC Recording Applications</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads-for-2024/"><u>Behind the Scenes A Tech-Savvy Approach to Messenger Downloads for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/leading-strategies-in-mobile-email-creation-insights-and-data-driven-tips-with-massmail/"><u>Leading Strategies in Mobile Email Creation: Insights & Data-Driven Tips with MassMail</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-perfection-horizontal-line-fixation/"><u>Screen Perfection - Horizontal Line Fixation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-flipped-display-issue-windows-7/"><u>Solve Flipped Display Issue, Windows 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/succeeded-clean-install-of-nvidia-driver/"><u>Succeeded: Clean Install of NVIDIA Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-big-with-windows-11-latest-driver-update-for-radeon-hd-6950/"><u>Win Big with Windows 11: Latest Driver Update for Radeon HD 6950</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simple-procedure-reverse-video-order-via-vlc-for-2024/"><u>[New] Simple Procedure Reverse Video Order via VLC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-less-is-more-the-best-video-url-reducers-revealed/"><u>[Updated] Less Is More The Best Video URL Reducers Revealed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-boost-productivity-premier-tools-for-unfollowing-tweets/"><u>2024 Approved Boost Productivity Premier Tools for Unfollowing Tweets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elite-mp4-media-sender-for-2024/"><u>Elite MP4 Media Sender for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-investing-wisdom-in-webcams-finest-stocks-channels/"><u>In 2024, Investing Wisdom in Webcams Finest Stocks Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-steps-in-manipulating-song-pace-in-spotify-app-for-2024/"><u>Key Steps in Manipulating Song Pace in Spotify App for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-challenge-of-class-not-registered-error-in-microsoft-windows/"><u>Overcoming the Challenge of 'Class Not Registered' Error in Microsoft Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-x50i-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50i Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210416000-9781638445777-to-kill-the-firstborn/"><u>To Kill the Firstborn | Free Book</u></a></li>
 </ul></div>
 

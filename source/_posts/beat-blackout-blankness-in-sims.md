@@ -1,7 +1,7 @@
 ---
 title: Beat Blackout Blankness in Sims
-date: 2024-10-12T00:41:25.421Z
-updated: 2024-10-18T04:00:59.436Z
+date: 2024-11-26T23:50:46.574Z
+updated: 2024-12-02T23:27:46.363Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for The Sims 4 White Screen
 
  Here are six fixes that have helped other users resolve the The Sims 4 white screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 4. **[Disable Origin in game](#F4)**
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device driver
 
@@ -65,6 +73,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -86,10 +98,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run the game and check if the white screen error is fixed.
@@ -108,16 +117,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
@@ -134,22 +140,12 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -182,23 +178,9 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -229,17 +211,21 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-b-footage-a-filmmakers-guide/"><u>2024 Approved Incorporating B-Footage A Filmmaker's Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-size-and-scale-on-the-latest-os-update/"><u>Adjusting Screen Size & Scale on the Latest OS Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/epic-tech-pranks-creative-ways-to-surprise-with-an-iphone-or-ipad/"><u>Epic Tech Pranks: Creative Ways to Surprise with an iPhone or iPad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-undo-history-erasing-previous-conversations-with-gpt/"><u>How to Undo History: Erasing Previous Conversations with GPT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-capturing-and-keeping-your-social-media-moments/"><u>In 2024, Capturing and Keeping Your Social Media Moments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-position-solved-for-devices/"><u>Optimal Lateral Position Solved for Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-civ-5-hardware-failures/"><u>Overcoming Civ 5 Hardware Failures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-incompatible-hdmi-between-devices/"><u>Solved Incompatible HDMI Between Devices</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-5-free-clonezilla-tools-for-windows-11-users/"><u>Top 5 Free Clonezilla Tools for Windows 11 Users</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/trouble-free-strategies-for-reinstating-sql-server-data-using-a-compressive-backup/"><u>Trouble-Free Strategies for Reinstating SQL Server Data Using a Compressive Backup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-the-best-10-cost-free-photo-hosters-for-2024/"><u>Ultimate Guide to the Best 10 Cost-Free Photo Hosters for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stability-achieved/"><u>Windows 10 Display Stability Achieved</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-making-it-big-on-youtube-your-strategy-playbook/"><u>[New] 2024 Approved Making It Big on YouTube Your Strategy Playbook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-shuttered-creations-sudden-delete-incidents/"><u>[New] 2024 Approved Shuttered Creations Sudden Delete Incidents</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-post-a-vimeo-video-on-instagram-in-2024/"><u>[New] How to Post a Vimeo Video on Instagram, In 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-gfx-on-windows-os-user-interface-up-and-running/"><u>Fixed GFX on Windows OS - User Interface Up & Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-video-issues-post-update/"><u>Fixing Windows 10 Video Issues Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fresh-nvidia-gpu-software-installation/"><u>Fresh Nvidia GPU Software Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/healed-radeon-stream-error/"><u>Healed Radeon Stream Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-malfunctioning-content-warning-on-your-voice-chat-platform/"><u>How to Fix a Malfunctioning Content Warning on Your Voice Chat Platform</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-digital-destinations-for-text-overlays/"><u>In 2024, Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/prime-time-top-10-methods-for-flawless-cricket-broadcasts-for-2024/"><u>Prime Time Top 10 Methods for Flawless Cricket Broadcasts for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-intel-and-nvidia-hybrid-card-error-on-windows/"><u>Resolved Intel & NVIDIA Hybrid Card Error on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalize-disconnected-dp-ports-instantly/"><u>Revitalize Disconnected DP Ports Instantly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-page-fault-error-in-windows-10-a-comprehensive-guide/"><u>Solving the Page Fault Error in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-building-and-upgrades-featuring-toms-hardware/"><u>The Ultimate Guide to PC Building and Upgrades - Featuring Tom's Hardware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-flawless-image-quality/"><u>Windows 11: Flawless Image Quality</u></a></li>
 </ul></div>
 

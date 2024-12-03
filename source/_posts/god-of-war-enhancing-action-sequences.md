@@ -1,7 +1,7 @@
 ---
 title: "'God of War': Enhancing Action Sequences"
-date: 2024-11-23T01:00:59.808Z
-updated: 2024-11-24T02:19:45.918Z
+date: 2024-11-26T16:56:08.182Z
+updated: 2024-12-03T04:32:32.739Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -51,8 +55,16 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -68,17 +80,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
 If this doesn’t fix the problem, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Check for system updates
@@ -89,14 +97,10 @@ If this doesn’t fix the problem, take a look at the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -121,10 +125,6 @@ If the latest updates don’t work for you, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -147,22 +147,24 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>[New] In 2024, Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-learn-the-art-of-gaussian-blur-mobile-and-pc-edition/"><u>[New] Learn the Art of Gaussian Blur Mobile and PC Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-spectacle-evaluating-hero5b-vs-hero5-session-performance/"><u>Action Spectacle Evaluating Hero5B vs Hero5 Session Performance</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensive-guide-to-enhancing-footage-in-gopro-studio/"><u>Comprehensive Guide to Enhancing Footage in GoPro Studio</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/debugging-comresolution-for-os-windows-errors/"><u>Debugging: ComResolution for OS Windows Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-the-flashing-problems-for-good/"><u>Fixed the Flashing Problems for Good</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-hacks-recovering-damaged-videos/"><u>Fixing Hacks: Recovering Damaged Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/high-quality-video-webcams-top-5-combos-with-sound-for-2024/"><u>High-Quality Video Webcams - Top 5 Combo's With Sound for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-yuva-3-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Yuva 3 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instaphoto-tips-for-seamless-sharing/"><u>InstaPhoto Tips for Seamless Sharing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/leveling-screen-horizontal-borders/"><u>Leveling Screen Horizontal Borders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/next-level-graphics-new-windows-10-driver-for-amds-hd-6950/"><u>Next Level Graphics: New Windows 10 Driver for AMD's HD 6950</u></a></li>
-<li><a href="https://win11.techidaily.com/obs-studio-troubleshooting-muted-sound-recording-in-windows-11/"><u>OBS Studio: Troubleshooting Muted Sound Recording in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-overcome-c1900101-during-win10-deployment/"><u>Steps to Overcome C1900101 During Win10 Deployment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-wobble-of-pro-7s-screen/"><u>Taming the Wobble of Pro 7'S Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-7-blank-screens/"><u>Troubleshooting Windows 7 Blank Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-settings-visibility-restored/"><u>Windows 10 Display Settings: Visibility Restored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[New] Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-zeroing-in-on-the-high-def-spectacle-samsungs-ue590-review/"><u>[Updated] Zeroing in on the High-Def Spectacle - Samsung's UE590 Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-maximum-direct3d-potential-with-gpu-acceleration-fixes/"><u>Achieve Maximum Direct3D Potential with GPU Acceleration Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-com-exceptions-on-windows-platform/"><u>Addressing COM Exceptions on Windows Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-allies-for-wellness-discover-5-supportive-bots/"><u>AI Allies for Wellness: Discover 5 Supportive Bots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-7-with-latest-intel-gfx-drivers/"><u>Boosting Windows 7 with Latest Intel Gfx Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crystal-carousel-at-the-olympics/"><u>Crystal Carousel at the Olympics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enable-gpu-functionality-in-windows-1110-devices/"><u>Enable GPU Functionality in Windows 11/10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-evaluation-of-the-elgato-stream-deck-neo-enhancing-user-interface-for-gamers-and-creators-alike/"><u>Expert Evaluation of the Elgato Stream Deck Neo: Enhancing User Interface for Gamers and Creators Alike</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-electric-vehicles-performance-edge-over-gasoline-options/"><u>Exploring the Reasons Behind Electric Vehicles' Performance Edge Over Gasoline Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 11 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>In 2024, Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-not-found-issue/"><u>Resolve: Graphics Not Found Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/scale-down-windows-monitor-size/"><u>Scale Down Windows Monitor Size</u></a></li>
 </ul></div>
 

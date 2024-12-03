@@ -1,7 +1,7 @@
 ---
 title: Silent Display on Graphics Card
-date: 2024-10-15T09:43:56.536Z
-updated: 2024-10-18T08:19:45.479Z
+date: 2024-11-30T17:06:13.941Z
+updated: 2024-12-03T01:13:46.296Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -40,14 +44,11 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. See if an additional power supply is required
 
@@ -79,16 +80,13 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -100,6 +98,11 @@ If this is not the problem, please move on.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -107,6 +110,10 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -117,13 +124,6 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -151,26 +151,10 @@ Here are the things you should pay extra attention to:
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
@@ -178,28 +162,12 @@ Here are the things you should pay extra attention to:
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -232,16 +200,22 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-balancing-viral-potential-with-long-term-traction-in-videos/"><u>[Updated] 2024 Approved Balancing Viral Potential with Long-Term Traction in Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-on-azure-speech-transcription-services/"><u>2024 Approved Step-by-Step on Azure Speech Transcription Services</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-audio-transformation-tools-unleash-voices/"><u>2024 Approved Superior Audio Transformation Tools Unleash Voices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/hacks-to-record-video-of-your-playtime-for-2024/"><u>Hacks to Record Video of Your Playtime for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intels-graphics-drivers-the-latest-windows-update-guide/"><u>Intel's Graphics Drivers: The Latest Windows Update Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-charting-out-the-leading-audio-reverse-programs-a-targeted-review-for-computers-and-phones/"><u>New 2024 Approved Charting Out the Leading Audio Reverse Programs A Targeted Review for Computers & Phones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-hardware-limitations-for-driver-install/"><u>Overcoming Hardware Limitations for Driver Install</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaired-loading-functionality-of-amd-on-win10/"><u>Repaired Loading Functionality of AMD on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-tempest-acer-screen-calm/"><u>Taming the Tempest: Acer Screen Calm</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/transform-yourfb-watchlist-with-easy-youtube-video-autoplay-configuration/"><u>Transform YourFB Watchlist with Easy Youtube Video Autoplay Configuration</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-convert-vimeo-hd-mp4-format-guide/"><u>2024 Approved Convert Vimeo HD MP4 Format Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c12-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C12 Plus to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-43-on-graphics-solved/"><u>Error 43 on Graphics Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-driver-crisis-resolved/"><u>Graphics Driver Crisis Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hasten-clear-video-transmission/"><u>Hasten Clear Video Transmission</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-x5-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco X5 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconfigure-display-mode-in-win10/"><u>Reconfigure Display Mode in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-lost-window-on-pc-windows/"><u>Resetting Lost Window on PC [WINDOWS]</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-non-functional-xbox-controller/"><u>Reviving Your Non-Functional Xbox Controller</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-macbook-repairs-with-this-revolutionary-laptop-protector-insight/"><u>Save Big on MacBook Repairs with This Revolutionary Laptop Protector Insight</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-tackle-non-functioning-asus-cam/"><u>Steps to Tackle Non-Functioning Asus Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-restore-vivid-colors-in-displays/"><u>Strategies to Restore Vivid Colors in Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-5-key-points-for-choosing-the-perfect-smartwatch/"><u>The Ultimate Checklist: 5 Key Points for Choosing the Perfect Smartwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-solution-to-stabilize-amd-radeon-r9-on-win10/"><u>Unveiling the Solution to Stabilize AMD Radeon R9 on Win10</u></a></li>
 </ul></div>
 

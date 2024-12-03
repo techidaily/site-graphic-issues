@@ -1,7 +1,7 @@
 ---
 title: Quick Fix to OpenGL Issue - NVIDIA GPU Affected
-date: 2024-11-22T06:00:29.257Z
-updated: 2024-11-24T05:34:23.125Z
+date: 2024-12-01T20:58:15.223Z
+updated: 2024-12-03T03:43:06.394Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your NVIDIA graphics driver](#m1)**
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -61,6 +53,10 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -70,7 +66,7 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
@@ -87,11 +83,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -105,6 +101,10 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
@@ -117,7 +117,7 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
@@ -144,20 +144,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included/"><u>[New] The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-vanguard-visions-ultimate-laptop-choices-for-uhd-content-creators-for-2024/"><u>[New] Vanguard Visions Ultimate Laptop Choices for UHD Content Creators for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-clearview-recorder-xtreme-win10/"><u>2024 Approved ClearView Recorder Xtreme (Win10)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-joint-creative-endeavors-between-brands-and-youtube/"><u>2024 Approved Joint Creative Endeavors Between Brands & YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cryptic-code-deciphered-direct-x-error-eradicated-in-league/"><u>Cryptic Code Deciphered: Direct X Error Eradicated in League</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/download-the-enhanced-nvidia-1060-drivers/"><u>Download the Enhanced Nvidia 1060 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-display-on-tv-via-hdmi-pathway-restoration/"><u>Fixing Laptop Display on TV via HDMI Pathway Restoration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y36-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y36 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-global-iptv-connectivity-solutions/"><u>In 2024, Global IPTV Connectivity Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lift-the-gloom-restoring-colorfulness-of-an-asus-pc/"><u>Lift the Gloom: Restoring Colorfulness of an Asus PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-repairing-your-androids-call-capabilities-a-step-by-step-guide/"><u>Master Repairing Your Android's Call Capabilities - A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-your-experience-best-practices-for-reading-qr-codes-in-windows/"><u>Optimizing Your Experience: Best Practices for Reading QR Codes in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-c1900101-issue-during-windows-11-installation-process/"><u>Resolving the C1900101 Issue During Windows 11 Installation Process</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/unbrand-your-videos-removing-filmora-watermark-made-easy-for-2024/"><u>Unbrand Your Videos Removing Filmora Watermark Made Easy for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-compatibility-no-more-with-amd-driver-failure/"><u>Windows 10 Compatibility No More with AMD Driver Failure</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-5-superior-recording-gear-options-for-ipad-and-mac-owners/"><u>[New] 5 Superior Recording Gear Options for iPad & Mac Owners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-essential-final-cut-pro-training-manual/"><u>[New] Essential Final Cut Pro Training Manual</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>[New] The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mirror-your-gameplay-today/"><u>2024 Approved Mirror Your Gameplay Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-protocol-normalized/"><u>Display Protocol Normalized</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-mod-conflicts-with-civ-5-pc/"><u>Fixing Mod Conflicts with Civ 5 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>In 2024, Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lighten-load-on-your-laptop-quick-update-to-intels-gfx-driver/"><u>Lighten Load on Your Laptop - Quick Update to Intel's GFX Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-masterful-solutions-to-fix-issues-in-mordhau/"><u>No More Crashes - Masterful Solutions to Fix Issues in Mordhau</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-efficient-downloads-tips-from-microsofts-store/"><u>Quick and Efficient Downloads: Tips From Microsoft’s Store</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-at-a-glance-speedy-fixes-for-no-signal/"><u>Reconnect at a Glance: Speedy Fixes for No Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-without-struggle-displayport-fix-guide/"><u>Reconnect Without Struggle: DisplayPort Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-absent-display-in-win10/"><u>Resolving Absent Display in Win10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/samsung-reclaims-lead-in-global-smartphone-shipments-surpassing-apple-rival-manufacturer-closes-gap/"><u>Samsung Reclaims Lead in Global Smartphone Shipments, Surpassing Apple; Rival Manufacturer Closes Gap</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
 </ul></div>
 

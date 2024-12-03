@@ -1,7 +1,7 @@
 ---
 title: Asymmetric Screen Aligned on Notebooks
-date: 2024-10-13T20:20:40.411Z
-updated: 2024-10-18T06:35:10.730Z
+date: 2024-12-01T19:51:35.948Z
+updated: 2024-12-03T00:00:45.221Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 1. [**Restore your laptop screen with a keyboard shortcut**](#a)
@@ -28,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -42,13 +43,6 @@ This is the easiest way to rotate your laptop screen:
 
 You can also change your screen orientation in your display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Restore your laptop screen in your display settings
 
 To rotate your screen in your system display settings:
@@ -58,20 +52,14 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
@@ -91,6 +79,10 @@ This should restore your laptop screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -113,20 +105,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-pathway-to-monetizing-your-instagram-content/"><u>[New] In 2024, Unveiling the Pathway to Monetizing Your Instagram Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-sonicscope-in-depth-auditory-evaluation-for-2024/"><u>[Updated] SonicScope In-Depth Auditory Evaluation for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-high-quality-fb-videos-for-ff-browser-users/"><u>2024 Approved High-Quality FB Videos for FF Browser Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-transform-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9/"><u>2024 Approved Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9)</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/a-deep-dive-into-superior-digital-imaging-4k/"><u>A Deep Dive Into Superior Digital Imaging: 4K</u></a></li>
-<li><a href="https://fox-http.techidaily.com/chrome-users-explore-our-curated-list-of-voice-modification-apps-for-2024/"><u>Chrome Users, Explore Our Curated List of Voice Modification Apps for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-dark-display-distress-on-tablets/"><u>Diagnosing Dark Display Distress on Tablets</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-compatibility-windows-11-laptop-confirmed/"><u>GPU Compatibility: Windows 11 Laptop Confirmed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-trouble-how-to-fix-backspace-not-working-errors-efficiently/"><u>Keyboard Trouble? How to Fix 'Backspace Not Working' Errors Efficiently</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfected-preferences-save-after-glitch-overhaul/"><u>Perfected Preferences Save After Glitch Overhaul</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/"><u>Regaining Access to NVIDIA' Writable Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-dell-pc-monitor-intermittent-flashing/"><u>Resolved: Dell PC Monitor Intermittent Flashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-initiated-win-graphics/"><u>Successfully Initiated Win Graphics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-choice-for-affordable-virtual-meetings-online-for-2024/"><u>[Updated] The Ultimate Choice for Affordable Virtual Meetings Online for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-vga-display-faults-pc/"><u>Address VGA Display Faults (PC)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-convertir-tus-videos-flv-a-formato-webm-sin-costo-alguno-con-movavi/"><u>Cómo Convertir Tus Videos FLV a Formato WEBM Sin Costo Alguno Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-dvd-to-psp-movie-transfers-your-guide-to-enjoying-dvd-content-on-ps4/"><u>Effortless DVD-to-PSP Movie Transfers: Your Guide to Enjoying DVD Content on PS4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-device-not-found/"><u>Graphics Failure: Device Not Found</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a78-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A78 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-beatmatching-your-vids-syncing-music-seamlessly-on-facebook/"><u>In 2024, Beatmatching Your Vids Syncing Music Seamlessly on Facebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-makeblock-mbot-a-comprehensive-guide-to-building-and-programming-your-own-diy-robot/"><u>Mastering the Makeblock mBot: A Comprehensive Guide to Building & Programming Your Own DIY Robot</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-displayport-with-minimal-hassle/"><u>Reviving DisplayPort with Minimal Hassle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-windows-driver-update-intel-3000-edition/"><u>Simplify Windows Driver Update: Intel 3000 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-tactics-for-overcoming-the-c1900101-error/"><u>Success Tactics for Overcoming the C1900101 Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-enigmatic-dx-error-explained-lol-armistice/"><u>The Enigmatic DX Error Explained - LoL Armistice</u></a></li>
 </ul></div>
 

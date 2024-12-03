@@ -1,7 +1,7 @@
 ---
 title: Push Through Faulty ASUS Camera Glitches
-date: 2024-10-18T01:18:45.833Z
-updated: 2024-10-24T04:58:55.312Z
+date: 2024-11-28T03:19:01.885Z
+updated: 2024-12-02T16:42:46.886Z
 tags:
   - win11
   - win10
@@ -29,18 +29,15 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1\. Press the hotkey to enable the camera
 
  Prior to troubleshooting steps, you can try enabling your Asus camera by pressing the**Fn + F10** at the same time. Check if there’s a “**Camera On** ” message on the desktop.
 
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Allow your device and apps to access the camera
 
@@ -52,16 +49,13 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
@@ -83,16 +77,7 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
@@ -108,6 +93,10 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
  On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run command.
@@ -117,10 +106,7 @@ After updating your drivers, restart your PC and test the camera.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
@@ -156,24 +142,18 @@ After updating your drivers, restart your PC and test the camera.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-free-image-repository-roundup-top-10-sites-reviewed/"><u>[New] Free Image Repository Roundup Top 10 Sites Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-dxgkrnlsys-blue-screen-troubleshooting-win/"><u>[System] dxgkrnl.sys Blue Screen: Troubleshooting Win</u></a></li>
-<li><a href="https://network-issues.techidaily.com/blackout-issue-after-graphics-card-update/"><u>Blackout Issue After Graphics Card Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brightening-up-decorative-elements-in-fc6/"><u>Brightening Up Decorative Elements in FC6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-slant-screen-position-on-device/"><u>Corrected Slant Screen Position on Device</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-purchase-speeds-in-microsofts-marketplace/"><u>Enhancing Purchase Speeds in Microsoft's Marketplace</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 12 mini</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi Note 12T Pro?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-vector-magic-discovering-the-10-software-picks-you-need/"><u>In 2024, Vector Magic Discovering the 10 Software Picks You Need</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-visual-producer-hub/"><u>In 2024, Visual Producer Hub</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/managing-oversized-windows-11-resolution/"><u>Managing Oversized Windows 11 Resolution</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsoft-investigates-shifts-in-professional-landscape-with-31000plus-respondents-astonishing-discovery-unveiled-zdnet/"><u>Microsoft Investigates Shifts in Professional Landscape with 31,000+ Respondents; Astonishing Discovery Unveiled | ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-sims-screen-blankness/"><u>Overcome Sims Screen Blankness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reoriented-notebook-display-for-comfort/"><u>Reoriented Notebook Display for Comfort</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sideways-monitor-conversion-complete/"><u>Sideways Monitor Conversion Complete</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-amplify-lenovo-tv-screen-brightness/"><u>Tips to Amplify Lenovo TV Screen Brightness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tripped-nvidia-installation-barrier-tackled/"><u>Tripped: NVIDIA Installation Barrier Tackled</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-xs-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone XS? How to Fix</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-10qnap-nas2/"><u>Windows 10資料夾備份至QNAP NAS：運用2種有效方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-ordinary-posts-into-masterpieces-top-10-grid-makers/"><u>[New] 2024 Approved Transform Ordinary Posts Into Masterpieces Top 10 Grid Makers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-learn-to-redefine-your-instagram-sound-with-ease-for-2024/"><u>[New] Learn to Redefine Your Instagram Sound with Ease for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-review-and-compare-with-az-screenshotter/"><u>[Updated] Discover, Review & Compare with AZ Screenshotter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-sourav-joshis-income-tactics-the-future-of-monetizing-content-for-2024/"><u>[Updated] Sourav Joshi's Income Tactics The Future of Monetizing Content for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-missing-display-options-on-gpu/"><u>Correcting Missing Display Options on GPU</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improving-user-engagement-4-wishlist-features-for-the-chatgpt-add-on-shop/"><u>Improving User Engagement: 4 Wishlist Features for the ChatGPT Add-On Shop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-openai-innovative-uses-and-implementation-tips-for-its-api/"><u>Mastering the Art of OpenAI: Innovative Uses and Implementation Tips for Its API</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-youtubes-greenscreen-mishaps-effectively/"><u>Overcoming YouTube's Greenscreen Mishaps Effectively</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-your-systems-graphics-update-intels-gfx-in-windows/"><u>Supercharge Your System's Graphics - Update Intels GFX in WIndows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uniting-forces-nvidia-and-windows-10s-graphical-ally/"><u>Uniting Forces: Nvidia & Windows 10'S Graphical Ally</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries – What Is It and What to Do About It?</u></a></li>
 </ul></div>
 

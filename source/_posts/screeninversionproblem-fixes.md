@@ -1,7 +1,7 @@
 ---
 title: ScreenInversionProblem Fixes
-date: 2024-10-13T01:55:10.627Z
-updated: 2024-10-18T10:09:27.426Z
+date: 2024-11-25T18:53:35.873Z
+updated: 2024-12-03T02:31:44.264Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  Note: It’d be so uncomfortable to search on Google and follow the instruction if your computer/laptop screen turns upside down, so you can search on Google and read the instructions on another computer or mobile phone to go on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Try keyboard shortcut combinations
 
  Sometimes you might accidentally press the keyboard shortcut combinations to flip your**computer screen upside down,** so you can try to press the keyboard shortcut combinations to rotate your display screen to place normally. Here’s how to do it:
@@ -52,9 +56,17 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then try the keyboard shortcut combinations again to rotate your computer/laptop screen.
 
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Configure Display Settings
 
@@ -72,53 +84,19 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and locate the**Display orientation** menu. Change the orientation to:**Landscape,** **Portrait** ,**Landscape** **(flipped)** , or **Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
 
  1) Click the**Start** button at the bottom left corner, and select**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select**View by category** , and click**Adjust screen resolution** .
 
@@ -134,14 +112,11 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Still no luck? Don’t be upset. There’s one more thing to try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -169,6 +144,10 @@ There are two options to update drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -194,20 +173,22 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dive-into-av1-a-simple-guide-for-neophytes/"><u>[Updated] In 2024, Dive Into AV1 A Simple Guide for Neophytes</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-on-device-ai-from-concept-to-functionality-and-execution/"><u>A Deep Dive Into On-Device AI: From Concept to Functionality & Execution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eclipse-ended-for-windows-11-fall-patch-fixes/"><u>Eclipse Ended for Windows 11 - Fall Patch Fixes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/exclusive-screen-time-delight-with-these-top-offline-games-for-2024/"><u>Exclusive Screen Time Delight with These Top Offline Games for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/falls-aftermath-windows-10-screens-glow/"><u>Fall's Aftermath: Windows 10 Screens Glow</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nokia-g22-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nokia G22 Phone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/passos-essenciais-para-recuperacao-do-seu-historico-no-wechat-sem-fazer-backup/"><u>Passos Essenciais Para Recuperação Do Seu Histórico No WeChat Sem Fazer Backup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-fall-update-blackout-no-more-in-win10/"><u>Post-Fall Update Blackout No More in Win10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-11-pro-max-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 11 Pro Max to PC or Mac | Stellar</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-computers-oversight-of-gpu/"><u>Rectifying Computer's Oversight of GPU</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-fix-for-hp-laserjet-p2035-printer-driver-errors-on-windows-now-solved/"><u>Ultimate Fix for HP LaserJet P2035 Printer Driver Errors on Windows - Now Solved!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-firmware-update/"><u>Window's 10 Display Firmware Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-new-level-of-display-customization-released/"><u>Windows 11: New Level of Display Customization Released</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tiny-screenplay-scheme/"><u>[Updated] In 2024, Tiny Screenplay Scheme</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>2024 Approved Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-sims-4-blackout-glitch/"><u>Clear Sims 4 Blackout Glitch</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-the-latest-version-of-gom-player-free-and-compatible-with-windows-10/"><u>Download the Latest Version of GOM Player: FREE & Compatible with Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-crashing-minecraft-on-pc-with-bad-cards/"><u>Fix Crashing Minecraft on PC with Bad Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration/"><u>From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-13t-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi 13T Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-performance-enhanced-in-windows-11/"><u>Laptop's Graphics Performance Enhanced in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/launching-the-ultimate-guide-to-mondlys-questions-and-answers/"><u>Launching the Ultimate Guide to Mondly's Questions & Answers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-oscillating-on-screen-oracles/"><u>Overcoming Oscillating On-Screen Oracles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-simple-fix-laptop-display-vertical-alignment/"><u>Quick & Simple Fix: Laptop Display Vertical Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11s-amd-radeon-r9-fix-guide-completed/"><u>Win11's AMD Radeon R9 Fix Guide [Completed]</u></a></li>
 </ul></div>
 

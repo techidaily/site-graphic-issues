@@ -1,7 +1,7 @@
 ---
 title: Steps for Activating Unsupported AMD FreeSync
-date: 2024-10-16T21:25:42.066Z
-updated: 2024-10-17T16:15:46.045Z
+date: 2024-12-01T01:22:21.706Z
+updated: 2024-12-02T17:09:04.871Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
  Before you start troubleshooting, first**make sure your monitor is AMD FreeSync compatible** . You can find out by checking the product page on the official website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the charm.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 5. [**Check the monitor settings**](#fix5)
 6. [**Disable Fullscreen optimizations**](#fix6)
 7. **[Configure the default GPU](#fix7)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Try different ports
 
@@ -84,10 +92,7 @@ If the problem persists, take a look at the next fix.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
@@ -95,28 +100,18 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If FreeSync works after a clean boot, you can root out the offending program by repeating these steps and disabling half of the services every time.
 
  If this trick doesn’t give you luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows update
 
@@ -128,14 +123,11 @@ Here’s how:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -144,10 +136,7 @@ Here’s how:
 If the issue is still there, simply try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable Fullscreen optimizations
@@ -173,45 +162,21 @@ If this doesn’t help, you can continue to the next method.
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the program/game launcher.  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
-5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
+5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
 Now launch the program/game and check if FreeSync is working.
 
@@ -236,18 +201,18 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-the-spectrums-impact-applying-color-dynamics/"><u>[Updated] The Spectrum's Impact Applying Color Dynamics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-10-mobile-apps-for-enhancing-youtube-shorts-videos/"><u>[Updated] Top 10 Mobile Apps for Enhancing YouTube Shorts Videos</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/microsdplus/"><u>「不明瞭なmicroSDカード修理+データ復旧方法説明」</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30i-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Note 30i Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-writing-unmasked-5-must-have-detectors-for-academic-and-corporate-leaders/"><u>AI Writing Unmasked: 5 Must-Have Detectors for Academic and Corporate Leaders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-updated-nvidia-geforce-driver-for-10-windows/"><u>Boost Your PC: Updated NVIDIA GeForce Driver for 10 Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ceasing-blinking-on-hp-laptop-screens/"><u>Ceasing Blinking on HP Laptop Screens</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/conquering-the-heights-an-elite-drone-evaluation-for-the-dji-air-2s/"><u>Conquering the Heights: An Elite Drone Evaluation for the DJI Air 2S</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/deciphering-darkness-on-desktop-displays/"><u>Deciphering Darkness on Desktop Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-loading-hiccup-for-amd-and-windows-10-fixes-here/"><u>Driver Loading Hiccup for AMD & Windows 10 Fixes Here</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>Pioneering Sci-Fi Escapades 10 Movies Into Uncharted Realms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-agentstva-ppc-v-belfaste-velikobritaniya-vash-polnyj-spravochnik-powersuite-seo/"><u>Топ-Агентства PPC В Белфасте, Великобритания: Ваш Полный Справочник - PowerSuite SEO</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-use-ez-grabber-software-for-2024/"><u>[New] How to Use EZ Grabber Software for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-turning-live-radio-into-a-personal-archive-step-by-step-instructions/"><u>[New] In 2024, Turning Live Radio Into a Personal Archive Step-by-Step Instructions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-perfect-your-yt-profile-expert-tips-for-channel-descriptors-for-2024/"><u>[Updated] Perfect Your YT Profile Expert Tips for Channel Descriptors for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-yuva-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Yuva 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/construct-memetic-mirth-for-2024/"><u>Construct Memetic Mirth for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-asus-laptop-screen-flash-with-simple-steps/"><u>Fix ASUS Laptop Screen Flash with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-win11-black-out-following-fall-upgrade/"><u>Fixing Win11 Black Out Following Fall Upgrade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-marketplace-strategies-from-the-abbyy-ai-hub/"><u>Navigating the Marketplace: Strategies From the ABBYY AI Hub</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/neutering-night-shade-nuisances-acer-devices/"><u>Neutering Night-Shade Nuisances: Acer Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-mini-desktops-tailored-for-gamers/"><u>The Best Mini Desktops Tailored for Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trimming-the-green-techniques-for-flawless-backgrounds/"><u>Trimming the Green: Techniques for Flawless Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-power-settings-save-charges/"><u>Understanding Power Settings - Save Charges!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-driver-upgrade-intel-hd-graphics/"><u>Win Driver Upgrade: Intel HD Graphics</u></a></li>
 </ul></div>
 

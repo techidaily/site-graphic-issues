@@ -1,7 +1,7 @@
 ---
 title: Push Past White Screen in Sims World
-date: 2024-11-21T20:22:45.074Z
-updated: 2024-11-24T09:18:42.470Z
+date: 2024-12-01T22:59:43.396Z
+updated: 2024-12-03T00:19:40.029Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ## Push Past White Screen in Sims World
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -48,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -72,6 +72,10 @@ Here is how to do it:
 2) Click **My Game Library** , then right-click on **The Sims 4** and click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
 
@@ -93,15 +97,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -120,6 +124,10 @@ Here are the steps:
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -148,7 +156,7 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
@@ -174,17 +182,9 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -211,14 +211,21 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-best-soundshapers-for-content-makers-on-youtube/"><u>[New] 2024 Approved Best Soundshapers for Content Makers on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-vr-travel-a-step-by-step-guide/"><u>[New] Mastering VR Travel A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-amd-freesync-connectivity-errors/"><u>Fixing AMD FreeSync Connectivity Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphical-interface-resumed-after-interruption/"><u>Graphical Interface Resumed After Interruption</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keep-your-gpu-in-top-shape-with-driver-upgrade/"><u>Keep Your GPU in Top Shape with Driver Upgrade</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/movavi-webmgif/"><u>Movavi WEBMからGIFへのフリーオンライン変換 - 簡単ガイド</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-large-display-on-win11-pc/"><u>Resolving Large Display on Win11 PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rt-of-curating-credible-outro-vibes-for-2024/"><u>The Art of Curating Credible Outro Vibes for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>[New] Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/m2-nvme-ssdssd/"><u>「高效能M.2 NVMe SSD複製程式，如何透過不同方法將SSD克隆？」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/asure-trove-of-premium-youtube-images-from-6-websites-for-2024/"><u>A Treasure Trove of Premium YouTube Images From 6 Websites for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-11-screen-orientation-glitch/"><u>Addressing Windows 11 Screen Orientation Glitch</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/get-the-authentic-winx-experience-free-full-featured-dvd-ripping-and-hd-video-conversion-suite/"><u>Get the Authentic WinX Experience: Free Full-Featured DVD Ripping and HD Video Conversion Suite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-c55-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme C55 Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quell-winblueerror-addressing-wdf-api-concerns/"><u>Quell WinBlueError: Addressing WDF API Concerns</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/resolve-silent-tweets-video-audio-woes/"><u>Resolve Silent Tweets Video Audio Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gfxui-errors-in-windows-environment-successfully/"><u>Resolving GFXUI Errors in Windows Environment Successfully</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/rise-and-shine-on-these-overlooked-meme-platforms-for-2024/"><u>Rise and Shine on These Overlooked Meme Platforms for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-gpu-integration-on-new-win11-laptop/"><u>Successful GPU Integration on New Win11 Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-to-recover-from-gpu-faults-with-system-uptime/"><u>Techniques to Recover From GPU Faults with System Uptime</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-advertising-wondershare-virbo-glossary/"><u>What Is AI Advertising? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wins-against-blackout-fixes-for-post-fall-update-win11/"><u>Wins Against Blackout: Fixes for Post-Fall Update Win11</u></a></li>
 </ul></div>
 

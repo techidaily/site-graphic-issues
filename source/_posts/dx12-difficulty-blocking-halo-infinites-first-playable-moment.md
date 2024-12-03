@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2024-11-18T05:13:49.397Z
-updated: 2024-11-24T08:20:11.002Z
+date: 2024-12-01T22:36:51.786Z
+updated: 2024-12-02T21:44:11.656Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -74,20 +78,12 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -122,6 +118,10 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
@@ -152,12 +152,12 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -178,20 +178,24 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficient-use-of-obs-studio-for-android-devices/"><u>[New] 2024 Approved Efficient Use of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-archive-instagram-movies-a-comprehensive-pc-and-mac-approach-for-2024/"><u>[New] How to Archive Instagram Movies A Comprehensive PC & Mac Approach for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accelerate-anthem-for-seamless-gaming/"><u>Accelerate Anthem for Seamless Gaming</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-10c-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 10C Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A54 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discovering-hdmi-errors-between-computer-and-screen/"><u>Discovering HDMI Errors Between Computer & Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-dark-mode-woes-in-win11-after-fall-upgrade/"><u>End Dark Mode Woes in Win11 After Fall Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-picks-best-gpu-units-for-efficient-cryptocurrency-mining-insights-from-toms-hardware/"><u>Expert Picks: Best GPU Units for Efficient Cryptocurrency Mining - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/concept-to-creation-youtube-trailer-production-via-filmora-for-2024/"><u>From Concept to Creation YouTube Trailer Production via Filmora for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/al-7-dslr-selections-for-in-depth-vlog-documentaries-for-2024/"><u>Optimal 7 DSLR Selections For In-Depth Vlog Documentaries for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dimming-on-lenovo-laptop-displays/"><u>Overcoming Dimming on Lenovo Laptop Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-now-works-on-all-latest-gpus/"><u>Overwatch Now Works on All Latest GPUs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-rtx-3080-glitches-in-games/"><u>Resolving RTX 3080 Glitches in Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-fix-normal-view-now/"><u>Windows 10 Screen Fix: Normal View Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028061863-dvd/"><u>クラウド上にDVDファイルを安全に保管する効果的な方法</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ree-online-services-for-youtube-images-extraction-for-2024/"><u>[New] FREE Online Services for YouTube Images Extraction for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-halt-predicted-posts-no-more-suggests-on-insta/"><u>[Updated] Halt Predicted Posts No More Suggests on Insta</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-essential-indicators-its-time-to-upgrade-your-computer/"><u>1. Essential Indicators It's Time to Upgrade Your Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-windows-sound-capture-top-5-tips-for-success/"><u>2024 Approved Windows Sound Capture Top 5 Tips for Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blurry-lines-from-your-laptop-screens/"><u>Banish Blurry Lines From Your Laptop Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-down-windows-8s-safe-mode-procedure-and-gpu-drivers-deletion/"><u>Breaking Down Windows 8'S Safe Mode Procedure and GPU Drivers Deletion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/creators-update-win10-blackouts-ended/"><u>Creators Update: Win10 Blackouts Ended</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/download-latest-supporting-software-for-geforce-1060/"><u>Download Latest Supporting Software for GeForce 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-bypassing-apexs-previous-issues/"><u>Efficiently Bypassing Apex's Previous Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-screens-stability-ended-flashes/"><u>Fixing Laptop Screens' Stability, Ended Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-amd-freesync-not-workingnot-supported/"><u>How to Fix AMD FreeSync Not Working/Not Supported</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-google-pixel-7a-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Google Pixel 7a Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-for-virtual-victory-on-xbox-sx/"><u>Joining Forces for Virtual Victory on Xbox S/X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-fixed-now-successfully-starting-up/"><u>Rainbow Six Siege Fixed! Now Successfully Starting Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-diagonal-discrepancies/"><u>Removing Diagonal Discrepancies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-amd-radeon-r9-driver-fails-in-win11/"><u>Resolving AMD Radeon R9 Driver Fails in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-wiping-out-your-tiktok-user-profile-once-and-for-all/"><u>Step-by-Step Instructions: Wiping Out Your TikTok User Profile Once and For All</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-cooling-devices-to-prevent-overheating/"><u>Top Cooling Devices to Prevent Overheating</u></a></li>
 </ul></div>
 

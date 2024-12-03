@@ -1,7 +1,7 @@
 ---
 title: Bypassing Frozen Windows 10 Monitor
-date: 2024-11-20T21:36:13.653Z
-updated: 2024-11-23T22:00:23.600Z
+date: 2024-11-27T21:57:24.005Z
+updated: 2024-12-02T17:39:43.449Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
@@ -67,10 +67,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -92,6 +88,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
@@ -107,7 +107,7 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
@@ -115,13 +115,13 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
@@ -133,16 +133,12 @@ If you’re on a laptop:
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
@@ -154,7 +150,7 @@ If you’re on a laptop:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
@@ -208,7 +204,7 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
@@ -237,6 +233,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
@@ -260,20 +260,17 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-state-of-the-art-screen-recorders/"><u>[New] 2024 Approved The Essential Guide to State-of-the-Art Screen Recorders</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>[New] Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-techniques-for-successful-photo-background-alteration-on-fb/"><u>[New] Techniques for Successful Photo Background Alteration on FB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-crafting-an-authentic-online-presence-in-the-world-of-fb-for-2024/"><u>[Updated] Crafting an Authentic Online Presence in the World of FB for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc/"><u>[Updated] In 2024, Expert Tips on Angling Videos Unlocking Full Potential with VLC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-resolving-the-missing-d3dx9n41dll-error/"><u>Comprehensive Guide: Resolving The Missing d3dx9_n41.dll Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correction-of-screen-boundary-alignment/"><u>Correction of Screen Boundary Alignment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easier-streaming-on-updated-windows-10/"><u>Easier Streaming on Updated Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-c300-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia C300 Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-photo-dynamics-mastering-adobe-illustrator-blurs/"><u>In 2024, Unleash Photo Dynamics Mastering Adobe Illustrator Blurs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refinement-of-visual-settings-in-latest-win11-update/"><u>Refinement of Visual Settings in Latest Win11 Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-incorrect-win10-resolution/"><u>Resolving Incorrect Win10 Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolvingcomputerscreenflip/"><u>ResolvingComputerScreenFlip</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-infinix-smart-8-plus-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Infinix Smart 8 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unable-to-launch-full-screen-in-windows-11/"><u>Unable to Launch Full Screen in Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-5-methods-capturing-facebook-stories-on-devices/"><u>2024 Approved Top 5 Methods Capturing Facebook Stories on Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/deciphering-androids-lightroom-capabilities/"><u>Deciphering Android's Lightroom Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-dark-screens-on-your-twitch-channel/"><u>Eradicate Dark Screens on Your Twitch Channel</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-elite-art-tools-top-5-drawing-tablets-dominating-2024-market/"><u>Explore Elite Art Tools: Top 5 Drawing Tablets Dominating 2024 Market</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-glitch-undetected-card/"><u>Graphic Glitch: Undetected Card</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/highest-quality-capture-software-showdown-for-2024/"><u>Highest Quality Capture Software Showdown for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improved-win10-streaming-after-system-update/"><u>Improved Win10 Streaming After System Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tailor-fb-videos-for-maximum-full-screen-effect/"><u>In 2024, Tailor FB Videos for Maximum Full-Screen Effect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-intermittent-display-issues-on-lenovo/"><u>Overcoming Intermittent Display Issues on Lenovo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sonic-sequencing-for-improved-imovie-projects-for-2024/"><u>Sonic Sequencing for Improved iMovie Projects for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-frame-drop-issues-in-high-definition-high-dynamic-range-hdr-hevc-4k-videos/"><u>Troubleshooting Frame Drop Issues in High-Definition, High Dynamic Range (HDR) HEVC 4K Videos</u></a></li>
 </ul></div>
 

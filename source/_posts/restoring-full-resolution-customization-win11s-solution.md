@@ -1,7 +1,7 @@
 ---
 title: "Restoring Full-Resolution Customization: Win11's Solution"
-date: 2024-10-21T21:39:48.629Z
-updated: 2024-10-24T08:06:45.793Z
+date: 2024-12-02T04:40:36.883Z
+updated: 2024-12-03T00:10:35.831Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 3. **[Turn on GPU Scaling](#F3)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -47,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -54,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -65,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -86,6 +77,10 @@ Here is how to do it:
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -122,10 +117,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
@@ -156,19 +148,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secret-weapons-for-follower-increase-for-2024/"><u>[New] Instagram's Secret Weapons for Follower Increase for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-psvr-2-titles-all-revealed-games/"><u>Comprehensive List of PSVR 2 Titles: All Revealed Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-settings-adjustment-in-windows-10/"><u>Display Settings Adjustment in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ensuring-proper-scaling-on-extended-windows-10-panes/"><u>Ensuring Proper Scaling on Extended Windows 10 Panes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-for-fast-and-simple-asus-touchpad-driver-setup-in-windows-10/"><u>Expert Tips for Fast and Simple ASUS Touchpad Driver Setup in Windows 10.</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-card-issue-43-eliminated/"><u>Graphic Card Issue #43 Eliminated</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p55-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P55 5Gwith/without a PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-magic-6-lite-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor Magic 6 Lite)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-error-repaired-nvlddmkm-successfully-recovered/"><u>Monitor Error Repaired: Nvlddmkm Successfully Recovered</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rejuvenating-cursor-on-dark-win10-screen/"><u>Rejuvenating Cursor on Dark Win10 Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-drawn-out-closures-solving-the-puzzle-of-a-lethargic-windows-10-shutdown/"><u>Say Goodbye to Drawn-Out Closures: Solving the Puzzle of a Lethargic Windows 10 Shutdown</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-inverted-screen-on-windows-11/"><u>Troubleshooting Inverted Screen on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-saving-your-itunes-collection-complete-backup-steps/"><u>Ultimate Guide: Saving Your iTunes Collection - Complete Backup Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-superior-asmr-microphone-guide-you-must-read/"><u>[New] 2024 Approved Superior ASMR Microphone Guide You Must Read</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-laughter-lab-top-7-sketches-and-vignettes-for-youtubers/"><u>[New] Laughter Lab Top 7 Sketches & Vignettes for YouTubers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-quantum-hdr-techniques-for-professionals/"><u>[Updated] 2024 Approved Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-tutorial-personalize-and-elevate-your-short-videos-for-2024/"><u>[Updated] Step-by-Step Tutorial Personalize and Elevate Your Short Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/experience-uninterrupted-apex-gameplay/"><u>Experience Uninterrupted Apex Gameplay</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-e13-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-breathe-new-life-into-old-videos-the-8-best-free-online-quality-enhancers/"><u>In 2024, Breathe New Life Into Old Videos The 8 Best Free Online Quality Enhancers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mute-monitor-mayhem-with-ease/"><u>Mute Monitor Mayhem with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-laptop-screen-what-are-my-options/"><u>No Laptop Screen: What Are My Options?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010401-9781088238165-nuevamente-juntos/"><u>Nuevamente Juntos | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blackout-with-radeon/"><u>Screen Blackout with Radeon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-alert-gpu-not-recognized-2020/"><u>System Alert: GPU Not Recognized [2020]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-6-best-nft-services-for-creative-geniuses/"><u>The Ultimate Guide to 6 Best NFT Services for Creative Geniuses</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818151303-unleash-peak-performance-windows-10-update-with-amd-graphics/"><u>Unleash Peak Performance: Windows 10 Update with AMD Graphics</u></a></li>
 </ul></div>
 

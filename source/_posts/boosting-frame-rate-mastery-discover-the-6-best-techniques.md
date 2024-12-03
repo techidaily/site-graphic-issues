@@ -1,7 +1,7 @@
 ---
 title: "Boosting Frame Rate Mastery: Discover the 6 Best Techniques"
-date: 2024-11-22T00:10:19.304Z
-updated: 2024-11-24T06:37:16.305Z
+date: 2024-11-25T16:10:09.082Z
+updated: 2024-12-02T22:16:03.267Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Tip 1: Change the power option 
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the  operating capacity of your graphics card and CPU. To adjust the power option to improve FPS: 
@@ -43,7 +39,15 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Tip 2: Adjust your PC for best performance
 
@@ -53,7 +57,11 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. In **Advanced** , click **Settings** .  
@@ -61,21 +69,9 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98b285ef51d.jpg)
 3. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Tip 3: Update your graphics driver
 
@@ -98,12 +94,20 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Tip 4: Do a disk clean-up 
 
 **Disk Clean-up**   is a built-in tool in Windows that helps us delete unimportant and junk files. To run **Disk Clean-up** :
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **c:\\windows\\SYSTEM32\\cleanmgr.exe /cDrive**   into the box and click **OK** .![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee1e0c3be4.png)
 2. Choose **the drive** you want to free up storage and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
 3. Technically, you can tick all **the boxes** . You might also need to check out **Recycle Bin** and see if there’s anything to be restored first. Then click **OK** .  
@@ -112,6 +116,10 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -122,20 +130,12 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png) and **R**   at the same time. Then type **dfrgui.exe**   in the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
@@ -172,16 +172,24 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-cinematic-coloring-the-11-best-tutorials-ever-for-2024/"><u>[Updated] Mastering Cinematic Coloring The 11 Best Tutorials Ever for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjust-screen-order-in-windows-7/"><u>Adjust Screen Order in Windows 7</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/engaging-consumer-openings-for-2024/"><u>Engaging Consumer Openings for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-v30-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme V30 Phones with/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-g24-power-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola G24 Power For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-error-c1900101-during-new-windows-os-setup/"><u>How to Fix Error C1900101 During New Windows OS Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-and-gpu-hiccup-no-more-thanks-to-nvidia-fixes/"><u>OpenGL & GPU Hiccup - No More Thanks to Nvidia Fixes!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-graphics-hardware-now-compatible/"><u>Overwatch - Graphics Hardware Now Compatible</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamp-outlooks-speed-for-better-windows-experience/"><u>Revamp Outlook's Speed for Better Windows Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-for-windows-8-safe-mode-access-and-gpu-drives-elimination/"><u>Step-by-Step for Windows 8 Safe Mode Access and GPU Drives Elimination</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-archive-adrenaline-fueled-moments-in-galaxy-games-for-2024/"><u>[New] Archive Adrenaline-Fueled Moments in Galaxy Games for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-assemble-your-unique-google-cardboard-virtual-reality/"><u>[New] In 2024, Assemble Your Unique Google Cardboard Virtual Reality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-mute-google-meet/"><u>[New] In 2024, How to Mute Google Meet?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-your-first-adobe-presenter-video-for-2024/"><u>[New] The Ultimate Guide to Your First Adobe Presenter Video for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bone-chilling-image-builder/"><u>2024 Approved Bone-Chilling Image Builder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android/"><u>2024 Approved Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-asus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Asus Unlock Without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-computer-screen-edge-balance/"><u>Adjusting Computer Screen Edge Balance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-screen-tilt-in-netbook-fix/"><u>Corrected Screen Tilt in Netbook Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-ghost-horizontal-lines-quickly/"><u>Eradicate Ghost Horizontal Lines Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-preventing-nvidia-install-errors/"><u>Fixed: Preventing NVIDIA Install Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-ready-to-game-better-updated-amd-hd-6950-drivers/"><u>Get Ready to Game Better: Updated AMD HD 6950 Drivers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-enriching-avi-images-with-auditory-elements-in-the-2023-version/"><u>In 2024, Enriching AVI Images with Auditory Elements in the 2023 Version</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/init-graphics-loop-disrupted/"><u>Init Graphics Loop Disrupted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windowed-devices-functions/"><u>Restored Windowed Devices Functions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210780013-9781959835264-the-devil-lied/"><u>The Devil Lied | Free Book</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-galaxy-s21-fe-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Galaxy S21 FE 5G (2023) on Mac?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vision-loss-card-detection-failed/"><u>Vision Loss: Card Detection Failed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-screen-glitch-overcome/"><u>Win11 Screen Glitch Overcome</u></a></li>
 </ul></div>
 

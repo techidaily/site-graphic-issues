@@ -1,7 +1,7 @@
 ---
 title: Flickering Screen? Follow This Quick ASUS Guide to Solve It
-date: 2024-10-13T20:31:00.579Z
-updated: 2024-10-18T05:02:12.523Z
+date: 2024-11-27T01:33:08.762Z
+updated: 2024-12-02T22:55:14.768Z
 tags:
   - win11
   - win10
@@ -28,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
@@ -49,10 +46,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. In**Related settings** , click**Advanced display** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
@@ -71,21 +65,11 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. Click**Advanced settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
@@ -102,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -115,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
@@ -143,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -171,24 +156,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-inside-out-how-to-react-on-twitter-vids/"><u>[New] In 2024, Inside Out How to React on Twitter Vids</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-how-to-fix-no-signal-on-monitor-quickly-and-easily/"><u>[SOLVED] How to Fix No Signal on Monitor Quickly & Easily</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creativity-in-memes-genrator-assistance/"><u>[Updated] Unleash Creativity in Memes Gen'rator Assistance</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oppo-a56s-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo A56s 5G Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-part-files-a-comprehensive-guide-on-opening-and-converting-processes/"><u>Demystifying PART Files: A Comprehensive Guide on Opening & Converting Processes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-custom-displays-via-nvidia-settings-panel/"><u>Enabling Custom Displays via NVIDIA Settings Panel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-not-recognized-resolve-immediately/"><u>GPU Not Recognized, Resolve Immediately</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-winos-basic-render-capabilities/"><u>Improving WINOS' Basic Render Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oneplus-ace-2-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from OnePlus Ace 2 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-mac-hd-frame-gems-guide-char-limit-156/"><u>In 2024, Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-unveiling-the-true-value-of-smoothing-in-adobes-arsenal/"><u>In 2024, Unveiling the True Value of Smoothing in Adobe’s Arsenal</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-locating-someones-professional-email-address/"><u>Strategies for Locating Someone's Professional Email Address</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-graphics-initialization-failed/"><u>System Graphics Initialization Failed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-adventure-into-advanced-high-definition-tvs-4k/"><u>The Adventure Into Advanced High Definition TVs - 4K</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-aplus-metal-detection-gadgets-for-202n4-tech-pros-weigh-in-zdnet/"><u>Ultimate List of A+ Metal Detection Gadgets for 202N4: Tech Pros Weigh In | ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncovered-window-10-display-enhancements/"><u>Uncovered Window 10 Display Enhancements</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-vision-quest-successful-conclusion/"><u>Win11 Vision Quest - Successful Conclusion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-fixed-switchable-graphics-dilemma/"><u>Win11: Fixed Switchable Graphics Dilemma</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-dvd-copy-pro-effortless-dvd-to-iso-conversion-and-dvd-cloning/"><u>WinX DVD Copy Pro: Effortless DVD-to-ISO Conversion and DVD Cloning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] 2024 Approved How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xploring-the-depths-of-asmr-content/"><u>[New] Exploring the Depths of ASMR Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlock-your-old-game-library-with-these-premier-pc-gba-emulators/"><u>[Updated] In 2024, Unlock Your Old Game Library with These Premier PC GBA Emulators</u></a></li>
+<li><a href="https://win-latest.techidaily.com/a-revolutionary-faceoff-in-remote-communication-the-rise-of-the-lip-reading-challenger-against-microsoft-teams-and-zoom-zdnet/"><u>A Revolutionary Faceoff in Remote Communication: The Rise of the Lip-Reading Challenger Against Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-successful-windows-10-driver-fix-for-r9-users/"><u>AMD's Successful Windows 10 Driver Fix for R9 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-solutions-for-non-dispoured-gpus/"><u>Direct Solutions for Non-Dispoured GPUs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-issues-with-windows-boot-process-delays/"><u>Expert Tips to Overcome Issues with Windows Boot Process Delays</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-instagrams-video-features-a-how-to-guide-for-2024/"><u>Leveraging Instagram's Video Features A How-To Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-obstacle-fixing-c1900101-error-during-setup/"><u>Overcoming Obstacle: Fixing C1900101 Error During Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-mode-realignment-in-windows-10/"><u>Screen Mode Realignment in Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/step-into-the-rhythm-of-social-video-editing-with-music-for-2024/"><u>Step Into the Rhythm of Social Video Editing with Music for 2024</u></a></li>
 </ul></div>
 

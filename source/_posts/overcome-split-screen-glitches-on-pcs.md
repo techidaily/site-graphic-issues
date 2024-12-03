@@ -1,7 +1,7 @@
 ---
 title: Overcome Split-Screen Glitches on PCs
-date: 2024-11-21T19:35:05.186Z
-updated: 2024-11-24T06:30:28.267Z
+date: 2024-11-25T21:42:40.398Z
+updated: 2024-12-02T23:58:23.805Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does my screen tear?
 
  One common cause is that your computer outputs more video frames than your monitor can take. For example, if your monitor is using a fixed refresh rate of**60 Hz** (refreshes every 1/60 second), the video output with frame rates higher than that can be**out of sync** with your monitor. Then you have multiple frames displayed at once on your scree, which is the screen tearing issue.
@@ -34,10 +38,6 @@ There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -58,11 +58,11 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
@@ -72,10 +72,6 @@ There are two fixes you can try:
  You can turn on V-Sync on your game graphics settings if you get your issue when playing games.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
   
@@ -97,10 +93,6 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### For**AMD** graphics users
 
  Open Radeon Software, go to**Gaming > 3D Application Settings/Global Graphics** . Then set**Wait for vertical refresh** as**Always On** .
@@ -109,8 +101,16 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
@@ -131,24 +131,20 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-evaluating-and-improving-your-facebook-in-stream-ad-campaigns/"><u>[New] 2024 Approved Evaluating & Improving Your Facebook In-Stream Ad Campaigns</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715859784550-new-iphone-users-learn-simple-screen-recording-now/"><u>[New] Iphone Users, Learn Simple Screen Recording Now!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/wift-valorant-image-crafting-professionally-done-on-the-fly-for-2024/"><u>[New] Swift Valorant Image Crafting Professionally Done on the Fly for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-weibo-stars-quick-chats-on-snapchat/"><u>[Updated] Weibo Stars Quick Chats on Snapchat</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-perfecting-iphone-footage-quick-trimming-sizing-hacks/"><u>2024 Approved Perfecting iPhone Footage Quick Trimming, Sizing Hacks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-sony-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Sony Phone When You Forget the Password</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/como-borrar-de-forma-segura-tu-memoria-usb-en-windows-11-tres-eficaces-tecnicas-para-proteccion/"><u>Cómo Borrar De Forma Segura Tu Memoria USB en Windows 11: Tres Eficaces Técnicas Para Protección</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4-freeze-problems-on-pc/"><u>Fixing Fallout 4 Freeze Problems on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-free-animation-software-for-windows-and-mac/"><u>New 2024 Approved The Ultimate List of Free Animation Software for Windows and Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-challenge-of-unseen-graphics/"><u>Overcoming the Challenge of Unseen Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quell-windows-11-flashing-phenomenon/"><u>Quell Windows 11 Flashing Phenomenon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-fix-mouse-on-windows-11/"><u>Screen Fix: Mouse on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721870766146-steer-clear-of-these-6-bloatware-bot-extensions-save-time-and-money/"><u>Steer Clear of These 6 Bloatware Bot Extensions - Save Time & Money</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-the-continuous-glare-asus-display-guide/"><u>Stop the Continuous Glare: ASUS Display Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209267175-windows-10-screen-saver-troubles-here-are-the-fixes/"><u>Windows 10 Screen Saver Troubles? Here Are the Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-black-screen-with-cursor-solved/"><u>Windows 11 Black Screen with Cursor [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-display-settings-enhancement/"><u>Windows 11 Display Settings Enhancement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-setups-in-professional-broadcast-equipment/"><u>[New] 2024 Approved Leading Setups in Professional Broadcast Equipment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-get-liked-faster-on-tinder-clever-bio-tricks-that-work-for-2024/"><u>[Updated] Get Liked Faster on Tinder Clever Bio Tricks That Work for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-precise-age-settings-the-essential-guide-for-tiktok-profiles/"><u>[Updated] In 2024, Precise Age Settings The Essential Guide for TikTok Profiles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-your-feed-tips-for-posting-full-pictures-with-excellence-on-instagram/"><u>Ace Your Feed: Tips for Posting Full Pictures with Excellence on Instagram</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-blur-tackling-monitor-flickering-troubles/"><u>Banishing Blur: Tackling Monitor Flickering Troubles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-play-8t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor Play 8T Through Google Earth?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-instagram-stories-by-including-youtube-tracks/"><u>In 2024, Enhancing Instagram Stories by Including YouTube Tracks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-and-solving-black-screen-anomalies-on-twitch/"><u>Navigating and Solving Black Screen Anomalies on Twitch</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-audio-visual-integration-how-to-add-audio-to-video-using-premiere-pro/"><u>New 2024 Approved Mastering Audio-Visual Integration How to Add Audio to Video Using Premiere Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-blank-screens-rapid-resolution-of-monitor-issues/"><u>No More Blank Screens: Rapid Resolution of Monitor Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-non-functional-hdmi-ports-on-devices/"><u>Rectifying Non-Functional HDMI Ports on Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-file-format-issues-in-civ-5/"><u>Resolving File Format Issues in CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stay-updated-latest-windows-10-drivers-for-amd-6950/"><u>Stay Updated: Latest Windows 10 Drivers for AMD 6950</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-from-notifying-you-of-updates/"><u>Stop Windows From Notifying You of Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-update-laptop-gpu-now-compatible-and-active/"><u>Windows Update - Laptop GPU Now Compatible & Active</u></a></li>
 </ul></div>
 

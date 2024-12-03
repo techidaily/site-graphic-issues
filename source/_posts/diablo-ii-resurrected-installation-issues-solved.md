@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2024-11-23T11:25:43.620Z
-updated: 2024-11-24T09:10:06.257Z
+date: 2024-11-25T17:22:02.963Z
+updated: 2024-12-02T17:04:31.380Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/cable-connection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Ensure your computer is not on mute
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/speaker-icon.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the volume is on, follow the instructions below to check if you set the right playback device.
 
 #### Set the right playback device
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 **1)** Right-click the **Volume Control icon** on the taskbar and select **Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click the **Playback tab** .
 
@@ -81,7 +73,15 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-230.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the sound is still not available, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Restart Your PC
 
@@ -90,10 +90,6 @@ If the sound is still not available, try the fixes below.
  A reboot wipes away the current state of the software. In case of losing data, please make sure you don’t have any unsaved documents open before restarting your device.
 
 If your issue persists after the reboot, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Fix Browser Issues
 
@@ -112,12 +108,16 @@ If your issue persists after the reboot, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**OK** to save the changes.
 
@@ -132,6 +132,10 @@ If there’s still no sound, read on and try the next fix.
  2) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Relaunch the browser to see if the sound comes back.
 
@@ -159,19 +163,11 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -179,6 +175,10 @@ If the sound isn’t coming back, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the sound issue isn’t resolved, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
 
@@ -219,16 +219,15 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-camera-clash-which-wins-obs-or-twitch-studio/"><u>[New] 2024 Approved Camera Clash - Which Wins? OBS or Twitch Studio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-formulating-a-thrilling-film-outtakes-package/"><u>[New] Formulating a Thrilling Film Outtakes Package</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>[New] In 2024, Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gain-listener-traffic-advanced-techniques-in-podcast-seo/"><u>2024 Approved Gain Listener Traffic Advanced Techniques in Podcast SEO</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-the-c1900101-hiccup-when-installing-win10/"><u>Addressing the C1900101 Hiccup When Installing Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/coming-soon-the-split-keyboard-feature-arrives-on-gboard-for-tablet-users/"><u>Coming Soon: The Split Keyboard Feature Arrives on Gboard for Tablet Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-win11-radeon-r9-display-problems-fixed/"><u>Overcoming Win11 Radeon R9 Display Problems [Fixed]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-your-asus-notebook-with-simple-steps/"><u>Reviving Your Asus Notebook with Simple Steps</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-gionee-f3-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Gionee F3 Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817565346-transform-your-gaming-experience-on-win10-with-amd-hd-6950-update/"><u>Transform Your Gaming Experience on Win10 with AMD HD 6950 Update</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-the-terms-of-use-digiartys-software-licensing-for-winxdvd/"><u>Understanding the Terms of Use: Digiarty's Software Licensing for WinXDVD</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[Updated] 2024 Approved From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-tape-to-trending-seamless-mp3-to-youtube-transition-for-2024/"><u>[Updated] From Tape to Trending Seamless MP3 to YouTube Transition for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-viewsense-capture-report-summary/"><u>[Updated] In 2024, ViewSense Capture Report Summary</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos/"><u>2024 Approved Seamlessly Blend Sound & Visuals Editing Tips for Canva Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-asus-rog-phone-8-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Asus ROG Phone 8 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-streamlined-approach-to-virtual-meeting-setup-zooming-on-android-devices/"><u>A Streamlined Approach to Virtual Meeting Setup Zooming on Android Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-load-screens-in-civ-5/"><u>Fixing Load Screens in CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flawless-driver-update-for-win11-and-intels-graphic/"><u>Flawless Driver Update for Win11 and Intels Graphic</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intel-gpu-update-steps-for-windows-users/"><u>Intel GPU Update Steps for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-screen-glitches-in-surface-pro-7/"><u>Overcoming Screen Glitches in Surface Pro 7</u></a></li>
 </ul></div>
 

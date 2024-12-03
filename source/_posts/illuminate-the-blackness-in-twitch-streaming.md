@@ -1,7 +1,7 @@
 ---
 title: Illuminate the Blackness in Twitch Streaming
-date: 2024-11-19T09:00:29.577Z
-updated: 2024-11-23T20:04:02.111Z
+date: 2024-11-26T23:54:50.677Z
+updated: 2024-12-03T02:04:32.413Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715b
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Table of contents
@@ -48,6 +48,10 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
@@ -66,35 +70,31 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/、name-Microsoft.NetworkAndSharingCenter-1.png)
 2. In the window that pops up, click **Change adapter settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next up, you can run the**ipconfig /flushdns** command for the changes to apply. Here’s how:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
@@ -131,14 +131,14 @@ Here’s how you go about it:
 3. Click**Clear data** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
@@ -153,18 +153,18 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
@@ -174,6 +174,10 @@ Here’s how you go about it:
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
 
  If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch in or out of hardware acceleration
 
@@ -203,15 +207,11 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In**General** , uncheck the**Use recommended performance settings** box to expand the section, then for the**Use hardware acceleration when available** box, choose the opposite.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
@@ -242,22 +242,14 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-getting-comfy-with-video-chats-in-instagrams-ecosystem-for-2024/"><u>[New] Getting Comfy with Video Chats in Instagram's Ecosystem for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-youtube-seo-techniques-for-enhanced-video-rankings/"><u>[Updated] 2024 Approved Essential YouTube SEO Techniques for Enhanced Video Rankings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-no-caps-lock-required-android-and-ios-downloader-hacks/"><u>[Updated] 2024 Approved No Caps Lock Required Android and iOS Downloader Hacks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-creative-video-ends-top-6-budget-friendly-options/"><u>[Updated] Creative Video Ends Top 6 Budget-Friendly Options!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-feed-capture-via-obs-for-instagram/"><u>2024 Approved Live Feed Capture via OBS for Instagram</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/better-views-for-your-windows/"><u>Better Views for Your Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/detected-gpu-hiccup-nvidia-reparation-complete/"><u>Detected GPU Hiccup - NVIDIA Reparation Complete</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-12plus-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 12+ 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-rtx-3080-game-freezes-tips/"><u>Fixing RTX 3080 Game Freezes - Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-upgrade-intelligent-hd-graphics-support-in-windows/"><u>How to Upgrade Intelligent HD Graphics Support in Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-twitter-image-resolution-standards/"><u>In 2024, Twitter Image Resolution Standards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-app-crashes-during-video-playback-post-upgrade/"><u>Overcoming App Crashes During Video Playback Post-Upgrade</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/securely-transferring-camera-photos-to-snapchat-correctly/"><u>Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-lenovos-dark-scenes/"><u>Shedding Light on Lenovo's Dark Scenes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-nvidia-rtx-freeze-events/"><u>Stop NVIDIA RTX Freeze Events</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/undead-uprising-your-guide-to-engrossing-zombie-playtime-for-2024/"><u>Undead Uprising Your Guide to Engrossing Zombie Playtime for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-your-gpus-hidden-vigor/"><u>Unlocking Your GPU's Hidden Vigor</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-deciphering-facebooks-forgotten-features-a-cross-platform-manual/"><u>[New] Deciphering Facebook's Forgotten Features A Cross-Platform Manual</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-dxgkrnlsys-bluescreen-of-death-fixed/"><u>[System] dxgkrnl.sys BlueScreen of Death Fixed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-making-waves-in-the-social-media-world-via-fb/"><u>[Updated] In 2024, Making Waves in the Social Media World via FB</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-device-setup-issue/"><u>Conquered Device Setup Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-bsod-correct-wdf-issues/"><u>Eliminating Windows BSOD: Correct WDF Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-fodt-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .fodt file Online with DigiSigner</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-your-creativity-top-5-free-mod-video-editors/"><u>New 2024 Approved Unleash Your Creativity Top 5 Free MOD Video Editors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-flickers-fixes-wins11/"><u>Smooth Out Flickers, Fixes Wins11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/zipwindows-10-11/"><u>ZIPファイルが消えた！Windows 10, 11で安全に復元方法</u></a></li>
 </ul></div>
 

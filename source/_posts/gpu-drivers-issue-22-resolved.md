@@ -1,7 +1,7 @@
 ---
 title: "GPU Drivers: Issue #22 Resolved"
-date: 2024-11-19T11:47:40.552Z
-updated: 2024-11-23T20:20:20.024Z
+date: 2024-11-28T19:03:47.909Z
+updated: 2024-12-02T22:57:12.245Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b988610e117a.png)
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
 
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
 Be careful you don’t mistype, or press the wrong keys!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -64,7 +64,7 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -74,14 +74,14 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -102,7 +102,7 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -129,20 +129,22 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-launching-at-optimal-times-a-podcast-guide-for-2024/"><u>[New] Launching at Optimal Times A Podcast Guide for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/op-8-proven-video-growth-enhancers-for-2024/"><u>[New] Top 8 Proven Video Growth Enhancers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-youtubes-features-adding-images-to-videos/"><u>[Updated] 2024 Approved Unveiling YouTube's Features Adding Images to Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-resolving-srt-export-woes-in-adobe-premiere/"><u>[Updated] In 2024, Resolving SRT Export Woes in Adobe Premiere</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-a24-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy A24 Activity | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-the-green-glare-tips-for-perfect-backgrounds/"><u>Bypassing the Green Glare: Tips for Perfect Backgrounds</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-gpu-instabilities-with-uninterrupted-computers/"><u>Eliminating GPU Instabilities with Uninterrupted Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ergonomic-screen-angle-adjustment-finalized/"><u>Ergonomic Screen Angle Adjustment Finalized</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/open-markets-close-plans-strategy-inception/"><u>Open Markets, Close Plans Strategy Inception</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reducing-oversized-win11-resolution/"><u>Reducing Oversized Win11 Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-wide-screen-display-problems-in-windows-10/"><u>Resolved Wide-Screen Display Problems in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-playback-errors-on-upgraded-windows-11/"><u>Solving Playback Errors on Upgraded Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-benchmarks-and-analysis-of-the-linksys-wrt1900ac-with-openwrt-firmware-for-enhanced-networking/"><u>The Ultimate Review: Benchmarks and Analysis of the Linksys WRT1900AC with OpenWRT Firmware for Enhanced Networking</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-8-and-10-no-amd-drivers-detected/"><u>Windows 7, 8 & 10: No AMD Drivers Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-uniting-zooms-power-with-facebook-live-streaming/"><u>[New] In 2024, Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-innovative-techniques-for-recording-instagram-story-highlights-for-2024/"><u>[Updated] Innovative Techniques for Recording Instagram Story Highlights for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-f54-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy F54 5G without App | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-line-effects-from-laptop-displays-quickly/"><u>Eliminate Ghost Line Effects From Laptop Displays Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-gadget-insights-in-depth-analysis-of-electronics-and-hardware/"><u>Exploring Tom's Gadget Insights: In-Depth Analysis of Electronics and Hardware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-radeon-g-sync-failure/"><u>Fix: Radeon G-Sync Failure</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-vector-graphics-tools-to-shape-your-creative-vision/"><u>In 2024, Top 10 Vector Graphics Tools to Shape Your Creative Vision</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contact-app-malfunctioning-discover-the-top-3-solutions-for-a-smooth-fix/"><u>IPhone Contact App Malfunctioning? Discover the Top 3 Solutions for a Smooth Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-refreshing-anomalies/"><u>Overcoming Windows 10 Refreshing Anomalies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/secure-method-storing-tweet-imagesvideos-on-your-mobile-for-2024/"><u>Secure Method Storing Tweet Images/Videos on Your Mobile for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-unparalleled-audio-adventure-of-the-logitech-g533/"><u>The Unparalleled Audio Adventure of the Logitech G533</u></a></li>
 </ul></div>
 

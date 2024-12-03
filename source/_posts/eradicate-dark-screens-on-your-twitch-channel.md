@@ -1,7 +1,7 @@
 ---
 title: Eradicate Dark Screens on Your Twitch Channel
-date: 2024-11-22T10:57:21.017Z
-updated: 2024-11-23T22:33:27.182Z
+date: 2024-11-30T18:44:47.770Z
+updated: 2024-12-02T23:01:46.045Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
  There’s often a combination of causes for this nuisance, but with this guide, you can navigate your way down the list of solutions, until you get to the root of the problem and find the one that works for you.
 
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Table of contents
 
@@ -49,7 +45,7 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -69,26 +65,22 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/、name-Microsoft.NetworkAndSharingCenter-1.png)
 2. In the window that pops up, click **Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-adapter-settings-1.png)
 3. Right-click on your network adapter, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)** \> **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
@@ -98,6 +90,10 @@ Here’s how you go about it:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
@@ -133,15 +129,11 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cachechrome.png)
 3. Click**Clear data** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
@@ -153,6 +145,10 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
@@ -163,10 +159,14 @@ Here’s how you go about it:
 6. Restart Firefox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
 
@@ -189,16 +189,12 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-3.png)
 3. Scroll down to the bottom and click on**Advanced** to expand the advanced settings section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In**System** , switch the toggle for**Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
@@ -214,6 +210,10 @@ Here’s how you go about it:
 4. Exit Firefox.
 
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
 
@@ -241,16 +241,24 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-speeding-up-your-instagram-video-watch-time-for-2024/"><u>[New] Speeding Up Your Instagram Video Watch Time for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>[Updated] Breakthrough Techniques for Streaming Success OBS Studio (Android)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/efficient-methods-to-reduce-high-cpu-use-in-discord-comprehensive-guide/"><u>Efficient Methods to Reduce High CPU Use in Discord - Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-ending-of-graphics-cards-in-windows/"><u>Effortless Ending of Graphics Cards in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-the-frustrating-pc-crash-of-fallout-4/"><u>End the Frustrating PC Crash of Fallout 4</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-moto-g04-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Moto G04? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-guide-to-enhancing-youtube-content-post-upload/"><u>In 2024, Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proactive-approach-to-update-intel-gfx-software-win7/"><u>Proactive Approach to Update Intel Gfx Software (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-transition-new-driver-for-win11-and-intel-graphic-card/"><u>Smooth Transition: New Driver for Win11 & Intel Graphic Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818132567-streaming-on-windows-10-after-upgrade-secured/"><u>Streaming on Windows 10 After Upgrade Secured!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-enhancing-gopro-footage-minimizing-motion-blur/"><u>[New] Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-analysis-of-the-latest-video-show-app-24-release/"><u>[Updated] Expert Analysis of the Latest Video Show App '24 Release</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-savers-in-action-expert-tips-on-recording-your-minecraft-experience-for-2024/"><u>[Updated] Screen Savers in Action Expert Tips on Recording Your Minecraft Experience for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-image-perfection-the-premier-iphone-object-removal-apps/"><u>2024 Approved Professional Image Perfection The Premier iPhone Object Removal Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/black-screen-after-installing-graphics-card-driver/"><u>Black Screen After Installing Graphics Card Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-anthem-responsiveness/"><u>Boost Anthem Responsiveness</u></a></li>
+<li><a href="https://video-capture.techidaily.com/breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording/"><u>Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-gaming-experience-get-latest-nvidia-drivers/"><u>Elevate Gaming Experience: Get Latest Nvidia Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-graphics-hiccups-in-rtx-3080/"><u>Fixing Graphics Hiccups in RTX 3080</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-podcast-rss-feed-crafting/"><u>In 2024, Comprehensive Guide to Podcast RSS Feed Crafting</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/israeli-peoples-chosen-dialect/"><u>Israeli People’s Chosen Dialect?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-mystery-solved-on-black-screens-win11/"><u>Mouse Mystery Solved on Black Screens Win11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/navigating-the-floating-window-technology-in-netflix/"><u>Navigating The Floating Window Technology in Netflix</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-ipad-discover-how-this-innovative-kid-friendly-tablet-is-changing-the-game-now-available-at-discount-prices/"><u>Say Goodbye to Your iPad: Discover How This Innovative Kid-Friendly Tablet Is Changing the Game - Now Available at Discount Prices!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-graphics-setup-on-windows/"><u>Secured Graphics Setup on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-purchases-on-microsofts-digital-shelf/"><u>Speeding Up Purchases on Microsoft's Digital Shelf</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-screen-link-reconnect-your-display-promptly/"><u>Swift Screen Link: Reconnect Your Display Promptly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly</u></a></li>
 </ul></div>
 

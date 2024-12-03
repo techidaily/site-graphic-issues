@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence"
-date: 2024-11-20T06:10:24.842Z
-updated: 2024-11-24T04:15:05.419Z
+date: 2024-11-27T20:14:49.999Z
+updated: 2024-12-02T23:53:38.415Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
@@ -73,17 +77,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -114,10 +114,6 @@ You need to check 2 elements:
 2. Type`dxdiag` and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag.jpg)
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
@@ -153,11 +149,15 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -178,19 +178,16 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-knowledge-for-saving-app-activity/"><u>[New] In 2024, Essential Knowledge for Saving App Activity</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-art-of-high-quality-sound-recording-via-audacity-for-2024/"><u>[New] The Art of High-Quality Sound Recording via Audacity for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-dx12-crash-in-halos-launch-sequence/"><u>[RESOLVED] DX12 Crash in Halo's Launch Sequence</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/"><u>[Updated] 2024 Approved Tips for Posting Wide Angle Photos to Facebook From Smartphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>2024 Approved Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatibility-between-win11-and-nvidia-secured/"><u>Compatibility Between Win11 & NVIDIA Secured</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-controller-issue-addressed-and-fixed/"><u>Display Controller Issue Addressed and Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-hybrid-gpu-errors-in-windows-11/"><u>Eliminating Hybrid GPU Errors in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guarantee-savable-screen-preferences-win-710-fix-guide-resolved/"><u>Guarantee Savable Screen Preferences: Win 7/10 Fix Guide [Resolved]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-selective-focus-topiphoto-blurrers-revealed/"><u>In 2024, Selective Focus Topiphoto Blurrers Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/kostenloze-mp4-to-wmv-conversie-ophefstoeltijd-professionele-oplossingen/"><u>Kostenloze MP4-to-WMV Conversie Ophefstoeltijd - Professionele Oplossingen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-2-local-setup-instructions-for-beginners-and-pros-alike/"><u>Llama 2 Local Setup Instructions for Beginners and Pros Alike</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-minimum-requirements-barrier-with-intel-graphics/"><u>Overcome Minimum Requirements Barrier with Intel Graphics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pioneering-apps-for-diverse-game-file-logging-needs-for-2024/"><u>Pioneering Apps for Diverse Game File Logging Needs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-directscreen-a-streamlined-windows-recorder/"><u>[New] DirectScreen A Streamlined Windows Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximize-online-sales-the-most-reliable-15-facebook-analysis-tools-for-2024/"><u>[New] Maximize Online Sales The Most Reliable 15 Facebook Analysis Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elite-efficiency-enhancement-codes/"><u>[Updated] 2024 Approved Elite Efficiency Enhancement Codes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-windows-image-resolution/"><u>Crisp Windows Image Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drive-upgrade-nvidias-new-geforce-210-version/"><u>Drive Upgrade: NVIDIA's New GeForce 210 Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-minimize-dwm-gpu-usage-a-5-step-approach-for-windows-users/"><u>How to Minimize DWM GPU Usage: A 5-Step Approach for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-guide-to-toolwiz-photography-software/"><u>In 2024, Complete Guide to Toolwiz Photography Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-character-count-limiting-chatgpt-conversations/"><u>Is Character Count Limiting ChatGPT Conversations?</u></a></li>
+<li><a href="https://techidaily.com/letude-de-labbyy-identification-des-secteurs-les-plus-scrupuleux-dans-le-respect-des-processus/"><u>L'étude De L'ABBYY : Identification Des Secteurs Les Plus Scrupuleux Dans Le Respect Des Processus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-turns-dark-with-new-driver/"><u>Monitor Turns Dark with New Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-adjust-display-dimensions/"><u>Win11: Adjust Display Dimensions</u></a></li>
 </ul></div>
 
