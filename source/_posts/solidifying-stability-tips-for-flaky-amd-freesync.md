@@ -1,7 +1,7 @@
 ---
 title: "Solidifying Stability: Tips for Flaky AMD FreeSync"
-date: 2024-12-02T03:55:34.846Z
-updated: 2024-12-03T00:18:35.006Z
+date: 2024-12-04T21:42:24.073Z
+updated: 2024-12-10T04:55:59.121Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 5. [**Check the monitor settings**](#fix5)
 6. [**Disable Fullscreen optimizations**](#fix6)
 7. **[Configure the default GPU](#fix7)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Try different ports
 
@@ -74,10 +70,6 @@ If the problem persists, take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-6700-xt-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all the drivers, restart your PC and check if FreeSync is working.
@@ -92,22 +84,18 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -116,12 +104,16 @@ If the problem persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If FreeSync works after a clean boot, you can root out the offending program by repeating these steps and disabling half of the services every time.
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows update
@@ -135,13 +127,13 @@ Here’s how:
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -149,6 +141,10 @@ Here’s how:
  After installing all the system updates, restart and check if FreeSync is working.
 
 If the issue is still there, simply try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Fullscreen optimizations
 
@@ -178,6 +174,10 @@ If this doesn’t help, you can continue to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/change-preferred-gpu-3-clean.jpg)
 4. Click**Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. You’ll see three**graphics preference** . Select the**AMD** one and click**Save** .
 
@@ -204,17 +204,14 @@ Now launch the program/game and check if FreeSync is working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-tips-for-inserting-captions-in-youtube-videos/"><u>[New] In 2024, Tips for Inserting Captions in YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>[New] In 2024, YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guide-to-revamping-igtv-title-and-description-texts/"><u>[Updated] 2024 Approved Guide to Revamping IGTV Title & Description Texts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-6-figure-success-starts-with-smart-hashtagging/"><u>[Updated] 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-crashes-make-fallout-4-run-easily-on-pc/"><u>Banish Crashes: Make Fallout 4 Run Easily on PC</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-win-10-screen-to-smaller-dimensions/"><u>Optimize WIN 10 Screen to Smaller Dimensions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-how-to-successfully-start-and-enjoy-robocop-rogue-city/"><u>PC Gaming Fixes: How To Successfully Start and Enjoy 'RoboCop: Rogue City'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/suppressing-sudden-shifts-on-your-acer-screen/"><u>Suppressing Sudden Shifts on Your Acer Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unraveling-directx12-obstacles-for-halo-infinite-launch/"><u>Unraveling: DirectX12 Obstacles for Halo Infinite Launch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/why-isnt-my-windows-10-monitor-fullview/"><u>Why Isn't My Windows 10 Monitor Fullview?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-video-host-vs-stream-pro-the-battle-of-obs-and-twitch-studio-for-2024/"><u>[New] Video Host Vs. Stream Pro - The Battle of OBS and Twitch Studio for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avert-gpu-failure-in-popular-pc-game/"><u>Avert GPU Failure in Popular PC Game</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deviceinit-failed-now-working/"><u>DeviceInit Failed, Now Working</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/e-bike-why-its-time-to-replace-your-gasoline-vehicle/"><u>E-Bike: Why It's Time to Replace Your Gasoline Vehicle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fuzzy-fonts-on-far-cry-6-screen/"><u>Fixing Fuzzy Fonts on Far Cry 6 Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ensive-gear-mics-for-content-creators-on-a-dime-for-2024/"><u>Inexpensive Gear Mics for Content Creators on a Dime for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavimp2mpg/"><u>Movavi提供:無料で簡単なMP2とMPGに変換する方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-web-with-smart-search-bing-and-ai/"><u>Navigating the Web with Smart Search: Bing & AI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-configuration-for-windows-11/"><u>Revamped Visual Configuration for Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Angled Monitor Repair for Sideways Viewing
-date: 2024-11-25T23:34:59.957Z
-updated: 2024-12-03T03:21:46.251Z
+date: 2024-12-08T16:31:43.396Z
+updated: 2024-12-09T22:12:46.499Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
  **BONUS TIP:[Prevent your screen from rotating itself](#c)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
@@ -48,21 +52,13 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This should restore your laptop screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -78,11 +74,15 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,20 +105,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>[New] 2024 Approved Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quicksnapper-simple-recording-on-windows-10-for-2024/"><u>[New] QuickSnapper Simple Recording on Windows 10 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>[Updated] Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pixels-to-perfection-youtubes-beauty-color-techniques/"><u>[Updated] Pixels to Perfection Youtube's Beauty Color Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-resolved-display-driver-woes-in-w10/"><u>AMD Radeon R9: Resolved Display Driver Woes in W10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/apexs-speedier-setup-game-saved-and-solved/"><u>Apex's Speedier Setup: Game Saved & Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/card-absence-alert-visuals-issue/"><u>Card Absence Alert: Visuals Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/combating-distorted-ui-design-in-far-cry-6/"><u>Combating Distorted UI Design in Far Cry 6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/completed-resolving-installer-snags/"><u>Completed: Resolving Installer Snags</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-a15-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy A15 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-the-screen-dance-in-win11/"><u>Ending the Screen Dance in Win11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-guide-for-game-channels-banner-integration-for-2024/"><u>The Essential Guide for Game Channels Banner Integration for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-9-essentials-game-enthusiasts-travel-guide/"><u>Top 9 Essentials: Game-Enthusiast's Travel Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-potential-the-best-9-features-in-new-outlook/"><u>Unlocking Potential: The Best 9 Features in New Outlook</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-810-plus-no-amd-graphics-software-installed/"><u>Windows 8/10 + No AMD Graphics Software Installed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-audiblefromtwitvid-direct-audio-conversion-for-2024/"><u>[New] AudibleFromTwitVid Direct Audio Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-youtube-productions-with-effective-video-lighting-for-2024/"><u>[New] Elevating YouTube Productions with Effective Video Lighting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-full-picture-editpro-suite-review-of-2023/"><u>[New] The Full Picture EditPro Suite Review of 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-game-record-on-windows-10-top-5-tips/"><u>[Updated] In 2024, Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-starting-channels-right-youtube-equipment-101/"><u>2024 Approved Starting Channels Right YouTube Equipment 101</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-down-non-responsive-laptop-to-tv-hdmi/"><u>Breaking Down Non-Responsive Laptop-to-TV HDMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-nvidia-card-absent-in-control-panel/"><u>Fix: NVIDIA Card Absent in Control Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-hiccup-detected-now-ironed-out-by-nvidia/"><u>Graphic Hiccup Detected, Now Ironed Out by NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guiding-through-gpu-problems-maintaining-pc-usage/"><u>Guiding Through GPU Problems, Maintaining PC Usage</u></a></li>
+<li><a href="https://facebook.techidaily.com/has-fb-shared-my-personal-details-unintentionally/"><u>Has FB Shared My Personal Details Unintentionally?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevating-social-interactions-a-complete-gif-guide-for-snapchat-users/"><u>In 2024, Elevating Social Interactions A Complete Gif Guide for Snapchat Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/inverted-screens-quick-win7-repair/"><u>Inverted Screens: Quick Win7 Repair</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximizing-enjoyment-with-improved-god-of-war/"><u>Maximizing Enjoyment with Improved 'God of War'</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-graphics-connectivity-dxgi-fix-methods/"><u>Restoring Graphics Connectivity: DXGI Fix Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-synergy-achieved-geforce-7025-in-windows-10/"><u>System Synergy Achieved: GeForce 7025 in Windows 10</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/troubleshooting-guide-how-to-fix-scanner-connectivity-issues-with-your-pc-tips-from-yl-computing/"><u>Troubleshooting Guide: How to Fix Scanner Connectivity Issues with Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-image-reflector-correction/"><u>Win7 Image Reflector Correction</u></a></li>
 </ul></div>
 

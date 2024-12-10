@@ -1,7 +1,7 @@
 ---
 title: Code 43 Issue on Windows 11 - Comprehensive Fix Guide
-date: 2024-11-30T21:24:36.188Z
-updated: 2024-12-03T03:49:19.585Z
+date: 2024-12-04T05:08:11.683Z
+updated: 2024-12-10T02:24:49.823Z
 tags:
   - win11
   - win10
@@ -47,29 +47,29 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -87,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -108,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,17 +155,22 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevating-your-text-with-advanced-3d-effects/"><u>[Updated] 2024 Approved Elevating Your Text with Advanced 3D Effects</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-drone-purchasing-made-easy-a-step-by-step-buyers-guide/"><u>[Updated] Drone Purchasing Made Easy A Step-by-Step Buyer’s Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-game-changer-for-gamers-easy-5-ways-to-capture-your-minecraft-adventures-mac/"><u>[Updated] In 2024, A Game Changer for Gamers Easy 5 Ways to Capture Your Minecraft Adventures (Mac)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/200-discount-discover-top-notch-alternatives-to-macbook-and-lenovo-thinkpad-for-college-expert-reviews/"><u>$200 Discount: Discover Top-Notch Alternatives to MacBook & Lenovo ThinkPad for College - Expert Reviews</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flipyourscreenbackwards-solution/"><u>FlipYourScreenBackwards Solution</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-overcome-the-ntdlldll-error-crashes-in-windows-operating-systems-win11-and-win10/"><u>How to Overcome the ntdll.dll Error Crashes in Windows Operating Systems (Win11 & Win10)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-tips-eliminate-hazy-laptop-screen-lines/"><u>Quick Tips: Eliminate Hazy Laptop Screen Lines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-to-stabilize-hp-screen-flashes/"><u>Solutions to Stabilize HP Screen Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stable-display-ended-laptop-screen-flickering-resolved/"><u>Stable Display: Ended Laptop Screen Flickering [Resolved]</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-free-video-clippers-for-pc-and-mac-best-tools-to-remove-unwanted-footage-on-windows-11-8-7/"><u>Top FREE Video Clippers for PC & Mac - Best Tools to Remove Unwanted Footage on Windows 11, 8, 7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exclusive-access-download-your-own-tailored-tracks/"><u>[New] 2024 Approved Exclusive Access Download Your Own Tailored Tracks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-time-saving-strategies-for-srt-to-text-file-changes/"><u>[New] Time-Saving Strategies for SRT to Text File Changes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-cross-media-sharing-power-twitterfacebook-for-2024/"><u>[New] Unlocking Cross-Media Sharing Power (Twitter/Facebook) for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mac-based-strategies-for-shorter-insta-videos-for-2024/"><u>[Updated] Mac-Based Strategies for Shorter Insta Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>[Updated] Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-successful-nvidia-setup-process/"><u>Achieved: Successful NVIDIA Setup Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinking-bring-brightness/"><u>Banish Blinking, Bring Brightness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-windows-11-recovery-success/"><u>Cursory Windows 11 Recovery Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easygamerecording-by-nvidia-for-2024/"><u>EasyGameRecording by NVIDIA for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-vlc-key-mac-functions-explained-for-2024/"><u>Mastering VLC Key Mac Functions Explained for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-mastery-correct-vertical-edges-instantly/"><u>Monitor Mastery: Correct Vertical Edges Instantly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-essential-tools-for-creating-stunning-slow-motion-videos/"><u>New 2024 Approved 10 Essential Tools for Creating Stunning Slow Motion Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-overcoming-nvidia-setup-error/"><u>Success: Overcoming NVIDIA Setup Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-color-locked-in-asus-devices-with-ease/"><u>Unlock Color Locked in Asus Devices with Ease</u></a></li>
 </ul></div>
 

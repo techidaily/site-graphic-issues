@@ -1,7 +1,7 @@
 ---
 title: OpenGL Glitch Spotted - Nvidia GPU Fixed Up!
-date: 2024-11-28T03:48:42.770Z
-updated: 2024-12-02T23:18:27.152Z
+date: 2024-12-08T17:12:31.407Z
+updated: 2024-12-09T18:58:58.543Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -57,17 +61,21 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -83,11 +91,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -108,17 +116,9 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,16 +144,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-uploading-with-google/"><u>2024 Approved The Insider’s Guide to Uploading with Google</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-on-windows-10-how-to-fix/"><u>AMD Graphics Card Unrecognized on Windows 10 - How to Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-fps-game-top-6-expert-strategies/"><u>Boost Your FPS Game: Top 6 Expert Strategies</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/create-and-showcase-innovative-discord-flags-for-profile-spotlight/"><u>Create and Showcase Innovative Discord Flags for Profile Spotlight</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-the-port-reset-failed-error-on-windows-11s-usb-devices-tips-and-tricks/"><u>Dealing with the Port Reset Failed Error on Windows 11'S USB Devices – Tips & Tricks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/guidelines-for-legally-reposting-on-insta-for-2024/"><u>Guidelines for Legally Reposting on Insta for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-moto-g13-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Moto G13 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-successful-srt-shipping-out-of-premiere-for-2024/"><u>Unlocking Successful SRT Shipping Out of Premiere for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-8-download-for-fb-movies-for-2024/"><u>[New] Expert 8 Download for FB Movies for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-detailed-process-of-saving-movies-on-various-os/"><u>[Updated] In 2024, Detailed Process of Saving Movies on Various OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-record-and-evaluate-speech-files/"><u>[Updated] In 2024, Record & Evaluate Speech Files</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-path-to-profitable-partnership-with-your-audience/"><u>2024 Approved The Path to Profitable Partnership with Your Audience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-compatibility-issue-with-win10-settled/"><u>AMD's Compatibility Issue with Win10, Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-vision-clarity/"><u>Enhancing Lenovo Laptop Vision Clarity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y77t-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y77t to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizons-in-focus-easy-monitor-alignment-techniques/"><u>Horizons in Focus: Easy Monitor Alignment Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-se-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone SE When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-3d-color-grading-with-custom-luts-for-2024/"><u>Masterclass in 3D Color Grading with Custom LUTs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overview-of-various-cameras-used-in-film-and-tv-for-2024/"><u>Overview of Various Cameras Used in Film & TV for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-troubleshoot-for-dead-displayport/"><u>Simple Troubleshoot for Dead DisplayPort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-11-streaming-problems-fixed/"><u>Troubleshooting Windows 11 Streaming Problems Fixed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-card-download-rtx-2080-super-drivers-compatible-with-windows-11/"><u>Update Your Graphics Card - Download RTX 2080 Super Drivers Compatible with Windows 11</u></a></li>
 </ul></div>
 

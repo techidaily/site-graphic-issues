@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2024-11-30T18:39:30.855Z
-updated: 2024-12-03T02:47:14.952Z
+date: 2024-12-05T03:17:44.666Z
+updated: 2024-12-10T02:57:24.623Z
 tags:
   - win11
   - win10
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -43,17 +51,9 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -86,7 +86,7 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -95,10 +95,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -106,7 +102,11 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -142,21 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-graphic-design-career-pathways-unveiled/"><u>[New] 2024 Approved Mastering Graphic Design Career Pathways Unveiled</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-expert-tips-for-twitter-video-interactions-for-2024/"><u>[New] Expert Tips for Twitter Video Interactions for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-laughlab-design-suite-for-2024/"><u>[New] LaughLab Design Suite for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-transformation-innovative-approaches-to-instagram-video-editing/"><u>[Updated] The Art of Transformation Innovative Approaches to Instagram Video Editing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-iphone-shoots-essential-8-tips-for-professional-results/"><u>Elevate Your iPhone Shoots Essential 8 Tips for Professional Results</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-boot-up-fails/"><u>Graphics Boot-Up Fails</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-visual-experience-post-dell-display-fixes/"><u>Smooth Visual Experience Post-Dell Display Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-warped-display-lines-in-devices/"><u>Swift Solutions for Warped Display Lines in Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/time-lapse-magic-capturing-moments-with-an-ipad-for-2024/"><u>Time-Lapse Magic Capturing Moments with an iPad for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trim-excess-space-on-win-10-display/"><u>Trim Excess Space on WIN 10 Display</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vintage-video-magic-a-step-by-step-guide-to-vhs-effects-in-final-cut-pro/"><u>Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-art-of-audio-integration-in-online-journals/"><u>[New] In 2024, The Art of Audio Integration in Online Journals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-winning-scenarios-prime-video-recording-software-for-windows/"><u>[New] In 2024, Winning Scenarios Prime Video Recording Software for Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-boosting-youtube-income-using-studio-anywhere-anyhow/"><u>[Updated] Boosting YouTube Income Using Studio Anywhere, Anyhow</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-nvidia-installer-error-handled/"><u>Corrected: NVIDIA Installer Error Handled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-google-pixel-8-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Google Pixel 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload/"><u>In 2024, Innovating Your Online Presence Expert Tips for Video Enhancement After Upload</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-cant-make-calls-try-these-10-proven-methods-for-immediate-relief/"><u>IPhone Can't Make Calls? Try These 10 Proven Methods for Immediate Relief</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-now-fully-capable-with-active-gpu-in-win11/"><u>Laptop Now Fully Capable with Active GPU in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-glitch-detected-now-fixed-with-nvidias-help/"><u>OpenGL Glitch Detected, Now Fixed with NVIDIA's Help</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-compatibility-boost-win11-plus-intel-gpus/"><u>Quick Compatibility Boost: Win11 + Intel GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-display-synchronization-problems-pc/"><u>Resolve Display Synchronization Problems (PC)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-usb-flash-drives-to-buy-reviews-and-comparison/"><u>Top Rated USB Flash Drives to Buy - Reviews & Comparison</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-overcoming-twitchs-dark-display/"><u>Troubleshooting: Overcoming Twitch's Dark Display</u></a></li>
 </ul></div>
 

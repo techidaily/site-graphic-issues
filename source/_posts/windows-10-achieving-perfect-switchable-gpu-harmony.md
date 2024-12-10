@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Achieving Perfect Switchable GPU Harmony"
-date: 2024-11-27T16:19:33.034Z
-updated: 2024-12-02T22:12:13.673Z
+date: 2024-12-09T05:48:32.639Z
+updated: 2024-12-09T20:48:33.973Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
@@ -89,21 +89,25 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -118,10 +122,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,14 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y28-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y28 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-image-rotation-in-win7-setup/"><u>Correct Image Rotation in Win7 Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crisis-averted-overcoming-os-wdf-violations-bsod/"><u>Crisis Averted: Overcoming OS WDF Violations BSOD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-intermittent-laptop-monitor-glitches/"><u>Fixed Intermittent Laptop Monitor Glitches</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/frequency-capture-digital-sound-files-for-2024/"><u>Frequency Capture Digital Sound Files for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-se-2022-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone SE (2022) without Backup | Stellar</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlock-pro-level-video-editing-on-windows-8-and-beyond/"><u>New Unlock Pro-Level Video Editing on Windows 8 and Beyond</u></a></li>
-<li><a href="https://fox-http.techidaily.com/simplifying-itunes-add-and-listen-to-your-choice-of-podcasts/"><u>Simplifying iTunes Add and Listen to Your Choice of Podcasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-graphics-driver-settled/"><u>Windows 11, Graphics Driver Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-hindrance-in-halos-successful-launch/"><u>[FIXED] DX12 Hindrance in Halo's Successful Launch</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-streamline-music-craft-with-our-high-quality-beat-detection-software-for-2024/"><u>[New] Streamline Music Craft with Our High-Quality Beat Detection Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-discovering-the-top-screen-grabber-software-win11/"><u>[Updated] Discovering the Top Screen Grabber Software Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-screen-capture-tool-2021-for-2024/"><u>[Updated] Ultimate Screen Capture Tool 2021 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-win10-games-a-comprehensive-breakdown/"><u>2024 Approved Capturing Win10 Games A Comprehensive Breakdown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-cam-not-working-heres-how-to-fix-it/"><u>Asus Cam Not Working? Here's How To Fix It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breeze-through-driver-removal-windows-method-guide/"><u>Breeze Through Driver Removal: Windows Method Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-insights-how-to-leverage-microsoft-bings-free-dall-e-3-image-generator/"><u>Creative Insights: How to Leverage Microsoft Bing's Free DALL-E 3 Image Generator</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-setup-with-official-easycap-drivers-download/"><u>Effortless Setup with Official EasyCap Drivers Download</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hush-harshly-humming-monitors/"><u>Hush Harshly Humming Monitors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-altering-snapchat-audio-a-dual-approach-explained/"><u>In 2024, Altering Snapchat Audio A Dual Approach Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-streaming-experience-dual-screen-mode-on-netflix/"><u>In 2024, Maximize Your Streaming Experience - Dual Screen Mode on Netflix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovative-design-solutions-by-jack-watt-at-digiarty-software-elevating-digital-creativity/"><u>Innovative Design Solutions by Jack Watt at Digiarty Software - Elevating Digital Creativity</u></a></li>
 </ul></div>
 

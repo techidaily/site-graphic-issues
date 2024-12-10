@@ -1,7 +1,7 @@
 ---
 title: Illuminating Windows 10 After Fall Shadows
-date: 2024-11-29T02:34:59.251Z
-updated: 2024-12-02T19:34:15.338Z
+date: 2024-12-06T17:39:52.463Z
+updated: 2024-12-10T02:56:09.615Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -33,20 +33,16 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update display card driver
 
@@ -55,12 +51,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,21 +77,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-graphics-tuning-for-windows-11/"><u>[Resolved] Advanced Graphics Tuning for Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-understanding-youtubes-monthly-revenue-options/"><u>[Updated] In 2024, Understanding YouTube's Monthly Revenue Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-2023-guide-to-your-updated-lg-bp550/"><u>[Updated] Ultimate 2023 Guide to Your Updated LG BP550</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-resolved-wdf-api-errors-in-windows/"><u>BlueScreen Resolved: WDF API Errors in Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/critical-methods-to-reset-and-protect-your-fb-password/"><u>Critical Methods to Reset and Protect Your Fb Password</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-hyperz-compatibility-fault/"><u>Cured HyperZ Compatibility Fault</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/desktop-capture-showdown-select-between-obs-and-shadowplay-for-2024/"><u>Desktop Capture Showdown Select Between OBS and ShadowPlay for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-film-capture-in-your-pocket-top-ois-enabled-devices-for-2024/"><u>Expert Film Capture in Your Pocket Top OIS-Enabled Devices for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-se-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone SE with a Broken Screen?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/meet-the-brilliant-minds-behind-the-best-lego-stop-motion-videos-for-2024/"><u>Meet the Brilliant Minds Behind the Best Lego Stop Motion Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-gpus-no-video-output-needed/"><u>Quick-Fix Guide: GPUs, No Video Output Needed</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recover-ravaged-quicktime-and-xvid-files/"><u>Recover Ravaged QuickTime & XviD Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-civ-5-pc-glitches/"><u>Resolve CIV 5 PC Glitches</u></a></li>
-<li><a href="https://win-online.techidaily.com/schritt-fur-schritt-tutorial-zum-sicheren-installieren-von-windows-10-fur-eine-neugestaltung/"><u>Schritt-Für-Schritt-Tutorial Zum Sicheren Installieren Von Windows 10 Für Eine Neugestaltung</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/updated-graphic-settings-for-overwatch/"><u>Updated Graphic Settings for Overwatch</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-growth-and-profitability-in-the-digital-marketplace-explore-these-top-15-facebook-insights/"><u>[New] 2024 Approved Growth & Profitability in the Digital Marketplace Explore These Top 15 Facebook Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-succeed-in-ytp2024-channel-funding-tips/"><u>[Updated] How to Succeed in YTP2024 Channel Funding Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-engagement-with-a-pinterest-tab-a-guide-for-your-facebook-presence/"><u>Boosting Engagement with a Pinterest Tab – A Guide for Your Facebook Presence</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-hot-30-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Hot 30 5G Device SIM</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-elevate-your-image-pro-insider-secrets-for-lunapic/"><u>In 2024, Elevate Your Image Pro Insider Secrets for LunaPic</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/make-display-settings-save-in-win-7-and-10-against-all-odds-solution-achieved/"><u>Make Display Settings Save in WIN 7 & 10 Against All Odds [Solution Achieved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mice-on-the-move-post-blackout-win11/"><u>Mice on the Move Post-Blackout Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-solutions-no-display-on-graphics-cards/"><u>Simplified Solutions, No Display on Graphics Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-approach-to-rectifying-greenscreen-issues/"><u>Step-by-Step Approach to Rectifying Greenscreen Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubled-streams-no-more-on-updated-win10/"><u>Troubled Streams No More on Updated Win10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Push Past White Screen in Sims World
-date: 2024-12-01T22:59:43.396Z
-updated: 2024-12-03T00:19:40.029Z
+date: 2024-12-03T06:38:53.190Z
+updated: 2024-12-09T19:38:45.126Z
 tags:
   - win11
   - win10
@@ -44,22 +44,22 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -73,10 +73,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions for your game to be repaired.
 
 4) Restart your computer for the changes to take effect.
@@ -84,6 +80,10 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -97,15 +97,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -126,7 +126,7 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
@@ -155,10 +155,6 @@ Here are the steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Does your PC meet the requirements?
 
  If all else fails, then you might have to check if the specs of your PC to see if it meets the requirements of the game.
@@ -177,6 +173,10 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -211,21 +211,16 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>[New] Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/m2-nvme-ssdssd/"><u>「高效能M.2 NVMe SSD複製程式，如何透過不同方法將SSD克隆？」</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/asure-trove-of-premium-youtube-images-from-6-websites-for-2024/"><u>A Treasure Trove of Premium YouTube Images From 6 Websites for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-windows-11-screen-orientation-glitch/"><u>Addressing Windows 11 Screen Orientation Glitch</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/get-the-authentic-winx-experience-free-full-featured-dvd-ripping-and-hd-video-conversion-suite/"><u>Get the Authentic WinX Experience: Free Full-Featured DVD Ripping and HD Video Conversion Suite</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-c55-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme C55 Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quell-winblueerror-addressing-wdf-api-concerns/"><u>Quell WinBlueError: Addressing WDF API Concerns</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/resolve-silent-tweets-video-audio-woes/"><u>Resolve Silent Tweets Video Audio Woes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-gfxui-errors-in-windows-environment-successfully/"><u>Resolving GFXUI Errors in Windows Environment Successfully</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/rise-and-shine-on-these-overlooked-meme-platforms-for-2024/"><u>Rise and Shine on These Overlooked Meme Platforms for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-gpu-integration-on-new-win11-laptop/"><u>Successful GPU Integration on New Win11 Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-to-recover-from-gpu-faults-with-system-uptime/"><u>Techniques to Recover From GPU Faults with System Uptime</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-advertising-wondershare-virbo-glossary/"><u>What Is AI Advertising? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wins-against-blackout-fixes-for-post-fall-update-win11/"><u>Wins Against Blackout: Fixes for Post-Fall Update Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-critical-reviews-leading-mp4-devices/"><u>[New] 2024 Approved Critical Reviews Leading MP4 Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-journey-to-discovering-your-personal-youtube-musical-realm/"><u>[New] 2024 Approved Journey to Discovering Your Personal Youtube Musical Realm</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-leap-into-the-future-with-strategic-technology-enhancements/"><u>[New] In 2024, Leap Into the Future with Strategic Technology Enhancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-voice-capturing-apps-for-ipads-3-top-picks/"><u>[Updated] 2024 Approved Essential Voice Capturing Apps for iPads #3 Top Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleashing-the-power-of-your-instagram-vids-appeal/"><u>[Updated] In 2024, Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>[Updated] The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unleash-creativity-10-must-know-tips-for-cover-art/"><u>[Updated] Unleash Creativity 10 Must-Know Tips for Cover Art</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-and-simple-intel-graphics-3000-update-for-windows-10/"><u>Fast & Simple Intel Graphics 3000 Update for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flashing-fresh-drive-space-remove-graphics-drivers-quickly/"><u>Flashing Fresh Drive Space: Remove Graphics Drivers Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-critical-error-c1900101-in-upgrading-windows/"><u>Solving Critical Error C1900101 in Upgrading Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unify-image-synchronization-across-monitors/"><u>Unify Image Synchronization Across Monitors</u></a></li>
 </ul></div>
 

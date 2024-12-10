@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting C1900101 Error in Windows Upgrade
-date: 2024-11-29T21:34:49.559Z
-updated: 2024-12-03T03:06:09.346Z
+date: 2024-12-08T05:50:33.981Z
+updated: 2024-12-10T05:08:24.879Z
 tags:
   - win11
   - win10
@@ -26,13 +26,13 @@ If you’re about to upgrade to Windows 10, or you’re updating your current Wi
 
 Here are 6 of the most effective solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.  Method 1:[**Update device drivers, esp. the display card driver**](#m1) Method 2:[**Uninstall third-party antivirus programs**](#m2) Method 3:[**Remove unused SAT devices**](#m3) Method 4: [**Do a clean boot**](#m4) Method 5:[**Run SFC/ DISM tools**](#m5) Method 6: [**Update BIOS**](#m6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### This post helps to fix the following error codes as well
 
 In many case, the error codes could be different in different combinations of computers, but all of them have some general solutions. Here are some of the most commonly seen codes: **0xC1900101 – 0x20004** **0xC1900101 – 0x2000c** **0xC1900101 – 0x20017** **0xC1900101 – 0x30018** **0xC1900101 – 0x3000D** **0xC1900101 – 0x4000D** **0xC1900101 – 0x40017**If you’re bugged by one of the codes above, feel free to try the methods below, one at a time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Update device drivers, esp. the display card driver
 
@@ -45,6 +45,10 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4206a5c0185.jpg)
 
 4) When the update finishes, restart your computer as instructed. Check to see if the 0xC1900101 error is gone after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Uninstall third-party antivirus programs
 
@@ -60,11 +64,19 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
 
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Do a clean boot
 
@@ -73,7 +85,7 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f7260f9ac.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
@@ -81,7 +93,7 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
@@ -92,17 +104,9 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f91987269.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Close the Task Manager window, and go back to the System Configuration window. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41fd5bee675.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
@@ -112,14 +116,10 @@ In some cases, the 0xC1900101 error could mean that your system files are someho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -129,7 +129,7 @@ Press the **Enter**key on your keyboard.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
@@ -163,19 +163,22 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/harting-creators-fortune-revenue-generated-from-youtube-advertisements/"><u>[New] Charting Creator's Fortune Revenue Generated From Youtube Advertisements?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-live-show-recordings-the-modern-way/"><u>[Updated] 2024 Approved Mastering Live Show Recordings The Modern Way</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-changing-esd-into-an-iso-for-windows-pcs/"><u>A Beginner's Guide to Changing ESD Into an ISO for Windows PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cut-the-glare-not-your-patience-fix-monitor-flicker/"><u>Cut the Glare, Not Your Patience: Fix Monitor Flicker</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-green-screen-strategies-for-professional-streamers/"><u>Cutting-Edge Green Screen Strategies for Professional Streamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4s-windows-woes-simplified/"><u>Fixing Fallout 4'S Windows Woes Simplified</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-of-wireless-audio-a-detailed-comparison-of-apples-new-airpods-offerings-explained/"><u>Future of Wireless Audio: A Detailed Comparison of Apple's New AirPods Offerings Explained</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-malfunction-resolved-screen-responding/"><u>GPU Malfunction Resolved: Screen Responding</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-the-flashing-windows-10-problems/"><u>Solving the Flashing Windows 10 Problems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-review-of-the-arlo-video-doorbell-advanced-entry-alert-system-with-visuals/"><u>Top Review of the Arlo Video Doorbell - Advanced Entry Alert System with Visuals</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-resolving-battlenet-launch-issues/"><u>Ultimate Troubleshooting Steps for Resolving Battle.net Launch Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win-usb-serial-link-resolving-nonoperational-issues/"><u>Win USB-Serial Link: Resolving Nonoperational Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-cursor-sight-resolution/"><u>Win11 Cursor Sight - Resolution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing-for-2024/"><u>[New] Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-mac-gif-videographer/"><u>[Updated] In 2024, Ultimate Mac Gif Videographer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-media-masters-5-top-mac-videography-apps/"><u>2024 Approved Next-Gen Media Masters 5 Top Mac Videography Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>2024 Approved Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-fixes-syncing-iphone-photos-with-computer-for-2024/"><u>Fast Fixes Syncing iPhone Photos with Computer for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818099251-fixed-the-flashing-problems-for-good/"><u>Fixed the Flashing Problems for Good!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guidelines-to-enable-amd-freesync/"><u>Guidelines to Enable AMD FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improve-windows-graphics-latest-nvidia-geforce-210-software-update/"><u>Improve Windows Graphics: Latest NVIDIA GeForce 210 Software Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-value-unlocking-the-full-potential-of-your-hulu-subscription/"><u>Maximizing Value: Unlocking the Full Potential of Your Hulu Subscription</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-pixelshader-detected-solved/"><u>Missing PixelShader Detected [Solved]</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/performance-assessment-unveiling-the-powerhouse-that-is-the-asus-zephyrus-g14/"><u>Performance Assessment: Unveiling the Powerhouse That Is the Asus Zephyrus G14</u></a></li>
+<li><a href="https://fox-links.techidaily.com/proven-strategies-for-superior-design-with-canva/"><u>Proven Strategies for Superior Design with Canva</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-inverted-screens-display-windows-11/"><u>Rectifying Inverted Screens Display: Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-msdn-battery-concerns-in-win-os-versions/"><u>Resolving MSDN Battery Concerns in WIN OS Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-minecraft-correcting-cards-issue/"><u>Stabilize Minecraft: Correcting Cards Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-remediation-of-r9-driver-crashes-on-win10/"><u>Successful Remediation of R9 Driver Crashes on Win10</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/yl-software-explains-the-process-of-viewing-tweaking-and-deleting-registry-data-in-windows-systems/"><u>YL Software Explains the Process of Viewing, Tweaking and Deleting Registry Data in Windows Systems</u></a></li>
 </ul></div>
 

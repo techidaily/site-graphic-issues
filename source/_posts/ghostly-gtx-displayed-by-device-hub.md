@@ -1,7 +1,7 @@
 ---
 title: Ghostly GTX Displayed by Device Hub
-date: 2024-12-02T03:23:44.711Z
-updated: 2024-12-03T03:45:45.975Z
+date: 2024-12-07T01:23:48.898Z
+updated: 2024-12-10T05:27:27.916Z
 tags:
   - win11
   - win10
@@ -20,20 +20,12 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/device-manager-graphics-card.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 1. **[Show Hidden Devices and Reinstall Graphics Driver Manually](#h-method-1-show-hidden-devices-and-reinstall-graphics-driver-manually)**
 2. **[Update the NVIDIA Graphics Driver](#h-method-2-update-the-nvidia-graphics-driver)**
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
@@ -50,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
@@ -65,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 3: Restore BIOS to Default**
@@ -120,19 +120,17 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-personalize-save-location-for-captured-mac-screen/"><u>[New] Personalize Save Location for Captured Mac Screen</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-simplify-screen-capture-the-6-key-steps-to-successfully-streaming-netflix-on-macos/"><u>[New] Simplify Screen Capture The 6 Key Steps to Successfully Streaming Netflix on macOS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-triple-down-on-instagrams-growth-metrics/"><u>[Updated] 2024 Approved How to Triple Down on Instagram's Growth Metrics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-10-open-source-os-friendly-videography-software/"><u>[Updated] Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerviewcorrection-techniques/"><u>ComputerViewCorrection Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-lava-storm-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Lava Storm 5G Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-samsungs-4tb-portable-ssd-t5-available-again-on-amazon-up-to-50-off-zdnet-report/"><u>Huge Discount Alert: Samsung's 4TB Portable SSD (T5) Available Again on Amazon - Up to 50% Off! [ZDNet Report]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-tips-for-recording-google-voice-dialogues/"><u>In 2024, Advanced Tips for Recording Google Voice Dialogues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-issue-successfully-addressed/"><u>Lenovo SmartTouch Issue: Successfully Addressed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-freezes-fix-fallout-4-pc-issues/"><u>No More Freezes: Fix Fallout 4 PC Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-conflict-windows-10-geforce-7025-settled/"><u>Nvidia Conflict - Windows 10, GeForce 7025 Settled</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unstick-the-freeze-quick-solutions-to-elevate-windows-setup/"><u>Unstick the Freeze: Quick Solutions to Elevate Windows Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-comexception-error-now-fixed/"><u>Windows COMException Error Now Fixed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-synergizing-brands-on-video-platforms/"><u>[New] Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-virtual-vanguards-the-leading-ladies-of-gaming/"><u>[Updated] 2024 Approved Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-10-common-vlogging-fears-and-how-to-beat-them/"><u>2024 Approved 10 Common Vlogging Fears and How To Beat Them</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjustment-for-small-win-10-interface/"><u>Adjustment for Small WIN 10 Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevating-visual-fidelity-introduction-to-4k/"><u>Elevating Visual Fidelity: Introduction to 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-display-precision-on-windows-11/"><u>Enhanced Display Precision on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-capturing-and-saving-your-favorite-facebook-stories-pcmobile/"><u>In 2024, Capturing & Saving Your Favorite Facebook Stories (PC/Mobile)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-guide-to-control-video-pace-in-instagram/"><u>In 2024, Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/post-update-windows-10-say-goodbye-to-streaming-issues/"><u>Post-Update Windows 10 - Say Goodbye to Streaming Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-expanded-viewport-on-windows-10-devices/"><u>Tackling Expanded Viewport on Windows 10 Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-gamers-guide-why-investing-in-a-ps5-is-a-smart-move-with-these-four-points/"><u>The Gamer's Guide: Why Investing in a PS5 Is a Smart Move with These Four Points</u></a></li>
 </ul></div>
 

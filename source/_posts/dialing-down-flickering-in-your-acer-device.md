@@ -1,7 +1,7 @@
 ---
 title: Dialing Down Flickering in Your Acer Device
-date: 2024-12-01T23:56:36.591Z
-updated: 2024-12-03T04:10:36.623Z
+date: 2024-12-08T05:07:52.886Z
+updated: 2024-12-10T05:37:34.612Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ Here is how to change the screen refresh rate:
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
@@ -51,7 +51,7 @@ Here is how to change the screen refresh rate:
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Display adapter properties for Display 1** .
@@ -62,6 +62,10 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
 #### **I’m using Windows 7:**
@@ -69,6 +73,10 @@ Here is how to change the screen refresh rate:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Advanced settings** .
 
@@ -79,16 +87,12 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -114,10 +118,6 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -153,19 +153,16 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-digital-tapestry-crafting-visual-narratives/"><u>[New] 2024 Approved Digital Tapestry Crafting Visual Narratives</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exclusive-edition-motorcyclings-top-action-cameras-of-2023-review/"><u>[New] 2024 Approved Exclusive Edition Motorcycling’s Top Action Cameras of 2023 Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-the-art-of-acquiring-facebooks-prestigious-blue-badge/"><u>[New] 2024 Approved Mastering the Art of Acquiring Facebook's Prestigious Blue Badge</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ownload-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[New] Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-essentials-for-picking-the-perfect-tiktok-backgrounds/"><u>2024 Approved Essentials for Picking the Perfect TikTok Backgrounds</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dismantle-the-flashy-monitor-myth/"><u>Dismantle the Flashy Monitor Myth</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-clear-uninterrupted-videos/"><u>Effortless Clear, Uninterrupted Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-troubleshooting-for-graphics-cards/"><u>Effortless Troubleshooting for Graphics Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-enable-laptop-graphics-on-windows-1011/"><u>How To Enable Laptop Graphics On Windows 10/11?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-upgrade-to-windows-11/"><u>In 2024, How to Upgrade to Windows 11 ?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-electronics-by-tom-your-trusted-source-for-hardware-knowledge/"><u>In-Depth Analysis of Modern Electronics by Tom - Your Trusted Source for Hardware Knowledge</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-connection-repair-via-hdmi/"><u>Laptop to TV Connection Repair via HDMI</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968375145-lenovo-user-master-fixing-usb-driver-glitches-in-no-time/"><u>Lenovo User? Master Fixing USB Driver Glitches in No Time</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-rejuvenate-fallout-4-on-windows/"><u>Solved: Rejuvenate Fallout 4 on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-your-passport-to-popularity-9-essential-instagram-secrets-for-success/"><u>[New] In 2024, Your Passport to Popularity 9 Essential Instagram Secrets for Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-precision-capturing-with-apowersofts-latest-screenshot-tool/"><u>2024 Approved Precision Capturing with Apowersoft's Latest Screenshot Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fully-functional-laptop-gpu-in-windows-11/"><u>Fully Functional: Laptop GPU in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v29-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V29 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-who-unfollowed-you-quick-guide/"><u>In 2024, Instagram Who Unfollowed You? Quick Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>In 2024, Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-laptop-view-achieved/"><u>Optimal Lateral Laptop View Achieved</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-cannot-read-from-disk-issue-with-win1110/"><u>Tackling 'Cannot Read From Disk' Issue with Win11/10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-secure-operations-methodology-for-safe-mode-access-gpu-cleanup-on-win8/"><u>Unlock Secure Operations: Methodology for Safe Mode Access, GPU Cleanup on WIN8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-11-29T19:35:47.920Z
-updated: 2024-12-03T01:57:29.684Z
+date: 2024-12-09T05:39:23.206Z
+updated: 2024-12-09T23:28:53.670Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-218.png)
 
  If you keep getting the**Err 12: Graphics device crashed** while playing**Monster Hunter World** , you’re certainly not alone. While this can be quite irritating, most of the time it is only a driver issue that can be fixes pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for err12: Graphics Device Crashed error
 
@@ -48,11 +44,19 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics driver
 
@@ -64,19 +68,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
 
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair system files
 
@@ -101,10 +109,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -120,7 +124,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -128,10 +132,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,18 +163,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-steps-to-curate-youtube-music-selections/"><u>[New] 2024 Approved Essential Steps to Curate YouTube Music Selections</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-elevate-your-gaming-experience-with-unique-sound-alteration-techniques-for-a-competitive-edge-no-cost-for-2024/"><u>[New] Elevate Your Gaming Experience with Unique Sound Alteration Techniques for a Competitive Edge (No Cost!) For 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/do-you-know-what-pace-is-ideal-for-your-personal-pc/"><u>Do You Know What Pace Is Ideal for Your Personal PC?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-automatic-song-selection-in-apple-music/"><u>How to Turn Off Automatic Song Selection in Apple Music</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed-for-2024/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-mlb-the-show-21-server-errors-with-these-expert-tips-and-solutions/"><u>Overcome MLB The Show 21 Server Errors with These Expert Tips and Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-now-fully-supports-latest-gpus/"><u>Overwatch Now Fully Supports Latest GPUs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-guide-how-to-prevent-deathloop-from-continuously-crashing-on-pc-systems/"><u>Quick Fix Guide: How to Prevent Deathloop From Continuously Crashing on PC Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-hiccup-nvidia-driver-returns-to-operation/"><u>System Hiccup: Nvidia Driver Returns to Operation</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/windows-11-data-protection-tips-and-solutions-safeguard-your-system-with-expert-advice/"><u>Windows 11 Data Protection Tips & Solutions – Safeguard Your System with Expert Advice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-funimate-masterclass-gameplay-enhancement/"><u>[Updated] 2024 Approved Funimate Masterclass Gameplay Enhancement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/adblocker-adoption-continues-to-challenge-youtubes-revenue-stream/"><u>Adblocker Adoption Continues to Challenge YouTube's Revenue Stream</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fixes-to-overcome-wwe-2k20s-pc-crashing-problems/"><u>Effortless Fixes to Overcome WWE 2K20's PC Crashing Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-get-the-new-ipad-pro-for-a-whopping-700-off-labor-day-deal-exclusive-gadget-buzz/"><u>Huge Savings Alert: Get the New iPad Pro for a Whopping $700 Off - Labor Day Deal Exclusive | Gadget Buzz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-single-frames-into-motion-narratives/"><u>In 2024, Transforming Single Frames Into Motion Narratives</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-light-new-driver-installed/"><u>No Light, New Driver Installed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-display-malfunctions-code-fixed/"><u>No More Display Malfunctions - Code Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-inverted-screen-in-windows-10-fixed/"><u>Overcoming Inverted Screen in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-fidelity-of-fc6-ui/"><u>Perfecting Visual Fidelity of FC6 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-other-application-happens-with-sound-errors/"><u>Steps to Solve Other Application Happens with Sound Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tidying-up-win-os-graphics-render-with-fixes/"><u>Tidying up Win OS Graphics Render with Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-pc-graphics-swiftly-install-newest-intel-3000-drivers-for-win10/"><u>Transform Your PC Graphics: Swiftly Install Newest Intel 3000 Drivers for Win10</u></a></li>
 </ul></div>
 

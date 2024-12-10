@@ -1,7 +1,7 @@
 ---
 title: Recovery From Cursor Freeze in Windows
-date: 2024-11-25T22:04:32.049Z
-updated: 2024-12-02T22:25:37.633Z
+date: 2024-12-04T20:54:32.267Z
+updated: 2024-12-09T22:45:07.514Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
@@ -51,6 +51,10 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -67,6 +71,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -76,6 +84,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
 
@@ -87,10 +99,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) View by “Small icons” and click**Power Options** .  
 
@@ -107,13 +115,13 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -130,7 +138,7 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
@@ -168,17 +176,21 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -192,23 +204,19 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -225,10 +233,6 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Recovery** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
@@ -237,10 +241,6 @@ If you’re on a laptop:
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -261,16 +261,21 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-marketers-best-friend-20-words-that-work-wonders/"><u>[New] In 2024, The Marketer's Best Friend - 20 Words That Work Wonders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-key-strategies-for-high-definition-iptv-logging/"><u>[Updated] 2024 Approved Key Strategies for High-Definition IPTV Logging</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expedite-smooth-video-experiences/"><u>Expedite Smooth Video Experiences</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-storm-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Storm 5G Without PUK Codes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/increased-productivity/"><u>Increased Productivity</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/is-this-a-bug-or-intentional-edit-on-instagram-in-2024/"><u>Is This a Bug or Intentional Edit on Instagram, In 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pocket-sized-photo-wonders-canon-sx740-hs-review/"><u>Pocket-Sized Photo Wonders: Canon SX740 HS Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/precision-control-for-incredible-android-time-lapses/"><u>Precision Control for Incredible Android Time-Lapses</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sharpening-upon-rendered-characteristics-in-fc6/"><u>Sharpening Upon Rendered Characteristics in FC6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-technique-for-fresh-intel-graphics-drivers-win7/"><u>Step-By-Step Technique for Fresh Intel Graphics Drivers (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trouble-with-full-screen-windows-on-monitor-11/"><u>Trouble With Full-Screen Windows on Monitor 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-masterful-mix-sweeping-sound-sections/"><u>[New] In 2024, Masterful Mix Sweeping Sound Sections</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-pursuit-of-perfection-online-tv-capture-made-simple-for-2024/"><u>[New] In Pursuit of Perfection - Online TV Capture Made Simple for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightroom-classic-learning-hub/"><u>[New] Lightroom Classic Learning Hub</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-lut-basics-for-enhanced-visual-effects-in-ae/"><u>[New] LUT Basics for Enhanced Visual Effects in AE</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-overcoming-social-media-livestream-errors/"><u>[Updated] 2024 Approved Overcoming Social Media Livestream Errors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-professional-insights-top-10-capture-cards-for-youtube-enthusiasts-for-2024/"><u>[Updated] Professional Insights Top 10 Capture Cards for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>2024 Approved Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-gaming-experience-new-hd-6950-drivers-w11/"><u>Boost Your Gaming Experience - New HD 6950 Drivers W11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-overwatch-graphics-support/"><u>Enhanced Overwatch Graphics Support</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-it-fast-nvidia-cards-without-monitors/"><u>Fix It Fast: NVIDIA Cards Without Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixingflippedmonitor-views/"><u>FixingFlippedMonitor Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-framework-not-initializing/"><u>Graphics Framework Not Initializing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-visual-upgrade-with-a-simple-step-to-update-intel-3000-driver/"><u>Instant Visual Upgrade with a Simple Step to Update Intel 3000 Driver</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photographic-mastery-a-critical-look-at-magix-for-2024/"><u>Photographic Mastery A Critical Look at MAGIX for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speedy-intel-gfx-driver-refresh-for-windows-os/"><u>Speedy Intel GFX Driver Refresh for Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-corrupted-file-structures-on-windows-11/"><u>Step-by-Step Solution for Fixing Corrupted File Structures on Windows 11</u></a></li>
 </ul></div>
 

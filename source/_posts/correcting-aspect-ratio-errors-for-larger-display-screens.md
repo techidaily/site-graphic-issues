@@ -1,7 +1,7 @@
 ---
 title: Correcting Aspect Ratio Errors for Larger Display Screens
-date: 2024-12-02T00:30:12.172Z
-updated: 2024-12-02T19:28:17.384Z
+date: 2024-12-05T22:11:49.710Z
+updated: 2024-12-09T16:26:20.048Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ We’ve included two possible solution:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 1: check display settings**
@@ -37,21 +37,21 @@ We’ve included two possible solution:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c192b55b7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Advanced display settings** .
 
 ![resolution advanced display settings](https://images.drivereasy.com/wp-content/uploads/2016/08/resolution-advanced-display-settings-600x564.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Be sure the resolution is set at the recommended level. If not, change it to the recommended solution.
 
 ![recommended resolution windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/recommended-resolution-windows-10-1-600x561.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Reboot your PC and check to see if the problem is resolved.
 
@@ -60,7 +60,7 @@ If the problem persists, you can try to update the graphics card driver.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -80,7 +80,7 @@ If the problem persists, you can try to update the graphics card driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-498.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the graphics card driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -108,17 +108,24 @@ If the problem persists, you can try to update the graphics card driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-guide-master-adobe-captivates-screen-capture-feature/"><u>[New] 2024 Approved Cutting-Edge Guide Master Adobe Captivate's Screen Capture Feature</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-for-a-valid-temp-folder-in-windows-11/"><u>Best Practices for a Valid Temp Folder in Windows 11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/can-upgrading-your-pcs-memory-boost-its-performance-in-depth-analysis-by-yl-tech/"><u>Can Upgrading Your PC's Memory Boost Its Performance? - In-Depth Analysis by YL Tech</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-nvidiawin11-compatibility-concerns/"><u>Fixing NVidia/Win11 Compatibility Concerns</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-x9a-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor X9a Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-non-gpu-use-on-notebook-windows-1011/"><u>Resolve Non-GPU Use on Notebook Windows 10/11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-screen-freeze-fix-minecraft-driver/"><u>Resolve Screen Freeze: Fix Minecraft Driver</u></a></li>
-<li><a href="https://article-helps.techidaily.com/viral-potential-top-15-easy-to-create-videos-for-2024/"><u>Viral Potential Top 15 Easy-to-Create Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-setup-unsuccessful/"><u>Visual Setup Unsuccessful</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-identifying-a-user-writes-silent-unseen-snapshots/"><u>[New] 2024 Approved Identifying a User' Writes Silent, Unseen Snapshots</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-transform-your-content-3-effective-techniques-for-youtube-reaction-magic/"><u>[New] 2024 Approved Transform Your Content 3 Effective Techniques for YouTube Reaction Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-exclusive-8-high-youtube-viewership-observer/"><u>[New] In 2024, Exclusive 8-High YouTube Viewership Observer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-downloads-igtv-media-for-phone-users/"><u>[Updated] 2024 Approved Mastering Downloads IGTV Media for Phone Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blanking-windows-11-monitor/"><u>Ending Blanking Windows 11 Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/essential-tips-for-win7-intel-gpu-update/"><u>Essential Tips for Win7 Intel GPU Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v27-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V27 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-hot-30i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Hot 30i?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-sound-of-success-tailoring-audio-for-instagram-content/"><u>In 2024, The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-high-end-features-now-available-in-windows-10/"><u>Missing High-End Features Now Available in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunters-unite-erratum-12-conquered/"><u>Monster Hunters Unite: Erratum 12 Conquered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-flipped-display-issue-in-windows-10-os/"><u>Resolve Flipped Display Issue in Windows 10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-misalignment-in-windows-10-fix/"><u>Reverse Screen Misalignment in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-11-fixed/"><u>Screen Upside Down in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-custom-sounds-in-your-gmail-inbox-a-step-by-step-guide/"><u>Setting Up Custom Sounds in Your Gmail Inbox: A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-gaming-with-updated-nvidia-driver/"><u>Streamline Gaming with Updated Nvidia Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-dark-windows-11-after-falls/"><u>Taming the Dark Windows 11 After Falls</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection</u></a></li>
 </ul></div>
 

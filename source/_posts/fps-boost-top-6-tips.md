@@ -1,7 +1,7 @@
 ---
 title: FPS Boost [Top 6 Tips]
-date: 2024-11-27T03:14:44.611Z
-updated: 2024-12-02T18:44:52.072Z
+date: 2024-12-08T00:21:08.419Z
+updated: 2024-12-09T17:55:15.048Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Tip 1: Change the power option 
@@ -42,10 +42,6 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -57,7 +53,7 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. In **Advanced** , click **Settings** .  
@@ -67,7 +63,15 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Tip 3: Update your graphics driver
 
@@ -90,10 +94,6 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Tip 4: Do a disk clean-up 
 
 **Disk Clean-up**   is a built-in tool in Windows that helps us delete unimportant and junk files. To run **Disk Clean-up** :
@@ -104,27 +104,23 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee278de5da.png)
 3. Technically, you can tick all **the boxes** . You might also need to check out **Recycle Bin** and see if there’s anything to be restored first. Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee2de770cf.png)
 4. Make sure the ticked files are the ones you no longer want and click **Delete Files** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Tip 5: Defrag your hard drive
@@ -137,6 +133,10 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
 3. Click **Optimize**   if Windows tell you to optimize the drive. Usually the recommended percentage is 5% or higher.
@@ -172,19 +172,20 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streaming-soundscapes-on-your-iphone/"><u>[Updated] In 2024, Streaming Soundscapes on Your iPhone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset/"><u>2024 Approved Quick and Easy How to Transform Your Mobile Device Into a VR Headset</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>2024 Approved Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unseen-glimpse-of-fb-stories/"><u>2024 Approved Unseen Glimpse of FB Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/converse-with-computers-for-free/"><u>Converse with Computers for Free</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-win-error-resolution-shared/"><u>dxgkrnl.sys Win Error Resolution Shared</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-fix-resolved-monster-hunter-world-error-12/"><u>Graphics Fix: Resolved Monster Hunter World Error 12</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-eradicate-green-screen-inaccuracies-in-video-editing/"><u>How To Eradicate Green Screen Inaccuracies in Video Editing</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-stop-resident-evil-4-remake-from-frequently-crashing/"><u>Resolving Issues: Stop Resident Evil 4 Remake From Frequently Crashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-a-gpu-fan-immediate-fixes/"><u>Reviving a GPU Fan: Immediate Fixes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/self-filmed-brilliance-secrets-for-youtube-success-for-2024/"><u>Self-Filmed Brilliance Secrets for YouTube Success for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/troubleshooting-access-denied-error-on-offline-file-sync-in-windows-10/"><u>Troubleshooting 'Access Denied' Error on Offline File Sync in Windows 10</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/versatile-strategies-to-power-down-laptop-screen/"><u>Versatile Strategies to Power Down Laptop Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-6-superior-android-screen-capture-apps/"><u>[New] In 2024, 6 Superior Android Screen Capture Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[New] In 2024, A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-unlock-creative-expression-adding-descriptive-texts-to-your-tiktok-videos/"><u>[Updated] In 2024, Unlock Creative Expression Adding Descriptive Texts to Your TikTok Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cryptic-code-deciphered-direct-x-error-eradicated-in-league/"><u>Cryptic Code Deciphered: Direct X Error Eradicated in League</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/download-the-enhanced-nvidia-1060-drivers/"><u>Download the Enhanced Nvidia 1060 Drivers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-recording-tips-capturing-video-from-macbook-pro-for-2024/"><u>Essential Recording Tips Capturing Video From MacBook Pro for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-most-recent-driver-version-for-your-epson-et-2750-on-windows-1087-a-comprehensive-guide/"><u>Find & Install the Most Recent Driver Version for Your Epson ET-2750 on Windows 10/8/7: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-health-restored-after-detected-tdr/"><u>GPU Health Restored After Detected TDR</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-6s-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 6s You Should Try Out</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-without-button-use-a-comprehensive-guide/"><u>Reviving Your iPhone Without Button Use: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-preferences-a-successful-fix-for-win-7-and-10-achieved/"><u>Saving Display Preferences: A Successful Fix for WIN 7 & 10 [Achieved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-screen-configuration-job-well-done/"><u>Saving Screen Configuration, Job Well Done!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-instagram-filter-playbook-success-for-2024/"><u>The Ultimate Instagram Filter Playbook Success for 2024</u></a></li>
 </ul></div>
 

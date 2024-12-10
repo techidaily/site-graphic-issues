@@ -1,7 +1,7 @@
 ---
 title: "Fixing GPU Fans: From Standstill to Action"
-date: 2024-11-28T02:09:52.985Z
-updated: 2024-12-02T20:04:42.740Z
+date: 2024-12-06T05:28:11.667Z
+updated: 2024-12-10T00:09:50.598Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the fixes. Simply work your way down until you find the one that does the trick.
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
@@ -61,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -83,11 +87,19 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating all your drivers, restart your PC and check if the fans spin now.
 
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
 
@@ -98,15 +110,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
 
@@ -126,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
@@ -134,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
  A corrupted GPU BIOS can also cause fan problems. Usually you don’t need to worry about GPU BIOS, but it’s a potential culprit and should be in your checklist. Note that this is not for everyone, and if you’re not so confident about your computer skills, it’s best to ask an expert.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
 
@@ -162,18 +162,22 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-curated-list-of-top-20-prison-jail-memes-boosting-morale-on-social-platforms/"><u>[Updated] Curated List of Top 20 Prison Jail Memes, Boosting Morale on Social Platforms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs-for-2024/"><u>[Updated] From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-make-every-discord-livestree-a-timeless-treasure/"><u>[Updated] In 2024, How to Make Every Discord Livestree a Timeless Treasure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asymmetric-screen-aligned-on-notebooks/"><u>Asymmetric Screen Aligned on Notebooks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flickering-screen-follow-this-quick-asus-guide-to-solve-it/"><u>Flickering Screen? Follow This Quick ASUS Guide to Solve It</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-common-anydesk-errors-on-windows/"><u>How to Troubleshoot Common AnyDesk Errors on Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-become-a-veterinarian-on-android-12-great-simulators/"><u>In 2024, Become a Veterinarian on Android 12 Great Simulators</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-restoration-busting-displayport-silence/"><u>Instant Restoration: Busting DisplayPort Silence</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instruction-manual-for-launching-safe-mode-in-windows-8-graphics-driver-expulsion/"><u>Instruction Manual for Launching Safe Mode in Windows 8, Graphics Driver Expulsion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-obscured-views-in-twitch-video/"><u>Overcoming Obscured Views in Twitch Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-graphics-cards-with-nvidia-gpu/"><u>Quick-Fix Guide: Graphics Cards with NVIDIA GPU</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vidma-screen-recorder-review/"><u>[New] Vidma Screen Recorder Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-10-youtube-download-apps-best-in-class-compatibility/"><u>[Updated] 2024 Approved Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms-for-2024/"><u>[Updated] Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-much-does-pewdiepie-make/"><u>2024 Approved How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-sighted-making-your-windows-11-taskbar-glossy/"><u>Clear-Sighted: Making Your Windows 11 Taskbar Glossy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiartys-winxdvd-end-user-license-agreement/"><u>DigiArtY's WinXDVD - End User License Agreement</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-steps-to-create-your-own-bitcoin-wallet-a-guide-by-yl-computing/"><u>Easy Steps to Create Your Own Bitcoin Wallet: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-file-imports-into-windows-11-with-ease/"><u>In 2024, Mastering File Imports Into Windows 11 with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-fixed-intermittent-screen-behavior/"><u>Lenovo Fixed Intermittent Screen Behavior</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-fix-clear-video-playback/"><u>Precision Fix: Clear Video Playback</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-causes-of-install-errors-cleared/"><u>Rectified: Causes of Install Errors Cleared</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolution-fixing-nvidia-install-issue/"><u>Resolution: Fixing NVIDIA Install Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-for-correcting-critical-error-code-c1900101-in-windows-11-upgrade/"><u>Steps for Correcting Critical Error Code: C1900101 in Windows 11 Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopped-the-continuous-blank-pages-on-laptop-screen/"><u>Stopped the Continuous Blank Pages on Laptop Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-gaming-with-r9-driver-updates-in-windows-10/"><u>Streamlined Gaming with R9 Driver Updates in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-drm-failures-solutions-and-prevention-tips/"><u>Troubleshooting Common DRM Failures: Solutions and Prevention Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadows-lifted-fixes-for-falls-patch/"><u>Win11 Shadows Lifted: Fixes for Fall's Patch</u></a></li>
 </ul></div>
 

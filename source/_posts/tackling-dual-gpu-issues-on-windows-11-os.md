@@ -1,7 +1,7 @@
 ---
 title: Tackling Dual-GPU Issues on Windows 11 OS
-date: 2024-11-30T00:32:34.677Z
-updated: 2024-12-02T19:35:41.801Z
+date: 2024-12-07T03:57:00.549Z
+updated: 2024-12-09T16:02:05.760Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
  Step 2:[**Update graphic cards drivers (Recommended)**](#m3)
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
 
@@ -84,7 +92,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -94,11 +102,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -106,10 +110,6 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -119,13 +119,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,18 +142,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-transforming-tones-techniques-in-free-fire/"><u>[New] Transforming Tones Techniques in Free Fire</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-igniting-online-frenzy-essential-trending-hashes/"><u>2024 Approved Igniting Online Frenzy Essential Trending Hashes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-peeking-behind-the-screen-instagram-audience-explorer/"><u>2024 Approved Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>2024 Approved Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-digital-experience-with-cookiebot-technology/"><u>Enhanced Digital Experience with Cookiebot Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixcomputerscreensideup-issue/"><u>FixComputerScreensideUp Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-black-screen-problems-when-presenting-your-screen-in-discord-chats/"><u>How to Overcome Black Screen Problems When Presenting Your Screen in Discord Chats</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-share-twitch-stream-on-facebook-for-2024/"><u>How to Share Twitch Stream on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-decoding-the-mechanics-of-subscriber-tracking/"><u>In 2024, Decoding the Mechanics of Subscriber Tracking</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pc-peace-stop-the-fallout-4-crash-cases/"><u>PC Peace: Stop the Fallout 4 Crash Cases</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-geforce-shader-overheat/"><u>Resolved GeForce Shader Overheat</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/serene-gaming-selection-quietest-phone-apps-for-2024/"><u>Serene Gaming Selection Quietest Phone Apps for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uninterrupted-gaming-on-rtx-graphics/"><u>Uninterrupted Gaming on RTX Graphics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-through-the-essentials-of-snap-camera-on-ms-teams-for-2024/"><u>[Updated] Navigating Through the Essentials of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amend-graphic-distortions-in-laptops/"><u>Amend Graphic Distortions in Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevating-graphic-fidelity-windows-7-and-intel-driver-revamp/"><u>Elevating Graphic Fidelity: Windows 7 & Intel Driver Revamp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-freezing-expert-troubleshooting-guide/"><u>How to Stop Dead by Daylight From Freezing : Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-detail-on-far-crys-rendering/"><u>Improving Detail on Far Cry's Rendering</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-c67-4g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme C67 4G Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-offline-issue-solutions-for-win1011/"><u>Laptop's GPU Offline Issue: Solutions for Win10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-wacom-graphic-tablet-drivers-released-download-and-install-now/"><u>Newest Wacom Graphic Tablet Drivers Released: Download & Install Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-broadcasting-olympic-games-live/"><u>Step-by-Step Guide: Broadcasting Olympic Games Live</u></a></li>
+<li><a href="https://win-popular.techidaily.com/tutorial-pemulihan-gambar-yang-hilang-secara-terperinci-pada-iphone-langkah-langkah-kecil-dan-easy/"><u>Tutorial Pemulihan Gambar Yang Hilang Secara Terperinci Pada iPhone: Langkah-Langkah Kecil Dan Easy!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-rejoices-with-fixed-nvidiaintel-graphics-card-pairing/"><u>Windows 10 Rejoices with Fixed Nvidia/Intel Graphics Card Pairing</u></a></li>
 </ul></div>
 

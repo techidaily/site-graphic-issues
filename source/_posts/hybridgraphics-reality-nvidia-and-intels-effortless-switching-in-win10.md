@@ -1,7 +1,7 @@
 ---
 title: "HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10"
-date: 2024-11-27T19:18:55.468Z
-updated: 2024-12-02T18:40:22.088Z
+date: 2024-12-02T22:32:02.796Z
+updated: 2024-12-10T01:46:33.643Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  Step 2:[**Update graphic cards drivers (Recommended)**](#m3)
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
 
@@ -85,6 +77,10 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -98,11 +94,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -110,6 +102,10 @@ Or click **Update All**  to automatically download and install the correct versi
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
 
@@ -120,12 +116,16 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,18 +142,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[New] 2024 Approved Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed/"><u>[New] In 2024, Inside The World of Adobe Cloud Storing Strategies and Alternative Spaces Reviewed</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-tiktok-potential-desktop-video-guide-for-2024/"><u>[Updated] Unlocking TikTok Potential Desktop Video Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-vlog-with-verve-following-in-the-footsteps-of-video-experts/"><u>[Updated] Vlog with Verve Following in the Footsteps of Video Experts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved The Ultimate VSCO Photo Workflow Analysis</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817987525-enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-gionee-f3-pro-by-drfone-android/"><u>Full Guide to Unlock Your Gionee F3 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-misses-full-screen-settings-in-win11/"><u>Monitor Misses Full Screen Settings in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-void-after-driver-addition/"><u>Silent Void After Driver Addition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-list-of-no-cost-4k-video-viewer-apps-compatible-with-windows-11-mac-osx-and-more/"><u>The Ultimate List of No-Cost 4K Video Viewer Apps Compatible with Windows 11, Mac OSX, and More!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-video-mov-in-mp4-online-e-gratis-con-handbrake/"><u>Trasforma I Tuoi Video MOV in MP4 Online E Gratis Con HandBrake</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-customization-of-gpu-display-settings/"><u>Unlocking Customization of GPU Display Settings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-perfecting-the-fury/"><u>'God of War': Perfecting the Fury</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-highlights-the-5-most-advanced-low-speed-recorders/"><u>[New] Highlights The 5 Most Advanced Low-Speed Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-immediate-window-image-on-pc-win/"><u>[New] In 2024, Immediate Window Image on PC (Win)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unleashing-potential-a-guide-for-solitary-showrunners/"><u>[New] Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-amplifying-video-clarity-on-youtube/"><u>[Updated] In 2024, Amplifying Video Clarity on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-maximize-your-payload-top-10-drone-giants/"><u>[Updated] Maximize Your Payload Top 10 Drone Giants</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-webcam-wisdom-for-professional-streaming-enthusiasts/"><u>[Updated] Webcam Wisdom for Professional Streaming Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-on-twitch-streams/"><u>Banishing Black Screens on Twitch Streams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calibrating-oversized-resolution-in-win11/"><u>Calibrating Oversized Resolution in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-strategies-to-combat-loading-lag/"><u>Efficient Strategies to Combat Loading Lag</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-next-generation-apples-cutting-edge-iphone-unveiled/"><u>Experience the Next Generation: Apple's Cutting-Edge iPhone Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fail-to-initialize-graphical-engine/"><u>Fail to Initialize Graphical Engine</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-resolved-nvidias-display-restored/"><u>GPU Glitch Resolved: Nvidia's Display Restored</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-12-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus 12 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-phasecope-pro-top-lightroom-replacements-unveiled/"><u>In 2024, PhaseCope Pro Top Lightroom Replacements Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-play-40c-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor Play 40C to Gmail | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-repair-strategies-for-gpus-only/"><u>Optimal Repair Strategies for GPUs Only</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-loading-issue-for-amds-detection-driver-in-win10/"><u>Resolved Loading Issue for AMD's Detection Driver in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharpening-your-window-view/"><u>Sharpening Your Window View</u></a></li>
 </ul></div>
 

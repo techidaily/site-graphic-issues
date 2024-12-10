@@ -1,7 +1,7 @@
 ---
 title: 950 'Code 43' Issue in Windows 11 - Complete Guide
-date: 2024-11-27T20:57:56.848Z
-updated: 2024-12-02T18:07:17.880Z
+date: 2024-12-08T17:53:39.047Z
+updated: 2024-12-09T20:41:11.665Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -57,17 +53,9 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -98,11 +86,7 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -111,13 +95,25 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,22 +155,24 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-engineer-your-fofacebook-experience/"><u>[New] Engineer Your FOFacebook Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-the-necessary-youtube-viewer-threshold/"><u>[New] In 2024, Navigating the Necessary Youtube Viewer Threshold</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-obs-streamers-toolkit-for-captivating-sessions-for-2024/"><u>[New] OBS Streamer’s Toolkit for Captivating Sessions for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-revolutionize-your-beat-matching-try-free-online-detectors-now/"><u>[Updated] Revolutionize Your Beat Matching – Try Free Online Detectors Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-earning-on-reddit-no-skills-required/"><u>[Updated] Step-by-Step Guide to Earning on Reddit - No Skills Required</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fix-insufficient-specifications/"><u>Boosting Performance: Fix Insufficient Specifications</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-at-last/"><u>Clear Windows Image at Last</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dodging-chroma-key-disasters-for-enhanced-videos-on-youtube/"><u>Dodging Chroma Key Disasters for Enhanced Videos on YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-microsoft-window-os-render-capabilities/"><u>Enhancing Microsoft Window OS Render Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-amd-framebug/"><u>Fixing AMD Framebug</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hidden-displays-restored-in-windows-10/"><u>Hidden Displays Restored in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-red-magic-9-proplus-by-fonelab-android-recover-data/"><u>How to recover lost data from Red Magic 9 Pro+?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung to Protect Your Individual Information</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimized-display-on-windows-11-updated/"><u>Optimized Display on Windows 11 Updated</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-purchasing-apples-latest-macbook-pro-and-mac-mini-without-waiting-in-line-insights-from-zdnet/"><u>Step-by-Step Guide: Purchasing Apple's Latest MacBook Pro & Mac Mini Without Waiting in Line - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-lava-storm-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Lava Storm 5G.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>[New] 2024 Approved Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-easy-to-use-screen-recording-software-including-apowersoft-for-2024/"><u>[New] Easy-to-Use Screen Recording Software, Including Apowersoft for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-intrepid-insights-top-10-undiscovered-vlc-commands/"><u>[New] In 2024, Intrepid Insights Top 10 Undiscovered VLC Commands</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-music-copyright-etiquette-on-ig/"><u>[Updated] 2024 Approved The Ultimate Guide to Music Copyright Etiquette on IG</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-mergecombinejoin-youtube-flv-videos/"><u>[Updated] How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispelled-the-shadow-direct-x-mystery-in-league-solved/"><u>Dispelled the Shadow: Direct X Mystery in League Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-glare-methods-to-stop-monitor-flashing/"><u>Eradicating Glare: Methods to Stop Monitor Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glitch-gone-preferences-permanently-preserved/"><u>Glitch Gone, Preferences Permanently Preserved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-disabled-on-win1011-laptops-a-guide/"><u>GPU Disabled on Win10/11 Laptops: A Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-instant-recording-shutdown-quicktime-hacks/"><u>In 2024, Instant Recording Shutdown QuickTime Hacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-capabilities-fully-engaged/"><u>Laptop's Graphics Capabilities Fully Engaged</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-display-troubles-seeing-beyond-the-black/"><u>Lenovo Display Troubles: Seeing Beyond the Black</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-pixel-misalignment-issues/"><u>Mend Pixel Misalignment Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-troubleshooting-guide/"><u>NVIDIA RTX Troubleshooting Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-gt-10-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-window-size-on-win-10-pc/"><u>Reduce Window Size on WIN 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-age-of-empires-iv-download-and-installation-from-the-microsoft-store-now-functional/"><u>Troubleshooting Guide: Age of Empires IV Download and Installation From the Microsoft Store, Now Functional</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>Updated Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repairing Flickering LCD Issues on Computers
-date: 2024-12-02T01:38:53.596Z
-updated: 2024-12-03T01:57:47.956Z
+date: 2024-12-03T21:57:49.494Z
+updated: 2024-12-10T02:09:32.686Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ You pressed the power button on your laptop to open it. You could hear your lapt
 1. [**Restore your system from a restore point**](#f)
 2. [**Update your device drivers**](#g)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Restart the explorer.exe process
 
 You may get the black screen issue because the explorer.exe process on your computer has been closed (possibly by a virus). It is a process that manages the desktop, taskbar, etc, on your operating system. Closing it can make your desktop and taskbar invisible, and you get the black screen issue. To fix this issue, you can check and restart the process manually. To do so:**1)**Press the**Ctrl**,**Shift**and**Esc**key on your keyboard at the same time. This will open Task Manager.**2)**Click the**Details**tab (or the**Processes**tab in Windows 7’s Task Manager) and see if there exists a process called “**explorer.exe**”
@@ -54,22 +50,30 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30cc7ac4773.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
 
@@ -85,10 +89,6 @@ It has gone wrong and stops your laptop from completing the self test. You can t
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
@@ -103,20 +103,20 @@ On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Update your device driver
@@ -126,7 +126,7 @@ You may get various hardware issues (not just this black screen one) if your dev
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
@@ -153,22 +153,19 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-beyond-basics-pro-tips-for-sticker-queries-on-instagram/"><u>[New] 2024 Approved Beyond Basics Pro Tips for Sticker Queries on Instagram</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-multimedia-text-producer/"><u>[New] In 2024, Multimedia Text Producer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/triumph-mhw-error-12-dispatched-graphics-restored/"><u>[Triumph] MHW Error 12 Dispatched, Graphics Restored</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-iphone-filmmaking-achieving-complete-circles/"><u>2024 Approved IPhone Filmmaking Achieving Complete Circles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/cutting-edge-strategies-to-minimize-vids-for-instagram-on-macos-for-2024/"><u>Cutting-Edge Strategies to Minimize Vids for Instagram on macOS for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/experience-next-level-performance-4k-touchscreen-amd-nuc-mini-pc-equipped-with-ryzen-9-and-massive-memorystorage-capacity/"><u>Experience Next-Level Performance: 4K Touchscreen AMD NUC Mini PC Equipped with Ryzen 9 and Massive Memory/Storage Capacity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fullscreen-not-showing-problem-with-monitor-and-win11/"><u>Fullscreen Not Showing, Problem with Monitor & Win11?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-9a-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 9A Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/inside-look-how-youtuber-shorts-work-for-2024/"><u>Inside Look How Youtuber Shorts Work for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-dead-pixels-rapidly-restore-monitor-signal/"><u>No More Dead Pixels: Rapidly Restore Monitor Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-panel-access-no-more-denied/"><u>NVIDIA Panel Access No More Denied</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-graphics-issue-fixed/"><u>Overwatch Graphics Issue Fixed</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-non-detection-of-razers-by-synapse-in-windows-11/"><u>Resolving Non-Detection of Razers by Synapse in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-cryptic-direct-x-malfunction-in-lol/"><u>Unveiling the Cryptic Direct X Malfunction in LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/voiceover-vitality-energizing-your-powerpoint-presentations-for-2024/"><u>Voiceover Vitality Energizing Your PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wdf-drivers-crisis-averted-stop-bsod-in-windows-os/"><u>WDF Drivers Crisis Averted: Stop BSOD in Windows OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715859841980-new-discovering-androids-premier-mobas-ranked/"><u>[New] Discovering Android's Premier MOBAs Ranked!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-visual-snippet-retriever/"><u>[Updated] 2024 Approved Visual Snippet Retriever</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-line-effects-from-laptop-displays-quickly/"><u>Eliminate Ghost Line Effects From Laptop Displays Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-use-your-switch-pro-controller-on-steam-for-2024/"><u>How to Use Your Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nubia-z50s-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nubia Z50S Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-content-potential-with-youtubes-movie-maker/"><u>In 2024, Unlock Your Content Potential with YouTube's Movie Maker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/refresh-your-tech-a-user-friendly-guide-to-factory-resetting-your-apple-tablet-or-phone/"><u>Refresh Your Tech: A User-Friendly Guide to Factory Resetting Your Apple Tablet or Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-tricks-capturing-and-downloading-your-favorite-instagram-live-sessions/"><u>Simple Tricks: Capturing and Downloading Your Favorite Instagram Live Sessions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-13t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi 13T Phone Pattern Lock</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-11-30T02:11:12.887Z
-updated: 2024-12-03T01:27:32.424Z
+date: 2024-12-03T19:21:51.456Z
+updated: 2024-12-09T20:09:42.621Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
@@ -57,17 +57,9 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
@@ -87,7 +79,15 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -97,17 +97,9 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -116,9 +108,17 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,16 +144,18 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-zoom-optimization-techniques-for-windows-11-users/"><u>[New] 2024 Approved Zoom Optimization Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-total-zen-closing-virtual-horizons-for-2024/"><u>[New] Total Zen Closing Virtual Horizons for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-making-sense-of-typical-podcaster-profits/"><u>[Updated] 2024 Approved Making Sense of Typical Podcaster Profits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/comerror-detected-in-winos-resolved-issue/"><u>COMError Detected in WinOS - Resolved Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a79-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A79 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-sony-xperia-10-v-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Sony Xperia 10 V Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-tales-leading-academies-for-aspiring-narrators-for-2024/"><u>Mastering Tales Leading Academies for Aspiring Narrators for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818160725-opengl-glitch-spotted-nvidia-gpu-fixed-up/"><u>OpenGL Glitch Spotted - Nvidia GPU Fixed Up</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnecting-displayport-without-fuss-or-risk/"><u>Reconnecting DisplayPort Without Fuss or Risk</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resetting-display-to-use-gpu-on-win1011-laptops/"><u>Resetting Display to Use GPU on Win10/11 Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blackout-effect-driver-change/"><u>Blackout Effect: Driver Change</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-for-operating-android-apps-seamlessly-on-windows-11-systems/"><u>Comprehensive Tutorial for Operating Android Apps Seamlessly on Windows 11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-warped-display-with-minimal-effort/"><u>Fix Warped Display with Minimal Effort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-blurry-vision-win11-enhancement/"><u>Fixed Blurry Vision: Win11 Enhancement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-8-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 8?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A34 5G?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-apps-revolutionizing-video-talks-for-2024/"><u>Innovative Apps Revolutionizing Video Talks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-blank-windows-display/"><u>Resetting Blank Windows Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-display-inversion-issue-w7-style/"><u>Resolve Display Inversion Issue, W7 Style</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issue-total-war-saga-troy-stability-enhanced-for-pc/"><u>Resolved Issue: Total War Saga - Troy Stability Enhanced for PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-visual-output-windows-7-style/"><u>Reverse Visual Output, Windows 7 Style</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-12-youtube-game-openers-both-free-and-fee-based-options-for-2024/"><u>Top 12 YouTube Game Openers Both Free & Fee-Based Options for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208089290-valorant-perpetual-boot-loop-heres-how-to-resolve-it/"><u>Valorant Perpetual Boot Loop? Here's How to Resolve It!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Display Brightness on Portable Devices
-date: 2024-11-27T17:29:35.082Z
-updated: 2024-12-02T20:22:20.545Z
+date: 2024-12-04T01:04:37.301Z
+updated: 2024-12-09T17:25:15.032Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ You may get the black screen issue because the explorer.exe process on your comp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30d0f7b8ced.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  “Explorer.exe” in Windows 10’s Task Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30d10eb62cd.jpg)
@@ -49,22 +53,22 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30cc7ac4773.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
@@ -91,32 +95,28 @@ Once your laptop recovers, you can restore your Windows from a system restore po
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On Windows 10, click**Create a restore** **point**,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And then in the dialog popping up, click the**System Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Update your device driver
@@ -126,7 +126,7 @@ You may get various hardware issues (not just this black screen one) if your dev
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
@@ -153,18 +153,24 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamlining-with-obs-essential-tips-for-android-users/"><u>[New] In 2024, Streamlining with OBS Essential Tips for Android Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-youtube-editing-using-finalcut-pro/"><u>2024 Approved Navigating the World of YouTube Editing Using FinalCut Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/avoiding-common-greenscreen-errors-in-online-broadcasts/"><u>Avoiding Common Greenscreen Errors in Online Broadcasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-up-your-lenovo-laptops-screen/"><u>Brighten Up Your Lenovo Laptop's Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-top-4-features-to-simplify-and-accelerate-your-web-design-journey/"><u>ChatGPT's Top 4 Features to Simplify and Accelerate Your Web Design Journey</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dive-deep-into-the-world-of-lenovos-compact-9-inch-tab-experience/"><u>Dive Deep Into the World of Lenovo's Compact 9-Inch Tab Experience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfx-init-unsuccessful-attempt/"><u>GFX Init: Unsuccessful Attempt</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lava-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lava Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-10-proplus-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 10 Pro+ 5G Lock Screen Password?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/managing-gpu-anomalies-without-causing-total-shutdown/"><u>Managing GPU Anomalies Without Causing Total Shutdown</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-halt-in-nvidia-installation/"><u>Resolved: Halt in NVIDIA Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-your-system-update-intel-3000-win11-driver/"><u>Streamline Your System: Update Intel 3000 Win11 Driver</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-screen-recorders-for-todays-windows-users/"><u>[New] In 2024, Essential Screen Recorders for Today's Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-how-to-fix-no-signal-on-monitor-quickly-and-easily/"><u>[SOLVED] How to Fix No Signal on Monitor Quickly & Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-framefusion-creator-for-2024/"><u>[Updated] FrameFusion Creator for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-what-makes-youtube-and-dailymention-stand-out/"><u>[Updated] In 2024, What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimize-your-videos-quickly-with-story-remix-in-windows-10-photos/"><u>[Updated] Optimize Your Videos Quickly with Story Remix in Windows 10 Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-start-smart-free-video-intro-templates/"><u>[Updated] Start Smart Free Video Intro Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimizing-live-obs-broadcasts-for-fb-viewers/"><u>2024 Approved Optimizing Live OBS Broadcasts for FB Viewers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-intel-graphic-update-in-windows-10/"><u>Accelerate Intel Graphic Update in WIndows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dial-down-the-displays-eliminate-win7s-erratic-behaviors/"><u>Dial Down the Displays: Eliminate Win7's Erratic Behaviors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-displays-via-nvidia-settings-panel/"><u>Enabling Custom Displays via NVIDIA Settings Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-energize-your-gpu-fans-suddenly/"><u>How to Energize Your GPU Fans Suddenly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>In 2024, Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photographic-presentation-prowess-frame-tech/"><u>In 2024, Photographic Presentation Prowess Frame Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-c1900101-error-in-windows-10-setup/"><u>Resolving C1900101 Error in Windows 10 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-adventure-into-advanced-high-definition-tvs-4k/"><u>The Adventure Into Advanced High Definition TVs - 4K</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-a2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi A2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-fixed-switchable-graphics-dilemma/"><u>Win11: Fixed Switchable Graphics Dilemma</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-video-perfection-repairing-cameras-of-today-and-tomorrow/"><u>Zoom Video Perfection: Repairing Cameras of Today & Tomorrow</u></a></li>
 </ul></div>
 

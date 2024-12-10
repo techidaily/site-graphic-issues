@@ -1,7 +1,7 @@
 ---
 title: How to Get League of Legends Running Smoothly Again – Expert Tips
-date: 2024-12-02T04:13:58.204Z
-updated: 2024-12-02T17:30:04.279Z
+date: 2024-12-08T06:39:56.327Z
+updated: 2024-12-10T03:15:56.678Z
 tags:
   - win11
   - win10
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -93,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -115,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -128,27 +132,19 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -188,17 +188,14 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-screenskip-videocapturer-kit/"><u>[New] 2024 Approved ScreenSkip Videocapturer Kit</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-adobes-shake-mitigation-in-photoshop-worth-it/"><u>[New] Adobe's Shake Mitigation in Photoshop, Worth It?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-mobile-enhancements-with-androids-lightroom-app/"><u>2024 Approved Examining Mobile Enhancements with Android's Lightroom App</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-dark-mode-on-lenovo-devices/"><u>Eliminating Dark Mode on Lenovo Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-engine-start-up-halted/"><u>Graphic Engine Start Up Halted</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/handling-gpu-failures-amidst-active-computers/"><u>Handling GPU Failures Amidst Active Computers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-decoding-whatsapps-vocal-messaging-innovation/"><u>In 2024, Decoding WhatsApp's Vocal Messaging Innovation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-shadowed-by-new-gfx-card/"><u>Monitor Shadowed by New GFX Card</u></a></li>
-<li><a href="https://win11.techidaily.com/plain-programs-with-hidden-power-drain-in-windows-11-pcs/"><u>Plain Programs with Hidden Power Drain in Windows 11 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-glitch/"><u>Solved: Windows 11 Display Glitch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-seamlessly-add-vimeo-videos-to-insta-feed/"><u>[Updated] 2024 Approved How to Seamlessly Add Vimeo Videos to Insta Feed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlock-expertise-proven-hidden-window-11-strategies-for-everyday-users/"><u>[Updated] 2024 Approved Unlock Expertise Proven, Hidden WINDOW 11 Strategies for Everyday Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone XS Max</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dampen-win11-screen-anomalies/"><u>Dampen Win11 Screen Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-and-stabilize-no-more-pc-freezes-for-f4/"><u>Fix and Stabilize: No More PC Freezes for F4</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-wevideo-where-video-creation-meets-simplicity/"><u>In 2024, WeVideo Where Video Creation Meets Simplicity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-hdmi-connection-between-notebook-and-television-screen/"><u>Reviving HDMI Connection Between Notebook and Television Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-qr-code-scanners-top-10-solutions/"><u>Troubleshooting iPhone QR Code Scanners: Top 10 Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-high-definition-the-essence-of-4k/"><u>Unveiling High Definition: The Essence of 4K</u></a></li>
 </ul></div>
 

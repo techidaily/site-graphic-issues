@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden UI in Win10's Advanced Settings
-date: 2024-11-26T22:51:11.760Z
-updated: 2024-12-03T03:41:11.125Z
+date: 2024-12-03T05:27:35.922Z
+updated: 2024-12-09T17:37:17.856Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
@@ -49,23 +49,19 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -80,24 +76,28 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -122,18 +122,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-settings-not-showing-in-win11/"><u>[Fixed] Advanced Settings Not Showing in Win11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-youtube-shorts-a-beginners-guide-to-video-crafting-for-2024/"><u>[New] Exploring YouTube Shorts A Beginner's Guide to Video Crafting for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-live-tv-on-your-desktop-windows-pc-masterclass-in-capturing-screens/"><u>[New] Live TV on Your Desktop Windows PC Masterclass in Capturing Screens</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone/"><u>[Updated] 2024 Approved The Ultimate Methods of Acquiring IPodcasts for Your iPhone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>[Updated] In 2024, Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-amped-arcs-and-zigzags-in-olympic-speed/"><u>2024 Approved Amped Arcs & Zigzags in Olympic Speed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accessing-hidden-screen-settings-in-nvidia/"><u>Accessing Hidden Screen Settings in Nvidia</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-lenovo-driver-update-yoga-900-pro/"><u>Hassle-Free Lenovo Driver Update: Yoga 900 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a78-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A78 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-up-in-performance-amd-hd-6950-w11-drivers-update/"><u>Step-Up in Performance - AMD HD 6950 W11 Drivers Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tactics-to-support-unsupported-freesync-on-amd/"><u>Tactics to Support Unsupported FreeSync on AMD</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tips-for-perfecting-sound-tracks-start-with-auditions-fade-in/"><u>Tips for Perfecting Sound Tracks Start with Audition's Fade-In</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-magixs-acid-pro-reviewed-comparing-similar-software/"><u>[New] Magix's ACID Pro Reviewed Comparing Similar Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unveiling-tiktoks-pfp-conventions-and-meanings/"><u>[Updated] In 2024, Unveiling TikTok's PFP Conventions and Meanings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-the-finest-budget-friendly-webm-players/"><u>A Comprehensive Guide to the Finest Budget-Friendly WebM Players</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/blink-the-power-of-thinking-without-thinking/"><u>Blink: The Power of Thinking Without Thinking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-on-lenovo-pcs/"><u>Bring Back the Colors on Lenovo PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-narratives-the-leading-10-vector-editors-for-2024/"><u>Crafting Visual Narratives The Leading 10 Vector Editors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-light-win11-black-screen-resolved-post-fall/"><u>From Dark to Light: Win11 Black Screen Resolved Post-Fall</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-zte-blade-a73-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From ZTE Blade A73 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-visual-output-from-gpu/"><u>Recovered Visual Output From GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-glare-and-glitches-pro-7-edition/"><u>Repairing Glare and Glitches: Pro 7 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-windows-system-hiccups-with-fixed-drivers/"><u>Resolving Windows System Hiccups with Fixed Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-sets-googles-newly-released-palm-2-apart-in-natural-language-understanding/"><u>What Sets Google's Newly Released PaLM 2 Apart in Natural Language Understanding?</u></a></li>
 </ul></div>
 

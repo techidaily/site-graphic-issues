@@ -1,7 +1,7 @@
 ---
 title: "Restoring Full-Resolution Customization: Win11's Solution"
-date: 2024-12-02T04:40:36.883Z
-updated: 2024-12-03T00:10:35.831Z
+date: 2024-12-03T21:37:11.594Z
+updated: 2024-12-09T18:59:48.145Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -44,19 +44,11 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -78,10 +70,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
@@ -91,6 +79,10 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -106,18 +98,26 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
@@ -148,19 +148,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-superior-asmr-microphone-guide-you-must-read/"><u>[New] 2024 Approved Superior ASMR Microphone Guide You Must Read</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-laughter-lab-top-7-sketches-and-vignettes-for-youtubers/"><u>[New] Laughter Lab Top 7 Sketches & Vignettes for YouTubers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-quantum-hdr-techniques-for-professionals/"><u>[Updated] 2024 Approved Mastering Quantum HDR Techniques for Professionals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-tutorial-personalize-and-elevate-your-short-videos-for-2024/"><u>[Updated] Step-by-Step Tutorial Personalize and Elevate Your Short Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/experience-uninterrupted-apex-gameplay/"><u>Experience Uninterrupted Apex Gameplay</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-e13-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-breathe-new-life-into-old-videos-the-8-best-free-online-quality-enhancers/"><u>In 2024, Breathe New Life Into Old Videos The 8 Best Free Online Quality Enhancers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mute-monitor-mayhem-with-ease/"><u>Mute Monitor Mayhem with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-laptop-screen-what-are-my-options/"><u>No Laptop Screen: What Are My Options?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211010401-9781088238165-nuevamente-juntos/"><u>Nuevamente Juntos | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-blackout-with-radeon/"><u>Screen Blackout with Radeon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-gpu-not-recognized-2020/"><u>System Alert: GPU Not Recognized [2020]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-6-best-nft-services-for-creative-geniuses/"><u>The Ultimate Guide to 6 Best NFT Services for Creative Geniuses</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818151303-unleash-peak-performance-windows-10-update-with-amd-graphics/"><u>Unleash Peak Performance: Windows 10 Update with AMD Graphics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-dissecting-the-newest-features-of-facebook/"><u>[Updated] Dissecting the Newest Features of Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-evaluating-vlc-for-screen-recordings/"><u>[Updated] In 2024, Evaluating VLC for Screen Recordings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-msdn-window-system-hiccups/"><u>Correcting MSDN Window System Hiccups</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-no-more-problematic/"><u>Direct3D Initialization No More Problematic</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-remote-start-how-to-configure-wake-on-lan-on-windows-10-and-11/"><u>Effortless Remote Start: How to Configure Wake-on-LAN on Windows 10 & 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-13-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 13 Pro Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>In 2024, Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987905444-madden-22-wont-launch-here-are-fast-and-effective-fixes-to-get-back-in-the-game/"><u>Madden 22 Won't Launch? Here Are Fast and Effective Fixes to Get Back in the Game</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-resolution-zero-signal-on-dp-ports/"><u>Quick Resolution: Zero Signal on DP Ports</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sight-savers-guide-to-eliminating-display-flicker/"><u>Sight Saver's Guide to Eliminating Display Flicker</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-alert-understanding-the-recent-twitter-fraud-craze-metas-trustworthy-badge-launch-and-chatgpt-4-demystified/"><u>Stay Alert! Understanding the Recent Twitter Fraud Craze, Meta's Trustworthy Badge Launch, and ChatGPT-4 Demystified</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles-for-2024/"><u>Unveiling the Immersive Era VR's Progress & Upcoming Struggles for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-through-apex-with-confidence/"><u>Zoom Through Apex with Confidence</u></a></li>
 </ul></div>
 

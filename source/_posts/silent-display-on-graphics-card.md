@@ -1,7 +1,7 @@
 ---
 title: Silent Display on Graphics Card
-date: 2024-11-30T17:06:13.941Z
-updated: 2024-12-03T01:13:46.296Z
+date: 2024-12-04T00:59:36.888Z
+updated: 2024-12-10T06:12:31.246Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the cable and PCIe connections
 
  When your newly installed GPU has no display, the first thing you check is to ensure that the display cable you’re using is securely and safely inserted into the right ports on the motherboard, and that it’s working just fine.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. See if an additional power supply is required
 
@@ -81,7 +73,7 @@ If this is not the problem, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
@@ -99,10 +91,6 @@ If this is not the problem, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -110,10 +98,6 @@ If this is not the problem, please move on.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Make sure your computer can recognize your GPU
 
@@ -124,6 +108,10 @@ If this is not the problem, please move on.
  When this tool is downloaded, install it as per the on-screen instructions. Then launch it to check your GPU status and information like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are the things you should pay extra attention to:
 
@@ -137,6 +125,10 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -147,12 +139,12 @@ Here are the things you should pay extra attention to:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
@@ -162,14 +154,22 @@ Here are the things you should pay extra attention to:
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -200,22 +200,16 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-convert-vimeo-hd-mp4-format-guide/"><u>2024 Approved Convert Vimeo HD MP4 Format Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c12-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C12 Plus to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-43-on-graphics-solved/"><u>Error 43 on Graphics Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-driver-crisis-resolved/"><u>Graphics Driver Crisis Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hasten-clear-video-transmission/"><u>Hasten Clear Video Transmission</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone | Stellar</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-x5-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco X5 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconfigure-display-mode-in-win10/"><u>Reconfigure Display Mode in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resetting-lost-window-on-pc-windows/"><u>Resetting Lost Window on PC [WINDOWS]</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-non-functional-xbox-controller/"><u>Reviving Your Non-Functional Xbox Controller</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-macbook-repairs-with-this-revolutionary-laptop-protector-insight/"><u>Save Big on MacBook Repairs with This Revolutionary Laptop Protector Insight</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-tackle-non-functioning-asus-cam/"><u>Steps to Tackle Non-Functioning Asus Cam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-to-restore-vivid-colors-in-displays/"><u>Strategies to Restore Vivid Colors in Displays</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-5-key-points-for-choosing-the-perfect-smartwatch/"><u>The Ultimate Checklist: 5 Key Points for Choosing the Perfect Smartwatch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-solution-to-stabilize-amd-radeon-r9-on-win10/"><u>Unveiling the Solution to Stabilize AMD Radeon R9 on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-configurations-show-on-win10-displays/"><u>[FIXED] Advanced Configurations Show on Win10 Displays</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-engage-more-dissuade-less-top-6-ways-to-increase-watch-time-and-stayers/"><u>[New] 2024 Approved Engage More, Dissuade Less Top 6 Ways to Increase Watch Time and Stayers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-empowerment-in-film-a-selection-of-inspiring-titles/"><u>[Updated] 2024 Approved Empowerment in Film A Selection of Inspiring Titles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-profit-strategies-for-beauty-streams/"><u>2024 Approved Profit Strategies for Beauty Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-boundaries-with-6-top-rated-nft-services/"><u>Breaking Boundaries with 6 Top-Rated NFT Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-creativity-with-advanced-tiktok-filters/"><u>Captivating Creativity with Advanced TikTok Filters</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-cryptic-characters-from-computer-displays/"><u>Clearing Cryptic Characters From Computer Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dissecting-and-fixing-youtubes-chroma-key-errors/"><u>Dissecting and Fixing YouTube's Chroma Key Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hybrid-card-problem-in-windows-11/"><u>Fixing Hybrid Card Problem in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-to-black-screen-in-windows-11-post-fall-release/"><u>Solution to Black Screen in Windows 11 Post Fall Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-your-path-through-original-diablo/"><u>Strategizing Your Path Through Original Diablo</u></a></li>
 </ul></div>
 

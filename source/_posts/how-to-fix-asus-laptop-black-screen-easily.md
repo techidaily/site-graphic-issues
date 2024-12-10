@@ -1,7 +1,7 @@
 ---
 title: How To Fix Asus Laptop Black Screen Easily
-date: 2024-11-26T04:13:56.213Z
-updated: 2024-12-03T02:20:30.488Z
+date: 2024-12-09T06:15:59.373Z
+updated: 2024-12-09T16:26:08.598Z
 tags:
   - win11
   - win10
@@ -30,13 +30,25 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Asus laptop
 
@@ -83,10 +95,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -108,11 +116,15 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
@@ -133,23 +145,15 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
@@ -157,7 +161,7 @@ So you can try disabling fast startup to see if it does the trick:
 6. Restart your computer to see if the black screen issue has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
@@ -170,10 +174,6 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -201,24 +201,16 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-superior-viewing-with-a-closer-examination-of-p2715q/"><u>[New] 2024 Approved Unveiling Superior Viewing with a Closer Examination of P2715Q</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-uncovering-illegal-gain-from-false-subscriber-sales/"><u>[New] Uncovering Illegal Gain From False Subscriber Sales</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-finding-classic-facebook-content-for-2024/"><u>[Updated] The Art of Finding Classic Facebook Content for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi 12 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/asus-tuf-gaming-f17-zu-ssd-aufrusten-eine-komplette-anleitung-fur-den-perfekten-upgrade-prozess/"><u>ASUS TUF Gaming F17 Zu SSD Aufrüsten: Eine Komplette Anleitung Für Den Perfekten Upgrade-Prozess</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diablo-ii-resurrected-installation-issues-solved/"><u>Diablo II: Resurrected Installation Issues Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-advice-troubleshoot-your-obs-mic-with-these-top-6-remedies/"><u>Expert Advice: Troubleshoot Your OBS Mic with These Top 6 Remedies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-get-league-of-legends-running-smoothly-again-expert-tips/"><u>How to Get League of Legends Running Smoothly Again – Expert Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-discord-voice-chat-during-gaming-game-audio-captured-successfully-now/"><u>Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-navigating-personal-brand-identity-high-engagement/"><u>In 2024, Navigating Personal Brand Identity [High Engagement]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pc-troubleshooting-guide-deciphering-double-impact-incidents/"><u>PC Troubleshooting Guide: Deciphering Double Impact Incidents</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfect-playback-every-time-correcting-your-games-audio-problems-with-these-proven-strategies/"><u>Perfect Playback Every Time: Correcting Your Game's Audio Problems with These Proven Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/remove-unwanted-contacts-a-comprehensive-snapchat-friend-removal-strategy/"><u>Remove Unwanted Contacts: A Comprehensive Snapchat Friend Removal Strategy</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-t2-pro-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo T2 Pro 5G on Mac</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/reviewing-samsungs-latest-wearable-tech-the-advanced-features-of-galaxy-watch-active-2/"><u>Reviewing Samsung's Latest Wearable Tech: The Advanced Features of Galaxy Watch Active 2</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-your-darkest-dungeon-2-stalling-problems-no-more-pc-freezes/"><u>Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-elite-selection-best-cordless-computer-mice-for-this-year/"><u>The Elite Selection: Best Cordless Computer Mice for This Year</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-resource-navigating-icloud-backup-with-ease-and-expertise/"><u>The Ultimate Resource: Navigating iCloud Backup with Ease and Expertise</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ultimate-fixes-for-a-seamless-halo-infinite-gaming-session/"><u>Ultimate Fixes for a Seamless Halo Infinite Gaming Session</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sony-fdr-x1000-videography-complete-review-edition/"><u>[New] 2024 Approved Sony FDR-X1000 Videography - Complete Review Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-10-choices-the-ultimate-gb-emulator-list-android/"><u>[New] 2024 Approved Top 10 Choices The Ultimate GB Emulator List, Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>[Updated] Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>2024 Approved Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-admin-restriction-notifications-in-winsec/"><u>Dealing with 'Admin Restriction' Notifications in WinSec</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-incompatibility-eliminated-for-accelerated-gaming/"><u>Direct3D Incompatibility Eliminated for Accelerated Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/downsize-window-space-in-win-10/"><u>Downsize Window Space in WIN 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>In 2024, 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-8-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 8 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharp-focus-quick-cure-for-amd-and-tarkov-bug/"><u>Sharp Focus: Quick Cure for AMD & Tarkov Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-windows-8s-safety-sequence-how-to-remove-graphics-drivers/"><u>Understanding Windows 8'S Safety Sequence: How to Remove Graphics Drivers</u></a></li>
 </ul></div>
 

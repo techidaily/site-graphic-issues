@@ -1,7 +1,7 @@
 ---
 title: Quick Fix to OpenGL Issue - NVIDIA GPU Affected
-date: 2024-12-01T20:58:15.223Z
-updated: 2024-12-03T03:43:06.394Z
+date: 2024-12-06T06:36:15.361Z
+updated: 2024-12-10T00:13:14.100Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -53,21 +57,17 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -83,10 +83,14 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Go to the following registry keys:
@@ -101,24 +105,20 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,24 +144,21 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-5-superior-recording-gear-options-for-ipad-and-mac-owners/"><u>[New] 5 Superior Recording Gear Options for iPad & Mac Owners</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-essential-final-cut-pro-training-manual/"><u>[New] Essential Final Cut Pro Training Manual</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>[New] The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mirror-your-gameplay-today/"><u>2024 Approved Mirror Your Gameplay Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-protocol-normalized/"><u>Display Protocol Normalized</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-mod-conflicts-with-civ-5-pc/"><u>Fixing Mod Conflicts with Civ 5 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>In 2024, Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lighten-load-on-your-laptop-quick-update-to-intels-gfx-driver/"><u>Lighten Load on Your Laptop - Quick Update to Intel's GFX Driver</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-masterful-solutions-to-fix-issues-in-mordhau/"><u>No More Crashes - Masterful Solutions to Fix Issues in Mordhau</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-efficient-downloads-tips-from-microsofts-store/"><u>Quick and Efficient Downloads: Tips From Microsoft’s Store</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnect-at-a-glance-speedy-fixes-for-no-signal/"><u>Reconnect at a Glance: Speedy Fixes for No Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnect-without-struggle-displayport-fix-guide/"><u>Reconnect Without Struggle: DisplayPort Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-absent-display-in-win10/"><u>Resolving Absent Display in Win10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/samsung-reclaims-lead-in-global-smartphone-shipments-surpassing-apple-rival-manufacturer-closes-gap/"><u>Samsung Reclaims Lead in Global Smartphone Shipments, Surpassing Apple; Rival Manufacturer Closes Gap</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-examining-instagram-video-selfie-credibility-questions/"><u>[New] In 2024, Examining Instagram Video Selfie Credibility Questions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-iphone-burst-photography/"><u>[Updated] In 2024, Mastering iPhone Burst Photography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722953654249-approach-consider-the-role-of-uncertainty-in-seismic-design/"><u>Approach: Consider the Role of Uncertainty in Seismic Design</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/black-screen-after-installing-graphics-card-driver/"><u>Black Screen After Installing Graphics Card Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-anthem-responsiveness/"><u>Boost Anthem Responsiveness</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-enhanced-performance-apple-launches-revamped-macbook-air-with-m3-chip-in-13-and-15-inch-variants-expert-insights/"><u>Discover the Enhanced Performance: Apple Launches Revamped MacBook Air with M3 Chip in 13- and 15-Inch Variants | Expert Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-gaming-experience-get-latest-nvidia-drivers/"><u>Elevate Gaming Experience: Get Latest Nvidia Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp/"><u>GIFs-to-Glam A Complete Guide to Creating Emojis on Telegram & WhatsApp</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-11-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 11 How to Bypass?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-online-titles-simplified/"><u>In 2024, Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-mystery-solved-on-black-screens-win11/"><u>Mouse Mystery Solved on Black Screens Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-graphics-setup-on-windows/"><u>Secured Graphics Setup on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-unseen-secrets-of-optimizing-win11-performance-for-2024/"><u>The Unseen Secrets of Optimizing Win11 Performance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'God of War': Enhancing Action Sequences"
-date: 2024-11-26T16:56:08.182Z
-updated: 2024-12-03T04:32:32.739Z
+date: 2024-12-06T00:02:03.598Z
+updated: 2024-12-09T17:21:22.905Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  God of War performance issue is related to the graphics. If you’re using a outdated or corrupted graphic driver, you might encounter performance issue. There are two ways to update your graphic driver, manually and automatically.
@@ -55,19 +51,15 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify game files
 
@@ -80,14 +72,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
-If this doesn’t fix the problem, take a look at the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this doesn’t fix the problem, take a look at the next fix.
 
 ## Fix 4: Check for system updates
 
@@ -98,10 +94,6 @@ If this doesn’t fix the problem, take a look at the next fix.
 2. Click **Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -122,8 +114,16 @@ If the latest updates don’t work for you, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -147,24 +147,21 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[New] Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-zeroing-in-on-the-high-def-spectacle-samsungs-ue590-review/"><u>[Updated] Zeroing in on the High-Def Spectacle - Samsung's UE590 Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieve-maximum-direct3d-potential-with-gpu-acceleration-fixes/"><u>Achieve Maximum Direct3D Potential with GPU Acceleration Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-com-exceptions-on-windows-platform/"><u>Addressing COM Exceptions on Windows Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-allies-for-wellness-discover-5-supportive-bots/"><u>AI Allies for Wellness: Discover 5 Supportive Bots</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-windows-7-with-latest-intel-gfx-drivers/"><u>Boosting Windows 7 with Latest Intel Gfx Drivers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/crystal-carousel-at-the-olympics/"><u>Crystal Carousel at the Olympics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enable-gpu-functionality-in-windows-1110-devices/"><u>Enable GPU Functionality in Windows 11/10 Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-evaluation-of-the-elgato-stream-deck-neo-enhancing-user-interface-for-gamers-and-creators-alike/"><u>Expert Evaluation of the Elgato Stream Deck Neo: Enhancing User Interface for Gamers and Creators Alike</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-electric-vehicles-performance-edge-over-gasoline-options/"><u>Exploring the Reasons Behind Electric Vehicles' Performance Edge Over Gasoline Options</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 11 Pro Without Apple ID Password?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>In 2024, Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-not-found-issue/"><u>Resolve: Graphics Not Found Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/scale-down-windows-monitor-size/"><u>Scale Down Windows Monitor Size</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-jotunheim-raid-the-war-of-the-worlds/"><u>[New] 2024 Approved Jotunheim Raid The War of the Worlds</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>[New] Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-display-driver-stopped-working-and-has-recovered/"><u>[Solved] Nvidia Display Driver Stopped Working and Has Recovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-engagement-enhancing-videos-with-pro-editing-skills/"><u>[Updated] Elevate Engagement Enhancing Videos with Pro Editing Skills</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-iphones-full-screen-memories/"><u>[Updated] Utilizing iPhone's Full-Screen Memories</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-device-visual-stability-no-more-flickering-issues/"><u>Dell Device Visual Stability: No More Flickering Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disabled-gpu-how-to-turn-it-on-for-windows-1011/"><u>Disabled GPU - How to Turn It On for Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-video-card-errors-from-minecraft/"><u>Eliminate Video Card Errors From Minecraft</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-unlocking-access-to-user-content-in-flipbooks-on-flipbuilder/"><u>Guide: Unlocking Access to User Content in Flipbooks on FlipBuilder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-and-easy-installation-of-windows-11-friendly-touchpad-driver-for-acer-devices-download-now/"><u>Secure & Easy Installation of Windows 11 Friendly Touchpad Driver for Acer Devices - Download Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-ocidll-not-detected-issue-on-windows/"><u>Step-by-Step Fix for the Oci.dll Not Detected Issue on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-correct-error-code-c1900101-when-installing-windows-11/"><u>Steps to Correct Error Code C1900101 When Installing Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-correct-mfc42dll-not-detected-errors/"><u>The Ultimate Solution to Correct Mfc42.dll Not Detected Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-80s-vhs-tricks-for-dynamic-edits/"><u>Ultimate Guide 80'S VHS Tricks for Dynamic Edits</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winerror-unhandled-exception-wdf-blue-screen/"><u>WinError: Unhandled Exception, WDF Blue Screen</u></a></li>
 </ul></div>
 

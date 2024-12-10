@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-12-01T01:36:22.186Z
-updated: 2024-12-03T01:29:43.777Z
+date: 2024-12-04T16:14:22.806Z
+updated: 2024-12-10T04:24:14.510Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
  Running into a black screen on your Asus laptop? This can be very frustrating. But don’t worry – it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Asus Laptop Black Screen in Windows
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Asus laptop
@@ -70,6 +66,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -85,19 +85,23 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Check to see if the black screen on your Asus laptop issue has been resolved. If yes, then great! If the black screen persists, please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Restart the explorer.exe process
 
@@ -123,12 +127,12 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
@@ -145,10 +149,6 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 2. In the **System Protection** tab, click **System Restore…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
@@ -160,10 +160,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 6. Restart your computer to see if the black screen issue has been fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7: Fix corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -174,6 +170,10 @@ So you can try disabling fast startup to see if it does the trick:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -201,24 +201,21 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-analytics-audience-insight-crusade/"><u>[New] 2024 Approved Mastering Instagram Analytics Audience Insight Crusade</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-9-uncharted-upscales-for-vivid-visuals/"><u>[Updated] In 2024, 9 Uncharted Upscales for Vivid Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-journey-ahead-an-in-depth-look-at-panasonics-hx-a1-wearable-camera/"><u>[Updated] Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-swift-tips-for-easy-ipad-screen-recordings/"><u>[Updated] Swift Tips for Easy iPad Screen Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-keeping-track-saving-insta-visuals-on-iphone/"><u>2024 Approved Keeping Track Saving Insta Visuals on iPhone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy S23+?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ease-of-use-solve-fallout-4s-pc-freezing-problems/"><u>Ease of Use: Solve Fallout 4'S PC Freezing Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-the-problem-of-farming-simulator-22-failure-to-load/"><u>Effective Solutions for the Problem of Farming Simulator 22 Failure to Load</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-repair-processes-screen-absent/"><u>Effortless Repair Processes, Screen Absent</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fully-functional-laptop-gpu-in-windows-11/"><u>Fully Functional: Laptop GPU in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817576948-gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-touchpad-from-interfering-with-the-mouse-in-windows-11-settings/"><u>How to Stop Your Touchpad From Interfering with the Mouse in Windows 11 Settings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone XS Max</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mend-displays-settings-saving-woes-windows-7-10-tips-tackled/"><u>Mend Displays Settings Saving Woes: Windows 7-10 Tips [Tackled]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-laptop-view-achieved/"><u>Optimal Lateral Laptop View Achieved</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-the-flipbuilder-share-button-a-comprehensive-guide/"><u>Understanding the FlipBuilder Share Button: A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-secure-operations-methodology-for-safe-mode-access-gpu-cleanup-on-win8/"><u>Unlock Secure Operations: Methodology for Safe Mode Access, GPU Cleanup on WIN8</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upend-pc-monitor-for-win7/"><u>Upend PC Monitor for Win7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xcelling-at-content-creation-a-guide-to-gamers-success/"><u>[New] Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-creator-studio-your-expert-manual/"><u>[New] Navigating Creator Studio Your Expert Manual</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-in-class-business-data-cradle/"><u>[Updated] Best in Class Business Data Cradle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid-for-2024/"><u>[Updated] Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-worlds-richest-content-creator-on-youtube/"><u>[Updated] In 2024, World's Richest Content Creator on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-a-closer-look-at-immersive-virtual-reality-tech/"><u>2024 Approved A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-load-screens-in-civ-5/"><u>Fixing Load Screens in CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flawless-driver-update-for-win11-and-intels-graphic/"><u>Flawless Driver Update for Win11 and Intels Graphic</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-google-pixel-8-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Google Pixel 8 online without jailbreak</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intel-gpu-update-steps-for-windows-users/"><u>Intel GPU Update Steps for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflict-on-microsoft-os/"><u>Overcoming Dual-GPU Conflict on Microsoft OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-upside-down-display-on-windows-10/"><u>Resolving Upside-Down Display on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-stable-vision-dell-tablets-new-life/"><u>Secured Stable Vision: Dell Tablet's New Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818372885-swift-victory-in-apex-game-overhaul-complete/"><u>Swift Victory in Apex: Game Overhaul Complete</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-best-mts-video-editing-tools-expert-reviews-and-ratings/"><u>Updated S Best MTS Video Editing Tools Expert Reviews and Ratings</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Moto G84 5G?</u></a></li>
 </ul></div>
 

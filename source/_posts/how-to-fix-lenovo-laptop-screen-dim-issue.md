@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2024-11-28T18:01:18.444Z
-updated: 2024-12-03T03:58:30.710Z
+date: 2024-12-04T20:31:16.076Z
+updated: 2024-12-09T23:35:15.603Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
  **3)[Modify Registry](#c)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Update graphics driver
 
  In many cases, the culprit of the dim laptop screen issue is the faulty graphics drivers. You need to update the graphics driver to the latest and correct version. But if you don’t have time, patience or computer skills to deal with drivers (since it is very tricky and time-consuming), we recommend you use [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -47,20 +43,12 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
 
@@ -82,21 +70,33 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867284d454.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -119,16 +119,22 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-facetime-made-simple-for-android-users/"><u>[New] 2024 Approved FaceTime Made Simple for Android Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-explore-best-speech-recognition-software-on-your-mac-for-2024/"><u>[New] Explore Best Speech Recognition Software on Your Mac for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-turning-down-igtv-on-insta-for-2024/"><u>[Updated] Turning Down IGTV on Insta for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-disk-space-management-using-windows-autodelete-functionality/"><u>Effective Disk Space Management Using Windows' AutoDelete Functionality</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-11-proplus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-and-ipad-wi-fi-connection-issues-top-8-solutions/"><u>How to Resolve iPhone & iPad Wi-Fi Connection Issues: Top 8 Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-struggle-screen-edge-adjustment-on-computers/"><u>Zero Struggle! Screen Edge Adjustment on Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-whatsapps-vocal-messaging-secrets/"><u>[New] Unlocking WhatsApp's Vocal Messaging Secrets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-phantom-v-flip-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Phantom V Flip Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audiovisual-mastery-imovie-sound-guide/"><u>Audiovisual Mastery IMovie Sound Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-sims-4-blackout-bug/"><u>Eliminate Sims 4 Blackout Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-flicker-the-key-to-a-smoother-windows-7-display/"><u>Fixing Flicker: The Key to a Smoother Windows 7 Display</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30FRP Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-now-working-post-update/"><u>Laptop's GPU Now Working Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-in-win10-os/"><u>Monitor Not Recognizing Fullscreen in Win10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-screen-flicker-in-hp-machines/"><u>Preventing Screen Flicker in HP Machines</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-huawei-nova-y71-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Huawei Nova Y71</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-connectivity-problems-fixing-the-ralink-rt3290-wi-fi-drivers-for-windows-10-8-and-7/"><u>Resolving Connectivity Problems: Fixing the Ralink RT3290 Wi-Fi Drivers for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-essential-guide-to-intel-gpu-driver-refreshment-in-windows/"><u>The Essential Guide to Intel GPU Driver Refreshment in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-blurring-your-background-during-a-zoom-or-google-meet/"><u>The Ultimate Guide: Blurring Your Background During a Zoom or Google Meet</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 5 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-no-signal-fast-fix-for-dp-connections/"><u>Troubleshoot No Signal: Fast Fix for DP Connections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-non-reactive-screen/"><u>Troubleshooting Lenovo Non-Reactive Screen</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-audio-from-mkv-for-2024/"><u>Updated How to Remove Audio From MKV for 2024</u></a></li>
 </ul></div>
 

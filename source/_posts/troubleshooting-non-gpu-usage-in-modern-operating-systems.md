@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-GPU Usage in Modern Operating Systems
-date: 2024-11-27T18:47:40.996Z
-updated: 2024-12-03T02:24:23.748Z
+date: 2024-12-09T01:12:28.620Z
+updated: 2024-12-10T06:04:10.300Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
  Facing the issue of your laptop not using a dedicated GPU such as Nvidia or AMD? This can be very annoying when playing a video game. But the good news is that it can be fixed easily. In this post, we will tell you some tricks to fix this problem.
 
  Before you begin to try the fixes below, make sure your laptop is connected to the power supply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for laptop GPU not being used
 
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 ### Option 1: Update your graphics driver manually
 
  You need to find the model of your graphics card and visit the manufacturer’s website(**[NVIDIA](https://www.nvidia.com/Download/index.aspx)**  , **[AMD](https://www.amd.com/en/support)**  , **[Intel](https://downloadcenter.intel.com/)**  ). Be sure to choose only drivers that are compatible with your Windows version. This needs some computer skills.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -77,7 +69,7 @@ If not, don’t worry, there are other fixes you can try.
  By updating your operating system, your laptop will get the latest fixes and security improvements. Many users reported that they fixed this issue by installing the Windows updates. So you should give it a try. To do so:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 10
@@ -91,7 +83,7 @@ If not, don’t worry, there are other fixes you can try.
 4. Restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -104,6 +96,10 @@ If not, don’t worry, there are other fixes you can try.
 Now you can check if your dedicated GPU is being used.
 
 If this method doesn’t help, continue with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Switch to the dedicated GPU manually
 
@@ -120,17 +116,21 @@ If this method doesn’t help, continue with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-phx-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Your laptop should now run with the dedicated NVIDIA GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Switch to the dedicated AMD GPU
 
 1. Right-click your desktop and select**AMD** **Radeon Settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Navigate to the**System** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-system.jpg)
 3. Select**Switchable Graphics** . This view lists recent and current running applications.  
@@ -141,12 +141,16 @@ Your laptop should now run with the dedicated NVIDIA GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-highperformance.jpg)
 5. Running the program again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should now run with the dedicated AMD GPU.
 
 But if not, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Change the Windows graphics setting
@@ -171,11 +175,7 @@ But if not, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -185,19 +185,11 @@ But if not, you can take a look at the next fix.
 ![win11 - Display settings](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings.jpg)
 2. Scroll down. Under the Related settings section, click on**Graphics** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics.jpg)
 3. Click**Browse** and select the executable file of the program you want to use the dedicated GPU.  
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Custom-options-for-apps.jpg)
 4. Once added, click on the**Options** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Windows 11 - Change graphics preference](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-Display-settings-Graphics-Options.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
@@ -207,6 +199,10 @@ But if not, you can take a look at the next fix.
  After doing so, open Task Manager to check if the program is using the dedicated GPU.
 
 If not, see below for more solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Make sure your dedicated GPU is enabled in BIOS
 
@@ -219,6 +215,10 @@ If not, see below for more solutions.
 Once done, restart your laptop and see if the issue is fixed.
 
 If this trick doesn’t work for you, check out the last solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Update your BIOS
 
@@ -249,21 +249,16 @@ If this trick doesn’t work for you, check out the last solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-directx12-stumbling-block-for-halos-debut/"><u>[FIXED]: DirectX12 Stumbling Block for Halo's Debut</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-branding-hacks-10-must-use-online-tools/"><u>[New] In 2024, Channel Branding Hacks 10 Must-Use Online Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ideal-5-add-ons-to-enhance-sea-footage/"><u>[Updated] 2024 Approved Ideal 5 Add-Ons to Enhance Sea Footage</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-social-trends-in-visual-forms-23-edition/"><u>2024 Approved Social Trends in Visual Forms, '23 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/alleviating-isolation-with-chatgpt-your-guide/"><u>Alleviating Isolation with ChatGPT - Your Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-blinking-monitor-blues/"><u>Cure Blinking Monitor Blues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/exciting-amds-hd-6950-graphics-update-on-windows-11/"><u>Exciting: AMD's HD 6950 Graphics Update on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-for-lenovos-inoperative-touch-interface/"><u>Fix for Lenovo's Inoperative Touch Interface</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS Max iOS? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-crafting-content-for-staff-recognition-on-vimeo/"><u>In 2024, Crafting Content for Staff Recognition on Vimeo</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-supports-new-hardware-configurations/"><u>Overwatch Supports New Hardware Configurations</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/scale-down-oversized-win-10-interface/"><u>Scale Down: Oversized WIN 10 Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-harmony-geforce-nforce-and-windows-10-together/"><u>Successful Harmony: GeForce, nForce, and Windows 10 Together</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-superior-facebook-extras-secure-video-grab-and-firefox-use/"><u>[Updated] Superior Facebook Extras Secure Video Grab & Firefox Use</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-influences-on-american-vs-british-slang/"><u>Cultural Influences on American vs British Slang</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-spark-20-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Spark 20</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-yuva-2-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Yuva 2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-silence-card-upgrade/"><u>Monitor Silence, Card Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-hp-laptops-stable-display/"><u>Resolving HP Laptops: Stable Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-radiance-to-rugged-reality-views/"><u>Restoring Radiance to Rugged Reality Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-display-normalized-after-fix/"><u>Screen Display Normalized After Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/teaching-troubleshooting-tactics-for-blank-displays/"><u>Teaching Troubleshooting Tactics for Blank Displays</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-7-tactics-to-resolve-unwanted-files-remaining-after-delete-actions/"><u>Top 7 Tactics to Resolve Unwanted Files Remaining After Delete Actions</u></a></li>
 </ul></div>
 

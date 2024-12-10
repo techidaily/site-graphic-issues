@@ -1,7 +1,7 @@
 ---
 title: Settling Disputed Display Settings in Win10
-date: 2024-11-26T19:00:34.776Z
-updated: 2024-12-02T23:05:19.589Z
+date: 2024-12-06T20:41:07.595Z
+updated: 2024-12-10T02:04:17.680Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -54,11 +50,19 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -69,10 +73,6 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and **R**  at the same time, type **devmgmt.msc** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
@@ -87,10 +87,6 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -107,7 +103,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
@@ -119,6 +115,10 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,18 +148,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-user-experience-recovering-lost-youtubefb-videos/"><u>[New] Enhancing User Experience Recovering Lost YouTube/FB Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-framing-emotions-through-color-grading/"><u>[Updated] 2024 Approved Framing Emotions Through Color Grading</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>2024 Approved The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/become-a-tiktok-pro-in-no-time-essential-recording-and-post-processing-techniques/"><u>Become a TikTok Pro in No Time Essential Recording and Post-Processing Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-cursor-issue/"><u>Clearing Up Black Cursor Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diminishing-visual-vibrations-on-pro-7/"><u>Diminishing Visual Vibrations on Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-creators-update-dark-display/"><u>Eliminating Creators Update Dark Display</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/friendly-multiplayer-madness-how-to-share-games-on-xbox-one/"><u>Friendly Multiplayer Madness: How To Share Games On Xbox One</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Passcode without Computer?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-stuttering-screens/"><u>Quick Fix for Stuttering Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/rekindle-the-glow-effective-ways-to-repair-and-reactivate-your-corsair-keyboards-light-features/"><u>Rekindle the Glow: Effective Ways to Repair and Reactivate Your Corsair Keyboard's Light Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-to-restore-accidentally-deleted-photos-from-your-sd-card-guide-with-visuals/"><u>Simple Steps to Restore Accidentally Deleted Photos From Your SD Card [Guide with Visuals]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-bypass-c1900101-in-windows-10-upgrade-process/"><u>Steps to Bypass C1900101 in Windows 10 Upgrade Process</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-secretive-story-viewing-tactics-for-android-iphone-and-pc/"><u>[New] Secretive Story Viewing Tactics for Android, iPhone & PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-your-youtube-video-process-with-faster-techniques-for-2024/"><u>[New] Streamline Your YouTube Video Process with Faster Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>2024 Approved From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-failed-to-load-detection-driver-on-windowas-10-solved/"><u>AMD: Failed to Load Detection Driver on Windowas 10 [SOLVED]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-hot-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Hot 30i Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-a2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo A2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-novices-nook-the-easiest-mc-dwellings-explored/"><u>In 2024, Novice's Nook The Easiest MC Dwellings Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-limitations-6-remedies-for-issues-with-exclusive-emergency-call-access/"><u>Overcoming iPhone Limitations: 6 Remedies for Issues with Exclusive Emergency Call Access</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-c1900101-during-windows-11-os-setup/"><u>Prevent and Resolve C1900101 During Windows 11 OS Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-distorted-displays-within-windows-10-systems/"><u>Realigning Distorted Displays Within Windows 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silencing-screenscape-shenanigans-in-pro-7/"><u>Silencing Screenscape Shenanigans in Pro 7</u></a></li>
+<li><a href="https://article-posts.techidaily.com/what-frames-per-second-yields-best-cinematic-slow-motion-in-2024/"><u>What Frames Per Second Yields Best Cinematic Slow Motion, In 2024</u></a></li>
 </ul></div>
 

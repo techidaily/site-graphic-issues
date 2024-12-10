@@ -1,7 +1,7 @@
 ---
 title: Flickering Screen? Follow This Quick ASUS Guide to Solve It
-date: 2024-11-27T01:33:08.762Z
-updated: 2024-12-02T22:55:14.768Z
+date: 2024-12-08T03:00:03.735Z
+updated: 2024-12-09T18:03:42.970Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 1. Right-click on**the empty area** of your desktop screen and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
@@ -65,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. Click**Advanced settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
@@ -74,7 +66,15 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -113,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -156,18 +156,17 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] 2024 Approved How to Make a Memorable Impact with Youtube's Minis</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/xploring-the-depths-of-asmr-content/"><u>[New] Exploring the Depths of ASMR Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlock-your-old-game-library-with-these-premier-pc-gba-emulators/"><u>[Updated] In 2024, Unlock Your Old Game Library with These Premier PC GBA Emulators</u></a></li>
-<li><a href="https://win-latest.techidaily.com/a-revolutionary-faceoff-in-remote-communication-the-rise-of-the-lip-reading-challenger-against-microsoft-teams-and-zoom-zdnet/"><u>A Revolutionary Faceoff in Remote Communication: The Rise of the Lip-Reading Challenger Against Microsoft Teams & Zoom | ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amds-successful-windows-10-driver-fix-for-r9-users/"><u>AMD's Successful Windows 10 Driver Fix for R9 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818320933-boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breezing-through-apex-no-downtime-now/"><u>Breezing Through Apex: No Downtime Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct-solutions-for-non-dispoured-gpus/"><u>Direct Solutions for Non-Dispoured GPUs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-issues-with-windows-boot-process-delays/"><u>Expert Tips to Overcome Issues with Windows Boot Process Delays</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leveraging-instagrams-video-features-a-how-to-guide-for-2024/"><u>Leveraging Instagram's Video Features A How-To Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-obstacle-fixing-c1900101-error-during-setup/"><u>Overcoming Obstacle: Fixing C1900101 Error During Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-mode-realignment-in-windows-10/"><u>Screen Mode Realignment in Windows 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/step-into-the-rhythm-of-social-video-editing-with-music-for-2024/"><u>Step Into the Rhythm of Social Video Editing with Music for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-lessons-with-ease-top-screen-recorders-for-2024/"><u>[New] Capturing Lessons with Ease Top Screen Recorders for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-narratives-through-captioning/"><u>[New] In 2024, Mastering Instagram Narratives Through Captioning</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-playful-pedal-powered-pastimes/"><u>[New] In 2024, Playful Pedal-Powered Pastimes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-playback-paradox-starting-at-the-finish-line-on-youtube/"><u>[New] The Playback Paradox Starting at the Finish Line on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-6-substitutes-best-periscope-rivals-on-mobile-devices/"><u>[Updated] In 2024, Top 6 Substitutes Best Periscope Rivals on Mobile Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-script-failures-civilization-v-edition/"><u>Addressing Script Failures, Civilization V Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curing-laptop-screen-flickers-in-lenovo-models/"><u>Curing Laptop Screen Flickers in Lenovo Models</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-flickering-keeping-your-display-steady/"><u>Fix for Flickering: Keeping Your Display Steady</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-lava-yuva-3-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Lava Yuva 3 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-smudgy-graphics-in-fc6/"><u>Resolving Smudgy Graphics in FC6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-the-day-resurrected-hdmi-connection/"><u>Saving the Day: Resurrected HDMI Connection</u></a></li>
 </ul></div>
 

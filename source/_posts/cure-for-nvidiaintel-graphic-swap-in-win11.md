@@ -1,7 +1,7 @@
 ---
 title: Cure for NVIDIA/Intel Graphic Swap in Win11
-date: 2024-11-27T00:09:22.296Z
-updated: 2024-12-02T19:33:51.207Z
+date: 2024-12-06T19:07:37.776Z
+updated: 2024-12-09T23:26:10.590Z
 tags:
   - win11
   - win10
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -95,15 +99,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -118,10 +122,6 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,15 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[New] In 2024, Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-experience-gaming-excellence-with-kinemaster-on-android/"><u>[New] In 2024, Experience Gaming Excellence with KineMaster on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-dismantling-error-0x80070570-healing-files-in-windows-11/"><u>Deciphering and Dismantling Error 0X80070570: Healing Files in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-11-display-glitches/"><u>Eradicate Windows 11 Display Glitches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/invisible-screen-post-firmware/"><u>Invisible Screen Post-Firmware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-conflict-addressed-error-22/"><u>Kernel Conflict Addressed: Error 22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleashing-graphic-power-step-by-step-tutorial-on-gpu-overclocking-for-novices/"><u>Unleashing Graphic Power: Step-by-Step Tutorial on GPU Overclocking for Novices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722997290916-utorrent-not-working-heres-how-to-repair-your-torrent-downloads-and-peer-connections/"><u>UTorrent Not Working? Here’s How to Repair Your Torrent Downloads & Peer Connections!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/10-notable-distinctions-between-microsofts-bing-chatbot-and-openais-chatgpt/"><u>10 Notable Distinctions Between Microsoft's Bing Chatbot and OpenAI's ChatGPT</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-culinary-kings-and-queens-youtube-food-experts/"><u>2024 Approved Culinary Kings & Queens YouTube Food Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>2024 Approved Professional Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-with-any-windows-os-secure-your-oculus-driver-downloads-now-windows-11-10-8-and-7/"><u>Compatible with Any Windows OS: Secure Your Oculus Driver Downloads Now! (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-screen-adjustments-for-expanded-interface-in-win10/"><u>Fine-Tuning Screen Adjustments for Expanded Interface in Win10</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-htc-u23-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an HTC U23 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-f25-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo F25 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jolt-for-lethargic-gpu-fans/"><u>Jolt for Lethargic GPU Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-interactive-screens-armadaed/"><u>Lenovo Interactive Screens Armadaed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-momentum-after-win11-darkout/"><u>Mouse Momentum After Win11 Darkout</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-start-up-errors-a-guide-to-running-stardew-valley-without-hiccups/"><u>Overcoming Start-Up Errors: A Guide to Running Stardew Valley Without Hiccups</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-process-efficient-graphics-driver-removal/"><u>Precise Process: Efficient Graphics Driver Removal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-upside-down-in-windows-11/"><u>Troubleshooting Upside Down in Windows 11</u></a></li>
 </ul></div>
 

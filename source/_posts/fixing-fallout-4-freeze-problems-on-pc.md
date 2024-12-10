@@ -1,7 +1,7 @@
 ---
 title: Fixing Fallout 4 Freeze Problems on PC
-date: 2024-11-28T01:17:26.562Z
-updated: 2024-12-02T16:58:22.704Z
+date: 2024-12-05T16:05:35.594Z
+updated: 2024-12-10T00:44:19.809Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ## Fixing Fallout 4 Freeze Problems on PC
 
 **Fallout 4 crashes on startup** and you don’t know what you’ve done to cause the problem? Don’t worry! There are solutions to fix the issue. This article introduces 5 easy ways to**fix the Fallout 4 crashing on startup** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Fallout 4 crashing on startup?
 
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 4) Restart your computer and open your Fallout 4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
@@ -99,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 If the issue persists, try the following method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Configure settings in your Fallout 4**
@@ -111,6 +107,10 @@ If the issue persists, try the following method.
  2) Go to the**Graphics Adapter and Resolution** settings in your Fallout 4, and check**Windowed Mode** and**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
@@ -141,24 +141,19 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-seamless-background-extraction-in-picsart-editing-for-2024/"><u>[New] Seamless Background Extraction in Picsart Editing for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-macs-as-music-makers-a-look-inside/"><u>[Updated] 2024 Approved Macs as Music Makers A Look Inside</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[Updated] Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-premium-vimeo-file-extractors-for-2024/"><u>[Updated] Premium Vimeo File Extractors for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-installer-hurdle-for-nvidia/"><u>Conquered Installer Hurdle for Nvidia</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquering-glitchy-views-end-monitor-flicker-annoyances/"><u>Conquering Glitchy Views: End Monitor Flicker Annoyances</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817588692-flash-free-visual-experience-now/"><u>Flash-Free Visual Experience Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/from-fuzzy-to-sharp-the-guide-to-fixing-your-zoom-cam-today/"><u>From Fuzzy to Sharp: The Guide to Fixing Your Zoom Cam Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-adjust-display-settings-when-encountered-with-non-standard-input-delays/"><u>How to Adjust Display Settings When Encountered With Non-Standard Input Delays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-laptop-black-screen-issue/"><u>How to Fix Laptop Black Screen Issue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-s23-ultra-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy S23 Ultra Through Google Earth?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-s24plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy S24+Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>In 2024, Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fixes-when-your-windows-encounters-driver-errors/"><u>Quick Fixes When Your Windows Encounters Driver Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quickly-discard-outdated-graphics-drivers-windows-style/"><u>Quickly Discard Outdated Graphics Drivers, Windows-Style</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-initialization-for-direct3d/"><u>Resolved Initialization for Direct3D</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-extended-display-in-win10-environments/"><u>Stabilizing Extended Display in Win10 Environments</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>Twitter's Videography Policy Including Aspect Ratios Is Crucial</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-gfxui-reset-completed-and-working/"><u>Windows GfxUI Reset Completed and Working</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-method-to-locate-fb-watched-content-for-2024/"><u>[New] The Ultimate Method to Locate FB Watched Content for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>2024 Approved Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framing-your-story-with-effective-titles-for-2024/"><u>Framing Your Story with Effective Titles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-sky-images-leading-sites-listed-for-2024/"><u>High-Quality Sky Images Leading Sites Listed for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-handle-a-failed-pc-startup-expert-solutions-from-yl-software/"><u>How to Handle a Failed PC Startup: Expert Solutions From YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-efficient-video-download-from-facebooks-domain/"><u>In 2024, Efficient Video Download From Facebook's Domain</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-g310-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-bug-bypassed-22/"><u>Kernel Bug Bypassed - #22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-horizontal-displacement-errors/"><u>Rectifying Horizontal Displacement Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-error-amds-load-failure-on-win10-addressed/"><u>Resolved Error: AMD's Load Failure on Win10 Addressed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-drivers-revamping-on-winos-a-compreenas-for-10-to-7/"><u>Speedy Drivers Revamping on WINOS: A Compreenas for 10 to 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-play-on-rtx-3080-games/"><u>Steady Play on RTX 3080 Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unified-graphics-experience-achieved-nvidiaintel-for-win10/"><u>Unified Graphics Experience Achieved - Nvidia/Intel for Win10</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/yogis-choice-top-channels-for-strength-and-balance/"><u>Yogis' Choice Top Channels for Strength & Balance</u></a></li>
 </ul></div>
 

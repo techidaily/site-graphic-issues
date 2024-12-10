@@ -1,7 +1,7 @@
 ---
 title: Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!
-date: 2024-12-02T04:20:20.851Z
-updated: 2024-12-02T20:18:50.982Z
+date: 2024-12-02T17:11:14.186Z
+updated: 2024-12-09T17:58:36.807Z
 tags:
   - win11
   - win10
@@ -49,16 +49,24 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
 
@@ -72,15 +80,11 @@ OR
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
@@ -94,20 +98,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable your extensions
 
@@ -120,11 +128,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 5: Reset Chrome settings to default
 
@@ -134,25 +142,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
 2. At the bottom, click**Advanced** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -192,20 +192,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-pretending-playfulness-making-mocks-and-laughs/"><u>[New] 2024 Approved Pretending Playfulness Making Mocks and Laughs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphics-eyecatchermemes/"><u>[New] GiggleGraphics EyeCatcherMemes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pioneering-6-networks-supporting-business-development/"><u>[Updated] In 2024, Pioneering 6 Networks Supporting Business Development</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-igtvs-potential-secrets-to-attract-more-subscribers/"><u>2024 Approved Unlocking IGTV's Potential Secrets to Attract More Subscribers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818243959-d3d-init-bug-eliminated-happy-hour/"><u>D3D Init Bug Eliminated, Happy Hour!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earning-equations-decoding-the-mathematics-behind-youtube-income-monitoring/"><u>Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-novice-to-master-become-proficient-in-german-via-netflix/"><u>From Novice to Master: Become Proficient in German Via Netflix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-update-successful-responding-normal/"><u>Graphics Card Update Successful: Responding Normal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-setup-error/"><u>Graphics Setup Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intuitive-and-swift-streamlining-win10-with-the-latest-intel-graphics/"><u>Intuitive and Swift: Streamlining Win10 with the Latest Intel Graphics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-innovation-vr-controllers-reviewed-for-2024/"><u>Leading Innovation VR Controllers Reviewed for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-adobe-premiere-rush-not-meeting-your-needs-explore-these-top-4-alternatives/"><u>New In 2024, Adobe Premiere Rush Not Meeting Your Needs? Explore These Top 4 Alternatives</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-graphics-cards-detected-help-needed/"><u>No Graphics Cards Detected, Help Needed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/strategies-for-time-travel-visualization-for-2024/"><u>Strategies for Time Travel Visualization for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solution-wake-up-your-silent-dp-connection/"><u>Swift Solution: Wake up Your Silent DP Connection</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-performance-of-yis-4k-actioncam/"><u>[New] The Ultimate Performance of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[New] Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-understanding-vlcs-screen-recording-features/"><u>[Updated] Understanding VLC's Screen Recording Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-imagery-a-look-at-samsung-image-studio-tools/"><u>Enhancing Imagery A Look at Samsung Image Studio Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-driver-update-successful-error-22/"><u>GPU Driver Update Successful - Error 22</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/maximizing-gameplay-preservation-on-the-newest-windows-11-for-2024/"><u>Maximizing Gameplay Preservation on the Newest Windows 11 for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-capturing-moments-how-to-turn-videos-into-photos-with-10-easy-converters/"><u>New Capturing Moments How to Turn Videos Into Photos with 10 Easy Converters</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-laptop-screen-flickers-problem-solved/"><u>No More Laptop Screen Flickers, Problem Solved</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/se-pathway-to-youtube-channel-profitable-management/"><u>Precise Pathway to YouTube Channel Profitable Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-connection-test-4-windows-tips-to-measure-lan-speed/"><u>Rapid Connection Test: 4 Windows Tips to Measure LAN Speed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-70-lite-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after 70 Lite 5G has been deleted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-the-c1900101-error-in-windows-setup/"><u>Remedying the C1900101 Error in Windows Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-overcome-setup-hurdle-for-nvidia/"><u>Successfully Overcome Setup Hurdle for Nvidia</u></a></li>
 </ul></div>
 

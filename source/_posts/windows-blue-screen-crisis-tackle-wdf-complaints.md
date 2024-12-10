@@ -1,7 +1,7 @@
 ---
 title: "Windows Blue Screen Crisis: Tackle WDF Complaints"
-date: 2024-11-30T19:35:22.464Z
-updated: 2024-12-03T02:17:37.454Z
+date: 2024-12-04T02:27:58.637Z
+updated: 2024-12-10T05:40:30.092Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Use Driver Verifier
 
@@ -72,19 +68,23 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 ![win 11 command prompt admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When prompted to provide administrator permission, click **Yes** .
 
  2) Type**verifier** in the command prompt window. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910349670aa3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Choose**Create standard settings** and then click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910350abaafc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Choose**Automatically select all drivers installed on this computer** . Then click the**Finish** button to start the verification.
 
@@ -114,10 +114,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
 
 5) Restart your computer for the changes to take effect.
@@ -132,13 +128,17 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any. When the process is completed, reboot your computer and test if the issue still exists.
@@ -162,18 +162,15 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-tech-gear-best-win-11-webcam-recorders/"><u>[New] Ultimate Tech Gear Best Win 11 Webcam Recorders</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-engagement-tweeting-for-fb-exposure/"><u>[Updated] Enhancing Engagement Tweeting for FB Exposure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-aspect-ratio-errors-for-larger-display-screens/"><u>Correcting Aspect Ratio Errors for Larger Display Screens</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expertise-meets-simplicity-effortless-graphic-driver-update-on-windows-os/"><u>Expertise Meets Simplicity - Effortless Graphic Driver Update on Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-overcoming-c1900101-obstacle-in-installation/"><u>Guide to Overcoming C1900101 Obstacle in Installation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-g54-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola G54 5G?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hybridgraphics-reality-nvidia-and-intels-effortless-switching-in-win10/"><u>HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-10t-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme 10T 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-steps-to-reveal-hidden-colors-in-an-asus-device/"><u>Simple Steps to Reveal Hidden Colors in an Asus Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-screen-dance-a-guide-to-ending-monitor-flicker/"><u>Solving Screen Dance: A Guide to Ending Monitor Flicker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-13-gratis-dvd-player-unterstutzt-windows-1110-ihre-ultimative-liste/"><u>Top 13 Gratis DVD-Player Unterstützt Windows 11/10: Ihre Ultimative Liste</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-choice-for-fb-vids-mp4-download-toolkit/"><u>[New] In 2024, Top Choice for FB Vids – MP4 Download Toolkit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-5-captivating-visual-journeys-on-fb/"><u>2024 Approved Top 5 Captivating Visual Journeys on FB</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-installation-error-code-c1900101-in-windows-11/"><u>Overcoming Installation Error Code C1900101 in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-upside-down-displays-on-win7/"><u>Resolve Upside-Down Displays on Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-non-detections-of-gpu-in-computer-systems/"><u>Solve Non-Detections of GPU in Computer Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-essential-handheld-guide-to-youtube-production/"><u>The Essential Handheld Guide to YouTube Production</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-futuristic-ai-enhanced-crime-solving-adventures-interactive-online-mysteries-and-brain-teasers/"><u>Top 4 Futuristic AI-Enhanced Crime Solving Adventures: Interactive Online Mysteries & Brain Teasers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-outriders-effective-solutions-unveiled/"><u>Troubleshooting Audio Glitches in Outriders: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visionaries-tools-revealed-premium-360cameras-of-2023-for-2024/"><u>Visionaries' Tools Revealed Premium 360°Cameras of 2023 for 2024</u></a></li>
 </ul></div>
 

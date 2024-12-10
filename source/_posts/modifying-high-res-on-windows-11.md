@@ -1,7 +1,7 @@
 ---
 title: Modifying High Res on Windows 11
-date: 2024-11-26T04:38:56.698Z
-updated: 2024-12-03T01:59:31.194Z
+date: 2024-12-07T21:32:29.405Z
+updated: 2024-12-10T05:08:19.687Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 **Windows 10 display too big** ? Don’t worry – it’s quite easy to fix…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 Fixes for Windows 10 Display Too Big
 
  Here are two easy fixes that have helped other users get normal display on their screen again. Check them out…
@@ -30,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 2. [**Update your display driver**](#F2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change your screen resolution**
@@ -41,25 +37,25 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e21ce4cd4.jpg)
 2. Under**Resolution** , click**the drop-down menu** and make sure you’ve chosen the**Recommended** screen resolution.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e27ee9b46.jpg)
 3. Click**Keep changes** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e308683d2.jpg)
 4. Check your screen and see if the **Windows 10 display too big** problem is solved. If yes, then congrats! But if it’s no joy, please move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your display driver**
 
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee5440679.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -105,22 +105,17 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unbeatable-tag-analyzers-for-facebook-twitter-and-instagram-sites/"><u>[New] In 2024, Unbeatable Tag Analyzers for Facebook, Twitter & Instagram Sites</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>[New] Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-drone-for-sale-best-drones-to-buy-for-2024/"><u>[Updated] Drone for Sale - Best Drones to Buy for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-deciphering-genuine-connections-in-social-networks/"><u>[Updated] In 2024, Deciphering Genuine Connections in Social Networks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-best-inspirational-movies-that-will-bring-you-hope-and-power-for-2024/"><u>10 Best Inspirational Movies That Will Bring You Hope and Power for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-flaw-affecting-halo-infinite-release/"><u>DirectX12 Flaw Affecting Halo Infinite Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-backlight-on-your-lenovo-tvmonitor/"><u>Enhancing Backlight On Your Lenovo TV/Monitor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-tips-for-overcoming-chatgpt-logout-issues/"><u>Essential Tips for Overcoming ChatGPT Logout Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-8-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel 8 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-zte-nubia-flip-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from ZTE Nubia Flip 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-laptops-from-dark-to-daylight/"><u>Lenovo Laptops: From Dark to Daylight</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/lightning-fast-windowed-image-viewer/"><u>Lightning-Fast Windowed Image Viewer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-flickering-on-hp-laptops/"><u>Overcoming Flickering on HP Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-smooth-streaming-post-upgrade-win11/"><u>Unlocking Smooth Streaming Post-Upgrade Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-system-safety-access-to-safe-mode-and-gpu-driver-removal-guide/"><u>Unlocking System Safety: Access to Safe Mode & GPU Driver Removal Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-full-screen-display-failure-detected/"><u>Win10 Full Screen Display Failure Detected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace-for-2024/"><u>[New] A Guide to Formulating Successful Product Sponsorships in YouTubespace for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-xs-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone XS Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curtailing-the-choreography-of-a-flickering-display/"><u>Curtailing the Choreography of a Flickering Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-up-end-flashing-in-win11/"><u>Ease Up: End Flashing in Win11</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/high-quality-ferrari-f60-american-edition-backgrounds-by-yl-computing-premium-digital-artwork-and-desktop-decor/"><u>High-Quality Ferrari F60 American Edition Backgrounds by YL Computing: Premium Digital Artwork & Desktop Decor</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211128641-9798888517505-next-a-little-guide-about-moving-forward-from-imposter-syndrome-fear-perfectionism-and-certainty/"><u>NEXT: A Little Guide About Moving Forward from Imposter Syndrome, Fear, Perfectionism, and Certainty | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-slate-easy-driver-removal-procedures/"><u>Simple Slate: Easy Driver Removal Procedures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818121158-tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winstability-enhanced-solve-blue-screen-with-wdf-errors/"><u>WinStability Enhanced: Solve Blue Screen with WDF Errors</u></a></li>
 </ul></div>
 

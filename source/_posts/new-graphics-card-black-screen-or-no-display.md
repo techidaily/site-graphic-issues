@@ -1,7 +1,7 @@
 ---
 title: New Graphics Card Black Screen or No Display
-date: 2024-11-28T18:12:12.611Z
-updated: 2024-12-02T16:12:31.969Z
+date: 2024-12-03T03:28:08.180Z
+updated: 2024-12-10T06:37:01.288Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the cable and PCIe connections
@@ -57,7 +57,7 @@ If this is not the problem, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ditch any converter
@@ -69,7 +69,7 @@ If this is not the problem, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Boot with the integrated display card
@@ -98,10 +98,6 @@ If this is not the problem, please move on.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -134,7 +130,7 @@ Here are the things you should pay extra attention to:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Force a clean install of the GPU driver
@@ -150,14 +146,10 @@ Here are the things you should pay extra attention to:
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **IMPORTANT:** Your computer will always boot into Safe Mode with Networking after this. To exit this mode, please refer to this post:[How to Exit Safe Mode on Windows 10](https://tools.techidaily.com/drivereasy/download/)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
@@ -165,9 +157,18 @@ Here are the things you should pay extra attention to:
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. See if the problem is with your graphics card
 
@@ -198,24 +199,15 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-blueprint-producing-purposeful-life-exploration-broadcasts/"><u>[New] Blueprint Producing Purposeful Life Exploration Broadcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-premier-editing-software-for-mobile-app-creation/"><u>[New] Premier Editing Software for Mobile App Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-hd-webcams-essential-purchasing-tips-for-2024/"><u>[Updated] Top 10 HD Webcams Essential Purchasing Tips for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-optimal-instagram-posting-times-a-comprehensive-overview/"><u>2024 Approved Optimal Instagram Posting Times A Comprehensive Overview</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-screenscape-disturbances-in-pro-7/"><u>Banishing Screenscape Disturbances in Pro 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blinking-void-after-graphic-patch/"><u>Blinking Void After Graphic Patch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-clarity-back-repairing-zoom-cam-for-crystal-clear-calls/"><u>Bring Clarity Back: Repairing Zoom Cam for Crystal-Clear Calls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-asus-built-in-cam-issues/"><u>Bypassing ASUS Built-In Cam Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-new-heights-increasing-window-11-icon-size/"><u>Explore New Heights: Increasing Window 11 Icon Size</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-inception-to-innovation-unpacking-the-history-and-development-of-ios-versions-10-180/"><u>From Inception to Innovation: Unpacking the History and Development of iOS Versions 1.0-18.0</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-increase-screen-brightness-on-lenovo-laptops/"><u>How to Increase Screen Brightness on Lenovo Laptops</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-blade-a73-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Blade A73 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-skyrocket-your-video-discovery-with-these-essential-youtube-seo-insights/"><u>In 2024, Skyrocket Your Video Discovery with These Essential YouTube SEO Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-experience-fix-for-intel-and-nvidia-switchable-graphics/"><u>Seamless Windows 10 Experience: Fix for Intel & NVIDIA Switchable Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/soothing-screen-symptoms-pro-7-fixes/"><u>Soothing Screen Symptoms: Pro 7 Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808324928-success-story-navigating-past-windows-11-install-problems-and-winning/"><u>Success Story: Navigating Past Windows 11 Install Problems and Winning</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-stop-asus-laptop-screen-flashes/"><u>Troubleshooting: Stop ASUS Laptop Screen Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stabilization-achieved/"><u>Windows 10 Display Stabilization Achieved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-lol-gaming-on-air-top-3-recording-methods/"><u>[New] 2024 Approved LOL Gaming On Air Top 3 Recording Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-gopro-max-360-vs-hero-11-which-is-the-best-gopro-video-camera/"><u>[New] In 2024, GoPro Max 360 VS Hero 11 Which Is the Best GoPro Video Camera?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-synergy-of-enterprises-and-immersive-virtual-worlds-for-2024/"><u>[New] Synergy of Enterprises and Immersive Virtual Worlds for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-ui-now-visible-in-10s-display/"><u>Enhanced Windows UI: Now Visible in 10'S Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-convertitori-dvd-piu-efficienti-per-windows-11-trasforma-i-tuoi-dvd-in-mp4-avi-o-wmv-con-facilita-e-sicurezza/"><u>Gratis Convertitori DVD Più Efficienti per Windows 11 | Trasforma I Tuoi DVD in MP4, AVI O WMV Con Facilità E Sicurezza</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-win-graphics-failure/"><u>No More Win Graphics Failure!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-upside-down-screens-on-windows/"><u>Rectify Upside-Down Screens on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-for-activating-unsupported-amd-freesync/"><u>Steps for Activating Unsupported AMD FreeSync</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-bargain-in-big-screens-an-in-depth-review-of-the-tcl-50s425-the-2019s-value-packed-4k-roku-tv/"><u>The Best Bargain in Big Screens - An In-Depth Review of the TCL 50S425, the 2019'S Value-Packed 4K Roku TV</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-best-way-to-use-obs-live-stream-to-facebook/"><u>The Best Way to Use OBS Live Stream to Facebook</u></a></li>
 </ul></div>
 

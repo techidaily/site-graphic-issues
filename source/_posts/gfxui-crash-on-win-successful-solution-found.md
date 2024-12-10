@@ -1,7 +1,7 @@
 ---
 title: GFXUI Crash on Win - Successful Solution Found
-date: 2024-11-29T01:47:28.464Z
-updated: 2024-12-03T01:33:38.868Z
+date: 2024-12-05T17:49:31.765Z
+updated: 2024-12-09T21:54:08.869Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 [**2. Update Intel Graphics Card Driver (Recommended)**](#m2)
 [**3. Clean Reinstall Intel Graphics Card Driver**](#m3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn on Microsoft .NET Framework 3.5.1
 
  One of the reasons for this error message could be ill-functioned**.NET Framework 3.5** . You can turn it on to see if the problem is resolved:
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
@@ -43,16 +47,12 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76e62b5aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your computer. See if the problem is resolved.
 
 4) If not, you need to go to Microsoft support website to download **[.NET Framewor](https://www.microsoft.com/en-us/download/details.aspx?id=21) [k](https://www.microsoft.com/en-us/download/details.aspx?id=21) [3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)** [](https://www.microsoft.com/en-us/download/details.aspx?id=21) . Then install it again. See if the same problem stays still.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Intel Graphics Card Driver (Recommended)
 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/de-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged Intel video card to automatically download and install the correct version of its driver (you can do this with the FREE version).
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7eca87f6f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Windows will search for and update the latest version of the display driver it can find for your PC.
@@ -122,17 +122,22 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-crafting-gentle-sound-declines-with-logic-pro/"><u>[New] In 2024, Crafting Gentle Sound Declines with Logic Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-key-strategies-for-recruiting-superior-video-artists/"><u>[New] Key Strategies for Recruiting Superior Video Artists</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-embrace-tranquility-top-10-stress-free-games/"><u>[Updated] 2024 Approved Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>2024 Approved Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-unverified-to-verified-amplifying-your-instagram-profile-with-proven-strategies/"><u>From Unverified to Verified Amplifying Your Instagram Profile with Proven Strategies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-block-web-trackers-on-both-your-windows-11-computer-and-android-smartphone/"><u>How to Block Web Trackers on Both Your Windows 11 Computer and Android Smartphone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/id-lost-naming-intel-icd-with-opengl-support/"><u>ID Lost: Naming Intel ICD with OpenGL Support</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-130-music-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia 130 Music? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/slow-mobile-internet-woes-discover-10-ways-to-boost-your-data-speed/"><u>Slow Mobile Internet Woes: Discover 10 Ways to Boost Your Data Speed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-to-erasing-your-files-forever-with-these-7-techniques/"><u>The Ultimate Guide to Erasing Your Files Forever with These 7 Techniques</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-streaming-problems-on-windows-11-after-upgrade-solved/"><u>Video Streaming Problems on Windows 11 After Upgrade [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-screen-dance-in-windows-11/"><u>[FIXED] Screen Dance in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>[Updated] In 2024, From Basics to Brilliance The Ultimate Guide to HDR Portraits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/aerial-visual-flux-free-lutts-for-dji-drones-then-pay-upgrade-for-2024/"><u>Aerial Visual Flux Free LUTTs for DJI Drones, Then Pay Upgrade for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apexs-speedier-setup-game-saved-and-solved/"><u>Apex's Speedier Setup: Game Saved & Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/break-the-blackout-blank-screen-on-twitch/"><u>Break the Blackout Blank Screen on Twitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-through-d3d-init-blocks/"><u>Breaking Through D3D Init Blocks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/card-absence-alert-visuals-issue/"><u>Card Absence Alert: Visuals Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-your-game-view-enhancing-visuals-for-cod-warzone-pc/"><u>Clear Your Game View: Enhancing Visuals for COD: Warzone (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-screenside-card-firmware/"><u>Dark Screenside: Card Firmware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-not-found-need-immediate-fix/"><u>GPU Not Found, Need Immediate Fix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recognize-and-deal-with-bogus-social-media-connections/"><u>How to Recognize and Deal with Bogus Social Media Connections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flick-flashback-an-old-school-take-on-the-goofys/"><u>In 2024, Flick Flashback An Old-School Take on The Goofys</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-opaque-direct-x-issue-answers-found-solutions-rendered/"><u>The Opaque Direct X Issue: Answers Found, Solutions Rendered</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/uncover-your-screen-movements-mastering-visibility-of-mouse-pointers-while-recording-on-windows/"><u>Uncover Your Screen Movements: Mastering Visibility of Mouse Pointers While Recording on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-ms-edges-picture-in-picture-magic/"><u>Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1725289452927-winx-hd-video-converter-deluxe/"><u>WinX HD Video Converter Deluxe - 有料なし、機能限定もなし! 完全無料版ライセンスコード入手方法</u></a></li>
 </ul></div>
 

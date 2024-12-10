@@ -1,7 +1,7 @@
 ---
 title: "Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now"
-date: 2024-11-25T20:59:09.546Z
-updated: 2024-12-02T21:10:45.414Z
+date: 2024-12-04T18:28:13.153Z
+updated: 2024-12-10T06:40:36.397Z
 tags:
   - win11
   - win10
@@ -25,19 +25,11 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -55,12 +47,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -78,10 +74,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
@@ -94,11 +86,11 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -110,9 +102,17 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -137,18 +137,19 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-achieving-peak-engagement-with-strategic-reddit-posting/"><u>[New] 2024 Approved Achieving Peak Engagement with Strategic Reddit Posting</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastery-over-disabling-personalized-podcast-suggestions-on-spotify/"><u>[New] 2024 Approved Mastery over Disabling Personalized Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-develop-engaging-facebook-visuals/"><u>[New] Develop Engaging FACEbook Visuals</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-streamlined-approaches-for-zoom-utility-on-chromebook/"><u>[Updated] In 2024, Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unveiling-excellent-video-keywords-on-youtube/"><u>[Updated] In 2024, Unveiling Excellent Video Keywords on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/causes-and-solutions-for-repeated-failures-in-cod-modern-warfare/"><u>Causes and Solutions for Repeated Failures in COD: Modern Warfare</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-barrier-preventing-new-halo-infinite-opening/"><u>DirectX12 Barrier Preventing New Halo Infinite Opening</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques-for-2024/"><u>Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pinpointed-and-rectified-screen-flicker-on-laptops/"><u>Pinpointed and Rectified Screen Flicker on Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/setting-savorability-secured-post-update/"><u>Setting Savorability Secured Post-Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-moire-pattern-on-pcs/"><u>Stop Moiré Pattern on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-spec-challenges-for-intel-gpu-installation/"><u>Tackling Spec Challenges for Intel GPU Installation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211189274-9781800653535-walking-with-the-seasons/"><u>Walking with the Seasons | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-gpodc-must-haves/"><u>[New] Exclusive GPodC Must-Haves</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987005373-solved-origin-wont-open-on-windows-10-11/"><u>[SOLVED] Origin Won't Open on Windows 10, 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-small-channels-big-opportunities-an-affiliate-approach/"><u>2024 Approved Small Channels, Big Opportunities An Affiliate Approach</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/advanced-strategies-in-auto-response-email-campaigns-utilizing-massmail-pro-software/"><u>Advanced Strategies in Auto-Response Email Campaigns: Utilizing MassMail Pro Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-connect-to-cellular-data-on-your-iphone-here-are-10-ways-to-fix-it/"><u>Can't Connect to Cellular Data on Your iPhone? Here Are 10 Ways to Fix It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-engaging-dandd-character-images-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Creating Engaging D&D Character Images with ChatGPT and DALL-E: A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-11-enhanced-control-over-resolutions/"><u>Fixed Windows 11 - Enhanced Control Over Resolutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-a-mac-gamers-delight-with-a-hidden-catch/"><u>Fortnite: A Mac Gamers' Delight with a Hidden Catch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down - How to Fix It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817990669-radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-tremor-in-windows-11/"><u>Stop Screen Tremor in Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-dawn-of-enhanced-speech-to-text-systems/"><u>The Dawn of Enhanced Speech-to-Text Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-now-offers-extended-display-options/"><u>Windows 11 Now Offers Extended Display Options</u></a></li>
 </ul></div>
 

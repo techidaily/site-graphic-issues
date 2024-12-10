@@ -1,7 +1,7 @@
 ---
 title: Enhance Play by Reducing Latency
-date: 2024-11-28T23:55:20.588Z
-updated: 2024-12-02T20:35:10.969Z
+date: 2024-12-02T23:57:42.223Z
+updated: 2024-12-10T06:38:04.978Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3e2b3b4586ff381edc3f172c9f4c5303488ce14f9
 
  Many users are reporting an ongoing lagging issue with the newly released game**Anthem** . Although this can be frustrating, this**Anthem Lags** problem can be easily fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For Anthem Lags
 
  **Here’re 3 fixes that have helped other users resolve the Anthem lag issue.** Just work your way down until you find one that works for you.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/3e2b3b4586ff381edc3f172c9f4c5303488ce14f9
 3. [**Check if your PC meets the system requirements for Anthem**](#F3)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Optimize your in-game settings
 
@@ -55,10 +55,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
  6) In**Graphics Quality** , choose**Custom** ;  
@@ -74,10 +70,6 @@ Here’s how to do it:
  In**Vegetation Quality,** choose**Medium** ;  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-12-1024x732.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
@@ -100,7 +92,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Disable CPU Core Parking
@@ -121,9 +113,17 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
@@ -151,6 +151,10 @@ So you can follow the steps below to disable CPU core parking:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure your PC meets the system requirements for Anthem
 
  If the Anthem lag problem still persists after you’ve tried the fixes above, then you might have to check if your system meets the system requirements for the game. Here’s an official list of **the minimum requirements and the recommended requirements for Anthem** :
@@ -175,10 +179,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -192,20 +192,20 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -232,20 +232,22 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-apex-creators-video-giants-in-the-making/"><u>[New] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-beginners-guide-to-youtube-image-sharing/"><u>[Updated] The Beginner's Guide to YouTube Image Sharing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-share-the-moment-effortlessly-push-photos-to-social-networks/"><u>2024 Approved Share the Moment Effortlessly Push Photos to Social Networks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-edit-your-video-with-youtube-studio-editor/"><u>How to Edit Your Video with YouTube Studio Editor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-windows-graphics-via-basic-driver-tweaks/"><u>Improving Windows Graphics via Basic Driver Tweaks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-10-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 10 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-x-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone X? Complete Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pin-to-play-the-ultimate-free-pinterest-video-download-guide/"><u>Pin-to-Play The Ultimate Free Pinterest Video Download Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-computers-oversight-of-gpu/"><u>Rectifying Computer's Oversight of GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-network-issues-in-civ-5/"><u>Resolving Network Issues in CIV 5</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-12plus-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme 12+ 5G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-tactics-for-advanced-iphone-x-animoji-utilization-for-2024/"><u>Transformative Tactics for Advanced iPhone X Animoji Utilization for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-firmware-update/"><u>Window's 10 Display Firmware Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-invisible-fullscreen-window/"><u>Windows 10: Invisible Fullscreen Window?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dynamic-imagery-achieving-balanced-colors-in-gopro-footage/"><u>[New] Dynamic Imagery Achieving Balanced Colors in GoPro Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gear-showdown-2022-hero5-vs-garmin-streaming-cameras-for-2024/"><u>[Updated] Gear Showdown 2022 Hero5 Vs. Garmin Streaming Cameras for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/beyond-vlc-exploring-other-tools-for-converting-m4a-audio-to-mp3-detailed-guide-and-steps/"><u>Beyond VLC: Exploring Other Tools for Converting M4A Audio to MP3 - Detailed Guide and Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/driving-engagement-and-returns-animated-advertising-on-facebook-for-2024/"><u>Driving Engagement and Returns Animated Advertising on Facebook for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-error-43-issue-sorted/"><u>Graphic Error 43 - Issue Sorted</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-honor-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Honor Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximizing-fun-factor-with-tweaked-god-of-war/"><u>Maximizing Fun Factor with Tweaked 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-dell-monitor-issues/"><u>No More Glitches: Solved Dell Monitor Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-enhanced-performance-via-intelldriver-refresh-win7/"><u>Securing Enhanced Performance via IntellDriver Refresh (Win7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-screensight-after-repair-on-dell-desktops/"><u>Stable Screensight After Repair on Dell Desktops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817931438-tidy-up-your-screens-distorted-edges-now/"><u>Tidy Up Your Screen's Distorted Edges Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-instagram-hidden-tips-and-tricks-for-2024/"><u>Top Instagram Hidden Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/wet-scrubbers-can-handle-high-temperatures-and-neutralize-corrosive-gases-effectively/"><u>Wet Scrubbers Can Handle High Temperatures and Neutralize Corrosive Gases Effectively.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-monitor-settlement-completed/"><u>Win10 Monitor Settlement Completed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-latency-issue-addressed-for-laptop-gpu/"><u>Windows 11 Latency Issue Addressed for Laptop GPU</u></a></li>
 </ul></div>
 

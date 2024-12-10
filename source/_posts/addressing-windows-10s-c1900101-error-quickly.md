@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 10'S C1900101 Error Quickly
-date: 2024-11-26T22:10:33.201Z
-updated: 2024-12-02T16:51:19.370Z
+date: 2024-12-08T01:21:18.035Z
+updated: 2024-12-10T02:01:18.353Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 If you’re about to upgrade to Windows 10, or you’re updating your current Windows 10 build to a more advanced version, and you see the error code 0xC1900101 popping up, you’re not alone. Many Windows users are reporting this problem as well. But no need for you to worry sick about it, the 0xC1900101 error is not difficult to fix at all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do I fix the 0xC1900101 error?
 
 Here are 6 of the most effective solutions for you to try. You may not have to try them all; just work your way down until you find the one works for you.  Method 1:[**Update device drivers, esp. the display card driver**](#m1) Method 2:[**Uninstall third-party antivirus programs**](#m2) Method 3:[**Remove unused SAT devices**](#m3) Method 4: [**Do a clean boot**](#m4) Method 5:[**Run SFC/ DISM tools**](#m5) Method 6: [**Update BIOS**](#m6)
@@ -41,18 +37,18 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42067dc58c2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to the flagged display driver to automatically download and install the correct version (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4206a5c0185.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) When the update finishes, restart your computer as instructed. Check to see if the 0xC1900101 error is gone after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Uninstall third-party antivirus programs
 
@@ -64,19 +60,23 @@ As the rest of the error message shows, the 0xC1900101 error is very likely to b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41ffeabdb2f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Double-click**IDE ATA/ATAPI controllers**. Right-click the SATA device you see here and click**Uninstall device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4200361b60e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Tick the box for**Delete the driver software for this device**and click**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a42025a54b53.png)
 
 4) Restart your computer. Check if the 0xC1900101 error is gone now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Do a clean boot
 
@@ -87,10 +87,6 @@ Clean boot requires only the very basic and built-in drivers and programs to run
 2) Click the**Services**tab, tick the box for**Hide all Microsoft services**. Then click**Disable**all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a41f823b91a2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You’ll see all the ticked boxes are empty after you click the Disable all button. 3) Click**Startup**, and**Open Task Manager**.
 
@@ -106,17 +102,21 @@ You’ll see all the ticked boxes are empty after you click the Disable all butt
 
 6) Restart your computer. 7) Check if the 0xC1900101 error disappears after the clean reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Run SFC/ DISM tools
 
 In some cases, the 0xC1900101 error could mean that your system files are somehow corrupted or broken, and the code is there to remind you that you may need to revert your PC to a more stable stage before you do the system upgrade or update. To fix it: 1) On your keyboard, press the**Windows logo key**. Type**cmd**in the search box. Right-click**Command Prompt**and click**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420a4db13ec.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When prompted with the UAC, hit **Yes**  to continue. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg) 2) In the Command Prompt window, copy and paste in the following command:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 sfc /scannow
 
@@ -125,7 +125,7 @@ Press the **Enter**key on your keyboard.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a420bd11333c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait for the process to finish. 4) In the same window, copy and paste in the following command:
@@ -137,7 +137,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 5) When the scan finishes, restart your computer, and try the update or upgrade again to see if the 0xC1900101 error is gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 6: Update BIOS
@@ -163,20 +163,17 @@ If you have tried all the methods above but the problem remains unsolved, it’s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/corrected-drivers-display-system-back-to-normal/"><u>[Corrected] Drivers: Display System Back to Normal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-highest-quality-screen-time-movie-hits-list/"><u>[Updated] 2024 Approved Highest-Quality Screen Time Movie Hits List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>[Updated] In 2024, Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximize-android-screen-brightness/"><u>[Updated] Maximize Android Screen Brightness</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/achieve-highest-video-quality-with-ideal-rate-factor-settings-on-handbrake-for-various-formats-dvd-blu-ray-4k/"><u>Achieve Highest Video Quality with Ideal Rate Factor Settings on Handbrake for Various Formats (DVD, Blu-Ray, 4K)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/constructing-a-compelling-docu-script-a-stepwise-approach-for-2024/"><u>Constructing a Compelling Docu-Script A Stepwise Approach for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expertise-applied-to-solve-comexception-window-errors/"><u>Expertise Applied to Solve COMException Window Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14 Plus Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-minimum-system-criteria-for-gpu/"><u>Navigating Minimum System Criteria for GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-error-flagged-by-tdr-now-safe-with-nvidia/"><u>OpenGL Error Flagged by TDR — Now Safe with NVIDIA</u></a></li>
-<li><a href="https://win-trending.techidaily.com/secure-methods-for-deleting-app-data-folders-in-windows-11/"><u>Secure Methods for Deleting App Data Folders in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-r9-driver-issues-on-windows-10-platform/"><u>Solving R9 Driver Issues on Windows 10 Platform</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-create-stunning-videos-best-collage-makers-for-ios-devices/"><u>Updated In 2024, Create Stunning Videos Best Collage Makers for iOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-choosing-the-chatgpt-desktop-experience-is-superior-to-using-the-online-site/"><u>Why Choosing the ChatGPT Desktop Experience Is Superior to Using the Online Site</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-prime-5-racer-simulation-titles-to-play/"><u>[New] In 2024, Prime 5 Racer Simulation Titles to Play</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ptimize-youtube-visibility-by-sustaining-creativity-commons-license/"><u>[New] Optimize YouTube Visibility by Sustaining Creativity Commons License</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplify-aquatic-footage-7-key-shooting-strategies/"><u>[New] Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-auditory-artistry-access-to-excellent-dj-video-samples/"><u>[Updated] In 2024, Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-safe-mode-in-windows-8-graphics-cards-driver-uninstallation-methods/"><u>Mastering Safe Mode in Windows 8 - Graphics Cards Driver Uninstallation Methods</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-text-to-speech-in-2024/"><u>New What Is AI Voice Text to Speech, In 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-full-access-to-direct3d-no-more-rendering-delays/"><u>Secure Full Access to Direct3D - No More Rendering Delays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gfx-restored-windows-gui-operational/"><u>Smooth GFX Restored: Windows GUI Operational</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-on-shrinking-wma-track-lengths-perfect-for-sharing-via-email/"><u>Ultimate Tutorial on Shrinking WMA Track Lengths - Perfect for Sharing via Email</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-instant-play-in-apex-world/"><u>Unlocking Instant Play in Apex World</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Note 30 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[IT] Explanation of dxgkrnl.sys BlueScreen"
-date: 2024-12-02T00:45:42.428Z
-updated: 2024-12-03T02:02:30.220Z
+date: 2024-12-03T00:39:56.406Z
+updated: 2024-12-09T17:54:38.200Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  If you’re seeing the blue screen of death error   **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys),**  you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. The additional code _**dxgkrnl.sys**_ (which stands for**DirectX Graphics Kernel**) has already told you it is the culprit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 3 fixes for you to try. Work your way down and find the one that works for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  The methods work only when you can boot into your PC desktop. If you are having problem logging into your desktop, you can try a [hard boot](https://tools.techidaily.com/drivereasy/download/) into Advanced Startup Options. From there, choose Safe Mode with Networking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1\. Run Fortect to repair BSOD error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix the blue screen of death error **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys)** . Fortect Windows Repair is tailored to your specific system and is working in a private and automatic way. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings or user data.
@@ -47,27 +47,23 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2\. Keep Windows 10 Updated
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f25aff37f6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4\. Check for Possible Hardware Failure
 
  We have seen some cases in which the problem was caused by a faulty motherboard or a RAM module. If you have tried the above methods and the error stays, you may need to take your PC to a repair store to get it checked.
@@ -142,22 +142,21 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-instagram-reels-a-comprehensive-guide/"><u>[New] 2024 Approved Navigating Instagram Reels A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-laptop-recording-mastering-screenrec/"><u>[New] 2024 Approved Ultimate Laptop Recording Mastering ScreenRec</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effective-approach-to-swiftly-eliminate-video-comments/"><u>[Updated] 2024 Approved Effective Approach to Swiftly Eliminate Video Comments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activate-disabled-graphics-on-laptops-running-windows-1011/"><u>Activate Disabled Graphics on Laptops Running Windows 10/11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/containing-the-chromatic-charge-of-an-acer-monitor/"><u>Containing the Chromatic Charge of an Acer Monitor</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-passionate-fascination-some-gamers-have-with-indie-games/"><u>Exploring the Passionate Fascination Some Gamers Have with Indie Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-trouble-signaled-by-tdr-smoothed-out-by-nvidia/"><u>GPU Trouble Signaled By TDR — Smoothed Out By NVIDIA</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file by digital signature</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-ringtone-collection-top-download-locales/"><u>In 2024, Ultimate Ringtone Collection Top Download Locales</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mend-window-11-glitchy-screens/"><u>Mend: Window 11 Glitchy Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-miracle-hasty-solution-to-loss-of-signal/"><u>Monitor Miracle: Hasty Solution to Loss of Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-4k-screens-for-professional-video-editors/"><u>Ultimate 4K Screens for Professional Video Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/added-hidden-settings-in-windows-10-displays-unlocked/"><u>[ADDED] Hidden Settings in Windows 10 Displays Unlocked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-complete-guide-mastering-voice-recognition-in-google-documents/"><u>[New] 2024 Approved Complete Guide Mastering Voice Recognition in Google Documents</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[New] Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitsoundscape-audio-from-tweets-for-2024/"><u>[New] TwitSoundscape Audio From Tweets for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>[Updated] Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-evaluating-camstudios-latest-screen-recording-features/"><u>2024 Approved Evaluating CamStudio's Latest Screen Recording Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>2024 Approved Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-share-screen-on-zoom-meeting-guide/"><u>2024 Approved Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-bluetooth-30-driver-update-compatible-with-qualcomm-atheros-ar3011-chips/"><u>Download Bluetooth 3.0 Driver Update: [Compatible with] Qualcomm Atheros AR3011 Chips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-address-a-non-operational-laptop-screen/"><u>How to Address a Non-Operational Laptop Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>In 2024, Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalized-nvidia-drivers-for-win11s-geforce-210/"><u>Revitalized NVIDIA Drivers for Win11's GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blank-gpu-missing-2020/"><u>Screen Blank: GPU Missing [2020]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-affected-by-graphics-driver-crash-repaired/"><u>System Affected by Graphics Driver Crash Repaired</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-display-fade/"><u>Troubleshooting Lenovo Display Fade</u></a></li>
 </ul></div>
 

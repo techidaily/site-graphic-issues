@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-11-30T03:52:14.346Z
-updated: 2024-12-03T01:02:06.675Z
+date: 2024-12-07T16:48:24.290Z
+updated: 2024-12-09T23:44:43.155Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for HP laptop flickering or blinking
 
  Here are 3 fixes that have helped other users resolve the screen flickering or blinking on HP laptop issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -44,6 +44,10 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -64,7 +68,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -95,10 +99,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 #### **I’m using Windows 7 or 8.1:**
@@ -114,7 +114,7 @@ Here is how to do it:
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -129,7 +129,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -158,21 +158,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-jumpstart-your-career-with-a-killer-youtube-gaming-channel/"><u>2024 Approved Jumpstart Your Career with a Killer YouTube Gaming Channel</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-sims-4-live-action-gaming-capture-essentials/"><u>2024 Approved Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>2024 Approved Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/academic-integrity-beyond-auto-generated-texts/"><u>Academic Integrity Beyond Auto-Generated Texts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-r9-errors-the-final-step-for-win11/"><u>Fixing R9 Errors: The Final Step for Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/initial-graphical-system-unresponsive/"><u>Initial Graphical System Unresponsive</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-game-recording-made-easy-3-options-for-every-gamer/"><u>New 2024 Approved Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-blur-windows-display-enhanced/"><u>No Blur: Windows Display Enhanced</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-malfunction-cured-display-resolved/"><u>Nvidia Malfunction Cured - Display Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pcie-lone-gpu-in-system-logs-cleared/"><u>PCIe Lone GPU in System Logs Cleared</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-windows-7-flicker-a-quick-guide/"><u>Solving Windows 7 Flicker: A Quick Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-filmmakers-handbook-for-professional-gopro-videographers-for-2024/"><u>The Filmmaker's Handbook for Professional Gopro Videographers for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v29e-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V29e Phone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-anthem-delays/"><u>Troubleshoot Anthem Delays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-making-your-usb-drive-detectable-again/"><u>Troubleshooting Guide: Making Your USB Drive Detectable Again</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-are-rtx-graphics-cards-unlocking-the-secrets-behind-nvidias-latest-tech/"><u>What Are RTX Graphics Cards? Unlocking the Secrets Behind NVIDIA's Latest Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>[New] In 2024, The Aesthetic Edge Crafting Podcast Logos with Panache</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-needed-windows-without-amd-driver-available/"><u>[SOLUTION NEEDED]: Windows Without AMD Driver Available</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] 2024 Approved Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-direct-screens-capture-chromeos-edition-for-2024/"><u>[Updated] Direct Screens Capture ChromeOS Edition for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>[Updated] In 2024, A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-overlapping-window-issues-in-windows-10/"><u>Addressing Overlapping Window Issues in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-incorporating-smileys-in-iphone-conversations/"><u>Comprehensive Instructions for Incorporating Smileys in iPhone Conversations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-methods-to-transform-dat-videos-into-mp4-format-top-5-tips/"><u>Easy Methods to Transform DAT Videos Into MP4 Format: Top 5 Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817910025-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-zero-response/"><u>GPU Error: Zero Response</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>In 2024, Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>In 2024, ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-xcover-7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy XCover 7 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-xbox-series-graphics-bug/"><u>Rectified Xbox Series Graphics Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-flickering-issue/"><u>Solving Windows 10 Flickering Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-blacked-out-desktop-window/"><u>Taming the Blacked-Out Desktop Window</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-for-correcting-c1900101-on-windows-11-installation/"><u>Tips for Correcting C1900101 on Windows 11 Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-and-resolve-ignored-graphics-on-your-pc/"><u>Uncover and Resolve Ignored Graphics on Your PC</u></a></li>
 </ul></div>
 

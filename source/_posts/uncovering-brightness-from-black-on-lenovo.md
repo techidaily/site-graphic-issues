@@ -1,7 +1,7 @@
 ---
 title: Uncovering Brightness From Black on Lenovo
-date: 2024-11-29T18:18:04.346Z
-updated: 2024-12-03T03:52:50.134Z
+date: 2024-12-02T20:48:18.046Z
+updated: 2024-12-10T02:27:52.515Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -83,10 +83,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -99,10 +95,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart the explorer.exe process
 
  Explorer.exe manages the desktop, taskbar, and other processes on your laptop, so if it’s closed in your system, your desktop and taskbar will become invisible and your screen will go black. In this case, you will need to restart the process to see if it solves the problem.
@@ -113,13 +105,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -135,17 +127,25 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -161,25 +161,25 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,14 +207,19 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-exploring-dji-phantom-3s-advanced-aerial-capabilities/"><u>[New] 2024 Approved Exploring DJI Phantom 3’S Advanced Aerial Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-on-vlc-screen-recording/"><u>[Updated] In 2024, Step-by-Step on VLC Screen Recording</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-inspiration-for-individuality-on-snapchat-a-resource-of-over-120-private-story-concepts-for-2024/"><u>[Updated] Inspiration for Individuality on Snapchat A Resource of Over 120 Private Story Concepts for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-up-reviving-a-darkened-asus-machine/"><u>Brighten Up: Reviving a Darkened Asus Machine</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-sideways-screens-standard-view-on-windows-10/"><u>Fix Sideways Screens: Standard View on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-is-my-csgo-mic-not-responding-and-how-to-restore-it/"><u>Solved: Why Is My CS:GO Mic Not Responding and How to Restore It?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing-for-2024/"><u>Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818312388-uninterrupted-streaming-now-post-win10s-revamp/"><u>Uninterrupted Streaming Now, Post Win10's Revamp!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-text-treatments-elevating-ae-titles/"><u>[New] Innovative Text Treatments Elevating AE Titles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-rising-stars-choices-top-5-hmds-for-drone-enthusiasts-for-2024/"><u>[Updated] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-understanding-the-impact-of-circular-videography-for-2024/"><u>[Updated] Understanding the Impact of Circular Videography for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-the-blackout-on-a-laptop-monitor/"><u>Combatting the Blackout on a Laptop Monitor</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-underlying-themes-in-fb-chatter/"><u>Decoding Underlying Themes in FB Chatter</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dusk-to-dawn-for-darkened-windows-11-win11/"><u>Dusk to Dawn for Darkened Windows 11 Win11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-8-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 8 Plus Device from iCloud</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-successfully-remove-stubborn-software-from-your-pc-or-mac/"><u>How To Successfully Remove Stubborn Software From Your PC or Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-your-gpu-with-latest-driver/"><u>Optimize Your GPU with Latest Driver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/triller-demystified-a-comparative-look-at-unique-online-platforms/"><u>Triller Demystified A Comparative Look at Unique Online Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-free-flv-video-editors/"><u>Updated Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-graphics-performance-with-new-nvidia-drivers-on-windows/"><u>Upgraded Graphics Performance with New NVIDIA Drivers on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818332766-win11-screen-flicker-no-more/"><u>Win11 Screen Flicker - No More!</u></a></li>
 </ul></div>
 

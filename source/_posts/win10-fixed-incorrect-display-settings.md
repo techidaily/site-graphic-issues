@@ -1,7 +1,7 @@
 ---
 title: "Win10: Fixed Incorrect Display Settings"
-date: 2024-12-01T16:09:45.513Z
-updated: 2024-12-02T23:44:22.359Z
+date: 2024-12-05T05:48:46.143Z
+updated: 2024-12-10T06:40:51.961Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -74,13 +74,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -91,10 +91,6 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -119,6 +115,10 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,24 +148,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-supercharge-your-screens-with-video-enhancer-v22/"><u>[New] Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-hidden-gems-top-tips-for-savvy-users/"><u>[Updated] 2024 Approved Instagram Hidden Gems Top Tips for Savvy Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-vision-experience-these-7-grading-styles/"><u>[Updated] Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-hidden-powerhouses-in-your-instagram-toolkit/"><u>[Updated] In 2024, The Hidden Powerhouses in Your Instagram Toolkit</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-study-of-toolwizs-photography-tools/"><u>2024 Approved Comparative Study of Toolwiz's Photography Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-youtube-playback-on-newly-upgraded-windows-11/"><u>Enhancing YouTube Playback on Newly Upgraded Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ensuring-display-perfection-after-fix/"><u>Ensuring Display Perfection After Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-rectify-unrecognized-video-cards/"><u>How to Rectify Unrecognized Video Cards</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-best-among-us-discord-bots/"><u>In 2024, Best Among Us Discord Bots</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-x9a-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor X9a Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intel-driver-install-on-underpowered-pcs/"><u>Intel Driver Install on Underpowered PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pixelpilot-expert-tips-for-screen-snagging-for-2024/"><u>PixelPilot Expert Tips for Screen Snagging for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repairing-flickering-lcd-issues-on-computers/"><u>Repairing Flickering LCD Issues on Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/setting-save-successful-after-glitch-fix/"><u>Setting Save Successful After Glitch Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shadows-lifted-direct-x-error-exposed-and-eliminated-from-lol/"><u>Shadows Lifted: Direct X Error Exposed & Eliminated From LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gameplay-quick-cure-for-amd-and-tarkov-gaffe/"><u>Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-launch-of-immortals-fenyx-rising-the-godly-quest-begins/"><u>Successful Launch of Immortals Fenyx Rising: The Godly Quest Begins</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g14-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G14 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-discover-15-superior-snap-strategies/"><u>[New] In 2024, Discover 15 Superior Snap Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-memes-to-your-device-iosandroid-gif-collection-tips/"><u>[New] In 2024, From Memes to Your Device IOS/Android GIF Collection Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ati-radeon-hd-5450-windows-11-drivers-update-quickly-and-easily/"><u>ATI Radeon HD 5450 Windows 11 Drivers Update Quickly & Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoiding-rtx-3080-game-aborts/"><u>Avoiding RTX 3080 Game Aborts</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nubia-z50-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nubia Z50 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210001430-9781761034541-divination/"><u>Divination | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-boundaries-new-drivers-elevate-amds-hd-6950/"><u>Push Boundaries - New Drivers Elevate AMD's HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-normal-screen-orientation-for-windows-10/"><u>Restore Normal Screen Orientation for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-size-control-achieved-in-new-version-of-windows-11/"><u>Screen Size Control Achieved in New Version of Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-experience-with-rtx-3080/"><u>Smooth Gaming Experience with RTX 3080</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>Updated Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
 </ul></div>
 

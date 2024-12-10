@@ -1,7 +1,7 @@
 ---
 title: "Fix: Unclear Windows Display"
-date: 2024-11-28T03:53:46.742Z
-updated: 2024-12-02T19:07:02.678Z
+date: 2024-12-04T19:27:35.149Z
+updated: 2024-12-09T22:31:30.770Z
 tags:
   - win11
   - win10
@@ -64,21 +64,13 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your graphics card driver
 
@@ -103,12 +95,16 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if your screen becomes normal.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change DPI scaling settings for your monitor
 
@@ -133,16 +129,20 @@ Check if your screen becomes normal.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -156,21 +156,21 @@ Check if your screen is still blurry.
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Check if the blurry problem has been fixed.
 
@@ -196,24 +196,24 @@ Check if the blurry problem has been fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-discovering-portable-recording-solutions-for-mac-users-for-2024/"><u>[New] Discovering Portable Recording Solutions for Mac Users for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-economical-pc-screen-grab-utilities-for-2024/"><u>[New] Economical PC Screen Grab Utilities for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mac-innovators-handbook-crafting-cool-youtube-videos/"><u>[New] In 2024, Mac Innovators' Handbook Crafting Cool Youtube Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastery-over-light-and-shadow-with-hdr-software-for-2024/"><u>[New] Mastery Over Light and Shadow with HDR Software for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-acceleratedecelerate-your-youtube-videos-a-step-by-step-guide/"><u>[Updated] In 2024, Accelerate/Decelerate Your YouTube Videos A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-v30-lite-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-blackout-mystery/"><u>Display Blackout Mystery</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-facile-pour-dupliquer-le-systeme-dexploitation-windows-1011-sur-supports-de-stockage-disque-dur-ou-ssd/"><u>Guide Facile Pour Dupliquer Le Système D'Exploitation Windows 10/11 Sur Supports De Stockage Disque Dur Ou SSD</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-perfect-selfies-a-guide-to-using-portable-lights/"><u>Mastering the Art of Perfect Selfies: A Guide to Using Portable Lights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-voice-control-on-ios-5-essential-tips-for-perfect-dictation/"><u>Mastering Voice Control on iOS: 5 Essential Tips for Perfect Dictation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidias-swift-fix-on-opengl-driver-trouble/"><u>NVIDIA's Swift Fix on OpenGL Driver Trouble</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-update-win10-flawless-streaming-guide/"><u>Post-Update Win10: Flawless Streaming Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-display-driver-anomalies-of-r9-gpu-in-windows-10/"><u>Resolved Display Driver Anomalies of R9 GPU in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-system-efficiency-upgrading-graphics-driver-on-windows/"><u>Revive System Efficiency: Upgrading Graphics Driver on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-remedy-tarkov-and-amd-glitches-cleared/"><u>Swift Remedy: Tarkov and AMD Glitches Cleared</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-loading-lags-head-on/"><u>Tackle Loading Lags Head-On</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818200918-win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[New] Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-streaming-screens-using-netflixs-pip-mode-for-2024/"><u>[New] Unveiling Streaming Screens Using Netflix's PIP Mode for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-performance-and-capabilities-of-the-midland-lxt500vp3-transceiver-a-detailed-review/"><u>Analyzing Performance & Capabilities of The Midland LXT500VP3 Transceiver: A Detailed Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drivers-reset-nvidia-display-now-functional/"><u>Drivers Reset: Nvidia Display Now Functional</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effective-strategies-to-optimize-your-computers-ram-insights-from-yl-computing/"><u>Effective Strategies to Optimize Your Computer's RAM: Insights From YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expertise-applied-to-solve-comexception-window-errors/"><u>Expertise Applied to Solve COMException Window Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glitch-overcome-visuals-preserved-and-stable/"><u>Glitch Overcome: Visuals Preserved and Stable</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-first-person-shooter-release-date-confirmed-for-pc-platform/"><u>God of War First-Person Shooter Release Date Confirmed for PC Platform</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818203494-gpu-glitch-spotlight-now-resolved/"><u>GPU Glitch Spotlight - Now Resolved!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-issues-resolved-on-new-laptop-win11-version/"><u>GPU Issues Resolved on New Laptop Win11 Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-installing-new-display-drivers-for-your-toshiba-satellite-under-windows-os/"><u>Guide: Installing New Display Drivers for Your Toshiba Satellite Under Windows OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 14 Pro Max</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-might-in-god-of-war/"><u>Mastering the Might in 'God of War'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-constant-disruptions-solutions-for-outlooks-continual-closure/"><u>Preventing Constant Disruptions: Solutions for Outlook's Continual Closure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-cure-rectify-distorted-laptop-borders/"><u>Quick Cure: Rectify Distorted Laptop Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-a-smooth-display-in-win11/"><u>Securing a Smooth Display in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-win10-resolution-errors/"><u>Solving Win10 Resolution Errors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/formative-beauty-tutorials-for-everyone-for-2024/"><u>Transformative Beauty Tutorials for Everyone for 2024</u></a></li>
 </ul></div>
 

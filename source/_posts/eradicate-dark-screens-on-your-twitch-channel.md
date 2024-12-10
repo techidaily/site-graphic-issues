@@ -1,7 +1,7 @@
 ---
 title: Eradicate Dark Screens on Your Twitch Channel
-date: 2024-11-30T18:44:47.770Z
-updated: 2024-12-02T23:01:46.045Z
+date: 2024-12-02T21:06:13.457Z
+updated: 2024-12-09T20:05:12.873Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Fix 1: Restart your network devices](#h-fix-1-restart-your-network-devices)
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 * [Fix 5: Disable browser extensions](#h-fix-5-disable-browser-extensions)
 * [Fix 6: Switch in or out of hardware acceleration](#h-fix-6-switch-in-or-out-of-hardware-acceleration)
 * [Fix 7: Is it a server issue?](#h-fix-7-is-it-a-server-issue)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your network devices
 
@@ -45,7 +53,7 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -54,6 +62,10 @@ Here’s how you go about it:
 5. Start streaming in Twitch and see if the black screen issue is resolved. If yes, then congrats! If the black screen persists, please try**Fix 2** , below.
 
  You can test your internet to see if other devices and apps can be connected properly. If the connection is off, then you should contact your ISP for assistance. If the problem doesn’t lie with the router or modem, you can try boosting your connection a bit – moving your modem & router to a more central place in your home, limiting the number of devices connected to your network etc. If your internet is up and running but Twitch gives black screen, then you should move on to**Fix 2** to further narrow down the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change your DNS settings
 
@@ -69,7 +81,7 @@ Here’s how you go about it:
 3. Right-click on your network adapter, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
@@ -79,7 +91,7 @@ Here’s how you go about it:
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
@@ -91,13 +103,13 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ip-1.png)
 4. Test streaming in Twitch and see if the video is playing properly. If it’s no joy, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -118,6 +130,10 @@ Here’s how you go about it:
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Clear cache and cookies
 
  Browsers save files and data so that next time the same information can load up faster. However, overtime, the cached data may have gone wrong, corrupt or outdated, causing the video to not load in Twitch. You can try clearing cache and cookie in your web browser and see how it goes.
@@ -132,10 +148,6 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
 **Clear cache and cookies in** **Firefox:**
@@ -145,27 +157,23 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In the left panel, choose**Privacy & Security** , then in the right, scroll down to**Cookies and Site data** section and click**Clear Data…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/；rivacy.png)
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
 6. Restart Firefox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable browser extensions
@@ -193,10 +201,6 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_15-11-08.png)
 5. Exit Chrome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Launch Chrome, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
 
 **Enable or disable hardware acceleration in Firefox:**
@@ -210,10 +214,6 @@ Here’s how you go about it:
 4. Exit Firefox.
 
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
 
@@ -241,24 +241,20 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-enhancing-gopro-footage-minimizing-motion-blur/"><u>[New] Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-analysis-of-the-latest-video-show-app-24-release/"><u>[Updated] Expert Analysis of the Latest Video Show App '24 Release</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-savers-in-action-expert-tips-on-recording-your-minecraft-experience-for-2024/"><u>[Updated] Screen Savers in Action Expert Tips on Recording Your Minecraft Experience for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-image-perfection-the-premier-iphone-object-removal-apps/"><u>2024 Approved Professional Image Perfection The Premier iPhone Object Removal Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/black-screen-after-installing-graphics-card-driver/"><u>Black Screen After Installing Graphics Card Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-anthem-responsiveness/"><u>Boost Anthem Responsiveness</u></a></li>
-<li><a href="https://video-capture.techidaily.com/breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording/"><u>Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-gaming-experience-get-latest-nvidia-drivers/"><u>Elevate Gaming Experience: Get Latest Nvidia Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-graphics-hiccups-in-rtx-3080/"><u>Fixing Graphics Hiccups in RTX 3080</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-podcast-rss-feed-crafting/"><u>In 2024, Comprehensive Guide to Podcast RSS Feed Crafting</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/israeli-peoples-chosen-dialect/"><u>Israeli People’s Chosen Dialect?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mouse-mystery-solved-on-black-screens-win11/"><u>Mouse Mystery Solved on Black Screens Win11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/navigating-the-floating-window-technology-in-netflix/"><u>Navigating The Floating Window Technology in Netflix</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-ipad-discover-how-this-innovative-kid-friendly-tablet-is-changing-the-game-now-available-at-discount-prices/"><u>Say Goodbye to Your iPad: Discover How This Innovative Kid-Friendly Tablet Is Changing the Game - Now Available at Discount Prices!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secured-graphics-setup-on-windows/"><u>Secured Graphics Setup on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/speeding-up-purchases-on-microsofts-digital-shelf/"><u>Speeding Up Purchases on Microsoft's Digital Shelf</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-screen-link-reconnect-your-display-promptly/"><u>Swift Screen Link: Reconnect Your Display Promptly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-explore-the-most-effective-zoom-screen-recorders/"><u>[New] Explore the Most Effective Zoom Screen Recorders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-your-mobile-experience-with-these-7-blockers/"><u>[New] Maximize Your Mobile Experience with These 7 Blockers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>2024 Approved Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-cam-repair-guide-essentials/"><u>ASUS Cam Repair Guide Essentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-tecno-spark-20-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Tecno Spark 20 Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-cpu-override-in-win1011s-display-settings/"><u>Fixing CPU Override in Win10/11's Display Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721429542323-gpt-unlocked-vital-updates-you-cant-ignore/"><u>GPT Unlocked: Vital Updates You Can't Ignore</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-startup-dx12-error-with-halo-infinite/"><u>Halted Game Startup: DX12 Error with Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Yuva 2 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-supercharge-your-vehicles-top-10-srt-mods-for-os-x-and-windows/"><u>In 2024, Supercharge Your Vehicles Top 10 SRT Mods for OS X & Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/leap-forward-latest-windows-11-driver-upgrade-for-amd-hd-6950-graphics/"><u>Leap Forward: Latest Windows 11 Driver Upgrade for AMD HD 6950 Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fixing-nvidia-installer-issue/"><u>Resolved: Fixing NVIDIA Installer Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-denied-no-card-found/"><u>Visual Output Denied: No Card Found</u></a></li>
 </ul></div>
 

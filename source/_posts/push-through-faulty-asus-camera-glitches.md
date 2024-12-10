@@ -1,7 +1,7 @@
 ---
 title: Push Through Faulty ASUS Camera Glitches
-date: 2024-11-28T03:19:01.885Z
-updated: 2024-12-02T16:42:46.886Z
+date: 2024-12-05T03:20:05.321Z
+updated: 2024-12-10T03:51:28.986Z
 tags:
   - win11
   - win10
@@ -29,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Press the hotkey to enable the camera
 
  Prior to troubleshooting steps, you can try enabling your Asus camera by pressing the**Fn + F10** at the same time. Check if there’s a “**Camera On** ” message on the desktop.
 
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Allow your device and apps to access the camera
 
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
@@ -77,10 +73,14 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -93,10 +93,6 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you prefer to do it manually, you can uninstall the driver and delete the driver file from your system in Device Manager, and restart your computer to let the system reinstall the correct driver for you.
 
  On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run command.
@@ -106,7 +102,7 @@ After updating your drivers, restart your PC and test the camera.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
@@ -114,6 +110,10 @@ After updating your drivers, restart your PC and test the camera.
  3) Right-click **Integrated Camera** and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
 
@@ -142,18 +142,20 @@ After updating your drivers, restart your PC and test the camera.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-ordinary-posts-into-masterpieces-top-10-grid-makers/"><u>[New] 2024 Approved Transform Ordinary Posts Into Masterpieces Top 10 Grid Makers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-learn-to-redefine-your-instagram-sound-with-ease-for-2024/"><u>[New] Learn to Redefine Your Instagram Sound with Ease for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-review-and-compare-with-az-screenshotter/"><u>[Updated] Discover, Review & Compare with AZ Screenshotter</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-sourav-joshis-income-tactics-the-future-of-monetizing-content-for-2024/"><u>[Updated] Sourav Joshi's Income Tactics The Future of Monetizing Content for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-missing-display-options-on-gpu/"><u>Correcting Missing Display Options on GPU</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/improving-user-engagement-4-wishlist-features-for-the-chatgpt-add-on-shop/"><u>Improving User Engagement: 4 Wishlist Features for the ChatGPT Add-On Shop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-openai-innovative-uses-and-implementation-tips-for-its-api/"><u>Mastering the Art of OpenAI: Innovative Uses and Implementation Tips for Its API</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-youtubes-greenscreen-mishaps-effectively/"><u>Overcoming YouTube's Greenscreen Mishaps Effectively</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/supercharge-your-systems-graphics-update-intels-gfx-in-windows/"><u>Supercharge Your System's Graphics - Update Intels GFX in WIndows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uniting-forces-nvidia-and-windows-10s-graphical-ally/"><u>Uniting Forces: Nvidia & Windows 10'S Graphical Ally</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries – What Is It and What to Do About It?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-tips-for-making-youtube-introductory-trailers/"><u>[New] Essential Tips for Making YouTube Introductory Trailers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-top-6-microphones-perfect-for-online-streaming-success-for-2024/"><u>[New] Unveiling Top 6 Microphones Perfect for Online Streaming Success for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>2024 Approved Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unveiling-the-secrets-to-youtube-success-12-proven-methods/"><u>2024 Approved Unveiling the Secrets to YouTube Success 12 Proven Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-video-drivers-mishap-in-minecraft-world/"><u>Cure Video Drivers Mishap in Minecraft World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fallen-display-in-win10-creators-fix/"><u>Fallen Display in Win10 (Creator's Fix)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-lost-to-found-screen-saving-fulfilled/"><u>From Lost to Found - Screen Saving Fulfilled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-implement-a-batch-script-as-a-unique-system-alert/"><u>How to Implement a Batch Script as a Unique System Alert</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-zero-cost-online-seminars-youtube-edition-for-2024/"><u>Mastering Zero-Cost Online Seminars YouTube Edition for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/securing-your-ps4-adventures-with-advanced-recording-for-2024/"><u>Securing Your PS4 Adventures with Advanced Recording for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-direct3d-loading-now/"><u>Successful Direct3D Loading Now</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xfx-driver-recovery-ensures-display-integrity/"><u>XFX Driver Recovery Ensures Display Integrity</u></a></li>
 </ul></div>
 

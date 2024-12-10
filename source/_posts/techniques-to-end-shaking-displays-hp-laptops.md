@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-11-30T01:00:54.586Z
-updated: 2024-12-03T00:41:03.629Z
+date: 2024-12-09T06:19:49.685Z
+updated: 2024-12-10T02:48:48.142Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -48,6 +44,10 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -64,16 +64,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -99,6 +95,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
@@ -111,15 +111,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -158,24 +158,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-ultimate-virtual-world-cinema-lineup-for-2024/"><u>[New] Ultimate Virtual World Cinema Lineup for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-views-essential-hashtags-for-trending-shorts/"><u>2024 Approved Boosting Views Essential Hashtags for Trending Shorts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advanced-display-tweaks-now-supported-by-windows-11/"><u>Advanced Display Tweaks Now Supported by Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/fying-your-content-free-techniques-to-boost-youtube-views-for-2024/"><u>Amplifying Your Content Free Techniques to Boost YouTube Views for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clear-android-cache-efficiently-in-simple-steps/"><u>Clear Android Cache Efficiently in Simple Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-adobes-cloud-storage-features-and-benefits-with-contrasting-solutions/"><u>Decoding Adobe’s Cloud Storage Features & Benefits with Contrasting Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dx-error-in-lol-resolved-mystery/"><u>DX Error in LoL - Resolved Mystery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-analysis-the-full-spectrum-of-bublcam-360/"><u>Expert Analysis The Full Spectrum of Bublcam 360</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-driver-correction-error-22-settled/"><u>GPU Driver Correction: Error #22 Settled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-catch-up-on-the-transformers-movies-in-chronological-order/"><u>How To Catch Up on The Transformers Movies In Chronological Order</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-bluetooth-device-showing-voicemusic-only-on-windows/"><u>How to Fix a Bluetooth Device Showing Voice/Music Only on Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-swift-video-voyage-navigating-through-the-youtubes-and-tiktok-landscapes/"><u>In 2024, The Swift Video Voyage Navigating Through the YouTubes and TikTok Landscapes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-gameplay-hurdles-god-of-war/"><u>Overcoming Gameplay Hurdles: 'God of War'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-guide-to-sharpening-distorted-monitors/"><u>Quick Guide to Sharpening Distorted Monitors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-cards-issue-save-minecraft-session/"><u>Rectify Cards Issue, Save Minecraft Session</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-and-cursor-in-win10/"><u>Restoring Lost Display and Cursor in Win10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-the-voice-of-your-games-fixing-steelseries-arctis-5-microphone-woes/"><u>Revive the Voice of Your Games: Fixing SteelSeries Arctis 5 Microphone Woes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sprint-through-apex-with-ease/"><u>Sprint Through Apex with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-resolved-intel-and-nvidia-graphics-switch/"><u>Windows 10: Resolved Intel & Nvidia Graphics Switch</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-path-to-ethical-expansion-youtube-traffic-enhancement-for-2024/"><u>[New] The Path to Ethical Expansion YouTube Traffic Enhancement for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-earnings-escalation-via-youtube-channel-initiatives/"><u>[Updated] Earnings Escalation via YouTube Channel Initiatives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-premium-7-dslr-picks-for-ultimate-visual-storytelling-online/"><u>2024 Approved Premium 7 DSLR Picks For Ultimate Visual Storytelling Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-razr-40-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Razr 40 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directive-for-device-deletion-graphics-card-erasure/"><u>Directive for Device Deletion: Graphics Card Erasure</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-bespoke-online-marketing-with-cutting-edge-cookiebot-solutions/"><u>Experience Bespoke Online Marketing with Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-maintain-stability-for-snowrunner-software-running-on-personal-computers/"><u>How to Maintain Stability for SnowRunner Software Running on Personal Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-now-fully-supports-latest-gpus/"><u>Overwatch Now Fully Supports Latest GPUs</u></a></li>
+<li><a href="https://win-net.techidaily.com/professionelle-tipps-zur-verwendung-der-quick-access-security-funktionen-in-windows-11-eine-anleitung-fur-anfanger/"><u>Professionelle Tipps Zur Verwendung Der Quick Access Security Funktionen in Windows 11: Eine Anleitung Für Anfänger</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-hiccup-nvidia-driver-returns-to-operation/"><u>System Hiccup: Nvidia Driver Returns to Operation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/task-triumphs-leading-windows-programs-to-boost-your-output/"><u>Task Triumphs: Leading Windows Programs to Boost Your Output</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zeroing-in-on-a-laptops-unresponsive-display/"><u>Zeroing in on a Laptop's Unresponsive Display</u></a></li>
 </ul></div>
 

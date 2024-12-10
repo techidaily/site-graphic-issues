@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2024-12-02T01:41:41.672Z
-updated: 2024-12-03T03:58:31.617Z
+date: 2024-12-04T02:39:05.106Z
+updated: 2024-12-09T23:55:42.776Z
 tags:
   - win11
   - win10
@@ -22,19 +22,11 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
  Many people are recently reporting a screen tearing issue on their computer. They are having this issue while playing games or watching videos, and for some it’s happening everywhere.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does my screen tear?
 
  One common cause is that your computer outputs more video frames than your monitor can take. For example, if your monitor is using a fixed refresh rate of**60 Hz** (refreshes every 1/60 second), the video output with frame rates higher than that can be**out of sync** with your monitor. Then you have multiple frames displayed at once on your scree, which is the screen tearing issue.
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix my tearing screen?
 
@@ -42,10 +34,6 @@ There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -65,6 +53,10 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Turn on V-Sync
 
  V-Sync can limit the video output frame rate to 60 FPS (frames per second), which suits your monitor’s 60 Hz refresh rate. Enabling V-Sync can be an effective fix on many computers suffering from screen tearing.
@@ -74,7 +66,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
@@ -93,12 +85,16 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**AMD** graphics users
@@ -108,6 +104,10 @@ There are two fixes you can try:
  How to adjust this setting can be different, depending on your Radeon Software version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
@@ -131,21 +131,22 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-perfect-pages-with-premieres-fade-techniques-for-2024/"><u>[Updated] Perfect Pages with Premiere's Fade Techniques for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/5-effective-strategies-for-solving-audio-glitches-on-your-windows-10-machine/"><u>5 Effective Strategies for Solving Audio Glitches on Your Windows 10 Machine</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-display-stability-on-pro-7-tablet/"><u>Enhancing Display Stability on Pro 7 Tablet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/excellent-ending-for-displays-save-saga/"><u>Excellent Ending for Displays' Save-Saga</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/hands-on-strategies-to-keep-vimeo-videos-for-2024/"><u>Hands-On Strategies to Keep Vimeo Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/highest-rated-20-public-domain-pubg-combos/"><u>Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience-for-2024/"><u>How LG's 27UHD68 Enhances Gaming Experience for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-not-registered-in-device-hub/"><u>NVIDIA RTX Not Registered in Device Hub</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-blurriness-in-far-cry-6-display/"><u>Overcoming Blurriness in Far Cry 6 Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pinpoint-problematic-video-card-in-crashes/"><u>Pinpoint Problematic Video Card in Crashes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/rapid-training-image-transformation-for-dynamic-youtube-desktop-thumbnails/"><u>Rapid Training Image Transformation for Dynamic YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-options-with-precision/"><u>Restoring Lost Display Options with Precision</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-eradicated-screen-warping/"><u>Windows 11: Eradicated Screen Warping</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windowspc/"><u>WindowsPCで選択した箇所だけ音声ファイルを分離する手順</u></a></li>
-<li><a href="https://win-latest.techidaily.com/aep/"><u>アフターエフェクト：未保存されたAEPデータを取り戻す方法とヒント</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-recommendations-on-asmr-and-restful-nights-for-2024/"><u>[New] Expert Recommendations on ASMR & Restful Nights for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/irrorless-innovation-taking-over-dslr-in-videos/"><u>[New] Mirrorless Innovation Taking Over DSLR in Videos?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-insightful-slomo-video-app-analysis-year-2024-perspective/"><u>[Updated] Insightful SloMo Video App Analysis - Year 2024 Perspective</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/all-systems-compatible-overwatch-latest-graphic-fixes/"><u>All Systems Compatible: Overwatch Latest Graphic Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ausdauer-der-sprache-deutsche-grusse-abseits-von-hallo/"><u>Ausdauer Der Sprache: Deutsche Grüße Abseits Von Hallo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-windows-10-unresponsive-monitor/"><u>Fix for Windows 10 Unresponsive Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-aspect-ratio-on-slant-view-laptop/"><u>Fixed Aspect Ratio on Slant-View Laptop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-pro-max-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 Pro Max to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>In 2024, Lightweight Voice Alteration Maximizing Your Gameplay in PUBG</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lg-monitor-troubleshooting-steps-updating-and-repairing-windows-drivers/"><u>LG Monitor Troubleshooting Steps: Updating & Repairing Windows Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-visual-stability-stop-screen-flickers/"><u>Mastering Visual Stability: Stop Screen Flickers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-windows-11-reversed-screen-fix/"><u>Mend Windows 11: Reversed Screen Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-fullscreen-view-in-win10/"><u>Monitor Not Showing Fullscreen View in Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-to-reactivate-dimmed-or-dead-keylights-in-your-laptop/"><u>Solution Steps to Reactivate Dimmed or Dead Keylights in Your Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-managing-gpu-fails-in-running-systems/"><u>Strategies for Managing GPU Fails in Running Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-reactive-user-preferences-and-setups/"><u>Troubleshooting Non-Reactive User Preferences and Setups</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-output-restored-post-error/"><u>Video Output Restored Post-Error</u></a></li>
 </ul></div>
 

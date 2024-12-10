@@ -1,7 +1,7 @@
 ---
 title: System Graphics Normalization Achieved
-date: 2024-11-28T21:46:07.842Z
-updated: 2024-12-02T23:34:45.319Z
+date: 2024-12-02T21:21:06.591Z
+updated: 2024-12-10T01:23:56.902Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -61,15 +61,15 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -77,11 +77,15 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -104,10 +108,6 @@ Example – CMOS battery on a laptop
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
@@ -129,20 +129,20 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-eluding-digital-footprints-while-enjoying-instagram-stories-online/"><u>[New] 2024 Approved Eluding Digital Footprints While Enjoying Instagram Stories Online</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-customize-screenshot-storing-on-mac-for-2024/"><u>[New] Customize Screenshot Storing on Mac for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-techniques-to-share-your-screen-on-google-meet/"><u>[New] Seamless Techniques to Share Your Screen on Google Meet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/note-windows-devices-need-amd-video-drivers/"><u>[NOTE] Windows Devices Need AMD Video Drivers</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-techniques-for-eradicating-youtubes-green-screen-hiccups/"><u>Efficient Techniques for Eradicating YouTube's Green Screen Hiccups</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-your-call-quality-with-these-zoom-tech-fixes-for-today/"><u>Enhance Your Call Quality with These Zoom Tech Fixes for Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-unidentified-graphics-device/"><u>Fix: Unidentified Graphics Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-continuous-crash-issues-in-stardew-valley-for-a-smoother-gaming-experience/"><u>Fixing Continuous Crash Issues in Stardew Valley for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-making-youtube-based-twitter-videos-hearable/"><u>In 2024, Making YouTube-Based Twitter Videos Hearable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-greenscreen-effects-on-video-platforms-like-youtube/"><u>Perfecting Greenscreen Effects on Video Platforms Like YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-65-gaming-laptops-under-700-for-the-festive-season-featuring-exclusive-deals/"><u>Top 65 Gaming Laptops Under $700 For The Festive Season - Featuring Exclusive Deals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turbocharge-video-playback-speed/"><u>Turbocharge Video Playback Speed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alert-amd-card-unsupported-by-windows-oses/"><u>[ALERT] AMD Card Unsupported by Windows OSes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-decoding-the-complexities-in-fpv-drone-propeller-selection/"><u>[New] In 2024, Decoding the Complexities in FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-advice-on-archiving-sports-from-live-feeds/"><u>[New] In 2024, Expert Advice on Archiving Sports From Live Feeds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aster-the-art-of-vlogging-with-these-top-8-cameras/"><u>[New] Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-9gag-meme-landscape-a-beginners-guide/"><u>[Updated] 2024 Approved Navigating the 9GAG Meme Landscape A Beginner's Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-splitting-content-introducing-chapters-in-vimeo/"><u>[Updated] 2024 Approved Splitting Content Introducing Chapters in Vimeo</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-dealing-with-a-non-functioning-notebook-touchpad/"><u>Comprehensive Tips for Dealing with a Non-Functioning Notebook Touchpad</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-protocol-normalized/"><u>Display Protocol Normalized</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-mastery-of-latin-via-internet-portal/"><u>Effortless Mastery of Latin via Internet Portal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-nvidia-conflict-geforce-7025nforce-630a/"><u>Fixing Windows-Nvidia Conflict, GeForce 7025/nForce 630A</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6 without Passcode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lighten-load-on-your-laptop-quick-update-to-intels-gfx-driver/"><u>Lighten Load on Your Laptop - Quick Update to Intel's GFX Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-era-for-pc-gaming-with-nvidias-win11-geforce-210-upgrade/"><u>New Era for PC Gaming with NVIDIA's Win11 GeForce 210 Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-low-spec-limit-boot-with-intel-graphics/"><u>Overcoming Low Spec Limit: Boot with Intel Graphics</u></a></li>
 </ul></div>
 

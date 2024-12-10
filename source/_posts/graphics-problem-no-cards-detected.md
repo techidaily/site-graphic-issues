@@ -1,7 +1,7 @@
 ---
 title: "Graphics Problem: No Cards Detected"
-date: 2024-11-28T17:11:47.919Z
-updated: 2024-12-02T17:07:49.072Z
+date: 2024-12-03T03:45:19.191Z
+updated: 2024-12-09T23:03:01.356Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 5. **[Update your BIOS](#e)** [](#e)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Refresh Device Manager
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  On your keyboard, press the **Windows logo**  key and**R** at the same time to open the Run dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  Check if your graphics card shows up under Display adapters.
 
  If it doesn’t, don’t worry. Read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall recent Windows updates
 
@@ -91,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Programs** .
@@ -120,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 If your problem persists, check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your graphics card
@@ -138,10 +134,6 @@ If your problem persists, check the fix below.
 **3)** Remove your graphics card and reinstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-504.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here is where a graphics card is usually located.
 
@@ -161,9 +153,17 @@ Here is where a graphics card is usually located.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-493.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-495.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Go to the manufacturer’s support website and search for the latest update for your BIOS.
 
@@ -193,17 +193,17 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-quick-content-in-a-facebook-frame/"><u>[New] Quick Content in a Facebook Frame</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-sectionalviewpoint-investigation/"><u>[New] SectionalViewpoint Investigation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-converting-personal-memories-from-stillness-to-motion/"><u>[Updated] Converting Personal Memories From Stillness to Motion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gopros-best-underwater-enhancement-filters-for-2024/"><u>[Updated] GoPro's Best Underwater Enhancement Filters for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mend-facebook-story-playback-pauses/"><u>[Updated] In 2024, Mend Facebook Story Playback Pauses</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo/"><u>[Updated] In 2024, Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-spark-20-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Spark 20 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/advanced-settings-recovery-windows-10-displays-mismatch/"><u>Advanced Settings Recovery: Windows 10 Displays Mismatch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/delving-into-4k-resolution-a-visual-leap/"><u>Delving Into 4K Resolution: A Visual Leap</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revising-stream-settings-for-better-windows-11-views/"><u>Revising Stream Settings for Better Windows 11 Views</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818136892-seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10s-new-look-problem-free-streaming/"><u>Win10's New Look: Problem-Free Streaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-guide-to-leveraging-youtube-video-endings/"><u>[New] 2024 Approved The Ultimate Guide to Leveraging YouTube Video Endings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bargain-hunters-paradise-unveiling-top-10-shopping-spots-for-boxes/"><u>[New] Bargain Hunters' Paradise Unveiling Top 10 Shopping Spots for Boxes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-effortless-macos-sierra-setup-guidebook-for-2024/"><u>[Updated] Effortless macOS Sierra Setup Guidebook for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-simplifying-video-production-with-captivate/"><u>2024 Approved Simplifying Video Production with Captivate</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-tarkov-fix-visual-evasion-guide/"><u>AMD & Tarkov Fix: Visual Evasion Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires-for-2024/"><u>Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-tech-frontier-openais-new-milestone-with-gpt-4/"><u>Evolving Tech Frontier: OpenAI's New Milestone with GPT-4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intermittent-screen-problems-solved-for-laptop-success/"><u>Intermittent Screen Problems Solved for Laptop [Success]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lag-fixing-made-simple-for-anthem/"><u>Lag Fixing Made Simple for Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-for-nvidiaintel-graphic-swap/"><u>Successful Fix for NVIDIA/Intel Graphic Swap</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-list-of-preferred-mac-snipping-apps-for-2024/"><u>The Ultimate List of Preferred Mac Snipping Apps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-did-my-imessage-turn-into-a-text-message-could-it-mean-im-blocked/"><u>Why Did My iMessage Turn Into a Text Message? Could It Mean I'm Blocked?</u></a></li>
 </ul></div>
 

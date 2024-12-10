@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2024-11-30T23:04:52.035Z
-updated: 2024-12-03T02:03:46.748Z
+date: 2024-12-06T18:56:54.965Z
+updated: 2024-12-09T21:06:44.169Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -54,19 +54,11 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -78,9 +70,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
@@ -112,13 +112,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,19 +148,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-online-tv-downloading-a-complete-recording-blueprint/"><u>[New] Online TV Downloading A Complete Recording Blueprint</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-11r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 11R without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722198827889-can-you-count-on-chatgpt-for-reliable-text-summaries-think-again/"><u>Can You Count on ChatGPT for Reliable Text Summaries? Think Again</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improve-anthem-loading-times/"><u>Improve Anthem Loading Times</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-signal-new-graphics-card/"><u>No Signal - New Graphics Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-visual-fluidity-through-supported-freesync/"><u>Optimizing Visual Fluidity Through Supported FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-find-x6-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find X6 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-android-3d-viewer-experience/"><u>Top Android 3D Viewer Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-iphone-glitches-3-effective-ways-to-restore-your-contact-list/"><u>Unstuck From iPhone Glitches: 3 Effective Ways to Restore Your Contact List</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/verified-vids-the-reality-of-instas-self-validation/"><u>Verified Vids The Reality of Insta’s Self-Validation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-10-best-apps-to-speed-audio-speed-on-mobile/"><u>[New] 2024 Approved 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-sites-for-fetching-got-ringtone-downloads/"><u>[Updated] 2024 Approved Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-share-the-laughs-right-top-gif-saver-for-twitter-for-2024/"><u>[Updated] Share the Laughs Right Top GIF Saver for Twitter for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-structured-writing-tactics-for-boosting-facebook-ad-performance/"><u>2024 Approved Structured Writing Tactics for Boosting Facebook Ad Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-darkness-from-windows-11-after-fall-update/"><u>Banishing Darkness From Windows 11 After Fall Update</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23-fe-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23 FE Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-xbox-series-graphics-hiccup/"><u>Cured Xbox Series Graphics Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-fixes-in-effect/"><u>Direct3D Launcher Fixes in Effect</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-correction-for-crystal-clear-screens/"><u>Effortless Edge Correction for Crystal-Clear Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/power-up-experience-amd-radeon-hd-6950-windows-11-driver-update/"><u>Power-Up Experience: AMD Radeon HD 6950 Windows 11 Driver Update</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/revolutionary-paperless-system-enhances-efficiency-cuts-costs-for-small-and-medium-businesses-through-advanced-ocr-technology/"><u>Revolutionary Paperless System Enhances Efficiency, Cuts Costs for Small & Medium Businesses Through Advanced OCR Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-blurry-zoom-calls-solutions/"><u>Say Goodbye to Blurry Zoom Calls - Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y100-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y100 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-ipad-air-5-pros-and-cons-compared-with-ipad-air-tiered-versus-tech-analysis/"><u>Upgrading to iPad Air 5: Pros and Cons Compared with iPad Air Tiered Versus | Tech Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-enhancement-latest-geforce-driver-update-for-nvidia-210/"><u>Window's Enhancement: Latest GeForce Driver Update for Nvidia 210</u></a></li>
 </ul></div>
 

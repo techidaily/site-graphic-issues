@@ -1,7 +1,7 @@
 ---
 title: Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10
-date: 2024-11-25T20:07:41.518Z
-updated: 2024-12-02T17:12:53.675Z
+date: 2024-12-06T04:13:54.922Z
+updated: 2024-12-10T00:45:53.835Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -32,6 +36,11 @@ Read on and follow the easy-doing images below!
 1. On your keyboard, press the**Windows key** and**X** at the same time, then choose**Device Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
@@ -41,10 +50,6 @@ Read on and follow the easy-doing images below!
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
@@ -58,6 +63,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
@@ -67,10 +76,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -79,27 +84,23 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -112,21 +113,21 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -151,17 +152,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-rolling-back-macos-sierra-to-el-capitan-version/"><u>[New] Rolling Back MacOS Sierra to El Capitan Version</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-your-ultimate-guide-to-essential-game-worlds/"><u>[Updated] 2024 Approved Your Ultimate Guide to Essential Game Worlds</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-content-creation-mastering-live-recording-tools/"><u>Cutting-Edge Content Creation Mastering Live Recording Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-microsofts-azure-transcription-service-in-code/"><u>Integrating Microsoft's Azure Transcription Service in Code</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jumpstart-gaming-on-win10-new-release-of-radeon-hd-6950-drivers/"><u>Jumpstart Gaming on Win10: New Release of Radeon HD 6950 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mended-overcoming-setup-obstacle/"><u>Mended: Overcoming Setup Obstacle</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-exploring-the-leading-edge-of-audio-production-does-magix-samplitude-hold-sway-for-2024/"><u>New Exploring the Leading Edge of Audio Production Does MAGIX Samplitude Hold Sway for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quick-steps-to-record-movies-on-your-tech-devices/"><u>Quick Steps to Record Movies on Your Tech Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-to-gpu-overheats-preserving-system-availability/"><u>Solutions to GPU Overheats: Preserving System Availability</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshoot-and-fresh-install-mbox-2-windows-drivers-problem-solutions-included/"><u>Troubleshoot and Fresh-Install MBox 2 Windows Drivers – Problem Solutions Included</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-modernize-intel-graphics-support/"><u>Windows 7: Modernize Intel Graphics Support</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-choosing-the-finest-10-free-subtitles-editors-online/"><u>[New] 2024 Approved Choosing the Finest 10 Free Subtitles Editors Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>[Updated] Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/zoom2/"><u>完全ガイド：Zoomビデオ会議におすすめの2つのレコーディング方法📹 |高画質動画作成</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-delights-in-motion-personalized-animation-artistry-for-2024/"><u>DIY Delights in Motion Personalized Animation Artistry for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-hiccup-mended-recovery-complete-for-nvidia/"><u>Graphics Hiccup Mended: Recovery Complete for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-imaging-swift-solution-to-no-signal-dilemma/"><u>Immediate Imaging: Swift Solution to No Signal Dilemma</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-lol-to-omg-the-best-meme-generator-apps/"><u>New 2024 Approved From LOL to OMG The Best Meme Generator Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-on-10-pcs/"><u>Overcoming Streaming Hiccups on 10 PCs</u></a></li>
+<li><a href="https://win-help.techidaily.com/premium-pizza-visuals-diverse-background-packs-creative-images-and-stunning-graphics-powered-by-yl-software/"><u>Premium Pizza Visuals: Diverse Background Packs, Creative Images, and Stunning Graphics Powered by YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/sicherung-und-wiederherstellung-verlorener-dateien-auf-externen-datentragern-ohne-verwendung-des-papierkorbs/"><u>Sicherung Und Wiederherstellung Verlorener Dateien Auf Externen Datenträgern Ohne Verwendung Des Papierkorbs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-blunders-in-systems-pc/"><u>Stop Screen Blunders in Systems (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-your-display-from-blinking-tips-and-tricks/"><u>Stop Your Display From Blinking: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-versatility-a-deep-dive-into-the-lenovo-convertible-pc-tablet-combo-high-hopes-for-future-performance/"><u>Unlocking Versatility: A Deep Dive Into the Lenovo Convertible PC-Tablet Combo - High Hopes for Future Performance</u></a></li>
 </ul></div>
 

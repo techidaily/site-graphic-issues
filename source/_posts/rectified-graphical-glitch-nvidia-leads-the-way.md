@@ -1,7 +1,7 @@
 ---
 title: Rectified Graphical Glitch - NVIDIA Leads the Way
-date: 2024-12-01T23:25:13.234Z
-updated: 2024-12-02T20:27:13.203Z
+date: 2024-12-04T06:54:46.683Z
+updated: 2024-12-09T17:08:44.146Z
 tags:
   - win11
   - win10
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your NVIDIA graphics driver](#m1)**
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -61,10 +57,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -74,7 +66,7 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
@@ -101,24 +93,32 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,19 +144,21 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/recovered-nvidia-display-issue-settled/"><u>[Recovered] Nvidia Display Issue Settled</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-techniques-for-gauging-yt-popularity-and-monetization/"><u>[Updated] Comprehensive Techniques for Gauging YT Popularity & Monetization</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-user-preferences-with-instagrams-real-time-feedback-for-2024/"><u>[Updated] Unlocking User Preferences with Instagram's Real-Time Feedback for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10s-c1900101-error-quickly/"><u>Addressing Windows 10'S C1900101 Error Quickly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battlefield-2042-troubleshooting-guide-overcoming-pc-compatibility-problems/"><u>Battlefield 2042 Troubleshooting Guide – Overcoming PC Compatibility Problems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversione-flv-in-mjpeg-online-e-gratuita-con-movavi-il-tuo-passaporto-per-la-fluidita-videografica/"><u>Conversione FLV in MJPEG Online E Gratuita Con Movavi: Il Tuo Passaporto per La Fluidità Videografica!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-asus-monitor-flicker-with-ease/"><u>Fixing ASUS Monitor Flicker with Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-6-straightforward-abodes-blueprints-in-mc-world/"><u>In 2024, Top 6 Straightforward Abodes Blueprints in MC World</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-240w-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 (240W) Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-video-tips-trim-to-size-with-precision-cutting/"><u>IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-your-asus-display-quell-screen-flashes/"><u>Master Your ASUS Display: Quell Screen Flashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quelling-flickering-on-microsoft-surface-pro-7/"><u>Quelling Flickering on Microsoft Surface Pro 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-terrariums-topography-selecting-prime-maps/"><u>[New] In 2024, Terrarium's Topography Selecting Prime Maps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-enter-nvidia-control-unlocked/"><u>[Solution] Enter Nvidia Control Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-periscope-the-complete-guide/"><u>[Updated] How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ustream-review-and-alternatives/"><u>[Updated] Ustream Review and Alternatives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-speed-optimization-guide/"><u>Anthem Speed Optimization Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-age-of-empires-ivs-launch-glitches-tips-and-troubleshooting-steps-for-gamers/"><u>Beat Age of Empires IV’s Launch Glitches: Tips and Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-effortless/"><u>Clear Windows Image, Effortless</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-computing-revolutionized-is-the-new-m4-powered-mac-mini-as-tiny-and-efficient-as-the-apple-tv-insights/"><u>Compact Computing Revolutionized: Is the New M4-Powered Mac Mini As Tiny and Efficient as the Apple TV? - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-sony-xperia-5-v-lock-screen-password-by-drfone-android/"><u>How To Change Sony Xperia 5 V Lock Screen Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-gaming-amd-radeon-hd-6950-on-windows-11-update/"><u>Optimized Gaming: AMD Radeon HD 6950 on Windows 11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swiftly-enhance-win10-with-intel-graphics-drivers/"><u>Swiftly Enhance Win10 with Intel Graphics Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/transforming-home-entertainment-with-facebook-portals-for-videocalls/"><u>Transforming Home Entertainment with Facebook Portals for Videocalls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-error-monitor-refuses-fullscreen-view/"><u>Win11 Error: Monitor Refuses Fullscreen View</u></a></li>
 </ul></div>
 

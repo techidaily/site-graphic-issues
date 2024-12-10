@@ -1,7 +1,7 @@
 ---
 title: Undetected Graphics Card Problem
-date: 2024-12-01T22:03:08.886Z
-updated: 2024-12-02T22:18:48.346Z
+date: 2024-12-08T20:49:08.786Z
+updated: 2024-12-09T21:40:09.877Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  Your graphics card isn’t detected by your computer? This is quite irritating and you’re certainly not the only one who faces this issue. Many Windows users are reporting it. But the good news is you can fix it. This article gives you 5 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Just work your way down the list until you find the one that works for you.
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 4. **[Reinstall your graphics card](#d)**
 5. **[Update your BIOS](#e)** [](#e)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Refresh Device Manager
 
  One quick fix that works for many Windows users is refreshing Device Manager. Follow the instructions below to see how to do it:  
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the**Scan button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  Check if your graphics card shows up under Display adapters.
 
  If it doesn’t, don’t worry. Read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall recent Windows updates
 
@@ -95,21 +99,17 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Programs** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**View installed updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Right-click a recent update, and then click**Uninstall** .
 
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-42.jpg)
 
 If your problem persists, check the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your graphics card
 
@@ -138,6 +134,10 @@ If your problem persists, check the fix below.
 **3)** Remove your graphics card and reinstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-504.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is where a graphics card is usually located.
 
@@ -158,7 +158,7 @@ Here is where a graphics card is usually located.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-493.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
@@ -193,15 +193,21 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/advice-install-supported-drivers-for-amd-video-adapter/"><u>[ADVICE] Install Supported Drivers for AMD Video Adapter</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-create-edges-of-images-with-rotational-softness-blend-psx-for-2024/"><u>[New] Create Edges of Images with Rotational Softness Blend PSX for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-share-enjoy/"><u>[Updated] 2024 Approved Capture, Share, Enjoy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ideal-portable-storage-options-premium-ssd-and-hdd-cases-reviewed/"><u>Ideal Portable Storage Options: Premium SSD & HDD Cases Reviewed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-and-updating-intel-irisplus-graphics-driver-on-windows-11/"><u>Installing & Updating Intel® Iris+ Graphics Driver on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigate-your-way-to-joining-google-live-video-sessions-for-2024/"><u>Navigate Your Way to Joining Google Live Video Sessions for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget/"><u>New In 2024, Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-win-graphics-capability/"><u>Restored Win Graphics Capability</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-xbox-one-graphics-issue/"><u>Restored Xbox One Graphics Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-cleared-nvidia-driver-update-effective/"><u>TDR Alert Cleared: Nvidia Driver Update Effective</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unlock-the-potential-of-your-tiktok-videos-with-new-backgrounds/"><u>[Updated] 2024 Approved Unlock the Potential of Your TikTok Videos with New Backgrounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-maximizing-allure-essential-strategies-for-stellar-instagram-unboxing-videos/"><u>[Updated] Maximizing Allure Essential Strategies for Stellar Instagram Unboxing Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-top-10-cost-free-gaming-recorders/"><u>2024 Approved Unveiling the Top 10 Cost-Free Gaming Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-note-30-vip-racing-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Note 30 VIP Racing Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-win-error-resolution-shared/"><u>dxgkrnl.sys Win Error Resolution Shared</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/game-changing-breakthroughs-unveiled-discover-how-new-ipads-final-cut-pro-enhancements-empower-filmmakers-like-never-before/"><u>Game-Changing Breakthroughs Unveiled: Discover How New iPad's Final Cut Pro Enhancements Empower Filmmakers Like Never Before!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-fix-resolved-monster-hunter-world-error-12/"><u>Graphics Fix: Resolved Monster Hunter World Error 12</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eradicate-green-screen-inaccuracies-in-video-editing/"><u>How To Eradicate Green Screen Inaccuracies in Video Editing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y27-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-yuva-2-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Yuva 2 Pro FRP Without Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximizing-gaming-efficiency-via-working-freesync/"><u>Maximizing Gaming Efficiency via Working FreeSync</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-intellectual-property-rights-in-ai-unraveling-the-mystery-of-machine-created-works/"><u>Navigating Intellectual Property Rights in AI: Unraveling the Mystery of Machine-Created Works</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-a-gpu-fan-immediate-fixes/"><u>Reviving a GPU Fan: Immediate Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanquish-sims-blackout-trouble/"><u>Vanquish Sims' Blackout Trouble</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Screen Shimmer – A Handy Guide for Windows 7 Users
-date: 2024-11-30T00:19:00.587Z
-updated: 2024-12-03T01:08:16.806Z
+date: 2024-12-09T06:43:11.126Z
+updated: 2024-12-10T00:34:03.558Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -44,18 +48,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Check for hardware issues
 
@@ -67,10 +67,6 @@ To troubleshoot these hardware issues:
 2. You should also check if the **cables** are connected properly to your screen or monitor. You can gently swing your screen and see if it flickers. If it does, you need to reconnect those cables.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: If you use Adobe Flash and Java, uninstall them
 
@@ -87,10 +83,6 @@ To troubleshoot these hardware issues:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -106,11 +98,15 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
@@ -121,6 +117,10 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -155,20 +155,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips/"><u>[New] 2024 Approved From Mundane to Memorable Transform Your Social Media Identity with These Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-enhancing-closeup-photography-with-videography-tips-for-2024/"><u>[New] Enhancing Closeup Photography with Videography Tips for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-aspect-ratios-for-stunning-video-outputs/"><u>[Updated] Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-your-journey-into-the-world-of-funny-metaverse-images-for-2024/"><u>[Updated] Your Journey Into the World of Funny Metaverse Images for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-handling-time-lapse-videos-on-your-gopro-hero-10/"><u>2024 Approved Expertly Handling Time-Lapse Videos on Your GoPro Hero 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-12-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 12 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decrease-excessive-display-on-win-10-pc/"><u>Decrease Excessive Display on WIN 10 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-drivers-fixed-at-43/"><u>Display Drivers Fixed at #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-display-fluctuations-from-lenovo/"><u>Eliminating Display Fluctuations From Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-windows-fast-methods-for-removing-drivers/"><u>Mastering Windows: Fast Methods for Removing Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-with-toms-hardware-experts/"><u>Navigating Technology Trends with Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/paint-picture-humor-for-2024/"><u>Paint Picture Humor for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-clear-windows-display/"><u>Resolved: Clear Windows Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-professional-streams-selecting-from-the-best-9-filters/"><u>[Updated] Secrets to Professional Streams Selecting From the Best 9 Filters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[Updated] The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-essential-apps-for-annotating-mobile-images/"><u>2024 Approved Essential Apps for Annotating Mobile Images</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-critical-error-c1900101-on-new-os/"><u>Addressing Critical Error C1900101 on New OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-mod-conflicts-with-civ-5-pc/"><u>Fixing Mod Conflicts with Civ 5 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-game-launch-due-to-dx12-error-in-halo-infinite/"><u>Halted Game Launch Due to DX12 Error in Halo Infinite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-lenovo-laptop-screen-flickering-problem/"><u>How to Fix Lenovo Laptop Screen Flickering Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-narratives-mastering-screenplays/"><u>In 2024, Cinematic Narratives Mastering Screenplays</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-edge-advanced-photo-editing-strategies/"><u>In 2024, Instagram Edge Advanced Photo Editing Strategies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-how-to-quickly-obtain-rs232-drivers-for-usb-devices/"><u>Instant Access: How to Quickly Obtain RS232 Drivers for USB Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-pro-level-video-editing-on-mac-adobe-premiere-pro/"><u>New 2024 Approved Pro-Level Video Editing on Mac Adobe Premiere Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-at-a-glance-speedy-fixes-for-no-signal/"><u>Reconnect at a Glance: Speedy Fixes for No Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconnect-without-struggle-displayport-fix-guide/"><u>Reconnect Without Struggle: DisplayPort Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-absent-display-in-win10/"><u>Resolving Absent Display in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818017200-switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vuephoto-ai-powered-editing/"><u>VuePhoto AI-Powered Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-when-ordering-apple-vision-pro-before-release-insights/"><u>What to Expect When Ordering Apple Vision Pro Before Release - Insights</u></a></li>
 </ul></div>
 

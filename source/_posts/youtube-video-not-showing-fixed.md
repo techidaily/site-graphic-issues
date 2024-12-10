@@ -1,7 +1,7 @@
 ---
 title: YouTube Video Not Showing [FIXED]
-date: 2024-11-29T03:40:25.305Z
-updated: 2024-12-02T23:45:29.054Z
+date: 2024-12-05T02:54:44.834Z
+updated: 2024-12-09T17:23:58.424Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 [**![Youtube video not showing](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7558ea375e1.png)**](https://tools.techidaily.com/drivereasy/download/) 
 
  If you’re greeted with a BLACK green when trying to stream some video on YouTube, don’t panic. Here’re 6 fixes that have helped other users resolve this problem. So read on and check them out…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 fixes for YouTube Video Not Showing
 
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer, play a video in YouTube to see if it works properly now.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 4: Change the hardware acceleration
@@ -101,18 +101,26 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 
-3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
-4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
+4. Re-launch your Chrome, play a video in YouTube and hopefully it’s working properly.
 
  **I’m using Firefox :** 
 
 1. In Firefox, click **the menu button**  \> **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5822606a534.jpg)
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
 
@@ -122,18 +130,10 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 5: Delete the app data
 
@@ -142,29 +142,25 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 1. On your keyboard, press**the**    **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R** at the same time. Then copy & paste**%appdata%** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766fc6d2ecc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click**AppData** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
 3. Double-click on**Local** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76707531fa7.jpg)
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Cut-paste**ALL** contents to a safe location in case something wrong comes up. Then delete**EVERYTHING** in this location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76717eb9673.jpg)
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -178,6 +174,10 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -207,20 +207,22 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-pro-level-cams-for-aspiring-youtube-creators/"><u>[New] In 2024, Pro-Level Cams for Aspiring YouTube Creators</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-blur-and-background-erasure-in-photography/"><u>[New] The Ultimate Guide to Blur and Background Erasure in Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-reverse-viewing-crafts-creative-youtube-video-methods/"><u>[Updated] 2024 Approved Reverse Viewing Crafts Creative Youtube Video Methods</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-overhaul-wins-dxgkrnlsys-fix/"><u>BlueScreen Overhaul: Win's dxgkrnl.sys Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-pcs-potential-to-handle-intel-driver-setup/"><u>Boost PC's Potential to Handle Intel Driver Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-effective-strategies-for-troubleshooting-computer-issues/"><u>ChatGPT to the Rescue: Effective Strategies for Troubleshooting Computer Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decoding-high-definition-spectrum-embracing-4k/"><u>Decoding High Definition Spectrum: Embracing 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-correct-save-error-in-display-preferences-win-7-10-edition-settled/"><u>How to Correct Save Error in Display Preferences, WIN 7-10 Edition [Settled]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-12plus-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 12+ 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lost-connection-found-solution-quick-signal-restoration/"><u>Lost Connection, Found Solution: Quick Signal Restoration</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-windows-program/"><u>Movavi Windows Program 로그인 가이드 - 사용자에게서</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-clearance-mouse-on-win11/"><u>Screen Clearance - Mouse on Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winos-blueerror-resolve-complications-with-wdf-drivers/"><u>WinOS BlueError: Resolve Complications with WDF Drivers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-strategies-for-successful-mukbang-production-for-2024/"><u>Essential Strategies for Successful Mukbang Production for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exemplar-storyboard-creators-circle-for-2024/"><u>Exemplar Storyboard Creator's Circle for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-your-laptops-horizontal-boundaries-now/"><u>Fix Your Laptop's Horizontal Boundaries Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-error-corrected-returning-to-normal/"><u>IGFX Error Corrected, Returning to Normal</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-15-pro-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 15 Pro Max Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-discover-reliable-free-mobile-communication-tools-with-advanced-security-features/"><u>In 2024, Discover Reliable Free Mobile Communication Tools with Advanced Security Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-civi-3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Civi 3 Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-filters-on-instagram-your-2023-manual/"><u>In 2024, Mastering the Art of Filters on Instagram Your 2023 Manual</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-users-companion-for-durecorder/"><u>In 2024, Ultimate User’s Companion for DuRecorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightning-fast-video-delivery-on-facebook-select-extensions-and-apps-for-2024/"><u>Lightning-Fast Video Delivery on Facebook Select Extensions & Apps for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-lcd-seam-disruptions/"><u>Overcome LCD Seam Disruptions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lenovos-functional-touch-screens/"><u>Restoring Lenovo's Functional Touch Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversed-cominterface-error-on-windows-os/"><u>Reversed: COMInterface Error on Windows OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/righted-angled-view-on-mobile-computing-screens/"><u>Righted Angled View on Mobile Computing Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-recover-unlit-computer-monitors/"><u>Strategies to Recover Unlit Computer Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-graphic-interface-back-to-operational-state/"><u>Window's Graphic Interface Back to Operational State</u></a></li>
 </ul></div>
 

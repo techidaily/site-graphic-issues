@@ -1,7 +1,7 @@
 ---
 title: End the Frustrating PC Crash of Fallout 4
-date: 2024-11-29T21:02:16.368Z
-updated: 2024-12-02T16:58:34.939Z
+date: 2024-12-09T02:46:26.894Z
+updated: 2024-12-09T19:09:34.571Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Fallout 4 crash on startup?
@@ -44,15 +44,15 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Set the graphics options to low**
 
  As you may know, the video settings in your game can cause the Fallout 4 crashing in your Windows computer, so you should pay attention to the graphics settings in your Fallout 4 to fix the issue.
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Update your graphics card driver**
 
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and open your Fallout 4.
@@ -98,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -112,11 +104,19 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -141,16 +141,17 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>[New] Zoom's Best Audio Fixes Clear Sounds & Hearing Improvement</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-a-deep-dive-into-cutting-edge-vr-technology/"><u>[Updated] A Deep Dive Into Cutting-Edge VR Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>[Updated] GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tips-for-adding-mp4-files-from-windows-movie-maker-onto-vimeo/"><u>[Updated] Tips for Adding MP4 Files From Windows Movie Maker Onto Vimeo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ensure-maximum-performance-new-nvidia-drivers-install/"><u>Ensure Maximum Performance: New Nvidia Drivers Install</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-lack-of-visibility/"><u>Overcoming Lenovo Lack of Visibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817944843-quick-fix-to-apex-crash-here-we-come/"><u>Quick Fix to Apex Crash, Here We Come!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/seamless-audio-format-switching-a-step-by-step-guide-to-transforming-mp3-tracks-into-high-quality-m4a/"><u>Seamless Audio Format Switching: A Step-by-Step Guide to Transforming MP3 Tracks Into High-Quality M4A</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilize-your-tablets-display-with-pro-7-tips/"><u>Stabilize Your Tablet's Display with Pro 7 Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/oundational-handbook-to-youtube-business-success-for-2024/"><u>The Foundational Handbook to YouTube Business Success for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-edit-like-a-pro-with-any-of-these-top-7-free-options/"><u>[New] 2024 Approved Edit Like a Pro with Any of These Top 7 Free Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-going-back-in-space-and-time-rewind-your-instagram-video/"><u>[New] Going Back in Space and Time Rewind Your Instagram Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamlining-visual-storytelling-best-plugin-choices-in-ae-for-2024/"><u>[New] Streamlining Visual Storytelling Best Plugin Choices in AE for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-resolving-disabled-state-of-obs-fullscreen/"><u>[Updated] 2024 Approved Resolving Disabled State of OBS Fullscreen</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-immortalize-memories-prime-online-tools-for-photo-framing/"><u>2024 Approved Immortalize Memories Prime Online Tools for Photo Framing</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-eradicate-fallout-4-crashes-on-computer/"><u>Easy Steps to Eradicate Fallout 4 Crashes on Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-exciting-entertainment-top-10-ios-games-ready-for-no-wireless-connection/"><u>In 2024, Exciting Entertainment - Top 10 iOS Games, Ready for No Wireless Connection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
 </ul></div>
 

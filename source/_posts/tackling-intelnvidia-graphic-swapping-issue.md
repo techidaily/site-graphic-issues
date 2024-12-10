@@ -1,7 +1,7 @@
 ---
 title: Tackling Intel/Nvidia Graphic Swapping Issue
-date: 2024-11-27T22:47:52.967Z
-updated: 2024-12-02T22:16:33.122Z
+date: 2024-12-02T19:29:33.827Z
+updated: 2024-12-10T00:50:39.490Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -47,17 +51,9 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -96,7 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -119,13 +119,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,18 +142,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-simple-procedure-reverse-video-order-via-vlc-for-2024/"><u>[New] Simple Procedure Reverse Video Order via VLC for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-less-is-more-the-best-video-url-reducers-revealed/"><u>[Updated] Less Is More The Best Video URL Reducers Revealed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-boost-productivity-premier-tools-for-unfollowing-tweets/"><u>2024 Approved Boost Productivity Premier Tools for Unfollowing Tweets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elite-mp4-media-sender-for-2024/"><u>Elite MP4 Media Sender for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-investing-wisdom-in-webcams-finest-stocks-channels/"><u>In 2024, Investing Wisdom in Webcams Finest Stocks Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-steps-in-manipulating-song-pace-in-spotify-app-for-2024/"><u>Key Steps in Manipulating Song Pace in Spotify App for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-the-challenge-of-class-not-registered-error-in-microsoft-windows/"><u>Overcoming the Challenge of 'Class Not Registered' Error in Microsoft Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-honor-x50i-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50i Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210416000-9781638445777-to-kill-the-firstborn/"><u>To Kill the Firstborn | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>[Updated] In 2024, Drone Flight Smoothness Choosing a Gimbal Wisely</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-movie-maker-from-beginner-to-pro-edition/"><u>[Updated] YouTube Movie Maker From Beginner to Pro Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-a-balanced-display-on-windows-10/"><u>Adjusting Aspect Ratios for a Balanced Display on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-speed-enhancement-tips/"><u>Anthem Speed Enhancement Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluelight-on-win-dxgkrnlsys-issue-tackled/"><u>BlueLight on Win - dxgkrnl.sys Issue Tackled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-desktop-display-now-steady-and-reliable/"><u>Dell Desktop Display Now Steady and Reliable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dodge-sims-game-freeze/"><u>Dodge Sims Game Freeze</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-flip-in-windows-11-display-settings/"><u>Fixing Flip in Windows 11 Display Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-capture-a-full-screen-snapshot-with-zoom-feature-movavi-guides/"><u>How to Capture a Full Screen Snapshot with Zoom Feature - Movavi Guides</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone XS Max</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-asus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Asus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secrets-to-success-removing-the-green-from-video-backdrops/"><u>Secrets to Success: Removing the Green From Video Backdrops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-1nto-update-error-understanding-and-fixing-issue-0xc1900208/"><u>Solve Your Windows 1Nto Update Error: Understanding and Fixing Issue 0xC1900208</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-youtube-seo-techniques/"><u>The Ultimate Guide to YouTube SEO Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-the-dilemma-of-your-unresponsive-corsair-void-headset/"><u>Ultimate Troubleshooting Guide: Solving the Dilemma of Your Unresponsive Corsair Void Headset</u></a></li>
 </ul></div>
 

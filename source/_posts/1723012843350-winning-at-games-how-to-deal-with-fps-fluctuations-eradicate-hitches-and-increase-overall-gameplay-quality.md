@@ -1,7 +1,7 @@
 ---
 title: "Winning at Games: How to Deal with FPS Fluctuations, Eradicate Hitches & Increase Overall Gameplay Quality."
-date: 2024-11-30T00:19:50.186Z
-updated: 2024-12-02T21:20:45.676Z
+date: 2024-12-07T03:28:00.281Z
+updated: 2024-12-10T06:59:49.284Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 1. Right-click the**Minecraft Launcher** icon, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -71,11 +75,15 @@ If the issue remains, move on to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -84,7 +92,7 @@ If the issue remains, move on to the next fix.
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
@@ -97,10 +105,6 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
@@ -125,6 +129,10 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -134,15 +142,11 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -150,10 +154,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -179,21 +179,20 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-crafting-engaging-igtv-titles-for-2024/"><u>[New] The Art of Crafting Engaging IGTV Titles for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-tune-tracker-latest-audio-tech-for-2024/"><u>[New] Tune Tracker Latest Audio Tech for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-sideways-screens-in-windows-10-fix/"><u>Address Sideways Screens in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cease-window-11-screen-flashing/"><u>Cease Window 11 Screen Flashing</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/effective-guide-to-bypassing-drm-restrictions-and-burning-mac-compatible-copies-of-disney-movies/"><u>Effective Guide to Bypassing DRM Restrictions & Burning Mac-Compatible Copies of Disney Movies</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-pause-to-playback-a-new-era-for-instagram/"><u>From Pause to Playback: A New Era for Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-magic5-ultimate-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor Magic5 Ultimate Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-viewport-tilt-resolved/"><u>Laptop Viewport Tilt Resolved</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972503431-latest-and-updated-brother-mfc-landwd-printer-drivers-for-smooth-operation-with-windows-os-free-download-now/"><u>Latest & Updated Brother MFC-L^&WD Printer Drivers for Smooth Operation with Windows OS - Free Download Now</u></a></li>
-<li><a href="https://discover-great.techidaily.com/mastering-the-art-of-recording-live-tv-shows-and-events-on-fubotv-withwithout-dvr-feature/"><u>Mastering the Art of Recording Live TV Shows and Events on FuboTV, With/Without DVR Feature</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/meme-makers-playbook-for-widespread-impact/"><u>Meme Makers' Playbook for Widespread Impact</u></a></li>
-<li><a href="https://win-trending.techidaily.com/protecting-your-digital-assets-in-windows-10-discover-five-reliable-data-backup-techniques/"><u>Protecting Your Digital Assets in Windows 10: Discover Five Reliable Data Backup Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-game-lag/"><u>Quick Fix for Game Lag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-display-skew-issues/"><u>Rectifying Display Skew Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-clarity-quickly-troubleshoot-no-signal-errors/"><u>Restore Clarity Quickly: Troubleshoot No Signal Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-power-to-silent-displayport-connection/"><u>Restore Power to Silent DisplayPort Connection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elite-equipment-premium-laptop-options-for-high-definition-edits-for-2024/"><u>[New] Elite Equipment Premium Laptop Options for High-Definition Edits for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-rhythmic-reflections-in-photo-cinema/"><u>2024 Approved Rhythmic Reflections in Photo Cinema</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-graphics-on-windows-11-intel-3000-driver-update/"><u>Boost Graphics on Windows 11 - Intel 3000 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curing-asus-lcd-flickering-issues-effectively/"><u>Curing ASUS LCD Flickering Issues Effectively</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-adjustments-for-big-display-on-win11/"><u>Fine Adjustments for Big Display on Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-13-proplus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 13 Pro+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-6-contemporary-mojave-home-layouts/"><u>In 2024, Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/incorrect-display-11-windows-should-be-full-screen/"><u>Incorrect Display: 11 Windows Should Be Full-Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-apex-play-post-update/"><u>Mastering the Art of Apex Play Post-Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-apple-arcade-for-your-next-favorite-game/"><u>Navigating Apple Arcade for Your Next Favorite Game</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1726030513695-pc-youtube/"><u>PCへ保存! YouTubeの動画ダウンロード手順を一挙紹介:最強マニュアル</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-stability-to-dell-notebook-visual-output/"><u>Restored Stability to Dell Notebook Visual Output</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-amd-and-tarkov-rendering-bug/"><u>Swift Fix: AMD and Tarkov Rendering Bug</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-voice-access-solutions-for-common-issues/"><u>Win11 Voice Access: Solutions for Common Issues</u></a></li>
 </ul></div>
 

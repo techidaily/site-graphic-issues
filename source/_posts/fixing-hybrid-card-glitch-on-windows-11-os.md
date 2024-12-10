@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Glitch on Windows 11 OS
-date: 2024-12-01T23:56:12.236Z
-updated: 2024-12-03T01:32:16.852Z
+date: 2024-12-09T05:04:44.747Z
+updated: 2024-12-09T21:29:28.127Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -41,22 +37,22 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -101,6 +97,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -111,21 +115,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,16 +142,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unboxing-high-fidelity-gaming-recorders/"><u>[New] 2024 Approved Unboxing High-Fidelity Gaming Recorders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-revamping-your-videos-top-5-mac-editors-at-hand/"><u>[New] Revamping Your Videos? Top 5 Mac Editors at Hand</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-video-vroom-guide-rotating-images-to-gain-insta-momentum/"><u>[Updated] In 2024, The Video Vroom Guide Rotating Images to Gain Insta Momentum</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-patching-for-gpus-not-displayed/"><u>Easy Patching for GPUs Not Displayed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/non-fullscreen-displays-on-monitor-with-win10/"><u>Non-Fullscreen Displays on Monitor with Win10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reinventing-home-management-using-gpt-capabilities/"><u>Reinventing Home Management Using GPT Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-persistent-glaring-asus-fix-guide/"><u>Say Goodbye to Persistent Glaring: ASUS Fix Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-your-visual-experience-with-updated-nvidia-210-drivers/"><u>Streamline Your Visual Experience with Updated Nvidia 210 Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-blurry-laptop-horizontal-bars/"><u>Troubleshoot Blurry Laptop Horizontal Bars</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-engage-fans-through-real-time-streams-mobile-edition-for-2024/"><u>[New] How to Engage Fans Through Real-Time Streams Mobile Edition for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-presentations-with-zoom-screenshares-for-2024/"><u>[New] Perfecting Presentations with Zoom Screenshares for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-through-time-the-finest-history-youtube-sources-for-students/"><u>[Updated] 2024 Approved Navigating Through Time The Finest History YouTube Sources for Students</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-12-facebook-marketing-tips-for-business-beginners-and-pros/"><u>2024 Approved 12 Facebook Marketing Tips for Business (Beginners and Pros)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blur-effective-strategies-for-screen-stability/"><u>Banish Blur: Effective Strategies for Screen Stability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-system-freeze-bluescreen-solution/"><u>dxgkrnl.sys System Freeze - BlueScreen Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-directx-12-renderer-bug/"><u>Fixed DirectX 12 Renderer Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-missing-displays-via-nvidia-control-panel/"><u>Fixing Missing Displays via NVIDIA Control Panel</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-edge-40-neo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Edge 40 Neo FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cursor Awakening Post-Blackout Win11
-date: 2024-11-28T19:39:26.584Z
-updated: 2024-12-02T21:19:01.927Z
+date: 2024-12-03T05:13:27.810Z
+updated: 2024-12-09T16:07:58.462Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 6. [**Reset your PC**](#s6)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
 
@@ -54,6 +50,10 @@ If you’re on a laptop:
  If this doesn’t work (or you’re on a desktop PC), try Fix 2 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your graphics drivers**
 
@@ -81,10 +81,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 3: Disable fast startup**
 
  Disabling Fast Startup may resolve the black screen problem. Here’s how to do it:
@@ -96,23 +92,19 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Change settings that are currently unavailable** .
 
@@ -120,7 +112,7 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
@@ -137,6 +129,10 @@ If you’re on a laptop:
 
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**devmgmt.msc** and click**OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
@@ -145,7 +141,7 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your PC.
@@ -153,6 +149,10 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -185,7 +185,7 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
@@ -234,13 +234,13 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58085f7710f92.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -261,19 +261,15 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-quality-assured-the-best-10-online-converters-for-jpg-to-gif-for-2024/"><u>[New] Quality Assured The Best 10 Online Converters for JPG to GIF for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[Updated] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-on-implementing-and-using-the-revo-application-manager-effectively/"><u>Expert Advice on Implementing and Using the Revo Application Manager Effectively</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-glitch-resolved-nvidias-display-restored/"><u>GPU Glitch Resolved: Nvidia's Display Restored</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-c210-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia C210 by Name | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-camera-roll-sharing-in-just-a-few-steps-for-2024/"><u>Mastering Camera Roll Sharing in Just a Few Steps for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-loading-issue-for-amds-detection-driver-in-win10/"><u>Resolved Loading Issue for AMD's Detection Driver in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-vibrance-to-an-asus-monochrome-gadget/"><u>Restoring Vibrance to an Asus Monochrome Gadget</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/savor-your-day-8-essential-tools-for-instagram-video-management/"><u>Savor Your Day 8 Essential Tools for Instagram Video Management</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sharpening-your-window-view/"><u>Sharpening Your Window View</u></a></li>
-<li><a href="https://win-blog.techidaily.com/simple-troubleshooting-steps-resolving-wwe-2k2e-pc-game-crashes/"><u>Simple Troubleshooting Steps: Resolving WWE 2K2e PC Game Crashes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x50-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X50</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-darkness-lifted-cursor-spotted/"><u>Win11 Darkness Lifted, Cursor Spotted</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cyber-safeguard-success-reclaiming-fb/"><u>[New] In 2024, Cyber-Safeguard Success Reclaiming FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-patience-mastering-the-craft-of-producing-captivating-slow-motion-videos-and-photos-for-instagram/"><u>[New] The Art of Patience Mastering the Craft of Producing Captivating Slow Motion Videos and Photos for Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-enjoy-the-full-range-of-sharing-on-messenger/"><u>[Updated] 2024 Approved How to Enjoy the Full Range of Sharing on Messenger</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-screens-to-social-shares-your-guide-to-popular-metaverse-memes-for-2024/"><u>[Updated] From Screens to Social Shares Your Guide to Popular Metaverse Memes for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-choice-for-steady-videos/"><u>2024 Approved Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-stutter-on-windows-7/"><u>Eliminate Screen Stutter on Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminated-flickering-on-laptops-display-panels/"><u>Eliminated Flickering on Laptops' Display Panels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-fixing-crashing-gpus-without-shutdown/"><u>Mastering the Art of Fixing Crashing GPUs without Shutdown</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamp-windows-10s-visual-performance-via-intel-driver-update/"><u>Revamp Windows 10'S Visual Performance via Intel Driver Update</u></a></li>
 </ul></div>
 

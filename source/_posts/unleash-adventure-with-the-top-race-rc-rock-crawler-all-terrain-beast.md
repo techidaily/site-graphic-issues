@@ -1,7 +1,7 @@
 ---
 title: Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
-date: 2024-12-01T19:48:58.822Z
-updated: 2024-12-03T02:08:18.793Z
+date: 2024-12-02T23:39:36.048Z
+updated: 2024-12-10T00:00:55.979Z
 categories:
   - BestProducts
 description: This Article Describes Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/U61w9oeSndlbmvRUvyHRvRm0k6E=/400x300/fi
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -36,10 +40,6 @@ Lifewire / Jonno Hill
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
 
 4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HP Omen Obelisk
 
@@ -74,10 +74,14 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
@@ -101,10 +105,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 ## **Performance** :**Great components for gaming and productivity**
@@ -114,10 +114,6 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -133,11 +129,11 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Jonno Hill
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
@@ -146,7 +142,7 @@ Lifewire / Jonno Hill
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: Just enough options**
@@ -158,6 +154,10 @@ Lifewire / Jonno Hill
  The lighting is executed fairly well on the HP OMEN Obelisk. There are only two lighting zones: one for the interior of the case, and one for the logo on the front exterior. Through the OMEN Command Center, you can set and customize lighting profiles for each zone. You can choose a static color, but also may choose from animation profiles that cycle between preset or user-defined colors. Luckily you can also choose the brightness, if you want to tone down the lighting a bit, and choose a separate profile for when the desktop is asleep.
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Highly competitive**
 
@@ -215,19 +215,20 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-wdfviolation-blue-screen-error-on-windows-111087/"><u>[SOLVED] WDF_Violation Blue Screen Error on Windows 11/10/8/7</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[Updated] 2024 Approved Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebooks-countdown-the-best-10-music-videos-of-now/"><u>[Updated] In 2024, Facebook's Countdown The Best 10 Music Videos of Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-blitz-in-call-of-duty-warzone-troubleshooting-disc-read-errors-for-optimal-gaming-experience-versions-50-and-31/"><u>Beat the Bug Blitz in Call of Duty Warzone: Troubleshooting Disc Read Errors for Optimal Gaming Experience (Versions 5.0 and 3.1)</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-benefits-of-switching-to-rtx-post-gtx-phase/"><u>Evaluating the Benefits of Switching to RTX Post-GTX Phase</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-addressing-the-not-found-avcodecdll-dilemma/"><u>Expert Strategies for Addressing the Not Found Avcodec.dll Dilemma</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-interface-mishap-in-windows-no-more/"><u>Graphic Interface Mishap in Windows No More</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-rtx-no-visual-feedback/"><u>New RTX No Visual Feedback</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-visual-disruptions-code-22-fixed/"><u>No More Visual Disruptions! Code 22 Fixed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-google-pixel-fold-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Google Pixel Fold? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-fixing-non-functional-voice-chats-with-content-warnings/"><u>Step-by-Step Tutorial: Fixing Non-Functional Voice Chats with Content Warnings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-monitors-silence-combat-visual-shudder/"><u>The Monitor's Silence: Combat Visual Shudder</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-picks-the-best-free-and-paid-2d-animation-software-for-beginners-and-pros-alike/"><u>Top Picks The Best Free and Paid 2D Animation Software for Beginners and Pros Alike</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unfazed-viewing-stop-monitor-flickering-troubles/"><u>Unfazed Viewing: Stop Monitor Flickering Troubles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unleashing-potential-enhancing-your-tiktok-videos/"><u>[New] In 2024, Unleashing Potential Enhancing Your TikTok Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-faster-more-effective-vocal-alterations-for-pubg-players/"><u>[Updated] Unlocking Faster, More Effective Vocal Alterations for PUBG Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-sfpr-levels-in-slow-motion-content/"><u>2024 Approved Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-11-screen-reflection-flaw/"><u>Correcting Windows 11 Screen Reflection Flaw</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dealing-with-drivers-stop-wdf-related-bluescreen/"><u>Dealing with Drivers: Stop WDF-Related BlueScreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-loss-in-windows-10-display-setup/"><u>Fullscreen Loss in Windows 10 Display Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-display-sync-with-revived-freesync-features/"><u>Improving Display Sync with Revived FreeSync Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-6s-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 6s without Security Questions?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-installation-of-canon-print-devices/"><u>Mastering the Installation of Canon Print Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-window-10-ui-settings-fixed-and-solved/"><u>Missing Window 10 UI Settings: Fixed & Solved</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-podcast-journey-from-creation-to-google-submission-for-2024/"><u>Seamless Podcast Journey From Creation to Google Submission for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-gpu-solutions-no-external-monitors/"><u>Streamlined GPU Solutions, No External Monitors</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unique-and-engaging-ideas-for-your-tiktok-pfp/"><u>Unique and Engaging Ideas for Your TikTok PFP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-call-for-your-gpus-fans/"><u>Wake-Up Call for Your GPU's Fans</u></a></li>
 </ul></div>
 

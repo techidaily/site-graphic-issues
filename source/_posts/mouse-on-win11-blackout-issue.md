@@ -1,7 +1,7 @@
 ---
 title: Mouse on Win11 Blackout Issue
-date: 2024-11-29T00:12:14.201Z
-updated: 2024-12-02T19:26:16.742Z
+date: 2024-12-07T19:10:33.040Z
+updated: 2024-12-09T19:43:15.038Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d6922
 ## Mouse on Win11 Blackout Issue
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Windows-10-black-screen-with-just-a-cursor-feature-image-2.png) Suddenly seeing nothing but a black screen and your mouse pointer? Don’t panic! This is a relatively common problem in Windows 10 and, while it’s very frustrating, it isn’t usually that hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 fixes for the Windows 10 black screen with mouse pointer problem
 
@@ -63,10 +67,6 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -76,6 +76,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
 
@@ -87,19 +91,24 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Change settings that are currently unavailable** .
 
@@ -107,16 +116,12 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -134,6 +139,10 @@ If you’re on a laptop:
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your PC.
 
@@ -168,20 +177,20 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen instructions to create a new user account.
 
@@ -198,10 +207,6 @@ If you’re on a laptop:
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
@@ -220,17 +225,13 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click **Recovery** .  
 
@@ -260,20 +261,16 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-experts-at-work-swift-professional-thumbnails-for-valorant-highlights/"><u>2024 Approved Experts at Work Swift, Professional Thumbnails for Valorant Highlights</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-art-of-applying-skin-secrets-establishing-an-online-beauty-platform/"><u>2024 Approved The Art of Applying Skin Secrets Establishing an Online Beauty Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amaze-with-amazon-fire-tv-cube-the-pinnacle-of-rapid-streaming-devices/"><u>Amaze with Amazon Fire TV Cube: The Pinnacle of Rapid Streaming Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-inverted-screen-on-windows-10-os/"><u>Correcting Inverted Screen on Windows 10 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrective-actions-for-ghostly-gpus-in-systems/"><u>Corrective Actions for Ghostly GPUs in Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/freshen-up-your-pc-intel-driver-improvement/"><u>Freshen Up Your PC: Intel Driver Improvement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gigglegraphyguild-funnyframestudio-for-2024/"><u>GiggleGraphyGuild FunnyFrameStudio for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015656952-headphone-troubles-on-windows-11-heres-how-you-can-solve-it/"><u>Headphone Troubles on Windows 11? Here's How You Can Solve It</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-glitch-spotted-nvidia-gpu-fixed-up/"><u>OpenGL Glitch Spotted - Nvidia GPU Fixed Up!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-direct3d-boot-challenges/"><u>Overcoming the Direct3D Boot Challenges</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-graphics-normalization-achieved/"><u>System Graphics Normalization Achieved</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ttawav/"><u>TTAオーディオファイルから鮮明なWAVに一気に変換方法</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-cam-upgrade-guide-fixing-todays-common-issues/"><u>Zoom Cam Upgrade Guide - Fixing Today's Common Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-troubleshooting-video-interruptions-on-facebook-live/"><u>[New] Troubleshooting Video Interruptions on Facebook LIVE</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-your-impact-broadcast-on-facebook-live-today/"><u>[Updated] Maximize Your Impact Broadcast on Facebook Live Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-6-plus-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 6 Plus Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alleviate-visual-synchronization-gaps/"><u>Alleviate Visual Synchronization Gaps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-into-the-future-of-video-editing-with-vivacut-a-2024-perspective/"><u>Dive Into the Future of Video Editing with VivaCut A 2024 Perspective</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guidelines-to-resolve-c1900101-error-on-pcs/"><u>Guidelines to Resolve C1900101 Error on PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a24-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A24 Phones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-window-11-display-settings-solved-issues/"><u>Mastering Window 11 Display Settings: Solved Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-the-twitch-screen-blankness-woes/"><u>Solve the Twitch Screen Blankness Woes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-effective-conversations-starters-with-chatgpt-to-help-you-focus-and-boost-productivity/"><u>Top 8 Effective Conversations Starters with ChatGPT to Help You Focus and Boost Productivity</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100a-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100A Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

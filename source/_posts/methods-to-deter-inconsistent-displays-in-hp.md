@@ -1,7 +1,7 @@
 ---
 title: Methods to Deter Inconsistent Displays in HP
-date: 2024-11-30T21:57:21.465Z
-updated: 2024-12-03T03:51:49.000Z
+date: 2024-12-05T17:30:53.109Z
+updated: 2024-12-09T19:12:07.666Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -59,13 +55,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -92,7 +88,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -107,12 +103,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
@@ -129,7 +129,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -158,24 +158,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-inside-look-the-best-youtube-makeup-artists-of-today/"><u>[Updated] In 2024, Inside Look The Best YouTube Makeup Artists of Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-revitalizes-artificial-intelligence-promising-developments-and-areas-needing-improvement-insights/"><u>Apple Revitalizes Artificial Intelligence: Promising Developments and Areas Needing Improvement – Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct-and-uncomplicated-gpu-fixes/"><u>Direct and Uncomplicated GPU Fixes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhancing-engagement-with-solutions-to-common-shorts-challenges/"><u>Enhancing Engagement with Solutions to Common Shorts Challenges</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-strategies-to-reduce-and-prevent-full-disk-usage-on-windows-10/"><u>Expert Strategies to Reduce and Prevent Full Disk Usage on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-iphone-training-from-high-speed-videos-to-sluggish-movements/"><u>In 2024, In-Depth iPhone Training From High Speed Videos to Sluggish Movements</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-nvlddmkm-driver-operational/"><u>Kernel Issue Overcome: Nvlddmkm Driver Operational</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-not-responding-resolution-achieved/"><u>Lenovo TapScreen Not Responding, Resolution Achieved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-to-safety-windows-8s-safe-mode-and-graphics-card-uninstallation/"><u>Navigating to Safety: Windows 8'S Safe Mode & Graphics Card Uninstallation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/preserve-and-shield-your-digital-assets-using-our-top-5-recommended-practices/"><u>Preserve and Shield Your Digital Assets Using Our Top 5 Recommended Practices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quelling-quick-flash-queries/"><u>Quelling Quick-Flash Queries</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-remedy-for-buffering-woes/"><u>Quick Remedy for Buffering Woes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-best-front-row-activities-that-arent-games-for-2024/"><u>The Best Front-Row Activities That Aren't Games for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-prospects-of-a-prompt-engineers-job-market/"><u>The Prospects of a Prompt Engineer’s Job Market</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-you-cant-access-windows-smartscreen-protection/"><u>Troubleshooting Guide: When You Can't Access Windows SmartScreen Protection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-solution-to-windows-10-glare/"><u>Unveiling Solution to Window's 10 Glare</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-emerges/"><u>Win11 Shadowed, Cursor Emerges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-settings-not-showing-in-win11/"><u>[Fixed] Advanced Settings Not Showing in Win11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-for-rapid-thumbnail-assembly/"><u>[New] 2024 Approved Cutting-Edge Techniques for Rapid Thumbnail Assembly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-pathway-to-lyrical-masterpieces-via-lyric-video-maker-software/"><u>[New] 2024 Approved The Pathway to Lyrical Masterpieces via Lyric Video Maker Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-the-potential-of-your-laptops-recording-features/"><u>[Updated] 2024 Approved Unlocking the Potential of Your Laptop's Recording Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-ultimate-step-by-step-tutorial-free-downloading-of-youtube-content-without-third-party-tools/"><u>1. Ultimate Step-by-Step Tutorial: Free Downloading of YouTube Content without Third-Party Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accessing-hidden-screen-settings-in-nvidia/"><u>Accessing Hidden Screen Settings in Nvidia</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-network-latest-tp-link-router-driver-versions-for-win-11-8-and-7-devices/"><u>Enhance Your Network: Latest TP-Link Router Driver Versions for Win 11, 8 & 7 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-stand-out-yt-thumbnail-size-and-engagement-strategies-for-2024/"><u>How to Stand Out YT Thumbnail Size and Engagement Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration/"><u>In 2024, Unlocking Full Potential of Video Calls with Zoom & Gmail Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interactive-display-armada-on-lenovo-fixed/"><u>Interactive Display Armada on Lenovo Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-fix-graphic-error-22-no-more/"><u>Kernel Fix: Graphic Error 22 No More</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-cleaning-up-7-reliable-ways-to-wipe-files-and-folders-forever/"><u>Master the Art of Cleaning Up: 7 Reliable Ways to Wipe Files and Folders Forever</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-windows-8s-secure-operation-graphics-driver-dispatchment/"><u>Mastering the Art of Windows 8'S Secure Operation - Graphics Driver Dispatchment</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-apps-must-haves-and-hidden-gems/"><u>New 2024 Approved The Ultimate Guide to iPhone Apps Must-Haves and Hidden Gems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solution-to-asus-laptop-screens-that-wont-stop-shimmering/"><u>Solution to ASUS Laptop Screens That Won't Stop Shimmering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-up-in-performance-amd-hd-6950-w11-drivers-update/"><u>Step-Up in Performance - AMD HD 6950 W11 Drivers Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tactics-to-support-unsupported-freesync-on-amd/"><u>Tactics to Support Unsupported FreeSync on AMD</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels-for-2024/"><u>Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels for 2024</u></a></li>
 </ul></div>
 
