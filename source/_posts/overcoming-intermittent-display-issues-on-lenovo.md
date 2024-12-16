@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2024-12-07T04:54:17.858Z
-updated: 2024-12-09T21:43:28.746Z
+date: 2024-12-09T16:18:29.235Z
+updated: 2024-12-15T17:07:16.563Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -46,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -75,7 +75,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -87,13 +87,13 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -125,18 +125,20 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leveraging-social-media-trends-for-fan-growth-on-igtv/"><u>[New] 2024 Approved Leveraging Social Media Trends for Fan Growth on IGTV</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-for-attaching-tunes-in-instagram-media/"><u>[New] In 2024, Step-by-Step for Attaching Tunes in Instagram Media</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-tiktok-unboxers-playbook-for-likes/"><u>2024 Approved The Ultimate TikTok Unboxer's Playbook for Likes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activating-graphics-settings-via-nvidia-control-panel/"><u>Activating Graphics Settings via NVIDIA Control Panel</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-partner-in-advanced-web-data-collection/"><u>Cookiebot: Your Partner in Advanced Web Data Collection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortlessly-eliminate-black-screens-on-asus-pcs/"><u>Effortlessly Eliminate Black Screens on Asus PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-turn-off-flicker-on-your-computer-monitor/"><u>How to Turn Off Flicker on Your Computer Monitor</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/illuminated-influence-elevating-your-cinematic-presentations/"><u>Illuminated Influence Elevating Your Cinematic Presentations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-perfect-tones-with-curvature-techniques/"><u>In 2024, Crafting Perfect Tones with Curvature Techniques</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-ranking-the-top-hand-drawn-whiteboard-animation-software/"><u>New 2024 Approved Ranking the Top Hand-Drawn Whiteboard Animation Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-privacy-can-personalized-ai-models-like-chatgpt-pose-risks/"><u>Protecting Your Privacy: Can Personalized AI Models Like ChatGPT Pose Risks?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-peace-eradicate-windows-crashes-in-f4/"><u>Restore Peace: Eradicate Windows Crashes in F4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-20-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark 20 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>2024 Approved Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289195838-dvd/"><u>新しい方法で合法的なDVDコピー - 不可欠のリッピング解禁情報!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-sideways-screen-on-windows-10/"><u>Addressing Sideways Screen on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-nvidia-940mx-graphics-card-drivers/"><u>Download and Install Official Nvidia 940MX Graphics Card Drivers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-video-capturing-technology-for-podcasts/"><u>Elite Video Capturing Technology for Podcasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-flickering-displays/"><u>How to Eliminate Flickering Displays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-technique-for-capturing-time-on-iphone/"><u>In 2024, The Ultimate Technique for Capturing Time on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-discovery-bings-journey-to-ai-integration/"><u>Intelligent Discovery: Bing's Journey to AI Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interopservice-exception-rectified-in-windows/"><u>InteropService Exception Rectified in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-unleashed-a-deep-dive-into-release-information-and-groundbreaking-features/"><u>MacOS 15 (Sequoia) Unleashed: A Deep Dive Into Release Information & Groundbreaking Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix/"><u>Maximize Visual Impact The Perfect Blend of Windows 11, Photos and StoryRemix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-update-graphical-incompatibility-fixed/"><u>Overwatch Update: Graphical Incompatibility Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-audio-issues-civ-5/"><u>Troubleshooting Audio Issues CIV 5</u></a></li>
 </ul></div>
 

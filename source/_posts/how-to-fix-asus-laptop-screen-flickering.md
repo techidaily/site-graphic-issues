@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-12-03T21:17:07.357Z
-updated: 2024-12-09T20:48:26.349Z
+date: 2024-12-12T20:46:40.038Z
+updated: 2024-12-15T18:32:32.644Z
 tags:
   - win11
   - win10
@@ -47,8 +47,16 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -56,21 +64,21 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -100,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
@@ -111,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -156,19 +156,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/apex-legends-speedy-smooth-and-secure/"><u>Apex Legends: Speedy, Smooth, and Secure</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978309205-corsair-k70-full-driver-setup-and-download-instructions-online-now/"><u>Corsair K70 Full Driver Setup and Download Instructions Online Now!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplified-hdr-an-in-depth-examination/"><u>In 2024, Simplified HDR An In-Depth Examination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-glitches-in-civilization-v/"><u>Mending Glitches in Civilization V</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/optimized-obs-options-for-low-end-systems/"><u>Optimized OBS Options for Low-End Systems</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update/"><u>PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-end-fallout-4-pc-freezes/"><u>Quick Fix: End Fallout 4 PC Freezes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-ensure-your-gaming-sessions-are-audible-on-discord/"><u>Solved! How To Ensure Your Gaming Sessions Are Audible on Discord</u></a></li>
-<li><a href="https://ai-video.techidaily.com/the-best-translator-to-translate-videos-online/"><u>The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-gtx-1060s-potential-with-updated-graphics-software/"><u>Unlock GTX 1060'S Potential with Updated Graphics Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/unveiling-history-who-led-the-dawn-of-the-han-dynasty-era-expert-analysis-by-yl-tech-solutions/"><u>Unveiling History: Who Led the Dawn of the Han Dynasty Era? Expert Analysis by YL Tech Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-webm-to-mp4-top-rated-conversion-tools-and-software/"><u>Updated In 2024, From WebM to MP4 Top-Rated Conversion Tools and Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-safedrive-backup-specialists-take/"><u>[New] SafeDrive Backup Specialists' Take</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-a-swift-submission-into-apple-catalog/"><u>[New] Tips for a Swift Submission Into Apple Catalog</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-future-of-action-photography-starts-here-xs-100-i-reviewed/"><u>[Updated] 2024 Approved The Future of Action Photography Starts Here - XS 100 I Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-facetune-experience-enthusiasts/"><u>2024 Approved The Ultimate Facetune Experience Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fuzzy-interface-details-in-far-cry-6/"><u>Fixing Fuzzy Interface Details in Far Cry 6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-invisible-screen/"><u>GPU Error: Invisible Screen</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-s18-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S18 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/issues-with-launching-mass-effect-legendary-edition-solutions-explored/"><u>Issues with Launching Mass Effect Legendary Edition - Solutions Explored</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/method-to-fetch-unintentionally-removed-iphone-data-via-stellar-application/"><u>Method to Fetch Unintentionally Removed iPhone Data via Stellar Application</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-the-obstacles-in-youtubes-chroma-key-setup/"><u>Overcoming the Obstacles in YouTube's Chroma Key Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-inconsistent-monitor-flashes-in-laptops/"><u>Resolved Inconsistent Monitor Flashes in Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resurrect-your-asus-video-recorder/"><u>Resurrect Your ASUS Video Recorder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tarkov-visual-fix-swifter-amd-graphics-remedy/"><u>Tarkov Visual Fix: Swifter AMD Graphics Remedy</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xfx-driver-error-resolved-device-operational-again/"><u>XFX Driver Error Resolved: Device Operational Again</u></a></li>
 </ul></div>
 

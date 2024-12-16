@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Fix NVIDIA GTX 950 Error Code 43 in Windows 11: A Step-by-Step Solution"
-date: 2024-12-07T20:06:10.328Z
-updated: 2024-12-09T20:00:30.323Z
+date: 2024-12-12T21:56:01.128Z
+updated: 2024-12-16T03:39:43.575Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Option 1: Clean re-install NVIDIA 950
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -107,13 +107,13 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
@@ -155,16 +155,18 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/tech-fixed-dxgkrnlsys-bsod-on-pc/"><u>[Tech] Fixed dxgkrnl.sys BSOD on PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-fixed-eclipsed-youtube-short-video/"><u>[Updated] In 2024, Fixed Eclipsed YouTube Short Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amazons-latest-update-introducing-enhanced-ai-english-courses-tailored-for-the-hispanic-community-dive-into-learning-with-alexa/"><u>Amazon's Latest Update: Introducing Enhanced AI English Courses Tailored for the Hispanic Community - Dive Into Learning with Alexa!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-performance-geforce-210-update-for-w11/"><u>Boost Performance: GeForce 210 Update for W11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>Maximizing Your Influence A Selection of Expert Instagram Analytics Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-stable-fallout-4-gaming-on-pc/"><u>Quick Fixes for Stable Fallout 4 Gaming on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reignite-asus-cameras-that-arent-working/"><u>Reignite Asus Cameras That Aren't Working</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-comprehensive-solution-for-doom-eternal-continuous-crashing/"><u>The Comprehensive Solution for DOOM Eternal Continuous Crashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unexpected-darkness-your-laptops-non-responsive-screen/"><u>Unexpected Darkness: Your Laptop's Non-Responsive Screen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unmatched-camera-and-recording-app-selection-on-iphones-and-androids-for-2024/"><u>Unmatched Camera & Recording App Selection on iPhones and Androids for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/voice-broadcasting-made-easy-on-your-idevice-tips-and-tricks/"><u>Voice Broadcasting Made Easy on Your iDevice Tips & Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aking-fx-magic-a-novices-step-into-animated-worlds-for-2024/"><u>[New] Making FX Magic A Novice's Step Into Animated Worlds for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-resolve-chromebooks-video-issue/"><u>[New] Resolve Chromebook's Video Issue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimize-watching-incorporating-captions-into-wmp/"><u>[Updated] Optimize Watching Incorporating Captions Into WMP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-7-plusipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 7 Plus/iPad/iPod</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-11-display-glitches/"><u>Eradicate Windows 11 Display Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817948147-fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won’t Turn On Issue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-imovie-content-from-home-studio-to-youtube-hub-for-2024/"><u>Guiding iMovie Content From Home Studio to YouTube Hub for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-gt-5-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme GT 5 Through Google Earth?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-mac-masterpiece-studio-audio-guide/"><u>In 2024, The Mac Masterpiece Studio Audio Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-windows-11-setup-without-internet/"><u>Step-by-Step: Windows 11 Setup Without Internet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unsaved-settings-no-more-display-fixed/"><u>Unsaved Settings No More: Display Fixed</u></a></li>
 </ul></div>
 

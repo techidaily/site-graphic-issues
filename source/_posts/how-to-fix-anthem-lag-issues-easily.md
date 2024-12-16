@@ -1,7 +1,7 @@
 ---
 title: How To Fix Anthem Lag Issues. Easily
-date: 2024-12-07T19:43:15.691Z
-updated: 2024-12-09T19:02:18.324Z
+date: 2024-12-10T03:51:38.253Z
+updated: 2024-12-15T20:32:23.534Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  Many users are reporting an ongoing lagging issue with the newly released game**Anthem** . Although this can be frustrating, this**Anthem Lags** problem can be easily fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For Anthem Lags
 
  **Here’re 3 fixes that have helped other users resolve the Anthem lag issue.** Just work your way down until you find one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 3. [**Check if your PC meets the system requirements for Anthem**](#F3)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Optimize your in-game settings
 
@@ -51,6 +59,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-11-1024x310.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Go to**Settings** \>**Advanced Graphics Settings** .
 
  6) In**Graphics Quality** , choose**Custom** ;  
@@ -70,10 +82,6 @@ Here’s how to do it:
  7) Check if the**Anthem lag** problem has been resolved. If it continues to happen, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your PC settings
 
@@ -109,25 +117,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**System Configuration** window, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-36.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -142,10 +138,6 @@ So you can follow the steps below to disable CPU core parking:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -175,13 +167,13 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -195,17 +187,25 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**Display adapter properties for Display 1** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -232,17 +232,14 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-preeminence-in-premiere-pro-mastering-fullscreen-vistas/"><u>[New] Preeminence in Premiere Pro Mastering Fullscreen Vistas</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>2024 Approved Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amds-load-fail-fix-windows-10-ready/"><u>AMD’s Load Fail Fix - Windows 10 Ready</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/einfache-anleitung-zum-formatieren-einer-externen-speicherfestplatte-fur-sicherungskopien-ganz-einfach/"><u>Einfache Anleitung Zum Formatieren Einer Externen Speicherfestplatte Für Sicherungskopien - Ganz Einfach!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-sims-colorless-startup/"><u>Eradicate Sims' Colorless Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-continuous-pc-crashes-with-the-luna-application/"><u>Fixes & Solutions: Resolving Continuous PC Crashes with the Luna Application</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-interface-problem-solved-on-windows-platform/"><u>Graphic Interface Problem Solved on Windows Platform</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-13t-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi 13T Pro Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-an-m1-macbook-air-smarter-and-faster-for-editing-for-2024/"><u>Is an M1 MacBook Air Smarter and Faster for Editing for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastered-overcoming-nvidia-setup-hurdle/"><u>Mastered: Overcoming NVIDIA Setup Hurdle</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-windowsnvidia-compatibility-hurdle/"><u>Overcoming Windows/Nvidia Compatibility Hurdle</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722995429371-why-is-metro-exodius-keeping-you-out-of-the-game-fix-those-pc-crashes-now/"><u>Why Is Metro Exodius Keeping You Out of the Game? Fix Those PC Crashes Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/vaio/"><u>初期設定準備ガイド:Vaioコンピュータのセットアップ手順</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dailymotion-elites-in-snapchat-world-for-2024/"><u>Dailymotion Elites in Snapchat World for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-laptop-fix-straighten-screen-edges/"><u>Effortless Laptop Fix - Straighten Screen Edges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenate-your-pc-with-a-swift-graphic-driver-upgrade-for-win10/"><u>Rejuvenate Your PC with a Swift Graphic Driver Upgrade for Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-playback-overcome-jittery-streams/"><u>Seamless Playback: Overcome Jittery Streams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-with-latest-windows-11-driver-for-radeon-hd-6950/"><u>Unleash Potential with Latest Windows 11 Driver for Radeon HD 6950</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-world-betrayals-activisions-tale/"><u>Virtual World Betrayals: Activision's Tale</u></a></li>
 </ul></div>
 

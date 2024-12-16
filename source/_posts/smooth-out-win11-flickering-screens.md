@@ -1,7 +1,7 @@
 ---
 title: "Smooth Out: Win11 Flickering Screens"
-date: 2024-12-05T02:01:24.738Z
-updated: 2024-12-10T05:11:22.034Z
+date: 2024-12-12T03:02:52.010Z
+updated: 2024-12-15T20:20:36.267Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ Here is how to change the monitor refresh rate:
 3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
@@ -53,7 +53,7 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
@@ -61,7 +61,7 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -78,9 +78,17 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -89,10 +97,6 @@ Here is how to change the monitor refresh rate:
 5) Keep track on your PC to see if the screen flashing or flickering problem has been resolved. If yes, then congrats! If the issue persists, however, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
@@ -141,10 +145,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -159,15 +159,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -196,22 +196,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-parody-basics-tips-for-entertaining-mocks/"><u>[New] In 2024, Parody Basics Tips for Entertaining Mocks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>[New] Premier Picks Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-techniques-to-amplify-youtube-video-clarity/"><u>[New] Techniques to Amplify YouTube Video Clarity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-graphics-tuning-for-windows-11/"><u>[Resolved] Advanced Graphics Tuning for Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-convenient-ways-to-screen-cast-lenovo-laptops/"><u>[Updated] 2024 Approved Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-youtubes-5-second-tales/"><u>[Updated] 2024 Approved Decoding YouTube's 5-Second Tales</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-a-step-by-step-guide-to-including-vimeo-on-instagram/"><u>[Updated] In 2024, A Step-by-Step Guide to Including Vimeo on Instagram</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-users-guide-to-barnes-and-nobles-expanded-screen-a-detailed-nook-glowlight-plus-evaluation/"><u>A User's Guide to Barnes & Noble's Expanded Screen: A Detailed Nook GlowLight Plus Evaluation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-resolved-wdf-api-errors-in-windows/"><u>BlueScreen Resolved: WDF API Errors in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compress-win-10-screen-size/"><u>Compress WIN 10 Screen Size</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-create-a-playlist-on-youtube/"><u>How to Create a Playlist on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-guide-for-webp-to-jpg-conversion/"><u>In 2024, Precision Guide for WebP to JPG Conversion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-guide-gpus-no-video-output-needed/"><u>Quick-Fix Guide: GPUs, No Video Output Needed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rehabilitating-non-functional-asus-cameras/"><u>Rehabilitating Non-Functional Asus Cameras</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedy-the-setup-issue-of-c1900101-for-win10-success/"><u>Remedy the Setup Issue of C1900101 for Win10 Success</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/updated-graphic-settings-for-overwatch/"><u>Updated Graphic Settings for Overwatch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dive-into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>[New] 2024 Approved Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-question-collection-for-lively-podcast-discussions-for-2024/"><u>[New] Innovative Question Collection for Lively Podcast Discussions for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-power-of-virality-enhancing-brand-presence-on-tiktok/"><u>[Updated] 2024 Approved The Power of Virality Enhancing Brand Presence on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-8-most-viewed-videos-on-facebook-for-2024/"><u>[Updated] 8 Most Viewed Videos on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts-for-2024/"><u>[Updated] Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/593511-9781101486474-a-book-of-angels/"><u>A Book of Angels | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-blank-screen-a-twitch-guide/"><u>Eliminate Blank Screen: A Twitch Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-on-windows-with-latest-nvidia-geforce-drivers/"><u>Enhanced Rendering on Windows with Latest Nvidia GeForce Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-wide-screen-functionality-in-win10-software/"><u>Enhancing Wide-Screen Functionality in Win10 Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finns-fortune-flux-earnings-examination-for-2024/"><u>Finn's Fortune Flux Earnings Examination for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-amd-freesync-work-across-systems/"><u>Making AMD FreeSync Work Across Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-latency-reduction-in-anthem/"><u>Mastering Latency Reduction in Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-a-dormant-gpu-fan/"><u>Solutions for a Dormant GPU Fan</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-fundamentals-of-successful-instagram-video-promotion-planning/"><u>The Fundamentals of Successful Instagram Video Promotion Planning</u></a></li>
 </ul></div>
 

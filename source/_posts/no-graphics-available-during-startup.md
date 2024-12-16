@@ -1,7 +1,7 @@
 ---
 title: No Graphics Available During Startup
-date: 2024-12-03T04:44:21.724Z
-updated: 2024-12-10T06:59:37.756Z
+date: 2024-12-13T16:39:55.676Z
+updated: 2024-12-16T06:56:03.177Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 * **[Method 5: Repair corrupted system files](#fix4)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your graphics driver
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Run the game in compatibility mode
@@ -87,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 4. Check the box under**Compatibility mode** and select what you want the game to be compatible with. Tick the box next to**Disable fullscreen optimizations** and**Run this program as administrator** . Click**Apply** \>**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/compatibility-mode.png)
 5. Launch your game to check if the game is working properly again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -109,9 +105,17 @@ To change system screen resolution on Windows 11:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update Windows
 
@@ -122,15 +126,11 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -150,12 +150,12 @@ If the problem remains, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -185,18 +185,16 @@ If the problem remains, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-evaluating-fraps-as-a-screen-grab-pro/"><u>[New] Evaluating Fraps as a Screen Grab Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-smartphones-meet-virtual-reality-best-10-models/"><u>[New] Smartphones Meet Virtual Reality Best 10 Models</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-quality-streaming-how-to-do-it-right-with-wirecast-and-youtube/"><u>[New] The Fundamentals of Quality Streaming How to Do It Right with WireCast and Youtube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-dynamic-beats-win-edition/"><u>[Updated] In 2024, Dynamic Beats Win Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-basics-what-makes-a-vr-device-special/"><u>[Updated] The Basics What Makes a VR Device Special?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/black-screen-on-latest-gpu/"><u>Black Screen on Latest GPU</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-bridges-in-isolation-through-ai-dialogue/"><u>Building Bridges in Isolation Through AI Dialogue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-gains-latest-nvidia-geforce-drivers-for-windows-os/"><u>Graphics Gains: Latest NVIDIA GeForce Drivers for Windows OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-promotion-in-the-metaverse/"><u>In 2024, Pioneering Promotion in the Metaverse</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-looking-for-vsdc-on-mac-try-these-alternative-editors/"><u>New 2024 Approved Looking for VSDC on Mac? Try These Alternative Editors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-lines-equilibrium/"><u>Perfecting Visual Lines' Equilibrium</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-laptop-monitor-horizontal-line-distortion-quickly/"><u>Rectify Laptop Monitor Horizontal Line Distortion Quickly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/to-upgrade-or-not-making-the-smart-choice-with-ios-17/"><u>To Upgrade or Not - Making the Smart Choice with iOS 17</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ios-leading-psp-emulators-five-star-selections/"><u>[New] 2024 Approved IOS Leading PSP Emulators Five Star Selections</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleash-creativity-winning-animation-projects-using-movie-maker-for-2024/"><u>[New] Unleash Creativity Winning Animation Projects Using Movie Maker for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-excessive-display-on-win-10-pc/"><u>Decrease Excessive Display on WIN 10 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-drivers-fixed-at-43/"><u>Display Drivers Fixed at #43</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-cinema-comfortably-how-to-stream-3d-movies-via-fandango-at-home/"><u>Enjoy Cinema Comfortably: How To Stream 3D Movies Via Fandango At Home</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125184365-exploring-the-best-of-toms-hardware-expert-analysis-inside/"><u>Exploring the Best of Tom's Hardware – Expert Analysis Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-reno-11f-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Reno 11F 5G Fingerprint Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-6s-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 6s Plus/iPad/iPod</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-windows-fast-methods-for-removing-drivers/"><u>Mastering Windows: Fast Methods for Removing Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-non-functioning-asus-webcam/"><u>Overcoming Non-Functioning ASUS Webcam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-clear-windows-display/"><u>Resolved: Clear Windows Display</u></a></li>
 </ul></div>
 

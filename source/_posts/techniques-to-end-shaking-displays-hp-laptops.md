@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-12-09T06:19:49.685Z
-updated: 2024-12-10T02:48:48.142Z
+date: 2024-12-15T02:47:28.881Z
+updated: 2024-12-15T18:04:18.264Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 ## Techniques to End Shaking Displays: HP Laptops
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
 
@@ -46,7 +42,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -63,10 +59,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -78,6 +70,10 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -96,12 +92,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -112,7 +112,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
@@ -158,21 +158,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-path-to-ethical-expansion-youtube-traffic-enhancement-for-2024/"><u>[New] The Path to Ethical Expansion YouTube Traffic Enhancement for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-earnings-escalation-via-youtube-channel-initiatives/"><u>[Updated] Earnings Escalation via YouTube Channel Initiatives</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-premium-7-dslr-picks-for-ultimate-visual-storytelling-online/"><u>2024 Approved Premium 7 DSLR Picks For Ultimate Visual Storytelling Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-razr-40-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Razr 40 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cant-reach-full-screen-windowed-display-on-monitor/"><u>Can't Reach Full Screen: Windowed Display on Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directive-for-device-deletion-graphics-card-erasure/"><u>Directive for Device Deletion: Graphics Card Erasure</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-bespoke-online-marketing-with-cutting-edge-cookiebot-solutions/"><u>Experience Bespoke Online Marketing with Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-maintain-stability-for-snowrunner-software-running-on-personal-computers/"><u>How to Maintain Stability for SnowRunner Software Running on Personal Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-now-fully-supports-latest-gpus/"><u>Overwatch Now Fully Supports Latest GPUs</u></a></li>
-<li><a href="https://win-net.techidaily.com/professionelle-tipps-zur-verwendung-der-quick-access-security-funktionen-in-windows-11-eine-anleitung-fur-anfanger/"><u>Professionelle Tipps Zur Verwendung Der Quick Access Security Funktionen in Windows 11: Eine Anleitung Für Anfänger</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-secret-direct-x-glitch-in-league/"><u>Solved: Secret Direct X Glitch in League</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-hiccup-nvidia-driver-returns-to-operation/"><u>System Hiccup: Nvidia Driver Returns to Operation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/task-triumphs-leading-windows-programs-to-boost-your-output/"><u>Task Triumphs: Leading Windows Programs to Boost Your Output</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zeroing-in-on-a-laptops-unresponsive-display/"><u>Zeroing in on a Laptop's Unresponsive Display</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-world-of-video-screen-capture/"><u>[New] 2024 Approved Navigating the World of Video Screen Capture</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-captivating-video-narratives-for-youtube-success/"><u>[New] Crafting Captivating Video Narratives for YouTube Success</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-pcs-performance-essential-tricks-and-hacks-insights-by-yl-computing/"><u>Boost Your PC's Performance: Essential Tricks & Hacks - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinemas-best-bits-select-snippets-for-edits-for-2024/"><u>Cinema’s Best Bits Select Snippets for Edits for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correction-of-screen-boundary-alignment/"><u>Correction of Screen Boundary Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Free electronic signatures for JPG</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-12plus-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme 12+ 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nubia-red-magic-9-proplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nubia Red Magic 9 Pro+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-minecraft-errors-with-ease/"><u>Navigating Windows' Minecraft Errors with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refinement-of-visual-settings-in-latest-win11-update/"><u>Refinement of Visual Settings in Latest Win11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-youtube-rank-tracker-to-track-your-video/"><u>Top 8 YouTube Rank Tracker to Track Your Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
 </ul></div>
 

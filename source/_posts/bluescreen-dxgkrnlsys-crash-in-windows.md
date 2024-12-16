@@ -1,7 +1,7 @@
 ---
 title: "BlueScreen: dxgkrnl.sys Crash in Windows"
-date: 2024-12-06T16:03:42.136Z
-updated: 2024-12-09T17:03:33.371Z
+date: 2024-12-10T18:36:18.571Z
+updated: 2024-12-16T00:46:16.793Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 
  If you’re seeing the blue screen of death error   **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys),**  you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. The additional code _**dxgkrnl.sys**_ (which stands for**DirectX Graphics Kernel**) has already told you it is the culprit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 3 fixes for you to try. Work your way down and find the one that works for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 
  The methods work only when you can boot into your PC desktop. If you are having problem logging into your desktop, you can try a [hard boot](https://tools.techidaily.com/drivereasy/download/) into Advanced Startup Options. From there, choose Safe Mode with Networking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1\. Run Fortect to repair BSOD error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix the blue screen of death error **SYSTEM\_SERVICE\_EXCEPTION (dxgkrnl.sys)** . Fortect Windows Repair is tailored to your specific system and is working in a private and automatic way. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings or user data.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2\. Keep Windows 10 Updated
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f05148ad.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f35b1798.png)
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
  3) Click the**Check for updates** button and Windows will search for the needed patches for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1f6328d3b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If find any available update, just download them and wait for them to be installed. You may need to restart your computer for the change to take effect.
 
@@ -101,14 +109,6 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f25aff37f6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4\. Check for Possible Hardware Failure
 
@@ -142,24 +142,24 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-customizing-facebook-memories-with-look-back-edits-for-2024/"><u>[New] Customizing Facebook Memories with Look Back Edits for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-integrating-visuals-smoothly-mastering-snap-camera-in-microsoft-teams-for-2024/"><u>[New] Integrating Visuals Smoothly Mastering Snap Camera in Microsoft Teams for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-directx12-disruption-in-halo-infinite-launching-process/"><u>[RESOLVED] DirectX12 Disruption in Halo Infinite Launching Process</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-playbook-of-youtubes-innovative-approach-to-video-shorts/"><u>[Updated] The Playbook of YouTube’s Innovative Approach to Video Shorts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/comparing-cloud-prices-for-maximum-savings/"><u>Comparing Cloud Prices for Maximum Savings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-f5-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco F5 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-release-amd-hd-6950-drivers-update-for-windows-11-users/"><u>New Release: AMD HD 6950 Drivers Update for Windows 11 Users</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reestablishing-communication-hdmi-between-gadgets-worked-again/"><u>Reestablishing Communication: HDMI Between Gadgets Worked Again</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-display-glitch-driver-now-active/"><u>Resolved Display Glitch: Driver Now Active</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-cominterop-anomalies-in-winos-environment/"><u>Resolving COMInterop Anomalies in WinOS Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revitalize-your-vintage-pc-top-5-linux-os-choices/"><u>Revitalize Your Vintage PC: Top 5 Linux OS Choices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-lenovo-lights-screen-brightness/"><u>Revive Lenovo Lights - Screen Brightness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steady-your-screen-fix-flicker-in-windows-7/"><u>Steady Your Screen: Fix Flicker in Windows 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-cursor-awakening-screen-brightness-restored/"><u>Win11 Cursor Awakening, Screen Brightness Restored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-consistency-secured/"><u>Windows 10 Screen Consistency Secured</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-undetected-consumer-of-life-streams-fb/"><u>[New] 2024 Approved Undetected Consumer of Life Streams (FB)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-microvid-viewer-analysis-and-comparison-tools/"><u>[Updated] 2024 Approved MicroVid Viewer Analysis & Comparison Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-detection-driver-fixed-in-windows-10/"><u>AMD: Detection Driver Fixed in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-high-resource-usage-by-ntoskrnlexe/"><u>Cutting Down High Resource Usage by Ntoskrnl.exe</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-no-more-issues/"><u>GPU Error 43: No More Issues</u></a></li>
+<li><a href="https://discover-help.techidaily.com/guida-completa-alla-registrazione-dello-schermo-con-webcam-e-audio-utilizzando-windows-video-capture/"><u>Guida Completa Alla Registrazione Dello Schermo Con Webcam E Audio Utilizzando Windows Video Capture</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-6-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 6 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-fix-for-playback-hiccups-in-your-presentation-audios/"><u>Master the Fix for Playback Hiccups in Your Presentation Audios</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenreversalcorrection-tips/"><u>ScreenReversalCorrection Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-changing-screen-dpi-in-newest-win11-version/"><u>Secure Changing Screen DPI in Newest Win11 Version</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-problem-with-lenovo-disengaged-screen/"><u>Solved Problem with Lenovo Disengaged Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-graphics-solutions-applied-to-r9-driver-w10/"><u>Stable Graphics: Solutions Applied to R9 Driver W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-gaming-experience/"><u>Streamline Your Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-itel-a70-by-fonelab-android-recover-data/"><u>Undelete lost data from Itel A70</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-the-secrets-behind-the-apple-imacs-stunning-design-and-powerful-performance-a-thorough-215-4k-review/"><u>Unlocking the Secrets Behind the Apple iMac's Stunning Design and Powerful Performance: A Thorough 21.5 4K Review.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818100903-windows-10-cant-change-resolution-solved/"><u>Windows 10 Can't Change Resolution [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-not-fully-displaying-window/"><u>Windows 10: Screen Not Fully Displaying Window</u></a></li>
 </ul></div>
 

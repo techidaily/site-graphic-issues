@@ -1,7 +1,7 @@
 ---
 title: "Banish Blinky: A Step-by-Step Guide to Screen Stability"
-date: 2024-12-04T03:08:34.165Z
-updated: 2024-12-09T22:23:32.252Z
+date: 2024-12-14T03:46:01.735Z
+updated: 2024-12-16T10:05:46.462Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 2. **[Check for hardware issues](#f2)**
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -52,8 +48,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -80,16 +84,12 @@ To troubleshoot these hardware issues:
 3. Select the app you want to uninstall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -108,15 +108,15 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -157,19 +157,19 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-audiences-delighted-best-editors-to-transform-youtube-shorts/"><u>[Updated] In 2024, Audiences Delighted Best Editors to Transform Youtube Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-stream-software-showdown-obs-vs-shadowplay-for-2024/"><u>[Updated] The Ultimate Stream Software Showdown OBS vs ShadowPlay for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/windows-server-2019/"><u>如何即時維修 Windows Server 2019 功能表啟動失敗？兩種有效方式</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a1x-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A1x 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cleared-windows-distortion-for-improved-views/"><u>Cleared Windows Distortion for Improved Views</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exclusive-macxdvd-giveaway-free-copy-of-macx-dvd-ripper-pro-on-2018-black-friday-deals/"><u>Exclusive MacXDVD Giveaway: Free Copy of MacX DVD Ripper Pro on 2018 Black Friday Deals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-stability-avoiding-rtx-crashes/"><u>Game Stability: Avoiding RTX Crashes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>In 2024, Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-career-prospects-is-it-legitimate-work/"><u>Prompt Engineering Career Prospects: Is It Legitimate Work?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proven-strategies-for-windows-8s-secure-boot-graphics-card-drivers-erasure/"><u>Proven Strategies for Windows 8'S Secure Boot - Graphics Card Drivers Erasure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-asus-built-in-camera-operation/"><u>Restoring ASUS Built-In Camera Operation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-stream-fixes-revealed/"><u>Windows 10 Upgrade - Stream Fixes Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exclusive-movies-behind-the-best-chart-for-2024/"><u>[New] Exclusive Movies Behind the Best Chart for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cultivating-confidence-for-captivating-your-youtube-audience/"><u>[New] In 2024, Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-proving-ideal-for-iphone-users-9-photo-watermarking-tools/"><u>[New] Proving Ideal for iPhone Users 9 Photo Watermarking Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-smartphone-savvy-capturing-and-storing-twitter-gifs/"><u>[Updated] In 2024, Smartphone Savvy Capturing & Storing Twitter GIFs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-macbook-webcam-capture-techniques-guide-for-2024/"><u>[Updated] Professional MacBook Webcam Capture Techniques Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-you-need-to-know-about-the-samsung-gear-s3-frontier-a-top-tier-feature-packed-wearable-device/"><u>All You Need to Know About the Samsung Gear S^3 Frontier: A Top-Tier, Feature-Packed Wearable Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-mirrored-display-glitch-in-windows-11/"><u>Correcting Mirrored Display Glitch in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-monitor-issues/"><u>Correcting Windows 10 Monitor Issues</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guida-passo-passo-per-cambiare-la-configurazione-della-lingua-in-aomei-backupper-manuale-e-video/"><u>Guida Passo-Passo per Cambiare La Configurazione Della Lingua in AOMEI Backupper: Manuale E Video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-failed-display-saving-in-win-7-and-10-systems-solution-found/"><u>Restore Failed Display Saving in Win 7 & 10 Systems [Solution Found]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-running-llama-2-on-your-local-device/"><u>Seamlessly Running Llama 2 on Your Local Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-the-trouble-youtubes-green-screen-fixes-unveiled/"><u>Tackling the Trouble: YouTube's Green Screen Fixes Unveiled</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-do-you-have-any-idea-to-save-projects-on-the-final-cut-pro-app-if-you-are-in-search-of-this-content-then-you-are-in-the-right-place-to-obtain-the-va/"><u>Updated Do You Have Any Idea to Save Projects on the Final Cut Pro App? If You Are in Search of This Content, Then You Are in the Right Place to Obtain the Valuable Facts About It in Detail for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-clarity-achieved/"><u>Windows Clarity Achieved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ScreenOrientationFix Guide
-date: 2024-12-08T04:16:46.608Z
-updated: 2024-12-10T02:46:40.511Z
+date: 2024-12-10T09:13:22.832Z
+updated: 2024-12-15T17:04:02.414Z
 tags:
   - win11
   - win10
@@ -49,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then try the keyboard shortcut combinations again to rotate your computer/laptop screen.
 
@@ -80,13 +76,25 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and locate the**Display orientation** menu. Change the orientation to:**Landscape,** **Portrait** ,**Landscape** **(flipped)** , or **Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
 
@@ -95,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**View by category** , and click**Adjust screen resolution** .
@@ -112,15 +120,7 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still no luck? Don’t be upset. There’s one more thing to try…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -173,20 +173,19 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-pioneering-publishing-platforms-fb-and-its-video-distribution-insights/"><u>[New] In 2024, Pioneering Publishing Platforms FB and Its Video Distribution Insights</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-characters-animation-basics-in-wmm/"><u>[Updated] 2024 Approved Crafting Characters Animation Basics in WMM</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-graphics-adapter-not-installed-on-older-windows-versions/"><u>AMD Graphics Adapter Not Installed on Older Windows Versions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-performance-and-graphics-amds-hd-6950-for-windows-10/"><u>Boost Performance & Graphics: AMD's HD 6950 for Windows 10</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effective-strategies-for-resolving-windows-hardware-problems-insights-from-yl-computing-and-software/"><u>Effective Strategies for Resolving Windows Hardware Problems - Insights From YL Computing & Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-strategies-for-tracking-xbox-hours/"><u>Efficient Strategies for Tracking Xbox Hours</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-pc-specs-for-optimal-intell-driver-use/"><u>Enhancing PC Specs for Optimal Intell Driver Use</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-protection-configuring-yl-computing-firewalls-for-optimal-safety/"><u>Mastering Protection: Configuring YL Computing Firewalls for Optimal Safety</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-clarity-the-world-of-4k/"><u>Mastering the Art of Clarity: The World of 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revolutionize-pc-display-updated-nvidia-geforce-210-for-windows-1e/"><u>Revolutionize PC Display: Updated Nvidia GeForce 210 for Windows 1E</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-ultimate-fix-guide-to-youtubes-green-screen-woes/"><u>The Ultimate Fix Guide to YouTube's Green Screen Woes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tiktok-trends-the-top-ten-tweets-shaping-social-media/"><u>TikTok Trends The Top Ten Tweets Shaping Social Media</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-quiet-displays/"><u>Unveiling Secrets to Quiet Displays</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>[Updated] Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>2024 Approved Action Cameras Showdown GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-livestream-and-record-software-face-off-obs-vs-bandicam/"><u>2024 Approved Livestream & Record Software Face-Off OBS vs Bandicam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prestige-pcs-and-laptops-technologys-elite/"><u>2024 Approved Prestige PCs & Laptops - Technology's Elite</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tackling-the-mystery-of-missing-shorts-video-images/"><u>2024 Approved Tackling the Mystery of Missing Shorts Video Images</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-chroma-key-fuzziness-for-professional-online-videos/"><u>Clearing Chroma Key Fuzziness for Professional Online Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-windows-drivers-with-ms-tools/"><u>Enhancing Windows Drivers with MS Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-cringe-worthy-tweets-the-collection/"><u>In 2024, Cringe-Worthy Tweets The Collection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/narrow-down-overly-large-win-10-screen/"><u>Narrow Down Overly Large WIN 10 Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/normalize-windows-10-display-orientation/"><u>Normalize Windows 10 Display Orientation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reclaim-your-channel-from-dark-screens-on-twitch/"><u>Reclaim Your Channel From Dark Screens on Twitch</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategies-efficaces-pour-le-fractionnement-dimages-en-seo/"><u>Stratégies Efficaces Pour Le Fractionnement D'images en SEO</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-moba-games-for-android-gamers-unveiled-for-2024/"><u>Top 10 MOBA Games for Android Gamers Unveiled for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/undetected-display-adapter-alert/"><u>Undetected Display Adapter Alert</u></a></li>
 </ul></div>
 

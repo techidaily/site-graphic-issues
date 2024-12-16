@@ -1,7 +1,7 @@
 ---
 title: Overcoming Flicker Issues in Windows 7
-date: 2024-12-05T00:51:53.363Z
-updated: 2024-12-10T00:34:52.616Z
+date: 2024-12-10T03:37:08.631Z
+updated: 2024-12-15T23:25:27.808Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
  If your computer screen flickers frequently, it’s really annoying. But don’t worry, you can try the fixes below to solve the problem. They have worked for many Windows users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 2. **[Check for hardware issues](#f2)**
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -52,14 +44,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -87,6 +79,10 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -98,12 +94,12 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
@@ -115,7 +111,7 @@ To troubleshoot these hardware issues:
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
@@ -123,6 +119,10 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,16 +157,16 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-definition-video-refiner-for-pcmacos/"><u>[New] High Definition Video Refiner for PC/MacOS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-essential-learning-resources-for-upcoming-directors/"><u>[New] In 2024, YouTube's Essential Learning Resources for Upcoming Directors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-11-premium-sound-recording-tools/"><u>[New] The Ultimate List 11 Premium Sound Recording Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-maximizing-engagement-best-video-optimizers-for-2024/"><u>[Updated] Maximizing Engagement Best Video Optimizers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-ultimate-selection-affordable-hd-cams-for-sports/"><u>2024 Approved Ultimate Selection Affordable HD Cams for Sports</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eclipse-ended-for-windows-11-fall-patch-fixes/"><u>Eclipse Ended for Windows 11 - Fall Patch Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/falls-aftermath-windows-10-screens-glow/"><u>Fall's Aftermath: Windows 10 Screens Glow</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-fall-update-blackout-no-more-in-win10/"><u>Post-Fall Update Blackout No More in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-computers-oversight-of-gpu/"><u>Rectifying Computer's Oversight of GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-new-level-of-display-customization-released/"><u>Windows 11: New Level of Display Customization Released</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-the-best-with-top-windows-11-hd-webcams-for-2024/"><u>Capture the Best with Top Windows 11 HD Webcams for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-epson-workforce-ds30-printer-software-compatible-with-windows-11-8-and-7/"><u>Download the Epson WorkForce DS30 Printer Software Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-control-over-screen-dpi-in-windows-11-fix/"><u>Enhanced Control Over Screen DPI in Windows 11 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-lines-on-laptop-straighten-horizontal-borders/"><u>Fix Lines on Laptop - Straighten Horizontal Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-disabled-gpu-settings-on-windows-devices-win1011/"><u>Fixing Disabled GPU Settings on Windows Devices (Win10/11)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smoothened-laptop-monitor-glitches-effectively/"><u>Smoothened Laptop Monitor Glitches Effectively</u></a></li>
+<li><a href="https://article-helps.techidaily.com/strategies-to-become-a-top-notch-interviewer/"><u>Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-power-up-updated-nvidia-drivers-for-windows-enthusiasts/"><u>Visual Power-Up: Updated NVIDIA Drivers for Windows Enthusiasts</u></a></li>
 </ul></div>
 

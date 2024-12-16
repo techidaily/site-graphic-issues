@@ -1,7 +1,7 @@
 ---
 title: OpenGL & TDR Alert Overcome - Thanks to NVIDIA!
-date: 2024-12-02T22:05:30.548Z
-updated: 2024-12-09T16:55:26.257Z
+date: 2024-12-10T18:50:50.524Z
+updated: 2024-12-16T09:46:28.122Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -62,7 +54,7 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
@@ -87,11 +79,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Go to the following registry keys:
 
@@ -101,24 +93,32 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,21 +144,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-live-video-downloaders-how-to-download-live-videos/"><u>[New] 2024 Approved Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-size-solution-to-boost-your-videos-online-performance/"><u>[New] The Ultimate Size Solution to Boost Your Video's Online Performance</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-screensphere-comprehensively-global-plus-locally-connected/"><u>[Updated] ScreenSphere Comprehensively Global + Locally Connected</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-exploration-new-features-in-videoshow-app-24/"><u>2024 Approved Full Exploration New Features in VideoShow App '24</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>2024 Approved Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208765679-dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/eluding-attention-with-strategic-cropping/"><u>Eluding Attention with Strategic Cropping</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-buffer-and-jitter-in-seconds/"><u>Eradicate Buffer and Jitter in Seconds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-videos-which-aspect-ratio-fits-in-2024/"><u>Facebook Videos Which Aspect Ratio Fits, In 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-unsaved-display-configurations-in-win-7-and-10-systems-done/"><u>Fix Unsaved Display Configurations in WIN 7 & 10 Systems [Done]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfx-init-no-success-detected/"><u>GFX Init: No Success Detected</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-7-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolution-win11-screens-flashing/"><u>Resolution: Win11 Screens Flashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secured-windows-graphic-creation/"><u>Secured Windows Graphic Creation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-rebirth-bright-screen-after-update-fallout/"><u>Win11 Rebirth: Bright Screen After Update Fallout</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-display-fresh-pcie/"><u>Zero Display, Fresh PCIe</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-rated-traffic-cameras-for-automobiles-2023/"><u>[New] In 2024, Top-Rated Traffic Cameras for Automobiles 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-setup-in-windows-11-missing/"><u>[Resolved] Advanced Setup in Windows 11 Missing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-effortlessly-record-movies-on-win10-for-2024/"><u>[Updated] How to Effortlessly Record Movies on Win10 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unleashing-full-potential-phone-and-gear-vr-harmony/"><u>2024 Approved Unleashing Full Potential Phone and Gear VR Harmony</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-t2-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo T2 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unsavable-screen-display-preferences-in-win-710-completed/"><u>Fix Unsavable Screen Display Preferences in WIN 7/10 [Completed]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cryptic-conundrums-bidding-on-the-invisible-artifacts-of-2023/"><u>In 2024, Cryptic Conundrums Bidding on the Invisible Artifacts of 2023</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/journey-into-ultra-high-definition-4k-explained/"><u>Journey Into Ultra-High-Definition: 4K Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/masterclass-in-live-streaming-integrating-dslr-into-your-digital-space/"><u>Masterclass in Live Streaming Integrating DSLR Into Your Digital Space</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-revival-rapid-restoration-of-video-feed/"><u>Monitor Revival: Rapid Restoration of Video Feed</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-notification-failures-in-outlook-top-strategies-for-windows-users/"><u>Overcoming Notification Failures in Outlook: Top Strategies for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-playing-on-advanced-rtx-setup/"><u>Smooth Playing on Advanced RTX Setup</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126180-9781609254520-the-wicca-handbook/"><u>The Wicca Handbook | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-revival-overcoming-creator-setbacks/"><u>Win10 Revival: Overcoming Creator Setbacks</u></a></li>
 </ul></div>
 

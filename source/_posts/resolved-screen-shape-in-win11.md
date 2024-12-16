@@ -1,7 +1,7 @@
 ---
 title: Resolved Screen Shape in Win11
-date: 2024-12-06T23:50:33.657Z
-updated: 2024-12-09T23:17:35.838Z
+date: 2024-12-12T18:01:50.225Z
+updated: 2024-12-15T17:15:35.079Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ We’ve included two possible solution:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: check display settings**
 
  The stretched screen issue can be caused by faulty display settings. Follow the steps below to check the display settings.
@@ -34,7 +38,7 @@ We’ve included two possible solution:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c192b55b7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Advanced display settings** .
@@ -42,7 +46,7 @@ We’ve included two possible solution:
 ![resolution advanced display settings](https://images.drivereasy.com/wp-content/uploads/2016/08/resolution-advanced-display-settings-600x564.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Be sure the resolution is set at the recommended level. If not, change it to the recommended solution.
@@ -50,7 +54,7 @@ We’ve included two possible solution:
 ![recommended resolution windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/recommended-resolution-windows-10-1-600x561.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your PC and check to see if the problem is resolved.
@@ -75,10 +79,6 @@ If the problem persists, you can try to update the graphics card driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-498.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the graphics card driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -86,7 +86,7 @@ If the problem persists, you can try to update the graphics card driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-499.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hope the solutions above help you fix the stretched screen issue in Windows 10\. If you have any questions, please comment below. We’d love to hear of any suggestions. 🙂
@@ -108,18 +108,24 @@ If the problem persists, you can try to update the graphics card driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-lenssplit-viewer-insight/"><u>[New] LensSplit Viewer Insight</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-your-episodes-masterful-lighting-setups-explained/"><u>[Updated] In 2024, Elevate Your Episodes Masterful Lighting Setups Explained</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerviewcorrection-techniques/"><u>ComputerViewCorrection Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-corrupt-system-files-on-windows-10-and-11-with-ease/"><u>How to Recover Corrupt System Files on Windows 10 & 11 with Ease</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-video-makers-with-music-for-android-and-iphone/"><u>In 2024, Best Video Makers with Music for Android and iPhone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-c67-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme C67 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-issue-successfully-addressed/"><u>Lenovo SmartTouch Issue: Successfully Addressed</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-search-troubleshooting-steps/"><u>Navigating Through Windows Search Troubleshooting Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-freezes-fix-fallout-4-pc-issues/"><u>No More Freezes: Fix Fallout 4 PC Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-conflict-windows-10-geforce-7025-settled/"><u>Nvidia Conflict - Windows 10, GeForce 7025 Settled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precise-screens-with-windows-11-fix/"><u>Precise Screens with Windows 11 Fix</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-remote-play-via-steam-deck/"><u>The Ultimate Guide to Remote Play via Steam Deck</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-comexception-error-now-fixed/"><u>Windows COMException Error Now Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-laptop-not-using-gpu-windows-1111/"><u>[SOLVED] Laptop Not Using GPU Windows 11/11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ensuring-authenticity-of-your-youtube-account-for-2024/"><u>[Updated] Ensuring Authenticity of Your YouTube Account for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>[Updated] IFunny Memes Unlocked Download & Use in a Flash</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-premiered-5-screen-options-for-ps5-gamers/"><u>[Updated] Premiered 5 Screen Options for PS5 Gamers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-power-of-first-impressions-crafting-impactful-youtube-images-for-2024/"><u>[Updated] The Power of First Impressions Crafting Impactful YouTube Images for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advantages-in-god-of-war-a-closer-look/"><u>Advantages in 'God of War': A Closer Look</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/comprehensively-addressing-r9-driver-issues-on-w10/"><u>Comprehensively Addressing R9 Driver Issues on W10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-bsod-error-related-to-netwtw10sys-on-windows-systems/"><u>Diagnosing and Solving BSoD Error Related to Netwtw10.sys on Windows Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-exceptional-features-of-anycubebic-kobra-2-max-a-hidden-treasure-unveiled/"><u>Discovering the Exceptional Features of Anycubebic Kobra 2 MAX - A Hidden Treasure Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-upgrade-intel-graphics-plus-windows-11-drivers/"><u>Effortlessly Upgrade: Intel Graphics + Windows 11 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-system-response-fixed-comfailure-windows-based/"><u>Enhanced System Response: Fixed COMFailure Windows-Based</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-change-or-remove-your-personal-identification-number-for-windows-10-logins/"><u>How to Change or Remove Your Personal Identification Number for Windows 10 Logins</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-rise-of-immersive-consumer-spaces/"><u>In 2024, The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-repair-completed-successfully/"><u>Lenovo SmartTouch Repair Completed Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-driver-installation-for-amd-in-windows-10/"><u>Successful Driver Installation for AMD in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-how-to-repairing-whea-system-memory-failures-effectively/"><u>The Definitive How-To: Repairing WHEA System Memory Failures Effectively</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-screen-refresh-rates/"><u>Troubleshooting Lenovo Screen Refresh Rates</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c53-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme C53 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-stabilize-your-vision/"><u>Win11: Stabilize Your Vision</u></a></li>
 </ul></div>
 

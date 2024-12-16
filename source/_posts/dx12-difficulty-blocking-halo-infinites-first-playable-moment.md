@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2024-12-08T00:57:22.245Z
-updated: 2024-12-10T00:15:35.405Z
+date: 2024-12-11T17:52:52.280Z
+updated: 2024-12-15T23:01:49.131Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
@@ -74,11 +74,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -118,14 +118,14 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -152,12 +152,12 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -178,14 +178,19 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-srt-format-conversion-guide/"><u>Comprehensive SRT Format Conversion Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-your-vision-essential-windows-10-tips-for-future-directors-for-2024/"><u>Craft Your Vision Essential Windows 10 Tips for Future Directors for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ergonomic-fix-to-laptops-unusual-display/"><u>Ergonomic Fix to Laptop's Unusual Display</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-uninterrupted-virtual-engagement-top-5-high-quality-recorders/"><u>In 2024, Uninterrupted Virtual Engagement - Top 5 High-Quality Recorders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-display-responsiveness-restored/"><u>Lenovo Display Responsiveness Restored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-issue-solution-found/"><u>Lenovo SmartTouch Issue: Solution Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-and-successful-saving-of-display-preferences-on-windows-xp-vista-710-resolved/"><u>Secure and Successful Saving of Display Preferences on Windows XP-Vista-7/10 [Resolved]</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-m6-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from M6 Pro 5G</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-3d-tvs-for-immersive-blu-ray-viewing-for-2024/"><u>Top 3D TVs for Immersive Blu-Ray Viewing for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-meme-creation-app/"><u>[Updated] Cutting-Edge Meme Creation App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-tarkov-fix-visual-evasion-guide/"><u>AMD & Tarkov Fix: Visual Evasion Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-keysuites-elite-gadgets-reviewed/"><u>Discover the Premier Keysuites: Elite Gadgets Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-device-init-on-win-os/"><u>Fixed Device Init on Win OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-winbluescreen-violations-of-wdf-api/"><u>Fixing WinBlueScreen: Violations of WDF API</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/improve-your-ios-user-experience-a-guide-to-customizing-iphone-home-and-lock-screens/"><u>Improve Your iOS User Experience: A Guide to Customizing iPhone Home and Lock Screens</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-x5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco X5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synergizing-brands-on-video-platforms/"><u>In 2024, Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intermittent-screen-problems-solved-for-laptop-success/"><u>Intermittent Screen Problems Solved for Laptop [Success]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lag-fixing-made-simple-for-anthem/"><u>Lag Fixing Made Simple for Anthem</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-a-fixed-nvidia-error/"><u>Overcoming Obstacles: A Fixed NVIDIA Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-for-nvidiaintel-graphic-swap/"><u>Successful Fix for NVIDIA/Intel Graphic Swap</u></a></li>
 </ul></div>
 

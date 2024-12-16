@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-12-03T04:52:47.912Z
-updated: 2024-12-09T16:19:48.749Z
+date: 2024-12-11T00:00:08.486Z
+updated: 2024-12-16T02:59:54.539Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -48,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -78,12 +74,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -91,6 +91,10 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -105,10 +109,6 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
@@ -148,18 +148,16 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-android-screen-capture-made-easy-free-for-2024/"><u>[New] Android Screen Capture Made Easy, Free for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-fixing-live-stream-drops-optimizing-your-obs-settings-for-2024/"><u>[New] Fixing Live Stream Drops Optimizing Your OBS Settings for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-content-premier-iphoneipad-apps-for-fb-video-loading/"><u>[Updated] 2024 Approved Unlock Content Premier iPhone/iPad Apps for FB Video Loading</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818238108-bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-the-c1900101-problem-during-windows-11-boot-up/"><u>Fixing the C1900101 Problem During Windows 11 Boot Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/geforce-setup-error-overcame-the-challenge-of-accessing-configuration-details/"><u>GeForce Setup Error - Overcame the Challenge of Accessing Configuration Details</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-13-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 13 to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-14-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi 14 Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-screenshots-fix-stopped-inconsistent-flashing/"><u>Laptop Screenshots Fix: Stopped Inconsistent Flashing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-practices-in-livestreaming-athletic-competitions/"><u>Perfect Practices in Livestreaming Athletic Competitions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilized-amd-radeon-r9-performance-with-w10-drivers-armor/"><u>Stabilized AMD Radeon R9 Performance with W10 Drivers Armor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-win11-flickering-distraction/"><u>Stop Win11 Flickering Distraction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-deciphering-the-art-of-reversed-visual-searches-online-fb-for-2024/"><u>[New] Deciphering the Art of Reversed Visual Searches Online (FB) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-start-streaming-the-simple-method-for-mac-book-air-recording-for-2024/"><u>[New] Start Streaming The Simple Method for Mac Book Air Recording for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tackling-dxgkrnlsys-win-error/"><u>[Tech] Tackling dxgkrnl.sys Win Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-radiance-routines-pro-tips-for-video-illumination-for-2024/"><u>[Updated] Radiance Routines Pro Tips for Video Illumination for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-channel-art-make-banners-icons-and-thumbnails/"><u>[Updated] YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-best-action-adventure-games-of-all-time-for-2024/"><u>10 Best Action-Adventure Games of All Time for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-graphics-on-windows-10-via-new-nvidia-update/"><u>Elevate Graphics on Windows 10 via New NVIDIA Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-setup-obstacle-c1900101-windows-10-error/"><u>Overcoming Setup Obstacle: C1900101 Windows 10 Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphic-device-errors/"><u>Resolved Graphic Device Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/supercharge-pcs-latest-nvidia-drivers-for-windows-10-users/"><u>Supercharge PCs: Latest NVIDIA Drivers for Windows 10 Users</u></a></li>
 </ul></div>
 

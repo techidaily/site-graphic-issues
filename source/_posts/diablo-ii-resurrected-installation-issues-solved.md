@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2024-12-09T04:51:50.627Z
-updated: 2024-12-10T04:38:12.640Z
+date: 2024-12-11T00:06:30.287Z
+updated: 2024-12-16T04:32:42.360Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 * [**Method 2: Fix Browser Issues**](https://tools.techidaily.com/drivereasy/download/)
 * [**Method 3: Update Your Audio Driver**](https://tools.techidaily.com/drivereasy/download/)
 * [**Method 4: Run Windows Audio Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First Things to Check
 
@@ -61,12 +65,16 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-226.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Make sure you have the right device set as the default audio device. If not, right-click your audio device and select **Set as default device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the **OK** button.
@@ -74,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-230.png)
 
 If the sound is still not available, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Restart Your PC
 
@@ -108,7 +112,7 @@ If your issue persists after the reboot, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**OK** to save the changes.
@@ -126,7 +130,7 @@ If there’s still no sound, read on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Relaunch the browser to see if the sound comes back.
@@ -155,19 +159,11 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -186,12 +182,16 @@ If the sound isn’t coming back, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/audio-issues.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Next**  and wait for the scans to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/run-audio-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to fix the Twitch audio issue.
@@ -219,22 +219,22 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-range-of-fb-video-width-height-ratios-for-2024/"><u>[Updated] Range of FB Video Width-Height Ratios for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-white-screen-in-create-a-family/"><u>Clear White Screen in Create-A-Family</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/determining-the-top-2023-action-camera-champion-for-2024/"><u>Determining the Top 2023 Action Camera Champion for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhanced-web-performance-through-advanced-cookiebot-solutions/"><u>Enhanced Web Performance Through Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-ui-glitch-graphics-flow-now-uninterrupted/"><u>Fixed Window's UI Glitch - Graphics Flow Now Uninterrupted</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/harmonizing-display-line-proportions/"><u>Harmonizing Display Line Proportions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oneplus-11r-phone-by-drfone-android/"><u>How to Unlock a Network Locked OnePlus 11R Phone?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improving-the-chatgpt-extension-shop-what-were-looking-forward-to/"><u>Improving the ChatGPT Extension Shop: What We're Looking Forward To</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-itel-a70-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Itel A70 Without PUK Codes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-notes-with-mematic-software/"><u>In 2024, Revolutionize Notes with Mematic Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-the-power-of-instagrams-visual-storytelling-covers-edition/"><u>In 2024, Unlocking the Power of Instagram's Visual Storytelling Covers Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/invisible-display-driver-released/"><u>Invisible Display: Driver Released</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-order-visual-savings-secured/"><u>Restored Order: Visual Savings Secured</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revitalize-computing-power-refreshing-intels-graphics-drivers/"><u>Revitalize Computing Power: Refreshing Intel's Graphics Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transformative-driver-update-for-windows-users-nvidia-geforce-210/"><u>Transformative Driver Update for Windows Users - Nvidia GeForce 210</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-fcpxs-full-potential-the-top-10-plugins-you-should-know-about-for-2024/"><u>Updated Unlock FCPXs Full Potential The Top 10 Plugins You Should Know About for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-a-resume-that-shines-in-design-industry/"><u>2024 Approved Crafting a Resume that Shines in Design Industry</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-missing-display-options-on-gpu/"><u>Correcting Missing Display Options on GPU</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/gewoonte-stelsel-voor-het-herstel-van-permanente-verlies-gegeven-gegevens-op-harde-schijven/"><u>Gewoonte Stelsel Voor Het Herstel Van Permanente Verlies Gegeven Gegevens Op Harde Schijven</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/navigating-twitter-video-content-flow-to-facebook-for-2024/"><u>Navigating Twitter Video Content Flow to Facebook for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-youtubes-greenscreen-mishaps-effectively/"><u>Overcoming YouTube's Greenscreen Mishaps Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-13c-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi 13C 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplified-linux-guide-bavarder-setup-complete/"><u>Simplified Linux Guide: Bavarder Setup Complete</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-playable-youtube-content-effective-solutions-for-common-problems/"><u>Troubleshooting Non-Playable YouTube Content: Effective Solutions for Common Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-tips-overcoming-the-windows-10-black-screen-dilemma-after-an-upgrade/"><u>Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-the-simple-trick-to-identifying-your-screens-pixel-dimensions-a-quick-guide/"><u>Uncover the Simple Trick to Identifying Your Screen's Pixel Dimensions: A Quick Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uniting-forces-nvidia-and-windows-10s-graphical-ally/"><u>Uniting Forces: Nvidia & Windows 10'S Graphical Ally</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-details-of-atandts-cellular-roaming-agreements/"><u>Unlocking the Details of AT&T's Cellular Roaming Agreements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries – What Is It and What to Do About It?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/wma-files-explained-insights-into-a-common-digital-music-format/"><u>WMA Files Explained: Insights Into a Common Digital Music Format</u></a></li>
 </ul></div>
 

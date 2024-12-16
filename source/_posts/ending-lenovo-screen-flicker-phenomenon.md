@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2024-12-04T20:37:34.411Z
-updated: 2024-12-10T03:38:04.003Z
+date: 2024-12-08T17:31:27.260Z
+updated: 2024-12-15T19:32:00.198Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -50,15 +50,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -74,27 +66,35 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -125,18 +125,14 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-targus-dock-compatibility-download-and-install-drivers-in-a-flash/"><u>[EFFORTLESS SETUP] Targus Dock Compatibility: Download & Install Drivers in a Flash!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-smart-approach-for-posting-igtv-on-your-story/"><u>[New] 2024 Approved The Smart Approach for Posting IGTV on Your Story</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-achieving-high-clickthrough-rates-with-yt-thumbnails/"><u>[New] In 2024, Achieving High Clickthrough Rates with YT Thumbnails</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elite-streamers-guide-for-secure-viewing-for-2024/"><u>[Updated] Elite Streamer’s Guide for Secure Viewing for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-address-missing-watch-playback-symbol/"><u>2024 Approved Address Missing Watch Playback Symbol</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/adjust-default-snapshot-savings-in-mac/"><u>Adjust Default Snapshot Savings in Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/altering-windows-10-display-mode/"><u>Altering Windows 10 Display Mode</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-blizzards-wrath-fast-fixes-for-world-of-warcraft-delays/"><u>Beat Blizzard's Wrath: Fast Fixes for World of Warcraft Delays!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/fine-tuning-your-videos-shape-with-aspect-ratio/"><u>Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instant-recovery-from-apex-glitches/"><u>Instant Recovery From Apex Glitches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-calibration-in-win10-successful/"><u>Screen Calibration in Win10 Successful</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-drivers-from-triggering-minecraft-collapse/"><u>Stop Drivers From Triggering Minecraft Collapse</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-hidden-glitch-dispelled-legions-direct-x-solution-found/"><u>The Hidden Glitch Dispelled: Legion's Direct X Solution Found</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-secrets-to-polished-photo-edits-in-canva/"><u>[New] 2024 Approved The Secrets to Polished Photo Edits in Canva</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-10-freefire-game-hacks-for-youtube-gamers/"><u>[New] Top 10 FreeFire Game Hacks for YouTube Gamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagrams-video-selfie-truthfulness-a-critical-look/"><u>2024 Approved Instagram's Video Selfie Truthfulness – A Critical Look</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effective-strategies-for-adjusting-power-settings-in-windows-via-the-control-panel-tips-from-yl-computing/"><u>Effective Strategies for Adjusting Power Settings in Windows via the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-oversized-win11-screen/"><u>Fine-Tuning Oversized Win11 Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gaming-evolved-comparing-mavic-air-and-sparks-impact-for-2024/"><u>Gaming Evolved Comparing Mavic Air and Spark's Impact for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-11-display-backwardness/"><u>Solving Windows 11 Display Backwardness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-fallout-4-play-on-pc-systems/"><u>Stabilizing Fallout 4 Play on PC Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-activation-success/"><u>Windows 11 Laptop: GPU Activation Success</u></a></li>
 </ul></div>
 

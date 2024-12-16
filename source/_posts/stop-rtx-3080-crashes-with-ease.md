@@ -1,7 +1,7 @@
 ---
 title: Stop RTX 3080 Crashes with Ease
-date: 2024-12-05T21:52:22.352Z
-updated: 2024-12-10T05:35:49.532Z
+date: 2024-12-10T16:00:05.445Z
+updated: 2024-12-16T02:50:14.567Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does your graphics card keep crashing?
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
  If the NVIDIA RTX 3080 crashes a game, it’s very likely that the graphics driver is outdated or gets corrupted. It’s always recommended to update to the latest graphics driver since it can affect your gaming experience, especially when you’re using a high-end graphics card.
@@ -59,12 +55,12 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. This will help you update all the available driver updates, thus ruling out the possibility of other outdated driver interference. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have a 30-day money-back guarantee and full tech support. )  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
  After updating your graphics driver, restart your PC for it to take full effect. Then play your game again and check if the game crashing issue is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Stop overclocking
 
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 Now launch your game again to see if this method works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Keep the GPU fed
@@ -132,24 +132,22 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-crafting-compelling-narratives-with-vo-in-powerpoint/"><u>[New] 2024 Approved Crafting Compelling Narratives with VO in PowerPoint</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-culinary-crossroads-popular-food-recipes-intersected/"><u>[New] 2024 Approved Culinary Crossroads Popular Food Recipes Intersected</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-decoding-the-mystery-insider-knowledge-on-story-watchers/"><u>[New] In 2024, Decoding the Mystery Insider Knowledge on Story Watchers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unraveling-the-magic-of-time-extension-in-reels/"><u>[Updated] Unraveling the Magic of Time Extension in Reels</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amazons-quality-soundbass-at-an-affordable-price-review-revealed/"><u>Amazon's Quality Soundbass at an Affordable Price - Review Revealed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Blaze 2 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nix-amds-graphics-issue-in-tarkov-fastly/"><u>Nix AMD's Graphics Issue in Tarkov Fastly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818259363-opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-wnddevice-creation-issue/"><u>Overcome WndDevice Creation Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-window-11-media-quality-post-upgrade/"><u>Rectifying Window 11 Media Quality Post-Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-salvage-display-settings-on-windows-versions-7-and-10-fix/"><u>Steps to Salvage Display Settings on Windows Versions 7 & 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/strategies-for-handling-gpu-errors-without-pause-in-use/"><u>Strategies for Handling GPU Errors without Pause in Use</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/superior-performance-on-the-rise-upgraded-drivers-for-amd-hd-6950/"><u>Superior Performance on the Rise: Upgraded Drivers for AMD HD 6950</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/system-shenanigans-unauthorized-printer-access/"><u>System Shenanigans: Unauthorized Printer Access</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-power-of-pages-top-10-social-media-optimization-tactics-for-2024/"><u>Unlocking the Power of Pages Top 10 Social Media Optimization Tactics for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-smooth-zoom-recording-tech-fixes-of-today/"><u>Unveiling Smooth Zoom Recording: Tech Fixes of Today</u></a></li>
-<li><a href="https://discover-data.techidaily.com/yl-software-solutions-how-to-successfully-get-your-windows-defender-installed/"><u>YL Software Solutions: How To Successfully Get Your Windows Defender Installed!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-production-to-publication-streamlining-video-submission/"><u>[New] In 2024, From Production to Publication Streamlining Video Submission</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-educators-guide-to-thriving-youtube-channels-10-must-know-secrets-for-2024/"><u>[Updated] Educators' Guide to Thriving YouTube Channels – 10 Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-successful-unboxing-reels-a-compreenasium-guide/"><u>2024 Approved Secrets of Successful Unboxing Reels A Compreenasium Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-g24-power-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola G24 Power</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/darkened-vision-new-graphics-patch/"><u>Darkened Vision - New Graphics Patch</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-guide-speaking-french-from-home/"><u>Essential Guide: Speaking French From Home</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-behavior-of-hp-monitors/"><u>Fixing Erratic Behavior of HP Monitors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/giggles-galore-7-entertaining-video-sets-for-chuckleheads-for-2024/"><u>Giggles Galore 7 Entertaining Video Sets for Chuckleheads for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-minecraft-for-lightning-fast-gameplay-experience/"><u>Optimize Minecraft for Lightning-Fast Gameplay Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-save-game-errors-civ-5/"><u>Overcoming Save Game Errors, Civ 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fallout-4-stability-issues-for-pc-gamers/"><u>Resolved: Fallout 4 Stability Issues for PC Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/spk10-037-lights-up-scenes-with-brightness-and-adaptability/"><u>SPK10-037 Lights Up Scenes with Brightness & Adaptability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-flashback-on-lenovo-laptops/"><u>Stop Screen Flashback on Lenovo Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-the-spotlight-swings-on-acer-displays/"><u>Stopping the Spotlight Swings on Acer Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-combat-flickering-display/"><u>Unveiling Secrets to Combat Flickering Display</u></a></li>
 </ul></div>
 

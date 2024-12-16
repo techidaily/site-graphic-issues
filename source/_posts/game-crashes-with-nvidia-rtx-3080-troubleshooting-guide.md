@@ -1,7 +1,7 @@
 ---
 title: Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide
-date: 2024-12-06T17:02:07.728Z
-updated: 2024-12-10T02:10:19.811Z
+date: 2024-12-14T16:17:58.316Z
+updated: 2024-12-15T18:03:40.539Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 
  The NVIDIA RTX 3080 series gives you great gaming realism by enabling fast real-time ray tracing and also helps boost frame rates. However, many players are reporting that they get random/constant RTX 3080 crashes while playing games, such as Cyberpunk 2077, Battlefield V, Call of Duty Warzone, or Cold War. If you’re experiencing the same issue, you can try the following troubleshooting to fix the issue easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does your graphics card keep crashing?
 
 * Outdated/corrupted drivers
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 * Power spikes
 * Corrupt system/game files
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  No matter what the real cause is, in this post, you’ll learn every possible fix to stop your RTX series from crashing. You don’t have to try them all; just walk your way down until you find the one that works for you.
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 2. **[Stop overclocking](#h2)**
 3. **[Disable ‘Hardware-Accelerated GPU Scheduling’](#h3)**
 4. **[Keep the GPU fed](#h4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Perform a clean installation of NVIDIA drivers
 
@@ -60,11 +56,15 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. This will help you update all the available driver updates, thus ruling out the possibility of other outdated driver interference. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have a 30-day money-back guarantee and full tech support. )  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  If you don’t want to pay for the Pro version, you can still download and install the RTX 3080 driver with the free version, but it’s partially manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 
  If updating the device drivers failed to solve your NVIDIA RTX 3080 crashing problem, you may want to stop overclocking your GPU card. Many RTX 3080 users have benefited from a marginal downclock (a slight offset of 30 Mhz) using third-party tools such as MSI Afterburner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Disable ‘Hardware-Accelerated GPU Scheduling’
 
  The feature ‘Hardware-Accelerated GPU Scheduling’ is first introduced in Windows 10 May 2020 update. It allows your graphics card to manage its video memory (VRAM). What’s interesting is that some players find disabling this feature helped resolve this issue.
@@ -84,14 +88,10 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
  Go to**Settings > System > Display >** scroll down to the bottom and select**Graphics Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/graphics-setting.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now launch your game again to see if this method works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Keep the GPU fed
@@ -132,24 +132,24 @@ Now launch your game again to see if this method works for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-cost-breakdown-for-youtube-ads/"><u>[New] Cost Breakdown for YouTube Ads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-essential-guide-to-creating-stunning-boomerangs-for-2024/"><u>[Updated] The Essential Guide to Creating Stunning Boomerangs for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808154149-75-discount-and-10-off-nordvpn-coupon/"><u>75% Discount & $10 Off – NordVPN Coupon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adapting-to-insufficient-specifications-installation-guide/"><u>Adapting to Insufficient Specifications: Installation Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-up-solutions-for-fading-lenovo-screen/"><u>Brighten Up: Solutions for Fading Lenovo Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-win10-monitor-settings/"><u>Corrected Win10 Monitor Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easily-repair-lenovos-unresponsive-fn-key-with-these-quick-tips/"><u>Easily Repair Lenovo's Unresponsive Fn Key with These Quick Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-detection-none-detected/"><u>GPU Detection: None Detected</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-zte-blade-a73-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to ZTE Blade A73 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-updated-nvidia-quadro-drivers-on-windows-10-compatible-with-latest-os-version/"><u>Install Updated Nvidia Quadro Drivers on Windows 10 - Compatible with Latest OS Version</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-screen-flicker-issue-solution-found/"><u>Laptop Screen Flicker Issue - Solution Found</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android-for-2024/"><u>Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-driver-update-intellion-graphics-in-windows-11-compatibility-boost/"><u>Swift Driver Update - IntellIon Graphics in Windows 11 Compatibility Boost</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/lgorithm-behind-youtubes-post-upload-logic/"><u>The Algorithm Behind YouTube's Post-Upload Logic</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-100-spelling-pitfalls-avoiding-the-most-frequent-mistakes/"><u>Top 100 Spelling Pitfalls: Avoiding the Most Frequent Mistakes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-upgrading-intel-gpu-software/"><u>Windows 7: Upgrading Intel GPU Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-advanced-display-settings-windows-10-missing/"><u>[Fixed] Advanced Display Settings Windows 10 Missing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[New] 2024 Approved How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-essence-of-ffmpeg-original-audio-capture/"><u>[New] 2024 Approved The Essence of FFmpeg Original Audio Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-garmins-ultra-30-camera-unveiled-a-comprehensive-guide/"><u>[New] Garmin's Ultra 30 Camera Unveiled A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-white-screen-in-create-a-family/"><u>Clear White Screen in Create-A-Family</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-10-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 10 4G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-enjoy-dual-gpu-performance-in-win10-via-nvidia-and-intel/"><u>Effortlessly Enjoy Dual-GPU Performance in Win10 via Nvidia & Intel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonizing-display-line-proportions/"><u>Harmonizing Display Line Proportions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-a15-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy A15 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-evaluating-auroras-high-dynamic-range-benefits/"><u>In 2024, Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-utilize-obs-studio-android-solutions/"><u>In 2024, How to Utilize OBS Studio Android Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-outros-that-grow-your-channel-faster/"><u>In 2024, YouTube Outros that Grow Your Channel Faster</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invisible-display-driver-released/"><u>Invisible Display: Driver Released</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-errors-during-utorrent-setup-in-windows/"><u>Navigating Through Errors During uTorrent Setup in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalize-computing-power-refreshing-intels-graphics-drivers/"><u>Revitalize Computing Power: Refreshing Intel's Graphics Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/securing-stability-addressing-lenovo-screenshake/"><u>Securing Stability: Addressing Lenovo Screenshake</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-intells-driver-under-strict-specs/"><u>Troubleshooting Intell's Driver Under Strict Specs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-update-no-more-video-troubles/"><u>Win10 Update - No More Video Troubles</u></a></li>
 </ul></div>
 

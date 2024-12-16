@@ -1,7 +1,7 @@
 ---
 title: Win11 Shows Half-Screen, Not Full - Fix Here
-date: 2024-12-08T21:28:06.809Z
-updated: 2024-12-10T02:54:34.293Z
+date: 2024-12-13T08:44:21.795Z
+updated: 2024-12-15T22:57:29.784Z
 tags:
   - win11
   - win10
@@ -51,7 +51,7 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
@@ -70,17 +70,9 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
 
@@ -90,6 +82,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Now restart your computer and see if your monitor displays the full screen.
 
  If your problem still persists, don’t worry. Move to the next solution.
@@ -97,7 +93,7 @@ Here’s what you need to do:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
@@ -126,15 +122,15 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-490.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Now open applications in full-screen mode and see if your problem has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run your application in Compatibility mode
 
@@ -146,17 +142,25 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-491.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the setup file, and right click on the setup file of that application, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
@@ -167,10 +171,6 @@ To do so, follow these steps:
 Still no luck? Okay, there is one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Avoid software conflicts
 
@@ -200,24 +200,16 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-youtube-metrics-for-effective-content-strategy/"><u>[New] In 2024, Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-conquered-everlasting-deactivation-of-youtube-shorts-for-2024/"><u>[Updated] Conquered Everlasting Deactivation of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[Updated] Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-musical-mastery-in-micro-storytelling/"><u>[Updated] Musical Mastery in Micro Storytelling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-techniques-to-seamlessly-save-web-based-television-shows-for-2024/"><u>[Updated] Techniques to Seamlessly Save Web-Based Television Shows for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-enters-blacked-out-win11/"><u>Cursor Enters Blacked Out Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-corrections-for-gpus-without-screens/"><u>Easy Corrections for GPUs Without Screens</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-obtain-the-latest-hp-officejet-pro-8720-driver-software-and-update-tutorial-for-windows-pcs/"><u>How to Obtain the Latest HP OfficeJet Pro 8720 Driver Software and Update Tutorial for Windows PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-feedback-loop/"><u>Immediate Feedback Loop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-modernizing-intel-hd-graphics-on-windows/"><u>Master the Art of Modernizing Intel HD Graphics on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-amd-radeon-r9-drivers-for-w11-users/"><u>Mending AMD Radeon R9 Drivers for W11 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-link-reconnect-computer-and-television-hdmi/"><u>Restoring Lost Link: Reconnect Computer & Television HDMI</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/thriving-in-winter-producing-superb-sounds-a-comprehensive-review-of-soundbot-sb210/"><u>Thriving in Winter, Producing Superb Sounds - A Comprehensive Review of Soundbot SB210</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unleashing-system-stability-safe-mode-and-gpu-drivers-removal-guide-for-win8/"><u>Unleashing System Stability: Safe Mode and GPU Drivers Removal Guide for WIN8</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-6-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 6 i Do? Get Answers here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadow-issue-fixes-for-fall-creators-patch/"><u>Win11 Shadow Issue - Fixes for Fall Creator's Patch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-and-geforce-7025-compatibility-fixed/"><u>Windows 11 & GeForce 7025 Compatibility Fixed</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-income-mastery-latest-policy-guide/"><u>YouTube Income Mastery Latest Policy Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-the-win11-vision-disturbance/"><u>[FIXED] The Win11 Vision Disturbance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-mc-edifices-a-starter-collection-of-domiciles/"><u>[New] 2024 Approved Essential MC Edifices A Starter Collection of Domiciles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge/"><u>[Updated] Expert Tips for Seamless Integration of PIP in Microsoft Edge</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-inshot-cut-mastery-creating-fluid-movements/"><u>2024 Approved Inshot Cut Mastery Creating Fluid Movements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-display-issues-in-win10/"><u>Correcting Display Issues in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-complication-halo-infinite-launch-issue/"><u>DirectX12 Complication: Halo Infinite Launch Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y78+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>In 2024, Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/leap-forward-latest-windows-11-driver-upgrade-for-amd-hd-6950-graphics/"><u>Leap Forward: Latest Windows 11 Driver Upgrade for AMD HD 6950 Graphics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-conversion-elevate-your-soundscape-using-movavis-bitrate-adjustment-tool/"><u>Mastering Audio Conversion: Elevate Your Soundscape Using Movavi's Bitrate Adjustment Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fixing-nvidia-installer-issue/"><u>Resolved: Fixing NVIDIA Installer Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] AMD Graphics Card Not Detected Windows 11"
-date: 2024-12-05T18:40:18.624Z
-updated: 2024-12-09T20:20:36.181Z
+date: 2024-12-11T02:24:58.130Z
+updated: 2024-12-15T17:08:35.730Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -41,23 +41,19 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -69,11 +65,15 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0466830d79.jpg)
 3. Expand**Display adapters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,24 +104,19 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-sweeping-vistas-with-your-iphone-social-media-360-tips/"><u>[New] 2024 Approved Sweeping Vistas with Your iPhone Social Media 360 Tips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-ultimate-combo-visual-and-audio-recorders-for-artists/"><u>[New] 2024 Approved Ultimate Combo Visual & Audio Recorders for Artists</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/hoosing-a-champion-dslr-or-mirrorless-camera-for-2024/"><u>[New] Choosing a Champion DSLR or Mirrorless Camera for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-cut-the-cable-catch-the-game-10-best-streaming-apps-for-sport-and-football-watching-for-2024/"><u>[New] Cut the Cable, Catch the Game! 10 Best Streaming Apps for Sport and Football Watching for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-harnessing-metaverse-promotion-power/"><u>2024 Approved Harnessing Metaverse Promotion Power</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/behind-curtains-lies-a-secret-direct-x-fix-in-league/"><u>Behind Curtains Lies a Secret - Direct X Fix in League</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-honor-70-lite-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor 70 Lite 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrective-measures-for-blinking-display-hp/"><u>Corrective Measures for Blinking Display (HP)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817945292-ease-white-screen-woes-fix-it-now/"><u>Ease White Screen Woes, Fix It Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-direct3d-initialization-error/"><u>Fixed Direct3D Initialization Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-back-on-track-fixes-for-when-the-windows-11-start-menu-fails/"><u>Getting Back on Track: Fixes for When the Windows 11 Start Menu Fails</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-transformation-latest-update-for-amds-hd-6950-graphics-card/"><u>Graphics Transformation: Latest Update for AMD's HD 6950 Graphics Card</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/knowledge-base-articles-and-resources-toolkit-for-ms-sql/"><u>Knowledge Base Articles & Resources Toolkit for MS SQL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-off-quick-fixes-and-tips/"><u>Laptop Display Off - Quick Fixes and Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-access-no-longer-rejected/"><u>NVIDIA Access No Longer Rejected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-connect-quest-reestablish-your-screens-signal/"><u>Quick-Connect Quest: Reestablish Your Screen's Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silencing-the-shimmer-on-your-acer-monitor/"><u>Silencing the Shimmer on Your Acer Monitor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-the-lenovo-yoga-pro-9i-featuring-tactile-keys-and-stylish-slim-chassis/"><u>The Ultimate Guide to the Lenovo Yoga Pro 9I: Featuring Tactile Keys and Stylish, Slim Chassis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unveiling-the-hidden-treasure-troves-of-snapchat-tones/"><u>[New] Unveiling the Hidden Treasure Troves of Snapchat Tones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-10/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fixes-for-unsupported-freesync/"><u>Boosting Performance: Fixes for Unsupported FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-laptop-screen-stability-achieved-after-fix/"><u>Dell Laptop Screen Stability Achieved After Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ghostly-gtx-displayed-by-device-hub/"><u>Ghostly GTX Displayed by Device Hub</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi A2+ Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-search-of-next-level-video-streaming-alternatives/"><u>In Search of Next-Level Video Streaming Alternatives</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-normalized-flickering-no-more/"><u>Laptop Display Normalized: Flickering No More</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-the-art-of-social-media-videos-for-maximum-reach-for-2024/"><u>Mastering the Art of Social Media Videos for Maximum Reach for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unhappy-with-windows-10-photos-check-out-these-8-fantastic-alternatives/"><u>New In 2024, Unhappy with Windows 10 Photos? Check Out These 8 Fantastic Alternatives</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-opening-sound-device-issues-in-audacity-with-these-5-tips/"><u>Troubleshoot Opening Sound Device Issues in Audacity with These 5 Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncovering-brightness-from-black-on-lenovo/"><u>Uncovering Brightness From Black on Lenovo</u></a></li>
 </ul></div>
 

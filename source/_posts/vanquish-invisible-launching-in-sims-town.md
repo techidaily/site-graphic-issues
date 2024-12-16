@@ -1,7 +1,7 @@
 ---
 title: Vanquish Invisible Launching in Sims Town
-date: 2024-12-05T17:06:57.983Z
-updated: 2024-12-10T05:28:17.058Z
+date: 2024-12-13T20:51:06.685Z
+updated: 2024-12-16T01:48:14.569Z
 tags:
   - win11
   - win10
@@ -44,26 +44,18 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -78,7 +70,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
@@ -121,6 +113,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
@@ -136,16 +132,12 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -158,6 +150,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -177,6 +173,10 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -211,24 +211,22 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-engaging-life-journeys-in-video-formats/"><u>[New] In 2024, Crafting Engaging Life Journeys in Video Formats</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-dxgkrnlsys-win-error-successful-fixes/"><u>[Tech] dxgkrnl.sys Win Error: Successful Fixes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-photographers-guide-to-effective-watermarking/"><u>[Updated] 2024 Approved Photographers' Guide to Effective Watermarking</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-creating-a-memorable-and-unique-moniker-for-your-filmora-content-for-2024/"><u>[Updated] Creating a Memorable and Unique Moniker for Your Filmora Content for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-enhancing-video-visibility-to-attract-vimeos-top-choices/"><u>2024 Approved Enhancing Video Visibility to Attract Vimeo's Top Choices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tips-for-extending-instagram-videos-beyond-limits/"><u>2024 Approved Tips for Extending Instagram Videos Beyond Limits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-still-faces-picsarts-motion-blur-magic/"><u>2024 Approved Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-crashing-woes-in-fallout-4-on-pc/"><u>End Crashing Woes in Fallout 4 on PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons/"><u>Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-winbluescreen-resolve-wdf-conflict-issues/"><u>Eradicate WinBlueScreen: Resolve WDF Conflict Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-fan-restart-procedures-unveiled/"><u>GPU Fan Restart Procedures Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-drivers-goodbye-step-by-step-in-windows-os/"><u>Graphic Drivers Goodbye! Step by Step in Windows OS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-google-stadias-capabilities-and-improvement-needs/"><u>In-Depth Look at Google Stadia's Capabilities and Improvement Needs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-mending-disconnected-hdmi-cable/"><u>Laptop to TV: Mending Disconnected HDMI Cable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-win11-easy-intel-3000-driver-installation/"><u>Optimize Win11 - Easy Intel 3000 Driver Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-persistent-flashing-screens-in-computers/"><u>Overcome Persistent Flashing Screens in Computers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-win11-screen-glitches/"><u>Quick Fix for Win11 Screen Glitches</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/284785-9789240681330-sex-rar/"><u>SEX-RAR | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-display-glitch-missing-fullscreen-window/"><u>Win11 Display Glitch: Missing Fullscreen Window</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-lecture-transcribers-for-learning-institutions/"><u>[New] In 2024, Premium Lecture Transcribers for Learning Institutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-deleted-yt-content-two-simplified-approaches/"><u>[Updated] Mastering Deleted YT Content Two Simplified Approaches</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-from-flat-to-360-comparing-googles-cardboard-and-samsungs-gear/"><u>2024 Approved From Flat to 360 Comparing Google's Cardboard & Samsung's Gear</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/blank-page-problem-persists-on-new-epson-printer-model/"><u>Blank Page Problem Persists on New Epson Printer Model</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-aid-no-display-just-gpu-functionality/"><u>Direct Aid: No Display, Just GPU Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-acceleration-not-available-solved/"><u>Direct3D Acceleration Not Available [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-device-43-fix-complete/"><u>Display Device 43 Fix Complete</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y100i-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y100i? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-update-intel-hd-graphics-drivers-on-windows/"><u>How to Update Intel HD Graphics Drivers on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>In 2024, Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-oversized-window-problems-on-windows-10-computers/"><u>Resolving Oversized Window Problems on Windows 10 Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-window-mistake-in-windows-11/"><u>Resolving Reflective Window Mistake in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-color-in-twitch-blackouts/"><u>Reveal Color in Twitch Blackouts</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-buyers-guide-sidestepping-monitor-purchase-slip-ups/"><u>Smart Buyer's Guide: Sidestepping Monitor Purchase Slip-Ups</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Story 2: The Confusion over Cubital Tunnel Syndrome"
-date: 2024-12-03T21:32:44.629Z
-updated: 2024-12-09T20:31:58.887Z
+date: 2024-12-10T04:03:06.955Z
+updated: 2024-12-16T02:51:14.753Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -54,18 +58,26 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -83,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -94,11 +102,7 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -155,21 +155,15 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-essential-iphone-hdr-photography-skills/"><u>[New] In 2024, The Essential iPhone HDR Photography Skills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-integrated-camera-use-photos-and-videos-on-one-phone/"><u>[New] Integrated Camera Use Photos and Videos on One Phone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-prime-asmr-software-options-for-2024/"><u>[Updated] Android & iOS Prime ASMR Software Options for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-verdict-on-inshot-master-editor-for-2024/"><u>[Updated] The Verdict on InShot Master Editor for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/advanced-bootstrapvueargon-pro-dashboard-enhanced-vuejs-and-bootstrapvue-administration-panel-by-creative-tim/"><u>Advanced BootstrapVue/Argon Pro Dashboard - Enhanced Vue.js & BootstrapVue Administration Panel by Creative Tim</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fallout-4-stability-achieved-no-more-computer-issues/"><u>Fallout 4 Stability Achieved: No More Computer Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/full-screen-issue-windowed-display-on-monitor-with-win11/"><u>Full-Screen Issue: Windowed Display on Monitor with Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-xs-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone XS Max Lock Screen with Notifications?</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-text-to-video/"><u>New What Is AI Text to Video?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overhauling-obscured-screens-of-desktops-and-laptops/"><u>Overhauling Obscured Screens of Desktops and Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resetting-windows-11-resolution-settings-successfully/"><u>Resetting Windows 11 Resolution Settings Successfully</u></a></li>
-<li><a href="https://video-capture.techidaily.com/silent-swords-righteous-battles-the-next-top-gaming-list/"><u>Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-video-hiccups-post-upgrade/"><u>Solving Windows 10 Video Hiccups Post-Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/twitch-lights-out-resolution-strategies/"><u>Twitch Lights Out: Resolution Strategies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrading-nvidias-geforce-drivers/"><u>Upgrading Nvidia's GeForce Drivers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/l-dialogue-maker/"><u>Visual Dialogue Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expert-advice-on-iphone-ringtones-and-customization/"><u>[New] 2024 Approved Expert Advice on iPhone Ringtones & Customization</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-webm-transformation-from-tweeted-visuals-for-2024/"><u>[New] WebM Transformation From Tweeted Visuals for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-most-impressive-new-additions-decoded/"><u>[Updated] Facebook's Most Impressive New Additions Decoded</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-elite-10-compact-discs-viewer-recommendations/"><u>[Updated] In 2024, Elite 10 Compact Discs Viewer Recommendations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-beats-fusion-studios-guide-to-cohesive-sound/"><u>Blending Beats Fusion Studio's Guide to Cohesive Sound</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabled-win-graphics-functionality/"><u>Enabled Win Graphics Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818243705-no-more-laptop-screen-flickers-problem-solved/"><u>No More Laptop Screen Flickers, Problem Solved!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-amd-driver-functionality-on-win10/"><u>Repaired AMD Driver Functionality on Win10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-size-set-rightly/"><u>Win10 Screen Size Set Rightly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Intel/Nvidia Graphic Swapping Issue
-date: 2024-12-02T19:29:33.827Z
-updated: 2024-12-10T00:50:39.490Z
+date: 2024-12-11T20:39:43.969Z
+updated: 2024-12-16T05:42:55.660Z
 tags:
   - win11
   - win10
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
@@ -41,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
@@ -95,10 +99,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -115,13 +115,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,21 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>[Updated] In 2024, Drone Flight Smoothness Choosing a Gimbal Wisely</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-movie-maker-from-beginner-to-pro-edition/"><u>[Updated] YouTube Movie Maker From Beginner to Pro Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-a-balanced-display-on-windows-10/"><u>Adjusting Aspect Ratios for a Balanced Display on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/anthem-speed-enhancement-tips/"><u>Anthem Speed Enhancement Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluelight-on-win-dxgkrnlsys-issue-tackled/"><u>BlueLight on Win - dxgkrnl.sys Issue Tackled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-desktop-display-now-steady-and-reliable/"><u>Dell Desktop Display Now Steady and Reliable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dodge-sims-game-freeze/"><u>Dodge Sims Game Freeze</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-flip-in-windows-11-display-settings/"><u>Fixing Flip in Windows 11 Display Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-capture-a-full-screen-snapshot-with-zoom-feature-movavi-guides/"><u>How to Capture a Full Screen Snapshot with Zoom Feature - Movavi Guides</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone XS Max</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-asus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Asus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secrets-to-success-removing-the-green-from-video-backdrops/"><u>Secrets to Success: Removing the Green From Video Backdrops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-windows-1nto-update-error-understanding-and-fixing-issue-0xc1900208/"><u>Solve Your Windows 1Nto Update Error: Understanding and Fixing Issue 0xC1900208</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-youtube-seo-techniques/"><u>The Ultimate Guide to YouTube SEO Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-the-dilemma-of-your-unresponsive-corsair-void-headset/"><u>Ultimate Troubleshooting Guide: Solving the Dilemma of Your Unresponsive Corsair Void Headset</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-best-of-moba-on-android-10-lists/"><u>[New] In 2024, Navigating the Best of MOBA on Android - #10 Lists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-ps5-external-hard-drives-you-can-find-for-2024/"><u>[New] Top 10 Ps5 External Hard Drives You Can Find for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-the-black-phantom-ultimate-strategies-to-fix-lol-screens/"><u>Conquering the Black Phantom: Ultimate Strategies to Fix LoL Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-fault-prevents-halo-infinite-from-launching/"><u>DX12 Fault Prevents Halo Infinite From Launching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevated-window-11-display-controls-unveiled/"><u>Elevated Window 11 Display Controls Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/excellent-screen-capture-software-for-windows-11-users-for-2024/"><u>Excellent Screen Capture Software for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/failed-to-initialize-direct3d-fixed/"><u>Failed to Initialize Direct3D [Fixed]</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-f15-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy F15 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-lcd-not-lighting-up-fixes-included/"><u>Laptop LCD Not Lighting Up: Fixes Included</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reveal-clear-imagery-for-twitch-streamers/"><u>Reveal Clear Imagery for Twitch Streamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-radeon-ray-tracing-glitch/"><u>Revived Radeon Ray Tracing Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-the-secrets-of-ultra-hd-the-power-of-4k/"><u>Unlocking the Secrets of Ultra HD: The Power of 4K</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-innovative-cloud-storage-options-in-2s024-for-2024/"><u>Unveiling Innovative Cloud Storage Options in 2S024 for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-demystifying-ai-game-generators-for-2024/"><u>Updated Demystifying AI Game Generators for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-users-say-goodbye-to-dual-gpu-hurdles-by-nvidiaintel/"><u>Win10 Users: Say Goodbye to Dual GPU Hurdles by Nvidia/Intel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-shorts-showing-up-after-fix/"><u>YouTube Shorts Showing Up After Fix</u></a></li>
 </ul></div>
 

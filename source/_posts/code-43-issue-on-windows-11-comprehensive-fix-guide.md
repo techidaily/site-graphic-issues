@@ -1,7 +1,7 @@
 ---
 title: Code 43 Issue on Windows 11 - Comprehensive Fix Guide
-date: 2024-12-04T05:08:11.683Z
-updated: 2024-12-10T02:24:49.823Z
+date: 2024-12-14T09:13:33.185Z
+updated: 2024-12-15T16:10:57.263Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -47,22 +51,22 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -103,13 +107,13 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,22 +155,24 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-exclusive-access-download-your-own-tailored-tracks/"><u>[New] 2024 Approved Exclusive Access Download Your Own Tailored Tracks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-time-saving-strategies-for-srt-to-text-file-changes/"><u>[New] Time-Saving Strategies for SRT to Text File Changes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlocking-cross-media-sharing-power-twitterfacebook-for-2024/"><u>[New] Unlocking Cross-Media Sharing Power (Twitter/Facebook) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mac-based-strategies-for-shorter-insta-videos-for-2024/"><u>[Updated] Mac-Based Strategies for Shorter Insta Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>[Updated] Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieved-successful-nvidia-setup-process/"><u>Achieved: Successful NVIDIA Setup Process</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-blinking-bring-brightness/"><u>Banish Blinking, Bring Brightness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursory-windows-11-recovery-success/"><u>Cursory Windows 11 Recovery Success</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easygamerecording-by-nvidia-for-2024/"><u>EasyGameRecording by NVIDIA for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-vlc-key-mac-functions-explained-for-2024/"><u>Mastering VLC Key Mac Functions Explained for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-mastery-correct-vertical-edges-instantly/"><u>Monitor Mastery: Correct Vertical Edges Instantly</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-essential-tools-for-creating-stunning-slow-motion-videos/"><u>New 2024 Approved 10 Essential Tools for Creating Stunning Slow Motion Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/success-overcoming-nvidia-setup-error/"><u>Success: Overcoming NVIDIA Setup Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-color-locked-in-asus-devices-with-ease/"><u>Unlock Color Locked in Asus Devices with Ease</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-aural-storytelling-on-instagram-reels/"><u>[New] The Art of Aural Storytelling on Instagram Reels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-nvidia-display-issue-settled/"><u>[Recovered] Nvidia Display Issue Settled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-drone-motors-choose-the-5-best-motors-for-your-quadcopter/"><u>[Updated] Drone Motors Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-civi-3-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Civi 3 Unlock Without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-civ-5-failures-on-pc/"><u>Addressing CIV 5 Failures on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10s-c1900101-error-quickly/"><u>Addressing Windows 10'S C1900101 Error Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-restorative-action-by-nvidia/"><u>Display Driver Restorative Action by Nvidia</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2655256-9781608684076-dropping-the-struggle/"><u>Dropping the Struggle | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-asus-monitor-flicker-with-ease/"><u>Fixing ASUS Monitor Flicker with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-hulu-app-on-lg-smart-tv-for-instant-entertainment/"><u>Guide: Setting Up Hulu App on LG Smart TV for Instant Entertainment</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>In 2024, Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-faulty-display-resolved-solution/"><u>Lenovo Faulty Display, Resolved Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-graphical-glitch-nvidia-leads-the-way/"><u>Rectified Graphical Glitch - NVIDIA Leads the Way</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818203752-saving-screen-setup-finally-successful/"><u>Saving Screen Setup Finally Successful</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-0x80042306-on-windows-to-reset-successfully/"><u>Tackling Error 0X80042306 on Windows to Reset Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-in-gadgets-a-deep-dive-by-toms-hardware-experts/"><u>Unveiling the Best in Gadgets: A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screenshake-problem-solved/"><u>Windows 10 Screenshake - Problem Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-eliminating-clipboard-mishaps/"><u>Windows 10: Eliminating Clipboard Mishaps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2024-12-06T18:56:54.965Z
-updated: 2024-12-09T21:06:44.169Z
+date: 2024-12-08T21:25:29.863Z
+updated: 2024-12-15T21:58:56.578Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ## Resolving Win10 Screen Setting Issues
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
 
@@ -44,21 +40,25 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -70,21 +70,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -106,6 +106,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -115,10 +119,6 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,21 +148,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-10-best-apps-to-speed-audio-speed-on-mobile/"><u>[New] 2024 Approved 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[New] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-sites-for-fetching-got-ringtone-downloads/"><u>[Updated] 2024 Approved Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-the-laughs-right-top-gif-saver-for-twitter-for-2024/"><u>[Updated] Share the Laughs Right Top GIF Saver for Twitter for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-structured-writing-tactics-for-boosting-facebook-ad-performance/"><u>2024 Approved Structured Writing Tactics for Boosting Facebook Ad Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-darkness-from-windows-11-after-fall-update/"><u>Banishing Darkness From Windows 11 After Fall Update</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s23-fe-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S23 FE Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-xbox-series-graphics-hiccup/"><u>Cured Xbox Series Graphics Hiccup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-fixes-in-effect/"><u>Direct3D Launcher Fixes in Effect</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-edge-correction-for-crystal-clear-screens/"><u>Effortless Edge Correction for Crystal-Clear Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/power-up-experience-amd-radeon-hd-6950-windows-11-driver-update/"><u>Power-Up Experience: AMD Radeon HD 6950 Windows 11 Driver Update</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/revolutionary-paperless-system-enhances-efficiency-cuts-costs-for-small-and-medium-businesses-through-advanced-ocr-technology/"><u>Revolutionary Paperless System Enhances Efficiency, Cuts Costs for Small & Medium Businesses Through Advanced OCR Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-blurry-zoom-calls-solutions/"><u>Say Goodbye to Blurry Zoom Calls - Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y100-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y100 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrading-to-ipad-air-5-pros-and-cons-compared-with-ipad-air-tiered-versus-tech-analysis/"><u>Upgrading to iPad Air 5: Pros and Cons Compared with iPad Air Tiered Versus | Tech Analysis</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-enhancement-latest-geforce-driver-update-for-nvidia-210/"><u>Window's Enhancement: Latest GeForce Driver Update for Nvidia 210</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-green-screen-strategies-in-video-editing-with-kinemaster/"><u>[New] 2024 Approved Essential Green Screen Strategies in Video Editing with Kinemaster</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-creating-ken-burns-transitions-in-camtasia-9-a-step-by-step-guide/"><u>[Updated] 2024 Approved Creating Ken Burns Transitions in Camtasia 9 A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>[Updated] Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-speed-enhancement-tips/"><u>Anthem Speed Enhancement Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-desktop-display-now-steady-and-reliable/"><u>Dell Desktop Display Now Steady and Reliable</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-potential-glitches-that-can-cause-youtube-malfunction/"><u>Exploring Potential Glitches That Can Cause YouTube Malfunction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-from-prime-day-with-these-spectacular-samsung-deals/"><u>Get More From Prime Day with These Spectacular Samsung Deals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-speeding-up-instagram-content-consumption/"><u>In 2024, Speeding Up Instagram Content Consumption</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-turning-back-the-clock-mastering-instagram-video-reverse/"><u>In 2024, Turning Back the Clock Mastering Instagram Video Reverse</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818051081-my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down – How to Fix It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mystery-dispatched-direct-x-woes-in-lol/"><u>Mystery Dispatched: Direct X Woes in LoL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-into-the-future-with-smart-glasses-the-life-altering-impact-of-photochromic-innovations-insights/"><u>Riding Into the Future with Smart Glasses: The Life-Altering Impact of Photochromic Innovations - Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secrets-to-success-removing-the-green-from-video-backdrops/"><u>Secrets to Success: Removing the Green From Video Backdrops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-horizontal-fix-on-laptop-screens-quick-and-painless/"><u>Smooth Horizontal Fix on Laptop Screens: Quick & Painless</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-you-should-avoid-using-tube2gram-for-uploading-videos-from-youtube-to-instagram/"><u>Why You Should Avoid Using Tube2Gram for Uploading Videos From YouTube to Instagram</u></a></li>
 </ul></div>
 

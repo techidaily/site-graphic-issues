@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 11 [Solved]
-date: 2024-12-06T18:14:55.755Z
-updated: 2024-12-10T00:15:10.865Z
+date: 2024-12-15T05:51:57.331Z
+updated: 2024-12-15T21:21:37.505Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -62,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -93,31 +97,27 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,21 +155,20 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-the-speed-of-vimeo-videos-for-2024/"><u>[New] Enhancing the Speed of Vimeo Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[Updated] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>[Updated] From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-jokester-jukebox-selecting-sources-for-funny-ringtones/"><u>2024 Approved Jokester Jukebox Selecting Sources for Funny Ringtones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/battled-and-solved-the-erratic-screen-blanks-on-laptops/"><u>Battled and Solved the Erratic Screen Blanks on Laptops</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breakdown-of-pewdiepies-monthly-earning-trends-for-2024/"><u>Breakdown of PewDiePie's Monthly Earning Trends for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bright-distraction-free-windows/"><u>Bright, Distraction-Free Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817829043-eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-12-rectified-monster-hunter-world-resumes/"><u>Error 12 Rectified: Monster Hunter World Resumes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-21-vegas-pro-roundup-from-beginner-to-expert-tips/"><u>In 2024, '21 Vegas Pro Roundup – From Beginner to Expert Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-failure-a-guide-for-repair/"><u>Laptop Display Failure – A Guide for Repair</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-guide-to-updating-the-surface-dock-software-on-your-device/"><u>Quick and Easy Guide to Updating the Surface Dock Software on Your Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconnect-tv-with-laptop-via-faulty-hdmi/"><u>Reconnect TV with Laptop via Faulty HDMI</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-issues-with-amds-freesync-latency/"><u>Resolving Issues with AMD's FreeSync Latency</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-polyglot-panorama-africas-linguistic-spectrum/"><u>The Polyglot Panorama: Africa’s Linguistic Spectrum</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-for-exclusive-zero-cost-visual-frames/"><u>[Updated] Strategies for Exclusive Zero-Cost Visual Frames</u></a></li>
+<li><a href="https://win-answers.techidaily.com/borderlands-e-experiencing-fps-dips-expert-solutions-and-tweaks-for-your-pc/"><u>Borderlands E Experiencing FPS Dips? Expert Solutions and Tweaks for Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unwanted-screen-flashes-on-your-windows-11-computer/"><u>Fixing Unwanted Screen Flashes on Your Windows 11 Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-memory-card-rescue-a-comprehensive-tutorial-on-restoring-images-and-videos-from-digital-cameras/"><u>Mastering Memory Card Rescue: A Comprehensive Tutorial on Restoring Images and Videos From Digital Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-perfection-horizontal-line-fixation/"><u>Screen Perfection - Horizontal Line Fixation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-flipped-display-issue-windows-7/"><u>Solve Flipped Display Issue, Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818386395-sprint-through-apex-with-ease/"><u>Sprint Through Apex with Ease!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/succeeded-clean-install-of-nvidia-driver/"><u>Succeeded: Clean Install of NVIDIA Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switchable-card-setup-mastery-for-nvidia-and-intel-on-win10/"><u>Switchable Card Setup Mastery for NVIDIA & Intel on Win10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ecret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/w11-pro-discounts-await-secure-your-best-price/"><u>W11 Pro Discounts Await: Secure Your Best Price</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-big-with-windows-11-latest-driver-update-for-radeon-hd-6950/"><u>Win Big with Windows 11: Latest Driver Update for Radeon HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shows-half-screen-not-full-fix-here/"><u>Win11 Shows Half-Screen, Not Full - Fix Here</u></a></li>
 </ul></div>
 

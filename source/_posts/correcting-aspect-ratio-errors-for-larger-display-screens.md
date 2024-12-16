@@ -1,7 +1,7 @@
 ---
 title: Correcting Aspect Ratio Errors for Larger Display Screens
-date: 2024-12-05T22:11:49.710Z
-updated: 2024-12-09T16:26:20.048Z
+date: 2024-12-13T20:10:58.690Z
+updated: 2024-12-16T05:49:14.915Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ We’ve included two possible solution:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 1: check display settings**
@@ -37,20 +37,20 @@ We’ve included two possible solution:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c192b55b7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Advanced display settings** .
 
 ![resolution advanced display settings](https://images.drivereasy.com/wp-content/uploads/2016/08/resolution-advanced-display-settings-600x564.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Be sure the resolution is set at the recommended level. If not, change it to the recommended solution.
 
 ![recommended resolution windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/recommended-resolution-windows-10-1-600x561.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your PC and check to see if the problem is resolved.
@@ -60,7 +60,7 @@ If the problem persists, you can try to update the graphics card driver.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -80,7 +80,7 @@ If the problem persists, you can try to update the graphics card driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-498.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the graphics card driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -108,24 +108,18 @@ If the problem persists, you can try to update the graphics card driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-identifying-a-user-writes-silent-unseen-snapshots/"><u>[New] 2024 Approved Identifying a User' Writes Silent, Unseen Snapshots</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-transform-your-content-3-effective-techniques-for-youtube-reaction-magic/"><u>[New] 2024 Approved Transform Your Content 3 Effective Techniques for YouTube Reaction Magic</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-exclusive-8-high-youtube-viewership-observer/"><u>[New] In 2024, Exclusive 8-High YouTube Viewership Observer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-downloads-igtv-media-for-phone-users/"><u>[Updated] 2024 Approved Mastering Downloads IGTV Media for Phone Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-blanking-windows-11-monitor/"><u>Ending Blanking Windows 11 Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/essential-tips-for-win7-intel-gpu-update/"><u>Essential Tips for Win7 Intel GPU Update</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v27-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V27 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-hot-30i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Hot 30i?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-sound-of-success-tailoring-audio-for-instagram-content/"><u>In 2024, The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-high-end-features-now-available-in-windows-10/"><u>Missing High-End Features Now Available in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monster-hunters-unite-erratum-12-conquered/"><u>Monster Hunters Unite: Erratum 12 Conquered</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-flipped-display-issue-in-windows-10-os/"><u>Resolve Flipped Display Issue in Windows 10 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-screen-misalignment-in-windows-10-fix/"><u>Reverse Screen Misalignment in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-11-fixed/"><u>Screen Upside Down in Windows 11 [Fixed]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-custom-sounds-in-your-gmail-inbox-a-step-by-step-guide/"><u>Setting Up Custom Sounds in Your Gmail Inbox: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-gaming-with-updated-nvidia-driver/"><u>Streamline Gaming with Updated Nvidia Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-dark-windows-11-after-falls/"><u>Taming the Dark Windows 11 After Falls</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-insights-on-top-hdr-cameras/"><u>[New] In 2024, Expert Insights on Top HDR Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-best-screen-capture-videographers-of-2023/"><u>[New] Unveiling the Best Screen Capture Videographers of 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-forgotten-tips-for-instagram-proficiency/"><u>[Updated] 2024 Approved Essential, Forgotten Tips for Instagram Proficiency</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-success-with-nvidia-setup/"><u>Achieved Success with NVIDIA Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-unsuccessful-windows-10-driver-loading-resolved/"><u>AMD: Unsuccessful Windows 10 Driver Loading - Resolved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-alternatives-for-android-users-a-comprehensive-guide/"><u>IMessage Alternatives for Android Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-demystifying-the-digital-canvas-a-complete-guide-to-beginners-chroma-keying/"><u>In 2024, Demystifying the Digital Canvas A Complete Guide to Beginner's Chroma Keying</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-doesnt-recognize-full-screen-windows-11/"><u>Monitor Doesn't Recognize Full-Screen Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidiaintel-graphics-issue-no-more-on-windows-10/"><u>Nvidia/Intel Graphics Issue No More on Windows 10!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-xiaomi-13-ultra-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solid-gaming-on-rtx-3080-tech/"><u>Solid Gaming on RTX 3080 Tech</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/supercharge-your-youtube-videos-best-mac-mp4-tools-for-2024/"><u>Supercharge Your YouTube Videos Best Mac MP4 Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transform-your-pc-gaming-on-win11-with-geforce-210-update/"><u>Transform Your PC Gaming on Win11 With GeForce 210 Update</u></a></li>
 </ul></div>
 

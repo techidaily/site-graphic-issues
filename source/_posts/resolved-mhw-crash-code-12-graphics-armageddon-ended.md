@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2024-12-09T05:39:23.206Z
-updated: 2024-12-09T23:28:53.670Z
+date: 2024-12-15T07:09:30.115Z
+updated: 2024-12-15T19:24:57.815Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
  Perhaps one of the most common causes for this graphics device crashed error is a corrupt or outdated graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics driver
@@ -68,17 +72,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
@@ -124,7 +120,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -132,6 +128,10 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,19 +163,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-funimate-masterclass-gameplay-enhancement/"><u>[Updated] 2024 Approved Funimate Masterclass Gameplay Enhancement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/adblocker-adoption-continues-to-challenge-youtubes-revenue-stream/"><u>Adblocker Adoption Continues to Challenge YouTube's Revenue Stream</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fixes-to-overcome-wwe-2k20s-pc-crashing-problems/"><u>Effortless Fixes to Overcome WWE 2K20's PC Crashing Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-get-the-new-ipad-pro-for-a-whopping-700-off-labor-day-deal-exclusive-gadget-buzz/"><u>Huge Savings Alert: Get the New iPad Pro for a Whopping $700 Off - Labor Day Deal Exclusive | Gadget Buzz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-single-frames-into-motion-narratives/"><u>In 2024, Transforming Single Frames Into Motion Narratives</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-light-new-driver-installed/"><u>No Light, New Driver Installed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-display-malfunctions-code-fixed/"><u>No More Display Malfunctions - Code Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-inverted-screen-in-windows-10-fixed/"><u>Overcoming Inverted Screen in Windows 10 [Fixed]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-fidelity-of-fc6-ui/"><u>Perfecting Visual Fidelity of FC6 UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-solve-other-application-happens-with-sound-errors/"><u>Steps to Solve Other Application Happens with Sound Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tidying-up-win-os-graphics-render-with-fixes/"><u>Tidying up Win OS Graphics Render with Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-pc-graphics-swiftly-install-newest-intel-3000-drivers-for-win10/"><u>Transform Your PC Graphics: Swiftly Install Newest Intel 3000 Drivers for Win10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortless-techniques-to-record-and-edit-with-screencastify/"><u>[New] Effortless Techniques to Record and Edit with Screencastify</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817906327-solved-nvidia-code-43-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>[Solved] NVIDIA Code 43: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-wizardry-for-bending-photos/"><u>[Updated] Photoshop Wizardry for Bending Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] YouTube Video Organization The Art of Chapter Addition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>2024 Approved Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/bite-sized-narrative-notation/"><u>Bite-Sized Narrative Notation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-rectified-in-monitor-driver/"><u>Error Rectified in Monitor Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halted-dx12-error-in-new-halo-infinites-release/"><u>Halted: DX12 Error in New Halo Infinite's Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hasten-installing-intel-gfx-3000-on-windows-10/"><u>Hasten Installing Intel GFX 3000 on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hurdles-halved-display-settings-saved-successfully/"><u>Hurdles Halved: Display Settings Saved Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-update-all-graphics-hardware-compatible-with-overwatch/"><u>New Update: All Graphics Hardware Compatible with Overwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhauled-graphics-card-error-43/"><u>Overhauled Graphics Card Error 43</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-cure-for-lags-and-interruptions/"><u>Quick Cure for Lags & Interruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016102236-say-goodbye-to-headphone-noise-easy-solutions-inside/"><u>Say Goodbye to Headphone Noise – Easy Solutions Inside!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-first-step-in-learning-spanish-counting/"><u>The First Step In Learning Spanish Counting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476826559-top-10-solutions-for-iphone-calling-issues-get-connected/"><u>Top 10 Solutions for iPhone Calling Issues: Get Connected</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/us-regulations-offer-positive-outlook-insights-from-abbyy/"><u>U.S. Regulations Offer Positive Outlook: Insights From ABBYY</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-amd-vega-gpu-drivers-with-these-simple-steps-perfect-for-playing/"><u>Update Your AMD Vega GPU Drivers with These Simple Steps – Perfect for Playing!</u></a></li>
 </ul></div>
 

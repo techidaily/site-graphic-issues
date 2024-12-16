@@ -1,7 +1,7 @@
 ---
 title: Resolving GPU Fan Stillness Issues
-date: 2024-12-08T01:02:13.355Z
-updated: 2024-12-10T04:27:19.424Z
+date: 2024-12-11T05:16:04.065Z
+updated: 2024-12-16T07:04:00.441Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the fixes. Simply work your way down until you find the one that does the trick.
@@ -41,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 5. [**Repair your system**](#fix5)
 6. **[Upgrade BIOS of your GPU](#fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure all cables are plugged in
 
  The first thing you want to do is**make sure the PCIe power cables are securely plugged in** . This usually happens on the first PC built. You should check if your GPU is connected to the PSU, and the cables are not torn or threadbare.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  If the latest drivers can’t help you, check out the next fix. (Or you can go a bit further to [do a clean driver reinstall with DDU](https://tools.techidaily.com/drivereasy/download/) .)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Configure GPU RPM (fan speed)
@@ -101,14 +109,10 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Scan and repair your system
 
@@ -121,17 +125,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
- Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ### Fix 6: Upgrade your GPU BIOS
 
@@ -162,21 +162,22 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/oost-your-youtube-success-with-free-high-quality-audio/"><u>[New] Boost Your YouTube Success with Free, High-Quality Audio</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-boosting-speed-for-periscope-live-video-for-2024/"><u>[New] Boosting Speed for Periscope Live Video for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-simple-steps-to-stream-facebooks-video-library-on-your-apple-device/"><u>[New] In 2024, Simple Steps to Stream Facebook's Video Library on Your Apple Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-with-a-diy-guide-to-haul-edits/"><u>[New] Unleash Creativity with a DIY Guide to Haul Edits</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-tips-for-secure-clear-stock-purchases/"><u>[Updated] Top Tips for Secure, Clear Stock Purchases</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/60/"><u>60超高解析度電影播放最佳工具</u></a></li>
-<li><a href="https://win-best.techidaily.com/conversion-facile-et-gratuite-de-fichiers-3gpp-en-format-wma-en-ligne-movavi/"><u>Conversion Facile Et Gratuite De Fichiers 3GPP en Format WMA en Ligne - Movavi</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-strategies-for-undoing-windows-11-system-changes/"><u>Effective Strategies for Undoing Windows 11 System Changes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keeping-rtx-3080-gaming-smooth/"><u>Keeping RTX 3080 Gaming Smooth</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-display-in-win10/"><u>Monitor Not Recognizing Fullscreen Display in Win10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/perfect-your-ig-photos-with-the-ideal-frame-choices/"><u>Perfect Your IG Photos with the Ideal Frame Choices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-normal-functionality-to-wins-ui-graphics/"><u>Restored Normal Functionality to Win's UI Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-realignment-achieved-in-tablet-mode/"><u>Screen Realignment Achieved in Tablet Mode</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-performance-install-new-geforce-gtx-1060-drivers/"><u>Secure Performance: Install New GeForce GTX 1060 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-deactivated-with-nvidias-immediate-action/"><u>TDR Alert Deactivated with Nvidia's Immediate Action</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-clearing-dark-frames-on-video-capture-software/"><u>[New] 2024 Approved Clearing Dark Frames on Video Capture Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-action-fraps-recorder-insights/"><u>[New] In 2024, Capturing Action Fraps Recorder Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-visuals-updated-drivers-roll-out-for-amd-hd-6950/"><u>Boost Your Visuals - Updated Drivers Roll-Out for AMD HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-ui-glitch-smooth-graphics-now-available/"><u>Fixed Windows UI Glitch - Smooth Graphics Now Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-rtx-3090-drivers-for-windows-users-download-now-windows-1187/"><u>GeForce RTX 3090 Drivers for Windows Users: Download Now (Windows 11/8/7)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-find-x6-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo Find X6</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-graphics-issues-with-overwatch/"><u>No More Graphics Issues with Overwatch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-10/"><u>NVIDIA GeForce 210 Drivers Update for Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-graphic-disturbances-a-guide-to-fixing-warzone-displays/"><u>Overcoming Graphic Disturbances: A Guide to Fixing Warzone Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-cpuram-drain-from-consuming-video-content/"><u>Reducing CPU/RAM Drain From Consuming Video Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-halo-infinite-crashes-on-xbox-with-dx12/"><u>Resolved: Halo Infinite Crashes on Xbox with DX12</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simplifying-file-conversion-mastering-powershell-and-vbscript-for-efficient-de-hardening/"><u>Simplifying File Conversion: Mastering PowerShell & VBScript for Efficient De-Hardening</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-refresh-intel-hd-graphics-in-windows/"><u>Step-by-Step: Refresh Intel HD Graphics in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-improve-lenovo-monitor-luminosity/"><u>Steps to Improve Lenovo Monitor Luminosity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10s-hybrid-gpu-success-story-with-nvidia-and-intel-fixes/"><u>Windows 10'S Hybrid GPU Success Story with NVIDIA & Intel Fixes</u></a></li>
 </ul></div>
 

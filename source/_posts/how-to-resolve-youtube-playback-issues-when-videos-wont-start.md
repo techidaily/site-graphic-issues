@@ -1,7 +1,7 @@
 ---
 title: How to Resolve YouTube Playback Issues When Videos Won't Start
-date: 2024-12-04T00:33:05.081Z
-updated: 2024-12-09T16:08:44.477Z
+date: 2024-12-10T22:24:14.264Z
+updated: 2024-12-15T17:22:01.395Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 [**![Youtube video not showing](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7558ea375e1.png)**](https://tools.techidaily.com/drivereasy/download/) 
 
  If you’re greeted with a BLACK green when trying to stream some video on YouTube, don’t panic. Here’re 6 fixes that have helped other users resolve this problem. So read on and check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 fixes for YouTube Video Not Showing
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Fix 3: Update your graphics driver
 
  Another common cause of the**YouTube video not showing** issue is an outdated or corrupt graphics driver on your system. So you should update the graphics driver to see if it fixes the problem.
@@ -68,13 +76,17 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play a video in YouTube to see if it works properly now.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 4: Change the hardware acceleration
@@ -97,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. Scroll down to the bottom and click **Advanced** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Scroll down to the bottom and in **System** and**DISABLE** the toggle next to **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
@@ -110,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. Scroll down to **Performance** , then**UN-CHECK** **the boxes** before **Use recommended performance settings** and **Use hardware acceleration when available** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582319be231.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Re-launch Firefox, play a video in YouTube and hopefully it’s working properly.
@@ -121,12 +133,12 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
  ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d05db46c82.png)
 2. Click **Advanced** . Then**CHECK** **the** **box** before **Use software rendering instead of GPU rendering** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766d0697b4a.jpg)
 3. Re-launch Internet Explorer, play a video in YouTube and hopefully it’s working properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -137,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 1. On your keyboard, press**the**    **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R** at the same time. Then copy & paste**%appdata%** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766fc6d2ecc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click**AppData** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76702248b3a.jpg)
@@ -150,16 +158,12 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 4. Double-click on **Google** \>**Chrome** \>**User Data** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Cut-paste**ALL** contents to a safe location in case something wrong comes up. Then delete**EVERYTHING** in this location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76717eb9673.jpg)
 6. Restart your computer, play the YouTube content again and see if it loads up fine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -173,10 +177,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -206,20 +206,24 @@ That’s it – 6 easy methods to fix your   **YouTube video not showing**  prob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-game-on-log-it-galaxy-phone-playthroughs/"><u>[New] In 2024, Game on, Log It! Galaxy Phone Playthroughs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-embed-audios-in-microsoft-powerpoint-slides/"><u>[Updated] Embed Audios in Microsoft PowerPoint Slides</u></a></li>
-<li><a href="https://video-capture.techidaily.com/m4v/"><u>高品質なままM4Vビデオファイルを連続してマージするステップバイステップガイド</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advancing-beyond-vp9-a-look-at-av1/"><u>Advancing Beyond VP9 A Look at AV1</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-initialization-problem/"><u>Conquered Initialization Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cross-platform-solution-for-win10s-stream-issues/"><u>Cross-Platform Solution for Win10's Stream Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-asus-lcd-squirm-for-clear-vision/"><u>Cure ASUS LCD Squirm for Clear Vision</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easing-work-email-woes-using-chatgpt-to-write-clearly/"><u>Easing Work Email Woes: Using ChatGPT to Write Clearly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-stroboscopic-effects-from-acer-pcs/"><u>Eliminating Stroboscopic Effects From Acer PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-custom-displays-with-nvidia/"><u>Enabling Custom Displays with NVIDIA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/endless-blinking-a-quick-stop-guide/"><u>Endless Blinking: A Quick Stop Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-updated-drivers-for-your-epson-printer-on-windows-11/"><u>How to Successfully Install Updated Drivers for Your Epson Printer on Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creative-vision-adobe-premiere-pro-for-mac-professionals/"><u>New Unleash Your Creative Vision Adobe Premiere Pro for Mac Professionals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-resource-leaks-in-civilization-v/"><u>Solving Resource Leaks in Civilization V</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-generative-artificial-intelligence-definition-and-applications/"><u>Unveiling Generative Artificial Intelligence: Definition & Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortlessly-post-videos-on-youtube-with-our-expert-guide-for-2024/"><u>[New] Effortlessly Post Videos on YouTube with Our Expert Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>[New] Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sky-high-cloud-stashing-solutions-on-android-for-2024/"><u>[New] Sky-High Cloud Stashing Solutions on Android for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-saving-your-iphone-7-display-for-2024/"><u>[New] The Ultimate Guide to Saving Your iPhone 7 Display for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-viral-jokes-whos-winning-on-the-meme-front/"><u>[Updated] In 2024, Viral Jokes Who's Winning on the Meme Front?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-download-vimeo-video-to-mp3/"><u>2024 Approved How to Download Vimeo Video to MP3</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-vertical-or-horizontal-facebook-video-tactic/"><u>2024 Approved Vertical or Horizontal Facebook Video Tactic</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-card-unsupported-on-classic-windows-versions/"><u>AMD Card Unsupported on Classic Windows Versions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-frozen-windows-10-monitor/"><u>Bypassing Frozen Windows 10 Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-for-nvidiaintel-graphic-swap-in-win11/"><u>Cure for NVIDIA/Intel Graphic Swap in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-performance-with-updated-amd-hd-6950-for-windows-10/"><u>Enhanced Rendering Performance with Updated AMD HD 6950 for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-touchscreen-glitch-now-fixed/"><u>Lenovo Touchscreen Glitch Now Fixed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-art-of-intel-imac-rejuvenation-expert-guide-to-system-upgrades/"><u>Mastering the Art of Intel iMac Rejuvenation: Expert Guide to System Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-troubles-civ-5-pc/"><u>Overcoming Graphics Troubles, Civ 5-PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-the-gone-display-on-my-laptop/"><u>Reviving the Gone Display on My Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-shimmer-a-handy-guide-for-windows-7-users/"><u>Stop Screen Shimmer – A Handy Guide for Windows 7 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-c1900101-error-in-windows-upgrade/"><u>Troubleshooting C1900101 Error in Windows Upgrade</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-creativity-designing-awe-inspiring-covers-for-instagram-highlights/"><u>Unleash Creativity Designing Awe-Inspiring Covers for Instagram Highlights</u></a></li>
 </ul></div>
 

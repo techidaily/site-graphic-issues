@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Windows 10 Advanced UI Settings Not Showed"
-date: 2024-12-06T20:37:52.119Z
-updated: 2024-12-09T22:39:26.064Z
+date: 2024-12-11T21:25:20.595Z
+updated: 2024-12-15T23:36:01.768Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
@@ -80,7 +84,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
@@ -88,16 +92,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
@@ -122,15 +122,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-motorolas-genius-in-depth-review-of-z2-play/"><u>[New] 2024 Approved Motorola's Genius In-Depth Review of Z2 Play</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elite-list-best-online-streaming-options-today-for-2024/"><u>[Updated] Elite List Best Online Streaming Options Today for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unexpected-vertical-tilt-in-instagram-vids-why/"><u>[Updated] Unexpected Vertical Tilt in Instagram Vids? Why?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/camera-hardware-problem-code-43-fixed/"><u>Camera Hardware Problem Code 43 Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-all-systems-go/"><u>Direct3D Startup: All Systems Go</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-pleasure-no-more-lags/"><u>Enhance Viewing Pleasure - No More Lags</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-your-logitech-mouse-working-on-windows-10-again-a-step-by-step-guide-to-fixing-the-problem/"><u>Get Your Logitech Mouse Working on Windows 10 Again - A Step by Step Guide to Fixing the Problem</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-perfectly-pristine-photos-in-the-cloud-free-and-paid-unveiled/"><u>In 2024, Perfectly Pristine Photos in the Cloud Free & Paid Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-windows-10s-switchable-gpu-puzzle-with-nvidiaintel/"><u>Solved: Windows 10'S Switchable GPU Puzzle with Nvidia/Intel</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unable-to-locate-the-missing-content-youre-seeking-error-404/"><u>Unable To Locate: The Missing Content You're Seeking (Error 404)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-clear-youtubes-obscured-visual-field-for-2024/"><u>[New] Clear Youtube's Obscured Visual Field for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dive-deep-into-video-mastery-with-vida-reviewed-here/"><u>[New] Dive Deep Into Video Mastery with Vida Reviewed Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>[New] Evaluating High-Capacity Drives How Many Vids Can a 64/128GB Hold?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-free-and-fast-guide-to-detecting-fraudulent-accounts-among-instragrammers/"><u>[Updated] Free & Fast Guide to Detecting Fraudulent Accounts Among Instragrammers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-facebook-live-experience-combat-interruptions-for-2024/"><u>[Updated] Seamless Facebook Live Experience Combat Interruptions for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-snapchat-editors-toolbox-for-photo-finesse-for-2024/"><u>[Updated] The Complete Snapchat Editor's Toolbox for Photo Finesse for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-a-balanced-display-on-windows-10/"><u>Adjusting Aspect Ratios for a Balanced Display on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluelight-on-win-dxgkrnlsys-issue-tackled/"><u>BlueLight on Win - dxgkrnl.sys Issue Tackled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dodge-sims-game-freeze/"><u>Dodge Sims Game Freeze</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-flip-in-windows-11-display-settings/"><u>Fixing Flip in Windows 11 Display Settings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rial-narration-framework-for-2024/"><u>Pictorial Narration Framework for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo on Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/straightening-visual-horizon-lines/"><u>Straightening Visual Horizon Lines</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-enjoying-lightning-fast-internet-with-the-netgear-nighthawk-x6-ac3200-router-a-familys-best-friend/"><u>The Ultimate Guide to Enjoying Lightning-Fast Internet with the Netgear Nighthawk X6 Ac3200 Router: A Family's Best Friend</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-gfx-issues-solved-interface-functioning-normal/"><u>Win GFX Issues Solved: Interface Functioning Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-powered-by-updated-nvidia-geforce-210-drivers/"><u>Win11 Powered by Updated NVIDIA GeForce 210 Drivers</u></a></li>
 </ul></div>
 

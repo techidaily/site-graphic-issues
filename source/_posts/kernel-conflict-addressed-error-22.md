@@ -1,7 +1,7 @@
 ---
 title: "Kernel Conflict Addressed: Error 22"
-date: 2024-12-05T06:13:45.571Z
-updated: 2024-12-10T02:57:40.418Z
+date: 2024-12-11T00:20:59.519Z
+updated: 2024-12-16T04:34:52.365Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 Be careful you don’t mistype, or press the wrong keys!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
@@ -56,10 +60,6 @@ Be careful you don’t mistype, or press the wrong keys!
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
 
@@ -77,11 +77,7 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -102,11 +98,15 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -129,19 +129,17 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-composing-engaging-podcast-thumbnails/"><u>[New] Composing Engaging Podcast Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-smooth-transition-tips-for-inshot-editors/"><u>[New] Smooth Transition Tips for Inshot Editors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[Updated] 2024 Approved FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-pova-6-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Pova 6 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/alleviating-absence-of-aesthetic-screen-features/"><u>Alleviating Absence of Aesthetic Screen Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-timepiece-a-comprehensive-head-to-head-battle-between-googles-pixel-watch-gen3-and-apple-watch-series-9/"><u>Choosing the Perfect Timepiece: A Comprehensive Head-to-Head Battle Between Google's Pixel Watch Gen3 & Apple Watch Series 9</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-inverted-windows-7-display/"><u>Fix Inverted Windows 7 Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-iphoneipad-keyboard-issues-a-guide-to-overcoming-6-common-challenges/"><u>How to Fix iPhone/iPad Keyboard Issues: A Guide to Overcoming 6 Common Challenges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-through-chatgpt-driven-workflow-optimization/"><u>Maximizing Productivity Through ChatGPT-Driven Workflow Optimization</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-to-apex-crash-here-we-come/"><u>Quick Fix to Apex Crash, Here We Come</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/uncovering-the-intent-an-in-depth-look-at-computer-system-registries-by-yl-computing/"><u>Uncovering the Intent: An In-Depth Look at Computer System Registries - By YL Computing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/watch-dvds-on-windows-10-for-free-the-best-players-for-2024/"><u>Watch DVDs on Windows 10 for Free The Best Players for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-wait-solutions-to-monitor-disconnection-issues/"><u>Zero-Wait Solutions to Monitor Disconnection Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-comedic-counterpoints-funny-song-flips/"><u>[New] 2024 Approved Comedic Counterpoints Funny Song Flips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-video-reach-optimize-tags-for-600esplus-growth/"><u>[New] Elevate Video Reach Optimize Tags for $6,00Es+ Growth</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-spotlight-podcast-in-one-ig-swipe/"><u>[New] In 2024, Spotlight Podcast in One IG Swipe</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation-for-2024/"><u>[Updated] Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cutting-edge-nvidia-driver-for-gtx-1060/"><u>Cutting-Edge Nvidia Driver for GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-forward-to-functionality-monitor-link-reactivation/"><u>Fast Forward to Functionality: Monitor Link Reactivation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-inverted-display-standard-alignment-in-windows-10/"><u>Fix Inverted Display: Standard Alignment in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-definition-audio-essentials-the-top-6-mics-for-livestreaming/"><u>High-Definition Audio Essentials The Top 6 Mics for Livestreaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resurrecting-silent-displayport-with-simple-steps/"><u>Resurrecting Silent DisplayPort with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-integration-new-drivers-bring-amd-hd-6950-to-life-on-w11/"><u>Seamless Integration - New Drivers Bring AMD HD 6950 to Life on W11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/video-sequencing-synergy-mastering-blend-modes/"><u>Video Sequencing Synergy Mastering Blend Modes</u></a></li>
 </ul></div>
 

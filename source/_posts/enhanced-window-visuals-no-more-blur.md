@@ -1,7 +1,7 @@
 ---
 title: Enhanced Window Visuals, No More Blur
-date: 2024-12-07T23:33:06.927Z
-updated: 2024-12-09T16:23:25.498Z
+date: 2024-12-10T20:51:19.792Z
+updated: 2024-12-16T05:31:53.497Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
  But don’t worry. We will help you fix your problem and get a clear screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 5. [**Change DPI scaling settings for your app**](#Fix5)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check the monitor connection
 
@@ -72,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc64ac9c5.jpg)
 4. Toggle to turn on**Let Windows try to fix apps so they’re not blurry** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc98f2c2a.jpg)
 5. Restart your computer and see if it fixes the blurry screen.
 
@@ -100,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e2b88e496.jpg)
 3. Click **Driver Uninstall** , and double click**Display adapters** . Select your graphics card and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e321663f9.jpg)
 4. Restart your computer and Windows will reinstall the graphics card driver for you.
 
 Check if your screen becomes normal.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change DPI scaling settings for your monitor
 
@@ -126,10 +118,6 @@ Check if your screen becomes normal.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then Windows will apply the changes. Check and see if your screen gets clear.
 
 **If you’re using Windows 8 and Windows 7:**
@@ -139,16 +127,16 @@ Check if your screen becomes normal.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 3. Choose**100%** for the size of text and other items on your screen, then click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 4. Restart your computer to take effect.
 
 Check if your screen is still blurry.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change DPI scaling settings for your app
 
@@ -162,17 +150,29 @@ Check if your screen is still blurry.
 3. Click the**Compatibility** tab, and click**Change high DPI settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ded740b3e.jpg)
 4. Check the box next to **Use this setting to fix scaling problems for this program instead of the one in Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df1fe793e.jpg)
 5. In the same pane, make sure to check the box next to**Override high DPI scaling behavior** . And choose**Scaling performed by Application** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2df58aa45d.jpg)
 6. Click**OK** to save the changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if the blurry problem has been fixed.
 
@@ -198,20 +198,24 @@ Check if the blurry problem has been fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elite-10-audio-amplifiers-desktops-to-smartphones-for-2024/"><u>[New] Elite 10 Audio Amplifiers Desktops to Smartphones for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-does-money-flow-into-shopping-guides-vids/"><u>[New] In 2024, Does Money Flow Into Shopping Guides Vids?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-story-lore-who-are-the-premier-channels-for-2024/"><u>[New] Story Lore Who Are the Premier Channels for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-by-step-breakdown-of-vivacuts-new-tools-and-features/"><u>2024 Approved Step-by-Step Breakdown of VivaCut's New Tools and Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/acer-screens-banishing-blinding-flashes/"><u>Acer Screens: Banishing Blinding Flashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/digitaldomain-discoveries-a-deep-dive-into-todays-premium-hardware-picks/"><u>DigitalDomain Discoveries: A Deep Dive Into Today’s Premium Hardware Picks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-bluescreen-of-death-fixing-in-windows/"><u>dxgkrnl.sys BlueScreen of Death: Fixing in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-lost-ark-how-to-prevent-game-crashes-on-your-computer/"><u>Fixing Lost Ark: How to Prevent Game Crashes on Your Computer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-windows-11-microphone-use-for-high-quality-recordings/"><u>In 2024, Windows 11 Microphone Use for High-Quality Recordings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mobilizing-a-passive-gpu-fan/"><u>Mobilizing a Passive GPU Fan</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigate-non-operational-asus-cam-woes/"><u>Navigate Non-Operational Asus Cam Woes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-surface-pro-7s-screenshot-stutter/"><u>Solving Surface Pro 7'S Screenshot Stutter</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-cleared-nvidia-display-responding-anew/"><u>System Alert Cleared: NVidia Display Responding Anew</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-r9-display-issues-on-windows-11-successfully/"><u>Tackling R9 Display Issues on Windows 11 Successfully</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-legality-of-digital-assets-a-guide-on-cryptocurrency-laws-by-region-yl-computing/"><u>Understanding the Legality of Digital Assets: A Guide on Cryptocurrency Laws by Region - YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-desktop-dials-adjusting-audio-to-a-whisper/"><u>[New] 2024 Approved Desktop Dials Adjusting Audio to a Whisper</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>[Updated] 2024 Approved Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-cutting-edge-techniques-to-upgrade-channel-descriptions/"><u>[Updated] 2024 Approved Cutting-Edge Techniques to Upgrade Channel Descriptions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-ipad-voice-recorders-1-2-3/"><u>[Updated] Leading iPad Voice Recorders #1, #2, #3</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-frequent-disconnections-in-freesync-amd/"><u>Addressing Frequent Disconnections in FreeSync AMD</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-at-last/"><u>Clear Windows Image at Last</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-fix-for-cursor-in-darkened-win11-screens/"><u>Cursory Fix for Cursor in Darkened Win11 Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disabling-gpu-by-error-recover-it-for-windows-1011/"><u>Disabling GPU by Error? Recover It for Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dodging-chroma-key-disasters-for-enhanced-videos-on-youtube/"><u>Dodging Chroma Key Disasters for Enhanced Videos on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-microsoft-window-os-render-capabilities/"><u>Enhancing Microsoft Window OS Render Capabilities</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/increase-fps-in-titanfall-2-speedy-fixes-and-simple-hacks/"><u>Increase FPS in Titanfall 2: Speedy Fixes and Simple Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/mobile-methods-adding-image-based-info-to-your-ms-excel-sheets/"><u>Mobile Methods: Adding Image-Based Info to Your MS Excel Sheets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-display-on-windows-11-updated/"><u>Optimized Display on Windows 11 Updated</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/patching-up-the-system-windows-plus-nvidia-glide/"><u>Patching Up the System: Windows + NVIDIA Glide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/perfecting-the-art-of-facebook-live-recording-for-2024/"><u>Perfecting the Art of Facebook Live Recording for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-flares-on-window-11/"><u>Smooth Out Flares on Window 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speak-up-begin-your-journey-of-conversational-adventures-with-chatgpt-today/"><u>Speak Up! Begin Your Journey of Conversational Adventures with ChatGPT Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-poco-c55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Poco C55 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

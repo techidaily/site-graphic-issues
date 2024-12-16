@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-12-07T16:48:24.290Z
-updated: 2024-12-09T23:44:43.155Z
+date: 2024-12-11T03:12:19.602Z
+updated: 2024-12-16T04:22:10.818Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 ## Troubleshooting Flashing LCD on HP Systems
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
 
@@ -46,7 +42,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
@@ -68,7 +64,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -78,6 +74,10 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -107,6 +107,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
@@ -114,7 +118,7 @@ Here is how to do it:
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -127,10 +131,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -158,24 +158,17 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>[New] In 2024, The Aesthetic Edge Crafting Podcast Logos with Panache</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solution-needed-windows-without-amd-driver-available/"><u>[SOLUTION NEEDED]: Windows Without AMD Driver Available</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] 2024 Approved Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-direct-screens-capture-chromeos-edition-for-2024/"><u>[Updated] Direct Screens Capture ChromeOS Edition for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>[Updated] In 2024, A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-overlapping-window-issues-in-windows-10/"><u>Addressing Overlapping Window Issues in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-for-incorporating-smileys-in-iphone-conversations/"><u>Comprehensive Instructions for Incorporating Smileys in iPhone Conversations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-methods-to-transform-dat-videos-into-mp4-format-top-5-tips/"><u>Easy Methods to Transform DAT Videos Into MP4 Format: Top 5 Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817910025-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-zero-response/"><u>GPU Error: Zero Response</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>In 2024, Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>In 2024, ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-xcover-7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy XCover 7 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-xbox-series-graphics-bug/"><u>Rectified Xbox Series Graphics Bug</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-flickering-issue/"><u>Solving Windows 10 Flickering Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-blacked-out-desktop-window/"><u>Taming the Blacked-Out Desktop Window</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-for-correcting-c1900101-on-windows-11-installation/"><u>Tips for Correcting C1900101 on Windows 11 Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncover-and-resolve-ignored-graphics-on-your-pc/"><u>Uncover and Resolve Ignored Graphics on Your PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-one-voice-many-listeners-a-solo-podcast-blueprint/"><u>[New] One Voice, Many Listeners A Solo Podcast Blueprint</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/creenplay-grooves-best-background-tunes-for-yt-shorts-for-2024/"><u>[New] Screenplay Grooves Best Background Tunes For YT Shorts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-screen-capture-simplified-top-choices-for-easy-video-making/"><u>[Updated] In 2024, Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-oversight-top-four-strategies-by-authorities/"><u>AI Oversight: Top Four Strategies by Authorities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-update-and-install-evga-graphics-card-software-on-windows-systems/"><u>How to Seamlessly Update & Install EVGA Graphics Card Software on Windows Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-enhancing-your-presentations-with-audio-powerpoint-tips-for-windows-users-and-mac-owners/"><u>New In 2024, Enhancing Your Presentations with Audio PowerPoint Tips for Windows Users & Mac Owners</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-lcd-seam-disruptions/"><u>Overcome LCD Seam Disruptions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lenovos-functional-touch-screens/"><u>Restoring Lenovo's Functional Touch Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversed-cominterface-error-on-windows-os/"><u>Reversed: COMInterface Error on Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-aging-pc-with-these-5-cost-effective-methods-for-microsoft-windows-11-users-many-at-no-charge-techadvice/"><u>Revitalize Your Aging PC with These 5 Cost-Effective Methods for Microsoft Windows 11 Users - Many at No Charge! | TechAdvice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-recover-unlit-computer-monitors/"><u>Strategies to Recover Unlit Computer Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-graphic-interface-back-to-operational-state/"><u>Window's Graphic Interface Back to Operational State</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe"
-date: 2024-12-04T23:36:40.388Z
-updated: 2024-12-09T21:42:43.318Z
+date: 2024-12-13T16:08:23.161Z
+updated: 2024-12-15T23:46:42.690Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
  These days, AMD graphics card users are pretty bummed when playing Escape from Tarkov. The game becomes unplayable when it’s raining. Everything is covered with shadows and black. If you’re on the same boat, don’t worry. In our article, we’ll show you effective methods to fix this graphics issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 
 ![how to fix Escape from Tarkov graphics bug](https://images.drivereasy.com/wp-content/uploads/2021/12/litterally-unplayable-1200x674.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  A variety of issues, including graphics glitches, can be caused by corrupted or missing game files. Therefore, you’ll need to perform an integrity check to resolve your problem. Follow the steps below to do so.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 2. Locate your profile. Then click on the drop-down and select**Integrity check** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/integrity-check-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This may take some minutes to redownload and reinstall any missing or corrupted game files.
 
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/clear-cache.png)
 
  Then relaunch your game. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Clean your temp folder
 
@@ -95,9 +91,17 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After updating drivers, restart your PC and test the gameplay.
 
@@ -106,7 +110,7 @@ After updating drivers, restart your PC and test the gameplay.
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair your PC
@@ -118,10 +122,6 @@ If your game is still unplayable, move on to the next fix.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the repair is finished, restart your PC and you should be able to see everything clearly during the raining scenes.
 
@@ -144,24 +144,20 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-elevating-earnings-the-essentials-of-vimeo-revenue-model/"><u>[New] Elevating Earnings The Essentials of Vimeo Revenue Model</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-8-best-open-source-video-conferencing-software-for-enterprise-for-2024/"><u>[Updated] 8 Best Open Source Video Conferencing Software for Enterprise for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-ig-edits-for-apple-and-android-users-for-2024/"><u>[Updated] Exclusive IG Edits for Apple & Android Users for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effizientes-cd-brennen-mit-windows-11-schritt-fur-schritt-anleitungen-zum-brennen-von-iso-auf-eine-dvd/"><u>Effizientes CD-Brennen Mit Windows 11: Schritt-Für-Schritt Anleitungen Zum Brennen Von ISO Auf Eine DVD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expedite-smooth-video-experiences/"><u>Expedite Smooth Video Experiences</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-11-screen-flicker/"><u>Fix: Windows 11 Screen Flicker</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-a60-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel A60</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-harmonizing-your-calendar-with-zoom-appointments-on-all-screens/"><u>In 2024, Harmonizing Your Calendar With Zoom Appointments on All Screens</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s23-fe-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S23 FE to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/increased-productivity/"><u>Increased Productivity</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-converter/"><u>New In-Depth Review of Ivona Text to Speech Converter</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sharpening-upon-rendered-characteristics-in-fc6/"><u>Sharpening Upon Rendered Characteristics in FC6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-technique-for-fresh-intel-graphics-drivers-win7/"><u>Step-By-Step Technique for Fresh Intel Graphics Drivers (Win7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-getting-that-trusted-verification-emblem-on-your-profile-in-the-updated-social-sphere-of-formerly-twitter/"><u>The Ultimate Guide to Getting That Trusted Verification Emblem on Your Profile in the Updated Social Sphere of Formerly Twitter</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trouble-with-full-screen-windows-on-monitor-11/"><u>Trouble With Full-Screen Windows on Monitor 11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-secrets-to-skyrocket-your-online-visibility/"><u>Unraveling Secrets to Skyrocket Your Online Visibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-display-mode-adjustment-achieved/"><u>Win10 Display Mode Adjustment Achieved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upside-down-issue-resolved/"><u>Windows 10 Upside Down Issue Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-clarity-windows-resolved/"><u>Zoom Clarity: Windows Resolved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-build-a-career-in-graphic-design/"><u>[New] How to Build A Career In Graphic Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-voice-over-techniques-video-production-edition/"><u>[Updated] Voice Over Techniques Video Production Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-producing-attention-grabbing-podcast-openers/"><u>2024 Approved The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-win11-resolution-settings/"><u>Balancing Win11 Resolution Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-lenovos-secret/"><u>Bring Back The Colors: Lenovo's Secret</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-display-options-in-windows-11-unlocked/"><u>Enhanced Display Options in Windows 11 Unlocked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficiently-allocating-more-memory-to-minecraft/"><u>In 2024, Efficiently Allocating More Memory to Minecraft</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a59-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A59 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-usb-30-driver-download-guide-compatible-with-windows-11/"><u>Intel USB 3.0 Driver Download Guide: Compatible with Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-mobile-apps-for-luts-for-2024/"><u>Mastering Mobile Apps for LUTs for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-rotated-interface-issue-on-windows-10/"><u>Overcoming Rotated Interface Issue on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refining-gameplay-dynamics-in-god-of-war/"><u>Refining Gameplay Dynamics in 'God of War'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversing-rear-screen-renders-in-tablets/"><u>Reversing Rear Screen Renders in Tablets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-mastery-quick-and-easy-fixes-for-cameras-in-trouble/"><u>Zoom Mastery: Quick and Easy Fixes for Cameras in Trouble</u></a></li>
 </ul></div>
 

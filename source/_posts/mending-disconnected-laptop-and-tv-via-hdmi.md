@@ -1,7 +1,7 @@
 ---
 title: Mending Disconnected Laptop and TV via HDMI
-date: 2024-12-03T02:06:25.921Z
-updated: 2024-12-09T20:09:18.093Z
+date: 2024-12-15T07:38:17.412Z
+updated: 2024-12-16T00:57:09.562Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
  Why is HDMI from laptop to TV not working? Usually, it’s the hardware faulty, so make sure your hardware devices are working properly. Another possible reason is that your TV is not recognized by your laptop. And you can try these solutions to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix HDMI laptop to TV not working
 
  Here are the fixes you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -31,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 3. [Update available drivers](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart and reconnect your devices
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure your Display Settings
@@ -65,11 +69,11 @@ The difference between each mode is as follows:
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
- Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 ### Fix 3: Update available drivers
 
@@ -91,16 +95,12 @@ The difference between each mode is as follows:
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -124,24 +124,17 @@ The difference between each mode is as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-income-from-video-how-to-profit-on-vimeo-platform/"><u>[New] 2024 Approved Income From Video How to Profit on Vimeo Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-chart-new-horizons-in-branding-with-these-top-10-youtube-tools/"><u>[New] In 2024, Chart New Horizons in Branding with These Top 10 YouTube Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[New] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-giggle-geniuses-selecting-superior-memery-apps/"><u>[Updated] Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-windows-post-fall/"><u>Clearing Up Black Windows Post Fall</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-dark-desktop-issue-win10-style/"><u>Eradicating Dark Desktop Issue - Win10 Style</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-startup-not-successful/"><u>Graphics Startup: Not Successful</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g04-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola Moto G04 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-15-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 15 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-display-features-unlocked-on-windows-11/"><u>New Display Features Unlocked on Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/no-expense-required-remove-coffee-stains-from-iphone-photos-for-2024/"><u>No Expense Required Remove Coffee Stains From iPhone Photos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dark-mode-clearing-twitch-displays/"><u>Overcoming Dark Mode: Clearing Twitch Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reversed-fluctuating-visibility-on-dell-laptop-screens/"><u>Reversed Fluctuating Visibility on Dell Laptop Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-for-lenovo-display-glare-issue/"><u>Solutions for Lenovo Display Glare Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stopping-auto-restarts-windows-11-edition/"><u>Stopping Auto Restarts: Windows 11 Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-integrated-laptop-gpu-on-windows-11/"><u>Successfully Integrated: Laptop GPU on Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-finest-9-mic-recorders-web-based-edition-for-2024/"><u>The Finest 9 Mic Recorders, Web-Based Edition for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-card-error-43-sorted-out/"><u>Video Card Error 43 Sorted Out</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-6s-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 6s Plus? How to Fix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[New] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-higher-engagement-a-guide-to-youtube-success/"><u>[New] Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-connection-to-blizzard-game-server-lost/"><u>[SOLVED] Connection to Blizzard Game Server Lost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transformative-editing-mastering-blend-mode-applications/"><u>[Updated] Transformative Editing Mastering Blend Mode Applications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/charting-new-realms-with-ultra-hd-resolution-4k-explored/"><u>Charting New Realms with Ultra HD Resolution - 4K Explored</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expert-pathway-to-windows-8s-secure-boot-graphics-card-driver-eradication/"><u>Expert Pathway to Windows 8'S Secure Boot - Graphics Card Driver Eradication</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-non-registered-graphics-devices-on-pcs/"><u>Fixing Non-Registered Graphics Devices on PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/getting-past-dxgkrnlsys-bsod-on-pc/"><u>Getting Past dxgkrnl.sys BSOD on PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c02-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C02 Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-power-problems-in-windows-11-systems/"><u>Troubleshooting Persistent Power Problems in Windows 11 Systems</u></a></li>
 </ul></div>
 

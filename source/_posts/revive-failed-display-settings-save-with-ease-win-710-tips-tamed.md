@@ -1,7 +1,7 @@
 ---
 title: Revive Failed Display Settings Save with Ease - Win 7/10 Tips [Tamed]
-date: 2024-12-04T18:57:55.574Z
-updated: 2024-12-09T23:39:51.337Z
+date: 2024-12-12T00:59:46.351Z
+updated: 2024-12-15T21:18:06.755Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
  If you keep getting the**Unable to save display settings** error when trying to connect your PC to more than one display, you’re not alone. The good news is, it’s usually not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Unable to save display settings
 
  All the screenshots below are from**Windows 7** , but the fixes also work in**Windows 10** .
@@ -32,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 2. [**Update your graphics driver**](#F2)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Change your screen resolution
 
@@ -46,20 +46,20 @@ To do so:
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -75,12 +75,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037a514d66.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
 
@@ -105,22 +105,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-next-gen-capture-the-leading-apps-decoded/"><u>[New] In 2024, Next-Gen Capture The Leading Apps Decoded</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-exploring-updates-to-sonys-s6500-model/"><u>[Updated] 2024 Approved Exploring Updates to Sony's S6500 Model</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-swift-solution-mastering-the-art-of-image-to-thumbnail-transformation/"><u>[Updated] Swift Solution Mastering the Art of Image-To-Thumbnail Transformation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-aspect-ratios-for-optimal-screen-usage-in-windows-10/"><u>Adjusting Aspect Ratios for Optimal Screen Usage in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-wheel-compatible-with-windows-7-8-and-10/"><u>Download Logitech Wheel: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
-<li><a href="https://solve-news.techidaily.com/gratis-konvertentoolen-converteer-opus-naar-flac-online-met-movavi/"><u>Gratis Konvertentoolen - Converteer OPUS Naar FLAC Online Met Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-green-screen-blunders-in-video-production/"><u>Mastering Green Screen Blunders in Video Production</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outstanding-value-and-speed-a-comprehensive-oneplus/"><u>Outstanding Value and Speed: A Comprehensive OnePlus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quenching-flickery-lights-on-acer-computers/"><u>Quenching Flickery Lights on Acer Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/save-windows-710-display-settings-flawlessly-heres-how-solved/"><u>Save Windows 7/10 Display Settings Flawlessly - Here's How [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-to-restoring-hey-siri-command-responsiveness-in-ios/"><u>Ultimate Guide to Restoring 'Hey Siri' Command Responsiveness in iOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-secrets-of-toms-pc-insights/"><u>Unraveling the Secrets of Tom's PC Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-get-back-to-seamless-transfers-fixing-faulty-airdrop-links/"><u>[New] 2024 Approved Get Back to Seamless Transfers Fixing Faulty Airdrop Links</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nstantly-professional-masterful-thumbnails-created-fast/"><u>[New] Instantly Professional Masterful Thumbnails Created Fast</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-algorithm-boosting-instagram-engagement-for-2024/"><u>[New] Mastering the Algorithm Boosting Instagram Engagement for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse-for-2024/"><u>[New] Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-chuckle-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>[Updated] Chuckle Collective Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adapting-hardware-capabilities-for-intell-graphic-use/"><u>Adapting Hardware Capabilities for Intell Graphic Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-screenscape-achieved-with-win11-fixes/"><u>Crisp Screenscape Achieved with Win11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deciphered-the-veiled-direct-x-discreprancy-in-legion/"><u>Deciphered the Veiled Direct X Discreprancy in Legion</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-shadows-decoding-the-mysterious-dx-error-in-lol/"><u>Illuminating Shadows: Decoding the Mysterious DX Error in LoL</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-physics-problems-civilization-v-pc/"><u>Resolving Physics Problems, Civilization V PC</u></a></li>
+<li><a href="https://win-web3.techidaily.com/revolutionizing-industry-with-digital-twins-innovative-synergy-of-trace-technology-and-bsv-chain-by-yl-software/"><u>Revolutionizing Industry with Digital Twins: Innovative Synergy of Trace Technology and BSV Chain by YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-common-issues-a-guide-to-troubleshooting-your-computers-post-process/"><u>Solving Common Issues: A Guide to Troubleshooting Your Computer's POST Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-streaming-problems-on-windows-10-after-upgrade-solved/"><u>Video Streaming Problems on Windows 10 After Upgrade [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blackout-error-solved/"><u>Windows 10 Blackout Error Solved</u></a></li>
 </ul></div>
 

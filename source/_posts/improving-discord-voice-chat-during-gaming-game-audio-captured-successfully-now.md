@@ -1,7 +1,7 @@
 ---
 title: "Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now"
-date: 2024-12-04T18:28:13.153Z
-updated: 2024-12-10T06:40:36.397Z
+date: 2024-12-15T06:43:58.200Z
+updated: 2024-12-16T02:13:50.982Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -56,7 +56,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -74,11 +74,19 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -89,7 +97,7 @@ There’re mainly two ways for you to update an audio driver:
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -102,17 +110,9 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -137,19 +137,16 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-gpodc-must-haves/"><u>[New] Exclusive GPodC Must-Haves</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987005373-solved-origin-wont-open-on-windows-10-11/"><u>[SOLVED] Origin Won't Open on Windows 10, 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-small-channels-big-opportunities-an-affiliate-approach/"><u>2024 Approved Small Channels, Big Opportunities An Affiliate Approach</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/advanced-strategies-in-auto-response-email-campaigns-utilizing-massmail-pro-software/"><u>Advanced Strategies in Auto-Response Email Campaigns: Utilizing MassMail Pro Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-connect-to-cellular-data-on-your-iphone-here-are-10-ways-to-fix-it/"><u>Can't Connect to Cellular Data on Your iPhone? Here Are 10 Ways to Fix It</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-engaging-dandd-character-images-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Creating Engaging D&D Character Images with ChatGPT and DALL-E: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-11-enhanced-control-over-resolutions/"><u>Fixed Windows 11 - Enhanced Control Over Resolutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-a-mac-gamers-delight-with-a-hidden-catch/"><u>Fortnite: A Mac Gamers' Delight with a Hidden Catch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/my-computer-screen-upside-down-how-to-fix-it/"><u>My Computer Screen Upside Down - How to Fix It</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817990669-radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-tremor-in-windows-11/"><u>Stop Screen Tremor in Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-dawn-of-enhanced-speech-to-text-systems/"><u>The Dawn of Enhanced Speech-to-Text Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-now-offers-extended-display-options/"><u>Windows 11 Now Offers Extended Display Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-key-steps-to-perfectly-mix-obs-and-zoom/"><u>[New] 2024 Approved The Key Steps to Perfectly Mix OBS & Zoom</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-musics-big-screen-facebooks-top-ten-vids/"><u>[Updated] 2024 Approved Music's Big Screen Facebook's Top Ten Vids</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-camon-20-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Camon 20 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-10c-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark 10C Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-secrets-finding-out-what-powershell-version-you-have-on-windows-11/"><u>Unveiling the Secrets: Finding Out What PowerShell Version You Have on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1724467299742-vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries - What Is It and What to Do About It?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-troubleshooting-fixes-for-non-loading-videos/"><u>YouTube Troubleshooting: Fixes for Non-Loading Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-video-not-showing-fixed/"><u>YouTube Video Not Showing [FIXED]</u></a></li>
 </ul></div>
 

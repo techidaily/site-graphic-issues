@@ -1,7 +1,7 @@
 ---
 title: "Fixing NVIDIA GTX 950 'Error 43' Problems on Your Windows 11 PC: Step-by-Step Solutions"
-date: 2024-12-04T01:49:17.610Z
-updated: 2024-12-09T23:42:44.330Z
+date: 2024-12-12T03:04:01.755Z
+updated: 2024-12-16T09:54:13.699Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -47,23 +51,19 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,18 +155,19 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-fortnite-thumbnail-blitz-a-30-second-guide/"><u>[New] 2024 Approved Fortnite Thumbnail Blitz A 30-Second Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-roadmap-for-effective-advertising-on-facebook-for-2024/"><u>[New] The Roadmap for Effective Advertising on Facebook for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusted-screen-angle-laptop-problem-solved/"><u>Adjusted Screen Angle - Laptop Problem Solved</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/complete-set-of-macxdvd-professional-tools-now-available-at-no-cost-official-unlimited-license-offer/"><u>Complete Set of MacXDVD Professional Tools Now Available at No Cost: Official Unlimited License Offer!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/disable-fullscreen-monitors-dont-work-properly-with-win10/"><u>Disable Fullscreen? Monitors Don't Work Properly with Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-screen-flicker-successful-resolution-on-dell/"><u>Fixing Screen Flicker: Successful Resolution on Dell</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-solutions-transforming-photos-into-videos-for-2024/"><u>Leading Solutions Transforming Photos Into Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-gpu-display-stalled-2020-fix/"><u>Missing GPU, Display Stalled [2020 Fix]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-missing-power-configurations-in-win-11-os/"><u>Reclaiming Missing Power Configurations in Win 11 OS</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unrivaled-gaming-powerhouse-the-definitive-guide-to-why-xbox-one-x-reigns-supreme-in-the-console-universe/"><u>Unrivaled Gaming Powerhouse: The Definitive Guide to Why Xbox One X Reigns Supreme in the Console Universe</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/urdu-essentials-for-new-learners-a-starting-packet/"><u>Urdu Essentials for New Learners: A Starting Packet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-captured-kinetics-mastering-the-art-of-twitvid-download/"><u>[New] In 2024, Captured Kinetics Mastering the Art of TwitVid Download</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-tutorial-using-microsofts-movie-maker-on-w11/"><u>2024 Approved Step-By-Step Tutorial Using Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fast-tracking-visual-storytelling-with-google-collages/"><u>Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unclear-windows-display/"><u>Fix: Unclear Windows Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-fallout-4-freeze-problems-on-pc/"><u>Fixing Fallout 4 Freeze Problems on PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-xbox-360-controllers-up-and-running-with-new-drivers/"><u>Get Your Xbox 360 Controllers Up & Running with New Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s24plus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S24+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-saving-your-iphone-screen-a-step-by-step-approach/"><u>In 2024, Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>In 2024, Transforming Team Meeting Aesthetics The Pre/Post Customization Angle</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/intova-x-reviewed-cutting-edge-action-capture/"><u>Intova X Reviewed Cutting-Edge Action Capture</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-graphics-use-on-modern-windows-systems/"><u>Reactivating Graphics Use on Modern Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-mouse-on-windows-11/"><u>Screen Fix: Mouse on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
 </ul></div>
 

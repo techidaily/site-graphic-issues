@@ -1,7 +1,7 @@
 ---
 title: NVIDIA GPU Missing BIOS [Resolved]
-date: 2024-12-08T07:04:55.402Z
-updated: 2024-12-09T18:00:16.345Z
+date: 2024-12-13T17:27:48.939Z
+updated: 2024-12-16T09:07:19.341Z
 tags:
   - win11
   - win10
@@ -20,12 +20,20 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/device-manager-graphics-card.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
 1. **[Show Hidden Devices and Reinstall Graphics Driver Manually](#h-method-1-show-hidden-devices-and-reinstall-graphics-driver-manually)**
 2. **[Update the NVIDIA Graphics Driver](#h-method-2-update-the-nvidia-graphics-driver)**
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
@@ -38,20 +46,20 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
  To uninstall the device, right-click on the device name and select**Uninstall** from the context menu. The following screenshot is for your reference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 3: Restore BIOS to Default**
@@ -120,24 +120,20 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-bring-your-sims-4-gameplay-to-life-on-screen/"><u>[New] Bring Your Sims 4 Gameplay to Life on Screen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos-for-2024/"><u>[New] Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-film-storage-computing-the-days-gb-footprint/"><u>[New] Film Storage Computing the Day's GB Footprint</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-tiktok-to-twitter-a-step-by-step-guide/"><u>[Updated] From TikTok to Twitter A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-displays-surface-pro-7-sync-issues/"><u>Fixing Displays: Surface Pro 7 Sync Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-display-contrast-on-lenovo-models/"><u>Improving Display Contrast on Lenovo Models</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/influencing-earnings-through-channel-partnerships-for-2024/"><u>Influencing Earnings Through Channel Partnerships for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New From Start to Finish How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-help-focus-on-fixes-not-displays/"><u>NVIDIA GPU Help: Focus on Fixes Not Displays</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210764791--practical-magick/"><u>Practical Magick | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rapidly-revamping-your-computer-driver-cleansing/"><u>Rapidly Revamping Your Computer: Driver Cleansing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-for-shutdown-screen-failures-in-pcs/"><u>Solutions for Shutdown Screen Failures in PCs</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-to-downloading-mozilla-air-video-content-in-various-formats/"><u>Step-by-Step Guide to Downloading Mozilla Air Video Content in Various Formats</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-screen-saving-solutions-for-win-710-problems-solved/"><u>Streamline Screen Saving: Solutions for Win 7/10 Problems [Solved]</u></a></li>
-<li><a href="https://fox-links.techidaily.com/understanding-slug-lines-essentials-and-application-guide/"><u>Understanding Slug Lines Essentials & Application Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrade-to-high-end-gaming-new-drivers-for-amds-hd-6950-on-windows-10/"><u>Upgrade to High-End Gaming: New Drivers for AMD's HD 6950 on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-overcoming-challenges-with-dual-graphics-cards/"><u>Windows 10: Overcoming Challenges with Dual Graphics Cards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-social-media-lands-point-10-secrets-for-fb-optimization/"><u>[Updated] Mastering the Social Media Lands Point 10 Secrets for FB Optimization</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-11-pe/"><u>簡単にWindows 11 PEからブータブルディスクを制作するテクニック</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818238108-bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-disappearing-touchpad-pointer-problems-in-windows-11-systems/"><u>Fixing Disappearing Touchpad Pointer Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-the-c1900101-problem-during-windows-11-boot-up/"><u>Fixing the C1900101 Problem During Windows 11 Boot Up</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gaming-faceoff-evaluating-the-differences-between-nintendos-switch-lite-and-oled-editions/"><u>Gaming Faceoff: Evaluating the Differences Between Nintendo's Switch Lite & OLED Editions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-can-you-transform-videots-files-into-mp4-format-utilizing-the-vlc-media-player/"><u>How Can You Transform Video_TS Files Into MP4 Format Utilizing the VLC Media Player?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screenshots-fix-stopped-inconsistent-flashing/"><u>Laptop Screenshots Fix: Stopped Inconsistent Flashing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterpiece-creation-in-ae-with-top-tier-plugin-selection/"><u>Masterpiece Creation in AE with Top-Tier Plugin Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-vr-quest-3-a-mixed-reality-odyssey/"><u>Meta VR Quest 3: A Mixed Reality Odyssey</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilized-amd-radeon-r9-performance-with-w10-drivers-armor/"><u>Stabilized AMD Radeon R9 Performance with W10 Drivers Armor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-win11-flickering-distraction/"><u>Stop Win11 Flickering Distraction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-gpu-hangs-keeping-system-running/"><u>Troubleshooting GPU Hangs: Keeping System Running</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-the-best-5-tools-for-youtube-video-url-shortening/"><u>Unveiling the Best 5 Tools for YouTube Video URL Shortening</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-made-simple/"><u>Windows Sharpness Made Simple</u></a></li>
 </ul></div>
 
