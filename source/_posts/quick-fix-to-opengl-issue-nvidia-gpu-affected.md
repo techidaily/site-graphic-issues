@@ -1,7 +1,7 @@
 ---
 title: Quick Fix to OpenGL Issue - NVIDIA GPU Affected
-date: 2024-12-10T20:04:36.170Z
-updated: 2024-12-15T20:36:42.814Z
+date: 2024-12-21T22:54:15.676Z
+updated: 2024-12-25T00:07:06.971Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -53,25 +57,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -89,6 +81,10 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -97,28 +93,32 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,24 +144,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-vr-films-that-you-should-never-miss/"><u>[New] 2024 Approved Top VR Films That You Should Never Miss</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-twitch-time-travel-regain-control-over-streams/"><u>[New] 2024 Approved Twitch Time Travel Regain Control Over Streams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-best-waterproof-tech-action-cameras-roundup/"><u>[New] 2024 Approved Unveiling Best Waterproof Tech Action Cameras Roundup</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-effortless-selection-of-personal-ending-music-samples/"><u>[Updated] 2024 Approved Effortless Selection of Personal Ending Music Samples</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creating-a-spherical-experience-best-practices-for-panoramic-film-9-essentials/"><u>[Updated] In 2024, Creating a Spherical Experience Best Practices for Panoramic Film (9 Essentials)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/avoiding-pitfalls-in-intel-gfx-update-for-win7-users/"><u>Avoiding Pitfalls in Intel Gfx Update for Win7 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-gaming-with-updated-nvidia-geforce-210-for-wins11/"><u>Boost Your PC Gaming with Updated NVIDIA GeForce 210 for Wins11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/darkness-dissipates-lenovo-screen-solution/"><u>Darkness Dissipates - Lenovo Screen Solution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-display-configuration-in-windows-11/"><u>Enhanced Display Configuration in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-visual-clarity-in-fc6-interface/"><u>Enhancing Visual Clarity in FC6 Interface</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igfx-resilience-shown-successful-recovery/"><u>IGFX Resilience Shown: Successful Recovery</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-total-insight-navigating-through-googles-podcast-app/"><u>In 2024, Total Insight Navigating Through Google's Podcast App</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mend-windows-11-reversed-screen-fix/"><u>Mend Windows 11: Reversed Screen Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-past-steam-file-restrictions-errors/"><u>Navigating Past Steam File Restrictions Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pixel-power-in-your-palm-the-google-pixel-5-review-for-savvy-smartphone-shoppers/"><u>Pixel Power in Your Palm: The Google Pixel 5 Review for Savvy Smartphone Shoppers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refined-display-features-now-in-windows-11/"><u>Refined Display Features Now In Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revolutionize-your-visuals-latest-hd-6950-driver-update-on-win10/"><u>Revolutionize Your Visuals: Latest HD 6950 Driver Update on Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rtx-2060-super-graphics-card-drivers-for-windows-11-free-download/"><u>RTX 2060 Super Graphics Card Drivers for Windows 11 – Free Download</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-critical-alternatives-to-twitter-the-best-5/"><u>[New] 2024 Approved Critical Alternatives to Twitter The Best 5</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-globe-spin-cameras-versus-three-dimensional-photography-for-2024/"><u>[New] Globe-Spin Cameras versus Three-Dimensional Photography for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-podcastpioneer-diving-beyond-dacast/"><u>[New] In 2024, PodcastPioneer Diving Beyond DaCast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-premium-download-options-for-mp4-for-2024/"><u>[Updated] Explore Premium Download Options for MP4 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/"><u>Eliminating Blurry Displays with Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-pixel-gap-phenomena-computer-screens/"><u>Fix Pixel Gap Phenomena (Computer Screens)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-z-fold-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy Z Fold 5 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-maintaining-clear-views-in-win7/"><u>Master the Art of Maintaining Clear Views in Win7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-flaky-asus-webcam-features/"><u>Reactivating Flaky ASUS Webcam Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-direct3d-deployment-achieved/"><u>Seamless Direct3D Deployment Achieved</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-eliminate-windows-unknown-value-warning/"><u>Strategies to Eliminate Windows Unknown Value Warning</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-data-retrieval-solution-for-mac-bring-back-your-valuable-pictures-movies-and-contacts-easily/"><u>Ultimate iPhone Data Retrieval Solution for Mac - Bring Back Your Valuable Pictures, Movies, and Contacts Easily</u></a></li>
 </ul></div>
 

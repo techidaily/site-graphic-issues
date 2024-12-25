@@ -1,7 +1,7 @@
 ---
 title: Angled Monitor Repair for Sideways Viewing
-date: 2024-12-11T19:26:16.423Z
-updated: 2024-12-16T05:56:14.461Z
+date: 2024-12-19T06:44:50.956Z
+updated: 2024-12-25T02:07:11.695Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
@@ -52,17 +52,13 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 This should restore your laptop screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -78,11 +74,15 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,16 +105,21 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-quick-tips-for-ios-screen-record/"><u>[New] Quick Tips for iOS Screen Record</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-error-43-issue-sorted/"><u>Graphic Error 43 - Issue Sorted</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 14 Plus</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-experience-with-youtubes-comment-features/"><u>In 2024, Streamline Your Experience with YouTube's Comment Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximizing-fun-factor-with-tweaked-god-of-war/"><u>Maximizing Fun Factor with Tweaked 'God of War'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavijpegweb/"><u>Movaviで簡単JPEGに変更する:無料WEBツール</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-corrupt-os-issues-a-comprehensive-guide-solutions-from-yl-computing/"><u>Resolving Corrupt OS Issues: A Comprehensive Guide - Solutions From YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/securing-enhanced-performance-via-intelldriver-refresh-win7/"><u>Securing Enhanced Performance via IntellDriver Refresh (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-monitor-settlement-completed/"><u>Win10 Monitor Settlement Completed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-latency-issue-addressed-for-laptop-gpu/"><u>Windows 11 Latency Issue Addressed for Laptop GPU</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-boosting-patient-engagement-through-fb-health-ads-for-2024/"><u>[New] Boosting Patient Engagement Through FB Health Ads for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ashtags-that-elevate-your-channels-visibility-and-value-for-2024/"><u>[New] Hashtags that Elevate Your Channels' Visibility & Value for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-light-the-way-three-no-fail-iphone-video-brilliance-hacks/"><u>[New] Light the Way Three No-Fail iPhone Video Brilliance Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-your-wit-kapwing-meme-creator-guide/"><u>[New] Master Your Wit Kapwing Meme Creator Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-essential-steps-to-apply-a-creative-commons-copyright/"><u>2024 Approved Essential Steps to Apply a Creative Commons Copyright</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-available-screen-options-with-nvidia/"><u>Bringing Back Available Screen Options with NVidia</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-lenovo-ideapad-130s-confronting-power-boundaries-and-surprising-ease-of-use/"><u>Comprehensive Review of Lenovo IdeaPad 130S: Confronting Power Boundaries and Surprising Ease-of-Use</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-to-legally-downloading-syfy-tv-show-episodes-and-videos/"><u>Guide to Legally Downloading Syfy TV Show Episodes and Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-gpu-activation-a-success-story-in-win11/"><u>Laptop GPU Activation: A Success Story in Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-mobile-vertical-panoramas-in-action-for-2024/"><u>Mastering Mobile Vertical Panoramas in Action for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/permanent-solution-to-asus-monitor-flicker/"><u>Permanent Solution to ASUS Monitor Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-unresponsive-touchscreen/"><u>Resolving Lenovo Unresponsive Touchscreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-resolution-strategies-gpus-alone/"><u>Simplified Resolution Strategies: GPUs Alone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smilesliceart-funnyphotofacility/"><u>SmileSliceArt FunnyPhotoFacility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
 </ul></div>
 

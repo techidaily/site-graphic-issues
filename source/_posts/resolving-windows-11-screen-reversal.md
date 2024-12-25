@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 11 Screen Reversal
-date: 2024-12-11T05:46:46.958Z
-updated: 2024-12-15T22:25:23.503Z
+date: 2024-12-23T16:03:16.631Z
+updated: 2024-12-25T05:56:06.808Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6e8a41ece450d9380c701774f8444979385891153
 **Note** : It would be so uncomfortable to search from Google and follow the solutions on your computer screen, so we recommend using another computer or mobile phone to search and follow the instructions below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 1: Fix screen upside down with keyboard shortcuts
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/6e8a41ece450d9380c701774f8444979385891153
  1) Right click on the empty area on your desktop, and select**Graphics Settings** or**Graphics Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/6e8a41ece450d9380c701774f8444979385891153
 
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Method 2: Fix screen upside down via Display settings
 
  You can also modify the Display settings in Windows 10 to fix the**screen upside down issue** . To do so:
@@ -71,21 +71,17 @@ thumbnail: https://thmb.techidaily.com/6e8a41ece450d9380c701774f8444979385891153
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still no luck? Don’t be upset. There’s one more thing to try…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 3: Fix screen upside down by updating graphics card driver
@@ -114,6 +110,10 @@ There are two options to update drivers in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -140,22 +140,18 @@ There are two options to update drivers in Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-final-act-steps-for-permanent-instagram-account-removal/"><u>[New] 2024 Approved The Final Act Steps for Permanent Instagram Account Removal</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cut-to-the-chase-convert-fb-vids-into-mp3s/"><u>[New] In 2024, Cut-to-the-Chase Convert FB Vids Into MP3s</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[New] In 2024, YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-text-tactics-best-practices-guide/"><u>[New] Text Tactics Best Practices Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-snug-winter-atmospheres-for-engaging-online-content-for-2024/"><u>[Updated] Crafting Snug Winter Atmospheres for Engaging Online Content for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-winbluescreen-tackle-wdf-api-crashes-on-windows/"><u>Banish WinBlueScreen: Tackle WDF API Crashes on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-disposal-in-windows-instant-guide-for-graphics/"><u>Drive Disposal in Windows: Instant Guide for Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enigmatic-dx-glitch-now-explained-legions-resolution/"><u>Enigmatic DX Glitch Now Explained - Legion's Resolution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-zte-nubia-z60-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>How Can ZTE Nubia Z60 UltraMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mystery-direct-x-issue-culprit-identified-in-leagues-realm/"><u>Mystery Direct X Issue: Culprit Identified in League's Realm</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-addressed-driver-returns-to-form/"><u>Nvidia Error Addressed - Driver Returns to Form</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-amd-in-tarkov-quick-graphics-cure/"><u>Resolve AMD in Tarkov: Quick Graphics Cure</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spotlight-on-top-8-sites-where-3d-meets-lustrous-text-for-2024/"><u>Spotlight on Top 8 Sites Where 3D Meets Lustrous Text for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-screen-stabilize-horizontal-edges/"><u>Transform Your Screen - Stabilize Horizontal Edges</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts-for-2024/"><u>Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-issues-end-with-windows-10-update/"><u>Video Issues End with Windows 10 Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-achieving-prominence-with-apples-listings/"><u>[New] Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dragons-echo-leading-places-to-acquire-got-audio-calls/"><u>[New] In 2024, Dragon's Echo Leading Places to Acquire GoT Audio Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-no-money-no-problem-free-pinterest-video-extractors/"><u>[New] No Money? No Problem! Free Pinterest Video Extractors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>2024 Approved Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-premium-clock-selections-for-your-big-day-on-mobile/"><u>In 2024, Premium Clock Selections for Your Big Day on Mobile</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-profit-mastery-on-youtube-a-cross-device-guide/"><u>In 2024, Profit Mastery on YouTube A Cross-Device Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-silence-card-upgrade/"><u>Monitor Silence, Card Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-radiance-to-rugged-reality-views/"><u>Restoring Radiance to Rugged Reality Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-display-normalized-after-fix/"><u>Screen Display Normalized After Fix</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streaming-hd-1080p-on-facebook-tips-and-tricks-for-2024/"><u>Streaming HD 1080P on Facebook Tips and Tricks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818375975-tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-crashes-in-stardew-valley-for-windows-and-mac-users/"><u>Troubleshooting Continuous Crashes in Stardew Valley for Windows and Mac Users</u></a></li>
 </ul></div>
 

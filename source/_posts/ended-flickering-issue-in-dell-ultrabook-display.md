@@ -1,7 +1,7 @@
 ---
 title: Ended Flickering Issue in Dell Ultrabook Display
-date: 2024-12-12T05:56:29.631Z
-updated: 2024-12-16T06:02:26.499Z
+date: 2024-12-22T19:10:26.779Z
+updated: 2024-12-25T02:55:28.970Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
  If you’ve been experiencing too much**screen flickering** issue on your**Dell** laptop lately, don’t worry. It’s usually not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For Dell Laptop Screen Flickering
 
 All the fixes below work in **Windows 10** ,   **7**  and **8.1** .
@@ -32,10 +36,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change the power plan and restore default settings
 
  Changing your power plan to high performance and restore it to default settings is a proven effective way to get rid of this**screen flashing on Dell laptop** issue. To do so:
@@ -44,16 +44,28 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the**High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a803558e52.jpg)
 3. Click **Restore default settings for this plan** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b740b5511476.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes**   to confirm the restore.
 4. Restart your computer for the changes to take effect.
 5. Check to see if the flickering issue has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -72,10 +84,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 3. Keep track of your laptop screen and see if it displays properly this time. Still no joy? Please move on to**Fix 4** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **I’m using Windows 8 or 7:**
 
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
@@ -84,10 +92,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)  
  Still no joy? Please move on to**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -105,12 +109,16 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -127,15 +135,11 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  
  and **R**  at the same time. Then type**services.msc** into the box and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a691fe0c.png)
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
@@ -146,10 +150,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
 5. Restart your computer and hopefully your laptop screen displays normally again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -185,24 +185,22 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ause-autoplay-on-youtube-suggested-videos/"><u>[New] Pause Autoplay on YouTube Suggested Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhance-social-gaming-experience-xbox-to-fb-livestream/"><u>[Updated] 2024 Approved Enhance Social Gaming Experience Xbox to FB Livestream</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enlightenment-streams-foremost-ed-resources-online-for-2024/"><u>[Updated] Enlightenment Streams Foremost Ed Resources Online for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/best-windows-compatible-yahoo-email-backup-software-secure-and-user-friendly-options/"><u>Best Windows-Compatible Yahoo Email Backup Software: Secure & User-Friendly Options</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-dark-screen-win11/"><u>Cursor's Comeback in Dark Screen Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discount-alert-get-30-off-shop-now-for-the-durable-anker/"><u>Discount Alert: Get $30 Off - Shop Now for the Durable Anker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-on-windows-10-with-nvidia-210-drivers/"><u>Enhanced Graphics on Windows 10 with NVIDIA 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won't Turn On Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-huawei-nova-y71-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Huawei Nova Y71?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mystery-solved-win11-screen-glitch/"><u>Mystery Solved: Win11 Screen Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-edge-nvidias-w11-compatible-geforce-210-drivers/"><u>New Edge: NVIDIA's W11-Compatible GeForce 210 Drivers</u></a></li>
-<li><a href="https://fox-place.techidaily.com/profi-tipps-zur-wiederherstellung-von-chk-dateien-mit-einfachen-methoden/"><u>Profi-Tipps Zur Wiederherstellung Von CHK-Dateien Mit Einfachen Methoden</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-transition-seamless-intel-drivers-on-win7-platforms/"><u>Smooth Transition: Seamless Intel Drivers on Win7 Platforms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stable-screen-view-post-fix-on-laptop-completed/"><u>Stable Screen View Post-Fix on Laptop [Completed]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-note-50-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme Note 50 FRP Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-full-resolution-customization-on-window-11/"><u>Unlocking Full-Resolution Customization on Window 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-s-hottest-video-editing-apps-for-iphone-enthusiasts/"><u>Updated 2024 Approved S Hottest Video Editing Apps for iPhone Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-display-settings-could-not-be-saved-solved/"><u>“The Display Settings Could Not Be Saved” [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/added-hidden-settings-in-windows-10-displays-unlocked/"><u>[ADDED] Hidden Settings in Windows 10 Displays Unlocked</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-a-pro-sports-youtube-feed-on-macos/"><u>2024 Approved Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-buy-launches-more-budget-friendly-xumo-smart-tvs/"><u>Best Buy Launches More Budget-Friendly Xumo Smart TVs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers-for-2024/"><u>Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-glitch-in-windows-11-operating-system/"><u>Fixing the Red Glitch in Windows 11 Operating System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone SE (2022)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mp3-mastery-in-motion-prime-10-youtube-to-mp3-transformers/"><u>In 2024, MP3 Mastery in Motion Prime 10 YouTube to Mp3 Transformers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sharing-joy-iphone-memes/"><u>In 2024, Sharing Joy IPhone Memes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-text-temporal-tinkering-tools/"><u>In 2024, Text Temporal Tinkering Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pictureweaver-pro-online-illustration-hub/"><u>PictureWeaver Pro Online Illustration Hub</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-diagonal-misalignment-in-netbooks/"><u>Resolved Diagonal Misalignment in Netbooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalized-nvidia-drivers-for-win11s-geforce-210/"><u>Revitalized NVIDIA Drivers for Win11's GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-blank-gpu-missing-2020/"><u>Screen Blank: GPU Missing [2020]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-watch-experience-now/"><u>Streamline Your Watch Experience Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-affected-by-graphics-driver-crash-repaired/"><u>System Affected by Graphics Driver Crash Repaired</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-display-fade/"><u>Troubleshooting Lenovo Display Fade</u></a></li>
 </ul></div>
 

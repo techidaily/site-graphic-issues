@@ -1,7 +1,7 @@
 ---
 title: Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!
-date: 2024-12-10T04:10:42.356Z
-updated: 2024-12-15T19:55:01.860Z
+date: 2024-12-21T16:26:37.018Z
+updated: 2024-12-24T23:07:09.078Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
  If Google Chrome has been freezing your computer since Windows 10 updates, you’ve come to the right place! This article gives practical solutions to your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 5. [**Reset Chrome settings to default**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -47,10 +55,6 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebea95ea01f.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
@@ -71,10 +75,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
 
@@ -91,14 +91,14 @@ OR
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
@@ -118,21 +118,17 @@ OR
 2. **Toggle off** all extensions to disable them.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset Chrome settings to default
 
@@ -145,14 +141,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -192,22 +192,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-chinas-low-cost-vr-solutions/"><u>[Updated] China's Low-Cost VR Solutions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-step-by-step-approach-to-crafting-customized-youtube-alerts-and-notifications/"><u>[Updated] In 2024, A Step-by-Step Approach to Crafting Customized Youtube Alerts & Notifications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-the-next-gen-gpt-4s-leap-over-gpt-35/"><u>Comparing the Next Gen: GPT-4's Leap over GPT-3.5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-recent-advances-updated-copernic-image-finding-tool-for-greater-efficiency/"><u>Discover the Recent Advances: Updated Copernic Image Finding Tool for Greater Efficiency</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-gtx-nvidia-950-cuda-compute-error-in-windows-10-solutions-and-tips/"><u>How to Fix GTX Nvidia 950 CUDA Compute Error in Windows 10 - Solutions and Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-the-gtx-similar-problem/"><u>How to Fix the GTX # Similar Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-identify-your-computer-screen-size-with-simple-steps-a-screen-resolution-guide/"><u>How To Identify Your Computer Screen Size with Simple Steps: A Screen Resolution Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-troubleshoot-and-fix-the-black-screen-problem-following-a-windows-10-system-update/"><u>How to Troubleshoot and Fix the Black Screen Problem Following a Windows 10 System Update</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-accessing-and-archiving-your-facebook-status-vids/"><u>In 2024, Accessing and Archiving Your Facebook Status Vids</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-crafting-harmonious-photographic-mosaics-with-ease/"><u>In 2024, Crafting Harmonious Photographic Mosaics with Ease</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>In 2024, Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximize-frame-rate-performance-essential-guide-with-6-pro-tips-for-gamers/"><u>Maximize Frame Rate Performance: Essential Guide with 6 Pro Tips for Gamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximize-your-fps-top-6-strategies-for-enhanced-performance/"><u>Maximize Your FPS: Top 6 Strategies for Enhanced Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvstreamuseraagentexe-application-error-on-windows-solved/"><u>NvStreamUseraAgent.exe Application Error on Windows [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-post-update-black-screen-issue-on-windows-10/"><u>Resolve Post-Update Black Screen Issue on Windows 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/starting-point-decoding-display-resolution-basics/"><u>Starting Point Decoding Display Resolution Basics</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-3-ways-to-download-youtubes-standardized-thumbnails/"><u>[New] 2024 Approved Unlock 3 Ways to Download YouTube’s Standardized Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-wealth-tactics-for-transforming-passion-projects-into-paid-opportunities/"><u>[New] Insta-Wealth Tactics for Transforming Passion Projects Into Paid Opportunities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds/"><u>[New] Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-speak-the-code-vr-lingo-essentials/"><u>[Updated] Speak the Code VR Lingo Essentials</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-swift-screen-tape-with-sound-included/"><u>[Updated] Swift Screen Tape with Sound Included</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>2024 Approved Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eclipse-ended-for-windows-11-fall-patch-fixes/"><u>Eclipse Ended for Windows 11 - Fall Patch Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-windows-graphics-via-basic-driver-tweaks/"><u>Improving Windows Graphics via Basic Driver Tweaks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/post-fall-update-blackout-no-more-in-win10/"><u>Post-Fall Update Blackout No More in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-computers-oversight-of-gpu/"><u>Rectifying Computer's Oversight of GPU</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-workplace-technology-how-apples-vision-pro-enables-efficient-enterprise-devices-management-featured/"><u>Revolutionizing Workplace Technology: How Apple's Vision Pro Enables Efficient Enterprise Devices Management - Featured</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-firmware-update/"><u>Window's 10 Display Firmware Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-new-level-of-display-customization-released/"><u>Windows 11: New Level of Display Customization Released</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-strategy-for-developing-your-own-coding-portfolio/"><u>ZDNet's Ultimate Strategy for Developing Your Own Coding Portfolio</u></a></li>
 </ul></div>
 

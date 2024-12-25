@@ -1,7 +1,7 @@
 ---
 title: "ASUS Internal Cameras: Fixed and Running"
-date: 2024-12-08T02:36:14.584Z
-updated: 2024-12-10T02:45:50.321Z
+date: 2024-12-24T00:45:52.313Z
+updated: 2024-12-25T06:31:42.520Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Press the hotkey to enable the camera
 
  Prior to troubleshooting steps, you can try enabling your Asus camera by pressing the**Fn + F10** at the same time. Check if there’s a “**Camera On** ” message on the desktop.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
  Note that the hotkey’s functions may be different based on different models. If the combination doesn’t work, you can download the user manual by visiting the [**Asus official website**](https://www.asus.com/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2\. Allow your device and apps to access the camera
@@ -49,21 +53,17 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure your camera is turned on for “**Allow access to the camera on this device** ” and “**Allow apps to access your camera** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down the page to make sure the app you want to use has access to the camera.
 
  Does this fix your Asus camera not working problem? If not, it might be caused by other device issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3\. Update the webcam driver
 
@@ -82,14 +82,14 @@ thumbnail: https://thmb.techidaily.com/178d58d377f4b203ad233ab64de23e646d3152a87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-webcam-driver-driver-easy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 After updating your drivers, restart your PC and test the camera.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Reinstall the camera driver
 
@@ -105,15 +105,15 @@ After updating your drivers, restart your PC and test the camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click **Imaging devices**  or **Camera** to expand the category.
 
  3) Right-click **Integrated Camera** and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reinstall-camera-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click **OK** to confirm.
 
@@ -142,18 +142,22 @@ After updating your drivers, restart your PC and test the camera.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-harnessing-vlcs-conversion-prowess-beyond-standard-mpeg-4/"><u>[New] 2024 Approved Harnessing VLC's Conversion Prowess Beyond Standard MPEG-4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-convert-any-youtube-tracking-ios-solutions-in-6-free-tools/"><u>[New] In 2024, Convert Any YouTube Tracking IOS Solutions in 6 Free Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-lol-meme-creator-tool/"><u>[New] In 2024, LOL Meme Creator Tool</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-image-rotation-windows-7-guide/"><u>Correct Image Rotation: Windows 7 Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-turns-dark-with-new-driver/"><u>Monitor Turns Dark with New Driver</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-this-article-inroduces-10-video-special-effects-apps-for-iphone-ipad-android-to-add-special-video-effects-to-video-with-drag-n-drop/"><u>New This Article Inroduces 10 Video Special Effects Apps for iPhone, iPad, Android to Add Special Video Effects to Video with Drag-N-Drop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-flickering-phenomenon-on-pro-7/"><u>Resolving Flickering Phenomenon on Pro 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-your-acer-aspire-with-latest-drivers-for-windows-systems/"><u>Step-by-Step Tutorial: Updating Your Acer Aspire with Latest Drivers for Windows Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/streamline-your-skype-talks-using-obs-effectively/"><u>Streamline Your Skype Talks Using OBS Effectively</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-3-most-impressive-features-of-the-ipad-and-ipad-mini/"><u>Top 3 Most Impressive Features of the iPad & iPad Mini</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-adjust-display-dimensions/"><u>Win11: Adjust Display Dimensions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-10-and-logitech-mouse-trouble-heres-how-you-can-solve-it/"><u>Windows 10 and Logitech Mouse Trouble? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-multi-image-instagram-stories-a-step-by-step-tutorial/"><u>[New] In 2024, Mastering Multi-Image Instagram Stories A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-directx12-affecting-halo-infinite-launch-sequence/"><u>[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-kingdom-the-path-to-youtube-mastery/"><u>[Updated] In 2024, Crafting Kingdom The Path to YouTube Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/8-best-drawing-apps-for-iphones-for-2024/"><u>8 Best Drawing Apps for iPhones for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-endings-how-to-decrease-volume-gradually-in-pp/"><u>Audio Endings How to Decrease Volume Gradually in PP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-display-preferences-save-error/"><u>Clearing Up Display Preferences Save Error</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-flickering-screens-on-dell-portable-device/"><u>Cured Flickering Screens on Dell Portable Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-windows-10-after-fall-shadows/"><u>Illuminating Windows 10 After Fall Shadows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-step-by-step-guide-incorporating-music-in-your-tiktok-videos/"><u>In 2024, Step-by-Step Guide Incorporating Music in Your TikTok Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screen-keeps-flickering-solved/"><u>Laptop Screen Keeps Flickering [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-intel-driver-enhancements-in-win7/"><u>Navigating Intel Driver Enhancements in Win7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-7-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-mirrored-window-issue-windows-11/"><u>Overcoming Mirrored Window Issue: Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-twixtor-effect-to-add-slow-motion-effect-to-video/"><u>Updated 2024 Approved How to Use Twixtor Effect to Add Slow-Motion Effect to Video?</u></a></li>
 </ul></div>
 

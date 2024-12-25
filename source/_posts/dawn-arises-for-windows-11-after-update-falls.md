@@ -1,7 +1,7 @@
 ---
 title: Dawn Arises for Windows 11 After Update Falls
-date: 2024-12-13T16:43:08.843Z
-updated: 2024-12-16T03:46:53.288Z
+date: 2024-12-21T19:32:11.301Z
+updated: 2024-12-24T16:03:37.052Z
 tags:
   - win11
   - win10
@@ -20,12 +20,16 @@ thumbnail: https://thmb.techidaily.com/3a6450d38ce892c7535205c29733ff7dff27b71eb
 
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unplug your external devices
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -35,13 +39,13 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -50,16 +54,12 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -77,20 +77,21 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-converging-computer-visuals-flawlessly/"><u>2024 Approved Converging Computer Visuals Flawlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensively-handle-screen-captures-on-steam/"><u>Comprehensively Handle Screen Captures on Steam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-nvidianforce-with-the-help-of-win10/"><u>Conquered: Nvidia/nForce with the Help of Win10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lava-yuva-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lava Yuva 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-11-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 11 is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-dive-deep-into-creating-lifelike-ios-photos/"><u>In 2024, Dive Deep Into Creating Lifelike iOS Photos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-iphones-dual-task-capabilities-effortlessly-for-2024/"><u>Navigate iPhone's Dual-Task Capabilities Effortlessly for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-glitch-detected-now-fixed-with-nvidias-help/"><u>OpenGL Glitch Detected, Now Fixed with NVIDIA's Help</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prepare-for-prime-time-score-nearly-half-price-on-lenovos-premium-laptops-before-octobers-big-sale-event-insider-info-from-zdnet/"><u>Prepare for Prime Time: Score Nearly Half Price on Lenovo's Premium Laptops Before October's Big Sale Event - Insider Info From ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-compatibility-boost-win11-plus-intel-gpus/"><u>Quick Compatibility Boost: Win11 + Intel GPUs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-display-synchronization-problems-pc/"><u>Resolve Display Synchronization Problems (PC)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/resolving-mkv-scsi-fixes-for-illegal-request-and-hardware-error/"><u>Resolving MKV SCSI: Fixes for 'Illegal Request' And 'Hardware Error'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-driver-update-for-amd-in-windows-10/"><u>Successful Driver Update for AMD in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-stream-success-post-upgrade/"><u>Windows 10 Stream Success Post-Upgrade</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mimicking-golden-age-filmmaking-in-contemporary-videos/"><u>[New] 2024 Approved Mimicking Golden Age Filmmaking in Contemporary Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-pitch-to-peak-steps-for-effective-adobe-audition-fades/"><u>[Updated] From Pitch to Peak Steps for Effective Adobe Audition Fades</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-gopro-karma-quest-for-altitude-dominance-for-2024/"><u>[Updated] The GoPro Karma Quest for Altitude Dominance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-gaming-and-workflow-with-updated-intelligent-graphic-drivers/"><u>Accelerate Gaming & Workflow with Updated Intelligent Graphic Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-oppo-a59-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Oppo A59 5G.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-alone-in-windows-10/"><u>Cursor Alone in Windows 10</u></a></li>
+<li><a href="https://win-help.techidaily.com/diskpart-naffiche-plus-de-fonctions-solutions-rapides-pour-reinitialiser-en-francais/"><u>Diskpart N'affiche Plus De Fonctions - Solutions Rapides Pour Réinitialiser en Français</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-malfunction-no-detected-card/"><u>Display Malfunction: No Detected Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-video-performance-after-win11-update/"><u>Enhanced Video Performance After Win11 Update</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-15-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone 15 Plus without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-microtransaction-integration-essential-in-premiums/"><u>Is Microtransaction Integration Essential in Premiums?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-device-creation-mishap/"><u>Rectified Device Creation Mishap</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-interruptions-master-the-art-of-preventing-crashes-in-diablo-immortal-pc/"><u>Say Goodbye to Interruptions: Master the Art of Preventing Crashes in Diablo Immortal (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-interruptions-in-win11s-live-streaming/"><u>Tackling Interruptions in Win11's Live Streaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mending Disconnected Laptop and TV via HDMI
-date: 2024-12-15T07:38:17.412Z
-updated: 2024-12-16T00:57:09.562Z
+date: 2024-12-20T23:40:06.919Z
+updated: 2024-12-24T19:46:04.786Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
  Why is HDMI from laptop to TV not working? Usually, it’s the hardware faulty, so make sure your hardware devices are working properly. Another possible reason is that your TV is not recognized by your laptop. And you can try these solutions to fix your problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix HDMI laptop to TV not working
 
  Here are the fixes you can try. You don’t have to try them all; just work your way down the list until everything’s working again.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 3. [Update available drivers](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart and reconnect your devices
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure your Display Settings
@@ -70,7 +66,7 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
@@ -102,6 +98,10 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
  SO that’s it. Hope this post helps in resolving your**HDMI laptop to TV not working** problem.
@@ -124,17 +124,18 @@ The difference between each mode is as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[New] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-higher-engagement-a-guide-to-youtube-success/"><u>[New] Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-connection-to-blizzard-game-server-lost/"><u>[SOLVED] Connection to Blizzard Game Server Lost</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-transformative-editing-mastering-blend-mode-applications/"><u>[Updated] Transformative Editing Mastering Blend Mode Applications</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/charting-new-realms-with-ultra-hd-resolution-4k-explored/"><u>Charting New Realms with Ultra HD Resolution - 4K Explored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-pathway-to-windows-8s-secure-boot-graphics-card-driver-eradication/"><u>Expert Pathway to Windows 8'S Secure Boot - Graphics Card Driver Eradication</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-non-registered-graphics-devices-on-pcs/"><u>Fixing Non-Registered Graphics Devices on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/getting-past-dxgkrnlsys-bsod-on-pc/"><u>Getting Past dxgkrnl.sys BSOD on PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c02-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C02 Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-graphics-transition-in-windows-10-with-nvidiaintel/"><u>Seamless Graphics Transition in Windows 10 with Nvidia/Intel</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-power-problems-in-windows-11-systems/"><u>Troubleshooting Persistent Power Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-freedom-in-sound-extracting-audio-magic-with-pazera/"><u>[New] In 2024, Freedom in Sound Extracting Audio Magic with Pazera</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors/"><u>[New] Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-essential-techniques-5-methods-for-superior-tiktok-captioning/"><u>[Updated] 2024 Approved Essential Techniques 5 Methods for Superior TikTok Captioning</u></a></li>
+<li><a href="https://facebook.techidaily.com/codifying-conduct-formulating-a-code-for-your-fb-group/"><u>Codifying Conduct: Formulating a Code for Your Fb Group</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blackout-in-windows-11-after-fall-update/"><u>Ending Blackout in Windows 11 After Fall Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gameplay-enhancement-no-more-lags/"><u>Gameplay Enhancement: No More Lags</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-non-detection-seek-immediate-assistance/"><u>GPU Non-Detection, Seek Immediate Assistance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-enhancement-new-amd-hd-6950-update-on-windows-11-os/"><u>Graphics Enhancement - New AMD HD 6950 Update on Windows 11 OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100t Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-nvme-drivers-instant-download-and-setup-for-optimal-performance/"><u>Intel NVMe Drivers: Instant Download and Setup for Optimal Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-troubleshoot-successful/"><u>Lenovo TapScreen Troubleshoot Successful</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-visibility-lenovos-brightening-guide/"><u>Restoring Visibility: Lenovo's Brightening Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/uavs-explained-the-basics-of-drone-systems-and-operations-for-2024/"><u>UAVs Explained The Basics of Drone Systems and Operations for 2024</u></a></li>
 </ul></div>
 

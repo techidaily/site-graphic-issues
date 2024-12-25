@@ -1,7 +1,7 @@
 ---
 title: Lighting Up Windows 11'S Dark Side After Creator's
-date: 2024-12-12T02:21:33.338Z
-updated: 2024-12-16T01:59:00.257Z
+date: 2024-12-21T03:48:02.388Z
+updated: 2024-12-25T05:42:28.184Z
 tags:
   - win11
   - win10
@@ -24,24 +24,28 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall display card driver
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -51,16 +55,12 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,20 +77,17 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-in-one-data-salvage-program-expert-solutions-for-extracting-vital-information/"><u>All-in-One Data Salvage Program – Expert Solutions for Extracting Vital Information</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-steps-for-your-systems-ghosted-gpu/"><u>Diagnosing: Steps for Your System's Ghosted GPU</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/download-fb-links-8-free-online-tools-for-2024/"><u>Download FB Links 8 FREE, Online Tools for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818019053-graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-error-cleared-system-unaffected/"><u>Graphics Error Cleared: System Unaffected</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-find-x7-ultra-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Find X7 Ultra Lock Screen Password?</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/how-to-create-your-own-music-cds-using-imgburn-a-simple-guide/"><u>How to Create Your Own Music CDs Using ImgBurn - A Simple Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-y27-4g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Y27 4G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10-4g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10 4G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-a-smooth-apex-play/"><u>Quick Fixes for a Smooth Apex Play</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-process-of-acquiring-asus-bluetooth-drivers-downloading-and-updating-tutorials/"><u>Seamless Process of Acquiring ASUS Bluetooth Drivers: Downloading & Updating Tutorials</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/speedy-fixes-eradicate-game-lag/"><u>Speedy Fixes: Eradicate Game Lag</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-magic-6-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor Magic 6 Phone Pattern Lock</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winxvideos-top-tier-ai-facial-restoration-tool/"><u>WinxVideo's Top-Tier AI Facial Restoration Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free-for-2024/"><u>[New] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-laptop-snap-issues-stable-screen-now/"><u>Fixed Laptop Snap Issues - Stable Screen Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-realtek-card-software-for-windows-10-free-download/"><u>Get the Latest Realtek Card Software for Windows 10 - Free Download</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-critical-error-c1900101-during-windows-11-installation/"><u>How to Fix Critical Error C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-deciphering-screen-recorders-bandicam-or-camtasia/"><u>In 2024, Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-drivers-return-to-normalcy-all-clear/"><u>Nvidia Drivers: Return to Normalcy, All Clear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-nvidia-windows-clash-issue-now-solved/"><u>Overcoming Nvidia-Windows Clash: Issue Now Solved</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-fixing-unresponsive-windows-software-problems/"><u>Preventing and Fixing Unresponsive Windows Software Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-system-easy-driver-deletion-guide/"><u>Simplify System: Easy Driver Deletion Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-fixing-camera-failures-with-error-code-0xa00f4244-in-windows-systems/"><u>Troubleshooting Guide: Fixing Camera Failures with Error Code 0xA00F4244 in Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-potential-of-audience-feedback-on-youtube-for-2024/"><u>Unlock the Potential of Audience Feedback on YouTube for 2024</u></a></li>
 </ul></div>
 

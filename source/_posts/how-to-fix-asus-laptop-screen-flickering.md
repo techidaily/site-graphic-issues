@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2024-12-12T20:46:40.038Z
-updated: 2024-12-15T18:32:32.644Z
+date: 2024-12-23T00:55:50.579Z
+updated: 2024-12-24T23:00:13.470Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
@@ -48,15 +52,11 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -64,12 +64,12 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
@@ -104,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -156,20 +156,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-safedrive-backup-specialists-take/"><u>[New] SafeDrive Backup Specialists' Take</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tips-for-a-swift-submission-into-apple-catalog/"><u>[New] Tips for a Swift Submission Into Apple Catalog</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-future-of-action-photography-starts-here-xs-100-i-reviewed/"><u>[Updated] 2024 Approved The Future of Action Photography Starts Here - XS 100 I Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-facetune-experience-enthusiasts/"><u>2024 Approved The Ultimate Facetune Experience Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-fuzzy-interface-details-in-far-cry-6/"><u>Fixing Fuzzy Interface Details in Far Cry 6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-invisible-screen/"><u>GPU Error: Invisible Screen</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-s18-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S18 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/issues-with-launching-mass-effect-legendary-edition-solutions-explored/"><u>Issues with Launching Mass Effect Legendary Edition - Solutions Explored</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/method-to-fetch-unintentionally-removed-iphone-data-via-stellar-application/"><u>Method to Fetch Unintentionally Removed iPhone Data via Stellar Application</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-obstacles-in-youtubes-chroma-key-setup/"><u>Overcoming the Obstacles in YouTube's Chroma Key Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-inconsistent-monitor-flashes-in-laptops/"><u>Resolved Inconsistent Monitor Flashes in Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resurrect-your-asus-video-recorder/"><u>Resurrect Your ASUS Video Recorder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tarkov-visual-fix-swifter-amd-graphics-remedy/"><u>Tarkov Visual Fix: Swifter AMD Graphics Remedy</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfx-driver-error-resolved-device-operational-again/"><u>XFX Driver Error Resolved: Device Operational Again</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-going-bold-on-instagram-techniques-to-trend-worldwide/"><u>[New] In 2024, Going Bold on Instagram Techniques to Trend Worldwide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-strategic-approaches-accumulating-top-notch-backdrop-imagery/"><u>[Updated] Strategic Approaches Accumulating Top-Notch Backdrop Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-composing-captivating-cinematic-synopses/"><u>2024 Approved Composing Captivating Cinematic Synopses</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unleash-the-power-of-your-devices-for-effective-fb-streaming/"><u>2024 Approved Unleash the Power of Your Devices for Effective FB Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-light-back-to-your-twitch-video/"><u>Bring Light Back to Your Twitch Video</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-gimp-evaluation-the-ultimate-open-source-multimedia-tool/"><u>Comprehensive GIMP Evaluation: The Ultimate Open-Source Multimedia Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-room-gfx-card-updation/"><u>Dark Room - GFX Card Updation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-channel-building-essentials-for-2024/"><u>Mastering YouTube Channel-Building Essentials for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimized-gaming-amd-radeon-hd-6950-on-windows-11-update/"><u>Optimized Gaming: AMD Radeon HD 6950 on Windows 11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swifter-play-eliminate-amd-tarkov-glitches-now/"><u>Swifter Play: Eliminate AMD Tarkov Glitches Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swiftly-enhance-win10-with-intel-graphics-drivers/"><u>Swiftly Enhance Win10 with Intel Graphics Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-how-to-effortlessly-remove-audio-from-youtube-content/"><u>Ultimate Guide: How to Effortlessly Remove Audio From YouTube Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-error-monitor-refuses-fullscreen-view/"><u>Win11 Error: Monitor Refuses Fullscreen View</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-against-valorant-launch-delays-on-your-pc-top-strategies-and-tips/"><u>Winning Against Valorant Launch Delays on Your PC - Top Strategies and Tips</u></a></li>
 </ul></div>
 

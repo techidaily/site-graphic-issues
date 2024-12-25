@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2024-12-11T03:15:15.652Z
-updated: 2024-12-16T06:18:59.257Z
+date: 2024-12-18T16:47:39.888Z
+updated: 2024-12-24T17:48:16.667Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix my problem switchable graphic cards?
 
  If you are having problem with your switchable graphics, here are 4 resolutions that you can have a try at. You may not have to try them all; just work your way down until you find the one works for you.
@@ -47,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -95,15 +87,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -115,12 +111,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -142,24 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-enhance-virtual-interaction-top-7-technologies-revealed/"><u>[New] Enhance Virtual Interaction - Top 7 Technologies Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4/"><u>[Updated] Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>[Updated] In 2024, Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigating-through-the-best-youtube-to-avi-options/"><u>[Updated] In 2024, Navigating Through the Best YouTube-to-AVI Options</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-what-separates-panoramic-from-immersion-filmmaking/"><u>2024 Approved What Separates Panoramic From Immersion Filmmaking?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipating-the-arrival-of-apples-next-gen-macbook-air-and-ipads-by-march-what-you-need-to-know-exclusive-report-on-zdnet/"><u>Anticipating the Arrival of Apple's Next-Gen MacBook Air and iPads by March - What You Need to Know | Exclusive Report on ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/excel-essentials-unlocking-data-management-with-advanced-filter-techniques/"><u>Excel Essentials: Unlocking Data Management with Advanced Filter Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-tips-securing-and-implementing-your-hp-840-g3-printing-software/"><u>Expert Tips: Securing and Implementing Your HP 840 G3 Printing Software</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-on-amds-hd-6950-drivers-now-available-for-w11/"><u>Game On! AMD's HD 6950 Drivers Now Available for W11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-razer-naga-software-updates-for-windows-users/"><u>Get the Latest Razer Naga Software Updates for Windows Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jumpstart-your-apex-playtime-with-precision-fixes/"><u>Jumpstart Your Apex Playtime with Precision Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-in-new-windows-11/"><u>Overcoming Streaming Hiccups in New Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-graphics-error-now-resolved/"><u>Overwatch Graphics Error Now Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-adjustment-fix-screen-horizontal-lines/"><u>Precision Adjustment - Fix Screen Horizontal Lines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transitioning-to-ultra-high-definition-with-4k/"><u>Transitioning to Ultra High-Definition with 4K</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tweak-windows-10-display-larger-than-desired/"><u>Tweak: Windows 10 Display Larger Than Desired</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vanished-ampere-card-revealed-in-logs/"><u>Vanished Ampere Card Revealed in Logs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winos-bluescreen-resolution-tackle-wdf-errors/"><u>WinOS BlueScreen Resolution: Tackle WDF Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-enhancing-action-sequences/"><u>'God of War': Enhancing Action Sequences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>[New] The Symphony of Silence Starting with a Soft Fade In</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aviiosipadiphone/"><u>AVIファイルをiOSデバイス（iPad・iPhone）で楽しむための簡単な方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-viking-world-in-depth-analysis-and-review-of-assassins-creed-valhalla/"><u>Exploring the Viking World: In-Depth Analysis and Review of Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-lit-fixing-win10-fall-blues/"><u>From Dark to Lit: Fixing Win10 Fall Blues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-google-chrome-not-opening-on-windows-11-try-these-fixes/"><u>Is Google Chrome Not Opening on Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-alignment-perfecting-edge-display/"><u>Precision Alignment: Perfecting Edge Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-and-solving-c1900101-in-windows-11-setup/"><u>Preventing and Solving C1900101 in Windows 11 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-screen-shape-in-win11/"><u>Resolved Screen Shape in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-rtx-3080-crashes-with-ease/"><u>Stop RTX 3080 Crashes with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-here-are-8-fixes-that-could-save-your-day/"><u>Tablet Touch Issues? Here Are 8 Fixes That Could Save Your Day</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-analysis-through-infographics-for-2024/"><u>Trend Analysis Through Infographics for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/uncover-amazing-savings-best-acer-deals-of-prime-day-2024/"><u>Uncover Amazing Savings: Best Acer Deals of Prime Day 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-stopped-no-gpu/"><u>Visual Output Stopped, No GPU</u></a></li>
 </ul></div>
 

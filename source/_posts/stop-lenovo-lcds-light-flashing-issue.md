@@ -1,7 +1,7 @@
 ---
 title: Stop Lenovo LCD's Light Flashing Issue
-date: 2024-12-11T00:27:09.439Z
-updated: 2024-12-16T05:12:25.897Z
+date: 2024-12-23T20:35:58.175Z
+updated: 2024-12-24T17:18:44.459Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -46,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
- If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 ## Method 2: Update your BIOS
 
@@ -71,29 +75,25 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -125,24 +125,22 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-directx12-obstacle-for-expected-halo-launch/"><u>[FIXED] DirectX12 Obstacle for Expected Halo Launch</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist-for-2024/"><u>[New] Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-leveraging-youtube-for-dynamic-instagram-stories-for-2024/"><u>[Updated] Leveraging YouTube for Dynamic Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-gopro-fixing-fish-eye-effects-in-video/"><u>2024 Approved Mastering GoPro Fixing Fish Eye Effects in Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amplifying-clarity-of-in-game-notifications/"><u>Amplifying Clarity of In-Game Notifications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-x-fold-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo X Fold 2?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/excessive-internet-traffic-from-svchostexe-uncover-the-causes-and-remedies-for-netsvcs-slowdowns/"><u>Excessive Internet Traffic From svchost.exe? Uncover the Causes and Remedies for NETsvcs Slowdowns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-11-video-issues-post-upgrade-resolved/"><u>Fixing Windows 11 Video Issues Post-Upgrade [Resolved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-honor-90mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor 90Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-elite-metaverse-visor-choices-the-top-8-list/"><u>In 2024, Elite Metaverse Visor Choices The Top 8 List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unrivaled-selection-of-top-10-mobile-video-calling-apps/"><u>In 2024, Unrivaled Selection of Top 10 Mobile Video Calling Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-gpu-support-amd-and-windows-oses/"><u>Missing GPU Support: AMD and Windows OSes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-advanced-pc-builds-and-tech-tips-from-toms-hardware-hub/"><u>Navigating Advanced PC Builds and Tech Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dimness-in-lenovo-displays/"><u>Overcoming Dimness in Lenovo Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-white-out/"><u>Overcoming Windows 10 White Out</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-reinstalling-nvidia-software/"><u>Resolved: Reinstalling NVIDIA Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-20-video-cameras-expert-reviews-for-2024/"><u>Top 20 Video Cameras – Expert Reviews for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-how-to-fix-screen-not-showing-full-window/"><u>Windows 10: How to Fix Screen Not Showing Full Window?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-decoding-digital-domain-dynamics-metaverse-edition/"><u>[New] 2024 Approved Decoding Digital Domain Dynamics Metaverse Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>[New] Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovation-in-social-media-redefining-the-role-of-facebook-stories-for-2024/"><u>[New] Innovation in Social Media Redefining the Role of Facebook Stories for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-create-captivating-yt-thumbnails-fast-for-2024/"><u>[Updated] Create Captivating YT Thumbnails Fast for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>[Updated] Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-your-pc-experience-with-new-intel-graphics-driver/"><u>Elevate Your PC Experience with New Intel Graphics Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unstable-lcd-on-dell-ultrabook-resolved/"><u>Fix: Unstable LCD on Dell Ultrabook Resolved</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v30-lite-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V30 Lite 5G Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iphone-call-recording-tutorial-steps-and-legality-guide-by-state-techtoday/"><u>IPhone Call Recording Tutorial: Steps & Legality Guide by State | TechToday</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-light-after-driver-rollout/"><u>No Light After Driver Rollout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-remedies-keep-fallout-4-playing-smoothly-on-windows/"><u>Quick Remedies: Keep Fallout 4 Playing Smoothly on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-flawless-operation-for-r9-drivers-in-w10/"><u>Restored Flawless Operation for R9 Drivers in W10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revitalized-gameplay-in-apex-legends/"><u>Revitalized Gameplay in Apex Legends</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-avoid-gpu-fires-sustain-system-operation/"><u>Tips to Avoid GPU Fires: Sustain System Operation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-stability-fixed-end-bluescreen-via-wdf-compliance/"><u>WinOS Stability Fixed: End BlueScreen via WDF Compliance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restore Windows 11 Taskbar Functionality
-date: 2024-12-10T04:57:11.941Z
-updated: 2024-12-16T01:45:09.524Z
+date: 2024-12-22T21:38:35.056Z
+updated: 2024-12-24T16:57:29.402Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -35,10 +31,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i3 2.4 Ghz** |
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Recommended system requirements for Fortnite
 
@@ -80,12 +72,16 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 3. Click **OK** then run Fortnite to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -118,14 +114,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Use your integrated graphics card
 
@@ -135,10 +135,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 5: Change scale and layout limit
 
  This solution has been proved by some users that help them fix the Fortnite black screen problem. Follow the steps below to change the display settings on your computer.
@@ -146,10 +142,6 @@ OR
 1. Right-click on your desktop screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
@@ -166,9 +158,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -193,22 +193,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-30-leading-free-platforms-for-exceptional-youtube-intros/"><u>[New] 2024 Approved 30 Leading Free Platforms for Exceptional YouTube Intros</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlocking-photo-magic-the-role-of-luts-in-editing-for-2024/"><u>[New] Unlocking Photo Magic The Role of LUTs in Editing for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-the-basics-of-setting-up-and-timing-google-meet/"><u>[Updated] 2024 Approved Navigating the Basics of Setting Up and Timing Google Meet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-ios-174s-latest-features-including-podcast-text-support-newly-introduced-emojis-and-changes-to-the-european-unions-app-marketplace-insights-for-tec178/"><u>Discover iOS 17.4'S Latest Features Including Podcast Text Support, Newly Introduced Emojis & Changes to the European Union's App Marketplace | Insights for Technology Enthusiasts - ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/expert-advice-troubleshoot-your-obs-mic-with-these-top-6-remedies/"><u>Expert Advice: Troubleshoot Your OBS Mic with These Top 6 Remedies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-silent-airpods-issues-with-bluetooth-on-windows-11-and-10/"><u>Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-get-league-of-legends-running-smoothly-again-expert-tips/"><u>How to Get League of Legends Running Smoothly Again – Expert Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-discord-voice-chat-during-gaming-game-audio-captured-successfully-now/"><u>Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-cutting-edge-text-tracking-technology/"><u>New In 2024, Cutting-Edge Text Tracking Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pc-troubleshooting-guide-deciphering-double-impact-incidents/"><u>PC Troubleshooting Guide: Deciphering Double Impact Incidents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reawaken-chrome-on-win11-essential-troubleshooting-steps/"><u>Reawaken Chrome on Win11 – Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-your-darkest-dungeon-2-stalling-problems-no-more-pc-freezes/"><u>Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/stress-free-nourishment-for-pets-the-arf-automatic-feeder-solution/"><u>Stress-Free Nourishment for Pets: The Arf Automatic Feeder Solution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-elite-selection-best-cordless-computer-mice-for-this-year/"><u>The Elite Selection: Best Cordless Computer Mice for This Year</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ultimate-fixes-for-a-seamless-halo-infinite-gaming-session/"><u>Ultimate Fixes for a Seamless Halo Infinite Gaming Session</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-perfecting-the-fury/"><u>'God of War': Perfecting the Fury</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dive-into-the-ocean-of-audio-visual-artistry-with-these-6-apps-for-2024/"><u>[New] Dive Into the Ocean of Audio-Visual Artistry With These 6 Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfectly-smooth-window-snap-tool/"><u>[New] In 2024, Perfectly Smooth Window Snap Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[Updated] 2024 Approved Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-through-the-premier-10-image-stock-websites/"><u>2024 Approved Navigating Through the Premier 10 Image Stock Websites</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-radeon-r9-crashes-win11-edition/"><u>Addressing Radeon R9 Crashes: Win11 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-strategies-to-combat-loading-lag/"><u>Efficient Strategies to Combat Loading Lag</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g-stylus-5g-2023-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G Stylus 5G (2023) Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-optimize-video-sharing-preferences-on-youtube/"><u>In 2024, Optimize Video Sharing Preferences on YouTube</u></a></li>
+<li><a href="https://win-top.techidaily.com/instantaneel-back-up-with-aomei-onekey-quick-and-easy-factory-image-restore/"><u>Instantaneel Back-Up with AOMEI OneKey: Quick & Easy Factory Image Restore</u></a></li>
+<li><a href="https://win-data.techidaily.com/les-techniques-optimales-pour-sassurer-la-sauvegarde-de-votre-serveur-windows-2022-en-cles-usb/"><u>Les Techniques Optimales Pour S'Assurer La Sauvegarde De Votre Serveur Windows 2022 en Clés USB</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-debunking-digital-audio-studio-myths-the-truth-behind-daw-for-2024/"><u>New Debunking Digital Audio Studio Myths The Truth Behind DAW for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-intel-graphics-in-minutes-on-your-windows-10/"><u>Upgrade Intel Graphics in Minutes on Your WIndows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-adjustment-mastery/"><u>Win10 Screen Adjustment Mastery</u></a></li>
 </ul></div>
 

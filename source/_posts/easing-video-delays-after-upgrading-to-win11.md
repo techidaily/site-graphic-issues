@@ -1,7 +1,7 @@
 ---
 title: Easing Video Delays After Upgrading to Win11
-date: 2024-12-08T23:39:07.386Z
-updated: 2024-12-15T21:36:51.579Z
+date: 2024-12-23T02:21:45.423Z
+updated: 2024-12-24T19:29:26.676Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Upgrade Video Players**
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6936efa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics card device to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Clean Browser Cache**
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/clear-browsing-data.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``The settings are similar in other browsers, you might need to do this with all the browsers that you have.
@@ -147,14 +147,17 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-the-art-of-cropping-in-the-digital-age-for-2024/"><u>[Updated] Mastering the Art of Cropping in the Digital Age for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/como-mover-tu-sistema-operativo-windows-del-viejo-a-un-nuevo-hardware-sin-problemas/"><u>Cómo Mover Tu Sistema Operativo Windows Del Viejo a Un Nuevo Hardware Sin Problemas</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-sims-4-blackout-bug/"><u>Eliminate Sims 4 Blackout Bug</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-13-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 13 Pro Max/Windows/Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-utilize-gpt-3-for-programming-tasks-a-guide-to-its-6-main-capabilities/"><u>How to Utilize GPT-3 for Programming Tasks: A Guide to Its 6 Main Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-in-win10-os/"><u>Monitor Not Recognizing Fullscreen in Win10 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preventing-screen-flicker-in-hp-machines/"><u>Preventing Screen Flicker in HP Machines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-non-reactive-screen/"><u>Troubleshooting Lenovo Non-Reactive Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-tricks-for-seamless-slicing-of-mtsm2ts-footage-a-comprehensive-cutters-tutorial/"><u>Ultimate Tricks for Seamless Slicing of MTS/M2TS Footage – A Comprehensive Cutter's Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-drivers-display-system-back-to-normal/"><u>[Corrected] Drivers: Display System Back to Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-your-selfies-expert-tips-on-harnessing-the-power-of-selfie-lights/"><u>Ace Your Selfies: Expert Tips on Harnessing the Power of Selfie Lights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/avoid-social-stress-how-to-unfollow-people/"><u>Avoid Social Stress How to Unfollow People</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-snippets-masterful-data-handling-with-powershell/"><u>Command Line Snippets: Masterful Data Handling with PowerShell</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/efficient-strategies-for-disk-space-management-insights-from-yl-computing/"><u>Efficient Strategies for Disk Space Management - Insights From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/invisible-impact-the-underestimated-toll-of-trick-likes/"><u>Invisible Impact The Underestimated Toll of Trick Likes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-error-flagged-by-tdr-now-safe-with-nvidia/"><u>OpenGL Error Flagged by TDR — Now Safe with NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-r9-driver-issues-on-windows-10-platform/"><u>Solving R9 Driver Issues on Windows 10 Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-launch-origin-comprehensive-solutions-for-windows-1011-playstation-gamers/"><u>Why Can't I Launch Origin? Comprehensive Solutions for Windows 10/11 PlayStation Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-teachers-can-benefit-from-ai-integration-unveiling-the-8-reasons-for-optimism-not-fear/"><u>Why Teachers Can Benefit From AI Integration - Unveiling the 8 Reasons for Optimism, Not Fear</u></a></li>
 </ul></div>
 

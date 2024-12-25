@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2024-12-14T07:58:49.245Z
-updated: 2024-12-15T18:32:50.151Z
+date: 2024-12-23T21:09:38.829Z
+updated: 2024-12-25T06:26:15.014Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  Step 4:**[Disable Fast Startup](#m5)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Perform a hard reset
@@ -51,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -89,10 +85,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -105,23 +97,31 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,24 +142,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-the-perfect-end-screen-youtube-template-guidebook-for-2024/"><u>[New] Crafting the Perfect End Screen - YouTube Template Guidebook for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-cutting-edge-watermarking-tips-to-ensure-photo-security-on-instagram/"><u>[New] Cutting-Edge Watermarking Tips to Ensure Photo Security on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-imageclarity-converter-high-res-for-all-systems/"><u>[Updated] 2024 Approved ImageClarity Converter - High Res for All Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-essential-gameplay-cams-for-live-streamers/"><u>[Updated] 2024 Approved Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-guide-to-exceptional-srt-text-management/"><u>[Updated] How-To Guide to Exceptional SRT Text Management</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-third-generation-apple-tv-4k-assessment/"><u>Comprehensive Guide: Third-Generation Apple TV 4K Assessment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-blackout-mystery/"><u>Display Blackout Mystery</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>In 2024, Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-edge-40-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Edge 40 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/manipulating-fonts-in-visual-media/"><u>Manipulating Fonts in Visual Media</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidias-swift-fix-on-opengl-driver-trouble/"><u>NVIDIA's Swift Fix on OpenGL Driver Trouble</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-update-win10-flawless-streaming-guide/"><u>Post-Update Win10: Flawless Streaming Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-display-driver-anomalies-of-r9-gpu-in-windows-10/"><u>Resolved Display Driver Anomalies of R9 GPU in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-system-efficiency-upgrading-graphics-driver-on-windows/"><u>Revive System Efficiency: Upgrading Graphics Driver on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-remedy-tarkov-and-amd-glitches-cleared/"><u>Swift Remedy: Tarkov and AMD Glitches Cleared</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-loading-lags-head-on/"><u>Tackle Loading Lags Head-On</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818200918-win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-key-components-to-a-smooth-watching-experience-facebook-livestream/"><u>[New] In 2024, Key Components to a Smooth Watching Experience Facebook Livestream</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-iphone-7-screen-a-step-by-step-guide/"><u>[Updated] 2024 Approved Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-hassle-free-tactics-sharing-igtv-in-insta-stories-for-2024/"><u>[Updated] Hassle-Free Tactics Sharing IGTV in Insta Stories for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-preventing-frame-skips-in-live-obs-broadcasts-for-2024/"><u>[Updated] Preventing Frame Skips in Live OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-your-cinematic-iphone-footage-creating-and-editing-slow-movement-sequences/"><u>2024 Approved Craft Your Cinematic iPhone Footage Creating & Editing Slow Movement Sequences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-everlasting-titles-with-millions-of-viewers/"><u>2024 Approved YouTube's Everlasting Titles with Millions of Viewers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-anthem-responsiveness/"><u>Boost Anthem Responsiveness</u></a></li>
+<li><a href="https://games-able.techidaily.com/buying-fortnite-v-bucks-for-sony-psp5-console/"><u>Buying Fortnite V-Bucks for Sony PSP5 Console</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-insight-on-the-asus-x441ba-understanding-its-benefits-and-drawbacks/"><u>Detailed Insight on the Asus X441BA: Understanding Its Benefits & Drawbacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-quality-instantly/"><u>Enhance Viewing Quality, Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensure-maximum-performance-new-nvidia-drivers-install/"><u>Ensure Maximum Performance: New Nvidia Drivers Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-lack-of-visibility/"><u>Overcoming Lenovo Lack of Visibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817944843-quick-fix-to-apex-crash-here-we-come/"><u>Quick Fix to Apex Crash, Here We Come!</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a54-5g-cant-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A54 5G can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-graphics-setup-on-windows/"><u>Secured Graphics Setup on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-system-integration-geforce-7025nforce-630a-in-win10/"><u>Smooth System Integration: GeForce 7025/nForce 630a in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-your-tablets-display-with-pro-7-tips/"><u>Stabilize Your Tablet's Display with Pro 7 Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/structured-writing-tactics-for-boosting-facebook-ad-performance-for-2024/"><u>Structured Writing Tactics for Boosting Facebook Ad Performance for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-screen-link-reconnect-your-display-promptly/"><u>Swift Screen Link: Reconnect Your Display Promptly</u></a></li>
 </ul></div>
 

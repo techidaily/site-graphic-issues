@@ -1,7 +1,7 @@
 ---
 title: Discover Hidden UI in Win10's Advanced Settings
-date: 2024-12-10T07:38:56.440Z
-updated: 2024-12-16T05:13:11.664Z
+date: 2024-12-23T23:01:22.267Z
+updated: 2024-12-24T18:19:01.308Z
 tags:
   - win11
   - win10
@@ -20,17 +20,13 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
@@ -53,19 +49,11 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
 
  Or click**Update All** to automatically update all the driver (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-393.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -83,6 +71,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
@@ -91,16 +83,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
@@ -122,19 +122,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-advantages-comprehen/"><u>[New] In 2024, Unveiling Advantages Comprehen</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-superior-ai-friends-in-virtual-space/"><u>[Updated] In 2024, Superior AI Friends in Virtual Space</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-step-by-step-guide-to-attending-live-showcases-on-tiktok-for-2024/"><u>[Updated] Step-by-Step Guide to Attending Live Showcases on TikTok for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/are-my-phone-numbers-circulating-in-facebook-groups/"><u>Are My Phone Numbers Circulating in Facebook Groups?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-hiccup-mended-recovery-complete-for-nvidia/"><u>Graphics Hiccup Mended: Recovery Complete for Nvidia</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s23-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S23 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-imaging-swift-solution-to-no-signal-dilemma/"><u>Immediate Imaging: Swift Solution to No Signal Dilemma</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/is-inshot-leading-video-cutting-tech-deep-insight-reviewed-for-2024/"><u>Is InShot Leading Video Cutting Tech? Deep Insight Reviewed for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-streamline-your-movie-collection-how-to-convert-dvds-to-digital-formats-for-2024/"><u>New Streamline Your Movie Collection How to Convert DVDs to Digital Formats for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-on-10-pcs/"><u>Overcoming Streaming Hiccups on 10 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sharpening-your-screen-avoid-flickering-issues/"><u>Sharpening Your Screen: Avoid Flickering Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-blunders-in-systems-pc/"><u>Stop Screen Blunders in Systems (PC)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-your-display-from-blinking-tips-and-tricks/"><u>Stop Your Display From Blinking: Tips & Tricks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-screen-dance-in-windows-11/"><u>[FIXED] Screen Dance in Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-erase-youtubes-short-snippet-playback-option/"><u>[Updated] Erase YouTube's Short Snippet Playback Option</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/break-the-blackout-blank-screen-on-twitch/"><u>Break the Blackout Blank Screen on Twitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719356403176-cross-language-build-system-setup/"><u>Cross-Language Build System Setup:</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dark-screenside-card-firmware/"><u>Dark Screenside: Card Firmware</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exclusive-find-rarely-spotted-displayport-plus-hdmi-dual-port-on-discontinued-asus-piston-xi3-steam-machine-surfaces/"><u>Exclusive Find: Rarely Spotted DisplayPort + HDMI Dual Port on Discontinued ASUS Piston Xi3 Steam Machine Surfaces</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-not-found-need-immediate-fix/"><u>GPU Not Found, Need Immediate Fix</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f14-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F14 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-achievable-wellness-targets-using-chatgpt-a-comprehensive-guide/"><u>Setting Achievable Wellness Targets Using ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/surpassing-expectations-4-reasons-why-claude-ai-is-superior-to-chatgpt/"><u>Surpassing Expectations: 4 Reasons Why Claude AI Is Superior to ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-on-the-dreame-bot-l10-pro-revolutionizing-cleaning-with-advanced-lidar-mapping-systems/"><u>Top Reviews on the Dreame Bot L10 Pro – Revolutionizing Cleaning with Advanced LiDAR Mapping Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-call-issues-what-to-do-when-your-samsung-galaxy-watch-wont-ring/"><u>Troubleshooting Call Issues: What to Do When Your Samsung Galaxy Watch Won't Ring</u></a></li>
 </ul></div>
 

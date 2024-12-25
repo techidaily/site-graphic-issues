@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 10 [Solved]
-date: 2024-12-14T21:39:09.793Z
-updated: 2024-12-15T18:48:59.882Z
+date: 2024-12-20T20:01:26.440Z
+updated: 2024-12-24T23:08:54.867Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -57,11 +65,19 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -85,34 +101,22 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,22 +155,24 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplifying-video-recording-with-screencastify/"><u>[New] In 2024, Simplifying Video Recording with Screencastify</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-remove-automatically-suggested-podcasts-from-your-spotify-playlist/"><u>[Updated] 2024 Approved Remove Automatically Suggested Podcasts From Your Spotify Playlist</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-memelore-creation-on-giphy/"><u>[Updated] Initiate Memelore Creation on Giphy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-future-of-audio-srt-in-mp4-video-files-for-2024/"><u>[Updated] The Future of Audio SRT in MP4 Video Files for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hidden-elements-the-photoshop-anonymity-guide/"><u>2024 Approved Hidden Elements The Photoshop Anonymity Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatible-setups-win11-with-nvidia-card/"><u>Compatible Setups: Win11 with NVidia Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/from-dark-to-lit-fixing-win10-fall-blues/"><u>From Dark to Lit: Fixing Win10 Fall Blues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/meeting-minimum-requirements-for-intel-gpu-installation/"><u>Meeting Minimum Requirements for Intel GPU Installation</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/optimizing-computer-health-how-regular-cleaning-boosts-performance-advice-by-yl-software-experts/"><u>Optimizing Computer Health: How Regular Cleaning Boosts Performance - Advice by YL Software Experts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-alignment-perfecting-edge-display/"><u>Precision Alignment: Perfecting Edge Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/recommendation-best-websites-to-download-game-of-thrones-ringtones-for-2024/"><u>Recommendation Best Websites to Download Game of Thrones Ringtones for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovering-graphics-options-lockout-issue/"><u>Recovering Graphics Options Lockout Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-win10-screen-setting-issues/"><u>Resolving Win10 Screen Setting Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-visual-and-technological-leap-comprehensive-review-of-the-m1-chip-powered-imac/"><u>The Visual and Technological Leap - Comprehensive Review of the M1 Chip-Powered iMac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-dark-display-in-windows-11-falls/"><u>Troubleshooting Dark Display in Windows 11 Falls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-gpu-usage-in-modern-operating-systems/"><u>Troubleshooting Non-GPU Usage in Modern Operating Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>[New] 2024 Approved PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-video-spark-illuminating-techniques-for-stellar-footage/"><u>[New] 2024 Approved Video Spark Illuminating Techniques for Stellar Footage</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-the-flickering-window-debacle/"><u>[RESOLVED] The Flickering Window Debacle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>[Updated] Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-adapter-fix-code-22/"><u>Display Adapter Fix: Code 22</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tips-for-modifying-display-configurations-in-windows-settings-with-help-from-yl-software/"><u>Easy Tips for Modifying Display Configurations in Windows Settings with Help From YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-change-videos-into-mobile-friendly-layouts-with-our-mobi-video-converter/"><u>Effortlessly Change Videos Into Mobile-Friendly Layouts with Our Mobi Video Converter</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-we-solved-starfields-stutter-and-cutout-problem-for-smooth-gaming-experience/"><u>How We Solved Starfield's Stutter and Cutout Problem for Smooth Gaming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-secret-story-gazers-manual-for-discreet-instagram-stories-on-desktopmobile/"><u>In 2024, Secret Story Gazer's Manual for Discreet Instagram Stories on Desktop/Mobile</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-issue-overcome-with-nvidia-driver-fix/"><u>OpenGL Issue Overcome with NVIDIA Driver Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflict-on-microsoft-os/"><u>Overcoming Dual-GPU Conflict on Microsoft OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-window-margins-problems-in-windows-10/"><u>Rectifying Window Margins Problems in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-upside-down-display-on-windows-10/"><u>Resolving Upside-Down Display on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-gameplay-instant-cure-for-amd-and-tarkov-hiccup/"><u>Seamless Gameplay: Instant Cure for AMD & Tarkov Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-stable-vision-dell-tablets-new-life/"><u>Secured Stable Vision: Dell Tablet's New Life</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-spooler-reboot-techniques/"><u>Simple Spooler Reboot Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-is-at-capacity-issue-in-windows-a-step-by-step-guide/"><u>Solving 'ChatGPT Is at Capacity' Issue in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-guide-for-safeguarding-system-stability-in-windows-8-gpus-off/"><u>The Ultimate Guide for Safeguarding System Stability in Windows 8, GPUs Off</u></a></li>
 </ul></div>
 

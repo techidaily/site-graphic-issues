@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2024-12-09T16:18:29.235Z
-updated: 2024-12-15T17:07:16.563Z
+date: 2024-12-23T04:44:21.719Z
+updated: 2024-12-25T02:59:10.427Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -46,15 +46,19 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
- If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 ## Method 2: Update your BIOS
 
@@ -70,12 +74,16 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -86,15 +94,7 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -125,20 +125,18 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>2024 Approved Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725289195838-dvd/"><u>新しい方法で合法的なDVDコピー - 不可欠のリッピング解禁情報!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-sideways-screen-on-windows-10/"><u>Addressing Sideways Screen on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-nvidia-940mx-graphics-card-drivers/"><u>Download and Install Official Nvidia 940MX Graphics Card Drivers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elite-video-capturing-technology-for-podcasts/"><u>Elite Video Capturing Technology for Podcasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-flickering-displays/"><u>How to Eliminate Flickering Displays</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-technique-for-capturing-time-on-iphone/"><u>In 2024, The Ultimate Technique for Capturing Time on iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-discovery-bings-journey-to-ai-integration/"><u>Intelligent Discovery: Bing's Journey to AI Integration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/interopservice-exception-rectified-in-windows/"><u>InteropService Exception Rectified in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-unleashed-a-deep-dive-into-release-information-and-groundbreaking-features/"><u>MacOS 15 (Sequoia) Unleashed: A Deep Dive Into Release Information & Groundbreaking Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix/"><u>Maximize Visual Impact The Perfect Blend of Windows 11, Photos and StoryRemix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-update-graphical-incompatibility-fixed/"><u>Overwatch Update: Graphical Incompatibility Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-audio-issues-civ-5/"><u>Troubleshooting Audio Issues CIV 5</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-power-of-personalization-upgrade-your-youtube-url/"><u>[Updated] The Power of Personalization Upgrade Your YouTube URL</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mple-tricks-to-make-your-youtube-videos-go-viral-for-2024/"><u>12 Simple Tricks to Make Your YouTube Videos Go Viral for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-dynamic-font-movement-packs/"><u>2024 Approved Dynamic Font Movement Packs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-screen-misalignment-for-sharper-viewing/"><u>Correct Screen Misalignment for Sharper Viewing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-roadblock-halo-infinite-not-starting-up/"><u>DirectX12 Roadblock: Halo Infinite Not Starting Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-srt-text-conversion-a-modern-how-to/"><u>In 2024, Quick SRT Text Conversion A Modern How-To</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantly-strip-outdated-graphic-cards-windows-style/"><u>Instantly Strip Outdated Graphic Cards, Windows Style</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-corrected-display-fully-operational/"><u>Nvidia Error Corrected, Display Fully Operational</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skyrocketing-views-tactics-for-a-100kplus-youtube-hit-for-2024/"><u>Skyrocketing Views Tactics for a 100K+ YouTube Hit for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-3-secure-erome-video-downloading-tools-safely-extracting-content/"><u>Top 3 Secure Erome Video Downloading Tools - Safely Extracting Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-camouflaged-commentary-on-yt-content/"><u>Unveiling Camouflaged Commentary on YT Content</u></a></li>
 </ul></div>
 

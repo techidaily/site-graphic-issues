@@ -1,7 +1,7 @@
 ---
 title: Overcoming Flicker Issues in Windows 7
-date: 2024-12-10T03:37:08.631Z
-updated: 2024-12-15T23:25:27.808Z
+date: 2024-12-20T16:13:34.427Z
+updated: 2024-12-24T21:27:04.445Z
 tags:
   - win11
   - win10
@@ -44,14 +44,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -75,13 +75,13 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -95,7 +95,7 @@ To troubleshoot these hardware issues:
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
@@ -104,6 +104,10 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
@@ -111,7 +115,7 @@ To troubleshoot these hardware issues:
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
@@ -119,10 +123,6 @@ To troubleshoot these hardware issues:
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,16 +157,20 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/capture-the-best-with-top-windows-11-hd-webcams-for-2024/"><u>Capture the Best with Top Windows 11 HD Webcams for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-epson-workforce-ds30-printer-software-compatible-with-windows-11-8-and-7/"><u>Download the Epson WorkForce DS30 Printer Software Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-control-over-screen-dpi-in-windows-11-fix/"><u>Enhanced Control Over Screen DPI in Windows 11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-lines-on-laptop-straighten-horizontal-borders/"><u>Fix Lines on Laptop - Straighten Horizontal Borders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-disabled-gpu-settings-on-windows-devices-win1011/"><u>Fixing Disabled GPU Settings on Windows Devices (Win10/11)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smoothened-laptop-monitor-glitches-effectively/"><u>Smoothened Laptop Monitor Glitches Effectively</u></a></li>
-<li><a href="https://article-helps.techidaily.com/strategies-to-become-a-top-notch-interviewer/"><u>Strategies to Become a Top-Notch Interviewer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-power-up-updated-nvidia-drivers-for-windows-enthusiasts/"><u>Visual Power-Up: Updated NVIDIA Drivers for Windows Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-storing-solution-for-sony-a7s-ii/"><u>[New] Best Storing Solution for Sony A7S II</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-easy-to-use-mastering-magix-vpxs-capabilities/"><u>[New] Cutting Edge, Easy to Use Mastering Magix VPX's Capabilities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-groundbreaking-14-animated-text-techniques-for-2024/"><u>[Updated] Groundbreaking 14 Animated Text Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-11-techniques-for-perfecting-hue-balance/"><u>[Updated] Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-essential-apple-watch-configuration-tweaks-for-extended-battery-performance-tips/"><u>8 Essential Apple Watch Configuration Tweaks for Extended Battery Performance - Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/containing-the-chromatic-charge-of-an-acer-monitor/"><u>Containing the Chromatic Charge of an Acer Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-trouble-signaled-by-tdr-smoothed-out-by-nvidia/"><u>GPU Trouble Signaled By TDR — Smoothed Out By NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hd-rendering-repaired-error-22/"><u>HD Rendering Repaired - Error 22</u></a></li>
+<li><a href="https://article-tips.techidaily.com/image-perfection-an-editors-guide/"><u>Image Perfection An Editor's Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-agni-2-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Agni 2 5G?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-miracle-hasty-solution-to-loss-of-signal/"><u>Monitor Miracle: Hasty Solution to Loss of Signal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/settled-nvidia-fatality-rate/"><u>Settled Nvidia Fatality Rate</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streaming-woes-resolved-in-windows-10-update/"><u>Streaming Woes Resolved in Windows 10 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-fixes-for-dealing-with-missing-or-unavailable-avcodecdll-errors/"><u>Ultimate Fixes for Dealing with Missing or Unavailable Avcodec.dll Errors</u></a></li>
 </ul></div>
 

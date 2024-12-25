@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2024-12-13T08:31:36.697Z
-updated: 2024-12-16T09:54:08.861Z
+date: 2024-12-22T05:19:32.446Z
+updated: 2024-12-25T00:39:55.350Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Update your NVIDIA graphics driver](#m1)**
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -65,13 +57,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -87,6 +79,10 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
@@ -98,27 +94,31 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,14 +144,20 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/bettering-god-of-war-everyday-play/"><u>Bettering 'God of War': Everyday Play</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-path-to-security-instruction-for-safe-mode-entry-and-drivers-removal/"><u>Effortless Path to Security: Instruction for Safe Mode Entry & Drivers Removal</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-xiaomi-redmi-13c-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-best-web-based-video-editors-for-chromebook-users/"><u>New The Best Web-Based Video Editors for Chromebook Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repairing-non-supported-amd-display-adaptation/"><u>Repairing Non-Supported AMD Display Adaptation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speed-up-windows-how-to-fix-it-when-windows-11-is-slow/"><u>Speed Up Windows: How to Fix It When Windows 11 Is Slow</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-advanced-techniques-to-purify-recorded-audio-from-unwanted-echoes/"><u>Updated In 2024, Advanced Techniques to Purify Recorded Audio From Unwanted Echoes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-corrected-intellnvidia-graphics-switch/"><u>Win11: Corrected Intell/Nvidia Graphics Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/zdnets-expert-selection-ultimate-guide-to-elite-gaming-mouse-pads-of-2024/"><u>ZDNET's Expert Selection: Ultimate Guide to Elite Gaming Mouse Pads of 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-color-connoisseurs-compendium-theory-and-technique/"><u>2024 Approved Color Connoisseur's Compendium Theory & Technique</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-gpus-for-sharp-4k-image-display/"><u>2024 Approved Prime GPUs for Sharp 4K Image Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-misalignment-in-laptop-viewing-area/"><u>Correct Misalignment in Laptop Viewing Area</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-error-corrected-improved-gpu-support-unlocked/"><u>Direct3D Error Corrected: Improved GPU Support Unlocked</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-and-discreet-iphone-data-removal-tools-keep-private-info-safe/"><u>Efficient & Discreet iPhone Data Removal Tools – Keep Private Info Safe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-functionality-of-logitech-g-hub-software-on-windows-systems/"><u>Expert Tips for Restoring Functionality of Logitech G Hub Software on Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-low-brightness-lenovo-monitors/"><u>Fixing Low-Brightness Lenovo Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flicker-free-zone-swift-solution-to-monitor-failure/"><u>Flicker Free Zone: Swift Solution to Monitor Failure</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211435042--pain-free/"><u>Pain Free | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/regaining-control-over-gpu-graphics-options/"><u>Regaining Control Over GPU Graphics Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/scheduling-virtual-gatherings-with-zoom-an-android-users-handbook/"><u>Scheduling Virtual Gatherings with Zoom An Android User's Handbook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-intel-graphics-in-windows/"><u>Streamlining Intel Graphics in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-file-should-you-retain-or-remove-it/"><u>The Role of msdia80.dll File: Should You Retain or Remove It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-ar-eyewear-choose-the-optimal-picks-according-to-zdnet/"><u>Top-Ranked AR Eyewear - Choose the Optimal Picks According to ZDNet</u></a></li>
 </ul></div>
 

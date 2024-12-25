@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'GTX 43 Code' Issue on NVIDIA GeForce 950 Under Windows 10 Operating System
-date: 2024-12-14T20:57:19.140Z
-updated: 2024-12-16T05:19:41.631Z
+date: 2024-12-19T05:29:45.607Z
+updated: 2024-12-24T17:10:16.232Z
 tags:
   - win11
   - win10
@@ -47,33 +47,25 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
@@ -98,7 +94,11 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -155,17 +155,20 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/solved-directx12-affecting-halo-infinite-launch-sequence/"><u>[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-hearth-warming-hear-from-happy-customers/"><u>[Updated] 2024 Approved Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unravel-enigmas-your-guide-to-elite-escape-spaces-for-2024/"><u>[Updated] Unravel Enigmas Your Guide to Elite Escape Spaces for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-dive-into-magix-video-pro-x-features/"><u>2024 Approved Dive Into Magix Video Pro X Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-display-preferences-save-error/"><u>Clearing Up Display Preferences Save Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-flickering-screens-on-dell-portable-device/"><u>Cured Flickering Screens on Dell Portable Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y100-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo Y100 5G?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nubia-red-magic-9-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nubia Red Magic 9 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminating-windows-10-after-fall-shadows/"><u>Illuminating Windows 10 After Fall Shadows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi K70 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-french-skills-from-your-living-room/"><u>Unlock French Skills From Your Living Room</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-freesync-fidelity-meets-4k-bliss-with-samsung-ue590/"><u>[New] 2024 Approved FreeSync Fidelity Meets 4K Bliss with Samsung UE590</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unlocking-srt-files-accessing-on-windowsmac/"><u>[New] Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-harmonyheed-evaluating-audio-artifacts/"><u>[Updated] HarmonyHeed Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/all-about-metaverse-marketing-example-strategies-and-more-for-2024/"><u>All About Metaverse Marketing Example, Strategies, and More for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ended-device-drive-error-43/"><u>Ended Device Drive Error #43</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-twitchs-no-signal-problem/"><u>Fixing Twitch's No-Signal Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/geforce-7025-now-playing-well-on-win11/"><u>GeForce 7025, Now Playing Well on Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-vector-image-creators-the-ultimate-10-tool-guide/"><u>Leading Vector Image Creators The Ultimate 10-Tool Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavim4r-mp4/"><u>Movaviで簡単なオンラインM4Rフォーマットに自由に変換! MP4より.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-release-amd-hd-6950-drivers-update-for-windows-11-users/"><u>New Release: AMD HD 6950 Drivers Update for Windows 11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-hurdles-cpp-opens-without-issues/"><u>No Hurdles: CPP Opens Without Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revealing-hidden-window-10-display-features/"><u>Revealing Hidden Window 10 Display Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-your-screen-fix-flicker-in-windows-7/"><u>Steady Your Screen: Fix Flicker in Windows 7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
 </ul></div>
 

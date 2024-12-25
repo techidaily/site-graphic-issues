@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Blurry Laptop Horizontal Bars
-date: 2024-12-13T05:56:39.622Z
-updated: 2024-12-16T04:20:29.888Z
+date: 2024-12-23T18:02:58.119Z
+updated: 2024-12-24T21:29:06.924Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or its out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -44,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -61,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -77,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### I’m using Windows 8 or 7
 
@@ -94,11 +86,19 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -130,18 +130,20 @@ Featured image by rawpixel.com from Pexels
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-without-amd-driver-installation/"><u>[FIXED] Windows Without AMD Driver Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-intermittent-displays/"><u>Fix: Windows 10 Intermittent Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-invisible-displays-on-personal-computers/"><u>Fixing Invisible Displays on Personal Computers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/geautomatiseerde-konvertering-von-mov-zu-m4r-dateien-kostenlos-online-videowechsel/"><u>Geautomatiseerde Konvertering Von MOV Zu M4R-Dateien Kostenlos Online - Videowechsel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igniting-the-dormant-gpu-fan-force/"><u>Igniting the Dormant GPU Fan Force</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lenovo-thinkphone-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lenovo ThinkPhone to Protect Your Individual Information</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-top-picks-for-your-android-the-current-best-facebook-videos-downloaders-ranked/"><u>In 2024, Top Picks for Your Android - The Current Best Facebook Videos Downloaders Ranked</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-distorted-monitors-in-win10/"><u>Overcoming Distorted Monitors in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shadowed-screen-post-driver-update/"><u>Shadowed Screen Post-Driver Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-to-resolve-normalizdll-file-absence-issues-on-your-pc/"><u>Solutions to Resolve Normaliz.dll File Absence Issues on Your PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/streamlining-video-formats-a-step-by-step-guide-from-avi-to-mp4/"><u>Streamlining Video Formats: A Step-by-Step Guide From AVI to MP4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-gratuit-logiciels-de-conversion-video-mp4-vers-et-depuis/"><u>Top 6 Gratuit Logiciels De Conversion Vidéo MP4 : Vers Et Depuis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youth-empowerment-your-life-story-can-inspire/"><u>[New] In 2024, Youth Empowerment Your Life Story Can Inspire</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-becoming-a-pro-at-using-zoom-on-win10-systems/"><u>[Updated] Becoming a Pro at Using Zoom on WIN10 Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ever-fading-memories-revived-youtubes-lost-content-hunt/"><u>[Updated] In 2024, Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-efficient-enjoyable-experience/"><u>Apex Legends: Efficient, Enjoyable Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-a05-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy A05 Phone that is Locked?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-gt-neo-5-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme GT Neo 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-step-by-step-navigation-in-telegram-web-app/"><u>In 2024, Step-by-Step Navigation in Telegram Web App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/methodical-approach-to-cease-lenovo-screenshake/"><u>Methodical Approach to Cease Lenovo Screenshake</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-fullscreen-window-on-monitor-with-win11/"><u>Missing Fullscreen Window on Monitor with Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quickly-erase-startup-anomalies/"><u>Quickly Erase Startup Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-monitor-horizontal-edges/"><u>Realigning Monitor Horizontal Edges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-cominterop-failure-windows-system/"><u>Solved: COMInterop Failure Windows System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-ebook-formats-for-ibooks-and-steps-to-import-your-digital-books/"><u>Top eBook Formats for iBooks and Steps to Import Your Digital Books</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-fix-windows-system-restored/"><u>UI Graphics Fix: Windows System Restored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-honor-magic-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor Magic 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

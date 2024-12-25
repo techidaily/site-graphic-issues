@@ -1,7 +1,7 @@
 ---
 title: Unified Graphics Experience Achieved - Nvidia/Intel for Win10!
-date: 2024-12-15T00:18:04.445Z
-updated: 2024-12-15T20:34:42.956Z
+date: 2024-12-23T01:17:25.165Z
+updated: 2024-12-25T00:43:14.417Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  If you’ve upgraded to Windows 10, and you find that your **switchable graphics cards** on your laptop are not not working well, or you see a boot-loop, and some of you might even have black screen error during some games, you’re not alone. In some extreme case, you may find the HDMI stop working when there is some problem with the switchable graphic cards.
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -81,29 +85,21 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -115,17 +111,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,21 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamline-slack-collaboration-with-best-10-free-tools/"><u>[New] In 2024, Streamline Slack Collaboration with Best 10 Free Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/our-gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/"><u>[New] Your Gateway to YouTube Entrepreneurship The Best 10 Easy-to-Create Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-windows-file-check-up-tips-and-tricks/"><u>[Updated] Fast Windows File Check-Up Tips and Tricks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-inside-the-dji-phantom-3-pro-advantages/"><u>2024 Approved Inside the DJI Phantom 3 Pro Advantages</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-laptops-erratic-screenshots-flashing/"><u>Conquered Laptop's Erratic Screenshots Flashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-dead-pixels-from-desktop-screens/"><u>Eliminating Dead Pixels From Desktop Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-fan-rewake-strategy-documented-here/"><u>GPU Fan Rewake Strategy Documented Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-resolution-restored-error-22/"><u>Graphics Resolution Restored - Error 22</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721105309729-hcmondriver-driver-install-failure-heres-how-you-can-fix-it/"><u>Hcmondriver Driver Install Failure? Here's How You Can Fix It</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 Without a Home Button</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-gamers-secrets-preventing-and-resolving-game-of-gears-grogginess/"><u>Master Gamers' Secrets: Preventing & Resolving Game of Gears Grogginess 😴</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-stable-screens/"><u>Master the Art of Stable Screens</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-apple-unveils-m3-chip-powered-macbook-air-explore-the-upgrades-in-the-latest-13-and-15-models-insights-from-zdnet/"><u>New Apple Unveils M3 Chip Powered MacBook Air: Explore the Upgrades in the Latest 13 & 15 Models - Insights From ZDNet!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcame-graphics-failure-issue/"><u>Overcame Graphics Failure Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgraded-advanced-graphics-tweaks-for-win11/"><u>Upgraded: Advanced Graphics Tweaks for Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-clearview-capture-watchlist/"><u>[New] ClearView Capture Watchlist</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ixed-video-short-display-for-you/"><u>[New] Fixed Video Short Display for You</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-art-of-anime-adaptation-jujutsu-kaisens-tiktok-success-for-2024/"><u>[New] The Art of Anime Adaptation Jujutsu Kaisen's TikTok Success for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-art-of-simulating-quantum-leaps-in-film/"><u>[Updated] In 2024, The Art of Simulating Quantum Leaps in Film</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfect-every-moment-incorporating-captions-in-instagram-footage-for-2024/"><u>[Updated] Perfect Every Moment Incorporating Captions in Instagram Footage for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s18-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S18 PC | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/acer-screens-banishing-blinding-flashes/"><u>Acer Screens: Banishing Blinding Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-media-migration-how-to-convert-dvd-movies-into-digital-files-for-easy-access-on-pcs-and-macbooks/"><u>Mastering Media Migration: How to Convert DVD Movies Into Digital Files for Easy Access on PCs and Macbooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-surface-pro-7s-screenshot-stutter/"><u>Solving Surface Pro 7'S Screenshot Stutter</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-6-risoluzioni-rapide-quando-la-riparazione-di-windows-11-fallisce/"><u>Top 6 Risoluzioni Rapide: Quando La Riparazione Di Windows 11 Fallisce</u></a></li>
 </ul></div>
 
