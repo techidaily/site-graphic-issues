@@ -1,7 +1,7 @@
 ---
 title: Easy Patching for GPUs Not Displayed
-date: 2024-12-19T18:10:42.751Z
-updated: 2024-12-24T21:26:35.791Z
+date: 2024-12-28T21:30:29.437Z
+updated: 2025-01-03T12:11:11.429Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  If you encounter the **NVIDIA Display settings are not available. You are not currently using a display attached to an NVIDIA GPU** error message when opening **NVIDIA Control Panel** , don’t panic. It’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for You are not currently using a display attached to an NVIDIA GPU
 
  There are 3 fixes that have helped other users resolve the problem in**Windows 10** ,**8.1** and**7** . Just work your way down the list until the problem is resolved.
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 3. [**Check if your monitor is plugged into the NVidia GPU port**](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your NVIDIA drivers (nearly always fixes the problem)
@@ -47,18 +51,10 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be027f4c4816.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click**Update** to do it for free if you like, but it’s partly manual
 4. **Restart** your PC and check if **NVIADIA control panel** opens without fail. If it does, then congrats. But if the error still pops up, then move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your NVIDIA driver
 
@@ -73,22 +69,26 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14ec2c9c6b.jpg)
 3. Click **Yes** to confirm the uninstall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart**   your computer.
 5. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be134536fb44.png)
 6. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1370e59dcf.jpg)
 7. Check if**NVIDIA Control Panel** opens fine this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check if your monitor is plugged into the NVidia GPU port
@@ -117,24 +117,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-beam-your-best-selecting-the-stirring-photos-on-instagram/"><u>[Updated] Beam Your Best Selecting the Stirring Photos on Instagram</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-best-5-gopro-filters-for-underwater-video-shooting/"><u>2024 Approved Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-camera-gimbals-top-10-iphone-android-dslr-compilation/"><u>2024 Approved Ideal Camera Gimbals Top 10 IPhone, Android, DSLR Compilation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-rx-graphics-retrospect-and-report/"><u>2024 Approved RX Graphics Retrospect & Report</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-steps-to-record-a-timelapse-video-on-ipad/"><u>2024 Approved Steps to Record a Timelapse Video on iPad</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-edges-achieve-clarity-and-comfort/"><u>Adjust Monitor Edges, Achieve Clarity & Comfort</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-adjustment-in-win11/"><u>Enhanced Screen Resolution Adjustment in Win11</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-untold-story-users-countdown/"><u>Facebook’s Untold Story: Users Countdown</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/innovative-fixes-for-streamlining-your-youtube-background-effects/"><u>Innovative Fixes for Streamlining Your YouTube Background Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-win8s-protective-measures-and-gpu-drivers-elimination/"><u>Masterful Guide to WIN8's Protective Measures and GPU Drivers Elimination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-images-new-gpu/"><u>No Images - New GPU?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-why-is-my-ds4-controller-not-recognized-by-windows/"><u>Resolved: Why Is My DS4 Controller Not Recognized by Windows?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolvingscreenreversal-problems/"><u>ResolvingScreenReversal Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speedy-guide-quickly-transferring-your-p90x3-workouts-from-dvd-to-pcmac/"><u>Speedy Guide: Quickly Transferring Your P90X3 Workouts From DVD to PC/Mac</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tactics-for-eradicating-blinking-screens-hp/"><u>Tactics for Eradicating Blinking Screens (HP)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-6s-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 6s on MetroPCS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-unavailable-display-modes/"><u>Troubleshooting Unavailable Display Modes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-native-chrome-os-screen-replay-app/"><u>[New] 2024 Approved Native Chrome OS Screen Replay App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prophoto-fusion-online-masterpiece-suite/"><u>[New] ProPhoto Fusion Online Masterpiece Suite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calming-the-currents-of-pro-7s-display/"><u>Calming the Currents of Pro 7'S Display</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differences-between-copilot-basic-and-premium-versions-to-upgrade-or-not-to-upgrade/"><u>Differences Between Copilot Basic & Premium Versions: To Upgrade or Not to Upgrade?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-amd-radeon-rx-580-graphics-driver-fast-and-simple/"><u>Download & Update AMD Radeon RX 580 Graphics Driver - Fast & Simple</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-asus-laptop-screen-flash-with-simple-steps/"><u>Fix ASUS Laptop Screen Flash with Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-win11-black-out-following-fall-upgrade/"><u>Fixing Win11 Black Out Following Fall Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-harness-googles-potential-for-your-podcasts/"><u>In 2024, How to Harness Google’s Potential for Your Podcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/neutering-night-shade-nuisances-acer-devices/"><u>Neutering Night-Shade Nuisances: Acer Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-mastering-the-art-of-rowcolumn-freezing-and-thawing-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Row/Column Freezing & Thawing in Microsoft Excel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone-for-2024/"><u>The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-spark-10-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Spark 10 Pro Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trimming-the-green-techniques-for-flawless-backgrounds/"><u>Trimming the Green: Techniques for Flawless Backgrounds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-driver-upgrade-intel-hd-graphics/"><u>Win Driver Upgrade: Intel HD Graphics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Dark Display in Windows 11 Falls
-date: 2024-12-19T20:08:05.580Z
-updated: 2024-12-25T03:52:21.821Z
+date: 2024-12-31T05:13:50.625Z
+updated: 2025-01-02T16:19:07.899Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Unplug your external devices
@@ -29,7 +29,7 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -41,11 +41,7 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -62,6 +58,10 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -77,19 +77,18 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/kyrocketing-youtube-popularity-through-seo-know-how-for-2024/"><u>[New] Skyrocketing YouTube Popularity Through SEO Know-How for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-youtube-future-scaling-up-or-staying-independent-in-2024/"><u>[Updated] Crafting a YouTube Future Scaling Up or Staying Independent, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-slug-lines-for-effective-storytelling/"><u>[Updated] In 2024, Mastering Slug Lines for Effective Storytelling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>[Updated] Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-motorola-edgepluss-performance-lackluster-flagship-features-explored/"><u>Analyzing Motorola Edge+'s Performance: Lackluster Flagship Features Explored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatible-setups-win11-with-nvidia-card/"><u>Compatible Setups: Win11 with NVidia Card</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-8-tips-to-prevent-htc-vive-motion-sickness/"><u>In 2024, 8 Tips to Prevent HTC Vive Motion Sickness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/meeting-minimum-requirements-for-intel-gpu-installation/"><u>Meeting Minimum Requirements for Intel GPU Installation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/native-tongue-learn-romanian-app-style/"><u>Native Tongue: Learn Romanian App Style</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/peak-palette-manager-suite-for-2024/"><u>Peak Palette Manager Suite for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovering-graphics-options-lockout-issue/"><u>Recovering Graphics Options Lockout Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-win10-screen-setting-issues/"><u>Resolving Win10 Screen Setting Issues</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-checklist-for-webinar-video-documentation-for-2024/"><u>The Ultimate Checklist for Webinar Video Documentation for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-gpu-usage-in-modern-operating-systems/"><u>Troubleshooting Non-GPU Usage in Modern Operating Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-10-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 2024 Approved 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-stream-like-a-pro-3-key-strategies-for-lol-gamers/"><u>[New] 2024 Approved Stream Like a Pro 3 Key Strategies for LOL Gamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-scaling-video-size-without-quality-loss-on-youtube-for-2024/"><u>[New] Scaling Video Size Without Quality Loss on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>[Updated] In 2024, Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-to-converting-mp4-to-compatible-vob-format-for-dvd-viewing-on-macos-systems/"><u>Guide to Converting MP4 to Compatible VOB Format for DVD Viewing on macOS Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-14-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 14 Plus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-winos-basic-render-capabilities/"><u>Improving WINOS' Basic Render Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-settings-in-windows-11-with-minimal-hassle/"><u>Mastering Mouse Settings in Windows 11 with Minimal Hassle</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-initialization-failed/"><u>System Graphics Initialization Failed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncovered-window-10-display-enhancements/"><u>Uncovered Window 10 Display Enhancements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-vision-quest-successful-conclusion/"><u>Win11 Vision Quest - Successful Conclusion</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-11-0x807800c5/"><u>Windows 11 バックアップ失敗時のエラー 0X807800C5: 迅速な修正手順</u></a></li>
 </ul></div>
 

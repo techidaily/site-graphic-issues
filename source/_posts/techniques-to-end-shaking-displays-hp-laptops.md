@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2024-12-23T17:01:56.105Z
-updated: 2024-12-24T19:54:59.484Z
+date: 2024-12-30T07:47:39.599Z
+updated: 2025-01-02T17:44:00.484Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for HP laptop flickering or blinking
 
  Here are 3 fixes that have helped other users resolve the screen flickering or blinking on HP laptop issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -44,6 +44,10 @@ Here is how to do it:
  HP laptop screen still flickering? Please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -60,12 +64,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -74,10 +82,6 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -96,7 +100,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -110,10 +114,6 @@ Here is how to do it:
  1) Right-click on **the empty area** of your desktop screen and click **Screen resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
@@ -158,24 +158,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-toy-quadcopters-reviewed-kids-edition/"><u>[New] In 2024, Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content-for-2024/"><u>[New] Step-by-Step Process for Aesthetic and Engaging Instagram Video Content for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troublesome-unsupported-graphics-cards-by-winoses/"><u>[TROUBLESOME] Unsupported Graphics Cards by WinOSes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-iphones-voice-memos-with-precision/"><u>[Updated] 2024 Approved Navigating iPhone's Voice Memos with Precision</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-14-plus-imei-checker-by-drfone-ios/"><u>Best Free iPhone 14 Plus IMEI Checker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/charting-new-horizons-in-digital-clarity-4k-resolution/"><u>Charting New Horizons in Digital Clarity: 4K Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comwin-harmony-achieved-post-update/"><u>ComWin Harmony Achieved Post-Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-directx-12-frame-timing-error/"><u>Cured DirectX 12 Frame Timing Error</u></a></li>
-<li><a href="https://article-files.techidaily.com/echoes-in-the-digital-abyss-understanding-vr-ar-and-mr/"><u>Echoes in the Digital Abyss Understanding VR, AR, and MR</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-intel-3000-driver-fix-for-windows-10-users/"><u>Effortless Intel 3000 Driver Fix for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-performance-upgrade-intel-3000-on-windows-11/"><u>Enhance Performance: Upgrade Intel 3000 on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-flash-freezing-onescreen-problems/"><u>Fixing Flash-Freezing Onescreen Problems</u></a></li>
-<li><a href="https://win-online.techidaily.com/kostenloze-conversie-van-ts-naar-wav-files-onderstaakbaar-helemaal/"><u>Kostenloze Conversie Van Ts Naar Wav Files - Onderstaakbaar Helemaal!</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-logilda-dll-woes/"><u>No More LogiLDA DLL Woes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/real-time-fix-for-jittery-videos/"><u>Real-Time Fix for Jittery Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-radeon-r9-driver-errors-in-windows-11/"><u>Rectifying Radeon R9 Driver Errors in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shrink-windows-interface-in-win-10/"><u>Shrink Windows Interface in WIN 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestion-issues-solutions-when-they-dont-appear-on-your-iphone/"><u>Troubleshooting Siri Suggestion Issues: Solutions When They Don't Appear on Your iPhone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximizing-impact-10-key-strategies-for-instagram-video-promotion/"><u>[New] 2024 Approved Maximizing Impact 10 Key Strategies for Instagram Video Promotion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reating-compelling-solo-videos-on-a-budget/"><u>[New] Creating Compelling Solo Videos on a Budget</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-twitch-broadcast-excellence-the-ultimate-5-guide-for-2024/"><u>[New] Twitch Broadcast Excellence The Ultimate 5 Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>[Updated] Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-poco-c55-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco C55 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tips-for-amazing-podcast-outro-scripts-for-2024/"><u>Essential Tips for Amazing Podcast Outro Scripts for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-direct3d-non-availability-in-graphics-card/"><u>Fixing Direct3D Non-Availability in Graphics Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-error-nvidia-setup-completed/"><u>Fixing Error: NVIDIA Setup Completed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-tecno-spark-10-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Tecno Spark 10 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-blank-windows-10-interface-error/"><u>Mending Blank Windows 10 Interface Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-overcoming-installer-roadblock/"><u>Rectified: Overcoming Installer Roadblock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refining-win-drivers-fixed-battery-functionality/"><u>Refining Win Drivers, Fixed Battery Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shed-light-on-dark-lenovo-screens/"><u>Shed Light on Dark Lenovo Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/0-hashtags-to-boost-your-youtube-views-beyond-six-figures/"><u>Top 10 Hashtags to Boost Your Youtube Views Beyond Six Figures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaked-radeon-streaming-error/"><u>Tweaked Radeon Streaming Error</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreeze-windows-hibernate-with-simple-steps/"><u>Unfreeze Windows Hibernate with Simple Steps</u></a></li>
 </ul></div>
 

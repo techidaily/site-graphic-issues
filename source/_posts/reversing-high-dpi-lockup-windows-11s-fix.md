@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2024-12-23T05:29:14.028Z
-updated: 2024-12-24T20:47:06.360Z
+date: 2025-01-02T03:54:11.841Z
+updated: 2025-01-03T08:19:19.474Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -56,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -70,21 +74,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -106,15 +106,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,24 +148,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-audience-centric-strategies-for-top-facebook-listings/"><u>[New] In 2024, Audience-Centric Strategies for Top Facebook Listings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enthralling-evaluation-and-secondary-recommendations/"><u>[New] In 2024, Enthralling Evaluation & Secondary Recommendations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-virtual-valor-vault-excelling-with-top-adventures-in-gaming/"><u>[New] In 2024, Virtual Valor Vault Excelling with Top Adventures in Gaming</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-vr-immersion-review-series-oculus-edition/"><u>[Updated] In 2024, Ultimate VR Immersion Review Series – Oculus Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-in-class-skype-recorders-ranked-for-2024/"><u>Best-in-Class Skype Recorders Ranked for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/developing-advanced-telemetry-software-for-enhanced-raspberry-pi-monitoring/"><u>Developing Advanced Telemetry Software for Enhanced Raspberry Pi Monitoring</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-dead-dying-asus-built-in-cam/"><u>Fixing Dead, Dying Asus Built-In Cam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-fan-restart-procedures-unveiled/"><u>GPU Fan Restart Procedures Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-drivers-goodbye-step-by-step-in-windows-os/"><u>Graphic Drivers Goodbye! Step by Step in Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-mending-disconnected-hdmi-cable/"><u>Laptop to TV: Mending Disconnected HDMI Cable</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-stuttering-and-fps-issues-in-the-fight-club-of-reapers-naraka-bladepoint/"><u>Overcoming Stuttering and FPS Issues in the Fight Club of Reapers, Naraka: Bladepoint</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sparking-the-sleeping-gpu-fans-motion/"><u>Sparking the Sleeping GPU Fan’s Motion</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-for-speedy-and-simple-windows-10-fresh-install/"><u>The Ultimate Guide for Speedy and Simple Windows 10 Fresh Install</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-fix-low-brightness-lenovo-screens/"><u>Tips to Fix Low-Brightness Lenovo Screens</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-10-hd-webcams-essential-purchasing-tips/"><u>Top 10 HD Webcams Essential Purchasing Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-performance-for-dell-notebooks-via-driver-update/"><u>Upgraded Performance for Dell Notebooks via Driver Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-display-glitch-missing-fullscreen-window/"><u>Win11 Display Glitch: Missing Fullscreen Window</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-stream-fix-after-upgrade/"><u>Windows 10 Stream Fix After Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-black-screen-after-fall-creators-update-solved/"><u>Windows 11 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-achieving-professional-level-audio-crossfades-in-audacity/"><u>[New] Achieving Professional-Level Audio Crossfades in Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>[New] In 2024, Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-perfecting-your-youtube-videos-for-igtv-integration/"><u>[Updated] 2024 Approved Perfecting Your Youtube Videos for IGTV Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-vr-gaming-update-intel-graphics-in-win11/"><u>Enhance VR Gaming: Update Intel Graphics in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flawless-switchable-graphics-introducing-windows-10s-nvidiaintel-combo/"><u>Flawless Switchable Graphics: Introducing Windows 10’S Nvidia/Intel Combo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-sony-xperia-10-v-by-drfone-android/"><u>In 2024, How to Bypass FRP from Sony Xperia 10 V?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hybrid-card-problem-in-win11/"><u>Overcoming Hybrid Card Problem in Win11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premium-recommendations-for-ultra-hd-monitoring-tools-for-2024/"><u>Premium Recommendations for Ultra-HD Monitoring Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-oversized-windows-11-display/"><u>Taming Oversized Windows 11 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-crt-blackout-in-laptops/"><u>Troubleshooting CRT Blackout in Laptops</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-ensuring-smooth-operation-of-your-amd-rx-560-across-different-windows-systems/"><u>Troubleshooting Tips: Ensuring Smooth Operation of Your AMD RX 560 Across Different Windows Systems</u></a></li>
 </ul></div>
 

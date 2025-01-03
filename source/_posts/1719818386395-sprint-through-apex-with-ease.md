@@ -1,7 +1,7 @@
 ---
 title: Sprint Through Apex with Ease!
-date: 2024-12-19T02:54:01.467Z
-updated: 2024-12-25T04:29:26.468Z
+date: 2025-01-02T03:44:19.742Z
+updated: 2025-01-03T09:46:32.853Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 
 **Apex Legends keeps crashing recently?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Apex Legends players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d8
 4. **[Repair Apex Legends in Origin](#f3)**
 5. **[Install the latest Apex Legends patch](#f4)**
 6. **[Reinstall Apex Legends](#f5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your Nvidia graphics driver
 
@@ -47,6 +47,10 @@ Or
 
 **[Method 2– Manually:](#m2)** [](#m2) You can update your Nvidia graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your Nvidia graphics driver automatically
 
  If you don’t have the time, patience or computer skills to update your Nvidia graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -59,24 +63,16 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your Nvidia graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-85.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Nvidia graphics driver manually
@@ -96,6 +92,10 @@ _You can do it for free if you like, but it’s partly manual._
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-143.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -143,13 +143,13 @@ Here we list its minimum system requirements for you to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-341-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.  
 
@@ -204,21 +204,22 @@ You can follow the instructions below to install the latest game patch:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-how-to-zoom-in-on-kinemaster/"><u>[New] In 2024, How to Zoom in on Kinemaster</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-stretched-screen-issues-for-windows-11/"><u>[Solved] Stretched Screen Issues for Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-embark-on-a-metaverse-adventure-with-these-top-8-helmets-and-headsets/"><u>[Updated] In 2024, Embark on a Metaverse Adventure with These Top 8 Helmets & Headsets</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosted-graphics-latest-w11-geforce-210-drivers-rollout/"><u>Boosted Graphics: Latest W11 GeForce 210 Drivers Rollout</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/elite-mac-gif-recorders-top-picks-list-for-2024/"><u>Elite Mac GIF Recorders Top Picks List for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-best-gopro-accessories/"><u>In 2024, The Best GoPro Accessories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-assistance-in-the-digital-age-should-you-choose-bing-chat-over-gpt-3/"><u>Language Assistance in the Digital Age: Should You Choose Bing Chat Over GPT-3?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-fortnite-communication-hurdles-with-these-microphone-troubleshooting-steps/"><u>Overcome Your Fortnite Communication Hurdles with These Microphone Troubleshooting Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reining-in-flickering-monitors-hp-guide/"><u>Reining In Flickering Monitors: HP Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shatter-sims-monochrome-mistake/"><u>Shatter Sims’ Monochrome Mistake</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-defragmenting-a-pc-on-windows-11-with-revo-uninstaller/"><u>Step-by-Step Guide: Defragmenting a PC on Windows 11 with Revo Uninstaller</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-rendering-unsuccessful-initially/"><u>Visual Rendering Unsuccessful Initially</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-upgrade-laptops-graphics-output-improved/"><u>Win11 Upgrade: Laptop's Graphics Output Improved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winfix-dxgkrnlsys-system-freeze-explained/"><u>Winfix: dxgkrnl.sys System Freeze Explained</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/writing-vlogs-a-guide-to-persuasive-scripts/"><u>Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-quit-auto-capture-on-apples-recorder/"><u>[New] 2024 Approved How To Quit Auto-Capture on Apple's Recorder</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-cost-efficient-cloud-storage-pathways/"><u>[Updated] 2024 Approved Exploring Cost-Efficient Cloud Storage Pathways</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pixelmaster-360-multiplatform-resolution-booster/"><u>[Updated] PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-overhaul-wins-dxgkrnlsys-fix/"><u>BlueScreen Overhaul: Win's dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-pcs-potential-to-handle-intel-driver-setup/"><u>Boost PC's Potential to Handle Intel Driver Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decoding-high-definition-spectrum-embracing-4k/"><u>Decoding High Definition Spectrum: Embracing 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-10-refresh-disturbances/"><u>Eliminating Windows 10 Refresh Disturbances</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-correct-save-error-in-display-preferences-win-7-10-edition-settled/"><u>How to Correct Save Error in Display Preferences, WIN 7-10 Edition [Settled]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-synth-symphony-selecting-superior-dj-templates-for-download/"><u>In 2024, Synth Symphony Selecting Superior DJ Templates for Download</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/make-display-settings-save-in-win-7-and-10-against-all-odds-solution-achieved/"><u>Make Display Settings Save in WIN 7 & 10 Against All Odds [Solution Achieved]</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577616582-the-easiest-way-to-study-czech-online/"><u>The Easiest Way to Study Czech Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubled-streams-no-more-on-updated-win10/"><u>Troubled Streams No More on Updated Win10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-optimal-performance-with-these-key-tricks-for-2024/"><u>Unlock Optimal Performance with These Key Tricks for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-canon-mf8500c-driver-packs-for-windows-7-81-and-10-step-by-step-download-guide/"><u>Updated Canon MF8500C Driver Packs for Windows 7, 8.1 & 10 - Step-by-Step Download Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-video-trailer-creation-software-for-mac-and-pc-for-2024/"><u>Updated Top Video Trailer Creation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-blueerror-resolve-complications-with-wdf-drivers/"><u>WinOS BlueError: Resolve Complications with WDF Drivers</u></a></li>
 </ul></div>
 

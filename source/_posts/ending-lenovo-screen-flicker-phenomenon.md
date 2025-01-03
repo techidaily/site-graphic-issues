@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2024-12-19T16:28:41.295Z
-updated: 2024-12-24T23:02:59.952Z
+date: 2024-12-31T22:29:21.955Z
+updated: 2025-01-03T10:56:53.487Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
@@ -71,16 +75,12 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
@@ -90,11 +90,11 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -125,16 +125,19 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-exclusive-guide-to-the-leading-top-10-fb-videos-downloader-for-android/"><u>[New] Exclusive Guide to the Leading Top 10 FB Videos Downloader for Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-zero-to-hero-steps-to-construct-your-channels-backlinks/"><u>[Updated] From Zero to Hero Steps to Construct Your Channel's Backlinks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-minimizing-noise-subtle-audio-tweaks-for-pc-mac/"><u>[Updated] In 2024, Minimizing Noise Subtle Audio Tweaks for PC, Mac</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone X Without Passcode?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/obscured-display-post-driver/"><u>Obscured Display Post-Driver</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-audacity-a-guide-to-premium-sound-capture-for-2024/"><u>Optimizing Audacity A Guide to Premium Sound Capture for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-dead-laptop-monitor-issue/"><u>Resolving the Dead Laptop Monitor Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-stops-device-resolved-nvidia-error-43/"><u>Windows Stops Device - Resolved: NVIDIA Error #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfinity-driver-correction-smooth-operation-restored/"><u>XFINITY Driver Correction: Smooth Operation Restored</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-customize-your-video-to-fit-seamlessly-in-instagram/"><u>[New] Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-detox-ignoring-negativity-on-youtube/"><u>[New] Digital Detox Ignoring Negativity on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-jumpstart-to-understanding-av1-codecs/"><u>[New] Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-breakdown-of-the-top-9-free-branding-platforms-for-youtube-channels/"><u>[Updated] Breakdown of the Top 9 Free Branding Platforms for YouTube Channels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[Updated] In 2024, Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-chucklecreators-sign-up-for-fun-filmmaking/"><u>2024 Approved ChuckleCreators Sign Up for Fun Filmmaking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-10-screen-rotation/"><u>Correcting Windows 10 Screen Rotation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/error-eradicated-displays-now-save-friendly/"><u>Error Eradicated - Displays Now Save-Friendly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-reactivating-gpu-fan-spin/"><u>Guide to Reactivating GPU Fan Spin</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-fix-and-start-your-game-in-renaissance-diablo-ii-classic-restoration/"><u>How to Fix and Start Your Game in [RENAISSANCE] Diablo II Classic Restoration</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-discovering-the-hidden-gems-in-asmr-creation/"><u>In 2024, Discovering the Hidden Gems in ASMR Creation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-cure-for-darkened-asus-screens/"><u>Quick Cure for Darkened Asus Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-tarkov-bug-amd-graphics-quick-guide/"><u>Swift FIX: Tarkov Bug - AMD Graphics Quick Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-mastery-troubleshooting-your-video-equipment/"><u>Zoom Mastery: Troubleshooting Your Video Equipment</u></a></li>
 </ul></div>
 

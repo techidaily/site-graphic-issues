@@ -1,7 +1,7 @@
 ---
 title: Corrected Aspect Ratio for Flexible Display
-date: 2024-12-22T20:00:17.821Z
-updated: 2024-12-24T21:26:08.118Z
+date: 2024-12-29T17:20:05.678Z
+updated: 2025-01-02T23:17:33.651Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -38,10 +34,6 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -52,16 +44,20 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -77,11 +73,15 @@ This should restore your laptop screen.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -105,18 +105,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-transform-your-video-editing-youtube-tunes-in-imovie/"><u>[New] In 2024, Transform Your Video Editing YouTube Tunes in iMovie</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-notable-examples-of-book-trailers/"><u>[New] Notable Examples of Book Trailers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-discovering-new-dimensions-a-guide-to-iphone-xs-advanced-cameras/"><u>[Updated] Discovering New Dimensions A Guide to iPhone X's Advanced Cameras</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-cutting-edge-immersion-selecting-the-top-10-vr-headsets-on-pc/"><u>2024 Approved Cutting-Edge Immersion Selecting the Top 10 VR Headsets on PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-audio-capturers-in-academic-settings/"><u>2024 Approved Top Audio Capturers in Academic Settings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-nvidia-geforce-rtx-3060-ti-driver-for-enhanced-windows-11-experience/"><u>Download Updated NVIDIA GeForce RTX 3060 Ti Driver for Enhanced Windows 11 Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mitigating-multiplayer-crashes-civ-5/"><u>Mitigating Multiplayer Crashes, CIV 5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidias-g-sync-not-detected/"><u>Nvidia's G-Sync Not Detected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remove-interference-from-laptop-vision-line/"><u>Remove Interference From Laptop Vision Line</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shielding-screen-stability-in-surface-pro-7/"><u>Shielding Screen Stability in Surface Pro 7</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-identifying-fb-banned-acquaintances/"><u>The Ultimate Guide to Identifying FB Banned Acquaintances</u></a></li>
-<li><a href="https://fox-where.techidaily.com/troubleshooting-wd-my-cloud-resolving-access-issues-on-windows-10-with-12-effective-solutions/"><u>Troubleshooting WD My Cloud: Resolving Access Issues on Windows 10 with 12 Effective Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/want-to-explore-every-shared-piece-by-friends-through-messaging/"><u>Want to Explore Every Shared Piece By Friends Through Messaging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-free-visual-storytelling-tools-intro-templates/"><u>[New] In 2024, Free Visual Storytelling Tools - Intro Templates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-soundscape-of-influence-altering-voice-on-stories-and-reels/"><u>[Updated] 2024 Approved The Soundscape of Influence Altering Voice on Stories & Reels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-android-companions-compassionate-3d-experience-for-2024/"><u>[Updated] Android Companions Compassionate 3D Experience for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-skyrocket-your-content-tips-for-trending-videos/"><u>2024 Approved Skyrocket Your Content Tips for Trending Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-frequent-disconnections-in-freesync-amd/"><u>Addressing Frequent Disconnections in FreeSync AMD</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/beginners-guide-to-computerized-djing-and-karafun-software-solutions/"><u>Beginner's Guide to Computerized DJing & Karafun Software Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crafting-captivating-chronicles-the-worlds-best-schools-top-8/"><u>Crafting Captivating Chronicles The World's Best Schools (Top 8)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/d3d-init-bug-eliminated-happy-hour/"><u>D3D Init Bug Eliminated, Happy Hour</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disabling-gpu-by-error-recover-it-for-windows-1011/"><u>Disabling GPU by Error? Recover It for Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-distortion-on-win11/"><u>Eliminate Screen Distortion on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818076989-gpu-not-recognized-resolve-immediately/"><u>GPU Not Recognized, Resolve Immediately!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-magic-vs-2-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor Magic Vs 2</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-screen-line-perpendniess/"><u>Optimizing Screen Line Perpendniess</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dual-gpu-conflicts-in-win11/"><u>Overcoming Dual GPU Conflicts in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-flares-on-window-11/"><u>Smooth Out Flares on Window 11</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-preserving-your-flipbook-projects-on-flipbuildercom/"><u>Step-by-Step Guide: Preserving Your FlipBook Projects on FlipBuilder.com</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-confusion-why-amazon-might-deliver-pre-owned-items-labeled-as-unopened/"><u>Understanding the Confusion: Why Amazon Might Deliver Pre-Owned Items Labeled as Unopened</u></a></li>
 </ul></div>
 

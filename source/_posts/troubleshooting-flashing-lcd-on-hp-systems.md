@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2024-12-22T17:46:43.719Z
-updated: 2024-12-24T22:59:54.122Z
+date: 2025-01-01T02:30:50.350Z
+updated: 2025-01-03T09:42:51.365Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 ## Troubleshooting Flashing LCD on HP Systems
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
 
@@ -59,12 +55,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -91,6 +91,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
@@ -107,14 +111,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -129,7 +129,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -158,22 +158,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>[New] Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-5-ps2-emulation-apps-for-android-devices/"><u>[New] Top 5 PS2 Emulation Apps for Android Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-sonys-shutterbug-fixing-the-no-video-fiasco/"><u>[Updated] 2024 Approved Sony's Shutterbug Fixing the No-Video Fiasco</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-eluding-digital-footprints-while-enjoying-instagram-stories-online/"><u>[Updated] Eluding Digital Footprints While Enjoying Instagram Stories Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-videography-starter-pack-openers-and-more/"><u>2024 Approved Free Videography Starter Pack Openers & More</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/efficient-desktop-capture-for-windows-users-for-2024/"><u>Efficient Desktop Capture for Windows Users for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-spanish-verb-conjugation-primer/"><u>Essential Spanish Verb Conjugation Primer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hidden-direct-x-flaw-now-patched-in-lol/"><u>Hidden Direct X Flaw Now Patched in LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jolt-for-lethargic-gpu-fans/"><u>Jolt for Lethargic GPU Fans</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/masterful-removal-techniques-for-graphics-drivers/"><u>Masterful Removal Techniques for Graphics Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/next-gen-gaming-new-radeon-hd-6950-on-win10/"><u>Next-Gen Gaming: New Radeon HD 6950 on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-longer-a-graphic-compatibility-issue-in-overwatch/"><u>No Longer a Graphic Compatibility Issue in Overwatch</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-connectivity-with-netgears-nighthawk-ax8-a-detailed-assessment-of-a-superior-wi-fi-6-mesh-extender/"><u>Revolutionize Connectivity with Netgear's Nighthawk AX8 - A Detailed Assessment of a Superior Wi-Fi 6 Mesh Extender</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/undetected-video-card-alert/"><u>Undetected Video Card Alert</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfinity-display-driver-error-corrected-and-operational/"><u>XFINITY Display Driver Error Corrected and Operational</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-captivate-crowds-social-media-growth-hacks-for-youtube/"><u>[New] In 2024, Captivate Crowds Social Media Growth Hacks for YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instantaneously-ingesting-imagery-google-collage-basics/"><u>[New] Instantaneously Ingesting Imagery Google Collage Basics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-loop-artisan-suite/"><u>[Updated] Loop Artisan Suite</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-z50-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Z50 Ultra without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-hardware-unsupported-in-older-windows-oses/"><u>AMD Graphics Hardware Unsupported in Older Windows OSes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/bridging-the-gap-between-social-platform-and-streaming-devices-for-2024/"><u>Bridging the Gap Between Social Platform and Streaming Devices for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-m6-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco M6 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-screen-fix-responsive-again/"><u>Lenovo Screen Fix: Responsive Again</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigate-the-digital-landsncape-efficiently-powered-by-innovative-cookiebot-tools/"><u>Navigate the Digital Landsncape Efficiently Powered by Innovative Cookiebot Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-transition-to-newest-intel-drivers-win10-style/"><u>Smooth Transition to Newest Intel Drivers, Win10 Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-intel-and-nvidia-graphic-swap-issue/"><u>Solving Intel & NVIDIA Graphic Swap Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-cost-free-tools-for-converting-blu-ray-discs-to-digital-format-on-windows-and-macos/"><u>Top 3 Cost-Free Tools for Converting Blu-Ray Discs to Digital Format on Windows & macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-surface-pro-7s-flashing-display/"><u>Troubleshoot Surface Pro 7'S Flashing Display</u></a></li>
 </ul></div>
 

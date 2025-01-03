@@ -1,7 +1,7 @@
 ---
 title: Revive Failed Display Settings Save with Ease - Win 7/10 Tips [Tamed]
-date: 2024-12-23T16:27:01.046Z
-updated: 2024-12-24T21:50:52.467Z
+date: 2024-12-30T17:13:27.627Z
+updated: 2025-01-03T05:37:47.989Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 
  If you keep getting the**Unable to save display settings** error when trying to connect your PC to more than one display, you’re not alone. The good news is, it’s usually not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Unable to save display settings
 
  All the screenshots below are from**Windows 7** , but the fixes also work in**Windows 10** .
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change your screen resolution
@@ -49,11 +45,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0327f8f399.jpg)
 2. In the**Resolution** section, click**the drop-down menu** and select**the lowest resolution of all the connected monitors** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0337e4c82a.jpg)
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -72,14 +72,14 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
@@ -105,16 +105,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/alert-amd-card-unsupported-by-windows-oses/"><u>[ALERT] AMD Card Unsupported by Windows OSes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-download-install-and-use-obs-on-mac/"><u>[New] 2024 Approved How to Download, Install and Use OBS on Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-building-your-virtual-persona-with-minimal-hassle-for-2024/"><u>[Updated] Building Your Virtual Persona with Minimal Hassle for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-inverting-media-flow-apple-device-technique-for-2024/"><u>[Updated] Inverting Media Flow Apple Device Technique for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/achieve-a-superior-gaming-experience-on-your-dell-g3-by-refreshing-system-drivers/"><u>Achieve a Superior Gaming Experience on Your Dell G3 by Refreshing System Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-nvidia-conflict-geforce-7025nforce-630a/"><u>Fixing Windows-Nvidia Conflict, GeForce 7025/nForce 630A</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-toonbox-complete-insight-for-24-year/"><u>In 2024, ToonBox Complete Insight for '24 Year</u></a></li>
-<li><a href="https://extra-information.techidaily.com/introducing-motion-blur-magic-in-your-iphone-photos/"><u>Introducing Motion-Blur Magic in Your iPhone Photos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-era-for-pc-gaming-with-nvidias-win11-geforce-210-upgrade/"><u>New Era for PC Gaming with NVIDIA's Win11 GeForce 210 Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-low-spec-limit-boot-with-intel-graphics/"><u>Overcoming Low Spec Limit: Boot with Intel Graphics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-logic-pros-approach-to-softening-audio-tracks-gradually-for-2024/"><u>[New] Logic Pro's Approach to Softening Audio Tracks Gradually for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/darkened-vision-new-graphics-patch/"><u>Darkened Vision - New Graphics Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-gpu-non-detection-problems/"><u>Fix: GPU Non-Detection Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-behavior-of-hp-monitors/"><u>Fixing Erratic Behavior of HP Monitors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-reduce-virtual-reality-vr-sickness/"><u>How to Reduce Virtual Reality (VR) Sickness</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y27-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y27 5G?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>In 2024, Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/m-audio-fast-track-ultra-driver-free-download/"><u>M-Audio Fast Track Ultra Driver [Free Download]</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-video-editing-software-with-split-screen-capability-online-and-offline-for-2024/"><u>New Free Video Editing Software with Split Screen Capability Online & Offline for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fallout-4-stability-issues-for-pc-gamers/"><u>Resolved: Fallout 4 Stability Issues for PC Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-validating-your-online-identity-on-youtube-for-2024/"><u>Step by Step Validating Your Online Identity on YouTube for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-the-spotlight-swings-on-acer-displays/"><u>Stopping the Spotlight Swings on Acer Displays</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-of-online-video-rotators-for-2024/"><u>The Ultimate List of Online Video Rotators for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-tiktok-edits-mastering-your-cut-lists-for-2024/"><u>Top TikTok Edits Mastering Your Cut Lists for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-combat-flickering-display/"><u>Unveiling Secrets to Combat Flickering Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-stabilized-post-update/"><u>Visual Output Stabilized Post-Update</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2024-12-21T06:05:14.605Z
-updated: 2024-12-25T01:41:40.561Z
+date: 2024-12-30T10:24:31.950Z
+updated: 2025-01-02T22:32:34.257Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 
  Running into a black screen on your Asus laptop? This can be very frustrating. But don’t worry – it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Asus Laptop Black Screen in Windows
 
  Here are 6 fixes that have helped other users resolve the Asus Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,17 +34,21 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 6. **[Perform a system restore](#F6)**
 7. **[Fix corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the **Ctrl**  key, the **Shift** key and **B** at the same time. This will reset the connection so that the operating system regains the display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once finished, check to see if you get the normal display back on your Asus laptop. If yes, then great! If it still gives you the black screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Asus laptop
 
@@ -77,12 +85,16 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -100,10 +112,6 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 3. Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ## Fix 5: Disable fast startup
@@ -119,10 +127,6 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 
@@ -134,7 +138,7 @@ So you can try disabling fast startup to see if it does the trick:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Perform a system restore
@@ -147,10 +151,6 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
@@ -172,7 +172,7 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -201,22 +201,24 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-magic-photo-management-decoded-by-reviews/"><u>[New] 2024 Approved Magic Photo Management Decoded by Reviews</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prime-edition-ai-graphic-mastery-software/"><u>[New] 2024 Approved Prime Edition AI Graphic Mastery Software</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>[Updated] In 2024, Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-to-3d-text-in-photoediting/"><u>[Updated] Innovative Approach to 3D Text in PhotoEditing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-gateway-top-8-vr-headsets-unveiled/"><u>2024 Approved Metaverse Gateway Top 8 VR Headsets Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-s17e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo S17e to iPhone | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-gpu-shutdown-in-windows-1011-pcs/"><u>Addressing GPU Shutdown in Windows 10/11 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-urgently-no-gpu-detected/"><u>Fix Urgently: No GPU Detected</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-airborne-ingenuity-sections/"><u>In 2024, Airborne Ingenuity Sections</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-stunning-composites-fcp-x-chroma-keying-guide/"><u>In 2024, Create Stunning Composites FCP X Chroma Keying Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-troubleshooting-fast-fixes-for-no-signal/"><u>Monitor Troubleshooting: Fast Fixes for No Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/newcard-screen-blackout-problem/"><u>NewCard Screen Blackout Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-horizontality/"><u>Perfecting Visual Horizontality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rapid-responsiveness-in-anthem-play/"><u>Rapid Responsiveness in Anthem Play</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-true-windows-res-display/"><u>Unlocking True Window's Res Display</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-what-patch-tuesday-means-for-software-protection/"><u>Unveiling What Patch Tuesday Means for Software Protection</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cartooncast-comprehensive-24-guidebook-for-2024/"><u>[New] CartoonCast Comprehensive '24 Guidebook for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-speech-recognition-made-easy-your-route-to-streamlined-workflows-with-microsoft-words-features-for-2024/"><u>[New] Speech Recognition Made Easy Your Route to Streamlined Workflows with Microsoft Word's Features for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-nvidia-drivers-post-error-restoration/"><u>[Repaired] Nvidia Drivers Post-Error Restoration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-timing-your-insta-shots-for-maximum-impact/"><u>[Updated] In 2024, Timing Your Insta Shots for Maximum Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-ustream-review-alternatives-on-hand/"><u>[Updated] Inside Ustream Review, Alternatives on Hand</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sharing-wisdom-the-art-of-insta-duplication-for-2024/"><u>[Updated] Sharing Wisdom The Art of Insta Duplication for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-your-dormant-laptop-screen/"><u>Bringing Back Your Dormant Laptop Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/controlling-oversized-windows-11-resolution/"><u>Controlling Oversized Windows 11 Resolution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-techniques-for-converting-flac-files-into-aiff-format/"><u>Efficient Techniques for Converting FLAC Files Into AIFF Format</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-stutter-on-windows-7/"><u>Eliminate Screen Stutter on Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminated-flickering-on-laptops-display-panels/"><u>Eliminated Flickering on Laptops' Display Panels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flawless-windows-display-fix/"><u>Flawless Windows Display Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-activation-confirmed-for-latest-windows-11-laptops/"><u>GPU Activation Confirmed for Latest Windows 11 Laptops</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-xs-by-drfone-ios/"><u>How To Unlock A Found iPhone XS?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-proficient-movie-recording-multiplatform-devices-unveiled/"><u>In 2024, Proficient Movie Recording Multiplatform Devices Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-the-art-of-fixing-crashing-gpus-without-shutdown/"><u>Mastering the Art of Fixing Crashing GPUs without Shutdown</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g73-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G73 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-lenovos-inactive-screen-issue/"><u>Solved: Lenovo's Inactive Screen Issue</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tips-and-tricks-for-resetting-windows-367-without-a-password/"><u>Tips and Tricks for Resetting Windows #367 - without a Password</u></a></li>
 </ul></div>
 

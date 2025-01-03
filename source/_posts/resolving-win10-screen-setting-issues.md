@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2024-12-18T00:39:52.342Z
-updated: 2024-12-25T01:02:43.825Z
+date: 2025-01-01T01:31:34.037Z
+updated: 2025-01-03T08:13:18.508Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ## Resolving Win10 Screen Setting Issues
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
 
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
@@ -75,20 +71,20 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -120,6 +116,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
  4) Click the Scaling tab.
@@ -148,20 +148,22 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-chortle-central-top-10-tweet-humor/"><u>[New] 2024 Approved Chortle Central Top 10 Tweet Humor</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-fb-video-content-with-streamlined-captioning-tactics/"><u>[Updated] Enhancing FB Video Content with Streamlined Captioning Tactics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-list-5-leading-youtube-shortened-url-services/"><u>[Updated] In 2024, Essential List 5 Leading YouTube Shortened URL Services</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-practical-steps-for-saving-real-time-chat-sessions/"><u>[Updated] Practical Steps for Saving Real-Time Chat Sessions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/comedic-content-coder/"><u>Comedic Content Coder</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/re-the-leading-youtube-to-webm-video-conversion-tools-for-2024/"><u>Explore the Leading YouTube-to-WebM Video Conversion Tools for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-gpu-fans-from-standstill-to-action/"><u>Fixing GPU Fans: From Standstill to Action</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hottest-apple-watch-savings-dont-miss-out/"><u>Hottest Apple Watch Savings: Don't Miss Out!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/methods-to-deter-inconsistent-displays-in-hp/"><u>Methods to Deter Inconsistent Displays in HP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-displays-windows-largely-not-wholely-on-win11/"><u>Monitor Displays Windows Largely, Not Wholely on Win11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/no-quality-loss-techniques-for-rotating-mp4-files-by-90180270-degrees-a-step-by-step-tutorial/"><u>No-Quality-Loss Techniques for Rotating MP4 Files by 90/180/270 Degrees: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-directx12-barriers-for-halo-infinite-launch/"><u>Overcoming DirectX12 Barriers for Halo Infinite Launch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-gfxui-errors-in-windows-environment-successfully/"><u>Resolving GFXUI Errors in Windows Environment Successfully</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-for-secure-boot-in-windows-8-and-eliminating-graphics-card-drivers/"><u>Steps for Secure Boot in Windows 8 & Eliminating Graphics Card Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/supercharge-your-pc-with-updated-radeon-hd-6950-drivers/"><u>Supercharge Your PC with Updated Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tips-for-shaping-images-with-photoshop-curves/"><u>[New] Tips for Shaping Images with Photoshop Curves</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-10-most-affordable-cloud-vendors-listed/"><u>[Updated] 2024 Approved Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-encompassing-vision/"><u>[Updated] Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dells-display-now-consistent-no-more-flickering/"><u>Dell's Display Now Consistent, No More Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halt-luminary-lurches-in-acer-computers/"><u>Halt Luminary Lurches in Acer Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-11x-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 11X 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme GT 5 Pro?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-gaming-eliminate-lags/"><u>Maximize Gaming: Eliminate Lags</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunters-unite-erratum-12-conquered/"><u>Monster Hunters Unite: Erratum 12 Conquered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-flipped-display-issue-in-windows-10-os/"><u>Resolve Flipped Display Issue in Windows 10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-upside-down-in-windows-11-fixed/"><u>Screen Upside Down in Windows 11 [Fixed]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-not-found-msvcr80dll-error-on-pc/"><u>Step-by-Step Solutions for Correcting 'Not Found: Msvcr80.dll' Error on PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-gaming-with-updated-nvidia-driver/"><u>Streamline Gaming with Updated Nvidia Driver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-discover-potential-specs-release-info-and-cost-of-the-new-google-pixel-watch/"><u>The Next Big Thing? Discover Potential Specs, Release Info & Cost of the New Google Pixel Watch</u></a></li>
+<li><a href="https://win-online.techidaily.com/transformez-votre-fichier-aac-au-format-flac-gratuitement-en-ligne-avec-movavi/"><u>Transformez Votre Fichier AAC Au Format FLAC Gratuitement - En Ligne Avec Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978702111-wacom-cintiq-driver-download-and-update-easily/"><u>Wacom Cintiq Driver Download & Update Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-blackout-after-creators-update-fixes/"><u>Win11 Blackout: After Creator's Update Fixes</u></a></li>
 </ul></div>
 

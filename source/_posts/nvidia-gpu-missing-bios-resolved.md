@@ -1,7 +1,7 @@
 ---
 title: NVIDIA GPU Missing BIOS [Resolved]
-date: 2024-12-22T22:13:52.985Z
-updated: 2024-12-25T01:14:44.557Z
+date: 2025-01-01T08:51:42.749Z
+updated: 2025-01-02T20:23:26.473Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/device-manager-graphics-card.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 2. **[Update the NVIDIA Graphics Driver](#h-method-2-update-the-nvidia-graphics-driver)**
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
@@ -51,22 +51,22 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
 
  To uninstall the device, right-click on the device name and select**Uninstall** from the context menu. The following screenshot is for your reference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 3: Restore BIOS to Default**
@@ -120,21 +120,20 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[New] 2024 Approved Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-scriptwriting-for-viral-youtube-content/"><u>[New] Mastering the Art of Scriptwriting for Viral YouTube Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tiktoks-best-practices-for-stellar-edits/"><u>[New] TikTok's Best Practices for Stellar Edits</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-card-unsupported-on-classic-windows-versions/"><u>AMD Card Unsupported on Classic Windows Versions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-frozen-windows-10-monitor/"><u>Bypassing Frozen Windows 10 Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-windows-7-reverse-view/"><u>Corrected Windows 7 Reverse View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-for-nvidiaintel-graphic-swap-in-win11/"><u>Cure for NVIDIA/Intel Graphic Swap in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-performance-with-updated-amd-hd-6950-for-windows-10/"><u>Enhanced Rendering Performance with Updated AMD HD 6950 for Windows 10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-hazy-endings-how-to-black-out-with-pro/"><u>In 2024, Hazy Endings How to Black Out with Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-virtualdub-alternatives-for-windows-mac-and-linux/"><u>New In 2024, The Best Virtualdub Alternatives for Windows, Mac, and Linux</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/orchestrate-acoustics-within-presentation-ppts/"><u>Orchestrate Acoustics Within Presentation PPTS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/push-through-faulty-asus-camera-glitches/"><u>Push Through Faulty ASUS Camera Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-steps-to-overcome-the-windows-update-error-0x80070002/"><u>Quick Troubleshooting Steps to Overcome the Windows Update Error 0X80070002</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-full-brightness-on-lenovo-screens/"><u>Restoring Full Brightness on Lenovo Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-display-on-graphics-card/"><u>Silent Display on Graphics Card</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-checklist-for-mastering-bandicam-in-the-new-year-for-2024/"><u>The Ultimate Checklist for Mastering Bandicam in the New Year for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-become-a-top-notch-interviewer/"><u>2024 Approved Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726029951833-and/"><u>無料でカスタム着信メロディ作成&ダウンロードガイド</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-the-blackout-on-a-laptop-monitor/"><u>Combatting the Blackout on a Laptop Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dusk-to-dawn-for-darkened-windows-11-win11/"><u>Dusk to Dawn for Darkened Windows 11 Win11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965481531-get-your-linksys-ae2500-wireless-router-up-and-running-download-drivers-now/"><u>Get Your Linksys AE2500 Wireless Router Up and Running - Download Drivers Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 mini Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-updates-from-the-apple-wwdc-keynote-latest-on-ai-innovations-with-siri-and-whats-new-in-ios-18-techspot/"><u>Live Updates From the Apple WWDC Keynote: Latest on AI Innovations with Siri and What's New in iOS 18 | TechSpot</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-level-graphics-nvidia-210-software-upgrade-for-windows-10/"><u>Next-Level Graphics: NVIDIA 210 Software Upgrade for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-your-gpu-with-latest-driver/"><u>Optimize Your GPU with Latest Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-disabled-gpu-on-your-laptop-win1011/"><u>Overcoming Disabled GPU On Your Laptop (Win10/11)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilize-no-more-flicker-in-win11/"><u>Stabilize: No More Flicker in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-windows-laptops-of-2024/"><u>The Best Windows Laptops of 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-animation-enthusiasts-choice-top-8-downloaded-sound-effects-for-your-projects/"><u>Updated 2024 Approved Animation Enthusiasts Choice Top 8 Downloaded Sound Effects for Your Projects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-graphics-performance-with-new-nvidia-drivers-on-windows/"><u>Upgraded Graphics Performance with New NVIDIA Drivers on Windows</u></a></li>
 </ul></div>
 
