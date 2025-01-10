@@ -1,7 +1,7 @@
 ---
 title: Easing Video Delays After Upgrading to Win11
-date: 2024-12-31T22:17:52.417Z
-updated: 2025-01-02T16:01:01.538Z
+date: 2025-01-05T02:05:04.713Z
+updated: 2025-01-09T23:32:33.898Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 `` **[4: Clean Browser Cache](#4)**
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Upgrade Video Players**
 
  Upgrade your**Adobe Flash Player** ,**Quick Time player** ,**DivX Web Player** ,**Microsoft Silverlight** etc, if you have them installed on your PC.
@@ -49,19 +45,19 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Update Graphics Driver**
 
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6936efa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics card device to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -93,10 +89,14 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6f9c972.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4: Clean Browser Cache**
@@ -147,18 +147,21 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-content-crusaders-route-to-rapid-instagram-fame/"><u>[New] In 2024, Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-methodically-uncovering-hidden-video-wonders-on-youtube/"><u>[New] In 2024, Methodically Uncovering Hidden Video Wonders on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-youtube-icons-browser-extension-command-line-and-software-trio-for-2024/"><u>[Updated] Capturing Youtube Icons Browser Extension, Command Line & Software Trio for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-essential-mac-tips-unlocking-your-srt-files-for-2024/"><u>[Updated] Essential Mac Tips Unlocking Your SRT Files for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-harmonizing-sounds-seamless-transitions-in-ableton-live/"><u>2024 Approved Harmonizing Sounds Seamless Transitions in Ableton Live</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-warped-display-with-minimal-effort/"><u>Fix Warped Display with Minimal Effort</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-blurry-vision-win11-enhancement/"><u>Fixed Blurry Vision: Win11 Enhancement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-13c-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi 13C Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovative-methods-for-shuffling-yt-playlists-for-2024/"><u>Innovative Methods for Shuffling YT Playlists for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-new-depths-capturing-stunning-slow-motion-with-gopro-hero-10/"><u>Navigating New Depths Capturing Stunning Slow Motion with GoPro Hero 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-display-inversion-issue-w7-style/"><u>Resolve Display Inversion Issue, W7 Style</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-visual-output-windows-7-style/"><u>Reverse Visual Output, Windows 7 Style</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ey-to-youtube-stardom-reaching-submillion-status-for-2024/"><u>The Key to YouTube Stardom Reaching Submillion Status for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-rated-vr-joysticks-unveiled/"><u>[New] Best-Rated VR Joysticks Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-preserve-your-gaming-moments-with-windows-10-for-2024/"><u>[New] How to Preserve Your Gaming Moments with Windows 10 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-smartphone-tools-for-perfecting-your-pronunciation/"><u>[New] Smartphone Tools for Perfecting Your Pronunciation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-making-your-mark-with-effective-facebook-cover-vids/"><u>[Updated] 2024 Approved Making Your Mark with Effective Facebook Cover Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-capturists-for-academic-presentations/"><u>[Updated] In 2024, Ideal Capturists for Academic Presentations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-10/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fixes-for-unsupported-freesync/"><u>Boosting Performance: Fixes for Unsupported FreeSync</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-desktop-image-on-windows-editions/"><u>Capturing Desktop Image on Windows Editions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-laptop-screen-stability-achieved-after-fix/"><u>Dell Laptop Screen Stability Achieved After Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-steps-restoring-functionality-to-your-broken-samsung-soundbar/"><u>DIY Steps: Restoring Functionality to Your Broken Samsung Soundbar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabled-win-graphics-functionality/"><u>Enabled Win Graphics Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-normalized-flickering-no-more/"><u>Laptop Display Normalized: Flickering No More</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818243705-no-more-laptop-screen-flickers-problem-solved/"><u>No More Laptop Screen Flickers, Problem Solved!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solve-your-elgato-hd60-drivers-problems-in-minutes-simple-steps/"><u>Solve Your Elgato HD60 Drivers Problems in Minutes | Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncovering-brightness-from-black-on-lenovo/"><u>Uncovering Brightness From Black on Lenovo</u></a></li>
 </ul></div>
 

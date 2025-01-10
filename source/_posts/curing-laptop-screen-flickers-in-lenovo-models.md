@@ -1,7 +1,7 @@
 ---
 title: Curing Laptop Screen Flickers in Lenovo Models
-date: 2024-09-23T16:41:53.861Z
-updated: 2024-10-01T08:48:26.002Z
+date: 2025-01-03T07:50:32.652Z
+updated: 2025-01-09T18:54:20.270Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/787952173ce9e83e0ef633a4cedb93e7fb52d657c
 2. **[Update your BIOS](#b)**
 3. **[Troubleshoot hardware issues](#c)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  Your laptop screen may flicker or blink frequently when you are using the wrong device drivers or they are out of date. You can update your device drivers, especially graphics drivers and chipset drivers, and see if this fixes your problem.
@@ -49,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/787952173ce9e83e0ef633a4cedb93e7fb52d657c
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -69,32 +70,20 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
@@ -104,10 +93,7 @@ To update the BIOS of your Lenovo laptop:
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -139,14 +125,20 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[New] In 2024, Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-streamline-your-youtube-thumbnail-process/"><u>[Updated] In 2024, Streamline Your YouTube Thumbnail Process</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimize-your-facebook-streaming-experience-with-these-methods/"><u>[Updated] Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-handy-tutorial-to-combat-xfffeeee-in-windows/"><u>A Handy Tutorial to Combat XFFFEEEE in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cut-down-on-game-delay-instances/"><u>Cut Down On Game Delay Instances</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/how-can-you-securely-access-and-save-video-content-from-a-private-instagram-profile/"><u>How Can You Securely Access and Save Video Content From a Private Instagram Profile?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-c1900101-during-windows-11-os-setup/"><u>Prevent and Resolve C1900101 During Windows 11 OS Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screenshots-no-more-blank-spells-on-my-laptop/"><u>Screenshots No More Blank Spells on My Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-unite-without-problems/"><u>Windows & NVidia Unite Without Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secure-whole-page-scene/"><u>[New] Secure Whole-Page Scene</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-vr-showdown-scoring-the-best-oculus-models/"><u>[Updated] Ultimate VR Showdown Scoring the Best Oculus Models</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-sims-4-blackout-bug/"><u>Eliminate Sims 4 Blackout Bug</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensuring-permanence-in-the-ephemeral-web-the-importance-of-archiving-internet-content/"><u>Ensuring Permanence in the Ephemeral Web: The Importance of Archiving Internet Content</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-compatibility-latest-updates-for-win-11/"><u>GTX 970 Compatibility: Latest Updates for Win 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-in-win10-os/"><u>Monitor Not Recognizing Fullscreen in Win10 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-screen-flicker-in-hp-machines/"><u>Preventing Screen Flicker in HP Machines</u></a></li>
+<li><a href="https://discover-help.techidaily.com/stay-entertained-during-solo-quarantine-fun-and-free-activities-for-30-days/"><u>Stay Entertained During Solo Quarantine: Fun and FREE Activities for 30 Days</u></a></li>
+<li><a href="https://discover-data.techidaily.com/stunning-bmw-x6-in-scarlet-red-hd-wallpaper-designs-full-size-imagery-for-your-device-curated-by-yl-computing/"><u>Stunning BMW X6 in Scarlet Red HD Wallpaper Designs, Full-Size Imagery for Your Device - Curated by YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-for-nvidiaintel-graphic-swap/"><u>Successful Fix for NVIDIA/Intel Graphic Swap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-no-signal-fast-fix-for-dp-connections/"><u>Troubleshoot No Signal: Fast Fix for DP Connections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-lenovo-non-reactive-screen/"><u>Troubleshooting Lenovo Non-Reactive Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-social-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Networking: A Look at Facebook, Twitter, Instagram, and YouTube</u></a></li>
 </ul></div>
 

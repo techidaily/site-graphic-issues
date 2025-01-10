@@ -1,7 +1,7 @@
 ---
 title: Mending Disconnected Laptop and TV via HDMI
-date: 2024-12-28T08:37:55.045Z
-updated: 2025-01-03T00:34:57.326Z
+date: 2025-01-07T21:47:48.539Z
+updated: 2025-01-09T22:49:34.675Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
  Why is HDMI from laptop to TV not working? Usually, it’s the hardware faulty, so make sure your hardware devices are working properly. Another possible reason is that your TV is not recognized by your laptop. And you can try these solutions to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix HDMI laptop to TV not working
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 1. [Restart and reconnect your devices](#F1)
 2. [Configure your Display Settings](#F2)
 3. [Update available drivers](#F3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart and reconnect your devices
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 Now check and see if your laptop to TV by HDMI works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure your Display Settings
@@ -65,14 +69,10 @@ The difference between each mode is as follows:
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -94,13 +94,13 @@ The difference between each mode is as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453dbd898e6.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453e3451066.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
 
@@ -124,24 +124,22 @@ The difference between each mode is as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-15-popular-youtube-intro-video-templates/"><u>[New] 15 Popular YouTube Intro Video Templates</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/aomei-il-produttore-di-software-innovativo-per-il-backup-restaurazione-e-clonazione-su-qualsiasi-dispositivo-un-livello-superiore-di-sicurezza-dei-dati/"><u>AOMEI: Il Produttore Di Software Innovativo Per Il Backup, Restaurazione E Clonazione Su Qualsiasi Dispositivo - Un Livello Superiore Di Sicurezza Dei Dati</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bad-drivers-triggered-minecraft-failures/"><u>Bad Drivers Triggered Minecraft Failures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/black-screen-on-latest-gpu/"><u>Black Screen on Latest GPU</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-auto-gpt-and-chatgpt-identifying-what-makes-them-unique/"><u>Comparing Auto-GPT and ChatGPT: Identifying What Makes Them Unique</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/conceal-your-chatgpt-exchanges-with-ease-a-step-by-step-guide/"><u>Conceal Your ChatGPT Exchanges with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-fixes-for-asus-laptops-unresponsive-display/"><u>Easy Fixes for Asus Laptop's Unresponsive Display</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/etiquette-essentials-when-speaking-to-alexa-or-similar-tech/"><u>Etiquette Essentials When Speaking to Alexa or Similar Tech</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-gains-latest-nvidia-geforce-drivers-for-windows-os/"><u>Graphics Gains: Latest NVIDIA GeForce Drivers for Windows OS</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-select-the-right-font-to-stand-out-on-youtube/"><u>In 2024, Select the Right Font to Stand Out on YouTube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidias-newest-rtx-2-groove-with-your-windows-11-7-or-8-drivers-now-available/"><u>Nvidia's Newest RTX 2 Groove with Your Windows 11, 7 or 8 – Drivers Now Available</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-lines-equilibrium/"><u>Perfecting Visual Lines' Equilibrium</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precise-repair-swift-solution-to-amds-tarkov-glitch/"><u>Precise Repair: Swift Solution to AMD's Tarkov Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quelling-windows-10-screen-blink/"><u>Quelling Windows 10 Screen Blink</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-laptop-monitor-horizontal-line-distortion-quickly/"><u>Rectify Laptop Monitor Horizontal Line Distortion Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-glitch-in-windowsminecraft/"><u>Resolve Graphics Glitch in Windows/Minecraft</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/shop-smart-score-big-savings-on-apples-airtags-in-a-4-pack-for-24-less-this-labor-day-find-out-more-on-zdnet/"><u>Shop Smart: Score Big Savings on Apple's AirTags in a 4-Pack for $24 Less This Labor Day - Find Out More on ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-comprehensive-discussion-googles-podcast-uncovered/"><u>[New] In 2024, Comprehensive Discussion Google's Podcast Uncovered</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-visionary-studio-guide-detailed-xreviewers-digest/"><u>[New] The Visionary Studio Guide Detailed XReviewer's Digest</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-spectacle-10-tweets-to-watch/"><u>[Updated] The Social Spectacle 10 Tweets To Watch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/awaken-your-lenovos-screen/"><u>Awaken Your Lenovo's Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-intel-and-nvidia-graphics-failure/"><u>Correcting Intel & Nvidia Graphics Failure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-insights-you-should-know-before-investing-in-a-smart-ring/"><u>Essential Insights You Should Know Before Investing in a Smart Ring</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-non-displayed-full-screen-in-win11/"><u>Fixing Non-Displayed Full Screen in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-trouble-signaled-by-tdr-smoothed-out-by-nvidia/"><u>GPU Trouble Signaled By TDR — Smoothed Out By NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hd-rendering-repaired-error-22/"><u>HD Rendering Repaired - Error 22</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-making-movies-magical-the-use-of-youtube-music-in-videos/"><u>In 2024, Making Movies Magical The Use of YouTube Music in Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-x8b-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor X8b to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-miracle-hasty-solution-to-loss-of-signal/"><u>Monitor Miracle: Hasty Solution to Loss of Signal</u></a></li>
+<li><a href="https://howto.techidaily.com/motorola-edge-40-neo-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Neo Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/settled-nvidia-fatality-rate/"><u>Settled Nvidia Fatality Rate</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streaming-woes-resolved-in-windows-10-update/"><u>Streaming Woes Resolved in Windows 10 Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-changes-in-applen-first-visionos-update-a-deep-dive-into-revamped-personalizations-and-new-features-insights-from-zdnet/"><u>Unveiling Changes in Apple'n First VisionOS Update: A Deep Dive Into Revamped Personalizations & New Features | Insights From ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211383386--you-are-not-your-trauma-healing-journal/"><u>You Are Not Your Trauma Healing Journal | Free Book</u></a></li>
 </ul></div>
 

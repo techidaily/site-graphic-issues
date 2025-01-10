@@ -1,7 +1,7 @@
 ---
 title: OpenGL & TDR Alert Overcome - Thanks to NVIDIA!
-date: 2024-12-30T09:49:55.500Z
-updated: 2025-01-02T18:00:58.561Z
+date: 2025-01-08T08:13:48.518Z
+updated: 2025-01-10T00:28:06.148Z
 tags:
   - win11
   - win10
@@ -20,12 +20,20 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Update your NVIDIA graphics driver](#m1)**
 2. **[Change the timeout of NVIDIA graphics card](#m2)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you might concern…
 
@@ -53,13 +61,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
@@ -79,11 +87,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -98,7 +106,7 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
@@ -108,17 +116,9 @@ See how to do it:
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,21 +144,15 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-discover-the-power-of-mycam-recording-features-for-2024/"><u>[New] Discover the Power of MyCam Recording Features for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-free-high-quality-the-best-srt-translation-tools-ranked/"><u>[Updated] Free, High-Quality The Best SRT Translation Tools Ranked</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>[Updated] In 2024, Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>2024 Approved Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/catalyzing-stalled-gpu-fans-back-into-motion/"><u>Catalyzing Stalled GPU Fans Back Into Motion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-success-how-do-these-7-advanced-ai-apps-leverage-gpt-4/"><u>Decoding the Success: How Do These 7 Advanced AI Apps Leverage GPT-4?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easing-big-windows-11-resolution-issue/"><u>Easing Big Windows 11 Resolution Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-utilizing-google-home-smartphone-and-tablet-apps-from-your-desktop/"><u>Guide: Utilizing Google Home Smartphone & Tablet Apps From Your Desktop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g34-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Motorola Moto G34 5G.</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-navigating-full-hd-display-on-twitter-videos/"><u>In 2024, Navigating Full HD Display on Twitter Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-failure-with-bg-black/"><u>Monitor Failure with BG-Black</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-challenges-while-ensuring-computer-survival/"><u>Overcoming GPU Challenges While Ensuring Computer Survival</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-nvidiaintel-hybrid-card-problems-in-windows/"><u>Tackling NVIDIA/Intel Hybrid Card Problems in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-screen-stillness-manifesto-banish-flickering/"><u>The Screen Stillness Manifesto: Banish Flickering</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-resolved-gpu-issues-in-latest-laptop-model/"><u>Win11 Resolved GPU Issues in Latest Laptop Model</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-list-films-must-watch-channel-compilation/"><u>[New] In 2024, A-List Films Must-Watch Channel Compilation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-video-cameras-expert-reviews/"><u>[New] Top 20 Video Cameras – Expert Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-resolve-grainy-videos-sharpening-feed-and-playback-quality-online/"><u>[Updated] In 2024, Resolve Grainy Videos Sharpening Feed & Playback Quality Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-headphone-interference-fast-fixes-for-noise-free-listening-experience/"><u>End Headphone Interference: Fast Fixes for Noise-Free Listening Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/expert-insights-on-asus-rt-ac68u-revolutionizing-home-networking-with-lightning-fast-and-robust-5g-wireless/"><u>Expert Insights on Asus RT-AC68U: Revolutionizing Home Networking with Lightning Fast and Robust 5G Wireless</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/in-depth-assessment-the-pros-and-cons-of-googles-latest-smartphone-pixel/"><u>In-Depth Assessment: The Pros and Cons of Google's Latest Smartphone - Pixel 지점</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-repairing-windows-11-help-tool/"><u>Quick Guide: Repairing Windows 11 Help Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-rise-of-the-tomb-raider-ring-of-elysium-crash-issues/"><u>Step-by-Step Guide to Fixing Rise of the Tomb Raider (Ring of Elysium) Crash Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-ultimate-review-of-cubefit-terramat-unlocking-active-living-from-anywhere-with-just-a-stand/"><u>The Ultimate Review of CubeFit TerraMat: Unlocking Active Living From Anywhere with Just a Stand</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-adventure-with-the-top-race-rc-rock-crawler-all-terrain-beast/"><u>Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now"
-date: 2025-01-02T13:17:46.628Z
-updated: 2025-01-02T23:42:26.861Z
+date: 2025-01-05T21:19:04.815Z
+updated: 2025-01-10T02:01:49.366Z
 tags:
   - win11
   - win10
@@ -52,7 +52,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -62,10 +62,6 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -73,10 +69,6 @@ There’re mainly two ways for you to update an audio driver:
  1) Right-click the volume icon and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
 
@@ -91,10 +83,14 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -106,12 +102,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
@@ -137,18 +137,24 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>[New] In 2024, Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-iphone-hdr-photography-for-professional-results/"><u>[New] In 2024, Mastering iPhone HDR Photography for Professional Results</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-compatibility-with-minimal-hardware/"><u>Achieving Compatibility with Minimal Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/contract-window-sizing-in-win-10/"><u>Contract Window Sizing in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-window-flip-windows-11s-display-issue/"><u>Correct Window Flip: Windows 11'S Display Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-monitor-intermittent-screenshots/"><u>Fixing Laptop Monitor Intermittent Screenshots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals/"><u>In 2024, The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>In 2024, Unlock the Value of Viewership A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-dead-pixels-on-displays/"><u>Overcome Dead-Pixels on Displays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snapedit-101-simple-steps-to-stunning-photos-for-2024/"><u>Snapedit 101 Simple Steps to Stunning Photos for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96028120-9781620552865-the-dharma-method/"><u>The Dharma Method | Free Book</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-most-compelling-free-ae-design-samples/"><u>The Most Compelling Free AE Design Samples</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-path-to-perfect-presence-on-zoom-platforms-for-2024/"><u>The Path to Perfect Presence on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-art-of-video-grading-a-practical-handbook/"><u>[Updated] 2024 Approved The Art of Video Grading A Practical Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[Updated] Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ideal-picks-9-best-video-calling-apps-for-androidios-business-needs/"><u>2024 Approved Ideal Picks 9 Best Video Calling Apps for Android/iOS Business Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-streamlined-3d-graphics/"><u>Enhancing Gameplay: Streamlined 3D Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-compatibility-drivers-for-lenovo-ideapad-y470/"><u>Essential Compatibility Drivers for Lenovo IdeaPad Y470</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-vast-visuals-with-affordable-400-xr-glasses-for-immersive-gaming-and-movie-viewing-zdnet/"><u>Experience Vast Visuals with Affordable $400 XR Glasses for Immersive Gaming & Movie Viewing - ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-pc-not-detecting-gpu/"><u>How to Fix PC Not Detecting GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nix-amds-graphics-issue-in-tarkov-fastly/"><u>Nix AMD's Graphics Issue in Tarkov Fastly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818259363-opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhaul-black-screen-in-win11-after-update-fall/"><u>Overhaul Black Screen in Win11 After Update Fall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-window-11-media-quality-post-upgrade/"><u>Rectifying Window 11 Media Quality Post-Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sms-insight-techniques-to-know-if-someone-reads-your-texts/"><u>SMS Insight: Techniques to Know If Someone Reads Your Texts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-to-salvage-display-settings-on-windows-versions-7-and-10-fix/"><u>Steps to Salvage Display Settings on Windows Versions 7 & 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-handling-gpu-errors-without-pause-in-use/"><u>Strategies for Handling GPU Errors without Pause in Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/superior-performance-on-the-rise-upgraded-drivers-for-amd-hd-6950/"><u>Superior Performance on the Rise: Upgraded Drivers for AMD HD 6950</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-capabilities-does-the-apple-watch-series-n-support-blood-pressure-monitoring-according-to-zdnet/"><u>Unpacking the Capabilities: Does the Apple Watch Series N Support Blood Pressure Monitoring According to ZDNet?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-smooth-zoom-recording-tech-fixes-of-today/"><u>Unveiling Smooth Zoom Recording: Tech Fixes of Today</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-earning-excellence-mastering-youtube-monetization-anywhere-for-2024/"><u>Video Earning Excellence Mastering YouTube Monetization Anywhere for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visual-voice-expressing-through-deformed-photovideo-texts/"><u>Visual Voice Expressing Through Deformed Photo/Video Texts</u></a></li>
 </ul></div>
 

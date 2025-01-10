@@ -1,7 +1,7 @@
 ---
 title: Rectifying Civ 5 Malfunctions PC
-date: 2025-01-01T23:58:17.896Z
-updated: 2025-01-02T16:14:27.335Z
+date: 2025-01-06T03:47:58.158Z
+updated: 2025-01-10T07:11:06.185Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for the CIV 5 crashing problem
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -47,10 +43,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -68,13 +72,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and then launch CIV 5 to see if the**CIV 5 crashing** problem has been fixed. If yes, then congrats! But if the problem persists, don’t worry, here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Install the latest DirectX**
 
@@ -86,10 +90,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13969f3e441.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
  **To update the DirectX to the latest version on your computer:**
@@ -98,12 +98,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Run CIV 5 in Steam and see if the crashing problem has been fixed.
 
@@ -128,20 +128,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-boost-engagement-by-personalizing-your-twitter-videos-with-new-thumbnails/"><u>[New] Boost Engagement by Personalizing Your Twitter Videos with New Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify/"><u>[New] Steps to Decline Autoplayed and Suggested Podcasts on Spotify</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-7-instagram-money-sources-a-comprehensive-guide-for-2024/"><u>[New] Top 7 Instagram Money Sources - A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synchronizing-melodies-with-inshot-clips/"><u>2024 Approved Synchronizing Melodies with InShot Clips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/address-sideways-screens-in-windows-10-fix/"><u>Address Sideways Screens in Windows 10 [Fix]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cease-window-11-screen-flashing/"><u>Cease Window 11 Screen Flashing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-apple-airpods-microphone-glitches-in-windows-11/"><u>Expert Tips for Fixing Apple AirPods Microphone Glitches in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-6s-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 6s online without SIM Card?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-viewport-tilt-resolved/"><u>Laptop Viewport Tilt Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-game-lag/"><u>Quick Fix for Game Lag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-display-skew-issues/"><u>Rectifying Display Skew Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-power-to-silent-displayport-connection/"><u>Restore Power to Silent DisplayPort Connection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-mpeg-streamer-issues-on-latest-win11/"><u>Tackling MPEG Streamer Issues on Latest Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-10-accessory-collection-for-sj4000/"><u>The Ultimate 10 Accessory Collection for SJ4000</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-picture-in-picture-made-easy-a-beginners-guide-to-fcp-video-editing/"><u>Updated Picture-in-Picture Made Easy A Beginners Guide to FCP Video Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-10-stress-relieving-games/"><u>[New] 2024 Approved Top 10 Stress Relieving Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-easy-tweaks-changing-fishy-vocal-patterns-on-windows-for-2024/"><u>[New] Easy Tweaks Changing Fishy Vocal Patterns on Windows for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-best-4k-laptops-ultimate-gaming-edition/"><u>[New] In 2024, Best 4K Laptops - Ultimate Gaming Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-amd-graphics-card-not-detected-windows-10/"><u>[Solved] AMD Graphics Card Not Detected Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-amd-graphics-card-not-detected-windows-11/"><u>[Solved] AMD Graphics Card Not Detected Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-boosting-zoom-image-resolution-expert-advice/"><u>[Updated] In 2024, Boosting Zoom Image Resolution Expert Advice</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-13-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi 13 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/apparition-camera-control-workshop-for-2024/"><u>Apparition Camera Control Workshop for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-15-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 15 without Security Questions?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-gtx/"><u>Resolving the GTX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-the-post-update-black-screen-issue-on-your-windows-10-device/"><u>Resolving the Post-Update Black Screen Issue on Your Windows 10 Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/story-2-the-confusion-over-cubital-tunnel-syndrome/"><u>Story 2: The Confusion over Cubital Tunnel Syndrome</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-and-fix-nvidia-gtx-950-error-code-43-in-windows-11-a-step-by-step-solution/"><u>Troubleshoot and Fix NVIDIA GTX 950 Error Code 43 in Windows 11: A Step-by-Step Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-exploring-functionality-and-troubleshooting/"><u>Understanding Vulkan Runtime Libraries – Exploring Functionality & Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-a-comprehensive-guide/"><u>Understanding Vulkan Runtime Libraries: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/wallet-friendly-skydock-sufficient-file-space/"><u>Wallet-Friendly SkyDock Sufficient File Space</u></a></li>
 </ul></div>
 

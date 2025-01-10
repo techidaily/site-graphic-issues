@@ -1,7 +1,7 @@
 ---
 title: "[RECOVERED]: Hidden Windows 10 Advanced Options"
-date: 2024-11-28T04:48:14.243Z
-updated: 2024-12-03T04:09:05.169Z
+date: 2025-01-06T01:49:55.943Z
+updated: 2025-01-10T06:54:57.085Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  A missing or outdated graphics card driver can lead to your advanced display settings missing in your computer. So updating your video card driver is always a go-to option to fix the problem.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -72,31 +80,23 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-397.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
@@ -122,19 +122,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-tech-5-must-have-streaming-webcams-for-gamers/"><u>[Updated] 2024 Approved Essential Tech 5 Must-Have Streaming Webcams for Gamers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-hazy-days-no-more-ensuring-clean-gopro-images/"><u>2024 Approved Hazy Days No More Ensuring Clean GoPro Images</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-visuals-updated-drivers-roll-out-for-amd-hd-6950/"><u>Boost Your Visuals - Updated Drivers Roll-Out for AMD HD 6950</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-disposal-in-windows-instant-guide-for-graphics/"><u>Drive Disposal in Windows: Instant Guide for Graphics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-recover-from-a-libcurldll-not-detected-problem/"><u>Effective Techniques to Recover From a 'libcurl.dll Not Detected' Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enigmatic-dx-glitch-now-explained-legions-resolution/"><u>Enigmatic DX Glitch Now Explained - Legion's Resolution</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-6-top-mc-village-home-structures-unveiled/"><u>In 2024, 6 Top MC Village Home Structures Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-c110-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia C110 Is Unlocked</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-addressed-driver-returns-to-form/"><u>Nvidia Error Addressed - Driver Returns to Form</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-10/"><u>NVIDIA GeForce 210 Drivers Update for Windows 10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-platforms-securing-partnerships-with-youtube-content-creators-for-2024/"><u>Scout Platforms Securing Partnerships with YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/soulful-selection-candid-songs-that-perfectly-match-your-yes-for-2024/"><u>Soulful Selection Candid Songs that Perfectly Match Your 'Yes' For 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-clearer-picture-remove-borders-and-boost-recording-quality/"><u>The Clearer Picture Remove Borders and Boost Recording Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-creativity-in-content-generation-with-these-9-insider-secrets-of-chatgpt/"><u>Unleash Creativity in Content Generation with These 9 Insider Secrets of ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-inside-kinemaster-the-ultimate-guide-to-its-android-avatar/"><u>[New] 2024 Approved Inside KineMaster The Ultimate Guide to Its Android Avatar</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-apowersoft-screenshot-suite-comprehensive-free-analysis/"><u>[New] In 2024, Apowersoft Screenshot Suite Comprehensive Free Analysis</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-boosting-engagement-the-art-of-sharing-videos-on-instagram-for-2024/"><u>[Updated] Boosting Engagement The Art of Sharing Videos on Instagram for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-efficient-scratching-tool-for-chromeos/"><u>2024 Approved Efficient Scratching Tool for ChromeOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-video-quality-pc-and-mobile-filter-integration/"><u>2024 Approved Enhance Video Quality PC & Mobile Filter Integration</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adapting-hardware-capabilities-for-intell-graphic-use/"><u>Adapting Hardware Capabilities for Intell Graphic Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-graphics-card-functionality-update-gtx-1060/"><u>Boost Graphics Card Functionality, Update GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisp-screenscape-achieved-with-win11-fixes/"><u>Crisp Screenscape Achieved with Win11 Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/damping-down-display-dynamics-in-acer-systems/"><u>Damping Down Display Dynamics in Acer Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/deciphered-the-veiled-direct-x-discreprancy-in-legion/"><u>Deciphered the Veiled Direct X Discreprancy in Legion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-shadows-decoding-the-mysterious-dx-error-in-lol/"><u>Illuminating Shadows: Decoding the Mysterious DX Error in LoL</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-your-destiny-with-skyrim-the-ultimate-rpg-experience-on-nintendo-switch/"><u>Master Your Destiny with Skyrim - The Ultimate RPG Experience on Nintendo Switch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-insights-microsoft-surface-pro-8-evaluation-a-comprehensive-business-analysis-zdnet/"><u>Professional Insights: Microsoft Surface Pro 8 Evaluation - A Comprehensive Business Analysis | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-physics-problems-civilization-v-pc/"><u>Resolving Physics Problems, Civilization V PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-streaming-problems-on-windows-10-after-upgrade-solved/"><u>Video Streaming Problems on Windows 10 After Upgrade [Solved]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-makes-dts-virtual-x-the-ultimate-choice-for-surround-sound/"><u>What Makes DTS Virtual: X the Ultimate Choice for Surround Sound?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blackout-error-solved/"><u>Windows 10 Blackout Error Solved</u></a></li>
 </ul></div>
 

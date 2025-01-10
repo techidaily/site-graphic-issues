@@ -1,7 +1,7 @@
 ---
 title: ScreenOrientationFix Guide
-date: 2024-12-30T18:58:14.177Z
-updated: 2025-01-03T00:13:55.289Z
+date: 2025-01-04T00:06:05.605Z
+updated: 2025-01-10T02:42:22.808Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
  Is your**computer screen upside down** suddenly, and you don’t know what you’ve down to cause it?
 
  Don’t worry. This is a common Windows screen issue, and many people have resolved the computer screen upside down issue with the solutions in this post. So read on and get your Windows screen back on track.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to do if my computer is screen upside down?
 
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then try the keyboard shortcut combinations again to rotate your computer/laptop screen.
 
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
@@ -76,20 +76,20 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down and locate the**Display orientation** menu. Change the orientation to:**Landscape,** **Portrait** ,**Landscape** **(flipped)** , or **Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
  1) Click the**Start** button at the bottom left corner, and select**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912517899f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select**View by category** , and click**Adjust screen resolution** .
 
@@ -119,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
  Still no luck? Don’t be upset. There’s one more thing to try…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -148,6 +144,10 @@ There are two options to update drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer to take effect. Then check if your desktop screen works properly now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -173,18 +173,24 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-beyond-the-surface-what-you-dont-know-about-stories/"><u>[New] 2024 Approved Beyond the Surface What You Don't Know About Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-10-webcams-elevating-audio-quality-in-podcasts/"><u>[New] In 2024, Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/brighten-it-right-solutions-to-quiet-the-flicker/"><u>Brighten It Right: Solutions to Quiet the Flicker</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/deciphering-and-repairing-kernel-mode-violation-0x0000009f/"><u>Deciphering and Repairing Kernel-Mode Violation 0X0000009F</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-and-remove-drm-protection-from-azw-azw3-and-azw4-files-free-guide/"><u>Download and Remove DRM Protection From AZW, AZW3 & AZW4 Files: Free Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-decline-strategy-in-windows-tech-worlds/"><u>Drive Decline Strategy in Windows Tech Worlds</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-content-strategy-amplified-selective-rank-watcher-solutions/"><u>In 2024, Content Strategy Amplified Selective Rank Watcher Solutions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>In 2024, Transform Your Workflow Harnessing the Power of LUTs in Adobe Suite</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pinnacle-enterprise-data-vaulting-for-2024/"><u>Pinnacle Enterprise Data Vaulting for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resize-windows-monitor-in-win-10/"><u>Resize Windows Monitor in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-visual-output-for-upside-down-screens/"><u>Reverse Visual Output for Upside-Down Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-your-pc-graphic-drivers-removal-tips/"><u>Streamline Your PC: Graphic Drivers Removal Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-graphics-init-error-reported/"><u>System Graphics Init Error Reported</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-add-cinematic-shake-to-images-using-ps-for-2024/"><u>[New] Add Cinematic Shake to Images Using PS for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-the-art-of-caption-placement-in-multimedia-projects-for-youtube-for-2024/"><u>[New] Mastering the Art of Caption Placement in Multimedia Projects for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-digital-archivists-playbook-preserving-real-time-videos/"><u>[New] The Digital Archivist's Playbook Preserving Real-Time Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-power-play-the-ultimate-guide-to-selecting-lipos-for-uavs/"><u>[Updated] 2024 Approved Power Play The Ultimate Guide to Selecting LiPos for UAVS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-max-versus-hero-11-ultimate-review-guide/"><u>[Updated] GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>2024 Approved Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dampening-displays-fixing-pro-7-flashes/"><u>Dampening Displays: Fixing Pro 7 Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/identify-faulty-drivers-stop-crashes/"><u>Identify Faulty Drivers, Stop Crashes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-the-screens-top-10-most-popular-female-youtubers/"><u>In 2024, Breaking the Screens Top 10 Most Popular Female YouTubers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-your-asus-display-quell-screen-flashes/"><u>Master Your ASUS Display: Quell Screen Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastery-over-lenovo-display-glitches/"><u>Mastery Over Lenovo Display Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-on-win11-blackout-issue/"><u>Mouse on Win11 Blackout Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/override-sims-game-freeze/"><u>Override Sims Game Freeze</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-flickering-on-microsoft-surface-pro-7/"><u>Quelling Flickering on Microsoft Surface Pro 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-full-screen-display-on-monitors-win10/"><u>Resolve Full Screen Display On Monitors Win10</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-achieve-film-quality-video-a-step-by-step-guide-to-final-cut-pro-x/"><u>Updated In 2024, Achieve Film-Quality Video A Step-by-Step Guide to Final Cut Pro X</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-10-cant-find-the-pixma-mp620-printer-driver/"><u>Windows 10 Can't Find the Pixma MP620 Printer Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tips-how-to-reinstate-your-missing-system-enhancements/"><u>Windows 11 Tips: How to Reinstate Your Missing System Enhancements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-blue-screen-crisis-tackle-wdf-complaints/"><u>Windows Blue Screen Crisis: Tackle WDF Complaints</u></a></li>
 </ul></div>
 

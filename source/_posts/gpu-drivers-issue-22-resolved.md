@@ -1,7 +1,7 @@
 ---
 title: "GPU Drivers: Issue #22 Resolved"
-date: 2025-01-02T11:08:04.821Z
-updated: 2025-01-02T21:33:37.167Z
+date: 2025-01-09T01:40:52.819Z
+updated: 2025-01-09T21:56:32.560Z
 tags:
   - win11
   - win10
@@ -20,18 +20,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -49,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -60,10 +56,6 @@ Be careful you don’t mistype, or press the wrong keys!
  On desktop PCs, the CMOS battery is usually located in an exposed housing on the motherboard (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a desktop PC
 
@@ -78,11 +70,15 @@ Example – CMOS battery on a laptop
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -101,11 +97,15 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -129,20 +129,20 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-the-social-maze-avoiding-the-ban-on-fb/"><u>[New] Mastering the Social Maze Avoiding the Ban on FB</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo-for-2024/"><u>[New] The Ultimate Guide to Video Excellence & Staff Picks at Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-swift-transformation-video-aspects-to-mac-standard/"><u>[Updated] 2024 Approved Swift Transformation Video Aspects to Mac Standard</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-sweeping-visual-upgrades-with-instagrams-chroma-key-tooling-for-2024/"><u>[Updated] Sweeping Visual Upgrades with Instagram’s Chroma Key Tooling for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-the-pathway-ios-tips-for-instagram-content/"><u>2024 Approved Navigating the Pathway IOS Tips for Instagram Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-window-11s-display-a-settled-problem/"><u>Adjusting Window 11'S Display: A Settled Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-unclear-ui-details-in-far-cry-6/"><u>Clearing Unclear UI Details in Far Cry 6</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-top-7-ai-prompting-techniques-proven-to-deliver-results/"><u>Effective Strategies: Top 7 AI Prompting Techniques Proven to Deliver Results</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-razers-investment-in-a-local-electronics-company-bolsters-its-growth-in-indonesia-according-to-zdnet-coverage/"><u>How Razer's Investment in a Local Electronics Company Bolsters Its Growth in Indonesia, According to ZDNet Coverage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-windows-10-screen-performance/"><u>Mastering Windows 10 Screen Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-display-saving-dilemma-in-win-7-10-os-settled/"><u>Overcoming the Display Saving Dilemma in WIN 7-10 OS [Settled]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-power-issues-on-your-roku-television/"><u>Troubleshooting Guide: Solving Power Issues on Your Roku Television</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catching-video-ad-campaigns-top-creators-exposed-for-2024/"><u>[New] Eye-Catching Video Ad Campaigns Top Creators Exposed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dysfonctionnement-de-handbrake-sous-windows-11-solutions-et-alternatives-rapides/"><u>Dysfonctionnement De Handbrake Sous Windows 11 : Solutions Et Alternatives Rapides</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-iphones-capabilities-with-games-galore/"><u>Elevate Your iPhone's Capabilities with Games Galore</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-top-tier-lenovo-laptops-unveiled-at-mwc-the-ultimate-review-and-ranking/"><u>Exploring Top-Tier Lenovo Laptops Unveiled at MWC: The Ultimate Review & Ranking</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-failure-addressed-visual-display-ok/"><u>GPU Failure Addressed: Visual Display OK</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-quell-the-chaos-of-flickering-screens-on-win7/"><u>How to Quell the Chaos of Flickering Screens on Win7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-11-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On OnePlus 11 5G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-14-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 14</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/managing-big-display-on-win11-pc/"><u>Managing Big Display on Win11 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/patched-amds-graphics-issues-r9-now-fixed-on-w10/"><u>Patched AMD's Graphics Issues: R9 Now Fixed on W10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-msiexecexe-is-not-found-or-missing-msidll-a-step-by-step-guide/"><u>Resolving the Issue of 'msiexec.exe Is Not Found' Or 'Missing msi.dll': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-special.techidaily.com/securely-transitioning-from-windows-881-to-an-ssd-drive-a-comprehensive-guide/"><u>Securely Transitioning From Windows 8/8.1 to an SSD Drive: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turning-black-out-blank-screens-back-on-fast-asus/"><u>Turning Black-Out Blank Screens Back on, Fast! (Asus)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-video-glitches-resolution/"><u>Windows 10 Video Glitches Resolution</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-users-ultimate-guide-to-intel-optane-driver-installation-and-update-processes/"><u>Windows User's Ultimate Guide to Intel Optane Driver Installation & Update Processes</u></a></li>
 </ul></div>
 

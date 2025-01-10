@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 11 [Solved]
-date: 2025-01-01T00:08:22.878Z
-updated: 2025-01-03T06:48:06.377Z
+date: 2025-01-05T03:54:07.454Z
+updated: 2025-01-09T18:46:26.296Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  1) First, you need to download [**Display Driver Uninstaller**](http://download-eu2.guru3d.com/ddu/[Guru3D.com]-DDU.zip) . After the download, extract the setup file from the downloaded folder. Then double click the**Display Driver Uninstaller** file to get started. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -92,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -102,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -111,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
@@ -118,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,24 +155,24 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-what-is-mixed-reality/"><u>[New] In 2024, What Is Mixed Reality?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-terrain-trove-top-maps-for-treasure-seeking-for-2024/"><u>[New] Terrain Trove Top Maps for Treasure Seeking for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elite-gamers-showcase-premium-setups-unveiled-for-2024/"><u>[Updated] Elite Gamers' Showcase – Premium Setups Unveiled for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/advancements-in-ai-image-interpolation-for-improved-fps-and-seamless-visual-flows/"><u>Advancements in AI Image Interpolation for Improved FPS and Seamless Visual Flows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-your-epson-wf-7710-ready-on-windows-108187-driver-downloads-included/"><u>Easy Steps to Get Your Epson WF-7710 Ready on Windows 10/8.1/8/7 - Driver Downloads Included!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-on-how-to-bypass-the-c1900101-problem/"><u>Guide on How to Bypass the C1900101 Problem</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y200e 5G FRP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mute-monitor-mayhem-with-ease/"><u>Mute Monitor Mayhem with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-laptop-screen-what-are-my-options/"><u>No Laptop Screen: What Are My Options?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nokia-31-unveiled-an-ideal-beginners-journey-into-the-world-of-smartphones/"><u>Nokia 3.1 Unveiled: An Ideal Beginner's Journey Into the World of Smartphones</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/printer-wont-power-up-expert-guide-from-yl-software-to-fix-common-issues/"><u>Printer Won't Power Up? Expert Guide From YL Software to Fix Common Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-blackout-with-radeon/"><u>Screen Blackout with Radeon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-resurrection-quick-steps-to-reclaim-signal/"><u>Screen Resurrection: Quick Steps to Reclaim Signal</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-gpu-not-recognized-2020/"><u>System Alert: GPU Not Recognized [2020]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unblock-sims-screensaver-snag/"><u>Unblock Sims Screensaver Snag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818151303-unleash-peak-performance-windows-10-update-with-amd-graphics/"><u>Unleash Peak Performance: Windows 10 Update with AMD Graphics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-no-more-flickering-displays/"><u>Win11 No More Flickering Displays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-hindrance-in-halos-successful-launch/"><u>[FIXED] DX12 Hindrance in Halo's Successful Launch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games/"><u>[New] 2024 Approved Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[New] In 2024, Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-decoding-the-economic-riches-of-mr-beast-for-2024/"><u>[Updated] Decoding the Economic Riches of Mr. Beast for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-drone-vfx-essentials-free-luts-for-dji-drones-available/"><u>[Updated] In 2024, Drone VFX Essentials - Free LUTS for DJI Drones Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-cam-not-working-heres-how-to-fix-it/"><u>Asus Cam Not Working? Here's How To Fix It</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breeze-through-driver-removal-windows-method-guide/"><u>Breeze Through Driver Removal: Windows Method Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-freezing-while-watching-videos-post-upgrade/"><u>Combatting Freezing While Watching Videos Post-Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-fault-corrected-driver-functional/"><u>Graphics Fault Corrected: Driver Functional</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-8-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 8 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hush-harshly-humming-monitors/"><u>Hush Harshly Humming Monitors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-t2-pro-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo T2 Pro 5G Face Lock?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-diagonal-shift-corrected-successfully/"><u>Laptop's Diagonal Shift Corrected Successfully</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-python-basics-with-our-newbie-friendly-course-secure-your-spot-at-only-40-before-the-offer-ends-zdnet/"><u>Master Python Basics with Our Newbie-Friendly Course: Secure Your Spot at Only $40 Before the Offer Ends - ZDNet!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-monitor-brightness-problems/"><u>Resolving Lenovo Monitor Brightness Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-saves-quick-fixes-for-monitor-disconnection/"><u>Screen Saves: Quick Fixes for Monitor Disconnection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/otch-leaderboard-scrutinizer-for-vloggers-success-for-2024/"><u>Top-Notch Leaderboard Scrutinizer for Vlogger's Success for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-ranking-hd-video-compression-tools-ideal-choices-for-enhancing-your-hd-full-hd-qhd-2k-4k-and-8k-content/"><u>Top-Ranking HD Video Compression Tools: Ideal Choices for Enhancing Your HD, Full HD, QHD, 2K, 4K & 8K Content</u></a></li>
 </ul></div>
 

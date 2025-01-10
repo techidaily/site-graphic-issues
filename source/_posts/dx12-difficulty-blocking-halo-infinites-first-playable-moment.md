@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2024-12-31T02:47:47.586Z
-updated: 2025-01-03T05:32:00.619Z
+date: 2025-01-09T07:42:20.387Z
+updated: 2025-01-09T22:34:32.754Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -68,17 +72,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
@@ -115,17 +115,17 @@ You need to check 2 elements:
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -153,7 +153,7 @@ If this fix doesn’t work, move to the next one.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -178,20 +178,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-satire-building-parodies-online/"><u>[New] Understanding Satire Building Parodies Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-instagram-filter-selection-tips-for-the-year-2023-for-2024/"><u>[Updated] The Art of Instagram Filter Selection Tips for the Year 2023 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>[Updated] The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blackout-effect-driver-change/"><u>Blackout Effect: Driver Change</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fullscreen-missing-in-windows-10-monitor-view/"><u>Fullscreen Missing in Windows 10 Monitor View</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno ?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-civi-3-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Civi 3 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/memes-for-iphone/"><u>Memes for iPhone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-display-features-unlocked-on-windows-11/"><u>New Display Features Unlocked on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-11-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dark-mode-clearing-twitch-displays/"><u>Overcoming Dark Mode: Clearing Twitch Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-stuck-display-scales-solution-for-win11-users/"><u>Overcoming Stuck Display Scales: Solution for Win11 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-banish-win7-screen-flicker/"><u>Quick Fix: Banish Win7 Screen Flicker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/securing-the-clouds-key-strategies-every-organization-must-implement-according-to-zdnet-experts/"><u>Securing the Clouds: Key Strategies Every Organization Must Implement, According to ZDNet Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-troubleshooting-steps-to-fix-winwordexe-issues-instantly/"><u>Simple Troubleshooting Steps to Fix WINWORD.EXE Issues Instantly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-intense-evaluation-the-detailed-study-of-bublcam-360-for-2024/"><u>[Updated] Intense Evaluation The Detailed Study of Bublcam 360 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experiences-with-the-syma-x8c-drone/"><u>2024 Approved Experiences with the Syma X8C Drone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-power-your-websites-analytics-and-optimization/"><u>Cookiebot-Enhanced: Power Your Website's Analytics and Optimization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-ending-of-graphics-cards-in-windows/"><u>Effortless Ending of Graphics Cards in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-the-frustrating-pc-crash-of-fallout-4/"><u>End the Frustrating PC Crash of Fallout 4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-win-troubleshoot-complete-functioning-normally/"><u>GFXUI Win Troubleshoot Complete, Functioning Normally</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ghostly-gtx-displayed-by-device-hub/"><u>Ghostly GTX Displayed by Device Hub</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-find-x6-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Find X6 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/right-orientation-fix-in-win7-mode/"><u>Right Orientation Fix in Win7 Mode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-transition-new-driver-for-win11-and-intel-graphic-card/"><u>Smooth Transition: New Driver for Win11 & Intel Graphic Card</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-triple-monitor-display-with-pc/"><u>Step-by-Step Guide: Setting Up Your Triple Monitor Display with PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818132567-streaming-on-windows-10-after-upgrade-secured/"><u>Streaming on Windows 10 After Upgrade Secured!</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-most-innovative-5k-screens-ranked-8/"><u>The Most Innovative 5K Screens Ranked #8</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-10-cheapbudget-friendly-action-cameras/"><u>Top 10 Cheap/Budget Friendly Action Cameras</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-flashing-lcd-on-hp-systems/"><u>Troubleshooting Flashing LCD on HP Systems</u></a></li>
 </ul></div>
 

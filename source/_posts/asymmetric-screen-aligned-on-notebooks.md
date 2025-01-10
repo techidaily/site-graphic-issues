@@ -1,7 +1,7 @@
 ---
 title: Asymmetric Screen Aligned on Notebooks
-date: 2024-12-06T02:28:12.694Z
-updated: 2024-12-10T00:31:56.624Z
+date: 2025-01-08T03:01:07.285Z
+updated: 2025-01-10T03:57:16.214Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 1. [**Restore your laptop screen with a keyboard shortcut**](#a)
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -38,10 +38,6 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -52,17 +48,21 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
 
@@ -81,7 +81,7 @@ This should restore your laptop screen.
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -105,21 +105,18 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-enabling-pip-for-youtube-viewing-on-your-iphone/"><u>[New] 2024 Approved Enabling PIP for YouTube Viewing on Your iPhone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-firefoxs-popup-window-magic/"><u>[New] 2024 Approved Mastering Firefox's Popup Window Magic</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-5-best-photo-video-maker-with-music-for-2024/"><u>[New] 5 Best Photo Video Maker With Music for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-for-nocturnal-photography-success-for-2024/"><u>[Updated] Best Practices for Nocturnal Photography Success for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-apemp4/"><u>1. APE到MP4自由下载：移动瓦皮转换器 - 用户友好型压缩视频格式</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-20-trending-memes-reddit-vs-twitter/"><u>2024 Approved Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-deleting-profiles-in-windows-nvme-storage-with-revos-tools/"><u>Complete Tutorial on Deleting Profiles in Windows Nvme Storage with Revo's Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-intel-3000-driver-fix-for-windows-10-users/"><u>Effortless Intel 3000 Driver Fix for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-screen-flip-mishap/"><u>Ending Windows 10 Screen Flip Mishap</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-performance-upgrade-intel-3000-on-windows-11/"><u>Enhance Performance: Upgrade Intel 3000 on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/integrating-the-latest-intel-gpu-software-on-windows/"><u>Integrating the Latest Intel GPU Software on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/real-time-fix-for-jittery-videos/"><u>Real-Time Fix for Jittery Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/refinement-of-greenscreen-footage-a-video-editors-mantra/"><u>Refinement of Greenscreen Footage: A Video Editor’s Mantra</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remediation-of-cominterface-error-windows-edition/"><u>Remediation of COMInterface Error, Windows Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175707767-unleash-next-level-chill-the-iconic-return-of-the-noctua-nh-d12l-in-stunning-black-just-99/"><u>Unleash Next-Level Chill: The Iconic Return of the Noctua NH-D12L in Stunning Black - Just $99!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-consumer-reviews-for-youtube-wealth-creation-for-2024/"><u>[Updated] Leveraging Consumer Reviews for YouTube Wealth Creation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-a-compelling-video-story-with-b-roll-variety/"><u>2024 Approved Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-complete-resource-for-aspiring-xbox-streaming-pros-for-2024/"><u>A Complete Resource for Aspiring Xbox Streaming Pros for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-detection-driver-fixed-in-windows-10/"><u>AMD: Detection Driver Fixed in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-new-deal-the-m2-macbook-air-now-a-steal-at-799-beating-the-upcoming-prime-day-rush/"><u>Apple's New Deal: The M2 MacBook Air Now a Steal at $799, Beating the Upcoming Prime Day Rush!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-stuck-on-black-window-fixed/"><u>Cursor Stuck on Black Window [FIXED]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284189248-dvd/"><u>DVD画像・映像効率よくスマートフォンへ移行する究極のガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-microphone-and-speakers-work-properly-on-zoom-calls-with-a-windows-pc/"><u>How to Ensure Your Microphone and Speakers Work Properly on Zoom Calls with a Windows PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-v27e-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo V27e? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818332029-realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-changing-screen-dpi-in-newest-win11-version/"><u>Secure Changing Screen DPI in Newest Win11 Version</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-gaming-experience/"><u>Streamline Your Gaming Experience</u></a></li>
 </ul></div>
 

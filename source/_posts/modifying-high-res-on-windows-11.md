@@ -1,7 +1,7 @@
 ---
 title: Modifying High Res on Windows 11
-date: 2024-12-07T21:32:29.405Z
-updated: 2024-12-10T05:08:19.687Z
+date: 2025-01-06T03:52:54.368Z
+updated: 2025-01-10T05:14:04.143Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 1. **[Change your screen resolution](#F1)**
 2. [**Update your display driver**](#F2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change your screen resolution**
 
  Sometimes you get big display because you’ve changed the screen resolution on your computer, knowingly or unknowingly. To make sure it’s the recommended resolution:
@@ -37,25 +33,25 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e21ce4cd4.jpg)
 2. Under**Resolution** , click**the drop-down menu** and make sure you’ve chosen the**Recommended** screen resolution.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e27ee9b46.jpg)
 3. Click**Keep changes** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e308683d2.jpg)
 4. Check your screen and see if the **Windows 10 display too big** problem is solved. If yes, then congrats! But if it’s no joy, please move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your display driver**
 
@@ -71,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee46484b2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee5440679.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -105,17 +105,18 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace-for-2024/"><u>[New] A Guide to Formulating Successful Product Sponsorships in YouTubespace for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-xs-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone XS Max When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/curtailing-the-choreography-of-a-flickering-display/"><u>Curtailing the Choreography of a Flickering Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ease-up-end-flashing-in-win11/"><u>Ease Up: End Flashing in Win11</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/high-quality-ferrari-f60-american-edition-backgrounds-by-yl-computing-premium-digital-artwork-and-desktop-decor/"><u>High-Quality Ferrari F60 American Edition Backgrounds by YL Computing: Premium Digital Artwork & Desktop Decor</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211128641-9798888517505-next-a-little-guide-about-moving-forward-from-imposter-syndrome-fear-perfectionism-and-certainty/"><u>NEXT: A Little Guide About Moving Forward from Imposter Syndrome, Fear, Perfectionism, and Certainty | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-slate-easy-driver-removal-procedures/"><u>Simple Slate: Easy Driver Removal Procedures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818121158-tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winstability-enhanced-solve-blue-screen-with-wdf-errors/"><u>WinStability Enhanced: Solve Blue Screen with WDF Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-streamlining-social-media-multiplying-instagram-posts-via-photos-and-videos/"><u>[New] 2024 Approved Streamlining Social Media Multiplying Instagram Posts via Photos & Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-ios-the-secrets-of-screen-casts/"><u>[New] In 2024, Mastering iOS The Secrets of Screen Casts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-p40-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel P40</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-device-recognition-for-synapse-and-razers-in-win-11/"><u>Enhancing Device Recognition for Synapse and Razers in Win 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-reversed-screens-in-windows-11/"><u>Fixing Reversed Screens in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-prime-video-picks-the-extreme-favorites/"><u>In 2024, Prime Video Picks The Extreme Favorites</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>In 2024, The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterpiece-creation-in-ae-with-top-tier-plugin-selection-for-2024/"><u>Masterpiece Creation in AE with Top-Tier Plugin Selection for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-process-securing-admin-rights-from-trustedinstaller-in-windows-10/"><u>Navigating the Process: Securing Admin Rights From TrustedInstaller in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-warped-graphics-in-win11/"><u>No More Warped Graphics in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-buffer-issues-with-ease/"><u>Resolve Buffer Issues with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-interoperability-failure-on-windows-10/"><u>Tackling Interoperability Failure on Windows 10</u></a></li>
 </ul></div>
 

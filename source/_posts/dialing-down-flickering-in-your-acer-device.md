@@ -1,7 +1,7 @@
 ---
 title: Dialing Down Flickering in Your Acer Device
-date: 2024-12-20T23:11:07.311Z
-updated: 2024-12-24T18:01:13.935Z
+date: 2025-01-02T17:01:17.811Z
+updated: 2025-01-10T06:09:45.581Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
@@ -67,7 +63,7 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Advanced settings** .
@@ -75,20 +71,20 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -102,7 +98,7 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -122,6 +118,10 @@ Here is how to change the screen refresh rate:
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -153,20 +153,20 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 12 mini? Find the Best Solution Here</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-impactful-youtube-thumbnails-and-ads/"><u>Creating Impactful YouTube Thumbnails & Ads</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-the-frustrating-pc-crash-of-fallout-4/"><u>End the Frustrating PC Crash of Fallout 4</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y71-phone-without-pin-by-drfone-android/"><u>How to Unlock Huawei Nova Y71 Phone without PIN</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-personalized-cost-free-epilogue-soundscape-creation/"><u>In 2024, Personalized, Cost-Free Epilogue Soundscape Creation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lighting-up-windows-11s-dark-side-after-creators/"><u>Lighting Up Windows 11'S Dark Side After Creator's</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468489202-lost-iphone-app-permanently-removed-heres-how-you-can-restore-them/"><u>Lost iPhone App Permanently Removed? Here's How You Can Restore Them</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-rtx-3080-game-errors/"><u>Prevent RTX 3080 Game Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proactive-approach-to-update-intel-gfx-software-win7/"><u>Proactive Approach to Update Intel Gfx Software (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-no-signal-port-without-frustration/"><u>Revive No-Signal Port Without Frustration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-transition-new-driver-for-win11-and-intel-graphic-card/"><u>Smooth Transition: New Driver for Win11 & Intel Graphic Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-restoring-color-on-asus-gadgets/"><u>Step-by-Step: Restoring Color on Asus Gadgets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-vegas-pros-latest-features-in-21-for-2024/"><u>The Ultimate Guide to Vegas Pro's Latest Features in '21 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y27-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y27 4G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-a-thorough-analysis-elevating-video-recording-with-obs/"><u>[New] 2024 Approved A Thorough Analysis Elevating Video Recording with OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-leading-cloud-capacity-options-reviewed/"><u>[New] In 2024, Leading Cloud Capacity Options Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expertly-choosing-the-best-screen-snipers-on-windows-for-2024/"><u>[Updated] Expertly Choosing The Best Screen Snipers on Windows for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-vga-display-faults-pc/"><u>Address VGA Display Faults (PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blue-screen-dxgkrnlsys-bsod-explained-and-resolved/"><u>Blue Screen: dxgkrnl.sys BSoD Explained & Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/critical-dxgkrnlsys-bsod-in-windows-addressed/"><u>Critical dxgkrnl.sys BSoD in Windows Addressed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-device-not-found/"><u>Graphics Failure: Device Not Found</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/iphone-cinematic-techniques-top-8-strategies-for-ultimate-video-quality-for-2024/"><u>IPhone Cinematic Techniques Top 8 Strategies for Ultimate Video Quality for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-social-media-enhancing-your-facebook-page-position-for-2024/"><u>Mastering Social Media Enhancing Your Facebook Page Position for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-geforce-on-windows-11-now-works/"><u>Nvidia GeForce on Windows 11 - Now Works!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/stream-friendly-free-tunes-vault-fb/"><u>Stream-Friendly Free Tunes Vault (FB)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-enigmatic-dx-error-explained-lol-armistice/"><u>The Enigmatic DX Error Explained - LoL Armistice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-latency-for-pristine-streams/"><u>Trim Latency for Pristine Streams</u></a></li>
 </ul></div>
 
